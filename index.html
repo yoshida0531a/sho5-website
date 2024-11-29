@@ -9,39 +9,75 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            text-align: center;
             background-color: #f9f9f9;
+            text-align: center;
         }
-        header {
-            background-color: #333;
-            color: white;
-            padding: 1em 0;
+        main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
         }
         img {
-            max-width: 100%;
+            max-width: 90%;
             height: auto;
-            margin-top: 20px;
+            border-radius: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
         footer {
             background-color: #333;
             color: white;
             padding: 1em 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+        }
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .social-icons a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .social-icons img {
+            width: 32px;
+            height: 32px;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Shogobot Home</h1>
-    </header>
     <main>
         <p>Welcome to the Shogobot website!</p>
+        <!-- 画像部分 -->
         <img src="./assets/images/top.jpg" alt="shogo">
+        
+        <!-- 将来的に画像の代わりに使用する動画の例（コメントアウト済み） -->
+        <!-- 
+        <video 
+            class="wp-block-cover__video-background intrinsic-ignore" 
+            autoplay 
+            muted 
+            loop 
+            playsinline 
+            src="https://lightning-g3.hp1.work/wp-content/uploads/2021/09/Cat-66004.mp4" 
+            style="max-width: 90%; border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        </video>
+        -->
     </main>
     <footer>
-        <p>&copy; 2024 Shogobot</p>
+        <div class="social-icons">
+            <a href="https://line.me/" target="_blank">
+                <img src="./assets/icons/line-icon.png" alt="LINE">
+            </a>
+            <a href="https://www.flickr.com/" target="_blank">
+                <img src="./assets/icons/flickr-icon.png" alt="Flickr">
+            </a>
+            <a href="https://www.youtube.com/" target="_blank">
+                <img src="./assets/icons/youtube-icon.png" alt="YouTube">
+            </a>
+        </div>
+        <p>Copyright Akira Yoshida</p>
     </footer>
 </body>
 </html>
