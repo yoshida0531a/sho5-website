@@ -25,13 +25,13 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             background-color: white;
         }
-        .video {
+        .video, .image {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            object-fit: cover;
+            object-fit: contain; /* 余白を付けて収まるように調整 */
         }
         .overlay-links {
             position: absolute;
@@ -53,8 +53,8 @@
         }
         footer {
             position: absolute;
-            bottom: 30px; /* 余白調整 */
-            right: 70px; /* さらに内側に移動 */
+            bottom: 60px; /* 内側に余白を追加 */
+            right: 30px; /* さらに内側に移動 */
             color: white;
             font-size: 0.8rem;
             font-family: "Poppins", "Segoe UI", sans-serif;
@@ -63,23 +63,33 @@
             border-radius: 5px;
         }
         @media (max-width: 768px) {
+            .image {
+                display: block;
+            }
             .video {
-                content: url('./assets/images/top_mobile.jpg');
+                display: none; /* モバイルでは動画を非表示に */
             }
         }
         @media (min-width: 769px) {
+            .image {
+                display: none; /* PC・タブレットでは画像を非表示に */
+            }
             .video {
-                content: url('./assets/images/top_pc.jpg');
+                display: block;
             }
         }
     </style>
 </head>
 <body>
     <main>
+        <!-- 動画 -->
         <video class="video" autoplay muted loop playsinline>
             <source src="https://lightning-g3.hp1.work/wp-content/uploads/2021/09/Cat-66004.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
+        <!-- モバイル用画像 -->
+        <img class="image" src="./assets/images/top_mobile.jpg" alt="Mobile View">
+        <!-- メニュー -->
         <div class="overlay-links">
             <a href="https://line.me/" target="_blank">・LINE公式アカウント</a>
             <a href="https://www.flickr.com/" target="_blank">・Flickr</a>
