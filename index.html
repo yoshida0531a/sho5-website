@@ -14,17 +14,16 @@
             align-items: center;
             height: 100vh;
             background-color: #f0f0f0;
-            overflow: hidden; /* スクロールを防止 */
+            overflow: hidden;
         }
         main {
             position: relative;
-            width: 100vw;
-            height: 100vh;
-            max-width: 100%;
-            max-height: 100%;
+            width: 90vw; /* 画面幅の90%を使用 */
+            height: 90vh; /* 画面高さの90%を使用 */
             border-radius: 20px; /* 四隅を丸くする */
             overflow: hidden; /* 丸い角から画像がはみ出さないように */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 影をつける */
+            background-color: white; /* 背景色（必要に応じて変更可能） */
         }
         .background {
             position: absolute;
@@ -36,11 +35,11 @@
         }
         .overlay-links {
             position: absolute;
-            bottom: 20px;
-            left: 20px;
+            top: 20px; /* 上に配置 */
+            left: 20px; /* 左に配置 */
             color: white;
-            font-size: 1rem;
-            font-family: "Segoe UI", sans-serif; /* 柔らかい印象のフォント */
+            font-size: 1.2rem; /* フォントサイズを少し大きく */
+            font-family: "Poppins", "Segoe UI", sans-serif; /* 丸みを帯びたフォント */
             text-align: left;
         }
         .overlay-links a {
@@ -58,6 +57,7 @@
             right: 20px;
             color: white;
             font-size: 0.7rem; /* 小さめのフォントサイズ */
+            font-family: "Poppins", "Segoe UI", sans-serif; /* メニューと統一したフォント */
         }
         /* スマホ用スタイル */
         @media (max-width: 768px) {
@@ -83,7 +83,7 @@
         </div>
     </main>
     <footer>
-        <p>Copyright Akira Yoshida</p>
+        <p>Copyright 2019-2024 Akira Yoshida</p>
     </footer>
 </body>
 </html>
