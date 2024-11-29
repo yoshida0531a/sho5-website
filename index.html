@@ -9,32 +9,37 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
             overflow: hidden; /* スクロールを防止 */
         }
         main {
             position: relative;
             width: 100vw;
             height: 100vh;
-            background: url('./assets/images/top_pc.jpg') no-repeat center center; /* デフォルトでPC用画像 */
-            background-size: cover; /* 画面全体にフィット */
-            border-radius: 20px; /* 四隅を丸く */
-            overflow: hidden; /* 内容がはみ出さないように */
-            margin: 20px; /* ページの余白を追加 */
+            max-width: 100%;
+            max-height: 100%;
+            border-radius: 20px; /* 四隅を丸くする */
+            overflow: hidden; /* 丸い角から画像がはみ出さないように */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 影をつける */
         }
-        /* スマホ用スタイル */
-        @media (max-width: 768px) {
-            main {
-                background: url('./assets/images/top_mobile.jpg') no-repeat center center; /* スマホ用画像 */
-                background-size: cover;
-            }
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* 画面にジャストフィット */
         }
         .overlay-links {
             position: absolute;
             bottom: 20px;
             left: 20px;
             color: white;
-            font-size: 1rem; /* フォントサイズを拡大 */
+            font-size: 1rem;
             font-family: "Segoe UI", sans-serif; /* 柔らかい印象のフォント */
             text-align: left;
         }
@@ -54,10 +59,23 @@
             color: white;
             font-size: 0.7rem; /* 小さめのフォントサイズ */
         }
+        /* スマホ用スタイル */
+        @media (max-width: 768px) {
+            .background {
+                content: url('./assets/images/top_mobile.jpg'); /* スマホ用画像 */
+            }
+        }
+        /* PC用スタイル */
+        @media (min-width: 769px) {
+            .background {
+                content: url('./assets/images/top_pc.jpg'); /* PC用画像 */
+            }
+        }
     </style>
 </head>
 <body>
     <main>
+        <img class="background" src="./assets/images/top_pc.jpg" alt="Background image">
         <div class="overlay-links">
             <a href="https://line.me/" target="_blank">・LINE公式アカウント</a>
             <a href="https://www.flickr.com/" target="_blank">・Flickr</a>
