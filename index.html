@@ -15,12 +15,19 @@
             position: relative;
             width: 100vw;
             height: 100vh;
-            background: url('./assets/images/top.jpg') no-repeat center top; /* 背景を上に移動 */
-            background-size: cover; /* 縦長の画像を画面いっぱいに拡大 */
-            border-radius: 20px; /* 四隅を丸くする */
-            overflow: hidden; /* 背景がはみ出さないように */
+            background: url('./assets/images/top_pc.jpg') no-repeat center center; /* デフォルトでPC用画像 */
+            background-size: cover; /* 画面全体にフィット */
+            border-radius: 20px; /* 四隅を丸く */
+            overflow: hidden; /* 内容がはみ出さないように */
             margin: 20px; /* ページの余白を追加 */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 影をつけて浮かび上がるデザイン */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 影をつける */
+        }
+        /* スマホ用スタイル */
+        @media (max-width: 768px) {
+            main {
+                background: url('./assets/images/top_mobile.jpg') no-repeat center center; /* スマホ用画像 */
+                background-size: cover;
+            }
         }
         .overlay-links {
             position: absolute;
