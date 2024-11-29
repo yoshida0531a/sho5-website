@@ -15,15 +15,20 @@
             position: relative;
             width: 100vw;
             height: 100vh;
-            background: url('./assets/images/top.jpg') no-repeat center center;
+            background: url('./assets/images/top.jpg') no-repeat center top; /* 背景を上に移動 */
             background-size: cover; /* 縦長の画像を画面いっぱいに拡大 */
+            border-radius: 20px; /* 四隅を丸くする */
+            overflow: hidden; /* 背景がはみ出さないように */
+            margin: 20px; /* ページの余白を追加 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 影をつけて浮かび上がるデザイン */
         }
         .overlay-links {
             position: absolute;
             bottom: 20px;
             left: 20px;
             color: white;
-            font-size: 0.8rem; /* 小さめのフォントサイズ */
+            font-size: 1rem; /* フォントサイズを拡大 */
+            font-family: "Segoe UI", sans-serif; /* 柔らかい印象のフォント */
             text-align: left;
         }
         .overlay-links a {
