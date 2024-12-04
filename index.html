@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sho5.org</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: "Arial Rounded MT Bold", Arial, sans-serif;
             margin: 0;
             padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f0f0f0;
+            background-color: #ffffff;
             overflow: hidden;
         }
         main {
@@ -24,70 +24,120 @@
             overflow: hidden;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             background-color: white;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
-        .video {
-            position: absolute;
-            top: 0;
-            left: 0;
+        header {
+            font-size: 1.5rem;
+            margin-top: 20px;
+        }
+        .slider {
+            position: relative;
+            width: 80%;
+            height: 50%;
+            margin: 0 auto;
+            overflow: hidden;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .slides {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+            width: 300%;
+        }
+        .slides img {
             width: 100%;
-            height: 100%;
-            object-fit: cover;
+            height: auto;
+            border-radius: 15px;
         }
-        .overlay-links {
+        .navigation {
             position: absolute;
-            top: 20px;
-            left: 20px;
-            color: white;
-            font-size: 1.2rem;
-            font-family: "Poppins", "Segoe UI", sans-serif;
-            text-align: left;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 5px;
         }
-        .overlay-links a {
-            color: white;
+        .navigation div {
+            width: 10px;
+            height: 10px;
+            background-color: #ccc;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+        .navigation div.active {
+            background-color: #000;
+        }
+        .links {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .links a {
+            color: #000;
             text-decoration: none;
-            display: block;
-            margin-bottom: 5px;
+            font-size: 1rem;
         }
-        .overlay-links a:hover {
+        .links a:hover {
             text-decoration: underline;
         }
         footer {
-            position: absolute;
-            bottom: 30px; /* 余白調整 */
-            right: 70px; /* さらに内側に移動 */
-            color: white;
             font-size: 0.8rem;
-            font-family: "Poppins", "Segoe UI", sans-serif;
-            background-color: rgba(0, 0, 0, 0.5);
-            padding: 5px 10px;
-            border-radius: 5px;
-        }
-        @media (max-width: 768px) {
-            .video {
-                content: url('./assets/images/top_mobile.jpg');
-            }
-        }
-        @media (min-width: 769px) {
-            .video {
-                content: url('./assets/images/top_pc.jpg');
-            }
+            color: #666;
+            margin-bottom: 10px;
         }
     </style>
 </head>
 <body>
     <main>
-        <video class="video" autoplay muted loop playsinline>
-            <source src="https://lightning-g3.hp1.work/wp-content/uploads/2021/09/Cat-66004.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <div class="overlay-links">
-            <a href="https://line.me/" target="_blank">・LINE公式アカウント</a>
-            <a href="https://www.flickr.com/" target="_blank">・Flickr</a>
-            <a href="https://bsky.app/" target="_blank">・BlueSky</a>
+        <header>sho5.org</header>
+        <div class="slider">
+            <div class="slides">
+                <img src="https://via.placeholder.com/800x400?text=Image+1" alt="Image 1">
+                <img src="https://via.placeholder.com/800x400?text=Image+2" alt="Image 2">
+                <img src="https://via.placeholder.com/800x400?text=Image+3" alt="Image 3">
+            </div>
+            <div class="navigation">
+                <div class="dot active" data-index="0"></div>
+                <div class="dot" data-index="1"></div>
+                <div class="dot" data-index="2"></div>
+            </div>
         </div>
+        <div class="links">
+            <a href="https://line.me/" target="_blank">LINE公式アカウント</a>
+            <a href="https://www.flickr.com/" target="_blank">Flickr</a>
+            <a href="https://example.com/schedule" target="_blank">スケジュール</a>
+        </div>
+        <footer>Copyright 2019-2024 Akira Yoshida</footer>
     </main>
-    <footer>
-        <p>Copyright 2019-2024 Akira Yoshida</p>
-    </footer>
+    <script>
+        // スライドショー用スクリプト
+        let currentIndex = 0;
+        const slides = document.querySelector('.slides');
+        const dots = document.querySelectorAll('.dot');
+
+        function updateSlider(index) {
+            slides.style.transform = `translateX(-${index * 100}%)`;
+            dots.forEach(dot => dot.classList.remove('active'));
+            dots[index].classList.add('active');
+        }
+
+        function autoSlide() {
+            currentIndex = (currentIndex + 1) % dots.length;
+            updateSlider(currentIndex);
+        }
+
+        dots.forEach(dot => {
+            dot.addEventListener('click', () => {
+                currentIndex = parseInt(dot.dataset.index);
+                updateSlider(currentIndex);
+            });
+        });
+
+        setInterval(autoSlide, 5000); // 5秒ごとにスライド
+    </script>
 </body>
 </html>
