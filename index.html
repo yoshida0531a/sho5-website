@@ -9,38 +9,28 @@
             font-family: "Arial Rounded MT Bold", Arial, sans-serif;
             margin: 0;
             padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             background-color: #ffffff;
-            overflow: hidden;
-        }
-        main {
-            position: relative;
-            width: 90vw;
-            height: 90vh;
-            border-radius: 20px;
-            overflow: hidden;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            background-color: white;
-            text-align: center;
+            color: #000000;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            align-items: center;
+            min-height: 100vh;
+            overflow-x: hidden;
         }
         header {
-            font-size: 1.5rem;
-            margin-top: 20px;
+            margin-top: 10px;
+            font-size: 2rem;
+            text-align: center;
         }
         .slider {
             position: relative;
-            width: 80%;
-            height: 50%;
-            margin: 0 auto;
+            width: 95%;
+            max-width: 1200px;
+            height: auto;
+            aspect-ratio: 16 / 9;
             overflow: hidden;
-            border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
         }
         .slides {
             display: flex;
@@ -58,7 +48,7 @@
             left: 50%;
             transform: translateX(-50%);
             display: flex;
-            gap: 5px;
+            gap: 8px;
         }
         .navigation div {
             width: 10px;
@@ -74,7 +64,8 @@
             display: flex;
             flex-direction: column;
             gap: 10px;
-            margin-bottom: 10px;
+            text-align: center;
+            margin-bottom: 20px;
         }
         .links a {
             color: #000;
@@ -88,31 +79,30 @@
             font-size: 0.8rem;
             color: #666;
             margin-bottom: 10px;
+            text-align: center;
         }
     </style>
 </head>
 <body>
-    <main>
-        <header>sho5.org</header>
-        <div class="slider">
-            <div class="slides">
-                <img src="https://via.placeholder.com/800x400?text=Image+1" alt="Image 1">
-                <img src="https://via.placeholder.com/800x400?text=Image+2" alt="Image 2">
-                <img src="https://via.placeholder.com/800x400?text=Image+3" alt="Image 3">
-            </div>
-            <div class="navigation">
-                <div class="dot active" data-index="0"></div>
-                <div class="dot" data-index="1"></div>
-                <div class="dot" data-index="2"></div>
-            </div>
+    <header>sho5.org</header>
+    <div class="slider">
+        <div class="slides">
+            <img src="assets/images/top_mobile1.jpg" alt="Image 1">
+            <img src="assets/images/top_mobile2.jpg" alt="Image 2">
+            <img src="assets/images/top_mobile3.jpg" alt="Image 3">
         </div>
-        <div class="links">
-            <a href="https://line.me/" target="_blank">LINE公式アカウント</a>
-            <a href="https://www.flickr.com/" target="_blank">Flickr</a>
-            <a href="https://example.com/schedule" target="_blank">スケジュール</a>
+        <div class="navigation">
+            <div class="dot active" data-index="0"></div>
+            <div class="dot" data-index="1"></div>
+            <div class="dot" data-index="2"></div>
         </div>
-        <footer>Copyright 2019-2024 Akira Yoshida</footer>
-    </main>
+    </div>
+    <div class="links">
+        <a href="https://line.me/" target="_blank">LINE公式アカウント</a>
+        <a href="https://www.flickr.com/" target="_blank">Flickr</a>
+        <a href="https://example.com/schedule" target="_blank">スケジュール</a>
+    </div>
+    <footer>Copyright 2019-2024 Akira Yoshida</footer>
     <script>
         // スライドショー用スクリプト
         let currentIndex = 0;
