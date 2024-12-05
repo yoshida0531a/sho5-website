@@ -22,7 +22,7 @@
             position: relative;
             width: 90%;
             max-width: 1200px;
-            height: 50%; /* 高さを調整 */
+            height: 65%; /* 縦幅を1.5倍に調整 */
             margin: 0 auto;
             border-radius: 15px; /* 四つ角を丸くする */
             overflow: hidden;
@@ -37,7 +37,8 @@
         .slides img {
             width: 100%;
             height: 100%;
-            object-fit: cover; /* 画像を枠にジャストフィット */
+            object-fit: cover; /* 枠にジャストフィット */
+            object-position: center top; /* 顔を中央に近づける */
         }
         .navigation {
             position: absolute;
@@ -62,7 +63,7 @@
             flex-direction: column;
             gap: 10px;
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         .links a {
             color: #000;
@@ -75,7 +76,7 @@
         footer {
             font-size: 0.8rem;
             color: #666;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
             text-align: center;
         }
     </style>
