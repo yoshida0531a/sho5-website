@@ -17,30 +17,28 @@
             align-items: center;
             min-height: 100vh;
             overflow-x: hidden;
-        }
-        header {
-            margin-top: 10px;
-            font-size: 2rem;
-            text-align: center;
+            overflow-y: hidden; /* 縦スクロールを防止 */
         }
         .slider {
             position: relative;
-            width: 95%;
+            width: 90%;
             max-width: 1200px;
-            height: auto;
-            aspect-ratio: 16 / 9;
+            height: 40vh; /* 高さを縮小 */
+            margin: 20px auto 10px;
+            border-radius: 15px; /* 四つ角を丸くする */
             overflow: hidden;
-            margin: 20px auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 画像を引き立てる影 */
         }
         .slides {
             display: flex;
             transition: transform 0.5s ease-in-out;
             width: 300%;
+            height: 100%;
         }
         .slides img {
             width: 100%;
-            height: auto;
-            border-radius: 15px;
+            height: 100%;
+            object-fit: cover; /* 画像を枠にジャストフィット */
         }
         .navigation {
             position: absolute;
@@ -84,7 +82,6 @@
     </style>
 </head>
 <body>
-    <header>sho5.org</header>
     <div class="slider">
         <div class="slides">
             <img src="assets/images/top_mobile1.jpg" alt="Image 1">
