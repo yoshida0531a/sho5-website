@@ -15,16 +15,15 @@
             flex-direction: column;
             justify-content: space-between;
             align-items: center;
-            min-height: 100vh;
-            overflow-x: hidden;
-            overflow-y: hidden; /* 縦スクロールを防止 */
+            height: 100vh; /* 1画面に収める */
+            overflow: hidden; /* スクロールを防止 */
         }
         .slider {
             position: relative;
             width: 90%;
             max-width: 1200px;
-            height: 40vh; /* 高さを縮小 */
-            margin: 20px auto 10px;
+            height: 50%; /* 高さを調整 */
+            margin: 0 auto;
             border-radius: 15px; /* 四つ角を丸くする */
             overflow: hidden;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 画像を引き立てる影 */
@@ -97,7 +96,7 @@
     <div class="links">
         <a href="https://line.me/" target="_blank">LINE公式アカウント</a>
         <a href="https://www.flickr.com/" target="_blank">Flickr</a>
-        <a href="https://example.com/schedule" target="_blank">スケジュール</a>
+        <a href="https://nu-baseball.jp/schedule" target="_blank">試合スケジュール</a>
     </div>
     <footer>Copyright 2019-2024 Akira Yoshida</footer>
     <script>
