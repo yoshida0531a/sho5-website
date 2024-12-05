@@ -12,16 +12,22 @@
             background-color: #ffffff;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
             align-items: center;
             height: 100vh;
             overflow: hidden;
         }
 
+        .title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 10px;
+        }
+
         .slider {
             position: relative;
-            width: 98%; /* ほぼ画面全体に広げる */
-            height: 80%; /* 縦幅を大きく */
+            width: 95%; /* 横幅を画面全体に近づける */
+            height: 60%; /* タイトルとリンクのスペースを考慮したサイズ */
             border-radius: 15px;
             overflow: hidden;
         }
@@ -37,52 +43,32 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            object-position: center top; /* 顔を中心に表示 */
+            object-position: center top; /* 顔の位置を考慮した表示 */
         }
 
-        .arrows, .controls {
-            position: absolute;
-            width: 100%;
-            height: 100%;
+        .dots {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            pointer-events: none;
-        }
-
-        .arrow, .control-button {
-            pointer-events: all;
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            font-size: 2rem;
-            cursor: pointer;
-            padding: 10px;
-        }
-
-        .arrow {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-
-        .arrow.left {
-            left: 10px;
-        }
-
-        .arrow.right {
-            right: 10px;
-        }
-
-        .controls {
-            bottom: 10px;
             justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            margin: 0 5px;
+            background-color: #ccc;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+
+        .dot.active {
+            background-color: #333;
         }
 
         .links {
-            width: 90%;
-            text-align: left;
-            margin-top: 5px;
+            text-align: center;
+            margin-top: 15px;
         }
 
         .links a {
@@ -90,96 +76,81 @@
             color: #555;
             font-size: 1rem;
             text-decoration: none;
-            font-weight: 300; /* 細字 */
             margin-bottom: 5px;
-        }
-
-        .links a:before {
-            content: "• "; /* 箇条書きのドット */
-            color: #333;
         }
 
         .links a:hover {
             text-decoration: underline;
         }
-
-        footer {
-            font-size: 0.8rem;
-            color: #666;
-            margin: 5px 0;
-        }
     </style>
 </head>
 <body>
+    <div class="title">Welcome to sho5.org</div>
     <div class="slider">
         <div class="slides">
             <img src="assets/images/top_mobile1.jpg" alt="Image 1">
             <img src="assets/images/top_mobile2.jpg" alt="Image 2">
             <img src="assets/images/top_mobile3.jpg" alt="Image 3">
         </div>
-        <div class="arrows">
-            <button class="arrow left">‹</button>
-            <button class="arrow right">›</button>
-        </div>
-        <div class="controls">
-            <button class="control-button pause">⏸️</button>
-        </div>
+    </div>
+    <div class="dots">
+        <button id="prev">一時停止</button>
+        <div class="dot active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <button id="next">再生</button>
     </div>
     <div class="links">
         <a href="https://line.me/" target="_blank">LINE公式アカウント</a>
         <a href="https://www.flickr.com/" target="_blank">写真集</a>
         <a href="https://nu-baseball.jp/schedule" target="_blank">試合スケジュール</a>
     </div>
-    <footer>Copyright 2019-2024 Akira Yoshida</footer>
-
     <script>
         const slides = document.querySelector('.slides');
-        const images = document.querySelectorAll('.slides img');
-        const leftArrow = document.querySelector('.arrow.left');
-        const rightArrow = document.querySelector('.arrow.right');
-        const pauseButton = document.querySelector('.control-button.pause');
-
+        const dots = document.querySelectorAll('.dot');
+        const prevButton = document.getElementById('prev');
+        const nextButton = document.getElementById('next');
         let currentIndex = 0;
         let autoSlideInterval;
 
         function updateSlider(index) {
             slides.style.transform = `translateX(-${index * 100}%)`;
+            dots.forEach((dot, i) => {
+                dot.classList.toggle('active', i === index);
+            });
         }
 
         function autoSlide() {
-            currentIndex = (currentIndex + 1) % images.length;
+            currentIndex = (currentIndex + 1) % dots.length;
             updateSlider(currentIndex);
         }
 
         function startAutoSlide() {
             autoSlideInterval = setInterval(autoSlide, 5000);
-            pauseButton.textContent = '⏸️';
+            prevButton.textContent = "一時停止";
         }
 
         function stopAutoSlide() {
             clearInterval(autoSlideInterval);
-            pauseButton.textContent = '▶️';
+            nextButton.textContent = "再生";
         }
 
-        leftArrow.addEventListener('click', () => {
-            currentIndex = (currentIndex - 1 + images.length) % images.length;
-            updateSlider(currentIndex);
+        dots.forEach((dot, index) => {
+            dot.addEventListener('click', () => {
+                currentIndex = index;
+                updateSlider(currentIndex);
+            });
         });
 
-        rightArrow.addEventListener('click', () => {
-            currentIndex = (currentIndex + 1) % images.length;
-            updateSlider(currentIndex);
+        prevButton.addEventListener('click', () => {
+            stopAutoSlide();
         });
 
-        pauseButton.addEventListener('click', () => {
-            if (autoSlideInterval) {
-                stopAutoSlide();
-            } else {
-                startAutoSlide();
-            }
+        nextButton.addEventListener('click', () => {
+            startAutoSlide();
         });
 
-        startAutoSlide(); // 自動スライド開始
+        startAutoSlide();
     </script>
 </body>
 </html>
