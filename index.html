@@ -41,7 +41,6 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            object-position: center;
         }
 
         .dots {
@@ -97,9 +96,7 @@
     <div class="title">Welcome to sho5.org</div>
     <div class="slider">
         <div class="slides">
-            <img src="assets/images/top_mobile1.jpg" alt="Image 1">
-            <img src="assets/images/top_mobile2.jpg" alt="Image 2">
-            <img src="assets/images/top_mobile3.jpg" alt="Image 3">
+            <!-- 画像はJavaScriptで挿入 -->
         </div>
     </div>
     <div class="dots">
@@ -113,11 +110,38 @@
         <a href="https://nu-baseball.jp/schedule" target="_blank">試合スケジュール</a>
     </div>
     <script>
+        // 画像リスト
+        const images = {
+            pc: ["assets/images/image_pc_1.jpg", "assets/images/image_pc_2.jpg", "assets/images/image_pc_3.jpg"],
+            tablet: ["assets/images/image_tablet_1.jpg", "assets/images/image_tablet_2.jpg", "assets/images/image_tablet_3.jpg"],
+            phone: ["assets/images/image_phone_1.jpg", "assets/images/image_phone_2.jpg", "assets/images/image_phone_3.jpg"]
+        };
+
         const slides = document.querySelector('.slides');
         const dots = document.querySelectorAll('.dot');
         let currentIndex = 0;
-        const slideInterval = 10000; // 切り替え間隔10秒
+        const slideInterval = 10000; // 10秒
 
+        // デバイス判定用関数
+        function getDeviceType() {
+            if (window.innerWidth > 1024) return "pc";
+            if (window.innerWidth > 768) return "tablet";
+            return "phone";
+        }
+
+        // 画像を挿入する関数
+        function loadImages() {
+            const deviceType = getDeviceType();
+            slides.innerHTML = ""; // 既存の画像を削除
+            images[deviceType].forEach(imageSrc => {
+                const img = document.createElement('img');
+                img.src = imageSrc;
+                img.alt = "Image Slide";
+                slides.appendChild(img);
+            });
+        }
+
+        // スライド更新関数
         function updateSlider(index) {
             slides.style.transform = `translateX(-${index * 100}%)`;
             dots.forEach((dot, i) => {
@@ -125,11 +149,13 @@
             });
         }
 
+        // 自動スライド
         function autoSlide() {
             currentIndex = (currentIndex + 1) % dots.length;
             updateSlider(currentIndex);
         }
 
+        // ドットのクリックイベント
         dots.forEach((dot, index) => {
             dot.addEventListener('click', () => {
                 currentIndex = index;
@@ -137,7 +163,16 @@
             });
         });
 
+        // 初期化
+        loadImages();
         setInterval(autoSlide, slideInterval);
+
+        // ウィンドウサイズ変更時に画像を再ロード
+        window.addEventListener('resize', () => {
+            loadImages();
+            currentIndex = 0; // 最初のスライドにリセット
+            updateSlider(currentIndex);
+        });
     </script>
 </body>
 </html>
