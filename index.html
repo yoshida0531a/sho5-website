@@ -8,8 +8,8 @@
     body {
       margin: 0;
       font-family: 'Poppins', sans-serif; /* 丸みのあるフォント */
-      background-color: #333;
-      color: white;
+      background-color: #fff; /* 背景を白に */
+      color: #000; /* 文字を黒に */
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -18,13 +18,13 @@
     }
     header {
       text-align: center;
-      font-size: 22px; /* タイトルサイズ調整 */
+      font-size: 20px; /* タイトルのサイズ調整 */
       padding: 10px 0;
     }
     .slideshow {
       position: relative;
       width: calc(100% - 20px); /* 左右余白追加 */
-      height: calc(100vh - 300px); /* 縦幅を広げた */
+      height: calc(100vh - 320px); /* 縦幅を広げた */
       margin: 0 auto;
       overflow: hidden;
     }
@@ -51,15 +51,15 @@
       gap: 10px;
     }
     .indicators button {
-      width: 10px;
-      height: 10px;
+      font-size: 20px; /* 純粋な「・」のサイズ */
+      background: none;
       border: none;
-      border-radius: 50%; /* 純粋なドットにする */
-      background-color: lightgray;
+      color: lightgray;
       cursor: pointer;
+      padding: 0;
     }
     .indicators button.active {
-      background-color: white;
+      color: black;
     }
     .links {
       text-align: center;
@@ -70,7 +70,7 @@
     }
     .links a {
       text-decoration: none;
-      color: white; /* 白文字風に変更 */
+      color: black; /* 黒文字に変更 */
       font-size: 16px;
     }
     .links a:hover {
@@ -80,6 +80,8 @@
       text-align: center;
       padding: 10px 0;
       font-size: 12px;
+      position: relative;
+      margin-top: auto;
     }
   </style>
 </head>
@@ -123,6 +125,7 @@
     // インジケーターを生成
     slides.forEach((_, index) => {
       const button = document.createElement("button");
+      button.textContent = "・"; /* 純粋な「・」を表示 */
       if (index === 0) button.classList.add("active");
       button.addEventListener("click", () => {
         showSlide(index);
