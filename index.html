@@ -22,7 +22,7 @@
     .slideshow {
       position: relative;
       width: 100%;
-      height: calc(100vh - 200px); /* ヘッダーとフッターを考慮 */
+      height: calc(100vh - 250px); /* ヘッダーとフッターを考慮 */
       overflow: hidden;
     }
     .slideshow img {
@@ -38,6 +38,35 @@
     }
     .slideshow img.active {
       opacity: 1;
+    }
+    .indicators {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 10px;
+    }
+    .indicators button {
+      width: 12px;
+      height: 12px;
+      border: none;
+      border-radius: 50%;
+      background-color: lightgray;
+      cursor: pointer;
+    }
+    .indicators button.active {
+      background-color: black;
+    }
+    .links {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: blue;
+      font-size: 16px;
     }
     footer {
       text-align: center;
@@ -56,39 +85,62 @@
   </header>
   <div class="slideshow">
     <picture>
-      <source srcset="assets/images/top_pc1.jpg" media="(min-width: 1025px)">
-      <source srcset="assets/images/top_tab1.jpg" media="(min-width: 768px)">
-      <img src="assets/images/top_mobile1.jpg" alt="Slideshow Image">
+      <source srcset="assets/images/top_pc1.JPG" media="(min-width: 1025px)">
+      <source srcset="assets/images/top_tab1.JPG" media="(min-width: 768px)">
+      <img src="assets/images/top_mobile1.JPG" alt="Slideshow Image">
     </picture>
     <picture>
-      <source srcset="assets/images/top_pc2.jpg" media="(min-width: 1025px)">
-      <source srcset="assets/images/top_tab2.jpg" media="(min-width: 768px)">
-      <img src="assets/images/top_mobile2.jpg" alt="Slideshow Image">
+      <source srcset="assets/images/top_pc2.JPG" media="(min-width: 1025px)">
+      <source srcset="assets/images/top_tab2.JPG" media="(min-width: 768px)">
+      <img src="assets/images/top_mobile2.JPG" alt="Slideshow Image">
     </picture>
     <picture>
-      <source srcset="assets/images/top_pc3.jpg" media="(min-width: 1025px)">
-      <source srcset="assets/images/top_tab3.jpg" media="(min-width: 768px)">
-      <img src="assets/images/top_mobile3.jpg" alt="Slideshow Image">
+      <source srcset="assets/images/top_pc3.JPG" media="(min-width: 1025px)">
+      <source srcset="assets/images/top_tab3.JPG" media="(min-width: 768px)">
+      <img src="assets/images/top_mobile3.JPG" alt="Slideshow Image">
     </picture>
+    <div class="indicators"></div>
+  </div>
+  <div class="links">
+    <a href="https://line.me">LINE公式アカウント</a>
+    <a href="https://www.flickr.com">Flickr</a>
+    <a href="https://www.university-schedule.example">大学スケジュール</a>
   </div>
   <footer>
     <p>Copyright © 2019-2024 Akira Yoshida.</p>
   </footer>
 
   <script>
-    let currentIndex = 0;
     const slides = document.querySelectorAll(".slideshow picture");
-    const slideInterval = 7000; // 7秒ごとに切り替え
+    const indicatorsContainer = document.querySelector(".indicators");
+    let currentIndex = 0;
 
-    function showNextSlide() {
+    // インジケーターを生成
+    slides.forEach((_, index) => {
+      const button = document.createElement("button");
+      if (index === 0) button.classList.add("active");
+      button.addEventListener("click", () => {
+        showSlide(index);
+      });
+      indicatorsContainer.appendChild(button);
+    });
+
+    const indicators = document.querySelectorAll(".indicators button");
+
+    function showSlide(index) {
       slides[currentIndex].querySelector("img").classList.remove("active");
-      currentIndex = (currentIndex + 1) % slides.length;
+      indicators[currentIndex].classList.remove("active");
+      currentIndex = index;
       slides[currentIndex].querySelector("img").classList.add("active");
+      indicators[currentIndex].classList.add("active");
     }
 
-    // 初期状態を設定
-    slides[currentIndex].querySelector("img").classList.add("active");
-    setInterval(showNextSlide, slideInterval);
+    // 自動スライド
+    function autoSlide() {
+      showSlide((currentIndex + 1) % slides.length);
+    }
+
+    setInterval(autoSlide, 7000); // 7秒ごとにスライド
   </script>
 </body>
 </html>
