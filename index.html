@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Responsive Slideshow</title>
+  <title>Shogo Fun Site</title>
   <style>
     body {
       margin: 0;
@@ -14,10 +14,16 @@
       height: 100vh;
       overflow: hidden;
     }
+    header {
+      text-align: center;
+      font-size: 28px;
+      padding: 10px 0;
+    }
     .slideshow {
       position: relative;
       width: 100%;
-      height: calc(100vh - 200px); /* タイトル・リンク部分を考慮 */
+      height: calc(100vh - 200px); /* ヘッダーとフッターを考慮 */
+      overflow: hidden;
     }
     .slideshow img {
       position: absolute;
@@ -26,26 +32,16 @@
       object-fit: cover;
       top: 0;
       left: 0;
+      border-radius: 5px; /* 角を少し丸くする */
       opacity: 0;
       transition: opacity 1s ease-in-out;
     }
     .slideshow img.active {
       opacity: 1;
     }
-    header {
-      text-align: center;
-      font-size: 24px;
-      padding: 10px 0;
-    }
     footer {
       text-align: center;
       padding: 20px 0;
-    }
-    footer a {
-      display: block;
-      margin: 5px 0;
-      text-decoration: none;
-      color: #007bff;
     }
     footer p {
       margin-top: 10px;
@@ -56,20 +52,43 @@
 </head>
 <body>
   <header>
-    <h1>Responsive Baseball Slideshow</h1>
+    <h1>Shogo Fun Site</h1>
   </header>
   <div class="slideshow">
     <picture>
-      <source srcset="top_pc1.jpeg" media="(min-width: 1025px)">
-      <source srcset="top_tablet1_resized.jpg" media="(min-width: 768px)">
-      <img src="top_mobile1_resized.jpg" alt="Baseball Player">
+      <source srcset="assets/images/top_pc1.jpg" media="(min-width: 1025px)">
+      <source srcset="assets/images/top_tab1.jpg" media="(min-width: 768px)">
+      <img src="assets/images/top_mobile1.jpg" alt="Slideshow Image">
+    </picture>
+    <picture>
+      <source srcset="assets/images/top_pc2.jpg" media="(min-width: 1025px)">
+      <source srcset="assets/images/top_tab2.jpg" media="(min-width: 768px)">
+      <img src="assets/images/top_mobile2.jpg" alt="Slideshow Image">
+    </picture>
+    <picture>
+      <source srcset="assets/images/top_pc3.jpg" media="(min-width: 1025px)">
+      <source srcset="assets/images/top_tab3.jpg" media="(min-width: 768px)">
+      <img src="assets/images/top_mobile3.jpg" alt="Slideshow Image">
     </picture>
   </div>
   <footer>
-    <a href="#schedule">試合スケジュール</a>
-    <a href="#gallery">写真集</a>
-    <a href="#bluesky">ブルースカイ</a>
-    <p>&copy; 2024 Baseball Team</p>
+    <p>Copyright © 2019-2024 Akira Yoshida.</p>
   </footer>
+
+  <script>
+    let currentIndex = 0;
+    const slides = document.querySelectorAll(".slideshow picture");
+    const slideInterval = 7000; // 7秒ごとに切り替え
+
+    function showNextSlide() {
+      slides[currentIndex].querySelector("img").classList.remove("active");
+      currentIndex = (currentIndex + 1) % slides.length;
+      slides[currentIndex].querySelector("img").classList.add("active");
+    }
+
+    // 初期状態を設定
+    slides[currentIndex].querySelector("img").classList.add("active");
+    setInterval(showNextSlide, slideInterval);
+  </script>
 </body>
 </html>
