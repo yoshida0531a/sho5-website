@@ -7,7 +7,9 @@
   <style>
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
+      font-family: 'Poppins', sans-serif; /* 丸みのあるフォント */
+      background-color: #333;
+      color: white;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -16,13 +18,14 @@
     }
     header {
       text-align: center;
-      font-size: 28px;
+      font-size: 22px; /* タイトルサイズ調整 */
       padding: 10px 0;
     }
     .slideshow {
       position: relative;
-      width: 100%;
-      height: calc(100vh - 250px); /* ヘッダーとフッターを考慮 */
+      width: calc(100% - 20px); /* 左右余白追加 */
+      height: calc(100vh - 300px); /* 縦幅を広げた */
+      margin: 0 auto;
       overflow: hidden;
     }
     .slideshow img {
@@ -32,7 +35,7 @@
       object-fit: cover;
       top: 0;
       left: 0;
-      border-radius: 5px; /* 角を少し丸くする */
+      border-radius: 10px; /* 角を少し丸くする */
       opacity: 0;
       transition: opacity 1s ease-in-out;
     }
@@ -48,34 +51,35 @@
       gap: 10px;
     }
     .indicators button {
-      width: 12px;
-      height: 12px;
+      width: 10px;
+      height: 10px;
       border: none;
-      border-radius: 50%;
+      border-radius: 50%; /* 純粋なドットにする */
       background-color: lightgray;
       cursor: pointer;
     }
     .indicators button.active {
-      background-color: black;
+      background-color: white;
     }
     .links {
       text-align: center;
-      margin: 20px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin: 20px auto;
     }
     .links a {
-      margin: 0 10px;
       text-decoration: none;
-      color: blue;
+      color: white; /* 白文字風に変更 */
       font-size: 16px;
+    }
+    .links a:hover {
+      text-decoration: underline;
     }
     footer {
       text-align: center;
-      padding: 20px 0;
-    }
-    footer p {
-      margin-top: 10px;
+      padding: 10px 0;
       font-size: 12px;
-      color: #777;
     }
   </style>
 </head>
@@ -87,7 +91,7 @@
     <picture>
       <source srcset="assets/images/top_pc1.JPG" media="(min-width: 1025px)">
       <source srcset="assets/images/top_tab1.JPG" media="(min-width: 768px)">
-      <img src="assets/images/top_mobile1.JPG" alt="Slideshow Image">
+      <img src="assets/images/top_mobile1.JPG" alt="Slideshow Image" class="active">
     </picture>
     <picture>
       <source srcset="assets/images/top_pc2.JPG" media="(min-width: 1025px)">
@@ -114,6 +118,7 @@
     const slides = document.querySelectorAll(".slideshow picture");
     const indicatorsContainer = document.querySelector(".indicators");
     let currentIndex = 0;
+    let startX = 0;
 
     // インジケーターを生成
     slides.forEach((_, index) => {
@@ -141,6 +146,19 @@
     }
 
     setInterval(autoSlide, 7000); // 7秒ごとにスライド
+
+    // スワイプ操作
+    document.querySelector(".slideshow").addEventListener("touchstart", (e) => {
+      startX = e.touches[0].clientX;
+    });
+    document.querySelector(".slideshow").addEventListener("touchend", (e) => {
+      const endX = e.changedTouches[0].clientX;
+      if (startX - endX > 50) {
+        showSlide((currentIndex + 1) % slides.length);
+      } else if (endX - startX > 50) {
+        showSlide((currentIndex - 1 + slides.length) % slides.length);
+      }
+    });
   </script>
 </body>
 </html>
