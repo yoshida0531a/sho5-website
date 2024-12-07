@@ -4,13 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"> <!-- フォント読み込み -->
   <style>
     body {
       margin: 0;
       padding: 0;
-      font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', sans-serif; /* 丸いフォント */
-      background-color: white; /* 背景を白 */
-      color: black; /* 文字を黒 */
+      font-family: 'Poppins', sans-serif; /* 新しいデザイン性の高いフォント */
+      background-color: white;
+      color: black;
     }
 
     header {
@@ -22,8 +23,8 @@
 
     .slideshow {
       position: relative;
-      width: calc(100% - 20px); /* 左右余白 */
-      height: calc(100vh - 320px); /* デフォルトの高さ設定 */
+      width: calc(100% - 20px);
+      height: calc(100vh - 340px); /* デフォルトの高さを少し縮小 */
       margin: 0 auto;
       overflow: hidden;
     }
@@ -35,7 +36,7 @@
       object-fit: cover;
       top: 0;
       left: 0;
-      border-radius: 10px; /* 角を少し丸くする */
+      border-radius: 10px;
       opacity: 0;
       transition: opacity 1s ease-in-out;
     }
@@ -44,10 +45,10 @@
       opacity: 1;
     }
 
-    /* PC表示時の画像高さ調整 */
-    @media (min-width: 1025px) {
+    /* PCとタブレットでの画像サイズ調整 */
+    @media (min-width: 768px) {
       .slideshow {
-        height: calc(100vh - 200px); /* PCの場合、画像をさらに大きく表示 */
+        height: calc(100vh - 250px); /* PC・タブレットの高さを縮小 */
       }
     }
 
@@ -79,8 +80,8 @@
     }
 
     .links a {
-      display: block; /* 縦並び */
-      color: black; /* 黒文字 */
+      display: block;
+      color: black;
       text-decoration: none;
       font-size: 18px;
       margin: 10px 0;
@@ -92,7 +93,7 @@
 
     footer {
       text-align: center;
-      font-size: 14px;
+      font-size: 12px; /* フォントサイズを小さく変更 */
       margin: 20px 0;
     }
   </style>
@@ -118,7 +119,7 @@
     <a href="https://nu-baseball.jp/schedule">スケジュール</a>
   </div>
 
-  <footer>Copyright © 2019-2024 Akira Yoshida.</footer>
+  <footer>Copyright © 2023-2024 Akira Yoshida.</footer>
 
   <script>
     // スライドショーのスクリプト
