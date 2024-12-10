@@ -12,9 +12,6 @@
       font-family: 'Poppins', sans-serif; /* 新しいデザイン性の高いフォント */
       background-color: white;
       color: black;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
     }
 
     header {
@@ -25,14 +22,11 @@
     }
 
     .slideshow {
-      flex: 1; /* スライドショーを残りの高さに拡張 */
       position: relative;
       width: calc(100% - 20px);
+      height: calc(100vh - 340px); /* デフォルトの高さを少し縮小 */
       margin: 0 auto;
       overflow: hidden;
-      display: flex;
-      justify-content: center;
-      align-items: center;
     }
 
     .slideshow img {
@@ -49,6 +43,13 @@
 
     .slideshow img.active {
       opacity: 1;
+    }
+
+    /* PCとタブレットでの画像サイズ調整 */
+    @media (min-width: 768px) {
+      .slideshow {
+        height: calc(100vh - 250px); /* PC・タブレットの高さを縮小 */
+      }
     }
 
     .indicators {
@@ -76,7 +77,6 @@
     .links {
       text-align: center;
       margin: 20px 0;
-      margin-bottom: 50px; /* 余白を追加 */
     }
 
     .links a {
