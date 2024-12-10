@@ -1,91 +1,175 @@
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Poppins', sans-serif;
-    background-color: white;
-    color: black;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"> <!-- フォント読み込み -->
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif; /* 新しいデザイン性の高いフォント */
+      background-color: white;
+      color: black;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
 
-  header {
-    text-align: center;
-    font-size: 28px;
-    font-weight: bold;
-    margin: 20px 0;
-  }
+    header {
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
 
-  .slideshow {
-    flex: 1; /* スライドショーを残りの高さに拡張 */
-    position: relative;
-    width: calc(100% - 20px);
-    margin: 0 auto;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+    .slideshow {
+      flex: 1; /* スライドショーを残りの高さに拡張 */
+      position: relative;
+      width: calc(100% - 20px);
+      margin: 0 auto;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
-  .slideshow img {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    top: 0;
-    left: 0;
-    border-radius: 10px;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-  }
+    .slideshow img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      border-radius: 10px;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+    }
 
-  .slideshow img.active {
-    opacity: 1;
-  }
+    .slideshow img.active {
+      opacity: 1;
+    }
 
-  .indicators {
-    position: absolute;
-    bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    gap: 10px;
-  }
+    .indicators {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 10px;
+    }
 
-  .indicators button {
-    font-size: 20px;
-    background: none;
-    border: none;
-    color: lightgray;
-    cursor: pointer;
-    padding: 0;
-  }
+    .indicators button {
+      font-size: 20px;
+      background: none;
+      border: none;
+      color: lightgray;
+      cursor: pointer;
+      padding: 0;
+    }
 
-  .indicators button.active {
-    color: black;
-  }
+    .indicators button.active {
+      color: black;
+    }
 
-  .links {
-    text-align: center;
-    margin: 20px 0;
-  }
+    .links {
+      text-align: center;
+      margin: 20px 0;
+    }
 
-  .links a {
-    display: block;
-    color: black;
-    text-decoration: none;
-    font-size: 18px;
-    margin: 10px 0;
-  }
+    .links a {
+      display: block;
+      color: black;
+      text-decoration: none;
+      font-size: 18px;
+      margin: 10px 0;
+    }
 
-  .links a:hover {
-    text-decoration: underline;
-  }
+    .links a:hover {
+      text-decoration: underline;
+    }
 
-  footer {
-    text-align: center;
-    font-size: 12px;
-    margin: 20px 0;
-  }
-</style>
+    footer {
+      text-align: center;
+      font-size: 12px;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>Shogo Fun Site</header>
+
+  <div class="slideshow">
+    <img src="assets/images/top_pc1.JPG" alt="Slide 1" class="active">
+    <img src="assets/images/top_pc2.JPG" alt="Slide 2">
+    <img src="assets/images/top_pc3.JPG" alt="Slide 3">
+
+    <div class="indicators">
+      <button data-slide="0" class="active">•</button>
+      <button data-slide="1">•</button>
+      <button data-slide="2">•</button>
+    </div>
+  </div>
+
+  <div class="links">
+    <a href="https://lin.ee/TqFSBw3K">LINE公式アカウント</a>
+    <a href="https://flic.kr/ps/45rUMu">Flickr</a>
+    <a href="https://nu-baseball.jp/schedule">スケジュール</a>
+  </div>
+
+  <footer>Copyright © 2023-2024 Akira Yoshida.</footer>
+
+  <script>
+    // スライドショーのスクリプト
+    let currentIndex = 0;
+    const slides = document.querySelectorAll('.slideshow img');
+    const dots = document.querySelectorAll('.indicators button');
+
+    function showSlide(index) {
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('active', i === index);
+      });
+      dots.forEach((dot, i) => {
+        dot.classList.toggle('active', i === index);
+      });
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % slides.length;
+      showSlide(currentIndex);
+    }
+
+    // ドットクリックでスライド切り替え
+    dots.forEach((dot, index) => {
+      dot.addEventListener('click', () => {
+        currentIndex = index;
+        showSlide(currentIndex);
+      });
+    });
+
+    // 自動スライド
+    setInterval(nextSlide, 7000);
+
+    // スワイプ操作のためのイベントリスナー（スマホ向け）
+    let startX = 0;
+    const slideshow = document.querySelector('.slideshow');
+
+    slideshow.addEventListener('touchstart', (e) => {
+      startX = e.touches[0].clientX;
+    });
+
+    slideshow.addEventListener('touchend', (e) => {
+      const endX = e.changedTouches[0].clientX;
+      if (startX > endX + 50) {
+        // 左スワイプ
+        nextSlide();
+      } else if (startX < endX - 50) {
+        // 右スワイプ
+        currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+        showSlide(currentIndex);
+      }
+    });
+  </script>
+</body>
+</html>
