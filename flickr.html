@@ -35,11 +35,16 @@
   </style>
 </head>
 <body>
-  <h1>Flickr Gallery55</h1>
+  <h1>Flickr Gallery</h1>
   <div class="gallery" id="gallery"></div>
 
   <script>
-    fetch('photos.json') // GitHub Pages上に公開されたJSONファイル
+    // APIキーとユーザーIDを設定
+    const apiKey = 'YOUR_FLICKR_API_KEY'; // 自分のFlickr APIキーを記入
+    const userId = 'YOUR_USER_ID'; // 自分のFlickrユーザーIDを記入
+
+    // Flickr APIのエンドポイントを呼び出し
+    fetch(`https://www.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=${apiKey}&user_id=${userId}&format=json&nojsoncallback=1`)
       .then(response => response.json())
       .then(data => {
         const gallery = document.getElementById('gallery');
