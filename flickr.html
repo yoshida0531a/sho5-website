@@ -39,12 +39,7 @@
   <div class="gallery" id="gallery"></div>
 
   <script>
-    const apiKey = '2a6f3ef0b0db5d5b3f358caf945c106b'; // ここにFlickrのAPIキーを入力
-    const userId = 'yoshida0531a'; // ここに表示したいユーザーIDを入力
-    const apiUrl = `https://www.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=${apiKey}&user_id=${userId}&format=json&nojsoncallback=1`;
-
-    // APIからデータを取得してギャラリーを作成
-    fetch(apiUrl)
+    fetch('photos.json') // GitHub Pages上に公開されたJSONファイル
       .then(response => response.json())
       .then(data => {
         const gallery = document.getElementById('gallery');
