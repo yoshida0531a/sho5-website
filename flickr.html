@@ -33,7 +33,6 @@
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     }
   </style>
-  <!-- jQuery CDNの追加 -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
@@ -42,24 +41,30 @@
 
   <script>
     $(document).ready(function() {
-      const apiKey = "2a6f3ef0b0db5d5b3f358caf945c106b"; // 取得したAPIキーをここに入力
+      const apiKey = "2a6f3ef0b0db5d5b3f358caf945c106b"; // 取得したAPIキー
       const userId = "yoshida0531a"; // 表示したいユーザーのID
       const apiUrl = `https://api.flickr.com/services/rest?api_key=${apiKey}&method=flickr.people.getPublicPhotos&format=json&nojsoncallback=1&extras=url_h&user_id=${userId}`;
 
       // Flickr APIからデータを取得
       $.getJSON(apiUrl, function(data) {
-        const photos = data.photos.photo;
-        let htmlContent = "";
+        console.log("API Response: ", data); // デバッグ用にAPIレスポンスを確認
+        if (data.photos && data.photos.photo) {
+          const photos = data.photos.photo;
+          let htmlContent = "";
 
-        // 画像データをHTMLに追加
-        photos.forEach(photo => {
-          const imgUrl = `https://live.staticflickr.com/${photo.server}/${photo.id}_${photo.secret}_b.jpg`; // 高解像度画像URL
-          htmlContent += `<img src="${imgUrl}" alt="${photo.title}" style="width:300px; margin:10px;">`;
-        });
+          // 画像データをHTMLに追加
+          photos.forEach(photo => {
+            const imgUrl = `https://live.staticflickr.com/${photo.server}/${photo.id}_${photo.secret}_b.jpg`; // 高解像度画像URL
+            htmlContent += `<img src="${imgUrl}" alt="${photo.title}" style="width:300px; margin:10px;">`;
+          });
 
-        $("#gallery").html(htmlContent);
-      }).fail(function() {
-        console.error("Failed to fetch data from Flickr API.");
+          $("#gallery").html(htmlContent);
+        } else {
+          console.error("Invalid API Response Structure", data);
+          $("#gallery").html("<p>画像データが見つかりませんでした。</p>");
+        }
+      }).fail(function(jqxhr, textStatus, error) {
+        console.error("API Call Failed: ", textStatus, error);
         $("#gallery").html("<p>画像を取得できませんでした。</p>");
       });
     });
