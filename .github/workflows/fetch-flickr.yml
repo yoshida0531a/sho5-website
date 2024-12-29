@@ -1,0 +1,28 @@
+name: Fetch Flickr Data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Fetch Flickr photos
+        env:
+          FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }}
+          FLICKR_SECRET_KEY: ${{ secrets.FLICKR_SECRET_KEY }}
+        run: |
+          curl "https://www.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=${FLICKR_API_KEY}&user_id=YOUR_USER_ID&format=json&nojsoncallback=1" > photos.json
+          mkdir -p public
+          mv photos.json public/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
