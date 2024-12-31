@@ -50,7 +50,7 @@
       const correctPassword = "yakiniku";
 
       // パスワード入力を促す
-      const userPassword = prompt("Please enter your password:");
+      const userPassword = prompt("Please enter Password:");
 
       if (userPassword === correctPassword) {
         $("h1").show();
@@ -58,6 +58,7 @@
         loadGallery();
       } else {
         alert("Password is wrong.");
+        window.location.href = "https://sho5.org"; // トップページにリダイレクト
       }
 
       function loadGallery() {
