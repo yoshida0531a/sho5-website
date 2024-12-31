@@ -18,7 +18,7 @@
     }
 
     .gallery {
-      display: flex;
+      display: none; /* 初期状態では非表示 */
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
@@ -26,8 +26,8 @@
     }
 
     .gallery img {
-      width: 400px; /* 横幅 */
-      height: 300px; /* 縦幅 */
+      width: 400px;
+      height: 300px;
       object-fit: cover;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -37,52 +37,103 @@
     .gallery img:hover {
       transform: scale(1.05);
     }
+
+    .password-prompt {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: #ffffff;
+    }
+
+    .password-prompt input {
+      padding: 10px;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+
+    .password-prompt button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+
+    .error-message {
+      color: red;
+      margin-top: 10px;
+    }
   </style>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-  <h1>Shogo Photo Gallery</h1>
+  <div class="password-prompt">
+    <h2>閲覧するにはパスワードを入力してください。</h2>
+    <input type="password" id="password" placeholder="パスワードを入力">
+    <button id="submitPassword">送信</button>
+    <p class="error-message" style="display: none;">閲覧パスワードが間違っています。</p>
+  </div>
+
+  <h1 style="display: none;">Shogo Photo Gallery</h1>
   <div class="gallery" id="gallery"></div>
 
   <script>
     $(document).ready(function() {
-      const apiKey = "2a6f3ef0b0db5d5b3f358caf945c106b"; // 取得したAPIキー
-      const userId = "201939165@N04"; // 表示したいユーザーのID
-      const apiUrl = `https://api.flickr.com/services/rest?api_key=${apiKey}&method=flickr.people.getPublicPhotos&format=json&nojsoncallback=1&extras=url_o,date_taken&user_id=${userId}&per_page=500`;
+      const correctPassword = "yakiniku";
 
-      // Flickr APIからデータを取得
-      $.getJSON(apiUrl, function(data) {
-        console.log("API Response: ", data); // デバッグ用
-        if (data.photos && data.photos.photo) {
-          let photos = data.photos.photo;
-
-          // 撮影日で降順ソート
-          photos.sort((a, b) => new Date(b.datetaken) - new Date(a.datetaken));
-
-          // 最新300枚を抽出
-          photos = photos.slice(0, 300);
-
-          let htmlContent = "";
-
-          // 画像データをHTMLに追加
-          photos.forEach(photo => {
-            const imgUrl = `https://live.staticflickr.com/${photo.server}/${photo.id}_${photo.secret}_z.jpg`; // 軽量画像を使用
-            const originalImgUrl = photo.url_o || imgUrl; // オリジナル画像URL（無い場合は軽量画像URLを使用）
-            htmlContent += `
-              <a href="${originalImgUrl}" target="_blank">
-                <img src="${imgUrl}" alt="${photo.title}">
-              </a>`;
-          });
-
-          $("#gallery").html(htmlContent);
+      // パスワード確認処理
+      $("#submitPassword").click(function() {
+        const enteredPassword = $("#password").val();
+        if (enteredPassword === correctPassword) {
+          $(".password-prompt").hide();
+          $("h1").show();
+          $(".gallery").show();
+          loadGallery();
         } else {
-          console.error("Invalid API Response Structure", data);
-          $("#gallery").html("<p>画像データが見つかりませんでした。</p>");
+          $(".error-message").show();
         }
-      }).fail(function(jqxhr, textStatus, error) {
-        console.error("API Call Failed: ", textStatus, error);
-        $("#gallery").html("<p>画像を取得できませんでした。</p>");
       });
+
+      function loadGallery() {
+        const apiKey = "2a6f3ef0b0db5d5b3f358caf945c106b"; // 取得したAPIキー
+        const userId = "201939165@N04"; // 表示したいユーザーのID
+        const apiUrl = `https://api.flickr.com/services/rest?api_key=${apiKey}&method=flickr.people.getPublicPhotos&format=json&nojsoncallback=1&extras=url_o,date_taken&user_id=${userId}&per_page=500`;
+
+        // Flickr APIからデータを取得
+        $.getJSON(apiUrl, function(data) {
+          console.log("API Response: ", data); // デバッグ用
+          if (data.photos && data.photos.photo) {
+            let photos = data.photos.photo;
+
+            // 撮影日で降順ソート
+            photos.sort((a, b) => new Date(b.datetaken) - new Date(a.datetaken));
+
+            // 最新300枚を抽出
+            photos = photos.slice(0, 300);
+
+            let htmlContent = "";
+
+            // 画像データをHTMLに追加
+            photos.forEach(photo => {
+              const imgUrl = `https://live.staticflickr.com/${photo.server}/${photo.id}_${photo.secret}_z.jpg`; // 軽量画像を使用
+              const originalImgUrl = photo.url_o || imgUrl; // オリジナル画像URL（無い場合は軽量画像URLを使用）
+              htmlContent += `
+                <a href="${originalImgUrl}" target="_blank">
+                  <img src="${imgUrl}" alt="${photo.title}">
+                </a>`;
+            });
+
+            $("#gallery").html(htmlContent);
+          } else {
+            console.error("Invalid API Response Structure", data);
+            $("#gallery").html("<p>画像データが見つかりませんでした。</p>");
+          }
+        }).fail(function(jqxhr, textStatus, error) {
+          console.error("API Call Failed: ", textStatus, error);
+          $("#gallery").html("<p>画像を取得できませんでした。</p>");
+        });
+      }
     });
   </script>
 </body>
