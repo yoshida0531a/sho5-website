@@ -11,6 +11,7 @@
       margin: 0;
       padding: 0;
       text-align: center;
+      overflow-x: hidden; /* 横スクロールを防ぐ */
     }
 
     h1 {
@@ -24,11 +25,14 @@
       justify-content: center;
       gap: 10px;
       margin: 20px;
+      max-width: 100%; /* コンテナ幅を画面内に制限 */
+      overflow: hidden;
     }
 
     .gallery img {
-      width: 400px;
-      height: 300px;
+      width: 100%; /* 親要素に合わせる */
+      max-width: 400px; /* 最大幅を制限 */
+      height: auto; /* アスペクト比を保つ */
       object-fit: cover;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
