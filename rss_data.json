@@ -1,0 +1,51 @@
+[
+  {
+    "title": "日本大で激闘！谷端選手の快進撃",
+    "link": "https://example.com/news1",
+    "pubDate": "2025-02-09T10:00:00Z",
+    "description": "試合は大接戦となり、谷端選手が圧巻のパフォーマンスを見せた。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News1"
+  },
+  {
+    "title": "日大戦で谷端の決定的瞬間",
+    "link": "https://example.com/news2",
+    "pubDate": "2025-02-09T12:00:00Z",
+    "description": "日大戦で谷端選手が勝利を呼び込む活躍を披露。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News2"
+  },
+  {
+    "title": "日本大が新記録！谷端のホームラン炸裂",
+    "link": "https://example.com/news3",
+    "pubDate": "2025-02-08T15:30:00Z",
+    "description": "本日の試合で日本大が驚異の新記録を打ち立てた。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News3"
+  },
+  {
+    "title": "日大、谷端選手が快挙を達成",
+    "link": "https://example.com/news4",
+    "pubDate": "2025-02-07T18:00:00Z",
+    "description": "谷端選手が連続ヒットを記録し、日大が勝利。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News4"
+  },
+  {
+    "title": "日本大、谷端の逆転劇に沸く",
+    "link": "https://example.com/news5",
+    "pubDate": "2025-02-06T11:00:00Z",
+    "description": "逆転勝利に貢献した谷端選手の活躍が光った。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News5"
+  },
+  {
+    "title": "日大、谷端選手が見せた驚異のプレー",
+    "link": "https://example.com/news6",
+    "pubDate": "2025-02-05T09:30:00Z",
+    "description": "試合中に印象的なプレーを披露した谷端選手が注目を浴びる。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News6"
+  },
+  {
+    "title": "日本大、谷端選手が歴史的瞬間を刻む",
+    "link": "https://example.com/news7",
+    "pubDate": "2025-02-04T16:45:00Z",
+    "description": "谷端選手が日本大の歴史に残るプレーを記録。",
+    "imageUrl": "https://via.placeholder.com/80x80.png?text=News7"
+  }
+]
