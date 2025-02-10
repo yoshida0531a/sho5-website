@@ -65,15 +65,14 @@
       border-radius: 10px;
       margin-right: 10px;
     }
-    .news-item .news-title-text {
+    .news-item a {
       flex-grow: 1;
       font-size: 16px;
-    }
-    .news-item .news-link-icon {
-      margin-left: 10px;
       text-decoration: none;
-      font-size: 18px;
-      color: #000;
+      color: inherit;
+    }
+    .news-item a:hover {
+      text-decoration: underline;
     }
     #toggle-archive {
       display: block;
@@ -94,13 +93,13 @@
     <!-- 検索ボックス -->
     <input type="text" id="search" placeholder="Search news...">
     
-    <!-- 直近１週間分のニュース表示エリア -->
+    <!-- 最新ニュース表示エリア -->
     <div id="news-container"></div>
     
     <!-- アーカイブ切替ボタン -->
     <button id="toggle-archive">Show Archive</button>
     
-    <!-- アーカイブ（過去１週間以前、月ごとにグループ化） -->
+    <!-- アーカイブ（最新グループに含まれないニュース、グループは最新ニュース日付を基準に7日以内） -->
     <div id="archive-container" style="display: none;"></div>
   </section>
   
@@ -108,8 +107,8 @@
   
   <script>
     let allItems = [];
-    
-    // rss_data.json を読み込み、各アイテムの pubDate を Date オブジェクトに変換して格納
+
+    // rss_data.json を読み込んで、各アイテムの pubDate を Date オブジェクトに変換
     function loadRSSData() {
       fetch("rss_data.json")
         .then(response => {
@@ -126,6 +125,61 @@
           renderNews();
         })
         .catch(error => console.error("Error loading RSS data:", error));
+    }
+    
+    // 最新ニュースの日付（最も新しいニュースの日付）を取得
+    function getLatestDate(items) {
+      if (items.length === 0) return null;
+      return new Date(Math.max(...items.map(item => item.pubDate.getTime())));
+    }
+    
+    // recent: 最新ニュースから7日以内のもの
+    function renderNews(filterText = "") {
+      const newsContainer = document.getElementById("news-container");
+      const archiveContainer = document.getElementById("archive-container");
+      newsContainer.innerHTML = "";
+      archiveContainer.innerHTML = "";
+      
+      const filteredItems = allItems.filter(item => {
+        const lowerText = (item.title + " " + item.description).toLowerCase();
+        return lowerText.indexOf(filterText.toLowerCase()) !== -1;
+      });
+      
+      // 最新日付を基準に「最近」の期間を決定
+      const latestDate = getLatestDate(filteredItems) || new Date();
+      const recentCutoff = new Date(latestDate.getTime() - 7 * 24 * 60 * 60 * 1000);
+      
+      const recentItems = filteredItems.filter(item => item.pubDate >= recentCutoff);
+      const archiveItems = filteredItems.filter(item => item.pubDate < recentCutoff);
+      
+      // グループ化：日付別（YYYY-MM-DD）
+      const recentGroups = groupByDate(recentItems);
+      // グループ化：月別（YYYY-MM）
+      const archiveGroups = groupByMonth(archiveItems);
+      
+      Object.keys(recentGroups).sort((a, b) => b.localeCompare(a)).forEach(dateKey => {
+        const groupDiv = document.createElement("div");
+        groupDiv.className = "news-date-group";
+        const heading = document.createElement("h3");
+        heading.textContent = dateKey;
+        groupDiv.appendChild(heading);
+        recentGroups[dateKey].forEach(item => {
+          groupDiv.appendChild(createNewsItem(item));
+        });
+        newsContainer.appendChild(groupDiv);
+      });
+      
+      Object.keys(archiveGroups).sort((a, b) => b.localeCompare(a)).forEach(monthKey => {
+        const groupDiv = document.createElement("div");
+        groupDiv.className = "news-date-group";
+        const heading = document.createElement("h3");
+        heading.textContent = monthKey;
+        groupDiv.appendChild(heading);
+        archiveGroups[monthKey].forEach(item => {
+          groupDiv.appendChild(createNewsItem(item));
+        });
+        archiveContainer.appendChild(groupDiv);
+      });
     }
     
     // 日付ごとにグループ化（YYYY-MM-DD）
@@ -152,69 +206,23 @@
     function createNewsItem(item) {
       const div = document.createElement("div");
       div.className = "news-item";
+      
       if (item.imageUrl) {
         const img = document.createElement("img");
         img.src = item.imageUrl;
         img.alt = "";
+        // 画像が読み込めなかった場合、代替画像を表示する（必要に応じてURLを変更）
+        img.onerror = () => { img.src = "https://via.placeholder.com/80x80.png?text=No+Image"; };
         div.appendChild(img);
       }
-      const titleSpan = document.createElement("span");
-      titleSpan.className = "news-title-text";
-      titleSpan.textContent = item.title;
-      div.appendChild(titleSpan);
-      const linkIcon = document.createElement("a");
-      linkIcon.className = "news-link-icon";
-      linkIcon.href = item.link;
-      linkIcon.target = "_blank";
-      linkIcon.textContent = "🔗";
-      div.appendChild(linkIcon);
+      // タイトルをリンク化する
+      const link = document.createElement("a");
+      link.href = item.link;
+      link.target = "_blank";
+      link.textContent = item.title;
+      div.appendChild(link);
+      
       return div;
-    }
-    
-    // ニュースのレンダリング（検索テキストがある場合はフィルター）
-    function renderNews(filterText = "") {
-      const newsContainer = document.getElementById("news-container");
-      const archiveContainer = document.getElementById("archive-container");
-      newsContainer.innerHTML = "";
-      archiveContainer.innerHTML = "";
-      
-      const now = new Date();
-      const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-      
-      const filteredItems = allItems.filter(item => {
-        const lowerText = (item.title + " " + item.description).toLowerCase();
-        return lowerText.indexOf(filterText.toLowerCase()) !== -1;
-      });
-      
-      const recentItems = filteredItems.filter(item => item.pubDate >= oneWeekAgo);
-      const archiveItems = filteredItems.filter(item => item.pubDate < oneWeekAgo);
-      
-      const recentGroups = groupByDate(recentItems);
-      const archiveGroups = groupByMonth(archiveItems);
-      
-      Object.keys(recentGroups).sort((a, b) => b.localeCompare(a)).forEach(dateKey => {
-        const groupDiv = document.createElement("div");
-        groupDiv.className = "news-date-group";
-        const heading = document.createElement("h3");
-        heading.textContent = dateKey;
-        groupDiv.appendChild(heading);
-        recentGroups[dateKey].forEach(item => {
-          groupDiv.appendChild(createNewsItem(item));
-        });
-        newsContainer.appendChild(groupDiv);
-      });
-      
-      Object.keys(archiveGroups).sort((a, b) => b.localeCompare(a)).forEach(monthKey => {
-        const groupDiv = document.createElement("div");
-        groupDiv.className = "news-date-group";
-        const heading = document.createElement("h3");
-        heading.textContent = monthKey;
-        groupDiv.appendChild(heading);
-        archiveGroups[monthKey].forEach(item => {
-          groupDiv.appendChild(createNewsItem(item));
-        });
-        archiveContainer.appendChild(groupDiv);
-      });
     }
     
     // 検索ボックスのイベント
