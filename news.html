@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>News Nexus - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: white;
+      color: black;
+    }
+    header {
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      margin: 20px 0;
+    }
+    .news-feed {
+      width: calc(100% - 20px);
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .news-feed .news-title {
+      font-size: 32px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #search {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .news-date-group {
+      margin-bottom: 30px;
+    }
+    .news-date-group h3 {
+      font-size: 20px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .news-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      padding: 5px;
+    }
+    .news-item img {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 10px;
+      margin-right: 10px;
+    }
+    .news-item .news-title-text {
+      flex-grow: 1;
+      font-size: 16px;
+    }
+    .news-item .news-link-icon {
+      margin-left: 10px;
+      text-decoration: none;
+      font-size: 18px;
+      color: #000;
+    }
+    #toggle-archive {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      background: none;
+      border: 1px solid #000;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>News Nexus</header>
+  
+  <section class="news-feed">
+    <!-- 検索ボックス -->
+    <input type="text" id="search" placeholder="Search news...">
+    
+    <!-- 直近１週間分のニュース表示エリア -->
+    <div id="news-container"></div>
+    
+    <!-- アーカイブ切替ボタン -->
+    <button id="toggle-archive">Show Archive</button>
+    
+    <!-- アーカイブ（過去１週間以前、月ごとにグループ化） -->
+    <div id="archive-container" style="display: none;"></div>
+  </section>
+  
+  <footer>Copyright © 2023-2024 Akira Yoshida.</footer>
+  
+  <script>
+    let allItems = [];
+    
+    // JSON（rss_data.json）からRSSデータを読み込む
+    function loadRSSData() {
+      fetch("rss_data.json")
+        .then(response => response.json())
+        .then(data => {
+          allItems = data.map(item => ({
+            ...item,
+            pubDate: new Date(item.pubDate)
+          }));
+          renderNews();
+        })
+        .catch(error => console.error("Error loading RSS data:", error));
+    }
+    
+    // 日付ごとにグループ化（YYYY-MM-DD）
+    function groupByDate(items) {
+      return items.reduce((groups, item) => {
+        const dateKey = item.pubDate.toISOString().split("T")[0];
+        if (!groups[dateKey]) groups[dateKey] = [];
+        groups[dateKey].push(item);
+        return groups;
+      }, {});
+    }
+    
+    // 月ごとにグループ化（YYYY-MM）
+    function groupByMonth(items) {
+      return items.reduce((groups, item) => {
+        const monthKey = item.pubDate.getFullYear() + "-" + String(item.pubDate.getMonth()+1).padStart(2, "0");
+        if (!groups[monthKey]) groups[monthKey] = [];
+        groups[monthKey].push(item);
+        return groups;
+      }, {});
+    }
+    
+    // ニュースアイテムのHTML作成
+    function createNewsItem(item) {
+      const div = document.createElement("div");
+      div.className = "news-item";
+      
+      // 画像（ある場合のみ）
+      if (item.imageUrl) {
+        const img = document.createElement("img");
+        img.src = item.imageUrl;
+        img.alt = "";
+        div.appendChild(img);
+      }
+      
+      // タイトル（リンクは横のアイコンで）
+      const titleSpan = document.createElement("span");
+      titleSpan.className = "news-title-text";
+      titleSpan.textContent = item.title;
+      div.appendChild(titleSpan);
+      
+      // リンクアイコン（クリックで元記事へ）
+      const linkIcon = document.createElement("a");
+      linkIcon.className = "news-link-icon";
+      linkIcon.href = item.link;
+      linkIcon.target = "_blank";
+      linkIcon.textContent = "🔗";
+      div.appendChild(linkIcon);
+      
+      return div;
+    }
+    
+    // ニュースレンダリング（検索テキストがある場合はフィルター）
+    function renderNews(filterText = "") {
+      const newsContainer = document.getElementById("news-container");
+      const archiveContainer = document.getElementById("archive-container");
+      newsContainer.innerHTML = "";
+      archiveContainer.innerHTML = "";
+      
+      const now = new Date();
+      const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+      
+      const filteredItems = allItems.filter(item => {
+        const lowerText = (item.title + " " + item.description).toLowerCase();
+        return lowerText.indexOf(filterText.toLowerCase()) !== -1;
+      });
+      
+      const recentItems = filteredItems.filter(item => item.pubDate >= oneWeekAgo);
+      const archiveItems = filteredItems.filter(item => item.pubDate < oneWeekAgo);
+      
+      const recentGroups = groupByDate(recentItems);
+      const archiveGroups = groupByMonth(archiveItems);
+      
+      // 直近のニュース（日付ごと）
+      Object.keys(recentGroups).sort((a, b) => b.localeCompare(a)).forEach(dateKey => {
+        const groupDiv = document.createElement("div");
+        groupDiv.className = "news-date-group";
+        const heading = document.createElement("h3");
+        heading.textContent = dateKey;
+        groupDiv.appendChild(heading);
+        recentGroups[dateKey].forEach(item => {
+          groupDiv.appendChild(createNewsItem(item));
+        });
+        newsContainer.appendChild(groupDiv);
+      });
+      
+      // アーカイブ（月ごと）
+      Object.keys(archiveGroups).sort((a, b) => b.localeCompare(a)).forEach(monthKey => {
+        const groupDiv = document.createElement("div");
+        groupDiv.className = "news-date-group";
+        const heading = document.createElement("h3");
+        heading.textContent = monthKey;
+        groupDiv.appendChild(heading);
+        archiveGroups[monthKey].forEach(item => {
+          groupDiv.appendChild(createNewsItem(item));
+        });
+        archiveContainer.appendChild(groupDiv);
+      });
+    }
+    
+    // 検索ボックスのイベント
+    document.getElementById("search").addEventListener("input", (e) => {
+      renderNews(e.target.value);
+    });
+    
+    // アーカイブ切替ボタンのイベント
+    document.getElementById("toggle-archive").addEventListener("click", () => {
+      const archiveContainer = document.getElementById("archive-container");
+      if (archiveContainer.style.display === "none") {
+        archiveContainer.style.display = "block";
+        document.getElementById("toggle-archive").textContent = "Hide Archive";
+      } else {
+        archiveContainer.style.display = "none";
+        document.getElementById("toggle-archive").textContent = "Show Archive";
+      }
+    });
+    
+    loadRSSData();
+  </script>
+</body>
+</html>
