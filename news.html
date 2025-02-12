@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- viewport の設定でモバイルでも横幅が切れないように -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>News Nexus - Shogo Fun Site</title>
+  <!-- メインページと同じフォント（Poppins）を使用 -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
     body {
@@ -29,6 +31,13 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
+    }
+    /* モバイル向けの調整 */
+    @media (max-width: 600px) {
+      .news-feed {
+        width: 100%;
+        padding: 10px;
+      }
     }
     .news-feed .news-title {
       font-size: 32px;
@@ -83,7 +92,7 @@
     <!-- 検索ボックス -->
     <input type="text" id="search" placeholder="Search news...">
     
-    <!-- 最新ニュース表示エリア（7日以内の記事） -->
+    <!-- 最新ニュース表示エリア（直近10記事） -->
     <div id="news-container"></div>
     
     <!-- アーカイブページへのリンク -->
@@ -94,7 +103,6 @@
   
   <script>
     let allItems = [];
-    
     // rss_data.json を読み込み、各記事の pubDate を Date オブジェクトに変換
     function loadRSSData() {
       fetch("rss_data.json")
@@ -111,7 +119,6 @@
         })
         .catch(error => console.error("Error loading RSS data:", error));
     }
-    
     // 日付ごとにグループ化（YYYY-MM-DD）
     function groupByDate(items) {
       return items.reduce((groups, item) => {
@@ -121,12 +128,10 @@
         return groups;
       }, {});
     }
-    
     // 各ニュース項目の HTML を生成
     function createNewsItem(item) {
       const div = document.createElement("div");
       div.className = "news-item";
-      
       if (item.imageUrl) {
         const img = document.createElement("img");
         img.src = item.imageUrl;
@@ -139,22 +144,17 @@
       link.target = "_blank";
       link.textContent = item.title;
       div.appendChild(link);
-      
       return div;
     }
-    
     // 最新記事をレンダリング（グループは日付ごと）
     function renderNews(filterText = "") {
       const newsContainer = document.getElementById("news-container");
       newsContainer.innerHTML = "";
-      
       const filteredItems = allItems.filter(item => {
         const lowerText = (item.title + " " + item.description).toLowerCase();
         return lowerText.indexOf(filterText.toLowerCase()) !== -1;
       });
-      
       const groups = groupByDate(filteredItems);
-      
       Object.keys(groups)
         .sort((a, b) => b.localeCompare(a))
         .forEach(dateKey => {
@@ -169,13 +169,9 @@
           newsContainer.appendChild(groupDiv);
         });
     }
-    
-    // 検索ボックスのイベント
     document.getElementById("search").addEventListener("input", (e) => {
       renderNews(e.target.value);
     });
-    
-    // ページ読み込み時に rss_data.json をロード
     loadRSSData();
   </script>
 </body>
