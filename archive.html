@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- viewport の設定 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>News Nexus Archive - Shogo Fun Site</title>
+  <!-- 同じ Poppins フォントを使用 -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
     body {
@@ -29,6 +31,12 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
+    }
+    @media (max-width: 600px) {
+      .news-feed {
+        width: 100%;
+        padding: 10px;
+      }
     }
     .news-feed .news-title {
       font-size: 32px;
@@ -94,7 +102,6 @@
   
   <script>
     let allItems = [];
-    
     // archive/rss_archive.json を読み込み、各記事の pubDate を Date オブジェクトに変換
     function loadRSSData() {
       fetch("archive/rss_archive.json")
@@ -111,7 +118,6 @@
         })
         .catch(error => console.error("Error loading archive RSS data:", error));
     }
-    
     // 月ごとにグループ化（YYYY-MM）
     function groupByMonth(items) {
       return items.reduce((groups, item) => {
@@ -121,12 +127,10 @@
         return groups;
       }, {});
     }
-    
     // 各ニュース項目の HTML を生成
     function createNewsItem(item) {
       const div = document.createElement("div");
       div.className = "news-item";
-      
       if (item.imageUrl) {
         const img = document.createElement("img");
         img.src = item.imageUrl;
@@ -139,22 +143,17 @@
       link.target = "_blank";
       link.textContent = item.title;
       div.appendChild(link);
-      
       return div;
     }
-    
     // アーカイブ記事をレンダリング（グループは月別）
     function renderNews(filterText = "") {
       const newsContainer = document.getElementById("news-container");
       newsContainer.innerHTML = "";
-      
       const filteredItems = allItems.filter(item => {
         const lowerText = (item.title + " " + item.description).toLowerCase();
         return lowerText.indexOf(filterText.toLowerCase()) !== -1;
       });
-      
       const groups = groupByMonth(filteredItems);
-      
       Object.keys(groups)
         .sort((a, b) => b.localeCompare(a))
         .forEach(monthKey => {
@@ -169,11 +168,9 @@
           newsContainer.appendChild(groupDiv);
         });
     }
-    
     document.getElementById("search").addEventListener("input", (e) => {
       renderNews(e.target.value);
     });
-    
     loadRSSData();
   </script>
 </body>
