@@ -5,13 +5,10 @@
   <!-- viewport の設定でモバイルでも横幅が切れないように -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>News Nexus - Shogo Fun Site</title>
-  <!-- メインページと同じフォント（Poppins）を使用 -->
+  <!-- Poppins フォント -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    /* 全体に box-sizing を適用 */
-    *, *:before, *:after {
-      box-sizing: border-box;
-    }
+    *, *:before, *:after { box-sizing: border-box; }
     body {
       margin: 0;
       padding: 0;
@@ -36,19 +33,9 @@
       margin: 0 auto;
       padding: 20px;
     }
-    /* モバイル向けの調整 */
     @media (max-width: 600px) {
-      .news-feed {
-        width: 100%;
-        padding: 10px;
-      }
+      .news-feed { width: 100%; padding: 10px; }
     }
-    .news-feed .news-title {
-      font-size: 32px;
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    /* 検索ボックス：幅100%＆box-sizingで余白込み */
     #search {
       width: 100%;
       padding: 10px;
@@ -58,9 +45,7 @@
       border-radius: 5px;
       box-sizing: border-box;
     }
-    .news-date-group {
-      margin-bottom: 30px;
-    }
+    .news-date-group { margin-bottom: 30px; }
     .news-date-group h3 {
       font-size: 20px;
       margin-bottom: 10px;
@@ -86,8 +71,16 @@
       text-decoration: none;
       color: inherit;
     }
-    .news-item a:hover {
-      text-decoration: underline;
+    .news-item a:hover { text-decoration: underline; }
+    #loadMoreButton {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: 1px solid #000;
+      background: none;
+      border-radius: 5px;
+      cursor: pointer;
     }
   </style>
 </head>
@@ -98,20 +91,21 @@
     <!-- 検索ボックス -->
     <input type="text" id="search" placeholder="Search news...">
     
-    <!-- 最新ニュース表示エリア（直近10記事） -->
+    <!-- 最新ニュース表示エリア -->
     <div id="news-container"></div>
     
-    <!-- アーカイブページへのリンク -->
-    <p style="text-align: center;"><a href="archive.html">View Archive</a></p>
+    <!-- Load More ボタン -->
+    <button id="loadMoreButton">Load More</button>
   </section>
   
   <footer>Copyright © 2023-2024 Akira Yoshida.</footer>
   
   <script>
     let allItems = [];
-    // rss_data.json を読み込み、各記事の pubDate を Date オブジェクトに変換
-    function loadRSSData() {
-      fetch("rss_data.json")
+    
+    // 指定した JSON ファイルを読み込み、各記事の pubDate を Date オブジェクトに変換
+    function loadNews(dataSource) {
+      fetch(dataSource)
         .then(response => {
           if (!response.ok) throw new Error("Network response was not ok");
           return response.json();
@@ -123,8 +117,9 @@
           }));
           renderNews();
         })
-        .catch(error => console.error("Error loading RSS data:", error));
+        .catch(error => console.error("Error loading news:", error));
     }
+    
     // 日付ごとにグループ化（YYYY-MM-DD）
     function groupByDate(items) {
       return items.reduce((groups, item) => {
@@ -134,6 +129,7 @@
         return groups;
       }, {});
     }
+    
     // 各ニュース項目の HTML を生成
     function createNewsItem(item) {
       const div = document.createElement("div");
@@ -152,33 +148,8 @@
       div.appendChild(link);
       return div;
     }
-    // 最新記事をレンダリング（グループは日付ごと）
+    
+    // ニュースをレンダリング（フィルター文字列に応じたグループ表示）
     function renderNews(filterText = "") {
       const newsContainer = document.getElementById("news-container");
-      newsContainer.innerHTML = "";
-      const filteredItems = allItems.filter(item => {
-        const lowerText = (item.title + " " + item.description).toLowerCase();
-        return lowerText.indexOf(filterText.toLowerCase()) !== -1;
-      });
-      const groups = groupByDate(filteredItems);
-      Object.keys(groups)
-        .sort((a, b) => b.localeCompare(a))
-        .forEach(dateKey => {
-          const groupDiv = document.createElement("div");
-          groupDiv.className = "news-date-group";
-          const heading = document.createElement("h3");
-          heading.textContent = dateKey;
-          groupDiv.appendChild(heading);
-          groups[dateKey].forEach(item => {
-            groupDiv.appendChild(createNewsItem(item));
-          });
-          newsContainer.appendChild(groupDiv);
-        });
-    }
-    document.getElementById("search").addEventListener("input", (e) => {
-      renderNews(e.target.value);
-    });
-    loadRSSData();
-  </script>
-</body>
-</html>
+      newsContainer.innerHTML
