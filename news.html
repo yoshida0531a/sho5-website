@@ -8,6 +8,10 @@
   <!-- メインページと同じフォント（Poppins）を使用 -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    /* 全体に box-sizing を適用 */
+    *, *:before, *:after {
+      box-sizing: border-box;
+    }
     body {
       margin: 0;
       padding: 0;
@@ -44,6 +48,7 @@
       text-align: center;
       margin-bottom: 20px;
     }
+    /* 検索ボックス：幅100%＆box-sizingで余白込み */
     #search {
       width: 100%;
       padding: 10px;
@@ -51,6 +56,7 @@
       margin-bottom: 20px;
       border: 1px solid #ccc;
       border-radius: 5px;
+      box-sizing: border-box;
     }
     .news-date-group {
       margin-bottom: 30px;
@@ -72,107 +78,4 @@
       height: 80px;
       object-fit: cover;
       border-radius: 10px;
-      margin-right: 10px;
-    }
-    .news-item a {
-      flex-grow: 1;
-      font-size: 16px;
-      text-decoration: none;
-      color: inherit;
-    }
-    .news-item a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <header>News Nexus</header>
-  
-  <section class="news-feed">
-    <!-- 検索ボックス -->
-    <input type="text" id="search" placeholder="Search news...">
-    
-    <!-- 最新ニュース表示エリア（直近10記事） -->
-    <div id="news-container"></div>
-    
-    <!-- アーカイブページへのリンク -->
-    <p style="text-align: center;"><a href="archive.html">View Archive</a></p>
-  </section>
-  
-  <footer>Copyright © 2023-2024 Akira Yoshida.</footer>
-  
-  <script>
-    let allItems = [];
-    // rss_data.json を読み込み、各記事の pubDate を Date オブジェクトに変換
-    function loadRSSData() {
-      fetch("rss_data.json")
-        .then(response => {
-          if (!response.ok) throw new Error("Network response was not ok");
-          return response.json();
-        })
-        .then(data => {
-          allItems = data.map(item => ({
-            ...item,
-            pubDate: new Date(item.pubDate)
-          }));
-          renderNews();
-        })
-        .catch(error => console.error("Error loading RSS data:", error));
-    }
-    // 日付ごとにグループ化（YYYY-MM-DD）
-    function groupByDate(items) {
-      return items.reduce((groups, item) => {
-        const dateKey = item.pubDate.toISOString().split("T")[0];
-        if (!groups[dateKey]) groups[dateKey] = [];
-        groups[dateKey].push(item);
-        return groups;
-      }, {});
-    }
-    // 各ニュース項目の HTML を生成
-    function createNewsItem(item) {
-      const div = document.createElement("div");
-      div.className = "news-item";
-      if (item.imageUrl) {
-        const img = document.createElement("img");
-        img.src = item.imageUrl;
-        img.alt = "";
-        img.onerror = () => { img.src = "https://via.placeholder.com/80x80.png?text=No+Image"; };
-        div.appendChild(img);
-      }
-      const link = document.createElement("a");
-      link.href = item.link;
-      link.target = "_blank";
-      link.textContent = item.title;
-      div.appendChild(link);
-      return div;
-    }
-    // 最新記事をレンダリング（グループは日付ごと）
-    function renderNews(filterText = "") {
-      const newsContainer = document.getElementById("news-container");
-      newsContainer.innerHTML = "";
-      const filteredItems = allItems.filter(item => {
-        const lowerText = (item.title + " " + item.description).toLowerCase();
-        return lowerText.indexOf(filterText.toLowerCase()) !== -1;
-      });
-      const groups = groupByDate(filteredItems);
-      Object.keys(groups)
-        .sort((a, b) => b.localeCompare(a))
-        .forEach(dateKey => {
-          const groupDiv = document.createElement("div");
-          groupDiv.className = "news-date-group";
-          const heading = document.createElement("h3");
-          heading.textContent = dateKey;
-          groupDiv.appendChild(heading);
-          groups[dateKey].forEach(item => {
-            groupDiv.appendChild(createNewsItem(item));
-          });
-          newsContainer.appendChild(groupDiv);
-        });
-    }
-    document.getElementById("search").addEventListener("input", (e) => {
-      renderNews(e.target.value);
-    });
-    loadRSSData();
-  </script>
-</body>
-</html>
+      margin-ri
