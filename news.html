@@ -1,155 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <!-- viewport の設定でモバイルでも横幅が切れないように -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>News Nexus - Shogo Fun Site</title>
-  <!-- Poppins フォント -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    *, *:before, *:after { box-sizing: border-box; }
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Poppins', sans-serif;
-      background-color: white;
-      color: black;
-    }
-    header {
-      text-align: center;
-      font-size: 28px;
-      font-weight: bold;
-      margin: 20px 0;
-    }
-    footer {
-      text-align: center;
-      font-size: 12px;
-      margin: 20px 0;
-    }
-    .news-feed {
-      width: calc(100% - 20px);
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    @media (max-width: 600px) {
-      .news-feed { width: 100%; padding: 10px; }
-    }
-    #search {
-      width: 100%;
-      padding: 10px;
-      font-size: 16px;
-      margin-bottom: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      box-sizing: border-box;
-    }
-    .news-date-group { margin-bottom: 30px; }
-    .news-date-group h3 {
-      font-size: 20px;
-      margin-bottom: 10px;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 5px;
-    }
-    .news-item {
-      display: flex;
-      align-items: center;
-      margin-bottom: 10px;
-      padding: 5px;
-    }
-    .news-item img {
-      width: 80px;
-      height: 80px;
-      object-fit: cover;
-      border-radius: 10px;
-      margin-right: 10px;
-    }
-    .news-item a {
-      flex-grow: 1;
-      font-size: 16px;
-      text-decoration: none;
-      color: inherit;
-    }
-    .news-item a:hover { text-decoration: underline; }
-    #loadMoreButton {
-      display: block;
-      margin: 20px auto;
-      padding: 10px 20px;
-      font-size: 16px;
-      border: 1px solid #000;
-      background: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-  </style>
-</head>
-<body>
-  <header>News Nexus</header>
-  
-  <section class="news-feed">
-    <!-- 検索ボックス -->
-    <input type="text" id="search" placeholder="Search news...">
+<button id="loadMore">Load More</button>
+
+<script>
+  let allArticles = []; // 全記事を保存する変数
+  let displayedArticles = []; // 表示中の記事リスト
+  const newsContainer = document.getElementById("news-container");
+  const loadMoreBtn = document.getElementById("loadMore");
+
+  async function fetchNews() {
+    const response = await fetch("rss_data.json");
+    allArticles = await response.json();
     
-    <!-- 最新ニュース表示エリア -->
-    <div id="news-container"></div>
+    const now = new Date();
+    const threeMonthsAgo = new Date();
+    threeMonthsAgo.setMonth(now.getMonth() - 3);
     
-    <!-- Load More ボタン -->
-    <button id="loadMoreButton">Load More</button>
-  </section>
-  
-  <footer>Copyright © 2023-2024 Akira Yoshida.</footer>
-  
-  <script>
-    let allItems = [];
-    
-    // 指定した JSON ファイルを読み込み、各記事の pubDate を Date オブジェクトに変換
-    function loadNews(dataSource) {
-      fetch(dataSource)
-        .then(response => {
-          if (!response.ok) throw new Error("Network response was not ok");
-          return response.json();
-        })
-        .then(data => {
-          allItems = data.map(item => ({
-            ...item,
-            pubDate: new Date(item.pubDate)
-          }));
-          renderNews();
-        })
-        .catch(error => console.error("Error loading news:", error));
-    }
-    
-    // 日付ごとにグループ化（YYYY-MM-DD）
-    function groupByDate(items) {
-      return items.reduce((groups, item) => {
-        const dateKey = item.pubDate.toISOString().split("T")[0];
-        if (!groups[dateKey]) groups[dateKey] = [];
-        groups[dateKey].push(item);
-        return groups;
-      }, {});
-    }
-    
-    // 各ニュース項目の HTML を生成
-    function createNewsItem(item) {
-      const div = document.createElement("div");
-      div.className = "news-item";
-      if (item.imageUrl) {
-        const img = document.createElement("img");
-        img.src = item.imageUrl;
-        img.alt = "";
-        img.onerror = () => { img.src = "https://via.placeholder.com/80x80.png?text=No+Image"; };
-        div.appendChild(img);
-      }
-      const link = document.createElement("a");
-      link.href = item.link;
-      link.target = "_blank";
-      link.textContent = item.title;
-      div.appendChild(link);
-      return div;
-    }
-    
-    // ニュースをレンダリング（フィルター文字列に応じたグループ表示）
-    function renderNews(filterText = "") {
-      const newsContainer = document.getElementById("news-container");
-      newsContainer.innerHTML
+    displayedArticles = allArticles.filter(article => new Date(article.pubDate) >= threeMonthsAgo);
+    renderNews(displayedArticles);
+  }
+
+  function renderNews(articles) {
+    newsContainer.innerHTML = articles.map(article => `
+      <div class="news-item">
+        <h3>${article.title}</h3>
+        <p>${article.pubDate}</p>
+        <p>${article.description}</p>
+      </div>
+    `).join("");
+  }
+
+  loadMoreBtn.addEventListener("click", () => {
+    renderNews(allArticles); // すべての記事を表示
+    loadMoreBtn.style.display = "none"; // ボタンを非表示にする
+  });
+
+  fetchNews();
+</script>
