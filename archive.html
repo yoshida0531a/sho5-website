@@ -8,6 +8,10 @@
   <!-- 同じ Poppins フォントを使用 -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    /* 全体に box-sizing を適用 */
+    *, *:before, *:after {
+      box-sizing: border-box;
+    }
     body {
       margin: 0;
       padding: 0;
@@ -43,6 +47,7 @@
       text-align: center;
       margin-bottom: 20px;
     }
+    /* 検索ボックス */
     #search {
       width: 100%;
       padding: 10px;
@@ -50,6 +55,7 @@
       margin-bottom: 20px;
       border: 1px solid #ccc;
       border-radius: 5px;
+      box-sizing: border-box;
     }
     .news-date-group {
       margin-bottom: 30px;
