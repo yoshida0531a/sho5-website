@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <!-- viewport の設定（モバイルでも正しく表示） -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Newsroom- Shogo Fun Site</title>
+  <title>Newsroom - Shogo Fun Site</title>
   <!-- Poppins フォントの読み込み -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
@@ -87,55 +87,67 @@
   </section>
   
   <script>
-    let allArticles = [];      // JSON から取得した全記事
-    let initialArticles = [];  // 直近3ヶ月以内の記事
+    let allArticles = [];      // rss_data.json と all_news_sites.json を統合した全記事
+    let initialArticles = [];  // 直近3ヶ月以内の記事（初回表示用）
     let isAllDisplayed = false; // Load More が押されたかどうか
 
     const newsContainer = document.getElementById("news-container");
     const loadMoreBtn = document.getElementById("loadMore");
     const searchInput = document.getElementById("search");
 
-    // rss_data.json から記事を取得
+    // rss_data.json と all_news_sites.json の両方を取得し統合する
     async function fetchNews() {
       try {
-        const response = await fetch("rss_data.json");
-        if (!response.ok) throw new Error("Network response was not ok");
-        allArticles = await response.json();
+        const [rssResponse, sitesResponse] = await Promise.all([
+          fetch("rss_data.json"),
+          fetch("all_news_sites.json")
+        ]);
+
+        if (!rssResponse.ok || !sitesResponse.ok) throw new Error("Network response was not ok");
+
+        const rssData = await rssResponse.json();
+        const sitesData = await sitesResponse.json();
+
+        // 統合（重複の除外は必要に応じて追加できます）
+        allArticles = [...rssData, ...sitesData];
+
         // 各記事の pubDate を Date オブジェクトに変換
         allArticles = allArticles.map(article => ({
           ...article,
           pubDate: new Date(article.pubDate)
         }));
-        // 直近3ヶ月の日付を算出
+
+        // 新しい順にソート（最新の記事が先頭に）
+        allArticles.sort((a, b) => b.pubDate - a.pubDate);
+
+        // 直近3ヶ月の記事のみを初期表示用に抽出
         const now = new Date();
         const threeMonthsAgo = new Date(now);
         threeMonthsAgo.setMonth(now.getMonth() - 3);
-        // 直近3ヶ月の記事を抽出
         initialArticles = allArticles.filter(article => article.pubDate >= threeMonthsAgo);
-        // 初回は直近3ヶ月の記事を表示
+
         renderNews();
       } catch (error) {
         console.error("Error fetching news:", error);
       }
     }
 
-    // 表示記事をレンダリングする関数
+    // 記事をレンダリングする関数
     function renderNews() {
       const searchQuery = searchInput.value.trim().toLowerCase();
-      // 検索クエリがある場合は、全記事から検索（Load More の状態に関わらず）
       let articlesToDisplay = searchQuery
         ? allArticles.filter(article => {
-            const text = (article.title + " " + article.description).toLowerCase();
+            const text = (article.title + " " + (article.description || article.summary || "")).toLowerCase();
             return text.includes(searchQuery);
           })
         : (isAllDisplayed ? allArticles : initialArticles);
 
-      // 記事リストを生成（ここではタイトル、公開日時、説明を表示）
       newsContainer.innerHTML = articlesToDisplay.map(article => `
         <div class="news-item">
-          <h3>${article.title}</h3>
+          <h3><a href="${article.link}" target="_blank">${article.title}</a></h3>
           <p>${article.pubDate.toLocaleString()}</p>
-          <p>${article.description}</p>
+          <p>${article.description || article.summary || ""}</p>
+          ${article.imageUrl ? `<img src="${article.imageUrl}" alt="Image" style="width:100%; max-height:200px; object-fit:cover; border-radius:5px;">` : ""}
         </div>
       `).join("");
     }
@@ -144,10 +156,10 @@
     loadMoreBtn.addEventListener("click", () => {
       isAllDisplayed = true;
       renderNews();
-      loadMoreBtn.style.display = "none"; // ボタン非表示
+      loadMoreBtn.style.display = "none"; // ボタンを非表示
     });
 
-    // 検索ボックスの入力イベント：検索結果を常に全記事から抽出
+    // 検索ボックスの入力イベント：検索結果は常に全記事から抽出
     searchInput.addEventListener("input", () => {
       renderNews();
     });
