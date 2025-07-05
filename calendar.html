@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>スケジュール - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Noto Sans JP', sans-serif;
+      background-color: white;
+      color: black;
+      line-height: 1.8; /* 行間を広く */
+    }
+    
+    header {
+      text-align: center;
+      font-size: 32px; /* より大きく */
+      font-weight: 700;
+      margin: 30px 0;
+      color: black;
+    }
+    
+    .calendar-container {
+      width: 100%;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    /* カレンダーナビゲーション */
+    .calendar-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+      padding: 20px;
+      background: #f8f9fa;
+      border-radius: 15px;
+    }
+    
+    .nav-btn {
+      background: #FF9800;
+      color: white;
+      border: none;
+      padding: 15px 25px;
+      border-radius: 25px;
+      font-size: 18px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.3s;
+      min-width: 80px;
+    }
+    
+    .nav-btn:hover {
+      background: #F57C00;
+    }
+    
+    .nav-btn:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+    
+    .current-month {
+      font-size: 28px;
+      font-weight: 700;
+      color: black;
+      text-align: center;
+      flex: 1;
+    }
+    
+    /* カレンダーグリッド */
+    .calendar-grid {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 2px;
+      background: #ddd;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 30px;
+    }
+    
+    .calendar-header {
+      background: #FF9800;
+      color: white;
+      padding: 15px 5px;
+      text-align: center;
+      font-weight: 700;
+      font-size: 18px;
+    }
+    
+    .calendar-day {
+      background: white;
+      padding: 15px 5px;
+      min-height: 80px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      border: 1px solid #eee;
+    }
+    
+    .calendar-day.other-month {
+      background: #f8f9fa;
+      color: #ccc;
+    }
+    
+    .calendar-day.today {
+      background: #fff3e0;
+      border: 3px solid #FF9800;
+    }
+    
+    .calendar-day.has-event {
+      background: #e8f5e8;
+    }
+    
+    .day-number {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+    
+    .event-indicator {
+      width: 8px;
+      height: 8px;
+      background: #FF9800;
+      border-radius: 50%;
+      margin: 1px;
+    }
+    
+    /* イベントリスト */
+    .events-section {
+      margin: 30px 0;
+    }
+    
+    .section-title {
+      font-size: 24px;
+      font-weight: 700;
+      margin: 30px 0 20px 0;
+      color: black;
+      border-bottom: 3px solid #FF9800;
+      padding-bottom: 10px;
+    }
+    
+    .event-list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    
+    .event-item {
+      background: white;
+      border: 2px solid #eee;
+      border-radius: 15px;
+      padding: 20px;
+      transition: all 0.3s;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    
+    .event-item:hover {
+      border-color: #FF9800;
+      box-shadow: 0 4px 12px rgba(255,152,0,0.15);
+    }
+    
+    .event-date {
+      font-size: 16px;
+      color: #FF9800;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    
+    .event-title {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: black;
+    }
+    
+    .event-description {
+      font-size: 16px;
+      color: #666;
+      line-height: 1.6;
+    }
+    
+    .event-time {
+      font-size: 14px;
+      color: #888;
+      margin-top: 5px;
+    }
+    
+    /* 今日のイベント特別表示 */
+    .today-events {
+      background: #fff3e0;
+      border: 3px solid #FF9800;
+    }
+    
+    /* レスポンシブデザイン */
+    @media (max-width: 768px) {
+      .calendar-container {
+        padding: 10px;
+      }
+      
+      header {
+        font-size: 28px;
+        margin: 20px 0;
+      }
+      
+      .calendar-nav {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px;
+      }
+      
+      .nav-buttons {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 200px;
+      }
+      
+      .nav-btn {
+        padding: 12px 20px;
+        font-size: 16px;
+        min-width: 70px;
+      }
+      
+      .current-month {
+        font-size: 24px;
+        order: -1;
+      }
+      
+      .calendar-grid {
+        gap: 1px;
+      }
+      
+      .calendar-header {
+        padding: 10px 2px;
+        font-size: 14px;
+      }
+      
+      .calendar-day {
+        min-height: 60px;
+        padding: 10px 2px;
+      }
+      
+      .day-number {
+        font-size: 16px;
+      }
+      
+      .event-item {
+        padding: 15px;
+      }
+      
+      .event-title {
+        font-size: 18px;
+      }
+    }
+    
+    /* 印刷用スタイル */
+    @media print {
+      .calendar-nav {
+        display: none;
+      }
+      body {
+        font-size: 12pt;
+      }
+      .event-item {
+        break-inside: avoid;
+        page-break-inside: avoid;
+      }
+    }
+    
+    /* 更新情報 */
+    .update-info {
+      text-align: center;
+      margin: 30px 0;
+      padding: 15px;
+      background: #f0f0f0;
+      border-radius: 10px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>スケジュール</header>
+  
+  <div class="calendar-container">
+    <div class="calendar-nav">
+      <div class="nav-buttons">
+        <button class="nav-btn" onclick="changeMonth(-1)">◀ 前月</button>
+        <button class="nav-btn" onclick="changeMonth(1)">次月 ▶</button>
+      </div>
+      <div class="current-month" id="currentMonth"></div>
+      <button class="nav-btn" onclick="goToToday()">今日</button>
+    </div>
+    
+    <div class="calendar-grid" id="calendarGrid">
+      <!-- カレンダーがここに動的生成される -->
+    </div>
+    
+    <div class="events-section">
+      <h2 class="section-title">📅 今月のイベント</h2>
+      <div class="event-list" id="eventList">
+        <!-- イベントがここに表示される -->
+      </div>
+    </div>
+    
+    <div class="update-info">
+      <p>最終更新: <span id="lastUpdate"></span></p>
+      <p>※ スケジュールはGitHub上のデータファイルから自動更新されます</p>
+    </div>
+  </div>
+  
+  <script>
+    let currentDate = new Date();
+    let events = []; // GitHubから読み込まれるイベントデータ
+    
+    const monthNames = [
+      '1月', '2月', '3月', '4月', '5月', '6月',
+      '7月', '8月', '9月', '10月', '11月', '12月'
+    ];
+    
+    const dayNames = ['日', '月', '火', '水', '木', '金', '土'];
+    
+    // 初期化
+    function init() {
+      loadEvents();
+      renderCalendar();
+      renderEvents();
+    }
+    
+    // イベントデータを読み込み（GitHubベース）
+    async function loadEvents() {
+      try {
+        const response = await fetch('schedule-data.json');
+        if (response.ok) {
+          const data = await response.json();
+          events = data.events || [];
+          // 日付文字列をDateオブジェクトに変換
+          events.forEach(event => {
+            event.date = new Date(event.date);
+          });
+          document.getElementById('lastUpdate').textContent = 
+            data.lastUpdate ? new Date(data.lastUpdate).toLocaleString('ja-JP') : '不明';
+        } else {
+          // デフォルトのサンプルデータ
+          loadSampleEvents();
+        }
+      } catch (error) {
+        console.error('イベントデータの読み込みに失敗:', error);
+        loadSampleEvents();
+      }
+    }
+    
+    // サンプルイベントデータ
+    function loadSampleEvents() {
+      const today = new Date();
+      events = [
+        {
+          date: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1),
+          title: 'サンプルイベント1',
+          description: '重要なミーティング',
+          time: '14:00-16:00'
+        },
+        {
+          date: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 7),
+          title: 'サンプルイベント2',
+          description: 'プロジェクト締切',
+          time: '終日'
+        }
+      ];
+      document.getElementById('lastUpdate').textContent = 'サンプルデータ';
+    }
+    
+    // カレンダー描画
+    function renderCalendar() {
+      const year = currentDate.getFullYear();
+      const month = currentDate.getMonth();
+      
+      // 月表示を更新
+      document.getElementById('currentMonth').textContent = 
+        `${year}年 ${monthNames[month]}`;
+      
+      // カレンダーグリッドをクリア
+      const grid = document.getElementById('calendarGrid');
+      grid.innerHTML = '';
+      
+      // 曜日ヘッダーを追加
+      dayNames.forEach(day => {
+        const header = document.createElement('div');
+        header.className = 'calendar-header';
+        header.textContent = day;
+        grid.appendChild(header);
+      });
+      
+      // 月の最初の日と最後の日を取得
+      const firstDay = new Date(year, month, 1);
+      const lastDay = new Date(year, month + 1, 0);
+      
+      // 前月の日付を埋める
+      const startDate = new Date(firstDay);
+      startDate.setDate(startDate.getDate() - firstDay.getDay());
+      
+      // 42日分（6週間）のセルを生成
+      for (let i = 0; i < 42; i++) {
+        const cellDate = new Date(startDate);
+        cellDate.setDate(startDate.getDate() + i);
+        
+        const cell = createCalendarCell(cellDate, month);
+        grid.appendChild(cell);
+      }
+    }
+    
+    // カレンダーセル作成
+    function createCalendarCell(date, currentMonth) {
+      const cell = document.createElement('div');
+      cell.className = 'calendar-day';
+      
+      // 他の月の日付
+      if (date.getMonth() !== currentMonth) {
+        cell.classList.add('other-month');
+      }
+      
+      // 今日の日付
+      const today = new Date();
+      if (date.toDateString() === today.toDateString()) {
+        cell.classList.add('today');
+      }
+      
+      // 日付数字
+      const dayNumber = document.createElement('div');
+      dayNumber.className = 'day-number';
+      dayNumber.textContent = date.getDate();
+      cell.appendChild(dayNumber);
+      
+      // この日のイベントをチェック
+      const dayEvents = events.filter(event => 
+        event.date.toDateString() === date.toDateString()
+      );
+      
+      if (dayEvents.length > 0) {
+        cell.classList.add('has-event');
+        dayEvents.forEach(() => {
+          const indicator = document.createElement('div');
+          indicator.className = 'event-indicator';
+          cell.appendChild(indicator);
+        });
+      }
+      
+      return cell;
+    }
+    
+    // イベントリスト描画
+    function renderEvents() {
+      const year = currentDate.getFullYear();
+      const month = currentDate.getMonth();
+      
+      const monthEvents = events.filter(event => 
+        event.date.getFullYear() === year && event.date.getMonth() === month
+      );
+      
+      // 日付順にソート
+      monthEvents.sort((a, b) => a.date - b.date);
+      
+      const eventList = document.getElementById('eventList');
+      
+      if (monthEvents.length === 0) {
+        eventList.innerHTML = `
+          <div style="text-align: center; padding: 40px; color: #666; font-size: 18px;">
+            📅 今月のイベントはありません
+          </div>
+        `;
+        return;
+      }
+      
+      eventList.innerHTML = monthEvents.map(event => {
+        const isToday = event.date.toDateString() === new Date().toDateString();
+        return `
+          <div class="event-item ${isToday ? 'today-events' : ''}">
+            <div class="event-date">
+              ${event.date.getMonth() + 1}月${event.date.getDate()}日
+              (${dayNames[event.date.getDay()]})
+              ${isToday ? ' 【今日】' : ''}
+            </div>
+            <div class="event-title">${event.title}</div>
+            <div class="event-description">${event.description}</div>
+            ${event.time ? `<div class="event-time">🕒 ${event.time}</div>` : ''}
+          </div>
+        `;
+      }).join('');
+    }
+    
+    // 月変更
+    function changeMonth(direction) {
+      currentDate.setMonth(currentDate.getMonth() + direction);
+      renderCalendar();
+      renderEvents();
+    }
+    
+    // 今日に戻る
+    function goToToday() {
+      currentDate = new Date();
+      renderCalendar();
+      renderEvents();
+    }
+    
+    // 初期化実行
+    init();
+  </script>
+</body>
+</html>

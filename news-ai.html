@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Newsroom - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: white;
+      color: black;
+    }
+    header {
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+    .subtitle {
+      text-align: center;
+      font-size: 14px;
+      color: #666;
+      margin: -10px 0 20px 0;
+    }
+    .news-feed {
+      width: calc(100% - 20px);
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    @media (max-width: 600px) {
+      .news-feed {
+        width: 100%;
+        padding: 10px;
+      }
+    }
+    
+    /* 検索とフィルター */
+    .controls {
+      margin-bottom: 20px;
+    }
+    #search {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .filter-buttons {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .filter-btn {
+      padding: 8px 16px;
+      border: 2px solid #FF9800;
+      background: transparent;
+      color: #FF9800;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.3s;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      background: #FF9800;
+      color: white;
+    }
+    
+    /* 記事アイテム */
+    .news-item {
+      border: 1px solid #eee;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #fafafa;
+      transition: transform 0.2s;
+    }
+    .news-item:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .news-item h3 {
+      margin: 0 0 10px 0;
+      font-size: 18px;
+      line-height: 1.4;
+    }
+    .news-item h3 a {
+      color: black;
+      text-decoration: none;
+    }
+    .news-item h3 a:hover {
+      color: #FF9800;
+    }
+    .news-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      font-size: 12px;
+      color: #666;
+    }
+    .ai-badge {
+      background: #FF9800;
+      color: white;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 11px;
+    }
+    .news-summary {
+      margin: 10px 0;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #333;
+    }
+    .news-image {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+    .read-more {
+      color: #FF9800;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .read-more:hover {
+      text-decoration: underline;
+    }
+    
+    /* ローディング */
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+    }
+    .spinner {
+      border: 3px solid #f3f3f3;
+      border-top: 3px solid #FF9800;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 10px;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    
+    /* 更新ボタン */
+    .update-btn {
+      display: block;
+      margin: 20px auto;
+      padding: 12px 24px;
+      background: #FF9800;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    .update-btn:hover {
+      background: #F57C00;
+    }
+    
+    /* 統計情報 */
+    .stats {
+      text-align: center;
+      margin: 20px 0;
+      padding: 15px;
+      background: #f8f9fa;
+      border-radius: 10px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>AI Newsroom</header>
+  <div class="subtitle">AI要約による自動記事生成 | 転記ではなく独自コンテンツ</div>
+  
+  <section class="news-feed">
+    <div class="controls">
+      <input type="text" id="search" placeholder="記事を検索...">
+      <div class="filter-buttons">
+        <button class="filter-btn active" data-filter="all">すべて</button>
+        <button class="filter-btn" data-filter="today">今日</button>
+        <button class="filter-btn" data-filter="week">今週</button>
+        <button class="filter-btn" data-filter="ai">AI要約</button>
+      </div>
+    </div>
+    
+    <div class="stats">
+      <span id="article-count">記事を読み込み中...</span>
+    </div>
+    
+    <div id="news-container">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>AI処理された記事を読み込んでいます...</p>
+      </div>
+    </div>
+    
+    <button class="update-btn" onclick="updateNews()">
+      🤖 最新記事をAIで取得・要約
+    </button>
+  </section>
+  
+  <script>
+    let allArticles = [];
+    let currentFilter = 'all';
+
+    const newsContainer = document.getElementById("news-container");
+    const searchInput = document.getElementById("search");
+    const articleCountElement = document.getElementById("article-count");
+
+    // 初期読み込み
+    async function loadNews() {
+      try {
+        // AI処理された記事を読み込み
+        const response = await fetch("ai_processed_news.json");
+        if (!response.ok) {
+          throw new Error("データファイルが見つかりません");
+        }
+        
+        const data = await response.json();
+        allArticles = data.map(article => ({
+          ...article,
+          pubDate: new Date(article.pubDate || article.processedAt)
+        }));
+
+        // 新しい順にソート
+        allArticles.sort((a, b) => b.pubDate - a.pubDate);
+        
+        renderNews();
+        updateStats();
+      } catch (error) {
+        console.error("記事読み込みエラー:", error);
+        newsContainer.innerHTML = `
+          <div style="text-align: center; padding: 20px; color: #666;">
+            <p>❌ 記事の読み込みに失敗しました</p>
+            <p>AI処理された記事がまだ作成されていない可能性があります</p>
+            <button class="update-btn" onclick="updateNews()">記事を生成する</button>
+          </div>
+        `;
+      }
+    }
+
+    // 記事レンダリング
+    function renderNews() {
+      const searchQuery = searchInput.value.trim().toLowerCase();
+      let filteredArticles = allArticles;
+
+      // 検索フィルター
+      if (searchQuery) {
+        filteredArticles = filteredArticles.filter(article => {
+          const searchText = (article.title + " " + (article.summary || "")).toLowerCase();
+          return searchText.includes(searchQuery);
+        });
+      }
+
+      // 日付フィルター
+      const now = new Date();
+      switch (currentFilter) {
+        case 'today':
+          filteredArticles = filteredArticles.filter(article => {
+            const diffTime = now - article.pubDate;
+            return diffTime < 24 * 60 * 60 * 1000; // 24時間以内
+          });
+          break;
+        case 'week':
+          filteredArticles = filteredArticles.filter(article => {
+            const diffTime = now - article.pubDate;
+            return diffTime < 7 * 24 * 60 * 60 * 1000; // 7日以内
+          });
+          break;
+        case 'ai':
+          filteredArticles = filteredArticles.filter(article => article.summary);
+          break;
+      }
+
+      if (filteredArticles.length === 0) {
+        newsContainer.innerHTML = `
+          <div style="text-align: center; padding: 40px; color: #666;">
+            <p>📰 該当する記事が見つかりませんでした</p>
+            <p>検索条件を変更してみてください</p>
+          </div>
+        `;
+        return;
+      }
+
+      newsContainer.innerHTML = filteredArticles.map(article => `
+        <div class="news-item">
+          <div class="news-meta">
+            <span>${article.pubDate.toLocaleString('ja-JP')}</span>
+            ${article.summary ? '<span class="ai-badge">AI要約</span>' : ''}
+          </div>
+          <h3><a href="${article.url}" target="_blank">${article.title}</a></h3>
+          ${article.summary ? `<div class="news-summary">${article.summary}</div>` : ''}
+          ${article.imageUrl ? `<img src="${article.imageUrl}" alt="記事画像" class="news-image" onerror="this.style.display='none'">` : ''}
+          <a href="${article.url}" target="_blank" class="read-more">続きを読む →</a>
+        </div>
+      `).join("");
+    }
+
+    // 統計情報更新
+    function updateStats() {
+      const total = allArticles.length;
+      const aiProcessed = allArticles.filter(article => article.summary).length;
+      const today = allArticles.filter(article => {
+        const diffTime = new Date() - article.pubDate;
+        return diffTime < 24 * 60 * 60 * 1000;
+      }).length;
+
+      articleCountElement.textContent = `全${total}件の記事 | AI処理済み: ${aiProcessed}件 | 今日: ${today}件`;
+    }
+
+    // 記事更新
+    async function updateNews() {
+      const button = document.querySelector('.update-btn');
+      const originalText = button.textContent;
+      
+      button.textContent = '🤖 AI処理中...';
+      button.disabled = true;
+
+      try {
+        // AI処理スクリプトを実行（実際の実装では要調整）
+        const response = await fetch('/api/update-news', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' }
+        });
+        
+        if (response.ok) {
+          button.textContent = '✅ 更新完了！';
+          setTimeout(() => {
+            location.reload(); // ページを再読み込み
+          }, 1000);
+        } else {
+          throw new Error('更新に失敗しました');
+        }
+      } catch (error) {
+        console.error('更新エラー:', error);
+        button.textContent = '❌ 更新失敗';
+        setTimeout(() => {
+          button.textContent = originalText;
+          button.disabled = false;
+        }, 2000);
+      }
+    }
+
+    // イベントリスナー
+    searchInput.addEventListener("input", renderNews);
+
+    // フィルターボタン
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        e.target.classList.add('active');
+        currentFilter = e.target.dataset.filter;
+        renderNews();
+      });
+    });
+
+    // 初期化
+    loadNews();
+  </script>
+</body>
+</html>

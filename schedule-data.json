@@ -1,0 +1,99 @@
+{
+  "lastUpdate": "2025-07-02T09:00:00.000Z",
+  "version": "1.0",
+  "events": [
+    {
+      "date": "2025-07-05",
+      "title": "サマープロジェクト開始",
+      "description": "新しいプロジェクトのキックオフミーティング。全体計画の確認と役割分担を行います。",
+      "time": "10:00-12:00",
+      "category": "meeting",
+      "priority": "high"
+    },
+    {
+      "date": "2025-07-12",
+      "title": "野球観戦",
+      "description": "東都大学野球リーグ戦観戦。応援に行きます！",
+      "time": "13:00-17:00",
+      "category": "sports",
+      "priority": "medium"
+    },
+    {
+      "date": "2025-07-18",
+      "title": "システムメンテナンス",
+      "description": "Webサイトの定期メンテナンス作業。一時的にアクセスできない場合があります。",
+      "time": "02:00-06:00",
+      "category": "maintenance",
+      "priority": "high"
+    },
+    {
+      "date": "2025-07-25",
+      "title": "月次レビュー",
+      "description": "7月の活動振り返りと8月の計画策定",
+      "time": "14:00-16:00",
+      "category": "review",
+      "priority": "medium"
+    },
+    {
+      "date": "2025-08-02",
+      "title": "夏季イベント",
+      "description": "夏の特別企画イベントを開催予定",
+      "time": "終日",
+      "category": "event",
+      "priority": "low"
+    },
+    {
+      "date": "2025-08-15",
+      "title": "お盆休み",
+      "description": "夏季休暇期間のため、通常業務は休止です",
+      "time": "終日",
+      "category": "holiday",
+      "priority": "low"
+    }
+  ],
+  "categories": {
+    "meeting": {
+      "name": "ミーティング",
+      "color": "#FF9800",
+      "icon": "🤝"
+    },
+    "sports": {
+      "name": "スポーツ",
+      "color": "#4CAF50",
+      "icon": "⚾"
+    },
+    "maintenance": {
+      "name": "メンテナンス",
+      "color": "#F44336",
+      "icon": "🔧"
+    },
+    "review": {
+      "name": "レビュー",
+      "color": "#2196F3",
+      "icon": "📊"
+    },
+    "event": {
+      "name": "イベント",
+      "color": "#9C27B0",
+      "icon": "🎉"
+    },
+    "holiday": {
+      "name": "休日",
+      "color": "#795548",
+      "icon": "🏖️"
+    }
+  },
+  "metadata": {
+    "description": "sho5.org スケジュール管理データ",
+    "format": "JSON",
+    "timezone": "Asia/Tokyo",
+    "updateFrequency": "週1回",
+    "maintainer": "Akira Yoshida"
+  },
+  "dataFormat": {
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "HH:MM-HH:MM または '終日'",
+    "requiredFields": ["date", "title", "description"],
+    "optionalFields": ["time", "category", "priority"]
+  }
+}
