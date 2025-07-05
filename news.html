@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <!-- viewport の設定（モバイルでも正しく表示） -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Newsroom - Shogo Fun Site</title>
   <!-- Poppins フォントの読み込み -->
@@ -55,20 +54,28 @@
       margin: 5px 0;
       font-size: 18px;
     }
+    .news-item h3 a {
+      color: black;
+      text-decoration: none;
+    }
     .news-item p {
       margin: 5px 0;
       font-size: 14px;
     }
-    /* Load More ボタン */
-    #loadMore {
-      display: block;
-      margin: 20px auto;
-      padding: 10px 20px;
-      font-size: 16px;
-      cursor: pointer;
-      background-color: #eee;
-      border: 1px solid #ccc;
-      border-radius: 5px;
+    .news-item .date {
+      margin: 5px 0;
+      font-size: 12px;
+      color: #666;
+    }
+    .news-item .summary {
+      margin: 10px 0;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      margin: 20px 0;
     }
   </style>
 </head>
@@ -76,95 +83,67 @@
   <header>Newsroom</header>
   
   <section class="news-feed">
-    <!-- 検索ボックス（全記事から検索） -->
+    <!-- 検索ボックス -->
     <input type="text" id="search" placeholder="Search news...">
     
     <!-- 記事表示用コンテナ -->
-    <div id="news-container"></div>
-    
-    <!-- Load More ボタン（初回は直近3ヶ月分の記事のみ表示） -->
-    <button id="loadMore">Load More</button>
+    <div id="news-container">
+      <div class="news-item" data-title="【大学野球】日大に“勝利の女神”　創立１３５周年記念日に延長１１回逆転サヨナラ弾で劇勝「必ずきょうは勝たないと」 - スポーツ報知" data-summary="【大学野球】日大に“勝利の女神” 創立１３５周年記念日に延長１１回逆転サヨナラ弾で劇勝「必ずきょうは勝たないと」 - スポーツ報知 お知らせ 「ファッション」ジャンルの一時配信停止について 高橋藍の魅力がいっぱい！「写真館」はこちら 競馬専門サイト「馬トク」に新機能「騎手ナビ」登場！ ホーム 巨人 長嶋茂雄さん 大谷翔平 マンガ くらし グルメ 芸能 映画 大相撲 野球 スポーツ サッカー ゴルフ 箱根駅伝 競馬 格闘技 社会 地域版 ボート 競輪 オート 釣り 占い 馬トク ボートナビ 将棋・囲碁 写真特集 トップ ニュース一覧 記事 【大学野球】日大に“勝利の女神” 創立１３５周年記念日に延長１１回逆転サヨナラ弾で劇勝「必ずきょうは勝たないと」 2024年10月5日 9時47分 スポーツ報知 ◆東都大学野球秋季リーグ戦第３週第４日▽日大６ｘ－５国学院大＝延長１１回タイブレーク＝（４日・神宮） 日大は延長タイブレーク１１回、来秋ドラフト候補の４番・谷端将伍内野手（３年＝星稜）が逆転サヨナラ３ランを放ち、国学院大を撃破。林真理子理事長が初観戦する中、創立１３５周年の記念日を白星で飾り、１勝１敗のタイに持ち込んだ。">
+        <h3><a href="https://hochi.news/articles/20241005-OHT1T51044.html" target="_blank">【大学野球】日大に“勝利の女神”　創立１３５周年記念日に延長１１回逆転サヨナラ弾で劇勝「必ずきょうは勝たないと」 - スポーツ報知</a></h3>
+        <p class="date">2025/7/5</p>
+        <p class="summary">【大学野球】日大に“勝利の女神” 創立１３５周年記念日に延長１１回逆転サヨナラ弾で劇勝「必ずきょうは勝たないと」 - スポーツ報知 お知らせ 「ファッション」ジャンルの一時配信停止について 高橋藍の魅力がいっぱい！「写真館」はこちら 競馬専門サイト「馬トク」に新機能「騎手ナビ」登場！ ホーム 巨人 長嶋茂雄さん 大谷翔平 マンガ くらし グルメ 芸能 映画 大相撲 野球 スポーツ サッカー ゴルフ 箱根駅伝 競馬 格闘技 社会 地域版 ボート 競輪 オート 釣り 占い 馬トク ボートナビ 将棋・囲碁 写真特集 トップ ニュース一覧 記事 【大学野球】日大に“勝利の女神” 創立１３５周年記念日に延長１１回逆転サヨナラ弾で劇勝「必ずきょうは勝たないと」 2024年10月5日 9時47分 スポーツ報知 ◆東都大学野球秋季リーグ戦第３週第４日▽日大６ｘ－５国学院大＝延長１１回タイブレーク＝（４日・神宮） 日大は延長タイブレーク１１回、来秋ドラフト候補の４番・谷端将伍内野手（３年＝星稜）が逆転サヨナラ３ランを放ち、国学院大を撃破。林真理子理事長が初観戦する中、創立１３５周年の記念日を白星で飾り、１勝１敗のタイに持ち込んだ。</p>
+      </div>
+      <div class="news-item" data-title="【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。" data-summary="【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。 日本大学のスポーツ競技を発信するメディア news 【東都大学野球】日本大 谷端の〈覚悟〉首位を走。">
+        <h3><a href="https://www.nihon-u.ac.jp/sports/news/355/" target="_blank">【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。</a></h3>
+        <p class="date">2025/7/5</p>
+        <p class="summary">【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。 日本大学のスポーツ競技を発信するメディア news 【東都大学野球】日本大 谷端の〈覚悟〉首位を走。</p>
+      </div>
+      <div class="news-item" data-title="【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。 - スポーツナビ" data-summary="【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。 - スポーツナビ スポーツナビ 特集 世界水泳 動画特集 高校野球エリア別大展望 ドラフト指名秘話。">
+        <h3><a href="https://sports.yahoo.co.jp/official/detail/2024052000019-spnaviow" target="_blank">【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。 - スポーツナビ</a></h3>
+        <p class="date">2025/7/5</p>
+        <p class="summary">【東都大学野球】日本大 谷端の〈覚悟〉首位を走る青学大から12年ぶりの勝ち点。 - スポーツナビ スポーツナビ 特集 世界水泳 動画特集 高校野球エリア別大展望 ドラフト指名秘話。</p>
+      </div>
+      <div class="news-item" data-title="日大が練習納め　ドラフト候補の主砲・谷端将伍は年間10本塁打＆4割が目標 - スポニチ sponichi annex 野球" data-summary="日大が練習納め ドラフト候補の主砲・谷端将伍は年間10本塁打＆4割が目標 - スポニチ sponichi annex 野球 新聞購読とバックナンバーの申込み 検索 トップ 新着 野球 mlb サッカー ゴルフ 格闘技 スポーツ 五輪 芸能 社会 競馬 公営競技 クルマ 大阪・阪神 特集 ランキング 今日の一面 コラム レシピ 占い 動画 フォト 日程・結果 ショップ スポニチプラスα グラビア &lt; &gt; 記者コラム プロ野球 侍ジャパン 週末mlb 大谷特集 高校野球 大学野球 社会人野球 スポニチ大会 学童野球 軟式野球 都市対抗 女子 その他 トップ &gt; 野球 前のニュース 次のニュース スポニチアネックス取材班 日大が練習納め ドラフト候補の主砲・谷端将伍は年間10本塁打＆4割が目標 [ 2024年12月22日 15:54 ] 主砲としてリーグ優勝へ導く覚悟を示した日大・谷端（撮影・村井 樹） photo by スポニチ 東都大学野球リーグの日大は22日、千葉県習志野市内のグラウンドで年内最後の練習を行った。来秋ドラフト候補で大学日本代表候補でもある主砲・谷端将伍内野手（3年＝星稜）は「来年は春秋で10本塁。">
+        <h3><a href="https://www.sponichi.co.jp/baseball/news/2024/12/22/kiji/20241222s00001089192000c.html" target="_blank">日大が練習納め　ドラフト候補の主砲・谷端将伍は年間10本塁打＆4割が目標 - スポニチ Sponichi Annex 野球</a></h3>
+        <p class="date">2025/7/5</p>
+        <p class="summary">日大が練習納め ドラフト候補の主砲・谷端将伍は年間10本塁打＆4割が目標 - スポニチ Sponichi Annex 野球 新聞購読とバックナンバーの申込み 検索 トップ 新着 野球 MLB サッカー ゴルフ 格闘技 スポーツ 五輪 芸能 社会 競馬 公営競技 クルマ 大阪・阪神 特集 ランキング 今日の一面 コラム レシピ 占い 動画 フォト 日程・結果 ショップ スポニチプラスα グラビア &lt; &gt; 記者コラム プロ野球 侍ジャパン 週末MLB 大谷特集 高校野球 大学野球 社会人野球 スポニチ大会 学童野球 軟式野球 都市対抗 女子 その他 トップ &gt; 野球 前のニュース 次のニュース スポニチアネックス取材班 日大が練習納め ドラフト候補の主砲・谷端将伍は年間10本塁打＆4割が目標 [ 2024年12月22日 15:54 ] 主砲としてリーグ優勝へ導く覚悟を示した日大・谷端（撮影・村井 樹） Photo By スポニチ 東都大学野球リーグの日大は22日、千葉県習志野市内のグラウンドで年内最後の練習を行った。来秋ドラフト候補で大学日本代表候補でもある主砲・谷端将伍内野手（3年＝星稜）は「来年は春秋で10本塁。</p>
+      </div>
+      <div class="news-item" data-title="日大３年・谷端将伍選手が今季４号決勝弾 - ドラフト会議ホームページ draft home page" data-summary="日大３年・谷端将伍選手が今季４号決勝弾 - ドラフト会議ホームページ draft home page スポンサーリンク プロ野球ドラフト会議に関する総合情報ページ top ドラフトニュース ドラフト指名予想 ドラフト候補 ドラフト番付 各球団のドラフト ドラフト掲示板 過去のドラフト リンク 高校野球 大学野球 社会人野球 プロ野球 西武 ｿﾌﾄﾊﾞﾝｸ 楽天 ロッテ 日本ハム オリックス 巨人 dena 阪神 広島 中日 ヤクルト 2025ドラフト指名予想 2025年ドラフト候補 2024年ドラフト指名一覧 侍ジャパンu18代表候補 侍ジャパン大学候補 大学野球選手権注目選手 ホーム 大学野球 大学野球ドラフトニュース 日大３年・谷端将伍選手が今季４号決勝弾 2025年ドラフトニュース x facebook line 2024年05月17日 2025年ドラフトニュース 大学野球ドラフトニュース 日本大 谷端将伍 日本大が青山学院大を止めた。今季大ブレークを見せている 谷端将伍 選手が4号の決勝ホームランを放った。">
+        <h3><a href="https://www.draft-kaigi.jp/university/univ-draftnews/77427/" target="_blank">日大３年・谷端将伍選手が今季４号決勝弾 - ドラフト会議ホームページ Draft home page</a></h3>
+        <p class="date">2025/7/5</p>
+        <p class="summary">日大３年・谷端将伍選手が今季４号決勝弾 - ドラフト会議ホームページ Draft home page スポンサーリンク プロ野球ドラフト会議に関する総合情報ページ TOP ドラフトニュース ドラフト指名予想 ドラフト候補 ドラフト番付 各球団のドラフト ドラフト掲示板 過去のドラフト リンク 高校野球 大学野球 社会人野球 プロ野球 西武 ｿﾌﾄﾊﾞﾝｸ 楽天 ロッテ 日本ハム オリックス 巨人 DeNA 阪神 広島 中日 ヤクルト 2025ドラフト指名予想 2025年ドラフト候補 2024年ドラフト指名一覧 侍ジャパンU18代表候補 侍ジャパン大学候補 大学野球選手権注目選手 ホーム 大学野球 大学野球ドラフトニュース 日大３年・谷端将伍選手が今季４号決勝弾 2025年ドラフトニュース X Facebook LINE 2024年05月17日 2025年ドラフトニュース 大学野球ドラフトニュース 日本大 谷端将伍 日本大が青山学院大を止めた。今季大ブレークを見せている 谷端将伍 選手が4号の決勝ホームランを放った。</p>
+      </div>
+      <div class="news-item" data-title="日大、駒大を下して今季初白星　谷端将伍が今季３本目の本塁打でミスを取り返す　 - アマ野球 : 日刊スポーツ" data-summary="日大、駒大を下して今季初白星 谷端将伍が今季３本目の本塁打でミスを取り返す - アマ野球 : 日刊スポーツ 日刊スポーツのニュースサイト、ニッカンスポーツ・コムです。 サイトのナビゲーションへ移動 このページの本文へ移動 トピックスナビゲーションへ移動 フッターナビ。">
+        <h3><a href="https://www.nikkansports.com/baseball/news/202404160000467.html" target="_blank">日大、駒大を下して今季初白星　谷端将伍が今季３本目の本塁打でミスを取り返す　 - アマ野球 : 日刊スポーツ</a></h3>
+        <p class="date">2025/7/5</p>
+        <p class="summary">日大、駒大を下して今季初白星 谷端将伍が今季３本目の本塁打でミスを取り返す - アマ野球 : 日刊スポーツ 日刊スポーツのニュースサイト、ニッカンスポーツ・コムです。 サイトのナビゲーションへ移動 このページの本文へ移動 トピックスナビゲーションへ移動 フッターナビ。</p>
+      </div>
+    </div>
   </section>
   
+  <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
+  
   <script>
-    let allArticles = [];      // rss_data.json と all_news_sites.json を統合した全記事
-    let initialArticles = [];  // 直近3ヶ月以内の記事（初回表示用）
-    let isAllDisplayed = false; // Load More が押されたかどうか
+    // 検索機能の実装
+    const searchInput = document.getElementById('search');
+    const newsContainer = document.getElementById('news-container');
+    const newsItems = Array.from(newsContainer.querySelectorAll('.news-item'));
 
-    const newsContainer = document.getElementById("news-container");
-    const loadMoreBtn = document.getElementById("loadMore");
-    const searchInput = document.getElementById("search");
-
-    // rss_data.json と all_news_sites.json の両方を取得し統合する
-    async function fetchNews() {
-      try {
-        const [rssResponse, sitesResponse] = await Promise.all([
-          fetch("rss_data.json"),
-          fetch("all_news_sites.json")
-        ]);
-
-        if (!rssResponse.ok || !sitesResponse.ok) throw new Error("Network response was not ok");
-
-        const rssData = await rssResponse.json();
-        const sitesData = await sitesResponse.json();
-
-        // 統合（重複の除外は必要に応じて追加できます）
-        allArticles = [...rssData, ...sitesData];
-
-        // 各記事の pubDate を Date オブジェクトに変換
-        allArticles = allArticles.map(article => ({
-          ...article,
-          pubDate: new Date(article.pubDate)
-        }));
-
-        // 新しい順にソート（最新の記事が先頭に）
-        allArticles.sort((a, b) => b.pubDate - a.pubDate);
-
-        // 直近3ヶ月の記事のみを初期表示用に抽出
-        const now = new Date();
-        const threeMonthsAgo = new Date(now);
-        threeMonthsAgo.setMonth(now.getMonth() - 3);
-        initialArticles = allArticles.filter(article => article.pubDate >= threeMonthsAgo);
-
-        renderNews();
-      } catch (error) {
-        console.error("Error fetching news:", error);
-      }
-    }
-
-    // 記事をレンダリングする関数
-    function renderNews() {
+    searchInput.addEventListener('input', () => {
       const searchQuery = searchInput.value.trim().toLowerCase();
-      let articlesToDisplay = searchQuery
-        ? allArticles.filter(article => {
-            const text = (article.title + " " + (article.description || article.summary || "")).toLowerCase();
-            return text.includes(searchQuery);
-          })
-        : (isAllDisplayed ? allArticles : initialArticles);
-
-      newsContainer.innerHTML = articlesToDisplay.map(article => `
-        <div class="news-item">
-          <h3><a href="${article.link}" target="_blank">${article.title}</a></h3>
-          <p>${article.pubDate.toLocaleString()}</p>
-          <p>${article.description || article.summary || ""}</p>
-          ${article.imageUrl ? `<img src="${article.imageUrl}" alt="Image" style="width:100%; height: auto; max-height: none; object-fit: contain; border-radius:5px;">` : ""}
-        </div>
-      `).join("");
-    }
-
-    // Load More ボタンのクリック時：すべての記事を表示
-    loadMoreBtn.addEventListener("click", () => {
-      isAllDisplayed = true;
-      renderNews();
-      loadMoreBtn.style.display = "none"; // ボタンを非表示
+      
+      newsItems.forEach(item => {
+        const title = item.getAttribute('data-title');
+        const summary = item.getAttribute('data-summary');
+        const searchText = title + ' ' + summary;
+        
+        if (searchQuery === '' || searchText.includes(searchQuery)) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
     });
-
-    // 検索ボックスの入力イベント：検索結果は常に全記事から抽出
-    searchInput.addEventListener("input", () => {
-      renderNews();
-    });
-
-    fetchNews();
   </script>
 </body>
 </html>
