@@ -306,57 +306,21 @@
             });
         }
 
-        // Hugging Face APIを使用してAI要約を生成
+        // 生成済みのAI要約を表示（サーバーサイドで既に生成済み）
         async function generateAISummary(article, index) {
             const summaryElement = document.querySelector(`#ai-summary-${index} p`);
             
-            try {
-                // Hugging Face APIを使用して要約を生成
-                const summary = await callHuggingFaceAPI(article);
-                summaryElement.textContent = summary;
+            // 記事データに既にsummaryが含まれている場合はそれを使用
+            if (article.summary && article.summary !== article.title) {
+                summaryElement.textContent = article.summary;
                 summaryElement.classList.remove('summary-loading');
-            } catch (error) {
-                console.error('Hugging Face API error:', error);
-                // フォールバック: 日本語要約を使用
+            } else {
+                // フォールバック: 基本的な要約を生成
                 summaryElement.textContent = createJapaneseSummary(article);
                 summaryElement.classList.remove('summary-loading');
             }
         }
 
-        // Hugging Face APIを呼び出し
-        async function callHuggingFaceAPI(article) {
-            // 現在は静的サイトのため、実際のHugging Face APIは使用せず、
-            // 記事の内容に基づいたインテリジェントな要約を生成
-            
-            // 実際の記事URLから内容を取得して要約する（WebFetchのような機能）
-            const intelligentSummary = await generateIntelligentSummary(article);
-            
-            // 少し遅延を加えてAPIらしく見せる
-            await new Promise(resolve => setTimeout(resolve, 1500 + Math.random() * 1000));
-            
-            return intelligentSummary;
-        }
-
-        // より高度な要約生成（記事の詳細情報を使用）
-        async function generateIntelligentSummary(article) {
-            const title = article.title;
-            const source = article.source;
-            
-            // 記事の内容に基づいたより詳細な分析
-            if (title.includes('日米野球') || title.includes('日米大学野球')) {
-                return `谷端将伍選手が第45回日米大学野球選手権大会の大学日本代表に選出されました。星稜高校出身の内野手として、アメリカでの国際試合に挑む貴重な機会を得ることになります。この選出は日本の大学野球界でも注目を集めており、今後の活躍が期待されています。`;
-            } else if (title.includes('選考合宿') || title.includes('侍ジャパン')) {
-                return `侍ジャパン大学日本代表の選考合宿において、谷端将伍選手を含む候補選手が発表されました。厳しい選考過程を経て代表入りを目指す選手たちの中で、谷端選手は日本大学の主力選手として高く評価されています。`;
-            } else if (title.includes('代表選出') || title.includes('代表')) {
-                return `谷端将伍選手が大学日本代表チームのメンバーに選出されるという重要な発表がありました。これまでの大学野球での実績が評価され、日本を代表する選手として国際舞台での活躍が期待されています。`;
-            } else if (source === '北國新聞') {
-                return `地元石川県の北國新聞が報じた谷端将伍選手に関する最新ニュースです。星稜高校出身の選手として地元でも注目度が高く、今後の動向が注目されています。`;
-            } else if (source === '全日本野球協会') {
-                return `全日本野球協会の公式発表による谷端将伍選手関連の重要なニュースです。日本の野球界における正式な発表として、選手の今後の活動に大きな影響を与える内容となっています。`;
-            } else {
-                return `谷端将伍選手に関する最新の報道です。日本大学野球部の主力選手として、また将来有望な選手として多方面から注目を集めています。詳細な情報については元記事をご確認ください。`;
-            }
-        }
 
 
         // 日本語での簡単な要約を作成（フォールバック）
