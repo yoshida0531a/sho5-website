@@ -319,10 +319,15 @@
 
         // 日本語での簡単な要約を作成（フォールバック）
         function createJapaneseSummary(article) {
-            if (article.title.includes('代表')) {
-                return '谷端将伍選手が大学日本代表に選出され、日米大学野球選手権に出場することが発表されました。星稜高校出身の内野手として注目を集めています。';
+            // より詳細な条件分岐で異なる要約を生成
+            if (article.title.includes('日米野球') || article.title.includes('日米大学野球')) {
+                return '谷端将伍選手が第45回日米大学野球選手権大会の大学日本代表に選出されました。星稜高校出身の内野手として、国際舞台での活躍が期待されています。';
+            } else if (article.title.includes('選考合宿') || article.title.includes('侍ジャパン')) {
+                return '侍ジャパン大学日本代表の選考合宿が開催され、谷端将伍選手を含む候補選手が発表されました。今後の代表活動への参加が注目されています。';
+            } else if (article.title.includes('代表')) {
+                return '谷端将伍選手が大学日本代表に関連する重要な発表がありました。日本大学野球部の主力選手として期待が高まります。';
             } else if (article.title.includes('選考')) {
-                return '侍ジャパン大学日本代表の選考合宿が開催され、谷端将伍選手を含む候補選手が発表されました。';
+                return '大学野球日本代表の選考に関する最新情報です。谷端将伍選手の動向に注目が集まっています。';
             } else {
                 return '谷端将伍選手に関する最新のニュースです。詳細は記事をご確認ください。';
             }
