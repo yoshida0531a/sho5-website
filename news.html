@@ -134,6 +134,22 @@
             font-size: 14px;
         }
 
+        .news-link {
+            display: inline-block;
+            margin: 12px 0;
+            padding: 8px 16px;
+            background-color: #000;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+            transition: background-color 0.3s ease;
+        }
+
+        .news-link:hover {
+            background-color: #333;
+        }
+
 
         .no-results {
             text-align: center;
@@ -279,6 +295,7 @@
                     <div class="news-ai-summary" id="ai-summary-${index}">
                         <p class="summary-loading">要約を生成中...</p>
                     </div>
+                    <a href="${article.link}" target="_blank" class="news-link">記事を読む</a>
                     <p class="news-source">${article.source}による報道</p>
                 </article>
             `).join('');
