@@ -16,7 +16,7 @@
 
     .top-link {
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 20px;
       font-size: 24px;
       color: black;
@@ -31,7 +31,7 @@
       text-align: center;
       font-size: 28px;
       font-weight: bold;
-      margin: 20px 0;
+      margin: 40px 0 20px 0;
     }
 
     .slideshow {
@@ -97,8 +97,10 @@
     <img src="assets/images/flickr_top.JPG" alt="Photo Gallery">
   </div>
 
-  <div class="loading" id="loading">Loading dates...</div>
-  <div class="links" id="date-links"></div>
+  <div class="links">
+    <a href="flickr.html?date=2025-07-09">・2025-07-09 JAPAN VS AMERICA</a>
+    <a href="flickr.html?date=2025-07-08">・2025-07-08 JAPAN VS AMERICA</a>
+  </div>
 
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
 
@@ -109,60 +111,9 @@
       // パスワード入力を促す
       const userPassword = prompt("Please enter Password:");
 
-      if (userPassword === correctPassword) {
-        loadDateIndex();
-      } else {
+      if (userPassword !== correctPassword) {
         alert("Password is wrong.");
         window.location.href = "https://sho5.org";
-      }
-
-      function loadDateIndex() {
-        const apiKey = "2a6f3ef0b0db5d5b3f358caf945c106b";
-        const userId = "201939165@N04";
-        const apiUrl = `https://api.flickr.com/services/rest?api_key=${apiKey}&method=flickr.people.getPublicPhotos&format=json&nojsoncallback=1&extras=date_taken&user_id=${userId}&per_page=500`;
-
-        // Flickr APIからデータを取得
-        $.getJSON(apiUrl, function(data) {
-          console.log("API Response: ", data);
-          if (data.photos && data.photos.photo) {
-            let photos = data.photos.photo;
-            
-            // 撮影日でグループ化
-            const dateGroups = {};
-            photos.forEach(photo => {
-              console.log("Photo data:", photo); // デバッグ用
-              if (photo.datetaken) {
-                const date = photo.datetaken.split(' ')[0]; // YYYY-MM-DD形式
-                console.log("Date found:", date); // デバッグ用
-                if (!dateGroups[date]) {
-                  dateGroups[date] = 0;
-                }
-                dateGroups[date]++;
-              }
-            });
-            
-            console.log("Date groups:", dateGroups); // デバッグ用
-
-            // 日付を昇順でソート
-            const sortedDates = Object.keys(dateGroups).sort();
-
-            let htmlContent = "";
-            sortedDates.forEach(date => {
-              const photoCount = dateGroups[date];
-              htmlContent += `<a href="flickr.html?date=${date}">・${date}</a>`;
-            });
-
-            $("#date-links").html(htmlContent);
-            $("#loading").hide();
-            $("#date-links").show();
-          } else {
-            console.error("Invalid API Response Structure", data);
-            $("#loading").html("<p>日付データが見つかりませんでした。</p>");
-          }
-        }).fail(function(jqxhr, textStatus, error) {
-          console.error("API Call Failed: ", textStatus, error);
-          $("#loading").html("<p>日付データを取得できませんでした。</p>");
-        });
       }
     });
   </script>
