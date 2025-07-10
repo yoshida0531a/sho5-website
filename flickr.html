@@ -12,19 +12,32 @@
       padding: 0;
       text-align: center;
       overflow-x: hidden; /* 横スクロールを防ぐ */
+      min-height: 100vh; /* 最小高さを画面全体に */
     }
 
     h1 {
       display: none; /* 初期状態では非表示 */
-      margin-top: 20px;
+      margin: 0;
+      text-align: center;
+      width: 100%;
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      position: absolute;
+      top: 20px;
+      left: 0;
+      right: 0;
     }
 
     .gallery {
-      display: none; /* 初期状態では非表示 */
+      display: flex; /* 常に表示してレイアウトシフトを防ぐ */
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
-      margin: 20px;
+      margin-top: 70px; /* h1の高さ分空ける */
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-bottom: 20px;
       max-width: 100%; /* コンテナ幅を画面内に制限 */
       overflow: hidden;
     }
@@ -46,29 +59,39 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-  <h1>Shogo Photo Gallery</h1>
+  <h1></h1>
+  <div style="display: none; position: absolute; top: 20px; left: 20px; font-size: 24px;" id="back-link">
+    <a href="flickr-dates.html" style="color: black; text-decoration: none;">←</a>
+  </div>
   <div class="gallery" id="gallery"></div>
 
   <script>
     $(document).ready(function() {
-      const correctPassword = "Yakiniku";
-
-      // パスワード入力を促す
-      const userPassword = prompt("Please enter Password:");
-
-      if (userPassword === correctPassword) {
-        $("h1").show();
-        $(".gallery").show();
-        loadGallery();
+      // URLパラメータを最初に確認
+      const urlParams = new URLSearchParams(window.location.search);
+      const filterDate = urlParams.get('date');
+      
+      // 日付パラメータがある場合は初期状態でタイトルを設定
+      if (filterDate) {
+        $("h1").text(filterDate);
+        $("#back-link").show();
       } else {
-        alert("Password is wrong.");
-        window.location.href = "https://sho5.org"; // トップページにリダイレクト
+        $("h1").text("Shogo Photo Gallery");
       }
+      
+      // タイトルを表示（ギャラリーは既にCSSで表示状態）
+      $("h1").show();
+      
+      loadGallery();
 
       function loadGallery() {
         const apiKey = "2a6f3ef0b0db5d5b3f358caf945c106b"; // 取得したAPIキー
         const userId = "201939165@N04"; // 表示したいユーザーのID
         const apiUrl = `https://api.flickr.com/services/rest?api_key=${apiKey}&method=flickr.people.getPublicPhotos&format=json&nojsoncallback=1&extras=url_o,date_taken&user_id=${userId}&per_page=500`;
+
+        // URLパラメータから日付を取得
+        const urlParams = new URLSearchParams(window.location.search);
+        const filterDate = urlParams.get('date');
 
         // Flickr APIからデータを取得
         $.getJSON(apiUrl, function(data) {
@@ -76,11 +99,20 @@
           if (data.photos && data.photos.photo) {
             let photos = data.photos.photo;
 
-            // 撮影日で降順ソート
-            photos.sort((a, b) => new Date(b.datetaken) - new Date(a.datetaken));
+            // 特定の日付でフィルタリング（パラメータがある場合）
+            if (filterDate) {
+              photos = photos.filter(photo => {
+                return photo.datetaken && photo.datetaken.startsWith(filterDate);
+              });
+            }
 
-            // 最新300枚を抽出
-            photos = photos.slice(0, 300);
+            // 撮影日で昇順ソート
+            photos.sort((a, b) => new Date(a.datetaken) - new Date(b.datetaken));
+
+            // 全ての写真を表示（日付フィルタありの場合）または最新300枚を抽出
+            if (!filterDate) {
+              photos = photos.slice(0, 300);
+            }
 
             let htmlContent = "";
 
