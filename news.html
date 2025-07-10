@@ -20,6 +20,19 @@
             font-size: 18px;
         }
 
+        .top-link {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            font-size: 24px;
+            color: black;
+            text-decoration: none;
+        }
+
+        .top-link:hover {
+            text-decoration: underline;
+        }
+
         .container {
             max-width: 800px;
             margin: 0 auto;
@@ -28,7 +41,7 @@
 
         header {
             text-align: center;
-            margin-bottom: 40px;
+            margin: 40px 0 40px 0;
         }
 
         h1 {
@@ -236,9 +249,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="back-link">
-            <a href="/">&larr;</a>
-        </div>
+        <a href="index.html" class="top-link">←</a>
 
         <header>
             <h1>Newsroom</h1>
@@ -253,8 +264,8 @@
         </div>
 
 
-        <footer>
-            <p>&copy; 2025 Sho5 Newsroom. All rights reserved.</p>
+        <footer style="text-align: center; font-size: 12px; margin: 20px 0;">
+            Copyright © 2023-2025 Akira Yoshida.
         </footer>
     </div>
 

@@ -15,16 +15,28 @@
       min-height: 100vh; /* 最小高さを画面全体に */
     }
 
+    .top-link {
+      position: absolute;
+      top: 10px;
+      left: 20px;
+      font-size: 24px;
+      color: black;
+      text-decoration: none;
+    }
+
+    .top-link:hover {
+      text-decoration: underline;
+    }
+
     h1 {
       display: none; /* 初期状態では非表示 */
-      margin: 0;
+      margin: 40px 0 20px 0;
       text-align: center;
       width: 100%;
       font-family: Arial, sans-serif;
       font-size: 24px;
       font-weight: bold;
-      position: absolute;
-      top: 20px;
+      position: relative;
       left: 0;
       right: 0;
     }
@@ -34,10 +46,7 @@
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
-      margin-top: 70px; /* h1の高さ分空ける */
-      margin-left: 20px;
-      margin-right: 20px;
-      margin-bottom: 20px;
+      margin: 20px;
       max-width: 100%; /* コンテナ幅を画面内に制限 */
       overflow: hidden;
     }
@@ -60,10 +69,14 @@
 </head>
 <body>
   <h1></h1>
-  <div style="display: none; position: absolute; top: 20px; left: 20px; font-size: 24px;" id="back-link">
-    <a href="flickr-dates.html" style="color: black; text-decoration: none;">←</a>
+  <div style="display: none;" id="back-link">
+    <a href="flickr-dates.html" class="top-link">←</a>
   </div>
   <div class="gallery" id="gallery"></div>
+
+  <footer style="text-align: center; font-size: 12px; margin: 20px 0;">
+    Copyright © 2023-2025 Akira Yoshida.
+  </footer>
 
   <script>
     $(document).ready(function() {
