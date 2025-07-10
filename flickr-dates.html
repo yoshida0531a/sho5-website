@@ -108,12 +108,20 @@
     $(document).ready(function() {
       const correctPassword = "Yakiniku";
 
-      // パスワード入力を促す
-      const userPassword = prompt("Please enter Password:");
+      // セッションストレージで認証状態をチェック
+      const isAuthenticated = sessionStorage.getItem('flickr_authenticated');
 
-      if (userPassword !== correctPassword) {
-        alert("Password is wrong.");
-        window.location.href = "https://sho5.org";
+      if (!isAuthenticated) {
+        // 初回のみパスワード入力を促す
+        const userPassword = prompt("Please enter Password:");
+
+        if (userPassword === correctPassword) {
+          // 認証成功時にセッションストレージに保存
+          sessionStorage.setItem('flickr_authenticated', 'true');
+        } else {
+          alert("Password is wrong.");
+          window.location.href = "https://sho5.org";
+        }
       }
     });
   </script>

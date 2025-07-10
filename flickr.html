@@ -71,8 +71,9 @@
       const urlParams = new URLSearchParams(window.location.search);
       const filterDate = urlParams.get('date');
       
-      // 日付パラメータがある場合は初期状態でタイトルを設定
+      // 日付パラメータがある場合（flickr-dates.htmlからの遷移）は認証済みとして扱う
       if (filterDate) {
+        sessionStorage.setItem('flickr_authenticated', 'true');
         $("h1").text(filterDate);
         $("#back-link").show();
       } else {
