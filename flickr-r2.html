@@ -48,6 +48,28 @@
       margin: 20px auto;
       max-width: 1200px;
       padding: 0 10px;
+      transition: all 0.3s ease;
+    }
+
+    /* ピンチイン・アウト用の表示密度クラス */
+    .gallery.density-1 {
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    }
+
+    .gallery.density-2 {
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+
+    .gallery.density-3 {
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .gallery.density-4 {
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    }
+
+    .gallery.density-5 {
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     }
 
     .gallery a {
@@ -57,7 +79,28 @@
       overflow: hidden;
       border-radius: 8px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    /* 表示密度に応じた高さ調整 */
+    .gallery.density-1 a {
+      height: 350px;
+    }
+
+    .gallery.density-2 a {
+      height: 280px;
+    }
+
+    .gallery.density-3 a {
+      height: 220px;
+    }
+
+    .gallery.density-4 a {
+      height: 180px;
+    }
+
+    .gallery.density-5 a {
+      height: 140px;
     }
 
     .gallery a:hover {
@@ -70,12 +113,64 @@
       height: 100%;
       object-fit: cover;
       object-position: center;
-      transition: transform 0.3s ease;
+      transition: transform 0.2s ease;
       display: block;
     }
 
     .gallery img:hover {
-      transform: scale(1.05);
+      transform: scale(1.02);
+    }
+
+    /* 酔い軽減のためのスムーズスクロール */
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      scroll-behavior: smooth;
+    }
+
+    /* 密度調整ボタン */
+    .density-controls {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      opacity: 0.7;
+      transition: opacity 0.3s ease;
+    }
+
+    .density-controls:hover {
+      opacity: 1;
+    }
+
+    .density-btn {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      border: 2px solid #333;
+      background: rgba(255, 255, 255, 0.9);
+      color: #333;
+      font-size: 24px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      user-select: none;
+      backdrop-filter: blur(5px);
+    }
+
+    .density-btn:hover {
+      background: rgba(255, 255, 255, 1);
+      transform: scale(1.1);
+    }
+
+    .density-btn:active {
+      transform: scale(0.95);
     }
 
     .loading {
@@ -123,14 +218,99 @@
   <div style="display: none;" id="back-link">
     <a href="flickr-dates.html" class="top-link">←</a>
   </div>
-  <div class="gallery" id="gallery"></div>
+  <div class="gallery density-2" id="gallery"></div>
+
+  <!-- 密度調整ボタン -->
+  <div class="density-controls">
+    <div class="density-btn" onclick="changeDensity(-1)" title="写真を大きく表示">+</div>
+    <div class="density-btn" onclick="changeDensity(1)" title="写真を小さく表示">-</div>
+  </div>
 
   <footer>
     Copyright © 2023-2025 Akira Yoshida.
   </footer>
 
   <script>
+    // 現在の表示密度（1:最大、5:最小）
+    let currentDensity = 2;
+    
+    // ピンチイン・アウト用の変数
+    let initialDistance = 0;
+    let isScaling = false;
+    
+    // 密度変更関数
+    function changeDensity(direction) {
+      currentDensity = Math.max(1, Math.min(5, currentDensity + direction));
+      const gallery = document.getElementById('gallery');
+      
+      // 既存の密度クラスを削除
+      gallery.classList.remove('density-1', 'density-2', 'density-3', 'density-4', 'density-5');
+      
+      // 新しい密度クラスを追加
+      gallery.classList.add(`density-${currentDensity}`);
+      
+      // 設定を保存
+      localStorage.setItem('gallery_density', currentDensity);
+    }
+    
+    // タッチイベントハンドラー
+    function handleTouchStart(e) {
+      if (e.touches.length === 2) {
+        isScaling = true;
+        const touch1 = e.touches[0];
+        const touch2 = e.touches[1];
+        initialDistance = Math.hypot(
+          touch1.clientX - touch2.clientX,
+          touch1.clientY - touch2.clientY
+        );
+      }
+    }
+    
+    function handleTouchMove(e) {
+      if (isScaling && e.touches.length === 2) {
+        e.preventDefault();
+        const touch1 = e.touches[0];
+        const touch2 = e.touches[1];
+        const currentDistance = Math.hypot(
+          touch1.clientX - touch2.clientX,
+          touch1.clientY - touch2.clientY
+        );
+        
+        const scale = currentDistance / initialDistance;
+        
+        // 閾値を設定してちらつきを防止
+        if (scale > 1.2) {
+          changeDensity(-1);
+          initialDistance = currentDistance;
+        } else if (scale < 0.8) {
+          changeDensity(1);
+          initialDistance = currentDistance;
+        }
+      }
+    }
+    
+    function handleTouchEnd(e) {
+      if (e.touches.length < 2) {
+        isScaling = false;
+      }
+    }
+
     $(document).ready(function() {
+      // 保存された密度設定を読み込み
+      const savedDensity = localStorage.getItem('gallery_density');
+      if (savedDensity) {
+        currentDensity = parseInt(savedDensity);
+        const gallery = document.getElementById('gallery');
+        gallery.classList.remove('density-2');
+        gallery.classList.add(`density-${currentDensity}`);
+      }
+      
+      // ピンチイン・アウトのイベントリスナーを追加
+      const gallery = document.getElementById('gallery');
+      gallery.addEventListener('touchstart', handleTouchStart, { passive: false });
+      gallery.addEventListener('touchmove', handleTouchMove, { passive: false });
+      gallery.addEventListener('touchend', handleTouchEnd, { passive: false });
+      
       // URLパラメータを最初に確認
       const urlParams = new URLSearchParams(window.location.search);
       const filterDate = urlParams.get('date');
