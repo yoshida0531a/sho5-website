@@ -194,45 +194,44 @@
       z-index: 1000;
       display: flex;
       flex-direction: column;
-      gap: 12px;
-      opacity: 0.8;
+      gap: 16px;
+      opacity: 0.85;
       transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      padding: 8px;
-      border-radius: 24px;
-      background: rgba(0, 0, 0, 0.05);
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
+      padding: 12px;
+      border-radius: 28px;
+      background: rgba(0, 0, 0, 0.02);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
     }
 
     .density-controls:hover {
       opacity: 1;
-      transform: translateY(-2px);
-      background: rgba(0, 0, 0, 0.1);
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      transform: translateY(-3px);
+      background: rgba(0, 0, 0, 0.04);
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
     }
 
     .density-btn {
       width: 56px;
       height: 56px;
       border-radius: 50%;
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      background: rgba(255, 255, 255, 0.1);
-      color: rgba(255, 255, 255, 0.9);
-      font-size: 24px;
-      font-weight: 300;
+      border: none;
+      background: rgba(255, 255, 255, 0.05);
+      color: rgba(255, 255, 255, 0.95);
+      font-size: 32px;
+      font-weight: 200;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       user-select: none;
-      backdrop-filter: blur(20px) saturate(180%);
-      -webkit-backdrop-filter: blur(20px) saturate(180%);
+      backdrop-filter: blur(25px) saturate(200%);
+      -webkit-backdrop-filter: blur(25px) saturate(200%);
       box-shadow: 
-        0 8px 32px rgba(0, 0, 0, 0.1),
-        0 2px 8px rgba(0, 0, 0, 0.05),
-        inset 0 1px 0 rgba(255, 255, 255, 0.2),
-        inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+        0 8px 32px rgba(0, 0, 0, 0.08),
+        0 2px 8px rgba(0, 0, 0, 0.03),
+        inset 0 1px 0 rgba(255, 255, 255, 0.15);
       position: relative;
       overflow: hidden;
     }
@@ -254,14 +253,12 @@
     }
 
     .density-btn:hover {
-      background: rgba(255, 255, 255, 0.15);
-      border-color: rgba(255, 255, 255, 0.3);
-      transform: translateY(-2px) scale(1.05);
+      background: rgba(255, 255, 255, 0.08);
+      transform: translateY(-3px) scale(1.05);
       box-shadow: 
-        0 12px 40px rgba(0, 0, 0, 0.15),
-        0 4px 16px rgba(0, 0, 0, 0.1),
-        inset 0 1px 0 rgba(255, 255, 255, 0.3),
-        inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+        0 16px 48px rgba(0, 0, 0, 0.12),
+        0 6px 20px rgba(0, 0, 0, 0.08),
+        inset 0 1px 0 rgba(255, 255, 255, 0.25);
     }
 
     .density-btn:hover::before {
@@ -271,21 +268,19 @@
     .density-btn:active {
       transform: translateY(-1px) scale(0.98);
       box-shadow: 
-        0 6px 24px rgba(0, 0, 0, 0.1),
-        0 2px 8px rgba(0, 0, 0, 0.05),
-        inset 0 1px 0 rgba(255, 255, 255, 0.2),
-        inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+        0 6px 24px rgba(0, 0, 0, 0.08),
+        0 2px 8px rgba(0, 0, 0, 0.04),
+        inset 0 1px 0 rgba(255, 255, 255, 0.2);
     }
 
     .density-btn:disabled {
-      opacity: 0.4;
+      opacity: 0.3;
       cursor: not-allowed;
       transform: none;
       box-shadow: 
-        0 4px 16px rgba(0, 0, 0, 0.05),
+        0 4px 16px rgba(0, 0, 0, 0.04),
         0 1px 4px rgba(0, 0, 0, 0.02),
-        inset 0 1px 0 rgba(255, 255, 255, 0.1),
-        inset 0 -1px 0 rgba(0, 0, 0, 0.05);
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
     }
 
     /* 読み込み中表示 */
