@@ -72,6 +72,42 @@
       grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     }
 
+    .gallery.density-6 {
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    }
+
+    .gallery.density-7 {
+      grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+    }
+
+    .gallery.density-8 {
+      grid-template-columns: repeat(auto-fit, minmax(75px, 1fr));
+    }
+
+    .gallery.density-9 {
+      grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    }
+
+    .gallery.density-10 {
+      grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    }
+
+    /* 小さなサイズ時のガップ調整 */
+    .gallery.density-6,
+    .gallery.density-7,
+    .gallery.density-8,
+    .gallery.density-9,
+    .gallery.density-10 {
+      gap: 8px;
+    }
+
+    /* 極小サイズ時のボーダー調整 */
+    .gallery.density-8 a,
+    .gallery.density-9 a,
+    .gallery.density-10 a {
+      border-radius: 4px;
+    }
+
     .gallery a {
       display: block;
       width: 100%;
@@ -101,6 +137,26 @@
 
     .gallery.density-5 a {
       height: 140px;
+    }
+
+    .gallery.density-6 a {
+      height: 110px;
+    }
+
+    .gallery.density-7 a {
+      height: 90px;
+    }
+
+    .gallery.density-8 a {
+      height: 75px;
+    }
+
+    .gallery.density-9 a {
+      height: 60px;
+    }
+
+    .gallery.density-10 a {
+      height: 50px;
     }
 
     .gallery a:hover {
@@ -240,11 +296,11 @@
     
     // 密度変更関数
     function changeDensity(direction) {
-      currentDensity = Math.max(1, Math.min(5, currentDensity + direction));
+      currentDensity = Math.max(1, Math.min(10, currentDensity + direction));
       const gallery = document.getElementById('gallery');
       
       // 既存の密度クラスを削除
-      gallery.classList.remove('density-1', 'density-2', 'density-3', 'density-4', 'density-5');
+      gallery.classList.remove('density-1', 'density-2', 'density-3', 'density-4', 'density-5', 'density-6', 'density-7', 'density-8', 'density-9', 'density-10');
       
       // 新しい密度クラスを追加
       gallery.classList.add(`density-${currentDensity}`);
