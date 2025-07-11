@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shogo Photo Gallery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    .top-link {
+      position: absolute;
+      top: 10px;
+      left: 20px;
+      font-size: 24px;
+      color: black;
+      text-decoration: none;
+    }
+
+    .top-link:hover {
+      text-decoration: underline;
+    }
+
+    h1 {
+      display: none;
+      margin: 40px 0 20px 0;
+      text-align: center;
+      width: 100%;
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      position: relative;
+      left: 0;
+      right: 0;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 15px;
+      margin: 20px auto;
+      max-width: 1200px;
+      padding: 0 10px;
+    }
+
+    .gallery a {
+      display: block;
+      width: 100%;
+      height: 200px;
+      overflow: hidden;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .gallery a:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+    }
+
+    .gallery img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      transition: transform 0.3s ease;
+      display: block;
+    }
+
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+
+    .loading {
+      text-align: center;
+      margin: 50px 0;
+      font-size: 18px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 12px;
+      margin: 20px 0;
+    }
+
+    /* レスポンシブ対応 */
+    @media (max-width: 768px) {
+      .gallery {
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 12px;
+        margin: 15px auto;
+        padding: 0 5px;
+      }
+      
+      .gallery a {
+        height: 180px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .gallery {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 10px;
+        margin: 10px auto;
+      }
+      
+      .gallery a {
+        height: 150px;
+      }
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <h1></h1>
+  <div style="display: none;" id="back-link">
+    <a href="flickr-dates.html" class="top-link">←</a>
+  </div>
+  <div class="gallery" id="gallery"></div>
+
+  <footer>
+    Copyright © 2023-2025 Akira Yoshida.
+  </footer>
+
+  <script>
+    $(document).ready(function() {
+      // URLパラメータを最初に確認
+      const urlParams = new URLSearchParams(window.location.search);
+      const filterDate = urlParams.get('date');
+      
+      // セッション認証チェック
+      const isAuthenticated = sessionStorage.getItem('flickr_authenticated');
+      if (!isAuthenticated) {
+        const userPassword = prompt("Please enter Password:");
+        if (userPassword === "Yakiniku") {
+          sessionStorage.setItem('flickr_authenticated', 'true');
+        } else {
+          alert("Password is wrong.");
+          window.location.href = "https://sho5.org";
+          return;
+        }
+      }
+
+      // 日付パラメータがある場合
+      if (filterDate) {
+        sessionStorage.setItem('flickr_authenticated', 'true');
+        $("h1").text(filterDate);
+        $("#back-link").show();
+      } else {
+        $("h1").text("Shogo Photo Gallery");
+      }
+      
+      // タイトルを表示
+      $("h1").show();
+      
+      loadGallery();
+
+      function loadGallery() {
+        // Cloudflare Worker APIエンドポイント
+        const apiUrl = 'https://photo-gallery-worker.chjqnfv62h.workers.dev/api/photos';
+        const params = new URLSearchParams();
+        
+        if (filterDate) {
+          params.append('date', filterDate);
+        }
+        params.append('limit', '1000');
+
+        const requestUrl = `${apiUrl}?${params.toString()}`;
+        
+        // R2 APIからデータを取得（CORSとエラーハンドリングを改善）
+        $.ajax({
+          url: requestUrl,
+          method: 'GET',
+          dataType: 'json',
+          timeout: 30000,
+          headers: {
+            'Accept': 'application/json'
+          }
+        })
+          .done(function(data) {
+            console.log("API Response: ", data);
+            
+            if (data && data.photos && data.photos.length > 0) {
+              let htmlContent = "";
+
+              // 画像データをHTMLに追加
+              data.photos.forEach(photo => {
+                const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
+                const originalUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
+                
+                htmlContent += `
+                  <a href="${originalUrl}" target="_blank">
+                    <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
+                  </a>`;
+              });
+
+              $("#gallery").html(htmlContent);
+            } else {
+              $("#gallery").html("<p>写真が見つかりませんでした。データ: " + JSON.stringify(data) + "</p>");
+            }
+          })
+          .fail(function(jqxhr, textStatus, error) {
+            console.error("API Call Failed: ", textStatus, error, jqxhr.responseText);
+            let errorMessage = "<p>接続エラー: ";
+            if (jqxhr.status === 0) {
+              errorMessage += "サーバーに接続できません（CORS/ネットワークエラー）";
+            } else if (jqxhr.status === 404) {
+              errorMessage += "APIエンドポイントが見つかりません";
+            } else if (jqxhr.status === 500) {
+              errorMessage += "サーバー内部エラー";
+            } else {
+              errorMessage += `HTTP ${jqxhr.status} - ${textStatus}`;
+            }
+            errorMessage += "</p>";
+            errorMessage += "<p>デバッグ情報: " + requestUrl + "</p>";
+            $("#gallery").html(errorMessage);
+          });
+      }
+    });
+  </script>
+</body>
+</html>
