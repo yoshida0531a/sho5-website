@@ -229,6 +229,26 @@
       transform: scale(0.95);
     }
 
+    .density-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    /* 読み込み中表示 */
+    .loading-more {
+      text-align: center;
+      margin: 20px 0;
+      font-size: 16px;
+      color: #666;
+    }
+
+    /* スクロール監視用の要素 */
+    .scroll-trigger {
+      height: 20px;
+      margin: 20px 0;
+    }
+
     .loading {
       text-align: center;
       margin: 50px 0;
@@ -275,11 +295,19 @@
     <a href="flickr-dates.html" class="top-link">←</a>
   </div>
   <div class="gallery density-2" id="gallery"></div>
+  
+  <!-- スクロール監視用 -->
+  <div class="scroll-trigger" id="scroll-trigger" style="display: none;"></div>
+  
+  <!-- 読み込み中表示 -->
+  <div class="loading-more" id="loading-more" style="display: none;">
+    写真を読み込み中...
+  </div>
 
   <!-- 密度調整ボタン -->
   <div class="density-controls">
-    <div class="density-btn" onclick="changeDensity(-1)" title="写真を大きく表示">+</div>
-    <div class="density-btn" onclick="changeDensity(1)" title="写真を小さく表示">-</div>
+    <div class="density-btn" id="density-plus" onclick="changeDensity(-1)" title="写真を大きく表示">+</div>
+    <div class="density-btn" id="density-minus" onclick="changeDensity(1)" title="写真を小さく表示">-</div>
   </div>
 
   <footer>
@@ -287,15 +315,33 @@
   </footer>
 
   <script>
-    // 現在の表示密度（1:最大、5:最小）
+    // 現在の表示密度（1:最大、10:最小）
     let currentDensity = 2;
     
     // ピンチイン・アウト用の変数
     let initialDistance = 0;
     let isScaling = false;
     
-    // 密度変更関数
+    // 仮想スクロール用の変数
+    let allPhotos = [];
+    let displayedPhotos = [];
+    let currentPage = 0;
+    let photosPerPage = 50; // 初期表示枚数
+    let isLoading = false;
+    let lastDensityChange = 0;
+    
+    // 密度変更関数（連続タップ防止）
     function changeDensity(direction) {
+      const now = Date.now();
+      if (now - lastDensityChange < 300) return; // 300ms以内の連続タップを防止
+      lastDensityChange = now;
+      
+      // ボタンを一時的に無効化
+      const plusBtn = document.getElementById('density-plus');
+      const minusBtn = document.getElementById('density-minus');
+      plusBtn.disabled = true;
+      minusBtn.disabled = true;
+      
       currentDensity = Math.max(1, Math.min(10, currentDensity + direction));
       const gallery = document.getElementById('gallery');
       
@@ -305,8 +351,100 @@
       // 新しい密度クラスを追加
       gallery.classList.add(`density-${currentDensity}`);
       
+      // 密度に応じて表示枚数を調整
+      updatePhotosPerPage();
+      
+      // 表示を更新
+      renderPhotos();
+      
       // 設定を保存
       localStorage.setItem('gallery_density', currentDensity);
+      
+      // 500ms後にボタンを再有効化
+      setTimeout(() => {
+        plusBtn.disabled = false;
+        minusBtn.disabled = false;
+      }, 500);
+    }
+    
+    // 密度に応じた表示枚数を設定
+    function updatePhotosPerPage() {
+      const densityToPhotos = {
+        1: 20,   // 大きい写真: 少なく表示
+        2: 30,
+        3: 40,
+        4: 50,
+        5: 60,
+        6: 80,
+        7: 100,
+        8: 120,
+        9: 150,
+        10: 200  // 小さい写真: 多く表示
+      };
+      photosPerPage = densityToPhotos[currentDensity] || 50;
+    }
+    
+    // 写真を段階的に表示
+    function renderPhotos() {
+      const gallery = document.getElementById('gallery');
+      const endIndex = Math.min((currentPage + 1) * photosPerPage, allPhotos.length);
+      
+      displayedPhotos = allPhotos.slice(0, endIndex);
+      
+      let htmlContent = "";
+      displayedPhotos.forEach(photo => {
+        const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
+        const originalUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
+        
+        htmlContent += `
+          <a href="${originalUrl}" target="_blank">
+            <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
+          </a>`;
+      });
+      
+      gallery.innerHTML = htmlContent;
+      
+      // スクロール監視を設定
+      setupScrollTrigger();
+    }
+    
+    // スクロール監視設定
+    function setupScrollTrigger() {
+      const scrollTrigger = document.getElementById('scroll-trigger');
+      const loadingMore = document.getElementById('loading-more');
+      
+      if (displayedPhotos.length < allPhotos.length) {
+        scrollTrigger.style.display = 'block';
+        
+        // Intersection Observer for lazy loading
+        const observer = new IntersectionObserver((entries) => {
+          if (entries[0].isIntersecting && !isLoading) {
+            loadMorePhotos();
+          }
+        }, { threshold: 0.1 });
+        
+        observer.observe(scrollTrigger);
+      } else {
+        scrollTrigger.style.display = 'none';
+        loadingMore.style.display = 'none';
+      }
+    }
+    
+    // 追加の写真を読み込み
+    function loadMorePhotos() {
+      if (isLoading || displayedPhotos.length >= allPhotos.length) return;
+      
+      isLoading = true;
+      const loadingMore = document.getElementById('loading-more');
+      loadingMore.style.display = 'block';
+      
+      // 少し遅延を入れて安定性を確保
+      setTimeout(() => {
+        currentPage++;
+        renderPhotos();
+        isLoading = false;
+        loadingMore.style.display = 'none';
+      }, 500);
     }
     
     // タッチイベントハンドラー
@@ -424,20 +562,15 @@
             console.log("API Response: ", data);
             
             if (data && data.photos && data.photos.length > 0) {
-              let htmlContent = "";
-
-              // 画像データをHTMLに追加
-              data.photos.forEach(photo => {
-                const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
-                const originalUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
-                
-                htmlContent += `
-                  <a href="${originalUrl}" target="_blank">
-                    <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
-                  </a>`;
-              });
-
-              $("#gallery").html(htmlContent);
+              // 全写真データを保存
+              allPhotos = data.photos;
+              currentPage = 0;
+              
+              // 密度に応じた表示枚数を設定
+              updatePhotosPerPage();
+              
+              // 初期表示
+              renderPhotos();
             } else {
               $("#gallery").html("<p>写真が見つかりませんでした。データ: " + JSON.stringify(data) + "</p>");
             }
