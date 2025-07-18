@@ -9,9 +9,11 @@ Disallow: /*?*
 Allow: /flickr-r2.html$
 Allow: /flickr-dates.html$
 Allow: /flickr.html$
-Allow: /index.html$
 Allow: /news.html$
 Allow: /calendar.html$
+
+# index.htmlの重複を防ぐ
+Disallow: /index.html
 
 # Sitemap location
 Sitemap: https://sho5.org/sitemap.xml
