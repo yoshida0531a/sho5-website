@@ -45,3 +45,19 @@ RewriteRule ^(.*/)?index\.html$ /$1 [R=301,L]
     Header always set X-XSS-Protection "1; mode=block"
     Header always set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
+
+# データファイルのSEO制御
+<Files "*.json">
+    Header set X-Robots-Tag "noindex, nofollow"
+</Files>
+
+<Files "news-data.json">
+    Header set X-Robots-Tag "noindex, nofollow"
+</Files>
+
+# バックアップファイルの保護
+<Files "*.backup">
+    Header set X-Robots-Tag "noindex, nofollow"
+    Order allow,deny
+    Deny from all
+</Files>

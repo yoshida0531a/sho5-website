@@ -15,6 +15,12 @@ Allow: /calendar.html$
 # index.htmlの重複を防ぐ
 Disallow: /index.html
 
+# データファイルのクロールを制限
+Disallow: /*.json$
+Disallow: /news-data.json
+Disallow: /assets/
+Disallow: /*.backup$
+
 # Sitemap location
 Sitemap: https://sho5.org/sitemap.xml
 
