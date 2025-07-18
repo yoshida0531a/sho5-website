@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# パラメータ付きURLのクロールを制限
+Disallow: /flickr-r2.html?date=*
+Disallow: /*?*
+
+# 重複コンテンツの制御
+Allow: /flickr-r2.html$
+Allow: /flickr-dates.html$
+Allow: /flickr.html$
+Allow: /index.html$
+Allow: /news.html$
+Allow: /calendar.html$
+
+# Sitemap location
+Sitemap: https://sho5.org/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
