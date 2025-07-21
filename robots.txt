@@ -1,9 +1,16 @@
 User-agent: *
 Allow: /
 
-# パラメータ付きURLのクロールを制限
+# 古いURLパターンの明示的な制御
+User-agent: Googlebot
 Disallow: /flickr-r2.html?date=*
-Disallow: /*?*
+
+# パラメータ付きURLのクロールを制限（より具体的に）
+Disallow: /flickr-r2.html?date=*
+Disallow: /*?date=*
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?source=*
 
 # 重複コンテンツの制御
 Allow: /flickr-r2.html$

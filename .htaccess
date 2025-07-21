@@ -1,10 +1,13 @@
-# HTTPSリダイレクト設定
+# HTTPSとwww正規化の統一リダイレクト設定
 RewriteEngine On
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-# www無しへのリダイレクト
+# www付きドメインを www無し HTTPS にリダイレクト（優先）
 RewriteCond %{HTTP_HOST} ^www\.sho5\.org$ [NC]
+RewriteRule ^(.*)$ https://sho5.org/$1 [L,R=301]
+
+# HTTPをHTTPSにリダイレクト（www無しドメインのみ）
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^sho5\.org$ [NC]
 RewriteRule ^(.*)$ https://sho5.org/$1 [L,R=301]
 
 # 重複URLの正規化
