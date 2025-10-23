@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>【阪神 ２位指名】 - Shogo Fun Site</title>
+  <title>【ドラフト関連】みんなの反応 - Shogo Fun Site</title>
   <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
       padding-top: 20px;
+      /* フォント指定を統一 */
       font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
       background-color: #fff;
       color: #000;
@@ -18,22 +19,74 @@
       width: calc(100% - 40px);
       max-width: 800px;
       margin: 0 auto;
+      text-align: left; /* コンテナ内は左揃えに */
     }
     h1 {
       font-size: 22px;
       font-weight: 700;
-      margin-bottom: 20px;
+      margin-bottom: 25px;
+      text-align: center; /* タイトルは中央揃え */
     }
-    img {
-      width: 100%;
-      max-width: 600px; /* PCでも見やすいように最大幅を指定 */
-      height: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    
+    /* ▼▼▼ ツイート表示用スタイル ▼▼▼ */
+    #tweets-container {
+      margin-top: 20px;
     }
+    .tweet-card {
+      border: 1px solid #eee;
+      border-radius: 10px;
+      padding: 15px 20px;
+      margin-bottom: 15px;
+      background-color: #fcfcfc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .tweet-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .tweet-username {
+      font-weight: 700;
+      font-size: 15px;
+      color: #333;
+    }
+    .tweet-createdat {
+      font-size: 12px;
+      color: #777;
+    }
+    .tweet-text {
+      font-size: 14px;
+      line-height: 1.7;
+      color: #222;
+      /* white-space: pre-wrap; で \n を改行として表示 */
+      white-space: pre-wrap;
+      word-wrap: break-word; /* 長い単語やURLの折り返し */
+    }
+    .tweet-link {
+      display: inline-block;
+      margin-top: 12px;
+      font-size: 13px;
+      color: #007bff;
+      text-decoration: none;
+    }
+    .tweet-link:hover {
+      text-decoration: underline;
+    }
+    #loading-message {
+      text-align: center;
+      padding: 30px;
+      font-size: 16px;
+      color: #888;
+    }
+    /* ▲▲▲ スタイルここまで ▲▲▲ */
+
     .back-link {
       display: inline-block;
-      margin-top: 30px;
+      margin-top: 15px; /* 上の要素とのマージンを調整 */
+      margin-bottom: 30px; /* フッターとのマージン */
       padding: 10px 20px;
       background-color: #f0f0f0;
       color: #333;
@@ -50,12 +103,44 @@
 </head>
 <body>
   <div class="container">
-    <h1>【阪神 ２位指名】</h1>
-    
-    <img src="draft_image.png" alt="阪神 谷端将伍選手 ドラフト2位指名">
+    <h1>【ドラフト関連】みんなの反応</h1>
+
+    <div id="tweets-container">
+      <p id="loading-message">データを読み込んでいます...</p>
+    </div>
 
     <br>
-    <a href="index.html" class="back-link">← サイトトップに戻る</a>
+    <div style="text-align: center;"> <a href="index.html" class="back-link">← サイトトップに戻る</a>
+    </div>
   </div>
-</body>
-</html>
+
+  <script>
+    // ページの読み込みが完了したら実行
+    document.addEventListener('DOMContentLoaded', function() {
+      // draft-test.txt をフェッチ（取得）
+      fetch('draft-test.txt')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('ファイルの読み込みに失敗しました。');
+          }
+          return response.json(); // テキストをJSONとして解析
+        })
+        .then(data => {
+          const container = document.getElementById('tweets-container');
+          const loadingMessage = document.getElementById('loading-message');
+          
+          if (!data || !data.tweets || data.tweets.length === 0) {
+            loadingMessage.textContent = '表示できるツイートがありません。';
+            return;
+          }
+
+          // ローディングメッセージを消去
+          container.innerHTML = ''; 
+
+          // データをループ処理してHTMLを生成
+          data.tweets.forEach(tweet => {
+            // ツイートカードのHTML要素を作成
+            const card = document.createElement('div');
+            card.className = 'tweet-card';
+            
+            // 日付の
