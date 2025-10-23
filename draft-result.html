@@ -20,6 +20,23 @@
       margin: 0 auto;
       text-align: left;
     }
+    
+    /* ▼▼▼ 追加：ヘッダー画像用スタイル ▼▼▼ */
+    .header-image-container {
+      text-align: center; /* 画像を中央揃え */
+      margin-bottom: 20px; /* タイトルとの間隔 */
+    }
+    .header-image-container img {
+      width: 100%;
+      max-width: 400px; /* 画像の最大幅を調整 */
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      display: block; /* 中央揃えのため */
+      margin: 0 auto; /* 中央揃えのため */
+    }
+    /* ▲▲▲ ヘッダー画像スタイルここまで ▲▲▲ */
+    
     h1 {
       font-size: 22px;
       font-weight: 700;
@@ -45,7 +62,7 @@
       margin-bottom: 10px;
       padding-bottom: 8px;
       border-bottom: 1px solid #f0f0f0;
-      flex-wrap: wrap; /* 画面が狭い時に折り返す */
+      flex-wrap: wrap; 
     }
     .tweet-username {
       font-weight: 700;
@@ -102,6 +119,12 @@
 </head>
 <body>
   <div class="container">
+
+    <div class="header-image-container">
+      <a href="draft-result.html">
+        <img src="draft_image.png" alt="阪神 谷端将伍選手 ドラフト2位指名">
+      </a>
+    </div>
     <h1>【ドラフト関連】みんなの反応</h1>
 
     <div id="tweets-container">
@@ -132,7 +155,7 @@
     function formatTweetDate(dateString) {
       try {
         const date = new Date(dateString.replace(' at ', ' '));
-        if (isNaN(date)) return dateString; // 無効な日付はそのまま返す
+        if (isNaN(date)) return dateString; 
 
         const y = date.getFullYear();
         const m = String(date.getMonth() + 1).padStart(2, '0');
@@ -142,7 +165,7 @@
         
         return `${y}/${m}/${d} ${h}:${min}`;
       } catch (e) {
-        return dateString; // エラー時も元の文字列を返す
+        return dateString; 
       }
     }
 
@@ -155,10 +178,9 @@
       fetch('draft-test.txt')
         .then(response => {
           if (!response.ok) {
-            // 404 (Not Found) や 500 (Server Error) の場合
             throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
           }
-          return response.json(); // テキストをJSONとして解析
+          return response.json(); 
         })
         .then(data => {
           if (!data || !data.tweets || data.tweets.length === 0) {
@@ -166,15 +188,12 @@
             return;
           }
 
-          // 高速化のため、DocumentFragmentに一時的にDOMを追加
           const fragment = document.createDocumentFragment();
 
-          // データをループ処理してHTMLを生成
           data.tweets.forEach(tweet => {
             const card = document.createElement('div');
             card.className = 'tweet-card';
             
-            // 安全なHTMLを生成
             card.innerHTML = `
               <div class="tweet-header">
                 <span class="tweet-username">@${escapeHTML(tweet.userName)}</span>
@@ -189,13 +208,11 @@
             fragment.appendChild(card);
           });
 
-          // ローディングメッセージを消去し、完成したツイート一覧を一度に挿入（これが高速）
           container.innerHTML = '';
           container.appendChild(fragment);
 
         })
         .catch(error => {
-          // fetchが失敗した場合（CORSブロック、ネットワークエラー、JSON解析失敗など）
           console.error('ツイートデータの処理中にエラーが発生しました:', error);
           loadingMessage.textContent = 'ツイートの読み込みに失敗しました。サーバーにアップロードされているか、ファイル名が正しいか確認してください。';
           loadingMessage.style.color = 'red';
@@ -203,5 +220,5 @@
         });
     });
   </script>
-  </body>
+</body>
 </html>
