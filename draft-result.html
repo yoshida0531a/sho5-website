@@ -9,7 +9,6 @@
     body {
       margin: 0;
       padding-top: 20px;
-      /* フォント指定を統一 */
       font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
       background-color: #fff;
       color: #000;
@@ -19,16 +18,15 @@
       width: calc(100% - 40px);
       max-width: 800px;
       margin: 0 auto;
-      text-align: left; /* コンテナ内は左揃えに */
+      text-align: left;
     }
     h1 {
       font-size: 22px;
       font-weight: 700;
       margin-bottom: 25px;
-      text-align: center; /* タイトルは中央揃え */
+      text-align: center;
     }
     
-    /* ▼▼▼ ツイート表示用スタイル ▼▼▼ */
     #tweets-container {
       margin-top: 20px;
     }
@@ -47,23 +45,25 @@
       margin-bottom: 10px;
       padding-bottom: 8px;
       border-bottom: 1px solid #f0f0f0;
+      flex-wrap: wrap; /* 画面が狭い時に折り返す */
     }
     .tweet-username {
       font-weight: 700;
       font-size: 15px;
       color: #333;
+      margin-right: 10px;
     }
     .tweet-createdat {
       font-size: 12px;
       color: #777;
+      flex-shrink: 0;
     }
     .tweet-text {
       font-size: 14px;
       line-height: 1.7;
       color: #222;
-      /* white-space: pre-wrap; で \n を改行として表示 */
       white-space: pre-wrap;
-      word-wrap: break-word; /* 長い単語やURLの折り返し */
+      word-wrap: break-word;
     }
     .tweet-link {
       display: inline-block;
@@ -81,12 +81,11 @@
       font-size: 16px;
       color: #888;
     }
-    /* ▲▲▲ スタイルここまで ▲▲▲ */
 
     .back-link {
       display: inline-block;
-      margin-top: 15px; /* 上の要素とのマージンを調整 */
-      margin-bottom: 30px; /* フッターとのマージン */
+      margin-top: 15px;
+      margin-bottom: 30px;
       padding: 10px 20px;
       background-color: #f0f0f0;
       color: #333;
@@ -115,32 +114,94 @@
   </div>
 
   <script>
+    // XSS対策のための簡易HTMLエスケープ関数
+    function escapeHTML(str) {
+      if (typeof str !== 'string') return '';
+      return str.replace(/[&<>"']/g, function(match) {
+        return {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#39;'
+        }[match];
+      });
+    }
+
+    // 日付をフォーマットする関数 (例: "2025/10/22 07:07")
+    function formatTweetDate(dateString) {
+      try {
+        const date = new Date(dateString.replace(' at ', ' '));
+        if (isNaN(date)) return dateString; // 無効な日付はそのまま返す
+
+        const y = date.getFullYear();
+        const m = String(date.getMonth() + 1).padStart(2, '0');
+        const d = String(date.getDate()).padStart(2, '0');
+        const h = String(date.getHours()).padStart(2, '0');
+        const min = String(date.getMinutes()).padStart(2, '0');
+        
+        return `${y}/${m}/${d} ${h}:${min}`;
+      } catch (e) {
+        return dateString; // エラー時も元の文字列を返す
+      }
+    }
+
     // ページの読み込みが完了したら実行
     document.addEventListener('DOMContentLoaded', function() {
+      const container = document.getElementById('tweets-container');
+      const loadingMessage = document.getElementById('loading-message');
+
       // draft-test.txt をフェッチ（取得）
       fetch('draft-test.txt')
         .then(response => {
           if (!response.ok) {
-            throw new Error('ファイルの読み込みに失敗しました。');
+            // 404 (Not Found) や 500 (Server Error) の場合
+            throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
           }
           return response.json(); // テキストをJSONとして解析
         })
         .then(data => {
-          const container = document.getElementById('tweets-container');
-          const loadingMessage = document.getElementById('loading-message');
-          
           if (!data || !data.tweets || data.tweets.length === 0) {
             loadingMessage.textContent = '表示できるツイートがありません。';
             return;
           }
 
-          // ローディングメッセージを消去
-          container.innerHTML = ''; 
+          // 高速化のため、DocumentFragmentに一時的にDOMを追加
+          const fragment = document.createDocumentFragment();
 
           // データをループ処理してHTMLを生成
           data.tweets.forEach(tweet => {
-            // ツイートカードのHTML要素を作成
             const card = document.createElement('div');
             card.className = 'tweet-card';
             
-            // 日付の
+            // 安全なHTMLを生成
+            card.innerHTML = `
+              <div class="tweet-header">
+                <span class="tweet-username">@${escapeHTML(tweet.userName)}</span>
+                <span class="tweet-createdat">${escapeHTML(formatTweetDate(tweet.createdAt))}</span>
+              </div>
+              <div class="tweet-text">${escapeHTML(tweet.text)}</div>
+              <a href="${escapeHTML(tweet.tweetUrl)}" target="_blank" rel="noopener noreferrer" class="tweet-link">
+                Xで見る
+              </a>
+            `;
+            
+            fragment.appendChild(card);
+          });
+
+          // ローディングメッセージを消去し、完成したツイート一覧を一度に挿入（これが高速）
+          container.innerHTML = '';
+          container.appendChild(fragment);
+
+        })
+        .catch(error => {
+          // fetchが失敗した場合（CORSブロック、ネットワークエラー、JSON解析失敗など）
+          console.error('ツイートデータの処理中にエラーが発生しました:', error);
+          loadingMessage.textContent = 'ツイートの読み込みに失敗しました。サーバーにアップロードされているか、ファイル名が正しいか確認してください。';
+          loadingMessage.style.color = 'red';
+          loadingMessage.style.textAlign = 'left';
+        });
+    });
+  </script>
+  </body>
+</html>
