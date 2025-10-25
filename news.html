@@ -279,17 +279,40 @@
         // ニュースデータを読み込み
         async function loadNewsData() {
             try {
-                const response = await fetch('./news-data.json');
+                // まずローカルのJSONファイルを試す
+                let response = await fetch('./news-data.json');
+                
+                // ローカルファイルが取得できない場合は、Cloudflare Workersから取得
+                if (!response.ok) {
+                    console.log('ローカルファイルが見つかりません。Cloudflare Workersから取得します...');
+                    response = await fetch('https://twitter-to-line.chjqnfv62h.workers.dev/stored-news', {
+                        headers: {
+                            'Authorization': 'Basic ' + btoa('admin:sho5')
+                        }
+                    });
+                }
+                
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}: ${response.statusText}`);
                 }
+                
                 const data = await response.json();
                 newsData = data.articles || [];
                 
                 console.log('Loaded news data:', newsData.length, 'articles');
                 
+                if (newsData.length === 0) {
+                    document.getElementById('newsFeed').innerHTML = 
+                        '<div class="no-results">現在、新しいニュースはありません。</div>';
+                    return;
+                }
+                
                 // 日付順にソート（新しい順）
-                newsData.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
+                newsData.sort((a, b) => {
+                    const dateA = new Date(a.publishedDate || a.pubDate || 0);
+                    const dateB = new Date(b.publishedDate || b.pubDate || 0);
+                    return dateB - dateA;
+                });
                 
                 displayNews(newsData);
             } catch (error) {
