@@ -213,11 +213,12 @@
             card.innerHTML = `
               <div class="video-header">
                 <span class="video-title">${escapeHTML(video.title)}</span>
-                <span class="video-channel">${escapeHTML(video.channelTitle)}</span>
+                <span class="video-channel">${escapeHTML(video.channelTitle || video.channel)}</span>
               </div>
               <div class="video-description">${escapeHTML(video.description || '説明なし')}</div>
               <div style="font-size: 12px; color: #666; margin-bottom: 10px;">
                 公開日: ${escapeHTML(formatVideoDate(video.publishedAt))}
+                ${video.keyword ? `<br>キーワード: ${escapeHTML(video.keyword)}` : ''}
               </div>
               <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer" class="video-link">
                 YouTubeで見る

@@ -5,21 +5,24 @@
       "channel": "野球チャンネル",
       "url": "https://www.youtube.com/watch?v=example1",
       "publishedAt": "2024-01-15T10:00:00Z",
-      "description": "谷端選手の今シーズンの活躍シーンをまとめました。"
+      "description": "谷端選手の今シーズンの活躍シーンをまとめました。",
+      "keyword": "谷端 阪神"
     },
     {
       "title": "侍ジャパン 谷端選手インタビュー",
       "channel": "侍ジャパン公式",
       "url": "https://www.youtube.com/watch?v=example2",
       "publishedAt": "2024-01-14T15:30:00Z",
-      "description": "侍ジャパン代表として選出された谷端選手のインタビューです。"
+      "description": "侍ジャパン代表として選出された谷端選手のインタビューです。",
+      "keyword": "谷端 日大"
     },
     {
       "title": "大学野球 谷端選手の打撃フォーム分析",
       "channel": "野球分析チャンネル",
       "url": "https://www.youtube.com/watch?v=example3",
       "publishedAt": "2024-01-13T20:00:00Z",
-      "description": "谷端選手の打撃フォームを詳しく分析しました。"
+      "description": "谷端選手の打撃フォームを詳しく分析しました。",
+      "keyword": "谷端 ドラフト"
     }
   ]
 }
