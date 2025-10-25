@@ -1,0 +1,8 @@
+name = "sho5-photo-gallery"
+main = "src/index.js"
+compatibility_date = "2024-07-10"
+
+[[kv_namespaces]]
+binding = "PHOTO_METADATA"
+id = "0"
+preview_id = "0"

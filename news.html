@@ -280,8 +280,13 @@
         async function loadNewsData() {
             try {
                 const response = await fetch('./news-data.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
                 const data = await response.json();
                 newsData = data.articles || [];
+                
+                console.log('Loaded news data:', newsData.length, 'articles');
                 
                 // 日付順にソート（新しい順）
                 newsData.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
@@ -290,7 +295,7 @@
             } catch (error) {
                 console.error('ニュースデータの読み込みに失敗しました:', error);
                 document.getElementById('newsFeed').innerHTML = 
-                    '<div class="no-results">ニュースデータの読み込みに失敗しました。</div>';
+                    '<div class="no-results">ニュースデータの読み込みに失敗しました。<br>エラー: ' + error.message + '</div>';
             }
         }
 
@@ -372,7 +377,7 @@
             const query = document.getElementById('searchInput').value.toLowerCase();
             const filteredNews = newsData.filter(article => 
                 article.title.toLowerCase().includes(query) || 
-                article.summary.toLowerCase().includes(query) ||
+                (article.summary && article.summary.toLowerCase().includes(query)) ||
                 article.source.toLowerCase().includes(query)
             );
             displayNews(filteredNews);

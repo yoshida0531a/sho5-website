@@ -1,0 +1,12 @@
+name = "photo-gallery-worker"
+main = "src/index.js"
+compatibility_date = "2024-07-10"
+compatibility_flags = ["nodejs_compat"]
+
+[[r2_buckets]]
+binding = "PHOTOS"
+bucket_name = "sho5-gallery-photos"
+
+[[kv_namespaces]]
+binding = "USAGE_STATS"
+id = "6c2fb2fa2b244ad69e06813c64213972"
