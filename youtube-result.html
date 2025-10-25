@@ -176,6 +176,17 @@
       fetch('youtube-test.txt')
         .then(response => {
           if (!response.ok) {
+            // ローカルデータがない場合は、Cloudflare Workersから取得
+            return fetch('https://twitter-to-line.chjqnfv62h.workers.dev/stored-youtube', {
+              headers: {
+                'Authorization': 'Basic ' + btoa('admin:sho5')
+              }
+            });
+          }
+          return response;
+        })
+        .then(response => {
+          if (!response.ok) {
             throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
           }
           return response.json(); 

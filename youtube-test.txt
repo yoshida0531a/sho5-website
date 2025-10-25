@@ -1,1 +1,25 @@
-{"videos":[{"id":"sample1","title":"谷端将伍選手 ドラフト会議での活躍","description":"2025年ドラフト会議で阪神タイガースから2位指名された谷端将伍選手の活躍をまとめた動画です。","channelTitle":"野球チャンネル","publishedAt":"2025-10-23T00:00:00Z","url":"https://www.youtube.com/watch?v=sample1"},{"id":"sample2","title":"星稜高校OB 谷端将伍の軌跡","description":"石川県星稜高校出身の谷端将伍選手が日本大学でどのように成長したかを紹介します。","channelTitle":"高校野球TV","publishedAt":"2025-10-22T00:00:00Z","url":"https://www.youtube.com/watch?v=sample2"},{"id":"sample3","title":"大学日本代表 谷端将伍の打撃","description":"大学日本代表に選出された谷端将伍選手の打撃フォームと技術を詳しく解説します。","channelTitle":"野球技術解説","publishedAt":"2025-10-21T00:00:00Z","url":"https://www.youtube.com/watch?v=sample3"}]}
+{
+  "videos": [
+    {
+      "title": "【野球】谷端選手の活躍シーン集",
+      "channel": "野球チャンネル",
+      "url": "https://www.youtube.com/watch?v=example1",
+      "publishedAt": "2024-01-15T10:00:00Z",
+      "description": "谷端選手の今シーズンの活躍シーンをまとめました。"
+    },
+    {
+      "title": "侍ジャパン 谷端選手インタビュー",
+      "channel": "侍ジャパン公式",
+      "url": "https://www.youtube.com/watch?v=example2",
+      "publishedAt": "2024-01-14T15:30:00Z",
+      "description": "侍ジャパン代表として選出された谷端選手のインタビューです。"
+    },
+    {
+      "title": "大学野球 谷端選手の打撃フォーム分析",
+      "channel": "野球分析チャンネル",
+      "url": "https://www.youtube.com/watch?v=example3",
+      "publishedAt": "2024-01-13T20:00:00Z",
+      "description": "谷端選手の打撃フォームを詳しく分析しました。"
+    }
+  ]
+}
