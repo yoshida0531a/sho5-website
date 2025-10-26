@@ -280,7 +280,7 @@
         async function loadNewsData() {
             try {
                 // まずローカルのJSONファイルを試す
-                let response = await fetch('./news-data.json');
+                let response = await fetch('../news-data.json');
                 
                 // ローカルファイルが取得できない場合は、Cloudflare Workersから取得
                 if (!response.ok) {
