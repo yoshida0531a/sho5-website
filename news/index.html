@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsroom - 谷端選手最新ニュース</title>
+    <meta name="description" content="谷端将伍選手の最新ニュースをお届け。侍ジャパン大学日本代表、日米大学野球選手権大会などの活動情報を発信。">
+    <link rel="canonical" href="https://sho5.org/news.html">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            line-height: 1.6;
+            font-size: 18px;
+        }
+
+        .top-link {
+            position: fixed;
+            top: 10px;
+            left: 20px;
+            font-size: 24px;
+            color: black;
+            text-decoration: none;
+            z-index: 1000;
+            font-family: Arial, sans-serif;
+        }
+
+        .top-link:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            margin: 40px 0 40px 0;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #000;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: #666;
+            font-weight: 300;
+        }
+
+        .search-container {
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        .search-input {
+            width: 100%;
+            max-width: 400px;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            outline: none;
+            transition: border-color 0.3s ease;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .search-input:focus {
+            border-color: #000;
+        }
+
+        .news-feed {
+            margin-top: 20px;
+        }
+
+        .news-item {
+            background: #fff;
+            border: 1px solid #eee;
+            padding: 24px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .news-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+
+        .news-title {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #000;
+            line-height: 1.4;
+        }
+
+        .news-meta {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 12px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .news-date {
+            font-weight: 400;
+        }
+
+        .news-source {
+            font-weight: 400;
+            color: #666;
+            font-size: 14px;
+            margin-top: 12px;
+        }
+
+        .news-summary {
+            margin-bottom: 16px;
+            color: #333;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        .news-ai-summary {
+            margin-bottom: 16px;
+        }
+
+        .news-ai-summary p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+        }
+
+        .summary-loading {
+            color: #999;
+            font-style: italic;
+            font-size: 14px;
+        }
+
+        .news-link {
+            display: inline-block;
+            margin: 12px 0;
+            padding: 8px 16px;
+            background-color: transparent;
+            color: #000;
+            text-decoration: none;
+            border: 2px solid #000;
+            border-radius: 5px;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+        .news-link:hover {
+            background-color: #000;
+            color: #fff;
+        }
+
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+            font-style: italic;
+            font-size: 16px;
+        }
+
+
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            padding: 20px;
+            color: #999;
+            font-size: 14px;
+        }
+
+        .back-link {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+
+        .back-link a {
+            color: #ccc;
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+
+        .back-link a:hover {
+            color: #666;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                font-size: 16px;
+            }
+            
+            .container {
+                padding: 20px 16px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+            
+            .news-title {
+                font-size: 18px;
+            }
+            
+            .news-meta {
+                flex-direction: column;
+                gap: 4px;
+            }
+
+            .news-item {
+                padding: 20px;
+            }
+        }
+
+        /* ローディングアニメーション */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { color: rgba(0,0,0,0); text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+            40% { color: #666; text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+            60% { text-shadow: .25em 0 0 #666, .5em 0 0 rgba(0,0,0,0); }
+            80%, 100% { text-shadow: .25em 0 0 #666, .5em 0 0 #666; }
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="top-link">←</a>
+    <div class="container">
+
+        <header>
+            <h1>Newsroom</h1>
+        </header>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="記事を検索...">
+        </div>
+
+        <div class="news-feed" id="newsFeed">
+            <div class="loading">ニュースを読み込み中</div>
+        </div>
+
+
+        <footer style="text-align: center; font-size: 12px; margin: 20px 0;">
+            Copyright © 2023-2025 Akira Yoshida.
+        </footer>
+    </div>
+
+    <script>
+        let newsData = [];
+
+        // ニュースデータを読み込み
+        async function loadNewsData() {
+            try {
+                // まずローカルのJSONファイルを試す
+                let response = await fetch('./news-data.json');
+                
+                // ローカルファイルが取得できない場合は、Cloudflare Workersから取得
+                if (!response.ok) {
+                    console.log('ローカルファイルが見つかりません。Cloudflare Workersから取得します...');
+                    response = await fetch('https://twitter-to-line.chjqnfv62h.workers.dev/stored-news', {
+                        headers: {
+                            'Authorization': 'Basic ' + btoa('admin:sho5')
+                        }
+                    });
+                }
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                newsData = data.articles || [];
+                
+                console.log('Loaded news data:', newsData.length, 'articles');
+                
+                if (newsData.length === 0) {
+                    document.getElementById('newsFeed').innerHTML = 
+                        '<div class="no-results">現在、新しいニュースはありません。</div>';
+                    return;
+                }
+                
+                // 日付順にソート（新しい順）
+                newsData.sort((a, b) => {
+                    const dateA = new Date(a.publishedDate || a.pubDate || 0);
+                    const dateB = new Date(b.publishedDate || b.pubDate || 0);
+                    return dateB - dateA;
+                });
+                
+                displayNews(newsData);
+            } catch (error) {
+                console.error('ニュースデータの読み込みに失敗しました:', error);
+                document.getElementById('newsFeed').innerHTML = 
+                    '<div class="no-results">ニュースデータの読み込みに失敗しました。<br>エラー: ' + error.message + '</div>';
+            }
+        }
+
+        // ニュースを表示
+        function displayNews(articles) {
+            const newsFeed = document.getElementById('newsFeed');
+            
+            if (articles.length === 0) {
+                newsFeed.innerHTML = '<div class="no-results">該当する記事が見つかりませんでした。</div>';
+                return;
+            }
+
+            newsFeed.innerHTML = articles.map((article, index) => `
+                <article class="news-item">
+                    <h3 class="news-title">${article.title}</h3>
+                    <div class="news-meta">
+                        <span class="news-date">${formatDate(article.publishedDate)}</span>
+                    </div>
+                    <div class="news-ai-summary" id="ai-summary-${index}">
+                        <p class="summary-loading">要約を生成中...</p>
+                    </div>
+                    <a href="${article.link}" target="_blank" class="news-link">記事を読む</a>
+                    <p class="news-source">${article.source}による報道</p>
+                </article>
+            `).join('');
+
+            // 各記事のAI要約を生成
+            articles.forEach((article, index) => {
+                generateAISummary(article, index);
+            });
+        }
+
+        // 生成済みのAI要約を表示（サーバーサイドで既に生成済み）
+        async function generateAISummary(article, index) {
+            const summaryElement = document.querySelector(`#ai-summary-${index} p`);
+            
+            // 記事データに既にsummaryが含まれている場合はそれを使用
+            if (article.summary && article.summary !== article.title) {
+                summaryElement.textContent = article.summary;
+                summaryElement.classList.remove('summary-loading');
+            } else {
+                // フォールバック: 基本的な要約を生成
+                summaryElement.textContent = createJapaneseSummary(article);
+                summaryElement.classList.remove('summary-loading');
+            }
+        }
+
+
+
+        // 日本語での簡単な要約を作成（フォールバック）
+        function createJapaneseSummary(article) {
+            // より詳細な条件分岐で異なる要約を生成
+            if (article.title.includes('日米野球') || article.title.includes('日米大学野球')) {
+                return '谷端将伍選手が第45回日米大学野球選手権大会の大学日本代表に選出されました。星稜高校出身の内野手として、国際舞台での活躍が期待されています。';
+            } else if (article.title.includes('選考合宿') || article.title.includes('侍ジャパン')) {
+                return '侍ジャパン大学日本代表の選考合宿が開催され、谷端将伍選手を含む候補選手が発表されました。今後の代表活動への参加が注目されています。';
+            } else if (article.title.includes('代表')) {
+                return '谷端将伍選手が大学日本代表に関連する重要な発表がありました。日本大学野球部の主力選手として期待が高まります。';
+            } else if (article.title.includes('選考')) {
+                return '大学野球日本代表の選考に関する最新情報です。谷端将伍選手の動向に注目が集まっています。';
+            } else {
+                return '谷端将伍選手に関する最新のニュースです。詳細は記事をご確認ください。';
+            }
+        }
+
+        // 日付をフォーマット
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('ja-JP', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+
+
+        // 検索機能
+        function filterNews() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const filteredNews = newsData.filter(article => 
+                article.title.toLowerCase().includes(query) || 
+                (article.summary && article.summary.toLowerCase().includes(query)) ||
+                article.source.toLowerCase().includes(query)
+            );
+            displayNews(filteredNews);
+        }
+
+        // イベントリスナー設定
+        document.getElementById('searchInput').addEventListener('input', filterNews);
+
+        // ページ読み込み時にニュースデータを取得
+        window.addEventListener('load', loadNewsData);
+    </script>
+</body>
+</html>
