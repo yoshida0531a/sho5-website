@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>【X Post】みんなの反応 - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding-top: 20px;
+      font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
+      background-color: #fff;
+      color: #000;
+      text-align: center;
+    }
+    .container {
+      width: calc(100% - 40px);
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: left;
+      position: relative;
+    }
+
+    /* 左上の戻るボタン */
+    .back-home {
+      position: absolute;
+      top: 0;
+      left: 0;
+      font-size: 24px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    .back-home:hover {
+      color: #007bff;
+    }
+
+    /* ヘッダー画像 */
+    .header-image-container {
+      text-align: center;
+      margin: 40px 0 20px 0;
+    }
+    .header-image-container img {
+      width: 100%;
+      max-width: 400px;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      display: block;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin: 20px 0;
+      text-align: center;
+    }
+
+    /* 検索ボックス */
+    .search-container {
+      margin: 20px 0;
+      text-align: center;
+    }
+    .search-box {
+      width: 100%;
+      max-width: 600px;
+      padding: 12px 20px;
+      font-size: 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 25px;
+      outline: none;
+      transition: border-color 0.3s;
+      font-family: 'Noto Sans JP', sans-serif;
+    }
+    .search-box:focus {
+      border-color: #007bff;
+    }
+    .search-results-count {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #666;
+    }
+
+    #tweets-container {
+      margin-top: 20px;
+    }
+    .tweet-card {
+      border: 1px solid #eee;
+      border-radius: 10px;
+      padding: 15px 20px;
+      margin-bottom: 15px;
+      background-color: #fcfcfc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .tweet-card.archived {
+      display: none;
+    }
+    .tweet-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #f0f0f0;
+      flex-wrap: wrap;
+    }
+    .tweet-username {
+      font-weight: 700;
+      font-size: 15px;
+      color: #007bff;
+      margin-right: 10px;
+      text-decoration: none;
+    }
+    .tweet-username:hover {
+      text-decoration: underline;
+    }
+    .tweet-createdat {
+      font-size: 12px;
+      color: #777;
+      flex-shrink: 0;
+    }
+    .tweet-text {
+      font-size: 14px;
+      line-height: 1.7;
+      color: #222;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .tweet-link {
+      display: inline-block;
+      margin-top: 12px;
+      font-size: 13px;
+      color: #007bff;
+      text-decoration: none;
+    }
+    .tweet-link:hover {
+      text-decoration: underline;
+    }
+    
+    /* もっと読むボタン */
+    .load-more-container {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .load-more-btn {
+      display: inline-block;
+      padding: 12px 30px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      font-size: 16px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .load-more-btn:hover {
+      background-color: #0056b3;
+    }
+    .load-more-btn:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+
+    #loading-message {
+      text-align: center;
+      padding: 30px;
+      font-size: 16px;
+      color: #888;
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 40px;
+      color: #999;
+      font-size: 16px;
+    }
+
+    @media (max-width: 768px) {
+      .back-home {
+        font-size: 20px;
+      }
+      h1 {
+        margin-top: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- 左上の戻るボタン -->
+    <a href="index.html" class="back-home">←</a>
+
+    <!-- ヘッダー画像 -->
+    <div class="header-image-container">
+      <img src="draft_image.png" alt="阪神 谷端将伍選手 ドラフト2位指名">
+    </div>
+
+    <h1>【X Post】みんなの反応</h1>
+
+    <!-- 検索ボックス -->
+    <div class="search-container">
+      <input type="text" id="searchBox" class="search-box" placeholder="🔍 キーワードで検索...">
+      <div id="searchResultsCount" class="search-results-count"></div>
+    </div>
+
+    <div id="tweets-container">
+      <p id="loading-message">データを読み込んでいます...</p>
+    </div>
+
+    <!-- もっと読むボタン -->
+    <div class="load-more-container" id="loadMoreContainer" style="display: none;">
+      <button id="loadMoreBtn" class="load-more-btn">もっと読む（過去のポスト）</button>
+    </div>
+
+    <br><br>
+  </div>
+
+  <script>
+    // グローバル変数
+    let allTweets = [];
+    let filteredTweets = [];
+    let isSearching = false;
+
+    // XSS対策のための簡易HTMLエスケープ関数
+    function escapeHTML(str) {
+      if (typeof str !== 'string') return '';
+      return str.replace(/[&<>"']/g, function(match) {
+        return {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#39;'
+        }[match];
+      });
+    }
+
+    // 日付をフォーマットする関数
+    function formatDate(dateString) {
+      try {
+        // 様々な日付フォーマットに対応
+        let date;
+        
+        if (!dateString) {
+          return '日付不明';
+        }
+
+        // ISO 8601形式やその他の標準的な日付文字列
+        date = new Date(dateString);
+        
+        // 無効な日付の場合
+        if (isNaN(date.getTime())) {
+          return '日付不明';
+        }
+
+        const y = date.getFullYear();
+        const m = String(date.getMonth() + 1).padStart(2, '0');
+        const d = String(date.getDate()).padStart(2, '0');
+        const h = String(date.getHours()).padStart(2, '0');
+        const min = String(date.getMinutes()).padStart(2, '0');
+        return `${y}/${m}/${d} ${h}:${min}`;
+      } catch (e) {
+        console.error('Date format error:', e, dateString);
+        return '日付不明';
+      }
+    }
+
+    // 今日の日付を取得（00:00:00）
+    function getTodayStart() {
+      const now = new Date();
+      now.setHours(0, 0, 0, 0);
+      return now;
+    }
+
+    // ツイートが今日のものかチェック
+    function isToday(dateString) {
+      try {
+        if (!dateString) return false;
+        const tweetDate = new Date(dateString);
+        if (isNaN(tweetDate.getTime())) return false;
+        
+        const today = getTodayStart();
+        return tweetDate >= today;
+      } catch (e) {
+        return false;
+      }
+    }
+
+    // ユーザー名から@付きとリンクを生成
+    function getUsernameHTML(tweet) {
+      const username = tweet.username || tweet.user || 'X User';
+      const cleanUsername = username.replace(/^@/, ''); // 既存の@を削除
+      
+      // URLからユーザー名を抽出できる場合
+      if (tweet.url && tweet.url.includes('twitter.com/') || tweet.url && tweet.url.includes('x.com/')) {
+        const match = tweet.url.match(/(?:twitter\.com|x\.com)\/([^\/\?]+)/);
+        if (match && match[1] && match[1] !== 'i') {
+          const extractedUsername = match[1];
+          return `<a href="https://x.com/${escapeHTML(extractedUsername)}" target="_blank" rel="noopener noreferrer" class="tweet-username">@${escapeHTML(extractedUsername)}</a>`;
+        }
+      }
+      
+      // デフォルト
+      return `<span class="tweet-username">@${escapeHTML(cleanUsername)}</span>`;
+    }
+
+    // ツイートを表示する関数
+    function displayTweets(tweets, showArchived = false) {
+      const container = document.getElementById('tweets-container');
+      const loadMoreContainer = document.getElementById('loadMoreContainer');
+      const loadMoreBtn = document.getElementById('loadMoreBtn');
+      
+      if (!tweets || tweets.length === 0) {
+        container.innerHTML = '<div class="no-results">該当するポストが見つかりませんでした。</div>';
+        loadMoreContainer.style.display = 'none';
+        return;
+      }
+
+      const fragment = document.createDocumentFragment();
+      let hasArchived = false;
+
+      tweets.forEach((tweet, index) => {
+        const card = document.createElement('div');
+        card.className = 'tweet-card';
+        const isTodayTweet = isToday(tweet.date || tweet.createdAt || tweet.created_at);
+        
+        if (!isTodayTweet && !showArchived && !isSearching) {
+          card.classList.add('archived');
+          hasArchived = true;
+        }
+        
+        const usernameHTML = getUsernameHTML(tweet);
+        const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at);
+        
+        card.innerHTML = `
+          <div class="tweet-header">
+            ${usernameHTML}
+            <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
+          </div>
+          <div class="tweet-text">${escapeHTML(tweet.text || tweet.content || '')}</div>
+          ${tweet.url ? `<a href="${escapeHTML(tweet.url)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る</a>` : ''}
+        `;
+        
+        fragment.appendChild(card);
+      });
+
+      container.innerHTML = '';
+      container.appendChild(fragment);
+
+      // もっと読むボタンの表示制御
+      if (hasArchived && !showArchived && !isSearching) {
+        loadMoreContainer.style.display = 'block';
+        loadMoreBtn.disabled = false;
+      } else {
+        loadMoreContainer.style.display = 'none';
+      }
+    }
+
+    // 検索機能
+    function searchTweets(query) {
+      if (!query || query.trim() === '') {
+        isSearching = false;
+        filteredTweets = allTweets;
+        displayTweets(filteredTweets);
+        document.getElementById('searchResultsCount').textContent = '';
+        return;
+      }
+
+      isSearching = true;
+      const lowerQuery = query.toLowerCase();
+      filteredTweets = allTweets.filter(tweet => {
+        const text = (tweet.text || tweet.content || '').toLowerCase();
+        const username = (tweet.username || tweet.user || '').toLowerCase();
+        return text.includes(lowerQuery) || username.includes(lowerQuery);
+      });
+
+      displayTweets(filteredTweets, true); // 検索時はすべて表示
+      document.getElementById('searchResultsCount').textContent = 
+        `${filteredTweets.length}件のポストが見つかりました`;
+    }
+
+    // もっと読むボタンのイベント
+    document.getElementById('loadMoreBtn').addEventListener('click', function() {
+      displayTweets(filteredTweets, true);
+      this.disabled = true;
+    });
+
+    // 検索ボックスのイベント（リアルタイム検索）
+    let searchTimeout;
+    document.getElementById('searchBox').addEventListener('input', function(e) {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        searchTweets(e.target.value);
+      }, 300); // 300ms のデバウンス
+    });
+
+    // ページ読み込み時にデータを取得
+    document.addEventListener('DOMContentLoaded', function() {
+      const container = document.getElementById('tweets-container');
+      const loadingMessage = document.getElementById('loading-message');
+
+      fetch('draft-test.txt')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
+          }
+          return response.json(); 
+        })
+        .then(data => {
+          if (!data || !data.tweets || data.tweets.length === 0) {
+            loadingMessage.textContent = '表示できるポストがありません。';
+            return;
+          }
+
+          allTweets = data.tweets;
+          filteredTweets = allTweets;
+
+          // 日付順にソート（新しい順）
+          allTweets.sort((a, b) => {
+            const dateA = new Date(a.date || a.createdAt || a.created_at || 0);
+            const dateB = new Date(b.date || b.createdAt || b.created_at || 0);
+            return dateB.getTime() - dateA.getTime();
+          });
+
+          // 当日分のみ初期表示
+          displayTweets(allTweets, false);
+
+        })
+        .catch(error => {
+          console.error('ポストデータの処理中にエラーが発生しました:', error);
+          loadingMessage.textContent = 'ポストの読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(draft-test.txt)が正しいか確認してください。';
+          loadingMessage.style.color = 'red';
+          loadingMessage.style.textAlign = 'left';
+        });
+    });
+  </script>
+</body>
+</html>
+

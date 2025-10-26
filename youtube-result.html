@@ -19,6 +19,22 @@
       max-width: 800px;
       margin: 0 auto;
       text-align: left;
+      position: relative;
+    }
+
+    /* 左上の戻るボタン */
+    .back-home {
+      position: absolute;
+      top: 0;
+      left: 0;
+      font-size: 24px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    .back-home:hover {
+      color: #007bff;
     }
 
 
@@ -86,26 +102,36 @@
       color: #888;
     }
 
-    .back-link {
+    /* もっと読むボタン */
+    .load-more-container {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .load-more-btn {
       display: inline-block;
-      margin-top: 15px;
-      margin-bottom: 30px;
-      padding: 10px 20px;
-      background-color: #f0f0f0;
-      color: #333;
-      text-decoration: none;
-      border-radius: 5px;
+      padding: 12px 30px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 25px;
       font-size: 16px;
       font-weight: 500;
+      cursor: pointer;
       transition: background-color 0.3s;
     }
-    .back-link:hover {
-      background-color: #e0e0e0;
+    .load-more-btn:hover {
+      background-color: #0056b3;
+    }
+    .load-more-btn:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
     }
   </style>
 </head>
 <body>
   <div class="container">
+    <!-- 左上の戻るボタン -->
+    <a href="index.html" class="back-home">←</a>
 
     <h1>【YouTube関連】谷端選手動画まとめ</h1>
 
@@ -113,9 +139,12 @@
       <p id="loading-message">データを読み込んでいます...</p>
     </div>
 
-    <br>
-    <div style="text-align: center;"> <a href="index.html" class="back-link">← サイトトップに戻る</a>
+    <!-- もっと読むボタン -->
+    <div class="load-more-container" id="loadMoreContainer" style="display: none;">
+      <button id="loadMoreBtn" class="load-more-btn">もっと読む（過去の動画）</button>
     </div>
+
+    <br><br>
   </div>
 
   <script>
