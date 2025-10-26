@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>【ドラフト関連】みんなの反応 - Shogo Fun Site</title>
+  <title>【X Post】みんなの反応 - Shogo Fun Site</title>
   <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -21,25 +21,36 @@
       text-align: left;
     }
 
-    .header-image-container {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    .header-image-container img {
-      width: 100%;
-      max-width: 400px;
-      height: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      display: block;
-      margin: 0 auto;
-    }
-
     h1 {
       font-size: 22px;
       font-weight: 700;
       margin-bottom: 25px;
       text-align: center;
+    }
+
+    /* 検索ボックス */
+    .search-container {
+      margin: 20px 0;
+      text-align: center;
+    }
+    .search-box {
+      width: 100%;
+      max-width: 600px;
+      padding: 12px 20px;
+      font-size: 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 25px;
+      outline: none;
+      transition: border-color 0.3s;
+      font-family: 'Noto Sans JP', sans-serif;
+    }
+    .search-box:focus {
+      border-color: #007bff;
+    }
+    .search-results-count {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #666;
     }
 
     #tweets-container {
@@ -52,6 +63,9 @@
       margin-bottom: 15px;
       background-color: #fcfcfc;
       box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .tweet-card.archived {
+      display: none;
     }
     .tweet-header {
       display: flex;
@@ -90,6 +104,32 @@
     .tweet-link:hover {
       text-decoration: underline;
     }
+    
+    /* もっと読むボタン */
+    .load-more-container {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .load-more-btn {
+      display: inline-block;
+      padding: 12px 30px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      font-size: 16px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .load-more-btn:hover {
+      background-color: #0056b3;
+    }
+    .load-more-btn:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+
     #loading-message {
       text-align: center;
       padding: 30px;
@@ -113,30 +153,47 @@
     .back-link:hover {
       background-color: #e0e0e0;
     }
+
+    .no-results {
+      text-align: center;
+      padding: 40px;
+      color: #999;
+      font-size: 16px;
+    }
   </style>
 </head>
 <body>
   <div class="container">
 
-    <div class="header-image-container">
-      <a href="draft-result.html">
-        <!-- 画像ファイル名は draft_image.png と仮定 -->
-        <img src="draft_image.png" alt="阪神 谷端将伍選手 ドラフト2位指名">
-      </a>
-    </div>
+    <h1>【X Post】みんなの反応</h1>
 
-    <h1>【ドラフト関連】みんなの反応</h1>
+    <!-- 検索ボックス -->
+    <div class="search-container">
+      <input type="text" id="searchBox" class="search-box" placeholder="🔍 キーワードで検索...">
+      <div id="searchResultsCount" class="search-results-count"></div>
+    </div>
 
     <div id="tweets-container">
       <p id="loading-message">データを読み込んでいます...</p>
     </div>
 
+    <!-- もっと読むボタン -->
+    <div class="load-more-container" id="loadMoreContainer" style="display: none;">
+      <button id="loadMoreBtn" class="load-more-btn">もっと読む（過去のポスト）</button>
+    </div>
+
     <br>
-    <div style="text-align: center;"> <a href="index.html" class="back-link">← サイトトップに戻る</a>
+    <div style="text-align: center;">
+      <a href="index.html" class="back-link">← サイトトップに戻る</a>
     </div>
   </div>
 
   <script>
+    // グローバル変数
+    let allTweets = [];
+    let filteredTweets = [];
+    let isSearching = false;
+
     // XSS対策のための簡易HTMLエスケープ関数
     function escapeHTML(str) {
       if (typeof str !== 'string') return '';
@@ -151,81 +208,127 @@
       });
     }
 
-    // 日付をフォーマットする関数 (例: "2025/10/22 07:07")
-    function formatTweetDate(dateString) {
-      const date = parseCustomDateString(dateString); // 修正: 手動解析関数を使う
-      if (!date) return dateString; // 解析失敗時は元の文字列を返す
-
+    // 日付をフォーマットする関数
+    function formatDate(dateString) {
       try {
+        const date = new Date(dateString);
         const y = date.getFullYear();
         const m = String(date.getMonth() + 1).padStart(2, '0');
         const d = String(date.getDate()).padStart(2, '0');
         const h = String(date.getHours()).padStart(2, '0');
         const min = String(date.getMinutes()).padStart(2, '0');
-        
         return `${y}/${m}/${d} ${h}:${min}`;
       } catch (e) {
-        console.error("日付フォーマットエラー:", e);
         return dateString;
       }
     }
 
-    // "October 22, 2025 at 07:07AM" のような形式を Date オブジェクトに変換する関数
-    function parseCustomDateString(dateString) {
+    // 今日の日付を取得（00:00:00）
+    function getTodayStart() {
+      const now = new Date();
+      now.setHours(0, 0, 0, 0);
+      return now;
+    }
+
+    // ツイートが今日のものかチェック
+    function isToday(dateString) {
       try {
-        // "at" をスペースに置き換え、カンマを削除
-        const cleanedString = dateString.replace(' at ', ' ').replace(',', '');
-        // スペース、コロンで分割: ["October", "22", "2025", "07", "07AM"]
-        const parts = cleanedString.split(/[\s:]+/);
-        if (parts.length < 5) throw new Error("日付形式が不正です");
-
-        const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-        const monthIndex = monthNames.indexOf(parts[0]);
-        if (monthIndex === -1) throw new Error("月の名前が無効です");
-
-        const day = parseInt(parts[1], 10);
-        const year = parseInt(parts[2], 10);
-        
-        // 時間部分 (例: "07", "07AM")
-        let hour = parseInt(parts[3], 10);
-        const minutePart = parts[4]; // "07AM" や "12PM" など
-        const minute = parseInt(minutePart.substring(0, 2), 10);
-        const ampm = minutePart.substring(minutePart.length - 2).toUpperCase(); // "AM" or "PM"
-
-        // AM/PM を 24時間表記に変換
-        if (ampm === 'PM' && hour !== 12) {
-          hour += 12;
-        } else if (ampm === 'AM' && hour === 12) { // 12 AM (深夜0時) の場合
-          hour = 0;
-        }
-
-        // 各要素が数値かチェック
-        if (isNaN(day) || isNaN(year) || isNaN(hour) || isNaN(minute)) {
-             throw new Error("日付の数値変換に失敗しました");
-        }
-        
-        // Dateオブジェクトを作成 (月は0から始まるので monthIndex を使う)
-        const date = new Date(year, monthIndex, day, hour, minute);
-        
-        // 最終チェック: 生成されたDateが無効でないか
-        if (isNaN(date.getTime())) {
-            throw new Error("生成されたDateオブジェクトが無効です");
-        }
-        
-        return date;
-      } catch(e) {
-          // パース失敗時のフォールバック (元の文字列で Date を試す)
-          console.warn("手動での日付解析に失敗:", dateString, "エラー:", e.message);
-          try {
-              const fallbackDate = new Date(dateString.replace(' at ', ' '));
-              if (!isNaN(fallbackDate.getTime())) return fallbackDate;
-          } catch {}
-          console.error("最終的な日付解析に失敗:", dateString);
-          return null; // 解析失敗時は null を返す
+        const tweetDate = new Date(dateString);
+        const today = getTodayStart();
+        return tweetDate >= today;
+      } catch (e) {
+        return false;
       }
     }
 
-    // ページの読み込みが完了したら実行
+    // ツイートを表示する関数
+    function displayTweets(tweets, showArchived = false) {
+      const container = document.getElementById('tweets-container');
+      const loadMoreContainer = document.getElementById('loadMoreContainer');
+      const loadMoreBtn = document.getElementById('loadMoreBtn');
+      
+      if (!tweets || tweets.length === 0) {
+        container.innerHTML = '<div class="no-results">該当するポストが見つかりませんでした。</div>';
+        loadMoreContainer.style.display = 'none';
+        return;
+      }
+
+      const fragment = document.createDocumentFragment();
+      let hasArchived = false;
+
+      tweets.forEach((tweet, index) => {
+        const card = document.createElement('div');
+        card.className = 'tweet-card';
+        const isTodayTweet = isToday(tweet.date || tweet.createdAt);
+        
+        if (!isTodayTweet && !showArchived && !isSearching) {
+          card.classList.add('archived');
+          hasArchived = true;
+        }
+        
+        card.innerHTML = `
+          <div class="tweet-header">
+            <span class="tweet-username">${escapeHTML(tweet.username || 'X User')}</span>
+            <span class="tweet-createdat">${escapeHTML(formatDate(tweet.date || tweet.createdAt))}</span>
+          </div>
+          <div class="tweet-text">${escapeHTML(tweet.text)}</div>
+          ${tweet.url ? `<a href="${escapeHTML(tweet.url)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る</a>` : ''}
+        `;
+        
+        fragment.appendChild(card);
+      });
+
+      container.innerHTML = '';
+      container.appendChild(fragment);
+
+      // もっと読むボタンの表示制御
+      if (hasArchived && !showArchived && !isSearching) {
+        loadMoreContainer.style.display = 'block';
+        loadMoreBtn.disabled = false;
+      } else {
+        loadMoreContainer.style.display = 'none';
+      }
+    }
+
+    // 検索機能
+    function searchTweets(query) {
+      if (!query || query.trim() === '') {
+        isSearching = false;
+        filteredTweets = allTweets;
+        displayTweets(filteredTweets);
+        document.getElementById('searchResultsCount').textContent = '';
+        return;
+      }
+
+      isSearching = true;
+      const lowerQuery = query.toLowerCase();
+      filteredTweets = allTweets.filter(tweet => {
+        const text = (tweet.text || '').toLowerCase();
+        const username = (tweet.username || '').toLowerCase();
+        return text.includes(lowerQuery) || username.includes(lowerQuery);
+      });
+
+      displayTweets(filteredTweets, true); // 検索時はすべて表示
+      document.getElementById('searchResultsCount').textContent = 
+        `${filteredTweets.length}件のポストが見つかりました`;
+    }
+
+    // もっと読むボタンのイベント
+    document.getElementById('loadMoreBtn').addEventListener('click', function() {
+      displayTweets(filteredTweets, true);
+      this.disabled = true;
+    });
+
+    // 検索ボックスのイベント（リアルタイム検索）
+    let searchTimeout;
+    document.getElementById('searchBox').addEventListener('input', function(e) {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        searchTweets(e.target.value);
+      }, 300); // 300ms のデバウンス
+    });
+
+    // ページ読み込み時にデータを取得
     document.addEventListener('DOMContentLoaded', function() {
       const container = document.getElementById('tweets-container');
       const loadingMessage = document.getElementById('loading-message');
@@ -239,53 +342,26 @@
         })
         .then(data => {
           if (!data || !data.tweets || data.tweets.length === 0) {
-            loadingMessage.textContent = '表示できるツイートがありません。';
+            loadingMessage.textContent = '表示できるポストがありません。';
             return;
           }
 
-          // ---------- 並び替え処理 ----------
-          data.tweets.sort((a, b) => {
-            const dateA = parseCustomDateString(a.createdAt);
-            const dateB = parseCustomDateString(b.createdAt);
+          allTweets = data.tweets;
+          filteredTweets = allTweets;
 
-            // 日付が無効な場合は比較せず、順序を維持 (0を返す)
-            // 両方無効、または片方だけ無効の場合も考慮
-            if (!dateA && !dateB) return 0;
-            if (!dateA) return 1; // aが無効なら b を前に (降順のため)
-            if (!dateB) return -1;// bが無効なら a を前に (降順のため)
-
-            // Dateオブジェクトの getTime() でミリ秒を取得して比較。b - a で降順。
-            return dateB.getTime() - dateA.getTime(); 
-          });
-          // ---------- 並び替え処理ここまで ----------
-
-          const fragment = document.createDocumentFragment();
-
-          data.tweets.forEach(tweet => {
-            const card = document.createElement('div');
-            card.className = 'tweet-card';
-            
-            card.innerHTML = `
-              <div class="tweet-header">
-                <span class="tweet-username">@${escapeHTML(tweet.userName)}</span>
-                <span class="tweet-createdat">${escapeHTML(formatTweetDate(tweet.createdAt))}</span>
-              </div>
-              <div class="tweet-text">${escapeHTML(tweet.text)}</div>
-              <a href="${escapeHTML(tweet.tweetUrl)}" target="_blank" rel="noopener noreferrer" class="tweet-link">
-                Xで見る
-              </a>
-            `;
-            
-            fragment.appendChild(card);
+          // 日付順にソート（新しい順）
+          allTweets.sort((a, b) => {
+            const dateA = new Date(a.date || a.createdAt || 0);
+            const dateB = new Date(b.date || b.createdAt || 0);
+            return dateB.getTime() - dateA.getTime();
           });
 
-          container.innerHTML = '';
-          container.appendChild(fragment);
+          displayTweets(allTweets);
 
         })
         .catch(error => {
-          console.error('ツイートデータの処理中にエラーが発生しました:', error);
-          loadingMessage.textContent = 'ツイートの読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(draft-test.txt)が正しいか確認してください。';
+          console.error('ポストデータの処理中にエラーが発生しました:', error);
+          loadingMessage.textContent = 'ポストの読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(draft-test.txt)が正しいか確認してください。';
           loadingMessage.style.color = 'red';
           loadingMessage.style.textAlign = 'left';
         });
@@ -293,3 +369,4 @@
   </script>
 </body>
 </html>
+
