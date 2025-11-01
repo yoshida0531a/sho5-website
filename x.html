@@ -278,15 +278,23 @@
       return now;
     }
 
-    // ツイートが今日のものかチェック
-    function isToday(dateString) {
+    // 昨日の日付を取得（00:00:00）
+    function getYesterdayStart() {
+      const yesterday = new Date();
+      yesterday.setDate(yesterday.getDate() - 1);
+      yesterday.setHours(0, 0, 0, 0);
+      return yesterday;
+    }
+
+    // ツイートが今日または昨日のものかチェック
+    function isTodayOrYesterday(dateString) {
       try {
         if (!dateString) return false;
         const tweetDate = new Date(dateString);
         if (isNaN(tweetDate.getTime())) return false;
         
-        const today = getTodayStart();
-        return tweetDate >= today;
+        const yesterday = getYesterdayStart();
+        return tweetDate >= yesterday;
       } catch (e) {
         return false;
       }
@@ -341,21 +349,21 @@
 
       const fragment = document.createDocumentFragment();
       let hasArchived = false;
-      let todayTweets = [];
+      let recentTweets = [];
       let archivedTweets = [];
 
-      // ツイートを当日分とアーカイブ分に分類
+      // ツイートを最近分（今日+昨日）とアーカイブ分に分類
       tweets.forEach((tweet, index) => {
-        const isTodayTweet = isToday(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
-        if (isTodayTweet) {
-          todayTweets.push(tweet);
+        const isRecentTweet = isTodayOrYesterday(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
+        if (isRecentTweet) {
+          recentTweets.push(tweet);
         } else {
           archivedTweets.push(tweet);
         }
       });
 
-      // 当日分を表示
-      todayTweets.forEach(tweet => {
+      // 最近分（今日+昨日）を表示
+      recentTweets.forEach(tweet => {
         const card = document.createElement('div');
         card.className = 'tweet-card';
         
@@ -511,7 +519,7 @@
             return dateB.getTime() - dateA.getTime();
           });
 
-          // 当日分のみ初期表示
+          // 今日+昨日分のみ初期表示
           displayedArchivedTweets = 0;
           displayTweets(allTweets, false);
 
