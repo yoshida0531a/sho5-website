@@ -292,22 +292,63 @@
       }
     }
 
-    // ユーザー名から@付きとリンクを生成
+    // ユーザー名から@付きとリンクを生成（改善版）
     function getUsernameHTML(tweet) {
-      const username = tweet.username || tweet.user || 'X User';
-      const cleanUsername = username.replace(/^@/, ''); // 既存の@を削除
+      // 複数のフィールドからユーザー名を取得を試行
+      let username = tweet.username || tweet.user || tweet.author || tweet.screen_name || tweet.name;
       
-      // URLからユーザー名を抽出できる場合
-      if (tweet.url && tweet.url.includes('twitter.com/') || tweet.url && tweet.url.includes('x.com/')) {
-        const match = tweet.url.match(/(?:twitter\.com|x\.com)\/([^\/\?]+)/);
-        if (match && match[1] && match[1] !== 'i') {
-          const extractedUsername = match[1];
-          return `<a href="https://x.com/${escapeHTML(extractedUsername)}" target="_blank" rel="noopener noreferrer" class="tweet-username">@${escapeHTML(extractedUsername)}</a>`;
+      // ユーザー名が見つからない場合の処理
+      if (!username || username === 'X User' || username === 'user') {
+        // URLからユーザー名を抽出を試行
+        if (tweet.url) {
+          const match = tweet.url.match(/(?:twitter\.com|x\.com)\/([^\/\?\s]+)/);
+          if (match && match[1] && match[1] !== 'i' && match[1] !== 'status') {
+            username = match[1];
+          }
+        }
+        
+        // それでも見つからない場合
+        if (!username || username === 'X User' || username === 'user') {
+          username = 'unknown_user';
         }
       }
       
-      // デフォルト
-      return `<span class="tweet-username">@${escapeHTML(cleanUsername)}</span>`;
+      // 既存の@を削除してクリーンアップ
+      const cleanUsername = String(username).replace(/^@/, '').trim();
+      
+      // 空の場合のフォールバック
+      if (!cleanUsername) {
+        return '<span class="tweet-username">@unknown_user</span>';
+      }
+      
+      // リンク付きでユーザー名を返す
+      return `<a href="https://x.com/${escapeHTML(cleanUsername)}" target="_blank" rel="noopener noreferrer" class="tweet-username">@${escapeHTML(cleanUsername)}</a>`;
+    }
+
+    // ツイートのリンクを生成（改善版）
+    function getTweetLink(tweet) {
+      // 直接URLが提供されている場合
+      if (tweet.url && (tweet.url.includes('twitter.com') || tweet.url.includes('x.com'))) {
+        return tweet.url;
+      }
+      
+      // ツイートIDとユーザー名からURLを構築
+      if (tweet.id || tweet.tweet_id) {
+        let username = tweet.username || tweet.user || tweet.author || tweet.screen_name || tweet.name;
+        
+        if (username) {
+          const cleanUsername = String(username).replace(/^@/, '').trim();
+          const tweetId = tweet.id || tweet.tweet_id;
+          return `https://x.com/${cleanUsername}/status/${tweetId}`;
+        }
+      }
+      
+      // その他のリンク情報があれば使用
+      if (tweet.link) {
+        return tweet.link;
+      }
+      
+      return null;
     }
 
     // ツイートを表示する関数
@@ -329,7 +370,7 @@
 
       // ツイートを当日分とアーカイブ分に分類
       tweets.forEach((tweet, index) => {
-        const isTodayTweet = isToday(tweet.date || tweet.createdAt || tweet.created_at);
+        const isTodayTweet = isToday(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
         if (isTodayTweet) {
           todayTweets.push(tweet);
         } else {
@@ -343,15 +384,16 @@
         card.className = 'tweet-card';
         
         const usernameHTML = getUsernameHTML(tweet);
-        const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at);
+        const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
+        const tweetLink = getTweetLink(tweet);
         
         card.innerHTML = `
           <div class="tweet-header">
             ${usernameHTML}
             <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
           </div>
-          <div class="tweet-text">${escapeHTML(tweet.text || tweet.content || '')}</div>
-          ${tweet.url ? `<a href="${escapeHTML(tweet.url)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る</a>` : ''}
+          <div class="tweet-text">${escapeHTML(tweet.text || tweet.content || tweet.full_text || '')}</div>
+          ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る</a>` : ''}
         `;
         
         fragment.appendChild(card);
@@ -367,15 +409,16 @@
           card.className = 'tweet-card';
           
           const usernameHTML = getUsernameHTML(tweet);
-          const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at);
+          const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
+          const tweetLink = getTweetLink(tweet);
           
           card.innerHTML = `
             <div class="tweet-header">
               ${usernameHTML}
               <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
             </div>
-            <div class="tweet-text">${escapeHTML(tweet.text || tweet.content || '')}</div>
-            ${tweet.url ? `<a href="${escapeHTML(tweet.url)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る</a>` : ''}
+            <div class="tweet-text">${escapeHTML(tweet.text || tweet.content || tweet.full_text || '')}</div>
+            ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る</a>` : ''}
           `;
           
           fragment.appendChild(card);
@@ -421,8 +464,8 @@
       isSearching = true;
       const lowerQuery = query.toLowerCase();
       filteredTweets = allTweets.filter(tweet => {
-        const text = (tweet.text || tweet.content || '').toLowerCase();
-        const username = (tweet.username || tweet.user || '').toLowerCase();
+        const text = (tweet.text || tweet.content || tweet.full_text || '').toLowerCase();
+        const username = (tweet.username || tweet.user || tweet.author || '').toLowerCase();
         return text.includes(lowerQuery) || username.includes(lowerQuery);
       });
 
@@ -459,18 +502,34 @@
           return response.json(); 
         })
         .then(data => {
-          if (!data || !data.tweets || data.tweets.length === 0) {
+          // データ構造のログを出力してデバッグ
+          console.log('読み込まれたデータ:', data);
+          
+          // 様々なデータ構造に対応
+          let tweets = [];
+          if (data.tweets) {
+            tweets = data.tweets;
+          } else if (Array.isArray(data)) {
+            tweets = data;
+          } else if (data.data && Array.isArray(data.data)) {
+            tweets = data.data;
+          }
+
+          if (!tweets || tweets.length === 0) {
             loadingMessage.textContent = '表示できるポストがありません。';
             return;
           }
 
-          allTweets = data.tweets;
+          // 各ツイートのデータ構造もログ出力
+          console.log('最初のツイートの例:', tweets[0]);
+
+          allTweets = tweets;
           filteredTweets = allTweets;
 
           // 日付順にソート（新しい順）
           allTweets.sort((a, b) => {
-            const dateA = new Date(a.date || a.createdAt || a.created_at || 0);
-            const dateB = new Date(b.date || b.createdAt || b.created_at || 0);
+            const dateA = new Date(a.date || a.createdAt || a.created_at || a.timestamp || 0);
+            const dateB = new Date(b.date || b.createdAt || b.created_at || b.timestamp || 0);
             return dateB.getTime() - dateA.getTime();
           });
 
