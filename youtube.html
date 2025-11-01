@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube関連 - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding-top: 20px;
+      font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
+      background-color: #fff;
+      color: #000;
+      text-align: center;
+    }
+    .container {
+      width: calc(100% - 40px);
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: left;
+      position: relative;
+    }
+
+    /* 左上の戻るボタン */
+    .back-home {
+      position: absolute;
+      top: 0;
+      left: 0;
+      font-size: 24px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    .back-home:hover {
+      color: #007bff;
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+
+    #videos-container {
+      margin-top: 20px;
+    }
+    .video-card {
+      border: 1px solid #eee;
+      border-radius: 10px;
+      padding: 15px 20px;
+      margin-bottom: 15px;
+      background-color: #fcfcfc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .video-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #f0f0f0;
+      flex-wrap: wrap;
+    }
+    .video-title {
+      font-weight: 700;
+      font-size: 15px;
+      color: #333;
+      margin-right: 10px;
+      flex: 1;
+    }
+    .video-channel {
+      font-size: 12px;
+      color: #777;
+      flex-shrink: 0;
+    }
+    .video-description {
+      font-size: 14px;
+      line-height: 1.7;
+      color: #222;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      margin-bottom: 10px;
+    }
+    .video-link {
+      display: inline-block;
+      margin-top: 12px;
+      font-size: 13px;
+      color: #007bff;
+      text-decoration: none;
+    }
+    .video-link:hover {
+      text-decoration: underline;
+    }
+    #loading-message {
+      text-align: center;
+      padding: 30px;
+      font-size: 16px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- 左上の戻るボタン -->
+    <a href="index.html" class="back-home">←</a>
+
+    <h1>【YouTube関連】谷端選手動画まとめ</h1>
+
+    <div id="videos-container">
+      <p id="loading-message">データを読み込んでいます...</p>
+    </div>
+
+    <br><br>
+  </div>
+
+  <script>
+    // XSS対策のための簡易HTMLエスケープ関数
+    function escapeHTML(str) {
+      if (typeof str !== 'string') return '';
+      return str.replace(/[&<>"']/g, function(match) {
+        return {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#39;'
+        }[match];
+      });
+    }
+
+    // 日付をフォーマットする関数
+    function formatVideoDate(dateString) {
+      try {
+        const date = new Date(dateString);
+        const y = date.getFullYear();
+        const m = String(date.getMonth() + 1).padStart(2, '0');
+        const d = String(date.getDate()).padStart(2, '0');
+        
+        return `${y}/${m}/${d}`;
+      } catch (e) {
+        console.error("日付フォーマットエラー:", e);
+        return dateString;
+      }
+    }
+
+    // 文字化け対策: テキストを適切にデコードする関数
+    function decodeText(text) {
+      if (!text || typeof text !== 'string') return '';
+      
+      try {
+        // URLエンコードされている場合の処理
+        if (text.includes('%')) {
+          text = decodeURIComponent(text);
+        }
+        
+        // HTMLエンティティを処理
+        const textArea = document.createElement('textarea');
+        textArea.innerHTML = text;
+        text = textArea.value;
+        
+        // UTF-8バイト列として再解釈を試みる
+        try {
+          const bytes = new Uint8Array(text.split('').map(c => c.charCodeAt(0)));
+          const decoded = new TextDecoder('utf-8', { fatal: false }).decode(bytes);
+          if (decoded && decoded.length > 0) {
+            text = decoded;
+          }
+        } catch (e) {
+          console.log('UTF-8再デコード不要');
+        }
+        
+        return text;
+      } catch (error) {
+        console.error('テキストデコードエラー:', error);
+        return text;
+      }
+    }
+
+    // ページの読み込みが完了したら実行
+    document.addEventListener('DOMContentLoaded', function() {
+      const container = document.getElementById('videos-container');
+      const loadingMessage = document.getElementById('loading-message');
+
+      fetch('youtube-test.txt')
+        .then(response => {
+          if (!response.ok) {
+            // ローカルデータがない場合は、Cloudflare Workersから取得
+            return fetch('https://twitter-to-line.chjqnfv62h.workers.dev/stored-youtube', {
+              headers: {
+                'Authorization': 'Basic ' + btoa('admin:sho5')
+              }
+            });
+          }
+          return response;
+        })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
+          }
+          
+          // レスポンスをテキストとして取得してから処理
+          return response.text();
+        })
+        .then(textData => {
+          let data;
+          try {
+            data = JSON.parse(textData);
+          } catch (parseError) {
+            console.error('JSON parse error:', parseError);
+            // JSON パースエラーの場合、テキスト処理を試みる
+            try {
+              // テキストをクリーンアップ
+              let cleanedText = textData.trim();
+              
+              // JSON部分を抽出
+              const jsonMatch = cleanedText.match(/\{[^]*\}/);
+              if (jsonMatch) {
+                cleanedText = jsonMatch[0];
+              }
+              
+              data = JSON.parse(cleanedText);
+              console.log('JSON parse succeeded after cleanup');
+            } catch (e) {
+              throw new Error('JSON parse failed completely');
+            }
+          }
+          
+          if (!data || !data.videos || data.videos.length === 0) {
+            loadingMessage.textContent = '表示できる動画がありません。';
+            return;
+          }
+
+          // 日付順にソート（新しい順）
+          data.videos.sort((a, b) => {
+            const dateA = new Date(a.publishedAt);
+            const dateB = new Date(b.publishedAt);
+            return dateB.getTime() - dateA.getTime();
+          });
+
+          const fragment = document.createDocumentFragment();
+
+          data.videos.forEach(video => {
+            const card = document.createElement('div');
+            card.className = 'video-card';
+            
+            // 文字化け対策: データをデコード
+            const decodedTitle = decodeText(video.title);
+            const decodedChannel = decodeText(video.channelTitle || video.channel);
+            const decodedDescription = decodeText(video.description || '説明なし');
+            const decodedKeyword = video.keyword ? decodeText(video.keyword) : '';
+            
+            card.innerHTML = `
+              <div class="video-header">
+                <span class="video-title">${escapeHTML(decodedTitle)}</span>
+                <span class="video-channel">${escapeHTML(decodedChannel)}</span>
+              </div>
+              <div class="video-description">${escapeHTML(decodedDescription)}</div>
+              <div style="font-size: 12px; color: #666; margin-bottom: 10px;">
+                公開日: ${escapeHTML(formatVideoDate(video.publishedAt))}
+                ${decodedKeyword ? `<br>キーワード: ${escapeHTML(decodedKeyword)}` : ''}
+              </div>
+              <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer" class="video-link">
+                YouTubeで見る
+              </a>
+            `;
+            
+            fragment.appendChild(card);
+          });
+
+          container.innerHTML = '';
+          container.appendChild(fragment);
+
+        })
+        .catch(error => {
+          console.error('動画データの処理中にエラーが発生しました:', error);
+          loadingMessage.textContent = '動画の読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(youtube-test.txt)が正しいか確認してください。';
+          loadingMessage.style.color = 'red';
+          loadingMessage.style.textAlign = 'left';
+        });
+    });
+  </script>
+</body>
+</html>
+
