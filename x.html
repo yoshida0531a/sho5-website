@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>X-post</title>
+  <title>X New Post</title>
   <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -292,52 +292,11 @@
       }
     }
 
-    // ユーザー名から@付きとリンクを生成（改善版）
+    // ユーザー名から@付きとリンクを生成（正しいフィールド名使用）
     function getUsernameHTML(tweet) {
-      console.log('Tweet data for username:', tweet); // デバッグ用
+      // 正しいフィールド名を使用（JSONデータに合わせて）
+      let username = tweet.userName || tweet.username || tweet.user || tweet.author || tweet.screen_name || tweet.name;
       
-      // より多くのフィールドからユーザー名を取得を試行
-      let username = tweet.username || 
-                    tweet.user || 
-                    tweet.author || 
-                    tweet.screen_name || 
-                    tweet.name ||
-                    tweet.user_name ||
-                    tweet.display_name ||
-                    tweet.handle;
-      
-      // ユーザーオブジェクトが存在する場合の処理
-      if (!username && tweet.user && typeof tweet.user === 'object') {
-        username = tweet.user.username || 
-                  tweet.user.screen_name || 
-                  tweet.user.name || 
-                  tweet.user.handle;
-      }
-      
-      // URLからユーザー名を抽出を試行
-      if (!username && tweet.url) {
-        const urlMatch = tweet.url.match(/(?:twitter\.com|x\.com)\/([^\/\?\s#]+)/);
-        if (urlMatch && urlMatch[1] && 
-            urlMatch[1] !== 'i' && 
-            urlMatch[1] !== 'status' && 
-            urlMatch[1] !== 'home' &&
-            !urlMatch[1].includes('search')) {
-          username = urlMatch[1];
-        }
-      }
-      
-      // リンクフィールドからユーザー名を抽出
-      if (!username && tweet.link) {
-        const linkMatch = tweet.link.match(/(?:twitter\.com|x\.com)\/([^\/\?\s#]+)/);
-        if (linkMatch && linkMatch[1] && 
-            linkMatch[1] !== 'i' && 
-            linkMatch[1] !== 'status' && 
-            linkMatch[1] !== 'home') {
-          username = linkMatch[1];
-        }
-      }
-      
-      // それでも見つからない場合のフォールバック
       if (!username || username === 'X User' || username === 'user' || username === 'Unknown') {
         username = 'unknown_user';
       }
@@ -345,7 +304,6 @@
       // 既存の@を削除してクリーンアップ
       const cleanUsername = String(username).replace(/^@/, '').trim();
       
-      // 空の場合のフォールバック
       if (!cleanUsername) {
         return '<span class="tweet-username">@unknown_user</span>';
       }
@@ -354,71 +312,18 @@
       return `<a href="https://x.com/${escapeHTML(cleanUsername)}" target="_blank" rel="noopener noreferrer" class="tweet-username">@${escapeHTML(cleanUsername)}</a>`;
     }
 
-    // ツイートのリンクを生成（改善版）
+    // ツイートのリンクを生成（正しいフィールド名使用）
     function getTweetLink(tweet) {
-      console.log('Tweet data for link:', tweet); // デバッグ用
+      // 正しいフィールド名を使用（JSONデータに合わせて）
+      const tweetUrl = tweet.tweetUrl || tweet.url || tweet.link;
       
-      // 直接URLが提供されている場合（優先度1）
-      if (tweet.url) {
-        // X/Twitter URLの形式を確認
-        if (tweet.url.includes('twitter.com') || tweet.url.includes('x.com')) {
-          // URLがstatus形式かチェック
-          if (tweet.url.includes('/status/')) {
-            return tweet.url.replace('twitter.com', 'x.com'); // x.comに統一
-          }
+      if (tweetUrl) {
+        // X/Twitter URLの形式を確認して返す
+        if (tweetUrl.includes('twitter.com') || tweetUrl.includes('x.com')) {
+          return tweetUrl.replace('twitter.com', 'x.com'); // x.comに統一
         }
       }
       
-      // linkフィールドをチェック（優先度2）
-      if (tweet.link) {
-        if (tweet.link.includes('twitter.com') || tweet.link.includes('x.com')) {
-          if (tweet.link.includes('/status/')) {
-            return tweet.link.replace('twitter.com', 'x.com');
-          }
-        }
-      }
-      
-      // ツイートIDとユーザー名からURLを構築（優先度3）
-      const tweetId = tweet.id || tweet.tweet_id || tweet.status_id || tweet.post_id;
-      if (tweetId) {
-        // ユーザー名を取得
-        let username = tweet.username || 
-                      tweet.user || 
-                      tweet.author || 
-                      tweet.screen_name || 
-                      tweet.name ||
-                      tweet.user_name ||
-                      tweet.handle;
-        
-        // ユーザーオブジェクトから取得
-        if (!username && tweet.user && typeof tweet.user === 'object') {
-          username = tweet.user.username || 
-                    tweet.user.screen_name || 
-                    tweet.user.name || 
-                    tweet.user.handle;
-        }
-        
-        // URLからユーザー名を抽出
-        if (!username && (tweet.url || tweet.link)) {
-          const sourceUrl = tweet.url || tweet.link;
-          const match = sourceUrl.match(/(?:twitter\.com|x\.com)\/([^\/\?\s#]+)/);
-          if (match && match[1] && 
-              match[1] !== 'i' && 
-              match[1] !== 'status' && 
-              match[1] !== 'home') {
-            username = match[1];
-          }
-        }
-        
-        if (username) {
-          const cleanUsername = String(username).replace(/^@/, '').trim();
-          if (cleanUsername && cleanUsername !== 'unknown_user') {
-            return `https://x.com/${cleanUsername}/status/${tweetId}`;
-          }
-        }
-      }
-      
-      // どれも使えない場合はnullを返す
       return null;
     }
 
@@ -465,7 +370,7 @@
             <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
           </div>
           <div class="tweet-text">${escapeHTML(tweetText)}</div>
-          ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る →</a>` : '<span class="tweet-link" style="color: #999;">リンクが利用できません</span>'}
+          ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る →</a>` : ''}
         `;
         
         fragment.appendChild(card);
@@ -491,7 +396,7 @@
               <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
             </div>
             <div class="tweet-text">${escapeHTML(tweetText)}</div>
-            ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る →</a>` : '<span class="tweet-link" style="color: #999;">リンクが利用できません</span>'}
+            ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る →</a>` : ''}
           `;
           
           fragment.appendChild(card);
@@ -538,7 +443,7 @@
       const lowerQuery = query.toLowerCase();
       filteredTweets = allTweets.filter(tweet => {
         const text = (tweet.text || tweet.content || tweet.full_text || tweet.message || '').toLowerCase();
-        const username = (tweet.username || tweet.user || tweet.author || '').toLowerCase();
+        const username = (tweet.userName || tweet.username || tweet.user || tweet.author || '').toLowerCase();
         return text.includes(lowerQuery) || username.includes(lowerQuery);
       });
 
