@@ -37,25 +37,10 @@
       color: #007bff;
     }
 
-    /* ヘッダー画像 */
-    .header-image-container {
-      text-align: center;
-      margin: 40px 0 20px 0;
-    }
-    .header-image-container img {
-      width: 100%;
-      max-width: 250px;
-      height: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      display: block;
-      margin: 0 auto;
-    }
-
     h1 {
       font-size: 22px;
       font-weight: 700;
-      margin: 20px 0;
+      margin: 40px 0 20px 0;
       text-align: center;
     }
 
@@ -63,6 +48,7 @@
     .search-container {
       margin: 20px 0;
       text-align: center;
+      padding: 0 10px;
     }
     .search-box {
       width: 100%;
@@ -74,6 +60,7 @@
       outline: none;
       transition: border-color 0.3s;
       font-family: 'Noto Sans JP', sans-serif;
+      box-sizing: border-box;
     }
     .search-box:focus {
       border-color: #007bff;
@@ -186,6 +173,13 @@
       h1 {
         margin-top: 30px;
       }
+      .search-container {
+        padding: 0 5px;
+      }
+      .search-box {
+        font-size: 14px;
+        padding: 10px 15px;
+      }
     }
   </style>
 </head>
@@ -193,11 +187,6 @@
   <div class="container">
     <!-- 左上の戻るボタン -->
     <a href="index.html" class="back-home">←</a>
-
-    <!-- ヘッダー画像 -->
-    <div class="header-image-container">
-      <img src="draft_image.png" alt="阪神 谷端将伍選手 ドラフト2位指名">
-    </div>
 
     <h1>X New Post</h1>
 
