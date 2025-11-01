@@ -146,35 +146,95 @@
       }
     }
 
-    // 文字化け対策: テキストを適切にデコードする関数
-    function decodeText(text) {
+    // 改良された文字化け対策関数
+    function fixTextEncoding(text) {
       if (!text || typeof text !== 'string') return '';
       
       try {
-        // URLエンコードされている場合の処理
-        if (text.includes('%')) {
-          text = decodeURIComponent(text);
+        // 既に正常な日本語が含まれている場合はそのまま返す
+        if (/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(text)) {
+          return text;
         }
         
-        // HTMLエンティティを処理
-        const textArea = document.createElement('textarea');
-        textArea.innerHTML = text;
-        text = textArea.value;
-        
-        // UTF-8バイト列として再解釈を試みる
-        try {
-          const bytes = new Uint8Array(text.split('').map(c => c.charCodeAt(0)));
-          const decoded = new TextDecoder('utf-8', { fatal: false }).decode(bytes);
-          if (decoded && decoded.length > 0) {
-            text = decoded;
+        // URLエンコードされている場合
+        if (text.includes('%')) {
+          try {
+            text = decodeURIComponent(text);
+          } catch (e) {
+            console.log('URL decoding failed:', e);
           }
-        } catch (e) {
-          console.log('UTF-8再デコード不要');
+        }
+        
+        // HTMLエンティティの処理
+        const textarea = document.createElement('textarea');
+        textarea.innerHTML = text;
+        text = textarea.value;
+        
+        // UTF-8として再解釈を試行（複数パターン）
+        const encodingPatterns = [
+          // パターン1: Latin-1 -> UTF-8
+          () => {
+            const bytes = new Uint8Array(text.split('').map(c => c.charCodeAt(0) & 0xFF));
+            return new TextDecoder('utf-8', { fatal: false }).decode(bytes);
+          },
+          
+          // パターン2: Windows-1252 -> UTF-8
+          () => {
+            const bytes = [];
+            for (let i = 0; i < text.length; i++) {
+              const code = text.charCodeAt(i);
+              if (code <= 0xFF) {
+                bytes.push(code);
+              }
+            }
+            return new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
+          },
+          
+          // パターン3: 二重エンコードの修正
+          () => {
+            return text.replace(/Ã¢â‚¬â„¢/g, "'")
+                      .replace(/Ã¢â‚¬Â/g, "—")
+                      .replace(/Ã¯Â¿Â½/g, "")
+                      .replace(/â€™/g, "'")
+                      .replace(/â€œ/g, '"')
+                      .replace(/â€/g, '"')
+                      .replace(/Â/g, '')
+                      .replace(/ï¿½/g, '');
+          }
+        ];
+        
+        // 各パターンを試行
+        for (const pattern of encodingPatterns) {
+          try {
+            const decoded = pattern();
+            if (decoded && decoded !== text && !/�/.test(decoded)) {
+              text = decoded;
+              break;
+            }
+          } catch (e) {
+            continue;
+          }
+        }
+        
+        // Base64エンコードの可能性をチェック
+        if (/^[A-Za-z0-9+/]+=*$/.test(text) && text.length % 4 === 0) {
+          try {
+            const decoded = atob(text);
+            const utf8Text = new TextDecoder('utf-8').decode(
+              new Uint8Array(decoded.split('').map(c => c.charCodeAt(0)))
+            );
+            if (/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(utf8Text)) {
+              text = utf8Text;
+            }
+          } catch (e) {
+            console.log('Base64 decoding failed:', e);
+          }
         }
         
         return text;
+        
       } catch (error) {
-        console.error('テキストデコードエラー:', error);
+        console.error('テキスト修復エラー:', error);
         return text;
       }
     }
@@ -184,13 +244,23 @@
       const container = document.getElementById('videos-container');
       const loadingMessage = document.getElementById('loading-message');
 
-      fetch('youtube-test.txt')
+      // レスポンスのエンコーディングを明示的に指定してfetch
+      const fetchOptions = {
+        headers: {
+          'Accept': 'application/json, text/plain, */*',
+          'Accept-Charset': 'utf-8'
+        }
+      };
+
+      fetch('youtube-test.txt', fetchOptions)
         .then(response => {
           if (!response.ok) {
             // ローカルデータがない場合は、Cloudflare Workersから取得
             return fetch('https://twitter-to-line.chjqnfv62h.workers.dev/stored-youtube', {
               headers: {
-                'Authorization': 'Basic ' + btoa('admin:sho5')
+                'Authorization': 'Basic ' + btoa('admin:sho5'),
+                'Accept': 'application/json, text/plain, */*',
+                'Accept-Charset': 'utf-8'
               }
             });
           }
@@ -201,8 +271,17 @@
             throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
           }
           
-          // レスポンスをテキストとして取得してから処理
-          return response.text();
+          // ArrayBufferとして取得してからUTF-8でデコード
+          return response.arrayBuffer().then(buffer => {
+            try {
+              // UTF-8として明示的にデコード
+              const decoder = new TextDecoder('utf-8');
+              return decoder.decode(buffer);
+            } catch (e) {
+              console.log('UTF-8 decoding failed, trying as text');
+              return response.text();
+            }
+          });
         })
         .then(textData => {
           let data;
@@ -210,10 +289,15 @@
             data = JSON.parse(textData);
           } catch (parseError) {
             console.error('JSON parse error:', parseError);
+            
             // JSON パースエラーの場合、テキスト処理を試みる
             try {
-              // テキストをクリーンアップ
               let cleanedText = textData.trim();
+              
+              // BOMを除去
+              if (cleanedText.charCodeAt(0) === 0xFEFF) {
+                cleanedText = cleanedText.slice(1);
+              }
               
               // JSON部分を抽出
               const jsonMatch = cleanedText.match(/\{[^]*\}/);
@@ -224,7 +308,7 @@
               data = JSON.parse(cleanedText);
               console.log('JSON parse succeeded after cleanup');
             } catch (e) {
-              throw new Error('JSON parse failed completely');
+              throw new Error('JSON parse failed completely: ' + e.message);
             }
           }
           
@@ -246,21 +330,24 @@
             const card = document.createElement('div');
             card.className = 'video-card';
             
-            // 文字化け対策: データをデコード
-            const decodedTitle = decodeText(video.title);
-            const decodedChannel = decodeText(video.channelTitle || video.channel);
-            const decodedDescription = decodeText(video.description || '説明なし');
-            const decodedKeyword = video.keyword ? decodeText(video.keyword) : '';
+            // 改良された文字化け対策を適用
+            const fixedTitle = fixTextEncoding(video.title || '');
+            const fixedChannel = fixTextEncoding(video.channelTitle || video.channel || '');
+            const fixedDescription = fixTextEncoding(video.description || '説明なし');
+            const fixedKeyword = video.keyword ? fixTextEncoding(video.keyword) : '';
+            
+            console.log('Original title:', video.title);
+            console.log('Fixed title:', fixedTitle);
             
             card.innerHTML = `
               <div class="video-header">
-                <span class="video-title">${escapeHTML(decodedTitle)}</span>
-                ${decodedChannel ? `<span class="video-channel">${escapeHTML(decodedChannel)}</span>` : ''}
+                <span class="video-title">${escapeHTML(fixedTitle)}</span>
+                ${fixedChannel ? `<span class="video-channel">${escapeHTML(fixedChannel)}</span>` : ''}
               </div>
-              <div class="video-description">${escapeHTML(decodedDescription)}</div>
+              <div class="video-description">${escapeHTML(fixedDescription)}</div>
               <div style="font-size: 12px; color: #666; margin-bottom: 10px;">
                 公開日: ${escapeHTML(formatVideoDate(video.publishedAt))}
-                ${decodedKeyword ? `<br>キーワード: ${escapeHTML(decodedKeyword)}` : ''}
+                ${fixedKeyword ? `<br>キーワード: ${escapeHTML(fixedKeyword)}` : ''}
               </div>
               <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer" class="video-link">
                 YouTubeで見る
@@ -276,7 +363,7 @@
         })
         .catch(error => {
           console.error('動画データの処理中にエラーが発生しました:', error);
-          loadingMessage.textContent = '動画の読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(youtube-test.txt)が正しいか確認してください。';
+          loadingMessage.textContent = '動画の読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(youtube-test.txt)が正しいか確認してください。エラー: ' + error.message;
           loadingMessage.style.color = 'red';
           loadingMessage.style.textAlign = 'left';
         });
@@ -284,4 +371,3 @@
   </script>
 </body>
 </html>
-
