@@ -1,70 +1,30 @@
 {
+  "success": true,
   "videos": [
     {
-      "title": "【ドラフト2024】阪神2位指名 日大・谷端将伍選手 会見ノーカット",
-      "channel": "サンテレビニュース",
-      "url": "https://youtu.be/neAV1fMuoHA",
-      "publishedAt": "2024-10-24T10:00:00Z",
-      "description": "2024年プロ野球ドラフト会議で阪神タイガースから2位指名を受けた日本大学の谷端将伍選手の会見の様子をノーカットでお届けします。",
-      "keyword": "谷端 ドラフト"
-    },
-    {
-      "title": "【野球】谷端選手の活躍シーン集",
-      "channel": "野球チャンネル",
-      "url": "https://www.youtube.com/watch?v=example1",
-      "publishedAt": "2024-01-15T10:00:00Z",
-      "description": "谷端選手の今シーズンの活躍シーンをまとめました。",
+      "title": "🔥【阪神タイガース】未来の主砲誕生！立石正広（創価大）を三球団競合で獲得💪大学日本代表・谷端将伍（日本大）との“黄金ドラフト”で新時代突入🐯⚾️",
+      "channel": "",
+      "url": "https://www.youtube.com/watch?v=fDG0OHdz4w0",
+      "publishedAt": "2025-10-28T07:20:00",
+      "description": "阪神タイガースが2025年ドラフト会議で見事な“黄金ドラフト”を実現  創価大学の右の大砲・立石正広を巡り、巨人・中日との三 ...",
       "keyword": "谷端 阪神"
     },
     {
-      "title": "テスト動画",
+      "title": "【阪神】立石谷端開幕スタメン説",
       "channel": "",
-      "url": "https://youtube.com/watch?v=test",
-      "publishedAt": "2024-01-15T10:00:00Z",
-      "description": "テスト用の動画です",
+      "url": "https://www.youtube.com/watch?v=mWbGKKrU6S0",
+      "publishedAt": "2025-10-30T14:44:00",
+      "description": "阪神ファンの生の声を皆さんに伝えて行きます！ #阪神タイガース #立石正広 #谷端将伍 #日本シリーズ #2ch #5ch #プロ野球 ...",
       "keyword": "谷端 阪神"
     },
     {
-      "title": "侍ジャパン 谷端選手インタビュー",
-      "channel": "侍ジャパン公式",
-      "url": "https://www.youtube.com/watch?v=example2",
-      "publishedAt": "2024-01-14T15:30:00Z",
-      "description": "侍ジャパン代表として選出された谷端選手のインタビューです。",
-      "keyword": "谷端 日大"
-    },
-    {
-      "title": "大学野球 谷端選手の打撃フォーム分析",
-      "channel": "野球分析チャンネル",
-      "url": "https://www.youtube.com/watch?v=example3",
-      "publishedAt": "2024-01-13T20:00:00Z",
-      "description": "谷端選手の打撃フォームを詳しく分析しました。",
-      "keyword": "谷端 ドラフト"
-    },
-    {
-      "title": "阪神ドラ2谷端将伍選手による一発ギャグwww【ネット情報局】",
+      "title": "【阪神】ドラフト2位谷端将伍！この選手補強ポイント埋めてまう！#阪神タイガース",
       "channel": "",
-      "url": "https://www.youtube.com/watch?v=cT7qrt08z4c",
-      "publishedAt": "October 26, 2025 at 09:27AM",
-      "description": "このチャンネルでは、プロ野球界の出来事に対するネットの反応をわかりやすくまとめています。 皆さんと一緒にプロ野球を ...",
-      "keyword": "谷端 阪神"
-    },
-    {
-      "title": "谷端将伍（阪神タイガース）セカンド守備",
-      "channel": "",
-      "url": "https://www.youtube.com/watch?v=JiKjBzJ8dpo",
-      "publishedAt": "October 26, 2025 at 09:42AM",
-      "description": "谷端将伍 #阪神タイガース #2025年ドラフト候補 #日本大学 セカンド守備.",
-      "keyword": "谷端 阪神"
-    },
-    {
-      "title": "【阪神タイガース】立石&amp;谷端のW獲りについて、他球団ファンの反応がこちらww",
-      "channel": "",
-      "url": "https://www.youtube.com/watch?v=-bvaY5ghnb8",
-      "publishedAt": "October 26, 2025 at 11:00AM",
-      "description": "阪神タイガースの情報や 面白い話をお届けします！ チャンネル登録お願いします！ https://youtube.com/@torazou96 佐藤輝 MLB ...",
+      "url": "https://www.youtube.com/watch?v=6z-9zxshWuA",
+      "publishedAt": "2025-10-31T22:44:00",
+      "description": "阪神 #ドラフト 2位#ルーキー #阪神ファン が一番望む能力を全て持った選手！ その名は#谷端将伍 #阪神情報 ＜注意事項＞ ・動画 ...",
       "keyword": "谷端 阪神"
     }
   ],
-  "lastUpdated": "2025-10-26T02:31:22.733Z",
-  "totalCount": 8
+  "count": 3
 }
