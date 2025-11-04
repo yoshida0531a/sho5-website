@@ -1,372 +1,84 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+  <!-- 最終更新: 2025/11/5 6:30:06 -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>YouTube New Upload - Shogo Fun Site</title>
-  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+  <title>YouTube Updates - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    *, *::before, *::after { box-sizing: border-box; }
     body {
-      margin: 0;
-      padding-top: 20px;
-      font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
-      background-color: #fff;
-      color: #000;
-      text-align: center;
+      margin: 0; padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: white; color: black;
     }
-    .container {
-      width: calc(100% - 40px);
-      max-width: 800px;
-      margin: 0 auto;
-      text-align: left;
-      position: relative;
+    header {
+      text-align: center; font-size: 28px;
+      font-weight: bold; margin: 20px 0;
     }
-
-    /* 左上の戻るボタン */
-    .back-home {
-      position: absolute;
-      top: 0;
-      left: 0;
-      font-size: 24px;
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-      transition: color 0.3s;
+    .video-feed {
+      width: calc(100% - 20px); max-width: 800px;
+      margin: 0 auto; padding: 20px;
     }
-    .back-home:hover {
-      color: #007bff;
+    @media (max-width: 600px) {
+      .video-feed { width: 100%; padding: 10px; }
     }
-
-    h1 {
-      font-size: 22px;
-      font-weight: 700;
-      margin-bottom: 25px;
-      text-align: center;
+    #search {
+      width: 100%; padding: 10px; font-size: 16px;
+      margin-bottom: 20px; border: 1px solid #ccc;
+      border-radius: 5px;
     }
-
-    #videos-container {
-      margin-top: 20px;
+    .video-item {
+      border-bottom: 1px solid #ddd;
+      margin-bottom: 15px; padding-bottom: 10px;
     }
-    .video-card {
-      border: 1px solid #eee;
-      border-radius: 10px;
-      padding: 15px 20px;
-      margin-bottom: 15px;
-      background-color: #fcfcfc;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    .video-item h3 { margin: 5px 0; font-size: 18px; }
+    .video-item h3 a { color: black; text-decoration: none; }
+    .video-item .date { margin: 5px 0; font-size: 12px; color: #666; }
+    .video-item .description {
+      margin: 10px 0; font-size: 14px; line-height: 1.5;
+      max-height: 90px; overflow: hidden;
     }
-    .video-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 10px;
-      padding-bottom: 8px;
-      border-bottom: 1px solid #f0f0f0;
-      flex-wrap: wrap;
-    }
-    .video-title {
-      font-weight: 700;
-      font-size: 15px;
-      color: #333;
-      margin-right: 10px;
-      flex: 1;
-    }
-    .video-channel {
-      font-size: 12px;
-      color: #777;
-      flex-shrink: 0;
-    }
-    .video-description {
-      font-size: 14px;
-      line-height: 1.7;
-      color: #222;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-      margin-bottom: 10px;
-    }
-    .video-link {
-      display: inline-block;
-      margin-top: 12px;
-      font-size: 13px;
-      color: #007bff;
-      text-decoration: none;
-    }
-    .video-link:hover {
-      text-decoration: underline;
-    }
-    #loading-message {
-      text-align: center;
-      padding: 30px;
-      font-size: 16px;
-      color: #888;
-    }
+    footer { text-align: center; font-size: 12px; margin: 20px 0; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <!-- 左上の戻るボタン -->
-    <a href="index.html" class="back-home">←</a>
-
-    <h1>YouTube New Upload</h1>
-
-    <div id="videos-container">
-      <p id="loading-message">データを読み込んでいます...</p>
+  <header>YouTube Updates</header>
+  <section class="video-feed">
+    <input type="text" id="search" placeholder="Search videos...">
+    <div id="video-container">
+      <div class="video-item" data-title="阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。" data-description="セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...">
+        <h3><a href="https://www.youtube.com/watch?v=H-lrZS-L-pE" target="_blank">阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="description">セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...</p>
+      </div>
+      <div class="video-item" data-title="【阪神2位】#39 日本大学　谷端将伍選手について" data-description="星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。">
+        <h3><a href="https://www.youtube.com/watch?v=l214x-deVZM" target="_blank">【阪神2位】#39 日本大学　谷端将伍選手について</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="description">星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。</p>
+      </div>
+      <div class="video-item" data-title="立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク" data-description="おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...">
+        <h3><a href="https://www.youtube.com/watch?v=yRk59YXgrP0" target="_blank">立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="description">おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...</p>
+      </div>
     </div>
-
-    <br><br>
-  </div>
-
+  </section>
+  <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <script>
-    // XSS対策のための簡易HTMLエスケープ関数
-    function escapeHTML(str) {
-      if (typeof str !== 'string') return '';
-      return str.replace(/[&<>"']/g, function(match) {
-        return {
-          '&': '&amp;',
-          '<': '&lt;',
-          '>': '&gt;',
-          '"': '&quot;',
-          "'": '&#39;'
-        }[match];
+    const searchInput = document.getElementById('search');
+    const videoContainer = document.getElementById('video-container');
+    const videoItems = Array.from(videoContainer.querySelectorAll('.video-item'));
+    
+    searchInput.addEventListener('input', () => {
+      const searchQuery = searchInput.value.trim().toLowerCase();
+      videoItems.forEach(item => {
+        const title = item.getAttribute('data-title');
+        const description = item.getAttribute('data-description');
+        const searchText = title + ' ' + description;
+        item.style.display = (searchQuery === '' || searchText.toLowerCase().includes(searchQuery)) ? 'block' : 'none';
       });
-    }
-
-    // 日付をフォーマットする関数
-    function formatVideoDate(dateString) {
-      try {
-        const date = new Date(dateString);
-        const y = date.getFullYear();
-        const m = String(date.getMonth() + 1).padStart(2, '0');
-        const d = String(date.getDate()).padStart(2, '0');
-        
-        return `${y}/${m}/${d}`;
-      } catch (e) {
-        console.error("日付フォーマットエラー:", e);
-        return dateString;
-      }
-    }
-
-    // 改良された文字化け対策関数
-    function fixTextEncoding(text) {
-      if (!text || typeof text !== 'string') return '';
-      
-      try {
-        // 既に正常な日本語が含まれている場合はそのまま返す
-        if (/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(text)) {
-          return text;
-        }
-        
-        // URLエンコードされている場合
-        if (text.includes('%')) {
-          try {
-            text = decodeURIComponent(text);
-          } catch (e) {
-            console.log('URL decoding failed:', e);
-          }
-        }
-        
-        // HTMLエンティティの処理
-        const textarea = document.createElement('textarea');
-        textarea.innerHTML = text;
-        text = textarea.value;
-        
-        // UTF-8として再解釈を試行（複数パターン）
-        const encodingPatterns = [
-          // パターン1: Latin-1 -> UTF-8
-          () => {
-            const bytes = new Uint8Array(text.split('').map(c => c.charCodeAt(0) & 0xFF));
-            return new TextDecoder('utf-8', { fatal: false }).decode(bytes);
-          },
-          
-          // パターン2: Windows-1252 -> UTF-8
-          () => {
-            const bytes = [];
-            for (let i = 0; i < text.length; i++) {
-              const code = text.charCodeAt(i);
-              if (code <= 0xFF) {
-                bytes.push(code);
-              }
-            }
-            return new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
-          },
-          
-          // パターン3: 二重エンコードの修正
-          () => {
-            return text.replace(/Ã¢â‚¬â„¢/g, "'")
-                      .replace(/Ã¢â‚¬Â/g, "—")
-                      .replace(/Ã¯Â¿Â½/g, "")
-                      .replace(/â€™/g, "'")
-                      .replace(/â€œ/g, '"')
-                      .replace(/â€/g, '"')
-                      .replace(/Â/g, '')
-                      .replace(/ï¿½/g, '');
-          }
-        ];
-        
-        // 各パターンを試行
-        for (const pattern of encodingPatterns) {
-          try {
-            const decoded = pattern();
-            if (decoded && decoded !== text && !/�/.test(decoded)) {
-              text = decoded;
-              break;
-            }
-          } catch (e) {
-            continue;
-          }
-        }
-        
-        // Base64エンコードの可能性をチェック
-        if (/^[A-Za-z0-9+/]+=*$/.test(text) && text.length % 4 === 0) {
-          try {
-            const decoded = atob(text);
-            const utf8Text = new TextDecoder('utf-8').decode(
-              new Uint8Array(decoded.split('').map(c => c.charCodeAt(0)))
-            );
-            if (/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(utf8Text)) {
-              text = utf8Text;
-            }
-          } catch (e) {
-            console.log('Base64 decoding failed:', e);
-          }
-        }
-        
-        return text;
-        
-      } catch (error) {
-        console.error('テキスト修復エラー:', error);
-        return text;
-      }
-    }
-
-    // ページの読み込みが完了したら実行
-    document.addEventListener('DOMContentLoaded', function() {
-      const container = document.getElementById('videos-container');
-      const loadingMessage = document.getElementById('loading-message');
-
-      // レスポンスのエンコーディングを明示的に指定してfetch
-      const fetchOptions = {
-        headers: {
-          'Accept': 'application/json, text/plain, */*',
-          'Accept-Charset': 'utf-8'
-        }
-      };
-
-      fetch('youtube-test.txt', fetchOptions)
-        .then(response => {
-          if (!response.ok) {
-            // ローカルデータがない場合は、Cloudflare Workersから取得
-            return fetch('https://twitter-to-line.chjqnfv62h.workers.dev/stored-youtube', {
-              headers: {
-                'Authorization': 'Basic ' + btoa('admin:sho5'),
-                'Accept': 'application/json, text/plain, */*',
-                'Accept-Charset': 'utf-8'
-              }
-            });
-          }
-          return response;
-        })
-        .then(response => {
-          if (!response.ok) {
-            throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
-          }
-          
-          // ArrayBufferとして取得してからUTF-8でデコード
-          return response.arrayBuffer().then(buffer => {
-            try {
-              // UTF-8として明示的にデコード
-              const decoder = new TextDecoder('utf-8');
-              return decoder.decode(buffer);
-            } catch (e) {
-              console.log('UTF-8 decoding failed, trying as text');
-              return response.text();
-            }
-          });
-        })
-        .then(textData => {
-          let data;
-          try {
-            data = JSON.parse(textData);
-          } catch (parseError) {
-            console.error('JSON parse error:', parseError);
-            
-            // JSON パースエラーの場合、テキスト処理を試みる
-            try {
-              let cleanedText = textData.trim();
-              
-              // BOMを除去
-              if (cleanedText.charCodeAt(0) === 0xFEFF) {
-                cleanedText = cleanedText.slice(1);
-              }
-              
-              // JSON部分を抽出
-              const jsonMatch = cleanedText.match(/\{[^]*\}/);
-              if (jsonMatch) {
-                cleanedText = jsonMatch[0];
-              }
-              
-              data = JSON.parse(cleanedText);
-              console.log('JSON parse succeeded after cleanup');
-            } catch (e) {
-              throw new Error('JSON parse failed completely: ' + e.message);
-            }
-          }
-          
-          if (!data || !data.videos || data.videos.length === 0) {
-            loadingMessage.textContent = '表示できる動画がありません。';
-            return;
-          }
-
-          // 日付順にソート（新しい順）
-          data.videos.sort((a, b) => {
-            const dateA = new Date(a.publishedAt);
-            const dateB = new Date(b.publishedAt);
-            return dateB.getTime() - dateA.getTime();
-          });
-
-          const fragment = document.createDocumentFragment();
-
-          data.videos.forEach(video => {
-            const card = document.createElement('div');
-            card.className = 'video-card';
-            
-            // 改良された文字化け対策を適用
-            const fixedTitle = fixTextEncoding(video.title || '');
-            const fixedChannel = fixTextEncoding(video.channelTitle || video.channel || '');
-            const fixedDescription = fixTextEncoding(video.description || '説明なし');
-            const fixedKeyword = video.keyword ? fixTextEncoding(video.keyword) : '';
-            
-            console.log('Original title:', video.title);
-            console.log('Fixed title:', fixedTitle);
-            
-            card.innerHTML = `
-              <div class="video-header">
-                <span class="video-title">${escapeHTML(fixedTitle)}</span>
-                ${fixedChannel ? `<span class="video-channel">${escapeHTML(fixedChannel)}</span>` : ''}
-              </div>
-              <div class="video-description">${escapeHTML(fixedDescription)}</div>
-              <div style="font-size: 12px; color: #666; margin-bottom: 10px;">
-                公開日: ${escapeHTML(formatVideoDate(video.publishedAt))}
-                ${fixedKeyword ? `<br>キーワード: ${escapeHTML(fixedKeyword)}` : ''}
-              </div>
-              <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer" class="video-link">
-                YouTubeで見る
-              </a>
-            `;
-            
-            fragment.appendChild(card);
-          });
-
-          container.innerHTML = '';
-          container.appendChild(fragment);
-
-        })
-        .catch(error => {
-          console.error('動画データの処理中にエラーが発生しました:', error);
-          loadingMessage.textContent = '動画の読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(youtube-test.txt)が正しいか確認してください。エラー: ' + error.message;
-          loadingMessage.style.color = 'red';
-          loadingMessage.style.textAlign = 'left';
-        });
     });
   </script>
 </body>
