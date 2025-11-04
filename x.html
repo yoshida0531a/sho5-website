@@ -1,524 +1,467 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+  <!-- 最終更新: 2025/11/5 6:30:06 -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>X New Post</title>
-  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+  <title>X Updates - Shogo Fun Site</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    *, *::before, *::after { box-sizing: border-box; }
     body {
-      margin: 0;
-      padding-top: 20px;
-      font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
-      background-color: #fff;
-      color: #000;
-      text-align: center;
+      margin: 0; padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: white; color: black;
     }
-    .container {
-      width: calc(100% - 40px);
-      max-width: 800px;
-      margin: 0 auto;
-      text-align: left;
-      position: relative;
+    header {
+      text-align: center; font-size: 28px;
+      font-weight: bold; margin: 20px 0;
     }
-
-    /* 左上の戻るボタン */
-    .back-home {
-      position: absolute;
-      top: 0;
-      left: 0;
-      font-size: 24px;
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-      transition: color 0.3s;
+    .tweet-feed {
+      width: calc(100% - 20px); max-width: 800px;
+      margin: 0 auto; padding: 20px;
     }
-    .back-home:hover {
-      color: #007bff;
+    @media (max-width: 600px) {
+      .tweet-feed { width: 100%; padding: 10px; }
     }
-
-    h1 {
-      font-size: 22px;
-      font-weight: 700;
-      margin: 40px 0 20px 0;
-      text-align: center;
+    #search {
+      width: 100%; padding: 10px; font-size: 16px;
+      margin-bottom: 20px; border: 1px solid #ccc;
+      border-radius: 5px;
     }
-
-    /* 検索ボックス */
-    .search-container {
-      margin: 20px 0;
-      text-align: center;
-      padding: 0 10px;
+    .tweet-item {
+      border-bottom: 1px solid #ddd;
+      margin-bottom: 15px; padding-bottom: 10px;
     }
-    .search-box {
-      width: 100%;
-      max-width: 600px;
-      padding: 12px 20px;
-      font-size: 16px;
-      border: 2px solid #e0e0e0;
-      border-radius: 25px;
-      outline: none;
-      transition: border-color 0.3s;
-      font-family: 'Noto Sans JP', sans-serif;
-      box-sizing: border-box;
+    .tweet-item h3 { margin: 5px 0; font-size: 18px; }
+    .tweet-item h3 a { color: black; text-decoration: none; }
+    .tweet-item .date { margin: 5px 0; font-size: 12px; color: #666; }
+    .tweet-item .tweet-text {
+      margin: 10px 0; font-size: 14px; line-height: 1.5;
     }
-    .search-box:focus {
-      border-color: #007bff;
-    }
-    .search-results-count {
-      margin-top: 10px;
-      font-size: 14px;
-      color: #666;
-    }
-
-    #tweets-container {
-      margin-top: 20px;
-    }
-    .tweet-card {
-      border: 1px solid #eee;
-      border-radius: 10px;
-      padding: 15px 20px;
-      margin-bottom: 15px;
-      background-color: #fcfcfc;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-    .tweet-card.archived {
-      display: none;
-    }
-    .tweet-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 10px;
-      padding-bottom: 8px;
-      border-bottom: 1px solid #f0f0f0;
-      flex-wrap: wrap;
-    }
-    .tweet-username {
-      font-weight: 700;
-      font-size: 15px;
-      color: #007bff;
-      margin-right: 10px;
-      text-decoration: none;
-    }
-    .tweet-username:hover {
-      text-decoration: underline;
-    }
-    .tweet-createdat {
-      font-size: 12px;
-      color: #777;
-      flex-shrink: 0;
-    }
-    .tweet-text {
-      font-size: 14px;
-      line-height: 1.7;
-      color: #222;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-    .tweet-link {
-      display: inline-block;
-      margin-top: 12px;
-      font-size: 13px;
-      color: #007bff;
-      text-decoration: none;
-    }
-    .tweet-link:hover {
-      text-decoration: underline;
-    }
-    
-    /* もっと読むボタン */
-    .load-more-container {
-      text-align: center;
-      margin: 30px 0;
-    }
-    .load-more-btn {
-      display: inline-block;
-      padding: 12px 30px;
-      background-color: #007bff;
-      color: white;
-      border: none;
-      border-radius: 25px;
-      font-size: 16px;
-      font-weight: 500;
-      cursor: pointer;
-      transition: background-color 0.3s;
-    }
-    .load-more-btn:hover {
-      background-color: #0056b3;
-    }
-    .load-more-btn:disabled {
-      background-color: #ccc;
-      cursor: not-allowed;
-    }
-
-    #loading-message {
-      text-align: center;
-      padding: 30px;
-      font-size: 16px;
-      color: #888;
-    }
-
-    .no-results {
-      text-align: center;
-      padding: 40px;
-      color: #999;
-      font-size: 16px;
-    }
-
-    @media (max-width: 768px) {
-      .back-home {
-        font-size: 20px;
-      }
-      h1 {
-        margin-top: 30px;
-      }
-      .search-container {
-        padding: 0 5px;
-      }
-      .search-box {
-        font-size: 14px;
-        padding: 10px 15px;
-      }
-    }
+    footer { text-align: center; font-size: 12px; margin: 20px 0; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <!-- 左上の戻るボタン -->
-    <a href="index.html" class="back-home">←</a>
+  <header>X Updates</header>
+  <section class="tweet-feed">
+    <input type="text" id="search" placeholder="Search tweets...">
+    <div id="tweet-container">
+      <div class="tweet-item" data-username="tengoku10jigoku" data-text="個人的に将来の阪神内野陣は
+捕手中川君(もしくは嶋村君or町田君)
+一塁谷端君
+二塁百崎君
+三塁立石君
+遊撃手山田君
+が良いな
+#阪神タイガース">
+        <h3><a href="https://twitter.com/tengoku10jigoku/status/1985122782943027492" target="_blank">@tengoku10jigoku</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">個人的に将来の阪神内野陣は
+捕手中川君(もしくは嶋村君or町田君)
+一塁谷端君
+二塁百崎君
+三塁立石君
+遊撃手山田君
+が良いな
+#阪神タイガース</p>
+      </div>
+      <div class="tweet-item" data-username="SHINICHIRO_51" data-text="@89kazu123 阪神タイガースは何気に的確な補強をしてますよね。
+他にも立石正広選手の応援歌はエルネスト・メヒア(元ライオンズ)の応援歌だったり、谷端将伍選手の応援歌は中村奨吾選手(マリーンズ)の応援歌だったり。
+阪神タイガースには岡城快生選手と共にそれぞれの個人応援歌を検討して欲しいですね。 https://t.co/1WyZXFD4MO">
+        <h3><a href="https://twitter.com/SHINICHIRO_51/status/1985158708805115945" target="_blank">@SHINICHIRO_51</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@89kazu123 阪神タイガースは何気に的確な補強をしてますよね。
+他にも立石正広選手の応援歌はエルネスト・メヒア(元ライオンズ)の応援歌だったり、谷端将伍選手の応援歌は中村奨吾選手(マリーンズ)の応援歌だったり。
+阪神タイガースには岡城快生選手と共にそれぞれの個人応援歌を検討して欲しいですね。 https://t.co/1WyZXFD4MO</p>
+      </div>
+      <div class="tweet-item" data-username="TwRqAee7yo47090" data-text="阪神のドラフトもう全部揃っとる
+攻守素晴らしい立石
+強肩強打の谷端
+俊足の岡城
+何がないんだ逆に">
+        <h3><a href="https://twitter.com/TwRqAee7yo47090/status/1985170884534079800" target="_blank">@TwRqAee7yo47090</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">阪神のドラフトもう全部揃っとる
+攻守素晴らしい立石
+強肩強打の谷端
+俊足の岡城
+何がないんだ逆に</p>
+      </div>
+      <div class="tweet-item" data-username="aRiO_so69" data-text="阪神ファンシコシコシコシコシコオーダー
+1番    右　高寺
+2番　遊　山田
+3番　指　前川
+4番　三　立石
+5番　一　谷端
+6番　捕　中川
+7番　二　百崎
+8番　中　岡城
+9番　左　井坪">
+        <h3><a href="https://twitter.com/aRiO_so69/status/1985172522980311305" target="_blank">@aRiO_so69</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">阪神ファンシコシコシコシコシコオーダー
+1番    右　高寺
+2番　遊　山田
+3番　指　前川
+4番　三　立石
+5番　一　谷端
+6番　捕　中川
+7番　二　百崎
+8番　中　岡城
+9番　左　井坪</p>
+      </div>
+      <div class="tweet-item" data-username="RuiTigers06" data-text="谷端は将伍の方で名前の強さを十分保管できてると思ってる">
+        <h3><a href="https://twitter.com/RuiTigers06/status/1985190006491869693" target="_blank">@RuiTigers06</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">谷端は将伍の方で名前の強さを十分保管できてると思ってる</p>
+      </div>
+      <div class="tweet-item" data-username="tokyo334314" data-text="立石がスタメン獲るのは当たり前として中川、谷端、百崎、髙寺が坂本、大山、中野を来年脅かしてほしいね
+3,4年後には大山、中野が恐怖の代打陣を担っているのが理想だよね
+今の阪神のメインコアは佐藤輝、近本、森下で上記の3人はサブコアって感じかな
+やっぱりレベルの高いスタメン争いが観たいよね">
+        <h3><a href="https://twitter.com/tokyo334314/status/1985190074729079169" target="_blank">@tokyo334314</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">立石がスタメン獲るのは当たり前として中川、谷端、百崎、髙寺が坂本、大山、中野を来年脅かしてほしいね
+3,4年後には大山、中野が恐怖の代打陣を担っているのが理想だよね
+今の阪神のメインコアは佐藤輝、近本、森下で上記の3人はサブコアって感じかな
+やっぱりレベルの高いスタメン争いが観たいよね</p>
+      </div>
+      <div class="tweet-item" data-username="tokyo334314" data-text="捕手　中川／坂本
+一塁　百崎／大山
+二塁　髙寺／中野
+遊撃　山田／髙寺
+三塁　立石
+左翼　近本
+中堅　岡城
+右翼　？
+ＤＨ　谷端／大山
+超希望的観測だけど3,4年後の阪神はこんな感じかな、佐藤輝明と森下はメジャーに行ってるだろうし">
+        <h3><a href="https://twitter.com/tokyo334314/status/1985194783242133648" target="_blank">@tokyo334314</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">捕手　中川／坂本
+一塁　百崎／大山
+二塁　髙寺／中野
+遊撃　山田／髙寺
+三塁　立石
+左翼　近本
+中堅　岡城
+右翼　？
+ＤＨ　谷端／大山
+超希望的観測だけど3,4年後の阪神はこんな感じかな、佐藤輝明と森下はメジャーに行ってるだろうし</p>
+      </div>
+      <div class="tweet-item" data-username="akip162755" data-text="ショートに谷端を守らせようとしてる時点でちゃんと大学野球見てない。サードすらプロで守れるか怪しい守備してるので。お試しショートしてた時の守備は言わずもがな。谷端守らせるなら足も肩も使えて大学日本でも守ってたレフト。
+あとサトテルはサード上手くなったけどそれより外野守備の方が上手い https://t.co/Vlj8mb0QQh">
+        <h3><a href="https://twitter.com/akip162755/status/1985233903838466217" target="_blank">@akip162755</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">ショートに谷端を守らせようとしてる時点でちゃんと大学野球見てない。サードすらプロで守れるか怪しい守備してるので。お試しショートしてた時の守備は言わずもがな。谷端守らせるなら足も肩も使えて大学日本でも守ってたレフト。
+あとサトテルはサード上手くなったけどそれより外野守備の方が上手い https://t.co/Vlj8mb0QQh</p>
+      </div>
+      <div class="tweet-item" data-username="AniQgVZSxr62725" data-text="ショート谷端とか言ってる時点で大学野球何も見てないだろ
+理想論で語りすぎ https://t.co/wmVVN0teTM">
+        <h3><a href="https://twitter.com/AniQgVZSxr62725/status/1985247207310987359" target="_blank">@AniQgVZSxr62725</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">ショート谷端とか言ってる時点で大学野球何も見てないだろ
+理想論で語りすぎ https://t.co/wmVVN0teTM</p>
+      </div>
+      <div class="tweet-item" data-username="RealThorMadae" data-text="@UC0079char ホークスはパの中でも直球剛球の多いチームだと思うから、変化球投手の失投狙い撃ちばっかりやってた今年の阪神には致命的に相性が悪かったね。
+来年は立石も谷端も即戦力として頑張ってもらわないと。">
+        <h3><a href="https://twitter.com/RealThorMadae/status/1985248408148541554" target="_blank">@RealThorMadae</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@UC0079char ホークスはパの中でも直球剛球の多いチームだと思うから、変化球投手の失投狙い撃ちばっかりやってた今年の阪神には致命的に相性が悪かったね。
+来年は立石も谷端も即戦力として頑張ってもらわないと。</p>
+      </div>
+      <div class="tweet-item" data-username="gaddem5525" data-text="んで2028年の理想打線がこれ
 
-    <h1>X New Post</h1>
+中　近本
+二　中野
+右　森下
+三　立石
+指　谷端
+一　助っ人　森田
+遊　緒方or高中　助っ人
+左　小野寺or青山
+捕　新人捕手(理想:渡部)
 
-    <!-- 検索ボックス -->
-    <div class="search-container">
-      <input type="text" id="searchBox" class="search-box" placeholder="🔍 キーワードで検索...">
-      <div id="searchResultsCount" class="search-results-count"></div>
+森下は多分メジャーいくなら2028オフ以降にして欲しい　ただ3割30本100打点残せたら話は別やけど
+
+#ドラフト #Tigers #阪神">
+        <h3><a href="https://twitter.com/gaddem5525/status/1985252299732901931" target="_blank">@gaddem5525</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">んで2028年の理想打線がこれ
+
+中　近本
+二　中野
+右　森下
+三　立石
+指　谷端
+一　助っ人　森田
+遊　緒方or高中　助っ人
+左　小野寺or青山
+捕　新人捕手(理想:渡部)
+
+森下は多分メジャーいくなら2028オフ以降にして欲しい　ただ3割30本100打点残せたら話は別やけど
+
+#ドラフト #Tigers #阪神</p>
+      </div>
+      <div class="tweet-item" data-username="jun_sky_walkers" data-text="攻撃的オーダーにする
+中野をショート
+輝明はMLB見据えて外野
+立石はセカンド
+谷端はサード
+
+#阪神タイガース
+#阪神タイガースファンと繋がりたい
+
+阪神ドラ１立石はどこで出場するのか本職は二塁と三塁　チームには中野と佐藤　球団幹部は「内野で」と明言
+#Yahooニュース
+https://t.co/B1J67cCfzU">
+        <h3><a href="https://twitter.com/jun_sky_walkers/status/1985278868362772553" target="_blank">@jun_sky_walkers</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">攻撃的オーダーにする
+中野をショート
+輝明はMLB見据えて外野
+立石はセカンド
+谷端はサード
+
+#阪神タイガース
+#阪神タイガースファンと繋がりたい
+
+阪神ドラ１立石はどこで出場するのか本職は二塁と三塁　チームには中野と佐藤　球団幹部は「内野で」と明言
+#Yahooニュース
+https://t.co/B1J67cCfzU</p>
+      </div>
+      <div class="tweet-item" data-username="sunafukin668117" data-text="@tigerschannel72 しかも谷端の方が評価高いし(阪神側調べ)">
+        <h3><a href="https://twitter.com/sunafukin668117/status/1985290584517685539" target="_blank">@sunafukin668117</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@tigerschannel72 しかも谷端の方が評価高いし(阪神側調べ)</p>
+      </div>
+      <div class="tweet-item" data-username="zetuyuru7" data-text="@VIiZZ_CH @ty24_st12_gia @yakyujinsan 谷端は大学生の中でも3塁守備は下手寄りで2塁は明確に下手です。ちなみに大学3年は23試合で9失策、4年春は13試合で4失策とちゃんと下手です。ただその分、バッティングはいいので、すぐ使うならバッティングを活かす起用法になると思います。">
+        <h3><a href="https://twitter.com/zetuyuru7/status/1985292556377432393" target="_blank">@zetuyuru7</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@VIiZZ_CH @ty24_st12_gia @yakyujinsan 谷端は大学生の中でも3塁守備は下手寄りで2塁は明確に下手です。ちなみに大学3年は23試合で9失策、4年春は13試合で4失策とちゃんと下手です。ただその分、バッティングはいいので、すぐ使うならバッティングを活かす起用法になると思います。</p>
+      </div>
+      <div class="tweet-item" data-username="HVK5xGOubZgreie" data-text="とらほ〜🐯🐯🐯
+
+百﨑蒼生(ももさき・あおい)、ロングティー打撃で快音連発です☄️☄️☄️
+
+立石正広＆谷端将伍の入団で、野手陣の競争が激化です🔥🔥🔥
+
+これも球団の狙いのひとつでしょうね☝️
+
+#阪神タイガース
+
+ https://t.co/aJKYYjBiSa">
+        <h3><a href="https://twitter.com/HVK5xGOubZgreie/status/1985305058393964994" target="_blank">@HVK5xGOubZgreie</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">とらほ〜🐯🐯🐯
+
+百﨑蒼生(ももさき・あおい)、ロングティー打撃で快音連発です☄️☄️☄️
+
+立石正広＆谷端将伍の入団で、野手陣の競争が激化です🔥🔥🔥
+
+これも球団の狙いのひとつでしょうね☝️
+
+#阪神タイガース
+
+ https://t.co/aJKYYjBiSa</p>
+      </div>
+      <div class="tweet-item" data-username="takoball221" data-text="今後のイベント
+11月
+NPBアワード
+12月
+現役ドラフト
+阪神入団会見
+サンテレビでドラ1立石＆ドラ2谷端のインタビュー。">
+        <h3><a href="https://twitter.com/takoball221/status/1985321742487912578" target="_blank">@takoball221</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">今後のイベント
+11月
+NPBアワード
+12月
+現役ドラフト
+阪神入団会見
+サンテレビでドラ1立石＆ドラ2谷端のインタビュー。</p>
+      </div>
+      <div class="tweet-item" data-username="minte34" data-text="【阪神2位】#39 日本大学　谷端将伍選手について
+https://t.co/MVcd2AKQRq">
+        <h3><a href="https://twitter.com/minte34/status/1985321977884864803" target="_blank">@minte34</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">【阪神2位】#39 日本大学　谷端将伍選手について
+https://t.co/MVcd2AKQRq</p>
+      </div>
+      <div class="tweet-item" data-username="91xoooo" data-text="🐯なんでルーキーの立石や谷端が内野で気持ち良くプレーできるために天下の阪神のサード佐藤輝が外野を守らないといけないんだよ
+🐯なんでそれを推奨してる阪神ファンが多いんだよ
+🐯ふざけるなって思うわ
+🐯勝つためなら佐藤輝の気持ちなど考えない阪神ファンの気が知れない
+#阪神タイガース">
+        <h3><a href="https://twitter.com/91xoooo/status/1985338120188142008" target="_blank">@91xoooo</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">🐯なんでルーキーの立石や谷端が内野で気持ち良くプレーできるために天下の阪神のサード佐藤輝が外野を守らないといけないんだよ
+🐯なんでそれを推奨してる阪神ファンが多いんだよ
+🐯ふざけるなって思うわ
+🐯勝つためなら佐藤輝の気持ちなど考えない阪神ファンの気が知れない
+#阪神タイガース</p>
+      </div>
+      <div class="tweet-item" data-username="lsdw_w" data-text="テルと村上がメジャー行ったあとの阪神とヤクルトの中軸が森下立石谷端×北村松下内山なの良すぎる
+
+中大同期×同世代ライバル×星稜先輩後輩">
+        <h3><a href="https://twitter.com/lsdw_w/status/1985346462583230551" target="_blank">@lsdw_w</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">テルと村上がメジャー行ったあとの阪神とヤクルトの中軸が森下立石谷端×北村松下内山なの良すぎる
+
+中大同期×同世代ライバル×星稜先輩後輩</p>
+      </div>
+      <div class="tweet-item" data-username="geki_sen" data-text="@sanspooskseiri 立石をサードや外野にもっていくなんて、ありきたりな事をすれば、阪神の発想力も底が知れてるわな。
+谷端ふくめショートを試すくらいの冒険心がなければ、ソフトバンクにはおいつけないだろう。新庄監督はサード清宮などを冒険心を大いにふるって試している。それくらいにならないと、阪神も">
+        <h3><a href="https://twitter.com/geki_sen/status/1985371859165298884" target="_blank">@geki_sen</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@sanspooskseiri 立石をサードや外野にもっていくなんて、ありきたりな事をすれば、阪神の発想力も底が知れてるわな。
+谷端ふくめショートを試すくらいの冒険心がなければ、ソフトバンクにはおいつけないだろう。新庄監督はサード清宮などを冒険心を大いにふるって試している。それくらいにならないと、阪神も</p>
+      </div>
+      <div class="tweet-item" data-username="Celticmythology" data-text="？？？？？
+
+〉宮下朝陽（DeNA3位）、繁永晟（楽天3位）、秋山俊（西武3位）、桜井ユウヤ（ロッテ4位）が打撃に特長ある選手に該当する。彼らは谷端将伍（阪神2位）に比べると評価が低く、前出のスカウトが指摘する「計算が狂った球団」とは、この4球団のことだと言えそうだ
+https://t.co/YZKsSYA4cC">
+        <h3><a href="https://twitter.com/Celticmythology/status/1985559167671972095" target="_blank">@Celticmythology</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">？？？？？
+
+〉宮下朝陽（DeNA3位）、繁永晟（楽天3位）、秋山俊（西武3位）、桜井ユウヤ（ロッテ4位）が打撃に特長ある選手に該当する。彼らは谷端将伍（阪神2位）に比べると評価が低く、前出のスカウトが指摘する「計算が狂った球団」とは、この4球団のことだと言えそうだ
+https://t.co/YZKsSYA4cC</p>
+      </div>
+      <div class="tweet-item" data-username="mdmFxdINb6v5XLd" data-text="#阪神タイガース
+金本監督以降の大学社会人野手
+かなりの確率で活躍してるね😄
+今年のドラフトの3人も楽しみ✨
+
+高山△
+坂本◎
+板山×
+大山◎
+糸原○
+長坂×
+熊谷△
+島田△
+近本◎
+木浪○
+佐藤輝◎
+榮枝×
+中野◎
+豊田×
+森下◎
+佐野×
+立石(新人)
+谷端(新人)
+岡城(新人)">
+        <h3><a href="https://twitter.com/mdmFxdINb6v5XLd/status/1985598104532623658" target="_blank">@mdmFxdINb6v5XLd</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">#阪神タイガース
+金本監督以降の大学社会人野手
+かなりの確率で活躍してるね😄
+今年のドラフトの3人も楽しみ✨
+
+高山△
+坂本◎
+板山×
+大山◎
+糸原○
+長坂×
+熊谷△
+島田△
+近本◎
+木浪○
+佐藤輝◎
+榮枝×
+中野◎
+豊田×
+森下◎
+佐野×
+立石(新人)
+谷端(新人)
+岡城(新人)</p>
+      </div>
+      <div class="tweet-item" data-username="tokyo334314" data-text="@WhZsb1iXEE36316 谷端がショートでは一軍戦力にならないことはわかりますよね？現状の阪神では一三塁を守れる選手は1人（立石）でまだ大丈夫なんですよ。それよりも一軍ショートの絶対的な選手の不在＋前に述べたデプスの薄さのほうが深刻だと思います。">
+        <h3><a href="https://twitter.com/tokyo334314/status/1985601284041515021" target="_blank">@tokyo334314</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@WhZsb1iXEE36316 谷端がショートでは一軍戦力にならないことはわかりますよね？現状の阪神では一三塁を守れる選手は1人（立石）でまだ大丈夫なんですよ。それよりも一軍ショートの絶対的な選手の不在＋前に述べたデプスの薄さのほうが深刻だと思います。</p>
+      </div>
+      <div class="tweet-item" data-username="sylphyeedagain" data-text="来年の内野手争いが楽しみ。
+
+蒼生ちゃんは調子いいし、
+立石君も期待大やし
+谷端君も期待できる。
+
+早速どこマモ問題発生しているが
+秋季キャンプはそれでいい。
+
+#阪神">
+        <h3><a href="https://twitter.com/sylphyeedagain/status/1985625619888312686" target="_blank">@sylphyeedagain</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">来年の内野手争いが楽しみ。
+
+蒼生ちゃんは調子いいし、
+立石君も期待大やし
+谷端君も期待できる。
+
+早速どこマモ問題発生しているが
+秋季キャンプはそれでいい。
+
+#阪神</p>
+      </div>
+      <div class="tweet-item" data-username="tokyo334314" data-text="@WhZsb1iXEE36316 阪神の編成がチームの核となるに値する選手が来るまで我慢する方針であることは理解できます
+ただいくらなんでもレギュラーもいない、デプスも薄いポジションをここ2,3年放っといたままにしてるのはまずいのではと
+右のスラッガーは今年に関しては立石だけで十分です、谷端出るポジションないですもん">
+        <h3><a href="https://twitter.com/tokyo334314/status/1985633331837616136" target="_blank">@tokyo334314</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@WhZsb1iXEE36316 阪神の編成がチームの核となるに値する選手が来るまで我慢する方針であることは理解できます
+ただいくらなんでもレギュラーもいない、デプスも薄いポジションをここ2,3年放っといたままにしてるのはまずいのではと
+右のスラッガーは今年に関しては立石だけで十分です、谷端出るポジションないですもん</p>
+      </div>
+      <div class="tweet-item" data-username="CYaRon68" data-text="@dm9zqPljco95035 谷端将伍選手お願いしたいです！">
+        <h3><a href="https://twitter.com/CYaRon68/status/1985649461780234322" target="_blank">@CYaRon68</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">@dm9zqPljco95035 谷端将伍選手お願いしたいです！</p>
+      </div>
+      <div class="tweet-item" data-username="ane1786074" data-text="2027年
+1番　中　近本光司or福島？岡城？
+2番　二　中野拓夢
+3番　左　森下翔太or前川？谷端？立石
+4番　右　佐藤輝明or 森下？
+5番　三　立石正広or谷端？
+6番　一　大山悠輔or 谷端？前川？
+7番　捕　坂本誠志郎or嶋村？
+8番　遊　髙寺望夢or山田？百崎？
+9番　指　谷端将伍　or 中川？前川？">
+        <h3><a href="https://twitter.com/ane1786074/status/1985771028669481431" target="_blank">@ane1786074</a></h3>
+        <p class="date">Invalid Date</p>
+        <p class="tweet-text">2027年
+1番　中　近本光司or福島？岡城？
+2番　二　中野拓夢
+3番　左　森下翔太or前川？谷端？立石
+4番　右　佐藤輝明or 森下？
+5番　三　立石正広or谷端？
+6番　一　大山悠輔or 谷端？前川？
+7番　捕　坂本誠志郎or嶋村？
+8番　遊　髙寺望夢or山田？百崎？
+9番　指　谷端将伍　or 中川？前川？</p>
+      </div>
     </div>
-
-    <div id="tweets-container">
-      <p id="loading-message">データを読み込んでいます...</p>
-    </div>
-
-    <!-- もっと読むボタン -->
-    <div class="load-more-container" id="loadMoreContainer" style="display: none;">
-      <button id="loadMoreBtn" class="load-more-btn">以前を読み込む</button>
-    </div>
-
-    <br><br>
-  </div>
-
+  </section>
+  <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <script>
-    // グローバル変数
-    let allTweets = [];
-    let filteredTweets = [];
-    let isSearching = false;
-    let displayedArchivedTweets = 0;
-    const ARCHIVED_TWEETS_PER_LOAD = 50;
-
-    // XSS対策のための簡易HTMLエスケープ関数
-    function escapeHTML(str) {
-      if (typeof str !== 'string') return '';
-      return str.replace(/[&<>"']/g, function(match) {
-        return {
-          '&': '&amp;',
-          '<': '&lt;',
-          '>': '&gt;',
-          '"': '&quot;',
-          "'": '&#39;'
-        }[match];
+    const searchInput = document.getElementById('search');
+    const tweetContainer = document.getElementById('tweet-container');
+    const tweetItems = Array.from(tweetContainer.querySelectorAll('.tweet-item'));
+    
+    searchInput.addEventListener('input', () => {
+      const searchQuery = searchInput.value.trim().toLowerCase();
+      tweetItems.forEach(item => {
+        const username = item.getAttribute('data-username');
+        const text = item.getAttribute('data-text');
+        const searchText = username + ' ' + text;
+        item.style.display = (searchQuery === '' || searchText.toLowerCase().includes(searchQuery)) ? 'block' : 'none';
       });
-    }
-
-    // 日付をフォーマットする関数
-    function formatDate(dateString) {
-      try {
-        // 様々な日付フォーマットに対応
-        let date;
-        
-        if (!dateString) {
-          return '日付不明';
-        }
-
-        // ISO 8601形式やその他の標準的な日付文字列
-        date = new Date(dateString);
-        
-        // 無効な日付の場合
-        if (isNaN(date.getTime())) {
-          return '日付不明';
-        }
-
-        const y = date.getFullYear();
-        const m = String(date.getMonth() + 1).padStart(2, '0');
-        const d = String(date.getDate()).padStart(2, '0');
-        const h = String(date.getHours()).padStart(2, '0');
-        const min = String(date.getMinutes()).padStart(2, '0');
-        return `${y}/${m}/${d} ${h}:${min}`;
-      } catch (e) {
-        console.error('Date format error:', e, dateString);
-        return '日付不明';
-      }
-    }
-
-    // 今日の日付を取得（00:00:00）
-    function getTodayStart() {
-      const now = new Date();
-      now.setHours(0, 0, 0, 0);
-      return now;
-    }
-
-    // 昨日の日付を取得（00:00:00）
-    function getYesterdayStart() {
-      const yesterday = new Date();
-      yesterday.setDate(yesterday.getDate() - 1);
-      yesterday.setHours(0, 0, 0, 0);
-      return yesterday;
-    }
-
-    // ツイートが今日または昨日のものかチェック
-    function isTodayOrYesterday(dateString) {
-      try {
-        if (!dateString) return false;
-        const tweetDate = new Date(dateString);
-        if (isNaN(tweetDate.getTime())) return false;
-        
-        const yesterday = getYesterdayStart();
-        return tweetDate >= yesterday;
-      } catch (e) {
-        return false;
-      }
-    }
-
-    // ユーザー名から@付きとリンクを生成（正しいフィールド名使用）
-    function getUsernameHTML(tweet) {
-      // 正しいフィールド名を使用（JSONデータに合わせて）
-      let username = tweet.userName || tweet.username || tweet.user || tweet.author || tweet.screen_name || tweet.name;
-      
-      if (!username || username === 'X User' || username === 'user' || username === 'Unknown') {
-        username = 'unknown_user';
-      }
-      
-      // 既存の@を削除してクリーンアップ
-      const cleanUsername = String(username).replace(/^@/, '').trim();
-      
-      if (!cleanUsername) {
-        return '<span class="tweet-username">@unknown_user</span>';
-      }
-      
-      // リンク付きでユーザー名を返す
-      return `<a href="https://x.com/${escapeHTML(cleanUsername)}" target="_blank" rel="noopener noreferrer" class="tweet-username">@${escapeHTML(cleanUsername)}</a>`;
-    }
-
-    // ツイートのリンクを生成（正しいフィールド名使用）
-    function getTweetLink(tweet) {
-      // 正しいフィールド名を使用（JSONデータに合わせて）
-      const tweetUrl = tweet.tweetUrl || tweet.url || tweet.link;
-      
-      if (tweetUrl) {
-        // X/Twitter URLの形式を確認して返す
-        if (tweetUrl.includes('twitter.com') || tweetUrl.includes('x.com')) {
-          return tweetUrl.replace('twitter.com', 'x.com'); // x.comに統一
-        }
-      }
-      
-      return null;
-    }
-
-    // ツイートを表示する関数
-    function displayTweets(tweets, showMoreArchived = false) {
-      const container = document.getElementById('tweets-container');
-      const loadMoreContainer = document.getElementById('loadMoreContainer');
-      const loadMoreBtn = document.getElementById('loadMoreBtn');
-      
-      if (!tweets || tweets.length === 0) {
-        container.innerHTML = '<div class="no-results">該当するポストが見つかりませんでした。</div>';
-        loadMoreContainer.style.display = 'none';
-        return;
-      }
-
-      const fragment = document.createDocumentFragment();
-      let hasArchived = false;
-      let recentTweets = [];
-      let archivedTweets = [];
-
-      // ツイートを最近分（今日+昨日）とアーカイブ分に分類
-      tweets.forEach((tweet, index) => {
-        const isRecentTweet = isTodayOrYesterday(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
-        if (isRecentTweet) {
-          recentTweets.push(tweet);
-        } else {
-          archivedTweets.push(tweet);
-        }
-      });
-
-      // 最近分（今日+昨日）を表示
-      recentTweets.forEach(tweet => {
-        const card = document.createElement('div');
-        card.className = 'tweet-card';
-        
-        const usernameHTML = getUsernameHTML(tweet);
-        const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
-        const tweetLink = getTweetLink(tweet);
-        const tweetText = tweet.text || tweet.content || tweet.full_text || tweet.message || '';
-        
-        card.innerHTML = `
-          <div class="tweet-header">
-            ${usernameHTML}
-            <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
-          </div>
-          <div class="tweet-text">${escapeHTML(tweetText)}</div>
-          ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る →</a>` : ''}
-        `;
-        
-        fragment.appendChild(card);
-      });
-
-      // 過去分を表示（条件付き）
-      if (showMoreArchived || isSearching) {
-        const displayCount = showMoreArchived ? displayedArchivedTweets + ARCHIVED_TWEETS_PER_LOAD : archivedTweets.length;
-        const tweetsToShow = archivedTweets.slice(0, displayCount);
-        
-        tweetsToShow.forEach(tweet => {
-          const card = document.createElement('div');
-          card.className = 'tweet-card';
-          
-          const usernameHTML = getUsernameHTML(tweet);
-          const dateStr = formatDate(tweet.date || tweet.createdAt || tweet.created_at || tweet.timestamp);
-          const tweetLink = getTweetLink(tweet);
-          const tweetText = tweet.text || tweet.content || tweet.full_text || tweet.message || '';
-          
-          card.innerHTML = `
-            <div class="tweet-header">
-              ${usernameHTML}
-              <span class="tweet-createdat">${escapeHTML(dateStr)}</span>
-            </div>
-            <div class="tweet-text">${escapeHTML(tweetText)}</div>
-            ${tweetLink ? `<a href="${escapeHTML(tweetLink)}" target="_blank" rel="noopener noreferrer" class="tweet-link">Xで見る →</a>` : ''}
-          `;
-          
-          fragment.appendChild(card);
-        });
-
-        if (showMoreArchived) {
-          displayedArchivedTweets = displayCount;
-        }
-      } else if (archivedTweets.length > 0) {
-        hasArchived = true;
-      }
-
-      container.innerHTML = '';
-      container.appendChild(fragment);
-
-      // もっと読むボタンの表示制御
-      if (hasArchived && !isSearching) {
-        loadMoreContainer.style.display = 'block';
-        const remainingArchived = archivedTweets.length - displayedArchivedTweets;
-        if (remainingArchived <= 0) {
-          loadMoreBtn.disabled = true;
-          loadMoreBtn.textContent = 'すべて表示済み';
-        } else {
-          loadMoreBtn.disabled = false;
-          loadMoreBtn.textContent = `以前を読み込む (残り${remainingArchived}件)`;
-        }
-      } else {
-        loadMoreContainer.style.display = 'none';
-      }
-    }
-
-    // 検索機能
-    function searchTweets(query) {
-      if (!query || query.trim() === '') {
-        isSearching = false;
-        displayedArchivedTweets = 0;
-        filteredTweets = allTweets;
-        displayTweets(filteredTweets);
-        document.getElementById('searchResultsCount').textContent = '';
-        return;
-      }
-
-      isSearching = true;
-      const lowerQuery = query.toLowerCase();
-      filteredTweets = allTweets.filter(tweet => {
-        const text = (tweet.text || tweet.content || tweet.full_text || tweet.message || '').toLowerCase();
-        const username = (tweet.userName || tweet.username || tweet.user || tweet.author || '').toLowerCase();
-        return text.includes(lowerQuery) || username.includes(lowerQuery);
-      });
-
-      displayTweets(filteredTweets, false); // 検索時はすべて表示
-      document.getElementById('searchResultsCount').textContent = 
-        `${filteredTweets.length}件のポストが見つかりました`;
-    }
-
-    // もっと読むボタンのイベント
-    document.getElementById('loadMoreBtn').addEventListener('click', function() {
-      displayedArchivedTweets += ARCHIVED_TWEETS_PER_LOAD;
-      displayTweets(filteredTweets, true);
-    });
-
-    // 検索ボックスのイベント（リアルタイム検索）
-    let searchTimeout;
-    document.getElementById('searchBox').addEventListener('input', function(e) {
-      clearTimeout(searchTimeout);
-      searchTimeout = setTimeout(() => {
-        searchTweets(e.target.value);
-      }, 300); // 300ms のデバウンス
-    });
-
-    // ページ読み込み時にデータを取得
-    document.addEventListener('DOMContentLoaded', function() {
-      const container = document.getElementById('tweets-container');
-      const loadingMessage = document.getElementById('loading-message');
-
-      fetch('draft-test.txt')
-        .then(response => {
-          if (!response.ok) {
-            throw new Error(`ファイルの読み込みに失敗しました (HTTP ${response.status})`);
-          }
-          return response.json(); 
-        })
-        .then(data => {
-          // データ構造のログを出力してデバッグ
-          console.log('読み込まれたデータ:', data);
-          
-          // 様々なデータ構造に対応
-          let tweets = [];
-          if (data.tweets) {
-            tweets = data.tweets;
-          } else if (Array.isArray(data)) {
-            tweets = data;
-          } else if (data.data && Array.isArray(data.data)) {
-            tweets = data.data;
-          }
-
-          if (!tweets || tweets.length === 0) {
-            loadingMessage.textContent = '表示できるポストがありません。';
-            return;
-          }
-
-          // 各ツイートのデータ構造もログ出力
-          console.log('最初のツイートの例:', tweets[0]);
-
-          allTweets = tweets;
-          filteredTweets = allTweets;
-
-          // 日付順にソート（新しい順）
-          allTweets.sort((a, b) => {
-            const dateA = new Date(a.date || a.createdAt || a.created_at || a.timestamp || 0);
-            const dateB = new Date(b.date || b.createdAt || b.created_at || b.timestamp || 0);
-            return dateB.getTime() - dateA.getTime();
-          });
-
-          // 今日+昨日分のみ初期表示
-          displayedArchivedTweets = 0;
-          displayTweets(allTweets, false);
-
-        })
-        .catch(error => {
-          console.error('ポストデータの処理中にエラーが発生しました:', error);
-          loadingMessage.textContent = 'ポストの読み込みに失敗しました。Webサーバーにアップロードされているか、ファイル名(draft-test.txt)が正しいか確認してください。';
-          loadingMessage.style.color = 'red';
-          loadingMessage.style.textAlign = 'left';
-        });
     });
   </script>
 </body>
