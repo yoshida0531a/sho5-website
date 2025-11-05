@@ -68,6 +68,26 @@
       background-color: #000;
       color: #fff;
     }
+    #more-posts-btn {
+      display: block;
+      margin: 20px auto;
+      padding: 12px 24px;
+      background-color: transparent;
+      color: #000;
+      text-decoration: none;
+      border: 2px solid #000;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    #more-posts-btn:hover {
+      background-color: #000;
+      color: #fff;
+    }
+    #more-posts-btn.hidden {
+      display: none;
+    }
     footer { text-align: center; font-size: 12px; margin: 20px 0; }
   </style>
 </head>
@@ -504,22 +524,140 @@ https://t.co/YZKsSYA4cC</p>
         <a href="https://twitter.com/ane1786074/status/1985771028669481431" target="_blank" class="tweet-link">Xで見る</a>
       </div>
     </div>
+    <button id="more-posts-btn">さらに過去の投稿を見る</button>
   </section>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <script>
+    // Twitter Snowflake ID to Date converter
+    const TWITTER_EPOCH = 1142974214000;
+    
+    function snowflakeToDate(snowflakeId) {
+      const id = BigInt(snowflakeId);
+      const timestamp = Number(id >> 22n) + TWITTER_EPOCH;
+      return new Date(timestamp);
+    }
+    
+    function formatDate(date) {
+      return date.toLocaleDateString('ja-JP', { 
+        year: 'numeric', 
+        month: '2-digit', 
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+    }
+    
+    // Initialize
     const searchInput = document.getElementById('search');
     const tweetContainer = document.getElementById('tweet-container');
+    const morePostsBtn = document.getElementById('more-posts-btn');
     const tweetItems = Array.from(tweetContainer.querySelectorAll('.tweet-item'));
     
-    searchInput.addEventListener('input', () => {
-      const searchQuery = searchInput.value.trim().toLowerCase();
-      tweetItems.forEach(item => {
-        const username = item.getAttribute('data-username');
-        const text = item.getAttribute('data-text');
-        const searchText = username + ' ' + text;
-        item.style.display = (searchQuery === '' || searchText.toLowerCase().includes(searchQuery)) ? 'block' : 'none';
-      });
+    // Extract dates from tweet URLs and add data-date attribute
+    tweetItems.forEach(item => {
+      const linkElement = item.querySelector('a[href*="status/"]');
+      if (linkElement) {
+        const url = linkElement.href;
+        const match = url.match(/status\/(\d+)/);
+        if (match) {
+          const tweetId = match[1];
+          const tweetDate = snowflakeToDate(tweetId);
+          item.setAttribute('data-date', tweetDate.toISOString());
+          
+          // Update the date display
+          const dateElement = item.querySelector('.date');
+          if (dateElement) {
+            dateElement.textContent = formatDate(tweetDate);
+          }
+        }
+      }
     });
+    
+    // Sort tweets by date (newest first)
+    const sortedTweets = tweetItems.sort((a, b) => {
+      const dateA = new Date(a.getAttribute('data-date') || 0);
+      const dateB = new Date(b.getAttribute('data-date') || 0);
+      return dateB - dateA;
+    });
+    
+    // Clear container and re-add sorted tweets
+    tweetContainer.innerHTML = '';
+    sortedTweets.forEach(tweet => tweetContainer.appendChild(tweet));
+    
+    // Find the most recent tweet date to use as reference
+    const mostRecentDate = sortedTweets.length > 0 
+      ? new Date(sortedTweets[0].getAttribute('data-date'))
+      : new Date();
+    
+    // Pagination logic
+    const oneDayMs = 24 * 60 * 60 * 1000;
+    const oneWeekMs = 7 * oneDayMs;
+    
+    let currentWeeksToShow = 0; // 0 = most recent day, 1 = 1 week, 2 = 2 weeks, etc.
+    
+    function updateVisibility() {
+      const isSearching = searchInput.value.trim() !== '';
+      
+      if (isSearching) {
+        // When searching, show all matching tweets
+        const searchQuery = searchInput.value.trim().toLowerCase();
+        sortedTweets.forEach(item => {
+          const username = item.getAttribute('data-username');
+          const text = item.getAttribute('data-text');
+          const searchText = username + ' ' + text;
+          item.style.display = searchText.toLowerCase().includes(searchQuery) ? 'block' : 'none';
+        });
+        morePostsBtn.classList.add('hidden');
+      } else {
+        // When not searching, apply date-based pagination
+        const mostRecentDayStart = new Date(
+          mostRecentDate.getFullYear(), 
+          mostRecentDate.getMonth(), 
+          mostRecentDate.getDate()
+        );
+        
+        let cutoffDate;
+        
+        if (currentWeeksToShow === 0) {
+          // Show only the most recent day's tweets
+          cutoffDate = mostRecentDayStart;
+        } else {
+          // Show most recent day + N weeks back
+          cutoffDate = new Date(mostRecentDayStart.getTime() - (currentWeeksToShow * oneWeekMs));
+        }
+        
+        let hasMoreOldTweets = false;
+        
+        sortedTweets.forEach(item => {
+          const tweetDate = new Date(item.getAttribute('data-date'));
+          if (tweetDate >= cutoffDate) {
+            item.style.display = 'block';
+          } else {
+            item.style.display = 'none';
+            hasMoreOldTweets = true;
+          }
+        });
+        
+        // Show/hide "More Posts" button
+        if (hasMoreOldTweets) {
+          morePostsBtn.classList.remove('hidden');
+        } else {
+          morePostsBtn.classList.add('hidden');
+        }
+      }
+    }
+    
+    // Search functionality
+    searchInput.addEventListener('input', updateVisibility);
+    
+    // More Posts button functionality
+    morePostsBtn.addEventListener('click', () => {
+      currentWeeksToShow++;
+      updateVisibility();
+    });
+    
+    // Initial display
+    updateVisibility();
   </script>
 </body>
 </html>
