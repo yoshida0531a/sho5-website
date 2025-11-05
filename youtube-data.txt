@@ -2,6 +2,30 @@
   "success": true,
   "videos": [
     {
+      "title": "阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。",
+      "channel": "",
+      "url": "https://www.youtube.com/watch?v=H-lrZS-L-pE",
+      "publishedAt": "2024-11-05T09:00:00",
+      "description": "セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...",
+      "keyword": "谷端 阪神"
+    },
+    {
+      "title": "【阪神2位】#39 日本大学　谷端将伍選手について",
+      "channel": "",
+      "url": "https://www.youtube.com/watch?v=l214x-deVZM",
+      "publishedAt": "2024-11-04T15:00:00",
+      "description": "星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。",
+      "keyword": "谷端 阪神"
+    },
+    {
+      "title": "立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク",
+      "channel": "",
+      "url": "https://www.youtube.com/watch?v=yRk59YXgrP0",
+      "publishedAt": "2024-11-03T12:00:00",
+      "description": "おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...",
+      "keyword": "谷端 阪神"
+    },
+    {
       "title": "🔥【阪神タイガース】未来の主砲誕生！立石正広（創価大）を三球団競合で獲得💪大学日本代表・谷端将伍（日本大）との“黄金ドラフト”で新時代突入🐯⚾️",
       "channel": "",
       "url": "https://www.youtube.com/watch?v=fDG0OHdz4w0",
@@ -26,5 +50,5 @@
       "keyword": "谷端 阪神"
     }
   ],
-  "count": 3
+  "count": 6
 }
