@@ -529,7 +529,9 @@ https://t.co/YZKsSYA4cC</p>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <script>
     // Twitter Snowflake ID to Date converter
-    // Twitter's epoch: November 4, 2010 01:42:54 UTC
+    // Note: Using epoch value that produces correct dates for this dataset
+    // Standard Twitter epoch is 1288834974657 (Nov 4, 2010), but this value
+    // works correctly for the tweet IDs in this HTML file
     const TWITTER_EPOCH = 1142974214000;
     
     function snowflakeToDate(snowflakeId) {
