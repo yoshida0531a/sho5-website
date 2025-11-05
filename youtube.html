@@ -80,43 +80,66 @@
   <section class="video-feed">
     <input type="text" id="search" placeholder="Search videos...">
     <div id="video-container">
-      <div class="video-item" data-title="阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。" data-description="セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ..." data-date="2024-11-05T09:00:00">
-        <h3><a href="https://www.youtube.com/watch?v=H-lrZS-L-pE" target="_blank">阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。</a></h3>
-        <p class="date">2024/11/05 09:00</p>
-        <p class="description">セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...</p>
-        <a href="https://www.youtube.com/watch?v=H-lrZS-L-pE" target="_blank" class="video-link">Youtubeで見る</a>
-      </div>
-      <div class="video-item" data-title="【阪神2位】#39 日本大学　谷端将伍選手について" data-description="星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。" data-date="2024-11-04T15:00:00">
-        <h3><a href="https://www.youtube.com/watch?v=l214x-deVZM" target="_blank">【阪神2位】#39 日本大学　谷端将伍選手について</a></h3>
-        <p class="date">2024/11/04 15:00</p>
-        <p class="description">星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。</p>
-        <a href="https://www.youtube.com/watch?v=l214x-deVZM" target="_blank" class="video-link">Youtubeで見る</a>
-      </div>
-      <div class="video-item" data-title="立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク" data-description="おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ..." data-date="2024-11-03T12:00:00">
-        <h3><a href="https://www.youtube.com/watch?v=yRk59YXgrP0" target="_blank">立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク</a></h3>
-        <p class="date">2024/11/03 12:00</p>
-        <p class="description">おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...</p>
-        <a href="https://www.youtube.com/watch?v=yRk59YXgrP0" target="_blank" class="video-link">Youtubeで見る</a>
-      </div>
+      <!-- Videos will be loaded dynamically from youtube-data.txt -->
     </div>
   </section>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <script>
     const searchInput = document.getElementById('search');
     const videoContainer = document.getElementById('video-container');
-    const videoItems = Array.from(videoContainer.querySelectorAll('.video-item'));
+    let videoItems = [];
+    let sortedVideos = [];
     
-    // Sort videos by date (newest first)
-    const sortedVideos = videoItems.slice().sort((a, b) => {
-      const dateA = new Date(a.getAttribute('data-date') || 0);
-      const dateB = new Date(b.getAttribute('data-date') || 0);
-      return dateB - dateA;
-    });
+    // Function to format date
+    function formatDate(dateString) {
+      const date = new Date(dateString);
+      return date.toLocaleString('ja-JP', { 
+        year: 'numeric', 
+        month: '2-digit', 
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+    }
     
-    // Clear container and re-add sorted videos
-    videoContainer.innerHTML = '';
-    sortedVideos.forEach(video => videoContainer.appendChild(video));
+    // Load videos from youtube-data.txt
+    fetch('youtube-data.txt')
+      .then(response => response.json())
+      .then(data => {
+        // Create video elements from JSON data
+        data.videos.forEach(video => {
+          const videoDiv = document.createElement('div');
+          videoDiv.className = 'video-item';
+          videoDiv.setAttribute('data-title', video.title);
+          videoDiv.setAttribute('data-description', video.description);
+          videoDiv.setAttribute('data-date', video.publishedAt);
+          
+          videoDiv.innerHTML = `
+            <h3><a href="${video.url}" target="_blank">${video.title}</a></h3>
+            <p class="date">${formatDate(video.publishedAt)}</p>
+            <p class="description">${video.description}</p>
+            <a href="${video.url}" target="_blank" class="video-link">Youtubeで見る</a>
+          `;
+          
+          videoItems.push(videoDiv);
+        });
+        
+        // Sort videos by date (newest first)
+        sortedVideos = videoItems.slice().sort((a, b) => {
+          const dateA = new Date(a.getAttribute('data-date') || 0);
+          const dateB = new Date(b.getAttribute('data-date') || 0);
+          return dateB - dateA;
+        });
+        
+        // Add sorted videos to container
+        sortedVideos.forEach(video => videoContainer.appendChild(video));
+      })
+      .catch(error => {
+        console.error('Error loading videos:', error);
+        videoContainer.innerHTML = '<p>動画の読み込みに失敗しました。</p>';
+      });
     
+    // Search functionality
     searchInput.addEventListener('input', () => {
       const searchQuery = searchInput.value.trim().toLowerCase();
       sortedVideos.forEach(item => {
