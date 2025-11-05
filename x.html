@@ -5,12 +5,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>X Updates - Shogo Fun Site</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
     body {
       margin: 0; padding: 0;
-      font-family: 'Poppins', sans-serif;
+      font-family: 'Noto Sans JP', sans-serif;
       background-color: white; color: black;
     }
     .top-link {
@@ -64,9 +64,11 @@
       font-size: 14px;
       transition: all 0.3s ease;
     }
-    .tweet-link:hover {
-      background-color: #000;
-      color: #fff;
+    .tweet-link:hover,
+    .tweet-link:active,
+    .tweet-link:focus {
+      background-color: #FFD700;
+      color: #000;
     }
     #more-posts-btn {
       display: block;
@@ -81,9 +83,11 @@
       cursor: pointer;
       transition: all 0.3s ease;
     }
-    #more-posts-btn:hover {
-      background-color: #000;
-      color: #fff;
+    #more-posts-btn:hover,
+    #more-posts-btn:active,
+    #more-posts-btn:focus {
+      background-color: #FFD700;
+      color: #000;
     }
     #more-posts-btn.hidden {
       display: none;
