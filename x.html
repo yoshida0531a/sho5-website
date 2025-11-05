@@ -222,8 +222,8 @@
         let cutoffDate;
         
         if (currentWeeksToShow === 0) {
-          // Show only the most recent day's tweets
-          cutoffDate = mostRecentDayStart;
+          // Show tweets from the most recent day and the previous day
+          cutoffDate = new Date(mostRecentDayStart.getTime() - oneDayMs);
         } else {
           // Show most recent day + N weeks back
           cutoffDate = new Date(mostRecentDayStart.getTime() - (currentWeeksToShow * oneWeekMs));
