@@ -140,7 +140,7 @@
       .then(response => response.json())
       .then(data => {
         // Create tweet elements from JSON data
-        data.tweets.forEach(tweet => {
+        data.forEach(tweet => {
           const tweetDiv = document.createElement('div');
           tweetDiv.className = 'tweet-item';
           tweetDiv.setAttribute('data-username', tweet.userName);
