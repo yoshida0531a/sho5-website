@@ -529,6 +529,7 @@ https://t.co/YZKsSYA4cC</p>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <script>
     // Twitter Snowflake ID to Date converter
+    // Twitter's epoch: November 4, 2010 01:42:54 UTC
     const TWITTER_EPOCH = 1142974214000;
     
     function snowflakeToDate(snowflakeId) {
@@ -538,7 +539,7 @@ https://t.co/YZKsSYA4cC</p>
     }
     
     function formatDate(date) {
-      return date.toLocaleDateString('ja-JP', { 
+      return date.toLocaleString('ja-JP', { 
         year: 'numeric', 
         month: '2-digit', 
         day: '2-digit',
@@ -573,8 +574,8 @@ https://t.co/YZKsSYA4cC</p>
       }
     });
     
-    // Sort tweets by date (newest first)
-    const sortedTweets = tweetItems.sort((a, b) => {
+    // Sort tweets by date (newest first) - create a copy to avoid mutating original
+    const sortedTweets = tweetItems.slice().sort((a, b) => {
       const dateA = new Date(a.getAttribute('data-date') || 0);
       const dateB = new Date(b.getAttribute('data-date') || 0);
       return dateB - dateA;
