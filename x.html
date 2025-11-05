@@ -13,6 +13,19 @@
       font-family: 'Poppins', sans-serif;
       background-color: white; color: black;
     }
+    .top-link {
+      position: fixed;
+      top: 10px;
+      left: 20px;
+      font-size: 24px;
+      color: black;
+      text-decoration: none;
+      z-index: 1000;
+      font-family: Arial, sans-serif;
+    }
+    .top-link:hover {
+      text-decoration: underline;
+    }
     header {
       text-align: center; font-size: 28px;
       font-weight: bold; margin: 20px 0;
@@ -39,10 +52,27 @@
     .tweet-item .tweet-text {
       margin: 10px 0; font-size: 14px; line-height: 1.5;
     }
+    .tweet-link {
+      display: inline-block;
+      margin: 12px 0;
+      padding: 8px 16px;
+      background-color: transparent;
+      color: #000;
+      text-decoration: none;
+      border: 2px solid #000;
+      border-radius: 5px;
+      font-size: 14px;
+      transition: all 0.3s ease;
+    }
+    .tweet-link:hover {
+      background-color: #000;
+      color: #fff;
+    }
     footer { text-align: center; font-size: 12px; margin: 20px 0; }
   </style>
 </head>
 <body>
+  <a href="index.html" class="top-link">←</a>
   <header>X Updates</header>
   <section class="tweet-feed">
     <input type="text" id="search" placeholder="Search tweets...">
@@ -65,6 +95,7 @@
 遊撃手山田君
 が良いな
 #阪神タイガース</p>
+        <a href="https://twitter.com/tengoku10jigoku/status/1985122782943027492" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="SHINICHIRO_51" data-text="@89kazu123 阪神タイガースは何気に的確な補強をしてますよね。
 他にも立石正広選手の応援歌はエルネスト・メヒア(元ライオンズ)の応援歌だったり、谷端将伍選手の応援歌は中村奨吾選手(マリーンズ)の応援歌だったり。
@@ -74,6 +105,7 @@
         <p class="tweet-text">@89kazu123 阪神タイガースは何気に的確な補強をしてますよね。
 他にも立石正広選手の応援歌はエルネスト・メヒア(元ライオンズ)の応援歌だったり、谷端将伍選手の応援歌は中村奨吾選手(マリーンズ)の応援歌だったり。
 阪神タイガースには岡城快生選手と共にそれぞれの個人応援歌を検討して欲しいですね。 https://t.co/1WyZXFD4MO</p>
+        <a href="https://twitter.com/SHINICHIRO_51/status/1985158708805115945" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="TwRqAee7yo47090" data-text="阪神のドラフトもう全部揃っとる
 攻守素晴らしい立石
@@ -87,6 +119,7 @@
 強肩強打の谷端
 俊足の岡城
 何がないんだ逆に</p>
+        <a href="https://twitter.com/TwRqAee7yo47090/status/1985170884534079800" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="aRiO_so69" data-text="阪神ファンシコシコシコシコシコオーダー
 1番    右　高寺
@@ -110,11 +143,13 @@
 7番　二　百崎
 8番　中　岡城
 9番　左　井坪</p>
+        <a href="https://twitter.com/aRiO_so69/status/1985172522980311305" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="RuiTigers06" data-text="谷端は将伍の方で名前の強さを十分保管できてると思ってる">
         <h3><a href="https://twitter.com/RuiTigers06/status/1985190006491869693" target="_blank">@RuiTigers06</a></h3>
         <p class="date">Invalid Date</p>
         <p class="tweet-text">谷端は将伍の方で名前の強さを十分保管できてると思ってる</p>
+        <a href="https://twitter.com/RuiTigers06/status/1985190006491869693" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="tokyo334314" data-text="立石がスタメン獲るのは当たり前として中川、谷端、百崎、髙寺が坂本、大山、中野を来年脅かしてほしいね
 3,4年後には大山、中野が恐怖の代打陣を担っているのが理想だよね
@@ -126,6 +161,7 @@
 3,4年後には大山、中野が恐怖の代打陣を担っているのが理想だよね
 今の阪神のメインコアは佐藤輝、近本、森下で上記の3人はサブコアって感じかな
 やっぱりレベルの高いスタメン争いが観たいよね</p>
+        <a href="https://twitter.com/tokyo334314/status/1985190074729079169" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="tokyo334314" data-text="捕手　中川／坂本
 一塁　百崎／大山
@@ -149,6 +185,7 @@
 右翼　？
 ＤＨ　谷端／大山
 超希望的観測だけど3,4年後の阪神はこんな感じかな、佐藤輝明と森下はメジャーに行ってるだろうし</p>
+        <a href="https://twitter.com/tokyo334314/status/1985194783242133648" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="akip162755" data-text="ショートに谷端を守らせようとしてる時点でちゃんと大学野球見てない。サードすらプロで守れるか怪しい守備してるので。お試しショートしてた時の守備は言わずもがな。谷端守らせるなら足も肩も使えて大学日本でも守ってたレフト。
 あとサトテルはサード上手くなったけどそれより外野守備の方が上手い https://t.co/Vlj8mb0QQh">
@@ -156,6 +193,7 @@
         <p class="date">Invalid Date</p>
         <p class="tweet-text">ショートに谷端を守らせようとしてる時点でちゃんと大学野球見てない。サードすらプロで守れるか怪しい守備してるので。お試しショートしてた時の守備は言わずもがな。谷端守らせるなら足も肩も使えて大学日本でも守ってたレフト。
 あとサトテルはサード上手くなったけどそれより外野守備の方が上手い https://t.co/Vlj8mb0QQh</p>
+        <a href="https://twitter.com/akip162755/status/1985233903838466217" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="AniQgVZSxr62725" data-text="ショート谷端とか言ってる時点で大学野球何も見てないだろ
 理想論で語りすぎ https://t.co/wmVVN0teTM">
@@ -163,6 +201,7 @@
         <p class="date">Invalid Date</p>
         <p class="tweet-text">ショート谷端とか言ってる時点で大学野球何も見てないだろ
 理想論で語りすぎ https://t.co/wmVVN0teTM</p>
+        <a href="https://twitter.com/AniQgVZSxr62725/status/1985247207310987359" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="RealThorMadae" data-text="@UC0079char ホークスはパの中でも直球剛球の多いチームだと思うから、変化球投手の失投狙い撃ちばっかりやってた今年の阪神には致命的に相性が悪かったね。
 来年は立石も谷端も即戦力として頑張ってもらわないと。">
@@ -170,6 +209,7 @@
         <p class="date">Invalid Date</p>
         <p class="tweet-text">@UC0079char ホークスはパの中でも直球剛球の多いチームだと思うから、変化球投手の失投狙い撃ちばっかりやってた今年の阪神には致命的に相性が悪かったね。
 来年は立石も谷端も即戦力として頑張ってもらわないと。</p>
+        <a href="https://twitter.com/RealThorMadae/status/1985248408148541554" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="gaddem5525" data-text="んで2028年の理想打線がこれ
 
@@ -203,6 +243,7 @@
 森下は多分メジャーいくなら2028オフ以降にして欲しい　ただ3割30本100打点残せたら話は別やけど
 
 #ドラフト #Tigers #阪神</p>
+        <a href="https://twitter.com/gaddem5525/status/1985252299732901931" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="jun_sky_walkers" data-text="攻撃的オーダーにする
 中野をショート
@@ -230,16 +271,19 @@ https://t.co/B1J67cCfzU">
 阪神ドラ１立石はどこで出場するのか本職は二塁と三塁　チームには中野と佐藤　球団幹部は「内野で」と明言
 #Yahooニュース
 https://t.co/B1J67cCfzU</p>
+        <a href="https://twitter.com/jun_sky_walkers/status/1985278868362772553" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="sunafukin668117" data-text="@tigerschannel72 しかも谷端の方が評価高いし(阪神側調べ)">
         <h3><a href="https://twitter.com/sunafukin668117/status/1985290584517685539" target="_blank">@sunafukin668117</a></h3>
         <p class="date">Invalid Date</p>
         <p class="tweet-text">@tigerschannel72 しかも谷端の方が評価高いし(阪神側調べ)</p>
+        <a href="https://twitter.com/sunafukin668117/status/1985290584517685539" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="zetuyuru7" data-text="@VIiZZ_CH @ty24_st12_gia @yakyujinsan 谷端は大学生の中でも3塁守備は下手寄りで2塁は明確に下手です。ちなみに大学3年は23試合で9失策、4年春は13試合で4失策とちゃんと下手です。ただその分、バッティングはいいので、すぐ使うならバッティングを活かす起用法になると思います。">
         <h3><a href="https://twitter.com/zetuyuru7/status/1985292556377432393" target="_blank">@zetuyuru7</a></h3>
         <p class="date">Invalid Date</p>
         <p class="tweet-text">@VIiZZ_CH @ty24_st12_gia @yakyujinsan 谷端は大学生の中でも3塁守備は下手寄りで2塁は明確に下手です。ちなみに大学3年は23試合で9失策、4年春は13試合で4失策とちゃんと下手です。ただその分、バッティングはいいので、すぐ使うならバッティングを活かす起用法になると思います。</p>
+        <a href="https://twitter.com/zetuyuru7/status/1985292556377432393" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="HVK5xGOubZgreie" data-text="とらほ〜🐯🐯🐯
 
@@ -265,6 +309,7 @@ https://t.co/B1J67cCfzU</p>
 #阪神タイガース
 
  https://t.co/aJKYYjBiSa</p>
+        <a href="https://twitter.com/HVK5xGOubZgreie/status/1985305058393964994" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="takoball221" data-text="今後のイベント
 11月
@@ -282,6 +327,7 @@ NPBアワード
 現役ドラフト
 阪神入団会見
 サンテレビでドラ1立石＆ドラ2谷端のインタビュー。</p>
+        <a href="https://twitter.com/takoball221/status/1985321742487912578" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="minte34" data-text="【阪神2位】#39 日本大学　谷端将伍選手について
 https://t.co/MVcd2AKQRq">
@@ -289,6 +335,7 @@ https://t.co/MVcd2AKQRq">
         <p class="date">Invalid Date</p>
         <p class="tweet-text">【阪神2位】#39 日本大学　谷端将伍選手について
 https://t.co/MVcd2AKQRq</p>
+        <a href="https://twitter.com/minte34/status/1985321977884864803" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="91xoooo" data-text="🐯なんでルーキーの立石や谷端が内野で気持ち良くプレーできるために天下の阪神のサード佐藤輝が外野を守らないといけないんだよ
 🐯なんでそれを推奨してる阪神ファンが多いんだよ
@@ -302,6 +349,7 @@ https://t.co/MVcd2AKQRq</p>
 🐯ふざけるなって思うわ
 🐯勝つためなら佐藤輝の気持ちなど考えない阪神ファンの気が知れない
 #阪神タイガース</p>
+        <a href="https://twitter.com/91xoooo/status/1985338120188142008" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="lsdw_w" data-text="テルと村上がメジャー行ったあとの阪神とヤクルトの中軸が森下立石谷端×北村松下内山なの良すぎる
 
@@ -311,6 +359,7 @@ https://t.co/MVcd2AKQRq</p>
         <p class="tweet-text">テルと村上がメジャー行ったあとの阪神とヤクルトの中軸が森下立石谷端×北村松下内山なの良すぎる
 
 中大同期×同世代ライバル×星稜先輩後輩</p>
+        <a href="https://twitter.com/lsdw_w/status/1985346462583230551" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="geki_sen" data-text="@sanspooskseiri 立石をサードや外野にもっていくなんて、ありきたりな事をすれば、阪神の発想力も底が知れてるわな。
 谷端ふくめショートを試すくらいの冒険心がなければ、ソフトバンクにはおいつけないだろう。新庄監督はサード清宮などを冒険心を大いにふるって試している。それくらいにならないと、阪神も">
@@ -318,6 +367,7 @@ https://t.co/MVcd2AKQRq</p>
         <p class="date">Invalid Date</p>
         <p class="tweet-text">@sanspooskseiri 立石をサードや外野にもっていくなんて、ありきたりな事をすれば、阪神の発想力も底が知れてるわな。
 谷端ふくめショートを試すくらいの冒険心がなければ、ソフトバンクにはおいつけないだろう。新庄監督はサード清宮などを冒険心を大いにふるって試している。それくらいにならないと、阪神も</p>
+        <a href="https://twitter.com/geki_sen/status/1985371859165298884" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="Celticmythology" data-text="？？？？？
 
@@ -329,6 +379,7 @@ https://t.co/YZKsSYA4cC">
 
 〉宮下朝陽（DeNA3位）、繁永晟（楽天3位）、秋山俊（西武3位）、桜井ユウヤ（ロッテ4位）が打撃に特長ある選手に該当する。彼らは谷端将伍（阪神2位）に比べると評価が低く、前出のスカウトが指摘する「計算が狂った球団」とは、この4球団のことだと言えそうだ
 https://t.co/YZKsSYA4cC</p>
+        <a href="https://twitter.com/Celticmythology/status/1985559167671972095" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="mdmFxdINb6v5XLd" data-text="#阪神タイガース
 金本監督以降の大学社会人野手
@@ -380,11 +431,13 @@ https://t.co/YZKsSYA4cC</p>
 立石(新人)
 谷端(新人)
 岡城(新人)</p>
+        <a href="https://twitter.com/mdmFxdINb6v5XLd/status/1985598104532623658" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="tokyo334314" data-text="@WhZsb1iXEE36316 谷端がショートでは一軍戦力にならないことはわかりますよね？現状の阪神では一三塁を守れる選手は1人（立石）でまだ大丈夫なんですよ。それよりも一軍ショートの絶対的な選手の不在＋前に述べたデプスの薄さのほうが深刻だと思います。">
         <h3><a href="https://twitter.com/tokyo334314/status/1985601284041515021" target="_blank">@tokyo334314</a></h3>
         <p class="date">Invalid Date</p>
         <p class="tweet-text">@WhZsb1iXEE36316 谷端がショートでは一軍戦力にならないことはわかりますよね？現状の阪神では一三塁を守れる選手は1人（立石）でまだ大丈夫なんですよ。それよりも一軍ショートの絶対的な選手の不在＋前に述べたデプスの薄さのほうが深刻だと思います。</p>
+        <a href="https://twitter.com/tokyo334314/status/1985601284041515021" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="sylphyeedagain" data-text="来年の内野手争いが楽しみ。
 
@@ -408,6 +461,7 @@ https://t.co/YZKsSYA4cC</p>
 秋季キャンプはそれでいい。
 
 #阪神</p>
+        <a href="https://twitter.com/sylphyeedagain/status/1985625619888312686" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="tokyo334314" data-text="@WhZsb1iXEE36316 阪神の編成がチームの核となるに値する選手が来るまで我慢する方針であることは理解できます
 ただいくらなんでもレギュラーもいない、デプスも薄いポジションをここ2,3年放っといたままにしてるのはまずいのではと
@@ -417,11 +471,13 @@ https://t.co/YZKsSYA4cC</p>
         <p class="tweet-text">@WhZsb1iXEE36316 阪神の編成がチームの核となるに値する選手が来るまで我慢する方針であることは理解できます
 ただいくらなんでもレギュラーもいない、デプスも薄いポジションをここ2,3年放っといたままにしてるのはまずいのではと
 右のスラッガーは今年に関しては立石だけで十分です、谷端出るポジションないですもん</p>
+        <a href="https://twitter.com/tokyo334314/status/1985633331837616136" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="CYaRon68" data-text="@dm9zqPljco95035 谷端将伍選手お願いしたいです！">
         <h3><a href="https://twitter.com/CYaRon68/status/1985649461780234322" target="_blank">@CYaRon68</a></h3>
         <p class="date">Invalid Date</p>
         <p class="tweet-text">@dm9zqPljco95035 谷端将伍選手お願いしたいです！</p>
+        <a href="https://twitter.com/CYaRon68/status/1985649461780234322" target="_blank" class="tweet-link">Xで見る</a>
       </div>
       <div class="tweet-item" data-username="ane1786074" data-text="2027年
 1番　中　近本光司or福島？岡城？
@@ -445,6 +501,7 @@ https://t.co/YZKsSYA4cC</p>
 7番　捕　坂本誠志郎or嶋村？
 8番　遊　髙寺望夢or山田？百崎？
 9番　指　谷端将伍　or 中川？前川？</p>
+        <a href="https://twitter.com/ane1786074/status/1985771028669481431" target="_blank" class="tweet-link">Xで見る</a>
       </div>
     </div>
   </section>
