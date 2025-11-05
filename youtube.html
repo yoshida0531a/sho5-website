@@ -13,6 +13,19 @@
       font-family: 'Poppins', sans-serif;
       background-color: white; color: black;
     }
+    .top-link {
+      position: fixed;
+      top: 10px;
+      left: 20px;
+      font-size: 24px;
+      color: black;
+      text-decoration: none;
+      z-index: 1000;
+      font-family: Arial, sans-serif;
+    }
+    .top-link:hover {
+      text-decoration: underline;
+    }
     header {
       text-align: center; font-size: 28px;
       font-weight: bold; margin: 20px 0;
@@ -40,10 +53,27 @@
       margin: 10px 0; font-size: 14px; line-height: 1.5;
       max-height: 90px; overflow: hidden;
     }
+    .video-link {
+      display: inline-block;
+      margin: 12px 0;
+      padding: 8px 16px;
+      background-color: transparent;
+      color: #000;
+      text-decoration: none;
+      border: 2px solid #000;
+      border-radius: 5px;
+      font-size: 14px;
+      transition: all 0.3s ease;
+    }
+    .video-link:hover {
+      background-color: #000;
+      color: #fff;
+    }
     footer { text-align: center; font-size: 12px; margin: 20px 0; }
   </style>
 </head>
 <body>
+  <a href="index.html" class="top-link">←</a>
   <header>YouTube Updates</header>
   <section class="video-feed">
     <input type="text" id="search" placeholder="Search videos...">
@@ -52,16 +82,19 @@
         <h3><a href="https://www.youtube.com/watch?v=H-lrZS-L-pE" target="_blank">阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。</a></h3>
         <p class="date">Invalid Date</p>
         <p class="description">セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...</p>
+        <a href="https://www.youtube.com/watch?v=H-lrZS-L-pE" target="_blank" class="video-link">Youtubeで見る</a>
       </div>
       <div class="video-item" data-title="【阪神2位】#39 日本大学　谷端将伍選手について" data-description="星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。">
         <h3><a href="https://www.youtube.com/watch?v=l214x-deVZM" target="_blank">【阪神2位】#39 日本大学　谷端将伍選手について</a></h3>
         <p class="date">Invalid Date</p>
         <p class="description">星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。</p>
+        <a href="https://www.youtube.com/watch?v=l214x-deVZM" target="_blank" class="video-link">Youtubeで見る</a>
       </div>
       <div class="video-item" data-title="立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク" data-description="おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...">
         <h3><a href="https://www.youtube.com/watch?v=yRk59YXgrP0" target="_blank">立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク</a></h3>
         <p class="date">Invalid Date</p>
         <p class="description">おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...</p>
+        <a href="https://www.youtube.com/watch?v=yRk59YXgrP0" target="_blank" class="video-link">Youtubeで見る</a>
       </div>
     </div>
   </section>
