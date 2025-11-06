@@ -1,0 +1,10 @@
+[
+  {
+    "title": "【阪神】ドラフト2位・谷端将伍がガチで即戦力すぎるｗ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hbQtgB4UgQQ",
+    "publishedAt": "November 7, 2025 at 12:21AM",
+    "description": "阪神タイガース、ドラフト2位・谷端将伍がガチで即戦力すぎるｗ.",
+    "keyword": "谷端 阪神"
+  }
+]
