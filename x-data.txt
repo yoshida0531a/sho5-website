@@ -2254,5 +2254,95 @@
     "userName": "akairokiro",
     "tweetUrl": "https://twitter.com/akairokiro/status/1986161626211586480",
     "createdAt": "November 06, 2025 at 05:00AM"
+  },
+  {
+    "text": "【阪神・前川右京、D1位・立石に開幕スタメン譲らん】\n\nドラフト会議で1位・立石正広、2位・谷端将伍、3位・岡城快生と、上位3人まで2003年生まれ（谷端は04年で早生まれ）の大卒野手を指名。同学年の選手に対して、プロで学び戦ってきた意地がある\n\n#前川右京\nhttps://t.co/5tFXxy6epV",
+    "userName": "X9LzSd1Orh78942",
+    "tweetUrl": "https://twitter.com/X9LzSd1Orh78942/status/1986202224314491183",
+    "createdAt": "November 06, 2025 at 07:41AM"
+  },
+  {
+    "text": "谷端将伍\n\n日大と日本代表では#6を着用\n目標とした森下翔太の中大時代の番号で愛着があり、幼少から憧れた金本知憲の番号でもある#6を将来的には着けたい模様\n\n阪神はドラフト2位以降の選手に一桁を当てがうケースが稀な球団ということもあり、ドラフト2位の谷端は#25が有力な気がする https://t.co/0imWLXU7jx",
+    "userName": "kobayakawaracy",
+    "tweetUrl": "https://twitter.com/kobayakawaracy/status/1986223062191382825",
+    "createdAt": "November 06, 2025 at 09:04AM"
+  },
+  {
+    "text": "阪神球団スタッフが、ドラフト2位に指名した谷端将伍さんに指名挨拶のため経済学部に来校されました。(10月25日) https://t.co/BbhTwosIlh",
+    "userName": "Nichidai_keizai",
+    "tweetUrl": "https://twitter.com/Nichidai_keizai/status/1986253700244107348",
+    "createdAt": "November 06, 2025 at 11:05AM"
+  },
+  {
+    "text": "野球は守りやろぅ\nおぉぉん\nって岡田御大に怒られそうですが…\n\n2027超攻撃型スタメン\n\n8近本光司\n6中野拓夢\n9森下翔太\n5佐藤輝明\n3大山悠輔\nD前川右京\n7立石正広\n4谷端将伍\n2嶋村麟士郎\n\nあくまでも妄想ですから🙃",
+    "userName": "5001coffee",
+    "tweetUrl": "https://twitter.com/5001coffee/status/1986259142072541286",
+    "createdAt": "November 06, 2025 at 11:27AM"
+  },
+  {
+    "text": "@sponichi_endo 阪神は、元山飛優（ひゆう）いるの？\n\n使わないなら獲得しないでよ！\n\n立石、谷端、岡城がいるのに元山獲得して何処で使うの？",
+    "userName": "40b9yfRWTovnqJH",
+    "tweetUrl": "https://twitter.com/40b9yfRWTovnqJH/status/1986275456753279001",
+    "createdAt": "November 06, 2025 at 12:32PM"
+  },
+  {
+    "text": "阪神 主な来季レギュラー争い\n\n（捕）坂本、梅野、榮枝、中川、嶋村\n（一）大山、谷端、井上\n（二）中野\n（遊）髙寺、小幡、木浪、山田、熊谷\n（三）佐藤輝、立石、谷端\n（左）前川、立石、髙寺、中川、井上\n（中）近本\n（右）森下\n\n激戦区はショートとレフトやね…！\nファーストも争って欲しい。",
+    "userName": "fo42059",
+    "tweetUrl": "https://twitter.com/fo42059/status/1986279988145102997",
+    "createdAt": "November 06, 2025 at 12:50PM"
+  },
+  {
+    "text": "ﾏｲﾅﾋﾞｵｰﾙｽﾀｰ\n能登半島地震の被災地復興支援\n石川県富山県枠があるなら\n\n奥川恭伸（星稜~ﾔｸﾙﾄ\n山瀬慎之介（星稜~読売\n森田駿哉（富山商~読売\n内山壮真（富.星稜~ﾔｸﾙﾄ\n山崎颯一郎（石.敦賀気比~オリ\n齋藤大翔（金沢高~西武\n谷端将伍（星稜~日大~阪神\n岩城颯空（富山商~中大~西武\nから https://t.co/QzJ1scFTcN https://t.co/bDf4Si2h1H",
+    "userName": "H_I_T_03_plus_1",
+    "tweetUrl": "https://twitter.com/H_I_T_03_plus_1/status/1986308064551837716",
+    "createdAt": "November 06, 2025 at 02:42PM"
+  },
+  {
+    "text": "@tigerschannel72 糸井さんが推してる輝に【7】\n大学で着けていた【8】は立石くん\n谷端は【9】岡城は【25】\n早瀬【49】→大竹【17】\n能登【15】純矢(育成なら115)\n石井【19】→下村(支配下なら【69】\n(育成なら【119】)\n村上【21】\nこれが理想かも",
+    "userName": "usagimania777",
+    "tweetUrl": "https://twitter.com/usagimania777/status/1986336444676485445",
+    "createdAt": "November 06, 2025 at 04:34PM"
+  },
+  {
+    "text": "@Hanshinfunda 内野だろ！\n\n現阪神の内野手※\n大山、中野、小幡、木浪、てる、立石、谷端、糸原、モーチョ、熊谷、植田\n\nこんなにも内野手がいて元山！？\n\nこの※の選手に元山は勝てるの？",
+    "userName": "40b9yfRWTovnqJH",
+    "tweetUrl": "https://twitter.com/40b9yfRWTovnqJH/status/1986353158977986736",
+    "createdAt": "November 06, 2025 at 05:41PM"
+  },
+  {
+    "text": "阪神ファンの居酒屋の大将が谷端は打ちそうな顔してる。立石は打つだろうけど顔だけ見てたら打てなさそうな顔してる。岡城は阪神顔やなぁだって。妙に納得した。",
+    "userName": "sppken",
+    "tweetUrl": "https://twitter.com/sppken/status/1986371600049119408",
+    "createdAt": "November 06, 2025 at 06:54PM"
+  },
+  {
+    "text": "日大は来週、実籾で新チーム始動みたいやね😉\n今月末あたりからオープン戦もあるかな😊\n投打の柱である市川祐（④関東一）、谷端将伍（④星稜）さらに山中海斗（④木更津総合）に川崎大也（④佐野日大）ほか精神的支柱の4年が抜ける極めて厳しい状況！\nしかし、逆に現役はチャンスや！ https://t.co/hOANaasjXx",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/1986381118443282549",
+    "createdAt": "November 06, 2025 at 07:32PM"
+  },
+  {
+    "text": "現役ドラフト、良さげな選手を出して良さげな選手をもらう阪神の戦略　＆　立石・谷端・岡城の右打者三銃士ドラフト　＆　２年目コンスエグラと打者転向の西純矢という面白素材　をまとめると、やっぱり一番濃厚なのは井上なのかなあ",
+    "userName": "sinA0202",
+    "tweetUrl": "https://twitter.com/sinA0202/status/1986388266938212636",
+    "createdAt": "November 06, 2025 at 08:00PM"
+  },
+  {
+    "text": "和田ヘッドは是非日大の後輩である谷端選手の指導を https://t.co/EXOuOgWi6R",
+    "userName": "3mYwe2srJTupr74",
+    "tweetUrl": "https://twitter.com/3mYwe2srJTupr74/status/1986400747714646109",
+    "createdAt": "November 06, 2025 at 08:50PM"
+  },
+  {
+    "text": "【5年後の阪神のスタメン】\n１　中　岡城　 \n２　遊　高寺　 \n３　右　井坪 \n４　三　立石 \n５　DH  前川 \n６　左　中川 \n７　一　谷端 \n８　補　渡部海・嶋村 \n９　二　百崎\n\nこうあってほしい。。。🙏🙏🙏",
+    "userName": "hakuma46",
+    "tweetUrl": "https://twitter.com/hakuma46/status/1986436186878214457",
+    "createdAt": "November 06, 2025 at 11:11PM"
+  },
+  {
+    "text": "来季の阪神楽しみ\n・テル、森下のさらなる成長\n・立石、谷端\n・山田、百崎の一軍昇格争い\n・和田豊ヘッド\n\nなお、チケットは今季並かそれ以上に取れなくなると予想。",
+    "userName": "4JXZCHsIgU16996",
+    "tweetUrl": "https://twitter.com/4JXZCHsIgU16996/status/1986457574829634047",
+    "createdAt": "November 07, 2025 at 12:36AM"
   }
 ]
