@@ -2344,5 +2344,29 @@
     "userName": "4JXZCHsIgU16996",
     "tweetUrl": "https://twitter.com/4JXZCHsIgU16996/status/1986457574829634047",
     "createdAt": "November 07, 2025 at 12:36AM"
+  },
+  {
+    "text": "そして2028年の理想打線\n\n中　近本　岡城\n遊　緒方or高中or助っ人\n右　森下\n三　立石\n指　助っ人\n一　谷端　大山\n左　中塚or青山\n捕　中川or新人捕手(渡部or前嶋)\n二　中野\n投　門別　今朝丸\n\n助っ人とドラフトさえ上手くいけば、世代交代がしっかりできた打線\n\n#Tigers #阪神 https://t.co/nX3s0qZV0P",
+    "userName": "gaddem5525",
+    "tweetUrl": "https://twitter.com/gaddem5525/status/1986663264118538513",
+    "createdAt": "November 07, 2025 at 02:13PM"
+  },
+  {
+    "text": "元山はいらない・・・ぶっちゃけ若い木浪が増えたようなもんにしかならない気する。いや・・・木浪になればいいか\n\n元山とるくらいなら少し頑張って石井一成取った方がいい、もしくは谷端・立石のどっちかセカンドさせればいい\nわざわざ今の阪神が戦力外から拾う必要ないんだよね",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/1986684214855848127",
+    "createdAt": "November 07, 2025 at 03:36PM"
+  },
+  {
+    "text": "立石は勿論の事２位の谷端も評価高い記事あったし内野は大変だわ\n高寺は二遊間で勝負して欲しい\n谷端次第では小幡中野もウカウカしてられんで\n\n阪神・高寺望夢、己の道を突き進む！来季は創価大・立石正広加入で定位置争い激化も「まずは自分の課題を」\nhttps://t.co/UkFn8CTZgF",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/1986733594195493308",
+    "createdAt": "November 07, 2025 at 06:52PM"
+  },
+  {
+    "text": "11月8日おはようございます\n\n阪神•藤川監督が秋季キャンプで来季高卒\n3年目となる山田•百崎に「練習の形が\nいい」と賛辞を発しました\n\n両選手とも来季は一軍デビューが見られ\nるだけでなくレギュラーの一角に入って\nくると予想します\n\n立石•谷端の新人も加えた来季内野布陣が\nどうなるか楽しみです",
+    "userName": "gDm4ejQaHf92568",
+    "tweetUrl": "https://twitter.com/gDm4ejQaHf92568/status/1986857764107526449",
+    "createdAt": "November 08, 2025 at 03:06AM"
   }
 ]
