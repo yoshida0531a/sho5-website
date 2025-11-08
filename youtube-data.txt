@@ -5,7 +5,7 @@
       "title": "阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。",
       "channel": "",
       "url": "https://www.youtube.com/watch?v=H-lrZS-L-pE",
-      "publishedAt": "2024-11-05T09:00:00",
+      "publishedAt": "2025-11-05T09:00:00",
       "description": "セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...",
       "keyword": "谷端 阪神"
     },
