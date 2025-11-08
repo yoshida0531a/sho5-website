@@ -6,5 +6,13 @@
     "publishedAt": "November 7, 2025 at 12:21AM",
     "description": "阪神タイガース、ドラフト2位・谷端将伍がガチで即戦力すぎるｗ.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍（阪神タイガース）ヒット集、守備機会",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=k177AqlM2cY",
+    "publishedAt": "November 8, 2025 at 10:26AM",
+    "description": "谷端将伍 #阪神タイガース #2025年ドラフト候補 #日本大学 #ドラフト2位.",
+    "keyword": "谷端 阪神"
   }
 ]
