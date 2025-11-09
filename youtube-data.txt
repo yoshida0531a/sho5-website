@@ -13,7 +13,7 @@
       "title": "【阪神2位】#39 日本大学　谷端将伍選手について",
       "channel": "",
       "url": "https://www.youtube.com/watch?v=l214x-deVZM",
-      "publishedAt": "2024-11-04T15:00:00",
+      "publishedAt": "2025-11-04T15:00:00",
       "description": "星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。",
       "keyword": "谷端 阪神"
     },
@@ -21,7 +21,7 @@
       "title": "立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク",
       "channel": "",
       "url": "https://www.youtube.com/watch?v=yRk59YXgrP0",
-      "publishedAt": "2024-11-03T12:00:00",
+      "publishedAt": "2025-11-03T12:00:00",
       "description": "おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...",
       "keyword": "谷端 阪神"
     },
