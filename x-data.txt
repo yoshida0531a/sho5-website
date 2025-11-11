@@ -2452,5 +2452,11 @@
     "userName": "ey81qrJpQM70405",
     "tweetUrl": "https://twitter.com/ey81qrJpQM70405/status/1987948160053113021",
     "createdAt": "November 11, 2025 at 03:19AM"
+  },
+  {
+    "text": "近本残留\nこれでセリーグはもう少し阪神の時代が続きそうね\n立石谷端が戦力化したらいよいよだ",
+    "userName": "Eagles6530",
+    "tweetUrl": "https://twitter.com/Eagles6530/status/1988228154432041268",
+    "createdAt": "November 11, 2025 at 09:51PM"
   }
 ]
