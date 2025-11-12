@@ -22,5 +22,85 @@
     "publishedAt": "November 9, 2025 at 07:01PM",
     "description": "【阪神ドラフト2位】谷端将伍 スタメン 阪神 vs 巨人【プロスピ2025】【プロ野球スピリッツ2024-2025】【2025年ドラフト】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神D2位・谷端将伍「勝負の世界に入るんだ」契約金7000万円、年俸1200万円で仮契約",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=36uUkMaZd_M",
+    "publishedAt": "November 12, 2025 at 05:58PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=LQTVBrlfCSc",
+    "publishedAt": "November 12, 2025 at 06:05PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾🐯✨阪神ドラフト2位・谷端陸が仮契約！「勝負の世界に入るんだなって」契約金7000万円・年俸1200万円でプロの舞台へ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=s1itjkCtLE8",
+    "publishedAt": "November 12, 2025 at 06:34PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=7VnuK0vVK2I",
+    "publishedAt": "November 12, 2025 at 06:39PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=OkuNfG5xbv4",
+    "publishedAt": "November 12, 2025 at 07:11PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・安打製造機のドラフト2位・谷端将伍が仮契約！契約金と年俸は？【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2t1HBDziqK4",
+    "publishedAt": "November 12, 2025 at 09:10PM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #ドラフト２位 #谷端将伍 #仮契約 #安打製造機 #阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾️中日ドラ2・谷端陸が仮契約！💰契約金7000万円でプロの世界へ🔥「勝負の世界に入るんだなという気持ち」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=uJdph90gaC4",
+    "publishedAt": "November 12, 2025 at 09:42PM",
+    "description": "青山学院大のエース右腕・谷端陸投手が中日ドラゴンズと仮契約✨ 契約金7000万円・年俸1200万円（推定）でプロの世界へ⚾️ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🎤😅🥰阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Zzw9Nf0NIOo",
+    "publishedAt": "November 13, 2025 at 12:29AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=j9ymu6g6Sio",
+    "publishedAt": "November 13, 2025 at 12:37AM",
+    "description": "阪神 ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」 契約金７０００万円 年俸１２００万円.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯💪【阪神ドラ２】谷端将伍「憧れの先輩にも負けない！」🔥✨ GG賞戦士たちの背中を追う若き挑戦者⚾🌟",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_0VxOyamy3o",
+    "publishedAt": "November 13, 2025 at 06:24AM",
+    "description": "阪神ドラフト2位・谷端将伍選手が、憧れの先輩たちに挑む強い決意を語った  ✨ 「憧れの存在でも負けないように」と語るその ...",
+    "keyword": "谷端 阪神"
   }
 ]
