@@ -2740,5 +2740,179 @@
     "userName": "SANSPOCOM",
     "tweetUrl": "https://twitter.com/SANSPOCOM/status/1988717648516100438",
     "createdAt": "November 13, 2025 at 06:16AM"
+  },
+  {
+    "text": "阪神　ドラ2谷端将伍がGGコンビに挑戦状「レギュラーをつかみ取るような強い気持ちで」 - スポニチ Sponichi Annex 野球 https://t.co/NNC8mewlg8",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/1988730605241344059",
+    "createdAt": "November 13, 2025 at 07:08AM"
+  },
+  {
+    "text": "谷端は二、三塁だけではなく、外野も守れるが、今季、虎は7人がGG賞を受賞🐯\n守備力も高くないとレギュラーは厳しい🚊\n\n阪神ドラ２谷端　虎の顔になる！憧れ金本氏から激励サイン色紙　本職二塁、三塁にはＧＧ賞の中野＆輝「先輩方に負けないように」（デイリースポーツ） https://t.co/hssPUfiboV",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/1988732924402012494",
+    "createdAt": "November 13, 2025 at 07:17AM"
+  },
+  {
+    "text": "阪神ドラフト2位・谷端将伍選手が仮契約、 GG賞コンビ中野＆佐藤輝両選手に挑戦「レギュラーつかみ取る」\n#hanshin #ドラフト会議 \n\n https://t.co/qoXlujxq4i",
+    "userName": "draft_kaigi",
+    "tweetUrl": "https://twitter.com/draft_kaigi/status/1988734607769104427",
+    "createdAt": "November 13, 2025 at 07:24AM"
+  },
+  {
+    "text": "阪神ドラ２谷端　虎の顔になる！憧れ金本氏から激励サイン色紙　本職二塁、三塁にはＧＧ賞の中野＆輝「先輩方に負けないように」(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/62qujiGxKV \n\nレギュラー奪取に向けてキャンプはまずダッシュで下半身強化だ！頑張れ！星稜魂！",
+    "userName": "koushienmsms",
+    "tweetUrl": "https://twitter.com/koushienmsms/status/1988734679403622437",
+    "createdAt": "November 13, 2025 at 07:24AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、Gグラブの壁破る！　東都の安打製造機が宣戦布告「レギュラーつかみ取る」／仮契約（1/2ページ） - サンスポ https://t.co/0hDquEhz2e @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/1988739161504039001",
+    "createdAt": "November 13, 2025 at 07:42AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、Gグラブの壁破る！　東都の安打製造機が宣戦布告「レギュラーつかみ取る」／仮契約（サンケイスポーツ） https://t.co/fi9BWJqz5k",
+    "userName": "moto_tigers",
+    "tweetUrl": "https://twitter.com/moto_tigers/status/1988739802569797893",
+    "createdAt": "November 13, 2025 at 07:44AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「憧れの存在でも負けないよう」GG賞獲得の大先輩たちの背中追いかける\n\n【PR】DMM × DAZNホーダイで、観たいスポーツも観たいドラマも映画もアニメも、ぜんぶ一つに！ https://t.co/nlBUXtNwpO\nhttps://t.co/vIgoLqHJIx",
+    "userName": "9dazdm1",
+    "tweetUrl": "https://twitter.com/9dazdm1/status/1988739916155744328",
+    "createdAt": "November 13, 2025 at 07:45AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、Gグラブの壁破る！　東都の安打製造機が宣戦布告「レギュラーつかみ取る」／仮契約(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/dsNBIhmo1c",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/1988745948709941317",
+    "createdAt": "November 13, 2025 at 08:09AM"
+  },
+  {
+    "text": "阪神ドラ２谷端　虎の顔になる！憧れ金本氏から激励サイン色紙　本職二塁、三塁にはＧＧ賞の中野＆輝「先輩方に負けないように」/阪神タイガース/デイリースポーツ online https://t.co/sMb4cxV6dE #阪神 #tigers #タイガース #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/1988747736049652060",
+    "createdAt": "November 13, 2025 at 08:16AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「憧れの存在でも負けないよう」GG賞獲得の大先輩たちの背中追いかける https://t.co/8Nwr8lU8eh",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/1988749381638713827",
+    "createdAt": "November 13, 2025 at 08:22AM"
+  },
+  {
+    "text": "阪神　ドラ2谷端将伍がGGコンビに挑戦状「レギュラーをつかみ取るような強い気持ちで」(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/9NDPfUtIID",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/1988750822960923010",
+    "createdAt": "November 13, 2025 at 08:28AM"
+  },
+  {
+    "text": "今の阪神にこれ以上小粒な二遊間要らんのだが。元山登録するなら木浪や糸原は外してくれよ。それより百崎とか佐野とか谷端とかにチャンス与えてくれ。 https://t.co/2xMUzlYS7Z",
+    "userName": "zxEy1mwRx4zjQ32",
+    "tweetUrl": "https://twitter.com/zxEy1mwRx4zjQ32/status/1988754006760710254",
+    "createdAt": "November 13, 2025 at 08:41AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、Gグラブの壁破る！　東都の安打製造機が宣戦布告「レギュラーつかみ取る」／仮契約(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/ZEzIGkTsoZ",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/1988755732041498825",
+    "createdAt": "November 13, 2025 at 08:48AM"
+  },
+  {
+    "text": "阪神ドラ２谷端　虎の顔になる！憧れ金本氏から激励サイン色紙　本職二塁、三塁にはＧＧ賞の中野＆輝「先輩方に負けないように」(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/BYFGHQm37g",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/1988756005921124663",
+    "createdAt": "November 13, 2025 at 08:49AM"
+  },
+  {
+    "text": "星稜欲しいならドラ2で谷端取れよ",
+    "userName": "John____Smyth",
+    "tweetUrl": "https://twitter.com/John____Smyth/status/1988770715064263084",
+    "createdAt": "November 13, 2025 at 09:47AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、\nGグラブの壁破る！　\n「レギュラーつかみ取る」（サンケイスポーツ）  https://t.co/yJMydvpFz8\n立石選手獲得で\nチームとしては\n100点のドラフトなんだろうけど\n課題のショート(日ハムドラ３など)でなくポジション被りの\nドラ２\nさすが阪神スカウトとなるか？\n#ドラフト会議2025",
+    "userName": "SFbVKWBSGF64853",
+    "tweetUrl": "https://twitter.com/SFbVKWBSGF64853/status/1988773499264266479",
+    "createdAt": "November 13, 2025 at 09:58AM"
+  },
+  {
+    "text": "【記事全文】阪神　ドラ2谷端将伍がGGコンビに挑戦状「レギュラーをつかみ取るような強い気持ちで」 - スポニチ Sponichi Annex 野球 https://t.co/pC3Yy1Tuzi",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/1988775121243500935",
+    "createdAt": "November 13, 2025 at 10:05AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、Gグラブの壁破る！　東都の安打製造機が宣戦布告「レギュラーつかみ取る」／仮契約(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/n662MsSZiD",
+    "userName": "kawapan5773",
+    "tweetUrl": "https://twitter.com/kawapan5773/status/1988782487754141851",
+    "createdAt": "November 13, 2025 at 10:34AM"
+  },
+  {
+    "text": "ドラ2 谷端将伍が仮契約✍️\n\nドラ1 立石正広とポジション被るな\n\nどちらかコンバートある？",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/1988783885631779182",
+    "createdAt": "November 13, 2025 at 10:40AM"
+  },
+  {
+    "text": "【記事全文】阪神　ドラ2谷端将伍がGGコンビに挑戦状「レギュラーをつかみ取るような強い気持ちで」 - スポニチ Sponichi Annex 野球 https://t.co/RoeiHyzfnD",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/1988788055189377133",
+    "createdAt": "November 13, 2025 at 10:56AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、Gグラブの壁破る！　東都の安打製造機が宣戦布告「レギュラーつかみ取る」／仮契約(サンケイスポーツ)\n\n【PR】】プロ野球・Jリーグ・F1だけじゃない！DMM × DAZNホーダイならアニメや映画も思う存分楽しめる！ https://t.co/eqmFRK0l1I\nhttps://t.co/jZzw2oiG1W",
+    "userName": "9dazdm3",
+    "tweetUrl": "https://twitter.com/9dazdm3/status/1988815378999554240",
+    "createdAt": "November 13, 2025 at 12:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「憧れの存在でも負けないよう」GG賞獲得の大先輩たちの背中追いかける - プロ野球 : 日刊スポーツ https://t.co/TXZjrzJxnz",
+    "userName": "seiryo_fan",
+    "tweetUrl": "https://twitter.com/seiryo_fan/status/1988836263546552520",
+    "createdAt": "November 13, 2025 at 02:08PM"
+  },
+  {
+    "text": "阪神2025年新入団選手の背番号予想\n\n立石7\n谷端9or25\n岡城25（ワンチャン55番）\n早瀬34\n能登41\n\n村上、才木あたりが背番号変更しないと空き番号が全然ないから村上が17番に変更すると予想\n師匠の青柳が付けてたしね",
+    "userName": "cr7abc17",
+    "tweetUrl": "https://twitter.com/cr7abc17/status/1988836511916126681",
+    "createdAt": "November 13, 2025 at 02:09PM"
+  },
+  {
+    "text": "@gnomotoke 阪神の内野はサトテル、中野、大山が固定。\nショートには、小幡、木浪、熊谷がいて、控えに糸原、高寺、植田もいる。\n2軍では山田、百崎、戸井の有望株が一軍昇格を狙っている。\n外国人もヘルナンデス、アルナエスがいて、更にドラフトで立石、谷端を獲得。\nそこで元山獲得。\n飽和状態だな😥。",
+    "userName": "9LhZxK3nrgdMJXs",
+    "tweetUrl": "https://twitter.com/9LhZxK3nrgdMJXs/status/1988846214507344251",
+    "createdAt": "November 13, 2025 at 02:47PM"
+  },
+  {
+    "text": "木浪の立場が厳しくなるなぁ\n植田海も30やし小幡の尻叩きの意味もあるけど必要かな？高寺もおるし\n右なら30やけど熊谷おるし谷端立石も加入するんやけど\n\n【阪神】西武戦力外の元山飛優を獲得へ　内野全ポジション守れるユーティリティーさと犠打などの小技を評価\nhttps://t.co/XX8wviwQwr",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/1988908066654351769",
+    "createdAt": "November 13, 2025 at 06:53PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/lEaSFAZsyv\n\n阪神ドラ２谷端虎の顔になる！憧れ金本氏から激励サイン色紙本職二塁、三塁にはＧＧ賞の中野＆輝「先輩方に負けないように」\nhttps://t.co/QHnrNwp1Q2",
+    "userName": "8damm14",
+    "tweetUrl": "https://twitter.com/8damm14/status/1988936207062167859",
+    "createdAt": "November 13, 2025 at 08:45PM"
+  },
+  {
+    "text": "阪神は野手の補強はいらんと思う\nレフト立石と中川育てよう\nショート小幡と高寺と百崎と谷端で競わせて\n強いて言うならヘルナンデスよりもＤＨでも使えるファーストの外人大砲が欲しい\n投手はデュプランティエの残留が大補強\n中継ぎ２人くらい良い外人取ってくれ\n西勇輝も菅野のように復活したらでかい",
+    "userName": "QTURfhPLEw8qJXz",
+    "tweetUrl": "https://twitter.com/QTURfhPLEw8qJXz/status/1988939415369183408",
+    "createdAt": "November 13, 2025 at 08:58PM"
+  },
+  {
+    "text": "立石谷端獲得\n近本残留\n百﨑の大成長\n中川捕手本格練習開始\nオフシーズン阪神の勝ちすぎる",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/1988999978065568250",
+    "createdAt": "November 14, 2025 at 12:58AM"
+  },
+  {
+    "text": "谷端吉野のコメント見る限りセカンドでやらすんかな\n阪神ファンが我慢できると思えんがなぁ\nまぁ秀太に任せりゃええか",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/1989000268634325161",
+    "createdAt": "November 14, 2025 at 12:59AM"
   }
 ]
