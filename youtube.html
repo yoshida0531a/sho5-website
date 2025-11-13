@@ -90,33 +90,67 @@
     let videoItems = [];
     let sortedVideos = [];
     
-    // Function to format date
-    function formatDate(dateString) {
-      const date = new Date(dateString);
-      return date.toLocaleString('ja-JP', { 
-        year: 'numeric', 
-        month: '2-digit', 
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit'
-      });
+    // Function to parse date from "Month Day, Year at HH:MMAM/PM" format
+    function parseCustomDate(dateString) {
+      try {
+        // Parse "November 7, 2025 at 12:21AM" format
+        const parts = dateString.match(/(\w+)\s+(\d+),\s+(\d+)\s+at\s+(\d+):(\d+)(AM|PM)/);
+        if (!parts) return null;
+        
+        const months = {
+          'January': 0, 'February': 1, 'March': 2, 'April': 3, 'May': 4, 'June': 5,
+          'July': 6, 'August': 7, 'September': 8, 'October': 9, 'November': 10, 'December': 11
+        };
+        
+        const month = months[parts[1]];
+        const day = parseInt(parts[2]);
+        const year = parseInt(parts[3]);
+        let hour = parseInt(parts[4]);
+        const minute = parseInt(parts[5]);
+        const ampm = parts[6];
+        
+        // Convert to 24-hour format
+        if (ampm === 'PM' && hour !== 12) hour += 12;
+        if (ampm === 'AM' && hour === 12) hour = 0;
+        
+        return new Date(year, month, day, hour, minute);
+      } catch (e) {
+        console.error('Error parsing date:', dateString, e);
+        return null;
+      }
     }
     
-    // Load videos from youtube-data.txt
-    fetch('youtube-data.txt')
+    // Function to format date to "YYYY/MM/DD HH:MM"
+    function formatDate(dateObj) {
+      if (!dateObj) return '';
+      
+      const year = dateObj.getFullYear();
+      const month = String(dateObj.getMonth() + 1).padStart(2, '0');
+      const day = String(dateObj.getDate()).padStart(2, '0');
+      const hour = String(dateObj.getHours()).padStart(2, '0');
+      const minute = String(dateObj.getMinutes()).padStart(2, '0');
+      
+      return `${year}/${month}/${day} ${hour}:${minute}`;
+    }
+    
+    // Load videos from YouTube-data.txt (capital Y)
+    fetch('YouTube-data.txt')
       .then(response => response.json())
       .then(data => {
         // Create video elements from JSON data
-        data.videos.forEach(video => {
+        data.forEach(video => {
           const videoDiv = document.createElement('div');
           videoDiv.className = 'video-item';
           videoDiv.setAttribute('data-title', video.title);
           videoDiv.setAttribute('data-description', video.description);
           videoDiv.setAttribute('data-date', video.publishedAt);
           
+          const parsedDate = parseCustomDate(video.publishedAt);
+          const formattedDate = formatDate(parsedDate);
+          
           videoDiv.innerHTML = `
             <h3><a href="${video.url}" target="_blank">${video.title}</a></h3>
-            <p class="date">${formatDate(video.publishedAt)}</p>
+            <p class="date">${formattedDate}</p>
             <p class="description">${video.description}</p>
             <a href="${video.url}" target="_blank" class="video-link">Youtubeで見る</a>
           `;
@@ -126,8 +160,8 @@
         
         // Sort videos by date (newest first)
         sortedVideos = videoItems.slice().sort((a, b) => {
-          const dateA = new Date(a.getAttribute('data-date') || 0);
-          const dateB = new Date(b.getAttribute('data-date') || 0);
+          const dateA = parseCustomDate(a.getAttribute('data-date'));
+          const dateB = parseCustomDate(b.getAttribute('data-date'));
           return dateB - dateA;
         });
         
