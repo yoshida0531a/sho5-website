@@ -2914,5 +2914,95 @@
     "userName": "URU95816392",
     "tweetUrl": "https://twitter.com/URU95816392/status/1989000268634325161",
     "createdAt": "November 14, 2025 at 12:59AM"
+  },
+  {
+    "text": "戸井も育成か　一軍は遠いと感じるし、森木や野口も切ってる状況を考えれば枠的に仕方ない気はする　強くなればそれだけ競争は厳しくなる　立石、谷端も入ってくる　もう大学三年の歳だし若いとはいってられない",
+    "userName": "Eanas_77",
+    "tweetUrl": "https://twitter.com/Eanas_77/status/1989175870318342504",
+    "createdAt": "November 14, 2025 at 12:37PM"
+  },
+  {
+    "text": "@pieri_hikousiki 巨人は高卒が育つから羨ましい\n阪神は結局立石谷端",
+    "userName": "Left_68",
+    "tweetUrl": "https://twitter.com/Left_68/status/1989179253230039226",
+    "createdAt": "November 14, 2025 at 12:51PM"
+  },
+  {
+    "text": "ファーストサードで考えたら立石谷端入ったしファーストはワンチャン井上もある。\n\n阪神で戦ってくには厳しそうね",
+    "userName": "KETU_NewsCenter",
+    "tweetUrl": "https://twitter.com/KETU_NewsCenter/status/1989183301257768981",
+    "createdAt": "November 14, 2025 at 01:07PM"
+  },
+  {
+    "text": "阪神デイリー ドラ2 谷端 仮契約\n契約金7000万円、年俸1200万円(金額は推定)\n\n谷端「指名挨拶の時より実感が少しわいてきて、勝負の世界に入るんだなっていうところが一番です。ワクワクよりも緊張感があります」\nhttps://t.co/JfWWO7b4MV",
+    "userName": "amukeyo81",
+    "tweetUrl": "https://twitter.com/amukeyo81/status/1989191890798039201",
+    "createdAt": "November 14, 2025 at 01:41PM"
+  },
+  {
+    "text": "中川が捕手で勝負しない(嶋村全投資)になると立石(仮にサードとする)以降の谷端と争奪戦になるのか\n厳しいな\n谷端って確かセカンドだったし、阪神でそこは聖域だからなぁ",
+    "userName": "Ochappamss",
+    "tweetUrl": "https://twitter.com/Ochappamss/status/1989203766185455755",
+    "createdAt": "November 14, 2025 at 02:28PM"
+  },
+  {
+    "text": "まあ、できねーからこその2位谷端ですわね\n\nという事で、今年も阪神フロントはまともな外国人野手の補強をする事はないでしょう",
+    "userName": "JYFG4CnFFhC1xMh",
+    "tweetUrl": "https://twitter.com/JYFG4CnFFhC1xMh/status/1989204215206670675",
+    "createdAt": "November 14, 2025 at 02:30PM"
+  },
+  {
+    "text": "阪神　支配下枠\n\n西純矢（右投）→早瀬朔（右投）\n漆原大（右投）→能登嵩（右投）\n佐藤蓮（右投）\n島本浩（左投）\n川原陸（左投）\n渡邉諒（内野）→伏見寅（捕手）\n戸井零（内野）→立石正（内野）\n原口文（内野）→谷端将（内野）\n楠本泰（外野）→岡城快（外野）\n野口恭（外野） https://t.co/OCE6JU6Si6",
+    "userName": "Celticmythology",
+    "tweetUrl": "https://twitter.com/Celticmythology/status/1989209246119215198",
+    "createdAt": "November 14, 2025 at 02:50PM"
+  },
+  {
+    "text": "大学3,4年の東都一部での成績\n\n谷端\nOPS.880　K\u0018.8%　ISO.206\n\n森下\nOPS.809　K .3%　ISO.192\n\n四球の数は全然違うけど、森下育てた実績があるし谷端にも期待してしまう",
+    "userName": "Tancider99",
+    "tweetUrl": "https://twitter.com/Tancider99/status/1989223943698567401",
+    "createdAt": "November 14, 2025 at 03:48PM"
+  },
+  {
+    "text": "伏見を獲得した阪神からすれば\n谷端が控えにいることによって\n坂本に代打が出せるぞ！",
+    "userName": "p1y19ciwgg61650",
+    "tweetUrl": "https://twitter.com/p1y19ciwgg61650/status/1989251409909621107",
+    "createdAt": "November 14, 2025 at 05:37PM"
+  },
+  {
+    "text": "来年からDHにしろよ　阪神は前川や谷端、横浜は佐野宮崎、巨人は丸とか大城、外国人、中日は細川か外国人、広島はファビアン、ヤクルトは山田、サンタナ、オスナ　皆使い道あるやろ",
+    "userName": "Eanas_77",
+    "tweetUrl": "https://twitter.com/Eanas_77/status/1989268415052423244",
+    "createdAt": "November 14, 2025 at 06:45PM"
+  },
+  {
+    "text": "@Saba_Tigers ぶっちゃけ阪神補強ポイント　交流戦DH 代打　レフトぐらいやから新外国人も使い用がむずいよな。\n\n立石サード　輝ライト　森下センター　近本レフト案ならもうポジ空きないし、\nショートしか。　谷端か立石レギュラーなら",
+    "userName": "Sads_rock_kur",
+    "tweetUrl": "https://twitter.com/Sads_rock_kur/status/1989269988293935220",
+    "createdAt": "November 14, 2025 at 06:51PM"
+  },
+  {
+    "text": "@kazahana_clm26 坂本誠志郎捕手と伏見寅威捕手のW捕手でいけるね！\n\n立石、谷端、岡城、早瀬、能登、元山、伏見は阪神に入団して来季から早速チャンピオンユニに腕を通すことが出来る！\nこれは、とても幸せなことだし⁉️そう簡単にできることでは無い",
+    "userName": "40b9yfRWTovnqJH",
+    "tweetUrl": "https://twitter.com/40b9yfRWTovnqJH/status/1989308478301847901",
+    "createdAt": "November 14, 2025 at 09:24PM"
+  },
+  {
+    "text": "それでも阪神が立石谷端と野手ドラフトしたのって\n\n「現役時代、僅差の試合がほとんどで、ウィリアムスや久保田とともに数年間フル稼働を強いられた」\n\nという球児の原体験から来ているのでは？\n\n「投手の負担を減らせるのは打線による大量リード」\n\nという球児の”哲学”があるのでは？",
+    "userName": "47th_9danzk",
+    "tweetUrl": "https://twitter.com/47th_9danzk/status/1989324947756388480",
+    "createdAt": "November 14, 2025 at 10:30PM"
+  },
+  {
+    "text": "阪神の明確な穴が\nレフトとショートと第二捕手と代打\n\n今年のFaでそれが埋まる選手おる？\nドラフトで立石谷端取れたし\n島本とトレードで伏見来たし\nあとは助っ人ガチャ回すくらいしか\nやることなくない？ https://t.co/YOxYpjDAzq",
+    "userName": "maccha_52",
+    "tweetUrl": "https://twitter.com/maccha_52/status/1989354177068494915",
+    "createdAt": "November 15, 2025 at 12:26AM"
+  },
+  {
+    "text": "阪神の背番号変更中野選手7で大竹選手が21ってことは新人の立石選手が6で谷端選手が9なのかな🐯\n#阪神タイガース",
+    "userName": "yuhinyan",
+    "tweetUrl": "https://twitter.com/yuhinyan/status/1989430549367443665",
+    "createdAt": "November 15, 2025 at 05:29AM"
   }
 ]
