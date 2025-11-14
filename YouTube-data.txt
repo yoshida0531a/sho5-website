@@ -1,41 +1,57 @@
 [
   {
-    "title": "【阪神】ドラフト2位・谷端将伍がガチで即戦力すぎるｗ",
+    "title": "🐯💪【阪神ドラ２】谷端将伍「憧れの先輩にも負けない！」🔥✨ GG賞戦士たちの背中を追う若き挑戦者⚾🌟",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=hbQtgB4UgQQ",
-    "publishedAt": "November 7, 2025 at 12:21AM",
-    "description": "阪神タイガース、ドラフト2位・谷端将伍がガチで即戦力すぎるｗ.",
+    "url": "https://www.youtube.com/watch?v=_0VxOyamy3o",
+    "publishedAt": "November 13, 2025 at 06:24AM",
+    "description": "阪神ドラフト2位・谷端将伍選手が、憧れの先輩たちに挑む強い決意を語った  ✨ 「憧れの存在でも負けないように」と語るその ...",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "谷端将伍（阪神タイガース）ヒット集、守備機会",
+    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=k177AqlM2cY",
-    "publishedAt": "November 8, 2025 at 10:26AM",
-    "description": "谷端将伍 #阪神タイガース #2025年ドラフト候補 #日本大学 #ドラフト2位.",
+    "url": "https://www.youtube.com/watch?v=j9ymu6g6Sio",
+    "publishedAt": "November 13, 2025 at 12:37AM",
+    "description": "阪神 ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」 契約金７０００万円 年俸１２００万円.",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "【阪神ドラフト2位】谷端将伍 スタメン 阪神 vs 巨人【プロスピ2025】【プロ野球スピリッツ2024-2025】【2025年ドラフト】",
+    "title": "🎤😅🥰阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=pYDwo2wNoag",
-    "publishedAt": "November 9, 2025 at 07:01PM",
-    "description": "【阪神ドラフト2位】谷端将伍 スタメン 阪神 vs 巨人【プロスピ2025】【プロ野球スピリッツ2024-2025】【2025年ドラフト】 ...",
+    "url": "https://www.youtube.com/watch?v=Zzw9Nf0NIOo",
+    "publishedAt": "November 13, 2025 at 12:29AM",
+    "description": "",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "阪神D2位・谷端将伍「勝負の世界に入るんだ」契約金7000万円、年俸1200万円で仮契約",
+    "title": "⚾️中日ドラ2・谷端陸が仮契約！💰契約金7000万円でプロの世界へ🔥「勝負の世界に入るんだなという気持ち」",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=36uUkMaZd_M",
-    "publishedAt": "November 12, 2025 at 05:58PM",
+    "url": "https://www.youtube.com/watch?v=uJdph90gaC4",
+    "publishedAt": "November 12, 2025 at 09:42PM",
+    "description": "青山学院大のエース右腕・谷端陸投手が中日ドラゴンズと仮契約✨ 契約金7000万円・年俸1200万円（推定）でプロの世界へ⚾️ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・安打製造機のドラフト2位・谷端将伍が仮契約！契約金と年俸は？【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2t1HBDziqK4",
+    "publishedAt": "November 12, 2025 at 09:10PM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #ドラフト２位 #谷端将伍 #仮契約 #安打製造機 #阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=OkuNfG5xbv4",
+    "publishedAt": "November 12, 2025 at 07:11PM",
     "description": "",
     "keyword": "谷端 阪神"
   },
   {
     "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=LQTVBrlfCSc",
-    "publishedAt": "November 12, 2025 at 06:05PM",
+    "url": "https://www.youtube.com/watch?v=7VnuK0vVK2I",
+    "publishedAt": "November 12, 2025 at 06:39PM",
     "description": "",
     "keyword": "谷端 阪神"
   },
@@ -50,57 +66,89 @@
   {
     "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=7VnuK0vVK2I",
-    "publishedAt": "November 12, 2025 at 06:39PM",
+    "url": "https://www.youtube.com/watch?v=LQTVBrlfCSc",
+    "publishedAt": "November 12, 2025 at 06:05PM",
     "description": "",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "title": "阪神D2位・谷端将伍「勝負の世界に入るんだ」契約金7000万円、年俸1200万円で仮契約",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=OkuNfG5xbv4",
-    "publishedAt": "November 12, 2025 at 07:11PM",
+    "url": "https://www.youtube.com/watch?v=36uUkMaZd_M",
+    "publishedAt": "November 12, 2025 at 05:58PM",
     "description": "",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "阪神・安打製造機のドラフト2位・谷端将伍が仮契約！契約金と年俸は？【野球】【反応】【考察】",
+    "title": "【阪神ドラフト2位】谷端将伍 スタメン 阪神 vs 巨人【プロスピ2025】【プロ野球スピリッツ2024-2025】【2025年ドラフト】",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=2t1HBDziqK4",
-    "publishedAt": "November 12, 2025 at 09:10PM",
-    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #ドラフト２位 #谷端将伍 #仮契約 #安打製造機 #阪神 ...",
+    "url": "https://www.youtube.com/watch?v=pYDwo2wNoag",
+    "publishedAt": "November 9, 2025 at 07:01PM",
+    "description": "【阪神ドラフト2位】谷端将伍 スタメン 阪神 vs 巨人【プロスピ2025】【プロ野球スピリッツ2024-2025】【2025年ドラフト】 ...",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "⚾️中日ドラ2・谷端陸が仮契約！💰契約金7000万円でプロの世界へ🔥「勝負の世界に入るんだなという気持ち」",
+    "title": "谷端将伍（阪神タイガース）ヒット集、守備機会",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=uJdph90gaC4",
-    "publishedAt": "November 12, 2025 at 09:42PM",
-    "description": "青山学院大のエース右腕・谷端陸投手が中日ドラゴンズと仮契約✨ 契約金7000万円・年俸1200万円（推定）でプロの世界へ⚾️ ...",
+    "url": "https://www.youtube.com/watch?v=k177AqlM2cY",
+    "publishedAt": "November 8, 2025 at 10:26AM",
+    "description": "谷端将伍 #阪神タイガース #2025年ドラフト候補 #日本大学 #ドラフト2位.",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "🎤😅🥰阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "title": "【阪神】ドラフト2位・谷端将伍がガチで即戦力すぎるｗ",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=Zzw9Nf0NIOo",
-    "publishedAt": "November 13, 2025 at 12:29AM",
-    "description": "",
+    "url": "https://www.youtube.com/watch?v=hbQtgB4UgQQ",
+    "publishedAt": "November 7, 2025 at 12:21AM",
+    "description": "阪神タイガース、ドラフト2位・谷端将伍がガチで即戦力すぎるｗ.",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "阪神　ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」　契約金７０００万円　年俸１２００万円",
+    "title": "阪神秋季キャンプ【考察】百崎サク越え連発、15発。立石・谷端だけではない。のし上がれ。",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=j9ymu6g6Sio",
-    "publishedAt": "November 13, 2025 at 12:37AM",
-    "description": "阪神 ドラフト２位谷端が仮契約「勝負の世界に入るんだなって」 契約金７０００万円 年俸１２００万円.",
+    "url": "https://www.youtube.com/watch?v=H-lrZS-L-pE",
+    "publishedAt": "November 5, 2025 at 9:00AM",
+    "description": "セリーグ #阪神タイガース #読売ジャイアンツ #dena #中日ドラゴンズ #広島東洋カープ #ヤクルトスワローズ #プロ野球 ...",
     "keyword": "谷端 阪神"
   },
   {
-    "title": "🐯💪【阪神ドラ２】谷端将伍「憧れの先輩にも負けない！」🔥✨ GG賞戦士たちの背中を追う若き挑戦者⚾🌟",
+    "title": "【阪神2位】#39 日本大学　谷端将伍選手について",
     "channel": "",
-    "url": "https://www.youtube.com/watch?v=_0VxOyamy3o",
-    "publishedAt": "November 13, 2025 at 06:24AM",
-    "description": "阪神ドラフト2位・谷端将伍選手が、憧れの先輩たちに挑む強い決意を語った  ✨ 「憧れの存在でも負けないように」と語るその ...",
+    "url": "https://www.youtube.com/watch?v=l214x-deVZM",
+    "publishedAt": "November 4, 2025 at 3:00PM",
+    "description": "星稜ー日本大学 ミート力の高い巧打者の印象。 目指せ長野2世。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "立石谷端助っ人含めポジション、打順リスクをとって破壊すればいい‼️#立石正広#阪神タイガース #日本シリーズ　第２戦#阪神タイガース  #試合考察  #藤川監督 #日本シリーズ　阪神対ソフトバンク",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yRk59YXgrP0",
+    "publishedAt": "November 3, 2025 at 12:00PM",
+    "description": "おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト2位谷端将伍！この選手補強ポイント埋めてまう！#阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6z-9zxshWuA",
+    "publishedAt": "October 31, 2025 at 10:44PM",
+    "description": "阪神 #ドラフト 2位#ルーキー #阪神ファン が一番望む能力を全て持った選手！ その名は#谷端将伍 #阪神情報 ＜注意事項＞ ・動画 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】立石谷端開幕スタメン説",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=mWbGKKrU6S0",
+    "publishedAt": "October 30, 2025 at 2:44PM",
+    "description": "阪神ファンの生の声を皆さんに伝えて行きます！ #阪神タイガース #立石正広 #谷端将伍 #日本シリーズ #2ch #5ch #プロ野球 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥【阪神タイガース】未来の主砲誕生！立石正広（創価大）を三球団競合で獲得💪大学日本代表・谷端将伍（日本大）との“黄金ドラフト”で新時代突入🐯⚾️",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=fDG0OHdz4w0",
+    "publishedAt": "October 28, 2025 at 7:20AM",
+    "description": "阪神タイガースが2025年ドラフト会議で見事な“黄金ドラフト”を実現  創価大学の右の大砲・立石正広を巡り、巨人・中日との三 ...",
     "keyword": "谷端 阪神"
   }
 ]
