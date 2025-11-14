@@ -150,5 +150,13 @@
     "publishedAt": "October 28, 2025 at 7:20AM",
     "description": "阪神タイガースが2025年ドラフト会議で見事な“黄金ドラフト”を実現  創価大学の右の大砲・立石正広を巡り、巨人・中日との三 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2025年11月14日　舘ひろしは谷端幸士の敵",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-d3p6TYTB0g",
+    "publishedAt": "November 14, 2025 at 01:25PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
