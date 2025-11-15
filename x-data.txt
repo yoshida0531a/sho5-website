@@ -3004,5 +3004,101 @@
     "userName": "yuhinyan",
     "tweetUrl": "https://twitter.com/yuhinyan/status/1989430549367443665",
     "createdAt": "November 15, 2025 at 05:29AM"
+  },
+  {
+    "text": "中野が7番か。阪神の7番は右打者のイメージがあるので、できれば立石か谷端にあげて欲しかったなぁと。とすると今まで中野がつけてた51番を両者どちらかの選手にあげる予定なのかな。 https://t.co/GmV9JaXwNA",
+    "userName": "buzama89_89",
+    "tweetUrl": "https://twitter.com/buzama89_89/status/1989460706811691184",
+    "createdAt": "November 15, 2025 at 07:29AM"
+  },
+  {
+    "text": "阪神の00は誰がつけるんやろ🤔\n高寺かルーキーの谷端か岡城かな🙄",
+    "userName": "mamenosuke22",
+    "tweetUrl": "https://twitter.com/mamenosuke22/status/1989480495353401859",
+    "createdAt": "November 15, 2025 at 08:48AM"
+  },
+  {
+    "text": "阪神背番号予想(11/15)\n立石 6\n谷端25\n岡城 00\n早瀬 34\n能登 44\nに予想変更\n\n1桁番号1つ潰れたから半永久欠番とかいう中途半端制度が無ければ立石6 or 9\nやろうけど…6がいいンゴ…\n6ならユニ買うンゴ… https://t.co/42XUrWmvBI",
+    "userName": "hobby_Orion",
+    "tweetUrl": "https://twitter.com/hobby_Orion/status/1989487290071355693",
+    "createdAt": "November 15, 2025 at 09:15AM"
+  },
+  {
+    "text": "中野君が来年7になるとすると\n阪神の新人背番号予想は\n立石　9\n谷端　25or51\n岡城　00\n早瀬　46\n能登　34\nかな？\n移籍組の伏見はグッチが付けていた94になりそうな気がする。",
+    "userName": "urugusu1011",
+    "tweetUrl": "https://twitter.com/urugusu1011/status/1989499736970465468",
+    "createdAt": "November 15, 2025 at 10:04AM"
+  },
+  {
+    "text": "阪神の中野君が来年から7になるとすると、新加入選手の背番号予想は…、\n立石　9\n谷端     25or51\n岡城　00or25\n早瀬     46\n能登　49\n辺りになるかな？\n移籍組の伏見はグッチの背番号だった94を付けて欲しい",
+    "userName": "urugusu1011",
+    "tweetUrl": "https://twitter.com/urugusu1011/status/1989502355914768499",
+    "createdAt": "November 15, 2025 at 10:14AM"
+  },
+  {
+    "text": "@M_Mikuni__ ごめんフォロー外れてた()\n今年固定できなかったショートと外野１枠よね阪神は\n\n立石or谷端サードでサトテル外野再転向かな",
+    "userName": "fumiya_miri315",
+    "tweetUrl": "https://twitter.com/fumiya_miri315/status/1989523870622388542",
+    "createdAt": "November 15, 2025 at 11:40AM"
+  },
+  {
+    "text": "阪神 新入団選手の背番号予想\n\n立石 17\n谷端 25\n岡城 55\n早瀬 34\n能登 49\n\n個人的には立石に着けてほしいのは､濱中､新井も背負った25｡ 予想でも「鳴り物入りドラ1やから1桁､背番号9が濃厚では」って声が多いけど､立石本人が「大谷翔平が好き」って公言してたので野手では珍しいけど17もあるかなと",
+    "userName": "dantel_rapper27",
+    "tweetUrl": "https://twitter.com/dantel_rapper27/status/1989532488054763778",
+    "createdAt": "November 15, 2025 at 12:14PM"
+  },
+  {
+    "text": "阪神タイガース　野手陣\n背番号一桁化計画か？\n\n立石、谷端が６か９番でレフトに入れば、一桁背番号での野手布陣が可能に😅\n\"【阪神】大竹耕太郎が21、中野拓夢が7に背番号変更へ レジェンド代名詞受け継ぐ\" https://t.co/Z64s2GMGR9",
+    "userName": "k87b371",
+    "tweetUrl": "https://twitter.com/k87b371/status/1989533587352305794",
+    "createdAt": "November 15, 2025 at 12:19PM"
+  },
+  {
+    "text": "これで阪神の指名選手の寸評も全部終えたので\n\n１位　立石　正広（創価大）三塁　☆☆☆☆☆\n２位　谷端　将伍（日本大）三塁　☆☆\n３位　岡城　快生（筑波大）中堅　☆☆☆\n４位　早瀬　 朔（神村学園）投手　☆☆\n５位　能登　嵩都（オイシックス）投手\n育１　神宮 僚介（東農大オホーツク）投手",
+    "userName": "kuratateo",
+    "tweetUrl": "https://twitter.com/kuratateo/status/1989541961788002370",
+    "createdAt": "November 15, 2025 at 12:52PM"
+  },
+  {
+    "text": "まあ、６番は立石でも良いのだろうが、間の悪い事に和田ヘッドの後輩の谷端が入るので、政治的にどうだろうか。因みに同じ日大の先輩、北川コーチは９番。タイガース時代の番号を知ってる人がどれだけいるだろうか。それくらいタイガースの時は活躍はしなかった。今あるのは近鉄時代の財産。",
+    "userName": "from1970",
+    "tweetUrl": "https://twitter.com/from1970/status/1989550399783891028",
+    "createdAt": "November 15, 2025 at 01:25PM"
+  },
+  {
+    "text": "阪神の背番号予想\n立石　9or25\n谷端　25or51\n岡城　00\n早瀬　46\n能登　34\n伏見　44or94\n元山　55or99\n現役ドラフト獲得選手　49\n後は石井大智に22は無理でも15か17を付けて欲しい",
+    "userName": "urugusu1011",
+    "tweetUrl": "https://twitter.com/urugusu1011/status/1989575770780709311",
+    "createdAt": "November 15, 2025 at 03:06PM"
+  },
+  {
+    "text": "阪神のトップ選手見てるとほんとにいろんなことに気を配って自分の身体も大切にして尚且つ楽しむときは楽しんで、上手くやっていけるコミュ力がある人ばかりだから、この中の一つでも欠ける選手（特に野手）は定着出来ないんじゃないかと思ってしまうな。\nとりあえず立石谷端超楽しみ。",
+    "userName": "sp6GXmsE0J75934",
+    "tweetUrl": "https://twitter.com/sp6GXmsE0J75934/status/1989579835912470811",
+    "createdAt": "November 15, 2025 at 03:22PM"
+  },
+  {
+    "text": "阪神背番号予想\n\n立石→9\n谷端→55\n岡城→25\n早瀬→17\n能登→34\n\n神宮→129\n山崎→124\n\n伏見→44\n元山→46\n\nドリス→98\n\n新外国人→91",
+    "userName": "UKYO_HANSHIN",
+    "tweetUrl": "https://twitter.com/UKYO_HANSHIN/status/1989585120123031816",
+    "createdAt": "November 15, 2025 at 03:43PM"
+  },
+  {
+    "text": "阪神背番号予想\n\n立石→9\n谷端→55\n岡城→25\n早瀬→17\n能登→34\n\n神宮→129\n山崎→124\n\n伏見→44\n元山→51\n\nドリス→98\n\n新外国人→91",
+    "userName": "UKYO_HANSHIN",
+    "tweetUrl": "https://twitter.com/UKYO_HANSHIN/status/1989586551748399311",
+    "createdAt": "November 15, 2025 at 03:49PM"
+  },
+  {
+    "text": "阪神・谷端将伍とその他、過去の東都リーグ出身者比較 https://t.co/mF1lpbYitC",
+    "userName": "KETU_NewsCenter",
+    "tweetUrl": "https://twitter.com/KETU_NewsCenter/status/1989600054550958475",
+    "createdAt": "November 15, 2025 at 04:43PM"
+  },
+  {
+    "text": "@momotora3t メジャー流出しても次から次へと良い選手が出てきますね。\n阪神は背番号変更で中野が７に。立石、谷端の番号が気になりますね。6復活かも。近い将来の侍ジャパン入りも見たい。",
+    "userName": "uswvtAaNcbedniF",
+    "tweetUrl": "https://twitter.com/uswvtAaNcbedniF/status/1989673438219571702",
+    "createdAt": "November 15, 2025 at 09:34PM"
   }
 ]
