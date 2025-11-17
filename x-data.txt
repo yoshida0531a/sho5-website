@@ -3136,5 +3136,83 @@
     "userName": "p1y19ciwgg61650",
     "tweetUrl": "https://twitter.com/p1y19ciwgg61650/status/1990111638968774791",
     "createdAt": "November 17, 2025 at 02:36AM"
+  },
+  {
+    "text": "阪神くん…立石、谷端、伏見、デバニーってやりすぎじゃないですか？",
+    "userName": "cerezo_417",
+    "tweetUrl": "https://twitter.com/cerezo_417/status/1990186235265220749",
+    "createdAt": "November 17, 2025 at 07:32AM"
+  },
+  {
+    "text": "新入団選手背番号予想\n\n元山飛優　#00\nキャム・デバニー　#34\n立石正広　#9\n谷端将伍　#25\n岡城快生　#51\n早瀬朔　　#46\n能登嵩都　#49",
+    "userName": "kobayakawaracy",
+    "tweetUrl": "https://twitter.com/kobayakawaracy/status/1990204037871067619",
+    "createdAt": "November 17, 2025 at 08:43AM"
+  },
+  {
+    "text": "守備範囲広いし強肩やしホームラン打てるし、阪神の永遠の課題の遊撃手問題決着やな\nホームラン10 本で遊撃手はええねん\n相手にホームランあるかもって思わすだけでも価値がある\n立石か谷端は一応外野として試して内野のバックアップ兼外野としてレギュラー前川がそこにくれば争いに\n不安要素は抑え",
+    "userName": "enperai14",
+    "tweetUrl": "https://twitter.com/enperai14/status/1990210013823189178",
+    "createdAt": "November 17, 2025 at 09:06AM"
+  },
+  {
+    "text": "星稜高OBの谷端将伍内野手、阪神⚾入団が決まりましたね！おめでとうございます👏\nこれまでの報道で、開幕1軍、新人王、そして2000本安打と大きな目標を掲げている谷端選手、甲子園で躍動する姿が目に浮かびます。石川、そして日本の野球を盛り上げてほしいですね🌟\n#プロ野球　#阪神",
+    "userName": "nsk_ad_jp",
+    "tweetUrl": "https://twitter.com/nsk_ad_jp/status/1990220014612615354",
+    "createdAt": "November 17, 2025 at 09:46AM"
+  },
+  {
+    "text": "次世代の打てる野手→立石、谷端、岡城\n控えの内野手→元山\n優秀な控え捕手→伏見\n打てるショート→デバニー\n次世代の正捕手→渡部海の獲得表明\n\n阪神が次々と弱点埋めていくのが現実離れすぎて、パワプロのペナントやってる感がある。",
+    "userName": "shtakasugi",
+    "tweetUrl": "https://twitter.com/shtakasugi/status/1990235849213284653",
+    "createdAt": "November 17, 2025 at 10:49AM"
+  },
+  {
+    "text": "妥当。ドラ1は捕手しかない。\n今年はテルの後継者として打力売りな立石や谷端\n昨年は不足する左腕投手\n\nじゃあ今の阪神に無いと将来困るのは\n「坂本の後継者」、榮枝怪我、成長曲線での見通しや中川打撃優先とかなら捕手は急務。今年は取ってない＆坂本が元気な今のうちに後釜作成は必須 https://t.co/ONvuh6q1lJ",
+    "userName": "KOOH4123",
+    "tweetUrl": "https://twitter.com/KOOH4123/status/1990256666361917871",
+    "createdAt": "November 17, 2025 at 12:12PM"
+  },
+  {
+    "text": "@Reman____g そもそも去年の優勝チームやからね。菅野と岡本がいなくなるのは流石に影響デカいけど\n\n阪神は今年立石取れたからな〜2位の谷端も立石とと同じサードだし、そもそもスタメンコア5以外のメンツの打撃が終わり散らかしてるから代打もそうだしDHに向けてももっと打てる人がいないとアカンのよな",
+    "userName": "Sax_gbf",
+    "tweetUrl": "https://twitter.com/Sax_gbf/status/1990264436284854382",
+    "createdAt": "November 17, 2025 at 12:43PM"
+  },
+  {
+    "text": "キャム・ディバニー､阪神入り決まりそうやね\n守備範囲も広いし肩はノイジー並み\n打つほうに荒らさはあるけど右にも大きいの打てる､7番に入れたいところ\n成長著しい井坪､百崎､加入の立石､谷端､ディバニー､伏見がチームにどんな変化を与えるか､非常に楽しみ",
+    "userName": "ibutora",
+    "tweetUrl": "https://twitter.com/ibutora/status/1990300239157465549",
+    "createdAt": "November 17, 2025 at 03:05PM"
+  },
+  {
+    "text": "@yakyujinsan サトテルがメジャー行くまでに立石谷端がものになるか\n正直立石は怪しいと自分は思ってるから意外と厳しい気がするけどね\n\nまぁセリーグ阪神以外はもっとやばいからなんだかんだ勝てるとはと思うけど",
+    "userName": "pipoparoco",
+    "tweetUrl": "https://twitter.com/pipoparoco/status/1990342817340871127",
+    "createdAt": "November 17, 2025 at 05:54PM"
+  },
+  {
+    "text": "2030年阪神打線\n【開幕スタメン】※願望\n①(中)岡城 快生(27)\n②(右)コンスエグラ(30)\n③(二)谷端 将伍(26)\n④(三)立石 正広(27)\n⑤(一)前川 右京(27)\n⑥(左)中川 勇斗(26)\n⑦(指)百﨑 蒼生(25)\n⑧(捕)渡部 海(26)\n⑨(遊)山田 脩也(25)\n※(投)門別 啓人(26)",
+    "userName": "HAMANONAMI27",
+    "tweetUrl": "https://twitter.com/HAMANONAMI27/status/1990353951649403074",
+    "createdAt": "November 17, 2025 at 06:38PM"
+  },
+  {
+    "text": "来年の阪神、立石もしくは谷端が2番打つのありな気がしてきた",
+    "userName": "cafe__78",
+    "tweetUrl": "https://twitter.com/cafe__78/status/1990370077099905145",
+    "createdAt": "November 17, 2025 at 07:43PM"
+  },
+  {
+    "text": "阪神デバニーか これもうシーズンだけじゃなくストーブリーグまで単独優勝やん\n立石 谷端 岡城 指名できて 元山 伏見獲得してデバニーはやばいわ\nデバニー今季マエケンから2打席連続ホームラン打った内野手やろ？",
+    "userName": "goq8qnl",
+    "tweetUrl": "https://twitter.com/goq8qnl/status/1990373815680160088",
+    "createdAt": "November 17, 2025 at 07:57PM"
+  },
+  {
+    "text": "阪神の新外国人と言われているデバニーの守備動画を見たけど正直ショート向きとは思えん。\n\n来年はサトテルを外野コンバートで、サードは立石とデバニーで競わせるんじゃないかな？\nショートは木浪・小幡・百崎・谷端・熊谷の争いな気がする。",
+    "userName": "5hige_tora",
+    "tweetUrl": "https://twitter.com/5hige_tora/status/1990394399751123014",
+    "createdAt": "November 17, 2025 at 09:19PM"
   }
 ]
