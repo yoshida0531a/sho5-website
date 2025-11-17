@@ -158,5 +158,13 @@
     "publishedAt": "November 15, 2025 at 04:59PM",
     "description": "阪神】ドラ２谷端将伍「憧れの存在でも負けないよう」GG賞獲得の大先輩たちの背中追いかける.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "凄く球団の姿勢を感じる‼️デバニー 立石谷端 伏見和田H‼️　　#阪神タイガース＃Cam Devanney＃キャムデバニー#阪神　新外国人＃新外国人候補　2026＃阪神タイガースをたしなむ＃阪神　補強",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=cXyu8QuC05M",
+    "publishedAt": "November 17, 2025 at 06:16PM",
+    "description": "おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...",
+    "keyword": "谷端 阪神"
   }
 ]
