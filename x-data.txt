@@ -3214,5 +3214,47 @@
     "userName": "5hige_tora",
     "tweetUrl": "https://twitter.com/5hige_tora/status/1990394399751123014",
     "createdAt": "November 17, 2025 at 09:19PM"
+  },
+  {
+    "text": "虎が外国人補強で穴となっている遊撃と左翼を守れるデバニーを獲得🐯\nD1、2の立石、谷端だけではなく、外国人でも穴埋めをする🚊\n\n【阪神】パイレーツのデバニー獲得へ　ドラフト１位・立石とレギュラー不在の遊撃＆左翼の完璧補強か　　（スポーツ報知） https://t.co/x8UFFMViNY",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/1990544323533025286",
+    "createdAt": "November 18, 2025 at 07:15AM"
+  },
+  {
+    "text": "【阪神】新助っ人遊撃手デバニーを獲得へ　内外野守れるマイナー通算85発の現役メジャーリーガー（日刊スポーツ）\n\nいらん！！\n高寺、小幡、山田、百崎、立石、谷端\nここの枠が無くなる！\n外人は全員ピッチャーでいい！\n\n#阪神タイガース https://t.co/gFePkhRF3s",
+    "userName": "toragoro56haru",
+    "tweetUrl": "https://twitter.com/toragoro56haru/status/1990548261724426313",
+    "createdAt": "November 18, 2025 at 07:31AM"
+  },
+  {
+    "text": "掛布雅之氏　阪神ドラ1・立石正広の3番起用を提案　山田雅人のイベントに中畑清氏と参加（スポニチアネックス）\n\n2番派やな！\n近本\n立石\n森下\nテル\n大山\n中野（谷端）\nショート\n坂本\n\nドラ1が5人並ぶ打線\n中野は勝負強い！6番でもいける！！\n\n#阪神タイガース https://t.co/mlLWYeZmz4",
+    "userName": "toragoro56haru",
+    "tweetUrl": "https://twitter.com/toragoro56haru/status/1990550957391032342",
+    "createdAt": "November 18, 2025 at 07:41AM"
+  },
+  {
+    "text": "【捕手】\n坂本 誠志郎\n梅野 隆太郎\n伏見 寅威\n\n【一塁手】\n大山 悠輔\n糸原 健斗\n\n【二塁手】\n中野 拓夢\n植田 海\n谷端 将伍\n\n【三塁手】\n立石 正広\n髙寺 望夢\n木浪 聖也\n\n【遊撃手】\nC.デバニー\n熊谷 敬宥\n小幡 竜平\n\n【左翼手】\n森下 翔太\n前川 右京\n\n【中堅手】\n近本 光司\n\n【右翼手】\n佐藤 輝明",
+    "userName": "HAMANONAMI27",
+    "tweetUrl": "https://twitter.com/HAMANONAMI27/status/1990563063159009447",
+    "createdAt": "November 18, 2025 at 08:29AM"
+  },
+  {
+    "text": "中野氏の７番襲名で混沌としてきた背番号予想。\nデバニー→９（ロンダリングの為）\n元山→５５\n立石君→６\n谷端君→４４\n岡城君→５１\n早瀬君→４９\n能登君→５７\n阪神ファンの谷端君なら強打者が４４番を背負う意味と阪神にしては縁起の良い番号だと理解してると思う、",
+    "userName": "mappabaron23",
+    "tweetUrl": "https://twitter.com/mappabaron23/status/1990604880848015515",
+    "createdAt": "November 18, 2025 at 11:16AM"
+  },
+  {
+    "text": "@tigerschannel72 阪神の二遊間は誰が守備をしようと、阪神には立石、谷端、岡城、デバニーの最強4選手がいる時点でもう阪神は無敵状態\n\n絶対に初連覇するよ",
+    "userName": "40b9yfRWTovnqJH",
+    "tweetUrl": "https://twitter.com/40b9yfRWTovnqJH/status/1990608461173043417",
+    "createdAt": "November 18, 2025 at 11:30AM"
+  },
+  {
+    "text": "阪神　支配下枠\n\n西純矢（右投）→早瀬朔（右投）\n漆原大（右投）→能登嵩（右投）\n佐藤蓮（右投）\n島本浩（左投）\n川原陸（左投）\n渡邉諒（内野）→伏見寅（捕手）\n戸井零（内野）→立石正（内野）\n原口文（内野）→谷端将（内野）\n楠本泰（外野）→元山飛（内野）\n野口恭（外野）→岡城快（外野） https://t.co/fcFO81jpQu",
+    "userName": "Celticmythology",
+    "tweetUrl": "https://twitter.com/Celticmythology/status/1990626466548322395",
+    "createdAt": "November 18, 2025 at 12:41PM"
   }
 ]
