@@ -166,5 +166,13 @@
     "publishedAt": "November 17, 2025 at 06:16PM",
     "description": "おすすめ動画はこちら！** 1️⃣阪神タイガースはナゼ史上最速優勝ができたのか⁉️(https://youtu.be/VlauKo3Wi-I) 2️⃣阪神 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ドラフト評価12】阪神が3球団競合で&quot;立石正広&quot;を獲得も『こんなドラフト絶対ダメ‼︎』里崎チャンネル推しの&quot;谷端将伍&quot;を2位で獲得‼︎阪神ドラフトでの心残りとは…里崎がドラフトを評価します‼︎",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=c1wlDNYLGAk",
+    "publishedAt": "November 19, 2025 at 07:15PM",
+    "description": "ドラフト通信簿2025 https://www.youtube.com/playlist?list=PLim5RMArTCEMsBCEAJas9X3HoAJMzwmIN ＜里崎チャンネル ...",
+    "keyword": "谷端 阪神"
   }
 ]
