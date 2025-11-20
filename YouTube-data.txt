@@ -174,5 +174,13 @@
     "publishedAt": "November 19, 2025 at 07:15PM",
     "description": "ドラフト通信簿2025 https://www.youtube.com/playlist?list=PLim5RMArTCEMsBCEAJas9X3HoAJMzwmIN ＜里崎チャンネル ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神ドラフト2位】谷端将伍、背番号「6」への道！金本アニキの魂を受け継ぐか？#阪神タイガース #ドラフト #谷端将伍 #金本知憲 #背番号6 #野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=v87MO4ME5c0",
+    "publishedAt": "November 20, 2025 at 05:01PM",
+    "description": "025年阪神タイガースのドラフト2位、谷端将伍選手（日本大・内野手）に大注目！✨ 彼の憧れは、あのミスタータイガース、金本 ...",
+    "keyword": "谷端 阪神"
   }
 ]
