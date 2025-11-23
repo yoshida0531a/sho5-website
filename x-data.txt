@@ -3592,5 +3592,131 @@
     "userName": "tigersculefan8",
     "tweetUrl": "https://twitter.com/tigersculefan8/status/1992302048055046549",
     "createdAt": "November 23, 2025 at 03:39AM"
+  },
+  {
+    "text": "【東都大学野球連盟　表彰式】\n🐯谷端くんや🙎皆川くん🐉中西くん🌠小田くんらがＢ❾などのタイトルを受賞。おめです https://t.co/tRJstrgDOI",
+    "userName": "sponichi_kkbb",
+    "tweetUrl": "https://twitter.com/sponichi_kkbb/status/1992475184675307640",
+    "createdAt": "November 23, 2025 at 03:07PM"
+  },
+  {
+    "text": "@sponichi_kkbb ・大学時代で1番印象に残っている試合、一打、プレー、日大メンバーとのエピソード\n・関西で楽しみなことや食べたいもの\n🐯でも谷端さんらしく頑張ってください！！楽しみにしてます🔥",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/1992480876333334545",
+    "createdAt": "November 23, 2025 at 03:30PM"
+  },
+  {
+    "text": "【表彰式】\n\n令和7年度 秋季個人タイトル表彰式が行われました🏆\n\n🌟ベストナイン(二塁手)\n谷端将伍(星稜:4年)\nが表彰されました！ https://t.co/qMso0SdwNh",
+    "userName": "_NUbaseball",
+    "tweetUrl": "https://twitter.com/_NUbaseball/status/1992530215592177712",
+    "createdAt": "November 23, 2025 at 06:46PM"
+  },
+  {
+    "text": "谷端の日大制服姿はこれで最後になるのかな？(  ; ᯅ ; ｀)",
+    "userName": "_la4sk12",
+    "tweetUrl": "https://twitter.com/_la4sk12/status/1992540815437230353",
+    "createdAt": "November 23, 2025 at 07:28PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う(スポーツ報知)\n\n【PR】スポーツもエンタメもこれひとつ。DMM × DAZNホーダイならプロ野球、Jリーグ、F1、映画やアニメも見放題！ https://t.co/2IprYM2NnF\nhttps://t.co/7KJ9kEeNN9",
+    "userName": "8damm12",
+    "tweetUrl": "https://twitter.com/8damm12/status/1992544973787672751",
+    "createdAt": "November 23, 2025 at 07:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２の中大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う\nhttps://t.co/G65dfbJZ8d\n\n　東都大学野球秋季リーグ戦の表彰式が２３日、東京・文京区の中大後楽園キャンパス内で行われ、２部の二塁手ベストナインに輝いた阪神のドラフト２位... https://t.co/eSw7NnX3GO",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/1992545247675760945",
+    "createdAt": "November 23, 2025 at 07:46PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/h8RFZz7iY2",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/1992545345188864069",
+    "createdAt": "November 23, 2025 at 07:46PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う\n#ベースボールポスト\n▼記事はこちら\nhttps://t.co/h8RFZz7iY2",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/1992545633522102455",
+    "createdAt": "November 23, 2025 at 07:47PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う\nhttps://t.co/6cxu25dgsJ",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/1992546301943144479",
+    "createdAt": "November 23, 2025 at 07:50PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う\n記事はこちら▼\nhttps://t.co/m48ZtaUanA",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/1992546540158636184",
+    "createdAt": "November 23, 2025 at 07:51PM"
+  },
+  {
+    "text": "阪神2位の日大・谷端将伍、「次こそはホームラン」相性がいい中日1位・中西との対戦熱望　二塁手として勝負する覚悟も示す\n#谷端将伍\n#阪神\nhttps://t.co/SDEbZGcMRp",
+    "userName": "chuspo",
+    "tweetUrl": "https://twitter.com/chuspo/status/1992553969357619608",
+    "createdAt": "November 23, 2025 at 08:21PM"
+  },
+  {
+    "text": "阪神2位の日大・谷端将伍、「次こそはホームラン」相性がいい中日1位・中西との対戦熱望　二塁手として勝負する覚悟も示す\nhttps://t.co/lJmWMG2Qc0\n\n　東都大学野球2部の日大から阪神にドラフト2位指名された谷端将伍内野手（4年・星稜）が23日、東京都内で行われた秋季リーグ戦個人タイトル表彰... https://t.co/yPnJa1KJEC",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/1992554484107751513",
+    "createdAt": "November 23, 2025 at 08:23PM"
+  },
+  {
+    "text": "阪神2位の日大・谷端将伍、「次こそはホームラン」相性がいい中日1位・中西との対戦熱望　二塁手として勝負する覚悟も示す（中日スポーツ）-Yahoo!ニュース https://t.co/QeS0twNznz https://t.co/OMbIiuYDUi",
+    "userName": "gnomotoke",
+    "tweetUrl": "https://twitter.com/gnomotoke/status/1992556468458184866",
+    "createdAt": "November 23, 2025 at 08:30PM"
+  },
+  {
+    "text": "谷端将伍（④星稜）が日大の部服で公の場に登場するのも最後やろね😢 https://t.co/66ihs5YTRV",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/1992568869853200684",
+    "createdAt": "November 23, 2025 at 09:20PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う - スポーツ報知 https://t.co/YLYwTfaKOs",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/1992569525024477527",
+    "createdAt": "November 23, 2025 at 09:22PM"
+  },
+  {
+    "text": "谷端くんを大阪版に書きました\n日大の大先輩が獲った「ロスで金メダル」に意欲 https://t.co/7xvcfZcXdI",
+    "userName": "sponichi_kkbb",
+    "tweetUrl": "https://twitter.com/sponichi_kkbb/status/1992580517301203207",
+    "createdAt": "November 23, 2025 at 10:06PM"
+  },
+  {
+    "text": "@KAKO260002 ばっちり星稜コンビで固められてるのも👍️\n\n山瀬くん、真面目にヤクルト来ないかね。\n年齢的にもチーム事情的にも非情に重宝しそうなんだけどｗ\n\n正直、谷端くんも期待してたんだけどねぇ。",
+    "userName": "chains07091550",
+    "tweetUrl": "https://twitter.com/chains07091550/status/1992586017707360625",
+    "createdAt": "November 23, 2025 at 10:28PM"
+  },
+  {
+    "text": "阪神2位の日大・谷端将伍、「次こそはホームラン」相性がいい中日1位・中西との対戦熱望　二塁手として勝負する覚悟も示す(中日スポーツ)\n\nhttps://t.co/HAf9C42BGZ",
+    "userName": "LeZhu61730",
+    "tweetUrl": "https://twitter.com/LeZhu61730/status/1992617276294701500",
+    "createdAt": "November 24, 2025 at 12:32AM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う(スポーツ報知)\n\nhttps://t.co/XaM3jSF6g9",
+    "userName": "Uk2lGacHvS68005",
+    "tweetUrl": "https://twitter.com/Uk2lGacHvS68005/status/1992630289659724267",
+    "createdAt": "November 24, 2025 at 01:24AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　Ｖパレードに「あの景色見られるように」東都秋季２部リーグベストナイン「プロで首位打者を」（デイリースポーツ） https://t.co/EY0XI87DtT",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/1992687725515088372",
+    "createdAt": "November 24, 2025 at 05:12AM"
+  },
+  {
+    "text": "阪神2位の日大・谷端将伍、「次こそはホームラン」相性がいい中日1位・中西との対戦熱望　二塁手として勝負する覚悟も示す\n#谷端将伍\n#阪神\nhttps://t.co/SDEbZGcMRp",
+    "userName": "chuspo",
+    "tweetUrl": "https://twitter.com/chuspo/status/1992699680011190663",
+    "createdAt": "November 24, 2025 at 06:00AM"
   }
 ]
