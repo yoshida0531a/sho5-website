@@ -182,5 +182,13 @@
     "publishedAt": "November 20, 2025 at 05:01PM",
     "description": "025年阪神タイガースのドラフト2位、谷端将伍選手（日本大・内野手）に大注目！✨ 彼の憧れは、あのミスタータイガース、金本 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥日大・谷端将伍が本音炸裂！「次こそホームラン」💥宿敵・中西との因縁対決に闘志全開⚔️✨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=keGh4i3V_ok",
+    "publishedAt": "November 23, 2025 at 08:52PM",
+    "description": "【最強ライバル対決へ覚悟の宣言】日大・谷端将伍が阪神2位指名後、早くも勝負に本音   「次こそはホームラン！」   相性抜群 ...",
+    "keyword": "谷端 阪神"
   }
 ]
