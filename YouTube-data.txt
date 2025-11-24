@@ -190,5 +190,13 @@
     "publishedAt": "November 23, 2025 at 08:52PM",
     "description": "【最強ライバル対決へ覚悟の宣言】日大・谷端将伍が阪神2位指名後、早くも勝負に本音   「次こそはホームラン！」   相性抜群 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【勝負したいと自ら断言】ドラ2谷端の希望ポジションが判明した件について【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Z334j9NdzXg",
+    "publishedAt": "November 24, 2025 at 07:00PM",
+    "description": "こちらのチャンネルでは、阪神タイガースの情報にのみ特化し、より掘り下げてお伝えしていきます!! 阪神ファンの皆さんは ...",
+    "keyword": "谷端 阪神"
   }
 ]
