@@ -3718,5 +3718,119 @@
     "userName": "chuspo",
     "tweetUrl": "https://twitter.com/chuspo/status/1992699680011190663",
     "createdAt": "November 24, 2025 at 06:00AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　野望は侍ジャパンで五輪金メダル獲り!日大の大先輩・和田豊氏に続く - スポニチ Sponichi Annex 野球 https://t.co/Bd8Ypmghfn",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/1992723543663186108",
+    "createdAt": "November 24, 2025 at 07:34AM"
+  },
+  {
+    "text": "１２月９日（火）に現役ドラフトが開催されることになりました。阪神からは井上広大の名前が挙がっています。井上選手は立石、谷端と右バッターが入団して来ますので阪神では出番が無くなる可能性が高いです。他球団であれば幅広い守備力とパンチ力ある打撃で活躍できるので視野を広げて欲しいです。",
+    "userName": "Ttt2U5JKBOEq4CD",
+    "tweetUrl": "https://twitter.com/Ttt2U5JKBOEq4CD/status/1992724294477238535",
+    "createdAt": "November 24, 2025 at 07:37AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　Ｖパレードに「あの景色見られるように」東都秋季２部リーグベストナイン「プロで首位打者を」\n\nhttps://t.co/eoYhzcbUvO\n\n#谷端将伍 #阪神タイガース\n記事はこちらから👇",
+    "userName": "sportsbull_base",
+    "tweetUrl": "https://twitter.com/sportsbull_base/status/1992728843619348846",
+    "createdAt": "November 24, 2025 at 07:55AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　野望は侍ジャパンで五輪金メダル獲り!日大の大先輩・和田豊氏に続く - スポニチ Sponichi Annex 野球 https://t.co/vWlOVdiSwc",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/1992729229440790989",
+    "createdAt": "November 24, 2025 at 07:57AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　野望は侍ジャパンで五輪金メダル獲り!日大の大先輩・和田豊氏に続く - スポニチ Sponichi Annex 野球 https://t.co/SmuDDckDBr",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/1992745267804918268",
+    "createdAt": "November 24, 2025 at 09:01AM"
+  },
+  {
+    "text": "阪神ドラフト2位・谷端将伍が「対戦したいです」と語る存在 - ドラ要素＠のもとけ https://t.co/KZmP0vGR8V #dragons #中日ドラゴンズ",
+    "userName": "ddnomotoke",
+    "tweetUrl": "https://twitter.com/ddnomotoke/status/1992748483699146778",
+    "createdAt": "November 24, 2025 at 09:13AM"
+  },
+  {
+    "text": "阪神ドラフト2位・谷端将伍が「対戦したいです」と語る存在 -ドラ要素＠のもとけ https://t.co/McQOwq1OT5 #dragons #中日ドラゴンズ",
+    "userName": "gnomotoke",
+    "tweetUrl": "https://twitter.com/gnomotoke/status/1992748498568253655",
+    "createdAt": "November 24, 2025 at 09:14AM"
+  },
+  {
+    "text": "虎D2谷端がセカンドとして初のベストナイン🎖️\n首位打者は惜しくも逃したものの、プロの世界での獲得を目標とした🐯\n\n阪神・ドラ２谷端　Ｖパレードに「あの景色見られるように」東都秋季２部リーグベストナイン「プロで首位打者を」（デイリースポーツ） https://t.co/8LXEf2XSgy",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/1992758679180030245",
+    "createdAt": "November 24, 2025 at 09:54AM"
+  },
+  {
+    "text": "阪神2位の日大・谷端将伍、「次こそはホームラン」相性がいい中日1位・中西との対戦熱望　二塁手として勝負する覚悟も示す\n#谷端将伍\n#阪神\nhttps://t.co/SDEbZGcf1R",
+    "userName": "chuspo",
+    "tweetUrl": "https://twitter.com/chuspo/status/1992775175620768148",
+    "createdAt": "November 24, 2025 at 11:00AM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う(スポーツ報知)\n#Yahooニュース\nhttps://t.co/gTN888mRTO",
+    "userName": "ab1_yb",
+    "tweetUrl": "https://twitter.com/ab1_yb/status/1992800317965320302",
+    "createdAt": "November 24, 2025 at 12:39PM"
+  },
+  {
+    "text": "阪神2位・谷端将伍 野球か、食べるか、寝るか…素振り1日1000回、汗と涙の「22畳」特訓 https://t.co/sRtfMAbKAM",
+    "userName": "Celticmythology",
+    "tweetUrl": "https://twitter.com/Celticmythology/status/1992806260736155962",
+    "createdAt": "November 24, 2025 at 01:03PM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　Ｖパレードに「あの景色見られるように」東都秋季２部リーグベストナイン「プロで首位打者を」(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/wikMx8Cngq",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/1992812128965964160",
+    "createdAt": "November 24, 2025 at 01:26PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　野望は侍ジャパンで五輪金メダル獲り!日大の大先輩・和田豊氏に続く(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/eNMFZcfUqu",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/1992837238686912739",
+    "createdAt": "November 24, 2025 at 03:06PM"
+  },
+  {
+    "text": "昨日、界隈をザワつかさせてた黄昏ショット。\n『早く会いたいです！』って妙に積極的なコメントあって、お前誰やと思ったらオリの寺西くんだったｗ\n今年も谷端くんがドラ2だったし、奥川世代からしばらくの星稜ってやっぱレベル高かったんだなぁ。\n\nいつか全員揃って侍とかなったらエモすぎるな。",
+    "userName": "chains07091550",
+    "tweetUrl": "https://twitter.com/chains07091550/status/1992846545956565016",
+    "createdAt": "November 24, 2025 at 03:43PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/KclhXiUeEy\n\n阪神・ドラ２谷端Ｖパレードに「あの景色見られるように」東都秋季２部リーグベストナイン「プロで首位打者を」\nhttps://t.co/ngdphmLh9i",
+    "userName": "8damm12",
+    "tweetUrl": "https://twitter.com/8damm12/status/1992877144150782408",
+    "createdAt": "November 24, 2025 at 05:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２の日大・谷端将伍がプロでの“中西撃ち”に意欲「次こそはホームランを打ちたい」プロでもタイトル狙う - スポーツ報知 https://t.co/O0Qo4eu2jf",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/1992896566936424696",
+    "createdAt": "November 24, 2025 at 07:02PM"
+  },
+  {
+    "text": "\"阪神2位・谷端将伍 野球か、食べるか、寝るか…素振り1日1000回、汗と涙の「22畳」特訓【25年ドラフト選手の“家庭の事情” 】\" - 日刊ゲンダイDIGITAL #SmartNews  https://t.co/F1QAltI00B",
+    "userName": "kohyoh26",
+    "tweetUrl": "https://twitter.com/kohyoh26/status/1992910107852890515",
+    "createdAt": "November 24, 2025 at 07:56PM"
+  },
+  {
+    "text": "阪神・ドラ２谷端Ｖパレードに「あの景色見られるように」東都秋季２部リーグベストナイン「プロで首位打者を」 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/7O6uKV4sRP",
+    "userName": "k_1112_2",
+    "tweetUrl": "https://twitter.com/k_1112_2/status/1992952641736069631",
+    "createdAt": "November 24, 2025 at 10:45PM"
+  },
+  {
+    "text": "ｄメニューニュース:阪神2位・谷端将伍 野球か、食べるか、寝るか…素振り1日1000回、汗と涙の「22畳」特訓【25年ドラフト選手の“家庭の事情” 】（日刊ゲンダイDIGITAL） https://t.co/qk3Tha0XQa",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/1992968653902680478",
+    "createdAt": "November 24, 2025 at 11:48PM"
   }
 ]
