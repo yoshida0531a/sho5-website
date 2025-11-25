@@ -198,5 +198,29 @@
     "publishedAt": "November 24, 2025 at 07:00PM",
     "description": "こちらのチャンネルでは、阪神タイガースの情報にのみ特化し、より掘り下げてお伝えしていきます!! 阪神ファンの皆さんは ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端に速報！衝撃判明「金の話にうまい話なし」驚愕のプロの洗礼？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KOhqEZQMu28",
+    "publishedAt": "November 25, 2025 at 10:13PM",
+    "description": "プロ野球選手になったら、やっぱり気になるのはお金のこと   若きスターたちが学ぶ「プロとしてのお金の管理術」って一体 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２日大・谷端将伍「お金の話でうまい話はない、と…」税の仕組みなどの研修受けるSk king ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=FrJzCMh3KTw",
+    "publishedAt": "November 25, 2025 at 10:54PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神D2位の日大・谷端将伍が税の仕組みを学ぶ　東都大学リーグの研修会「機会をいただけてよかった」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=YxZoiV6M4EY",
+    "publishedAt": "November 26, 2025 at 12:27AM",
+    "description": "阪神D2位の日大・谷端将伍が税の仕組みを学ぶ 東都大学リーグの研修会「機会をいただけてよかった」",
+    "keyword": "谷端 阪神"
   }
 ]
