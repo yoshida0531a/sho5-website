@@ -3970,5 +3970,65 @@
     "userName": "gue686756033768",
     "tweetUrl": "https://twitter.com/gue686756033768/status/1993373692781641735",
     "createdAt": "November 26, 2025 at 02:38AM"
+  },
+  {
+    "text": "阪神D2位の日大・谷端将伍が税の仕組みを学ぶ　東都大学リーグの研修会「機会をいただけてよかった」 - サンスポ https://t.co/Qb8xlgIdGn @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/1993440673950019604",
+    "createdAt": "November 26, 2025 at 07:04AM"
+  },
+  {
+    "text": "【阪神】ドラ２日大・谷端将伍「お金の話でうまい話はない、と…」税の仕組みなどの研修受ける(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/Vo51JMEitt",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/1993466919199162876",
+    "createdAt": "November 26, 2025 at 08:48AM"
+  },
+  {
+    "text": "日本大学　谷端将伍（④星稜、阪神2位）\n\n今更ですが手持ちの安打集をまとめてみました\n最初のヒットが首位打者を確定させたもので、最後が逆転サヨナラホームランです\nここまで追っていた選手が贔屓球団に入るのは楽しみです https://t.co/yfG5Ep7SmI",
+    "userName": "South2551",
+    "tweetUrl": "https://twitter.com/South2551/status/1993477996083397051",
+    "createdAt": "November 26, 2025 at 09:32AM"
+  },
+  {
+    "text": "阪神ファン『立石9 谷端31 岡城24 早瀬46 能登99だと予想』\nhttps://t.co/pUcKYGTh1d",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/1993518824675828144",
+    "createdAt": "November 26, 2025 at 12:15PM"
+  },
+  {
+    "text": "阪神ファン『立石9 谷端31 岡城24 早瀬46 能登99だと予想』 https://t.co/p0ieNh3DhP",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/1993545425203200496",
+    "createdAt": "November 26, 2025 at 02:00PM"
+  },
+  {
+    "text": "ぷにに戦士の今後の活躍に期待したいですね。\n税の仕組み、お金の使い方…広島２位斉藤汰直、阪神２位谷端将伍ら参加　東都指名選手研修会 https://t.co/whbbw6kt3q",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/1993671993749893512",
+    "createdAt": "November 26, 2025 at 10:23PM"
+  },
+  {
+    "text": "立石、谷端、岡城、ルーカスと着実に連覇に向けて動いてるのやばい\n阪神ヤバすぎる",
+    "userName": "hiyu6yakuswa",
+    "tweetUrl": "https://twitter.com/hiyu6yakuswa/status/1993735915295183346",
+    "createdAt": "November 27, 2025 at 02:37AM"
+  },
+  {
+    "text": "【来年の阪神】\n［スタメン］\n1(中)近本\n2(二)中野\n3(左)森下\n4(右)佐藤輝\n5(一)大山\n6(遊)デバニー\n7(三)立石\n8(捕)坂本\n［先発ローテ］\n村上\n高橋遥\nデュプ\n才木\nルーカス\n大竹\n［ベンチ］\n小幡\n中川\n前川\n高寺\n熊谷\n豊田\n谷端\n百崎\n榮枝など\n［中継ぎ］\n岩崎\n及川\n桐敷\n石井\n湯浅\n畠\nドリスなど",
+    "userName": "2023Chika0914",
+    "tweetUrl": "https://twitter.com/2023Chika0914/status/1993739152471543963",
+    "createdAt": "November 27, 2025 at 02:50AM"
+  },
+  {
+    "text": "立石、谷端、岡城、早瀬、能登、神宮、山﨑の神ドラフトに加え\n\nパリーグ最優秀バッテリー賞受賞のベテラン捕手伏見に、内野のオールラウンダーの元山\n\n長打力、強肩の遊撃手のキャム・デバニーと本格左腕のイーストン・ルーカスの獲得報道\n\nこれ完全に流れが阪神に来てますね",
+    "userName": "hanshinfannoore",
+    "tweetUrl": "https://twitter.com/hanshinfannoore/status/1993741245018194288",
+    "createdAt": "November 27, 2025 at 02:58AM"
+  },
+  {
+    "text": "注目のルーカス､どうやら阪神入り決まりそう\n先発左腕､最速150中盤のパワータイプ､もちろんローテ一角を担える\nデバニー､伏見､立石､谷端､岡城､そしてルーカス\n悲願の連覇に向けて､虎は本気や",
+    "userName": "ibutora",
+    "tweetUrl": "https://twitter.com/ibutora/status/1993746640155693086",
+    "createdAt": "November 27, 2025 at 03:20AM"
   }
 ]
