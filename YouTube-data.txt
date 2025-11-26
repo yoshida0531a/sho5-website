@@ -222,5 +222,13 @@
     "publishedAt": "November 26, 2025 at 12:27AM",
     "description": "阪神D2位の日大・谷端将伍が税の仕組みを学ぶ 東都大学リーグの研修会「機会をいただけてよかった」",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端将伍、税金を学ぶ！プロ野球選手のお金事情 #谷端将伍 #阪神タイガース #野球ニュース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=0cFlHb-3n9M",
+    "publishedAt": "November 26, 2025 at 12:20PM",
+    "description": "阪神タイガースのドラフト２位、タニバタ・ショウゴ内野手が、東都大学野球連盟のドラフト指名選手対象研修に参加しました。",
+    "keyword": "谷端 阪神"
   }
 ]
