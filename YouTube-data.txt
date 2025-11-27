@@ -230,5 +230,21 @@
     "publishedAt": "November 26, 2025 at 12:20PM",
     "description": "阪神タイガースのドラフト２位、タニバタ・ショウゴ内野手が、東都大学野球連盟のドラフト指名選手対象研修に参加しました。",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ファン『立石9 谷端31 岡城24 早瀬46 能登99』 #阪神タイガース #なんj民 #藤川球児",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8lwWck1R7nw",
+    "publishedAt": "November 27, 2025 at 07:00AM",
+    "description": "野球情報の発信を行なっております。 チャンネル登録・高評価お願いいたします。 #shorts #立石 #岡城 #谷端 #佐藤輝明 #秋山 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ファン『立石9 谷端31 岡城24 早瀬46 能登99』",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_9XCX7ZpB7A",
+    "publishedAt": "November 27, 2025 at 07:01PM",
+    "description": "野球情報の発信を行なっております。 チャンネル登録・高評価お願いいたします。 #立石 #岡城 #谷端 #佐藤輝明 #前川右京 #森下 ...",
+    "keyword": "谷端 阪神"
   }
 ]
