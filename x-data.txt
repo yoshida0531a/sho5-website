@@ -4030,5 +4030,41 @@
     "userName": "ibutora",
     "tweetUrl": "https://twitter.com/ibutora/status/1993746640155693086",
     "createdAt": "November 27, 2025 at 03:20AM"
+  },
+  {
+    "text": "ドラフトで立石、谷端、岡城\nトレードで優秀なベテラン捕手の伏見\n外国人補強はデバニーとルーカス\nぶっちぎり優勝だった阪神の補強がイカついw",
+    "userName": "masaa3456",
+    "tweetUrl": "https://twitter.com/masaa3456/status/1993828946069401966",
+    "createdAt": "November 27, 2025 at 08:47AM"
+  },
+  {
+    "text": "来年佐藤がポスティングでサード空きます\n▶︎ドラ1立石、ドラ2谷端獲得します\n\nショート固定できません\n▶︎デバニー獲得します\n\n一軍実戦レベルの捕手が坂本だけです\n▶︎トレードで最優秀バッテリー賞の伏見獲得します\n\n制圧力のある左腕少ないです\n▶︎ルーカス獲得します\n\n阪神神ムーブすぎ",
+    "userName": "speed_0005",
+    "tweetUrl": "https://twitter.com/speed_0005/status/1993844024353149104",
+    "createdAt": "November 27, 2025 at 09:47AM"
+  },
+  {
+    "text": "阪神フロント\nドラフトで立石・谷端・岡城等で大成功しました\n　　　　　↓\n日ハムとのトレードで伏見獲得\n　　　　　↓\n本格派左腕イーストン・ルーカス獲得\n球団の課題点しっかり補強してるの有能すぎる",
+    "userName": "okawari_mesi",
+    "tweetUrl": "https://twitter.com/okawari_mesi/status/1993869101320872214",
+    "createdAt": "November 27, 2025 at 11:26AM"
+  },
+  {
+    "text": "球児「日本一なれんかったから、1回チームをぶっ壊すンゴ」\n阪神編成「立石！谷端！デバニー！ルーカス！」\n\n阪神ファン「やりすぎやりすぎ」",
+    "userName": "Bleu_765p",
+    "tweetUrl": "https://twitter.com/Bleu_765p/status/1993906020301853008",
+    "createdAt": "November 27, 2025 at 01:53PM"
+  },
+  {
+    "text": "1 中 近本\n2 二 中野\n3 左 森下\n4 右 佐藤輝\n5 一 大山\n6 三 立石\n7 遊 デバニー \n8 捕 坂本\n9 投\n\n来年のセリーグ、阪神が連覇確定じゃないか？\n弱かった6.7番が一気に補強されるのエグい\n坂本様は打てなくて良いしな\n\n前川、谷端、中川とかを育成しつつ、小幡、髙寺を途中出場で使える贅沢",
+    "userName": "possun28sket",
+    "tweetUrl": "https://twitter.com/possun28sket/status/1993912996897390734",
+    "createdAt": "November 27, 2025 at 02:21PM"
+  },
+  {
+    "text": "7.谷端\n和田豊ヘッドコーチと共通点が多い\n日米大学野球の活躍を再現できれば即定着もありえる\n\n8.百崎\n今季二軍で打撃が完全開花\n長打力まで手を伸ばせれば山田よりも先に一軍デビューから新人王も可能性あり",
+    "userName": "palette_iroiro",
+    "tweetUrl": "https://twitter.com/palette_iroiro/status/1994068093308682547",
+    "createdAt": "November 28, 2025 at 12:37AM"
   }
 ]
