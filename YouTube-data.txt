@@ -246,5 +246,21 @@
     "publishedAt": "November 27, 2025 at 07:01PM",
     "description": "野球情報の発信を行なっております。 チャンネル登録・高評価お願いいたします。 #立石 #岡城 #谷端 #佐藤輝明 #前川右京 #森下 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・ドラ２谷端は“練習の虫”休日は１１時間、全体練習後も毎日居残り　中学から６年間見守った星稜・山下名誉監督語る",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vC_-SrLbzwY",
+    "publishedAt": "November 29, 2025 at 05:35AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍【衝撃告白】外野挑戦！劇的展開か？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=SdO9Wniko2Q",
+    "publishedAt": "November 29, 2025 at 05:56AM",
+    "description": "え、マジ！？阪神D2位の谷端将伍選手が内外野の二刀流に挑戦！？⚾️   今回は、谷端選手が外野用グラブも用意して、与えられ ...",
+    "keyword": "谷端 阪神"
   }
 ]
