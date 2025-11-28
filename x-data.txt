@@ -4066,5 +4066,89 @@
     "userName": "palette_iroiro",
     "tweetUrl": "https://twitter.com/palette_iroiro/status/1994068093308682547",
     "createdAt": "November 28, 2025 at 12:37AM"
+  },
+  {
+    "text": "阪神ドラ2 谷端将伍選手\n\n広角にも長打が打てる強打の内野手です！ https://t.co/RwVh3K4p2s",
+    "userName": "kazenoraby",
+    "tweetUrl": "https://twitter.com/kazenoraby/status/1994166290832085098",
+    "createdAt": "November 28, 2025 at 07:07AM"
+  },
+  {
+    "text": "阪神ドラ2 谷端将伍選手\n\n理想の選手は森下翔太選手！ https://t.co/WZRMSSz6sz",
+    "userName": "kazenoraby",
+    "tweetUrl": "https://twitter.com/kazenoraby/status/1994167344097317224",
+    "createdAt": "November 28, 2025 at 07:11AM"
+  },
+  {
+    "text": "阪神ドラ2 谷端将伍選手\n\n関西での生活に絶体に持っていこうと思ってるものはイノシシの枕です https://t.co/p9miOMHCKH",
+    "userName": "kazenoraby",
+    "tweetUrl": "https://twitter.com/kazenoraby/status/1994168854818508821",
+    "createdAt": "November 28, 2025 at 07:17AM"
+  },
+  {
+    "text": "【ドラフト指名選手研修会】\n11月25(火).28日(金)に、ドラフト指名を\n受けた選手を対象に\n｢プロ野球選手のお金との向き合い方｣に\nついて\n研修会が行われました。\n\n当連盟からは11名が参加いたしました。\n\n花田　旭(東洋大)\n齊藤　汰直(亜細亜大)\n谷端　将伍(日本大)\n\nまた、上記選手の受講後の https://t.co/TVoNy4rPQn",
+    "userName": "Tohto_bbl",
+    "tweetUrl": "https://twitter.com/Tohto_bbl/status/1994263489855279611",
+    "createdAt": "November 28, 2025 at 01:34PM"
+  },
+  {
+    "text": "【ドラフト指名選手研修会】\n11月25(火).28日(金)に、ドラフト指名を\n受けた選手を対象に\n｢プロ野球選手のお金との向き合い方｣に\nついて\n研修会が行われました。\n\n当連盟からは11名が参加いたしました。\n\n花田　旭(東洋大)\n齊藤　汰直(亜細亜大)\n谷端　将伍(日本大)\n\nまた、上記選手の受講後の https://t.co/iNSFW71Xm9",
+    "userName": "Tohto_bbl",
+    "tweetUrl": "https://twitter.com/Tohto_bbl/status/1994263766780047431",
+    "createdAt": "November 28, 2025 at 01:35PM"
+  },
+  {
+    "text": "立石君作ったよ。今年のドラフト入れて反映してやりたい人は是非\n\n･西武ドラフト1位 小島大河\n･横浜ドラフト1位 小田康一郎\n･阪神ドラフト2位谷端･3位岡城･4位早瀬\n･阪神戦力外 ルーキーイヤーの森木大智\n\nもアップロード中です\n#パワプロ\n#オーペナ\n#パワプロ2025\n#阪神\n#ドラフト https://t.co/jlnviK18vm",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/1994325945390350618",
+    "createdAt": "November 28, 2025 at 05:42PM"
+  },
+  {
+    "text": "阪神タイガース支配下新入団選手5人の背番号を予想してみたい\n\n立石正広 9\n谷端将伍 24\n岡城快生 25\n早瀬　朔 34\n能登嵩都 46\n\nおまけ\nデバニー 42",
+    "userName": "gMq4lZRbaNkrFtb",
+    "tweetUrl": "https://twitter.com/gMq4lZRbaNkrFtb/status/1994333429593506279",
+    "createdAt": "November 28, 2025 at 06:11PM"
+  },
+  {
+    "text": "阪神D2位の日大・谷端将伍が税の仕組みを学ぶ　東都大学リーグの研修会「機会をいただけてよかった」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/OQOfLQMQ3M",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/1994396658789212347",
+    "createdAt": "November 28, 2025 at 10:23PM"
+  },
+  {
+    "text": "@yg_inoueharuto 一方阪神は\n\n競合で立石2位で谷端獲得\n手薄な先発左腕",
+    "userName": "0l3XFSgdDf88761",
+    "tweetUrl": "https://twitter.com/0l3XFSgdDf88761/status/1994414048780374252",
+    "createdAt": "November 28, 2025 at 11:32PM"
+  },
+  {
+    "text": "谷端が勝田だったら阪神100000点だった",
+    "userName": "2018MIIL",
+    "tweetUrl": "https://twitter.com/2018MIIL/status/1994458667337617664",
+    "createdAt": "November 29, 2025 at 02:29AM"
+  },
+  {
+    "text": "【阪神・ドラ２谷端　星稜・山下名誉監督語る】\n\n将来的な首位打者獲得に期待を寄せた。同校から松井秀喜氏をはじめ、多くのプロ野球選手を輩出した山下氏は、星稜中から星稜高に進学した谷端の練習に打ち込む姿勢や勝負強い打撃に太鼓判を押した\n\nhttps://t.co/sqTaEKLAfp",
+    "userName": "X9LzSd1Orh78942",
+    "tweetUrl": "https://twitter.com/X9LzSd1Orh78942/status/1994503105615122650",
+    "createdAt": "November 29, 2025 at 05:26AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「外野用グラブも用意」　内野本職も〝二刀流〟でポジション獲得目指す\nhttps://t.co/uijIZqrPPZ\n\n#hanshin #阪神タイガース\n阪神のドラフト2位・谷端将伍内野手（21）＝日大＝が、外野用グラブも準備していることが28日、わかった。",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/1994509808427569383",
+    "createdAt": "November 29, 2025 at 05:52AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「外野用グラブも用意」　内野本職も〝二刀流〟でポジション獲得目指す - サンスポ https://t.co/zOBmAjaJLM @SANSPOCOMより \n\n#hanshin",
+    "userName": "thomas_kz",
+    "tweetUrl": "https://twitter.com/thomas_kz/status/1994510112460083317",
+    "createdAt": "November 29, 2025 at 05:54AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端は“練習の虫”休日は１１時間、全体練習後も毎日居残り　中学から６年間見守った星稜・山下名誉監督語る(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/n988mEAbd4",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/1994513676456604040",
+    "createdAt": "November 29, 2025 at 06:08AM"
   }
 ]
