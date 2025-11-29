@@ -262,5 +262,93 @@
     "publishedAt": "November 29, 2025 at 05:56AM",
     "description": "え、マジ！？阪神D2位の谷端将伍選手が内外野の二刀流に挑戦！？⚾️   今回は、谷端選手が外野用グラブも用意して、与えられ ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2の谷端くん、過去がやばすぎた",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vTqsu47A39k",
+    "publishedAt": "November 29, 2025 at 10:43AM",
+    "description": "野球の話題を提供しております。 コメント・チャンネル登録・高評価お願い致します。 声はVOICEVOXを利用しています。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍モデル!? 衝撃バット開発【阪神, 独占】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=q6B-uGwrjSY",
+    "publishedAt": "November 29, 2025 at 11:25AM",
+    "description": "衝撃   阪神タイガースの未来を担う男、谷端将伍選手が「谷端モデル」バット発売を目指すってマジ！？   大学時代から愛用する ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍【独占】衝撃告白！大阪の●●とは？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=bP-kRUVYjho",
+    "publishedAt": "November 29, 2025 at 11:45AM",
+    "description": "阪神タイガースのドラフト2位指名、日大の谷端将伍内野手（21歳）に注目  ✨！ 関西への期待を語る谷端選手のコメントが面白 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾阪神ドラ２・谷端将伍「大阪グルメ初体験！」新人選手が語る関西生活の楽しみ🍢✨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=BORtYCvp_lQ",
+    "publishedAt": "November 29, 2025 at 11:46AM",
+    "description": "阪神タイガースのドラフト2位で指名された日大・谷端将伍選手が、入団後初めてのインタビューで関西での生活や楽しみにして ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・ドラ２谷端は“練習の虫”休日は１１時間、全体練習後も毎日居残り　中学から６年間見守った星稜・山下名誉監督語る Japani dramas ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=C5npjP4yyqo",
+    "publishedAt": "November 29, 2025 at 11:49AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「阪神ルーキー谷端くん、たこ焼き未体験！？🍢関西デビューにファン期待大✨」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=N7jlc4ZHsuA",
+    "publishedAt": "November 29, 2025 at 12:18PM",
+    "description": "阪神ドラフト2位の日大・谷端将伍内野手（21）がついに関西デビュー！大阪は中学の修学旅行以来で、なんと「たこ焼きはまだ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「大阪“怖い”と思ってた…阪神ドラ2・谷端将伍の本音が可愛すぎた😳🔥」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=xs7rZ7cEJN4",
+    "publishedAt": "November 29, 2025 at 12:31PM",
+    "description": "阪神タイガースのドラフト2位、日大・谷端将伍選手。 初めて本格的に暮らす関西の街に対して「ちょっと怖いイメージがあっ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2・谷端将伍が語る！大阪での初体験とは？ #反応集 #Shorts #阪神 #ドラフト #谷端将伍 #関西 #たこ焼き",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hnmbHiELvZw",
+    "publishedAt": "November 29, 2025 at 01:25PM",
+    "description": "https://px.a8.net/svt/ejp?a8mat=459OFB+CRMPC2+461Y+6CHB6 「阪神ドラ2・谷端将伍が語る！大阪での初体験とは？」 #阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２日大・谷端将伍「有名だと思うけど大阪で食べたことない」関西で楽しみなことは？Enhyphen150",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=xR0lLN1ab3Q",
+    "publishedAt": "November 29, 2025 at 02:34PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２谷端将伍、大学時代から「自分でオーダー」ミズノ社バットで「谷端モデル」目指す",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=OnV8tX0klLg",
+    "publishedAt": "November 29, 2025 at 03:28PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２日大・谷端将伍「有名だと思うけど大阪で食べたことない」関西で楽しみなことは",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XNOn_95xvTU",
+    "publishedAt": "November 29, 2025 at 04:17PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
