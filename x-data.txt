@@ -4354,5 +4354,35 @@
     "userName": "8_1128_03",
     "tweetUrl": "https://twitter.com/8_1128_03/status/1994764575464722541",
     "createdAt": "November 29, 2025 at 10:45PM"
+  },
+  {
+    "text": "阪神・ドラ２谷端は“練習の虫”休日は１１時間、全体練習後も毎日居残り　中学から６年間見守った星稜・山下名誉監督語る(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/riKjuJjIGt",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/1994898555086188872",
+    "createdAt": "November 30, 2025 at 07:37AM"
+  },
+  {
+    "text": "こんなの見つけた。肩は弱くない筈だが、送球が弱く見えるのは、窮屈な体勢で投げているからか。足の運びと上半身が連動していないから力が入らないのか？守備範囲が広くない一、三塁かレフトで、打撃を売りにするべき選手かな。\n\n谷端将伍（日本大学）ショート守備機会 https://t.co/0liQMgauhn",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/1994921218156499181",
+    "createdAt": "November 30, 2025 at 09:07AM"
+  },
+  {
+    "text": "今日発売の野球太郎の阪神要素\n・野球太郎ストーリーズ（立石、谷端）\n・炎のストップウォッチャー（立石）\n・育成ドラフト指名選手の素顔（山﨑）",
+    "userName": "Sinowy_arashi",
+    "tweetUrl": "https://twitter.com/Sinowy_arashi/status/1995016577331466501",
+    "createdAt": "November 30, 2025 at 03:26PM"
+  },
+  {
+    "text": "左：谷端将伍\n\n中：立石正広\n\n右：岡城快生\n\nだと思ってください、獲得しなければならない https://t.co/kdm7Fw6B2l",
+    "userName": "konoNUFC",
+    "tweetUrl": "https://twitter.com/konoNUFC/status/1995032035870871737",
+    "createdAt": "November 30, 2025 at 04:27PM"
+  },
+  {
+    "text": "＃阪神タイガース\n＃現役ドラフト\n\n現役ドラフト予想（野手2人って、できたっけ？）\n\n一人目\n＃井上広大\n（外野手）\nドラフトで立石、谷端、岡城\n獲ったからもう出番が、阪神では育てられない。\n\n2人目\n＃木浪聖也\n（内野手）\nショートにデバニーや元山飛優獲ったし若手に有望株沢山いるから世代交代",
+    "userName": "ILoveSIAMSHADE",
+    "tweetUrl": "https://twitter.com/ILoveSIAMSHADE/status/1995047919708516530",
+    "createdAt": "November 30, 2025 at 05:31PM"
   }
 ]
