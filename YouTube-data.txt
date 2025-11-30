@@ -350,5 +350,13 @@
     "publishedAt": "November 29, 2025 at 04:17PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "立石と谷端はどこて起用すべきか。サード？外野？佐藤輝はコンバート？2つのプランを考える。",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vHfkV2AdTSA",
+    "publishedAt": "November 30, 2025 at 08:01PM",
+    "description": "阪神タイガースの情報や 面白い話をお届けします！ チャンネル登録お願いします！ https://youtube.com/@torazou96 佐藤輝 MLB ...",
+    "keyword": "谷端 阪神"
   }
 ]
