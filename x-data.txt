@@ -4384,5 +4384,29 @@
     "userName": "ILoveSIAMSHADE",
     "tweetUrl": "https://twitter.com/ILoveSIAMSHADE/status/1995047919708516530",
     "createdAt": "November 30, 2025 at 05:31PM"
+  },
+  {
+    "text": "阪神・ドラ２谷端は“練習の虫”休日は１１時間、全体練習後も毎日居残り　中学から６年間見守った星稜・山下名誉監督語る/阪神タイガース/デイリースポーツ online https://t.co/VChQjJsINC",
+    "userName": "VkGCOtmiqvo8X98",
+    "tweetUrl": "https://twitter.com/VkGCOtmiqvo8X98/status/1995441035519168976",
+    "createdAt": "December 01, 2025 at 07:33PM"
+  },
+  {
+    "text": "＃阪神タイガース\n＃現役ドラフト\n予想\n\n#井上広大\n（外野手）\nドラフトで立石、谷端、岡城\n右打ちの野手獲ったからもう出番が無いのでは？阪神では育てられなかった\n＃木浪聖也\n内野手）\nショートにキャム・デバニーと元山飛優獲ったし若手に有望株沢山いるから阪神にいるより他球団のが出番あると",
+    "userName": "ILoveSIAMSHADE",
+    "tweetUrl": "https://twitter.com/ILoveSIAMSHADE/status/1995461648664998106",
+    "createdAt": "December 01, 2025 at 08:55PM"
+  },
+  {
+    "text": "まあ谷端の性格は阪神向きだと思うし、岡城も結構甲子園で輝くタイプなんじゃないかと思ってるけど",
+    "userName": "gudedora",
+    "tweetUrl": "https://twitter.com/gudedora/status/1995497077686878416",
+    "createdAt": "December 01, 2025 at 11:15PM"
+  },
+  {
+    "text": "そうか！阪神と星稜高校は谷端まで無かったのか！\n松井秀喜、奥川•••おお。。。😩\n\n阪神ドラ2の谷端くん、過去がやばすぎた https://t.co/Fwl6Vp2RpR @YouTubeより",
+    "userName": "qbkqbk01",
+    "tweetUrl": "https://twitter.com/qbkqbk01/status/1995568216727584811",
+    "createdAt": "December 02, 2025 at 03:58AM"
   }
 ]
