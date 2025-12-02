@@ -358,5 +358,13 @@
     "publishedAt": "November 30, 2025 at 08:01PM",
     "description": "阪神タイガースの情報や 面白い話をお届けします！ チャンネル登録お願いします！ https://youtube.com/@torazou96 佐藤輝 MLB ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神ドラフト選手特集・谷端将伍（上）】ずっと野球をやっていたい　土台になった少年時代からの「野球が好き」の思",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=08lVU6EZ-Is",
+    "publishedAt": "December 2, 2025 at 11:13AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
