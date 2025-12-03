@@ -366,5 +366,13 @@
     "publishedAt": "December 2, 2025 at 11:13AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】OBの名選手◯◯が語った谷端が来年の春に名を連ねるとなると、、、こりゃ将来安泰のタイガースである‼️",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=VyHu8QaOPdw",
+    "publishedAt": "December 3, 2025 at 05:00PM",
+    "description": "2025.12.3 2025年、日本一こそ成し遂げられなかったですが今後も全力応援します。 全国のタイガースファンの皆様、一緒に応援 ...",
+    "keyword": "谷端 阪神"
   }
 ]
