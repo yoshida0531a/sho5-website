@@ -374,5 +374,53 @@
     "publishedAt": "December 3, 2025 at 05:00PM",
     "description": "2025.12.3 2025年、日本一こそ成し遂げられなかったですが今後も全力応援します。 全国のタイガースファンの皆様、一緒に応援 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神がドラフト2位指名…石川県白山市出身の日大・谷端将伍 市長に活躍誓う「市の代表として頑張りたい」 (2025年12月4日)",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=1oHCgDTJzx4",
+    "publishedAt": "December 4, 2025 at 06:41PM",
+    "description": "今年のプロ野球ドラフト会議で阪神タイガースからドラフト2位で指名された白山市出身の谷端将伍（たにはたしょうご）選手。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【｢2000本安打を達成したい｣】ドラフト阪神2位指名の谷端将伍選手　地元・石川で抱負語る",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=4_stct2AlDg",
+    "publishedAt": "December 4, 2025 at 06:55PM",
+    "description": "【2025.12.04 OA】 プロ野球のドラフト会議で阪神タイガースから2位指名を受けた石川県白山市出身の谷端将伍選手が4日、入団 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【｢2000本安打を達成したい｣】ドラフト阪神2位指名の谷端将伍選手　地元・石川で抱負語る #shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eQNvfYqp5O4",
+    "publishedAt": "December 4, 2025 at 07:20PM",
+    "description": "【2025.12.04 OA】 プロ野球のドラフト会議で阪神タイガースから2位指名を受けた石川県白山市出身の谷端将伍選手が4日、入団 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神２位指名　谷端将伍さん地元・白山市に",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=h1m_8YzdjIk",
+    "publishedAt": "December 4, 2025 at 07:25PM",
+    "description": "プロ野球・阪神タイガースからドラフト指名を受けた谷端将伍選手が、地元・白山市役所を表敬訪問しました。 ４日午前、父親ら ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者Enhyphen150",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vpQV1-WcJks",
+    "publishedAt": "December 5, 2025 at 12:02AM",
+    "description": "阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=K3kglT_EOxI",
+    "publishedAt": "December 5, 2025 at 12:03AM",
+    "description": "阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位 ...",
+    "keyword": "谷端 阪神"
   }
 ]
