@@ -4564,5 +4564,179 @@
     "userName": "ILoveSIAMSHADE",
     "tweetUrl": "https://twitter.com/ILoveSIAMSHADE/status/1996212363679449545",
     "createdAt": "December 03, 2025 at 10:38PM"
+  },
+  {
+    "text": "【日刊ゲンダイ】阪神2位・谷端将伍〜\n https://t.co/uog2CYanxf \n\n星稜中は一般受験。小6秋に一念発起して受験勉強をスタート。塾などへは行かず、妻が夜遅くまで見ていました。大学進学にしても、星稜高の指定校推薦枠を利用しました\n\n日大・谷端、星稜中は一般受験で日大も指定校で入学してたのか…",
+    "userName": "tua4011",
+    "tweetUrl": "https://twitter.com/tua4011/status/1996358282919944458",
+    "createdAt": "December 04, 2025 at 08:17AM"
+  },
+  {
+    "text": "【阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者（デイリースポーツ）\n#Yahooニュース\n https://t.co/3FpQcUxzly",
+    "userName": "seiryo_fan",
+    "tweetUrl": "https://twitter.com/seiryo_fan/status/1996371299330052388",
+    "createdAt": "December 04, 2025 at 09:09AM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/ul0QGRFyh3\n\n【ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者\nhttps://t.co/kfkmuGT6Qp",
+    "userName": "5dmzn1",
+    "tweetUrl": "https://twitter.com/5dmzn1/status/1996380239413629108",
+    "createdAt": "December 04, 2025 at 09:45AM"
+  },
+  {
+    "text": "【ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/nsPQC6O8Ef",
+    "userName": "5_1203_03",
+    "tweetUrl": "https://twitter.com/5_1203_03/status/1996395327298093198",
+    "createdAt": "December 04, 2025 at 10:45AM"
+  },
+  {
+    "text": "当時の山下部長は日大進学時の谷端を将来プロ入りするレベルの選手とは見ていなかった🌟\n21年夏大での挫折が力になった🏟\n\n【阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者（デイリースポーツ） https://t.co/O3O0oSyLcd",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/1996420617101553997",
+    "createdAt": "December 04, 2025 at 12:25PM"
+  },
+  {
+    "text": "#はくさん情報まちトピ 12月4日のトピックスでは「阪神ドラフト２位　谷端将伍選手が市長表敬」「はくさん和太鼓祭」「☆スタジオトーク　パリ五輪水球日本代表　新田一景選手②」についてお伝えします。まちトピは午後6時30分から！",
+    "userName": "asagao_tv",
+    "tweetUrl": "https://twitter.com/asagao_tv/status/1996459452329828655",
+    "createdAt": "December 04, 2025 at 03:00PM"
+  },
+  {
+    "text": "阪神ドラフト２位 白山市出身の谷端将伍選手が市長を表敬訪問 https://t.co/V18uap090F https://t.co/V18uap090F",
+    "userName": "nhk_kanazawa",
+    "tweetUrl": "https://twitter.com/nhk_kanazawa/status/1996478389818155137",
+    "createdAt": "December 04, 2025 at 04:15PM"
+  },
+  {
+    "text": "“甲子園不戦敗”のショックから、日大で2季連続首位打者へ\n挫折から一段ずつ積み上げた谷端将伍\n\nドラ２からの逆襲が本当に楽しみになります\n\n#阪神タイガース\n#谷端将伍\n#Yahooニュース \n\nhttps://t.co/bEUUbu76dF",
+    "userName": "ToraLog2024",
+    "tweetUrl": "https://twitter.com/ToraLog2024/status/1996488930921943176",
+    "createdAt": "December 04, 2025 at 04:57PM"
+  },
+  {
+    "text": "「バッティングを売りに１軍入り目指す」阪神から２位指名の谷端将伍選手が飛躍誓う #石川 #ニュース #MRO https://t.co/IGqlETi5UM",
+    "userName": "mronewsdig",
+    "tweetUrl": "https://twitter.com/mronewsdig/status/1996501101881770005",
+    "createdAt": "December 04, 2025 at 05:45PM"
+  },
+  {
+    "text": "「バッティングを売りに1軍入り目指す」阪神から2位指名の谷端将伍選手が飛躍誓う（MRO北陸放送） https://t.co/2vYIEGWRW5",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/1996505011061436706",
+    "createdAt": "December 04, 2025 at 06:01PM"
+  },
+  {
+    "text": "｢2000本安打を達成したい｣　ドラフト阪神2位指名の谷端将伍選手　地元・石川で抱負語る\n#プロ野球\nhttps://t.co/XjaIX7H6z5",
+    "userName": "tvkanazawa_hodo",
+    "tweetUrl": "https://twitter.com/tvkanazawa_hodo/status/1996518175685607748",
+    "createdAt": "December 04, 2025 at 06:53PM"
+  },
+  {
+    "text": "虎D2谷端が指名後、初の帰省🪨\n白山市役所や星稜を訪問🐯\n日大の先輩でもある🌟林元監督のコメントがエモい😭\n\n阪神がドラフト2位指名…石川県白山市出身の日大・谷端将伍 市長に活躍誓う「市の代表として頑張りたい」（石川テレビ） https://t.co/wwx0ZFrZxp",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/1996519002290688126",
+    "createdAt": "December 04, 2025 at 06:56PM"
+  },
+  {
+    "text": "阪神がドラフト2位指名…石川県白山市出身の日大・谷端将伍 市長に活躍誓う「市の代表として頑張りたい」(石川テレビ)\n#Yahooニュース\nhttps://t.co/p8DTQu4vvU\n\n石川県に帰省したのね。\n星稜にも来たのね。\n星稜魂でがんばれなのね。\n\n笑",
+    "userName": "koushienmsms",
+    "tweetUrl": "https://twitter.com/koushienmsms/status/1996519822356828280",
+    "createdAt": "December 04, 2025 at 06:59PM"
+  },
+  {
+    "text": "阪神２位指名　谷端将伍さん地元・白山市に(HAB北陸朝日放送)\n#Yahooニュース\nhttps://t.co/Bkyr8Id5kP",
+    "userName": "chixxx94045980",
+    "tweetUrl": "https://twitter.com/chixxx94045980/status/1996544828755349947",
+    "createdAt": "December 04, 2025 at 08:39PM"
+  },
+  {
+    "text": "阪神がドラフト2位指名…石川県白山市出身の日大・谷端将伍 市長に活躍誓う「市の代表として頑張りたい」(石川テレビ)\n#Yahooニュース\nhttps://t.co/SCGim2iAGs",
+    "userName": "chixxx94045980",
+    "tweetUrl": "https://twitter.com/chixxx94045980/status/1996544985269961191",
+    "createdAt": "December 04, 2025 at 08:39PM"
+  },
+  {
+    "text": "【１２月４日 #能登半島地震 まとめ】震災の記憶を中高生が語り継ぐ／この冬一番の寒さ 金沢で昨夜初雪を観測／ドラフト阪神２位🐯谷端選手が地元白山市を表敬／若者中心にまん延「ゾンビたばこ」の危険性…など\nMRO北陸放送ぉ～ん・・の\n動画\nhttps://t.co/HfPd0XANwA\n#谷端将伍 \n#阪神タイガース",
+    "userName": "Kobebay30th",
+    "tweetUrl": "https://twitter.com/Kobebay30th/status/1996545884503572576",
+    "createdAt": "December 04, 2025 at 08:43PM"
+  },
+  {
+    "text": "【２０２５年１２月４日 能登半島地震まとめ】震災の記憶を中高生が語り継ぐ／この冬一番の寒さ 金沢で昨夜初雪を観測／ドラフト阪神２位谷端選手が地元白山市を表敬／若者中心にまん延「ゾンビたばこ」の危険性…など\nMRO北陸放送の動画\n⏰およそ３２分\nhttps://t.co/kC3M3Te5gj",
+    "userName": "Kobebay30th",
+    "tweetUrl": "https://twitter.com/Kobebay30th/status/1996547679510565147",
+    "createdAt": "December 04, 2025 at 08:50PM"
+  },
+  {
+    "text": "阪神タイガースに限れば\n鳥谷敬さんの「２０８５」が\n最多だったかと\n思いまする\nドラフト会議で阪神から２位指名を受けた石川県白山市出身の🐯谷端将伍選手が\n入団へ向けた抱負を語りました。\nテレビ金沢で放送ぉ～ん・・・されました\nhttps://t.co/VF9P7lADD9\n#阪神タイガース  \n#日本大学\n#谷端将伍",
+    "userName": "Kobebay30th",
+    "tweetUrl": "https://twitter.com/Kobebay30th/status/1996548611329642789",
+    "createdAt": "December 04, 2025 at 08:54PM"
+  },
+  {
+    "text": "「バッティングを売りに1軍入り目指す」阪神から2位指名の谷端将伍選手が飛躍誓う（MRO北陸放送） https://t.co/jtULbre2W7\n郷土石川の星になって\n虎の星になってほしい✨👍\n頑張れ谷端君‼️✨✨😊👍\nタイガースファンとして\n目一杯応援してますぞ✨",
+    "userName": "masacut0307",
+    "tweetUrl": "https://twitter.com/masacut0307/status/1996549040230867042",
+    "createdAt": "December 04, 2025 at 08:55PM"
+  },
+  {
+    "text": "【12月4日 能登半島地震まとめ】震災の記憶を中高生が語り継ぐ／この冬一番の寒さ 金沢で昨夜初雪を観測／ドラフト阪神２位谷端選手が地元白山市を表... https://t.co/504temAjsf @YouTubeより",
+    "userName": "cabina90",
+    "tweetUrl": "https://twitter.com/cabina90/status/1996555524289200362",
+    "createdAt": "December 04, 2025 at 09:21PM"
+  },
+  {
+    "text": "【阪神入団の谷端内野手　市長に意気込み】\n#ドラフト #白山市出身 #星稜高\nhttps://t.co/XsPz4G1ueK",
+    "userName": "hokkokushimbun",
+    "tweetUrl": "https://twitter.com/hokkokushimbun/status/1996555983670386735",
+    "createdAt": "December 04, 2025 at 09:23PM"
+  },
+  {
+    "text": "明日から年内大学野球最後の大イベント松山合宿\n\n昨年は立石と谷端がフリー打撃で柵越え(松山合宿で柵越えは毎年数人しか出ない)\n立石に関しては前代未聞の場外弾\n\n岡城は50m走で参加者トップのタイムっていう、1年経ってから見ると結果的にまじで阪神ファンにとってたまらんイベントになってた",
+    "userName": "gudedora",
+    "tweetUrl": "https://twitter.com/gudedora/status/1996557102198989224",
+    "createdAt": "December 04, 2025 at 09:28PM"
+  },
+  {
+    "text": "完全に個人的な勘でしかないんだけど来年の新人王もヤクルトから松下か増居じゃないかな〜と🤔(理由としては松下と増居は多分ほぼ強制的に出まくらなければならないのに対し阪神の立石や谷端はタダでは出られないし中日の柳松葉マラー全員残留したので新人投手トリオも良くなければ試合に出れないので)",
+    "userName": "rotomoku",
+    "tweetUrl": "https://twitter.com/rotomoku/status/1996557894880530783",
+    "createdAt": "December 04, 2025 at 09:31PM"
+  },
+  {
+    "text": "阪神入団の谷端内野手「白山の代表として活躍」　市長に意気込み\n\nhttps://t.co/ZcCbij4d30",
+    "userName": "hfhfa242645",
+    "tweetUrl": "https://twitter.com/hfhfa242645/status/1996565153199116450",
+    "createdAt": "December 04, 2025 at 10:00PM"
+  },
+  {
+    "text": "阪神２位指名　谷端将伍さん地元・白山市に(HAB北陸朝日放送)\n\nhttps://t.co/D47pneHAYD",
+    "userName": "cPiWdFeW0094235",
+    "tweetUrl": "https://twitter.com/cPiWdFeW0094235/status/1996577847368966294",
+    "createdAt": "December 04, 2025 at 10:50PM"
+  },
+  {
+    "text": "谷端将伍のイメージとして近いのは牧原大成かも\n基本的に早打ちで四球は少なめ、コンスタントに単打を打つタイプだけどツボに入ると長打を量産、守備は特段上手くはないけどショート以外はボチボチ守れる",
+    "userName": "homelander724",
+    "tweetUrl": "https://twitter.com/homelander724/status/1996585111375274338",
+    "createdAt": "December 04, 2025 at 11:19PM"
+  },
+  {
+    "text": "【阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位打者(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/H9pPIoCw5n ＃阪神タイガース　谷端選手は「頑張り屋さん。」むくわれてほしいなあ。",
+    "userName": "pokapokapo36501",
+    "tweetUrl": "https://twitter.com/pokapokapo36501/status/1996591764212457582",
+    "createdAt": "December 04, 2025 at 11:45PM"
+  },
+  {
+    "text": "「2000本安打を達成したい」　ドラフト阪神2位指名の谷端将伍選手　地元・石川で抱負語る(テレビ金沢)\n\nhttps://t.co/DKFJS6YsfB",
+    "userName": "Long55752020245",
+    "tweetUrl": "https://twitter.com/Long55752020245/status/1996609997674004918",
+    "createdAt": "December 05, 2025 at 12:58AM"
+  },
+  {
+    "text": "「バッティングを売りに1軍入り目指す」阪神から2位指名の谷端将伍選手が飛躍誓う(MRO北陸放送)\n\nhttps://t.co/M8VfRBVhDq",
+    "userName": "9m6hyBoln180616",
+    "tweetUrl": "https://twitter.com/9m6hyBoln180616/status/1996668594827248014",
+    "createdAt": "December 05, 2025 at 04:51AM"
   }
 ]
