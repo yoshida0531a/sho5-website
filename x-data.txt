@@ -4738,5 +4738,83 @@
     "userName": "9m6hyBoln180616",
     "tweetUrl": "https://twitter.com/9m6hyBoln180616/status/1996668594827248014",
     "createdAt": "December 05, 2025 at 04:51AM"
+  },
+  {
+    "text": "「バッティングを売りに1軍入り目指す」阪神から2位指名の谷端将伍選手が飛躍誓う（MRO北陸放送）\n https://t.co/4wmdebrpD2",
+    "userName": "kagetora12898",
+    "tweetUrl": "https://twitter.com/kagetora12898/status/1996707473210986525",
+    "createdAt": "December 05, 2025 at 07:25AM"
+  },
+  {
+    "text": "「2000本安打を達成したい」　ドラフト阪神2位指名の谷端将伍選手　地元・石川で抱負語る（テレビ金沢） https://t.co/Zz6OkHAro0",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/1996719055731069126",
+    "createdAt": "December 05, 2025 at 08:11AM"
+  },
+  {
+    "text": "阪神2位・谷端将伍 野球か、食べるか、寝るか…素振り1日1000回、汗と涙の「22畳」特訓｜野球｜日刊ゲンダイDIGITAL https://t.co/RtRRrX08Do",
+    "userName": "horu_tenkura",
+    "tweetUrl": "https://twitter.com/horu_tenkura/status/1996732076717232357",
+    "createdAt": "December 05, 2025 at 09:03AM"
+  },
+  {
+    "text": "「お涙頂戴」と「感動ストーリー」は要らんて\n自分らで１４年前から\nゆうとったやないか\n【１２月４日 #能登半島地震 まとめ】震災の記憶を中高生が語り継ぐ／この冬一番の寒さ 金沢で昨夜初雪を観測／ドラフト阪神２位谷端選手が地元白山市を表敬\nMRO北陸放送の動画\n⏰３２分\nhttps://t.co/57vrZqv9Pn",
+    "userName": "Kobebay30th",
+    "tweetUrl": "https://twitter.com/Kobebay30th/status/1996768523000205580",
+    "createdAt": "December 05, 2025 at 11:28AM"
+  },
+  {
+    "text": "【１２月４日 能登半島地震まとめ】震災の記憶を中高生が語り継ぐ／この冬一番の寒さ 金沢で昨夜初雪を観測／ドラフト阪神２位谷端選手が地元白山市を表敬／若者中心にまん延「ゾンビたばこ」の危険性…など\nMRO北陸放送の動画\n⏰およそ３２分\nhttps://t.co/jilFAXzErM",
+    "userName": "Kobebay30th",
+    "tweetUrl": "https://twitter.com/Kobebay30th/status/1996769321595686926",
+    "createdAt": "December 05, 2025 at 11:31AM"
+  },
+  {
+    "text": "@tama51540384337 北村拓己が押し出されるかのように谷端将吾がヤクルトに入ったのはなんだかやるせなくなりますね　星稜高校OB同士で椅子を取り合う事になろうとは…",
+    "userName": "teeth_ache",
+    "tweetUrl": "https://twitter.com/teeth_ache/status/1996784555458765037",
+    "createdAt": "December 05, 2025 at 12:31PM"
+  },
+  {
+    "text": "阪神2位・谷端将伍 野球か、食べるか、寝るか…素振り1日1000回、汗と涙の「22畳」特訓｜野球｜日刊ゲンダイDIGITAL https://t.co/Dg4nar2KfY",
+    "userName": "seiryo_fan",
+    "tweetUrl": "https://twitter.com/seiryo_fan/status/1996843972724248600",
+    "createdAt": "December 05, 2025 at 04:27PM"
+  },
+  {
+    "text": "飛び抜けた身体能力、パワーがある場合は恐らく例外になるとして、大学時代の成績でオールドスタッツは概ね良好ではあるが四球数＜＜＜三振数のバッターの評価が難しい\n今年でいうと谷端とかがそれにあたるが",
+    "userName": "SUCwc",
+    "tweetUrl": "https://twitter.com/SUCwc/status/1996962117023633869",
+    "createdAt": "December 06, 2025 at 12:17AM"
+  },
+  {
+    "text": "【阪神ドラフト選手特集・谷端将伍（中）】自信のなさを埋めた「執念」　星稜中＆星稜高で朝から夜まで野球漬け(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/YVU2PxBSNL",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/1996972322163773658",
+    "createdAt": "December 06, 2025 at 12:57AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】中野拓夢は新人からの質問歓迎「答えられる範囲で」ドラ１立石、ドラ２谷端は同じ内野手 https://t.co/Y3qGzCqvQT #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/1997040048135385308",
+    "createdAt": "December 06, 2025 at 05:27AM"
+  },
+  {
+    "text": "阪神・中野　立石＆谷端ら新人指導に前向き「後輩に受け継いでいくこと大事」チーム力底上げへ貢献誓った（デイリースポーツ） https://t.co/V6YpZCG50V\n📣",
+    "userName": "Inokori335",
+    "tweetUrl": "https://twitter.com/Inokori335/status/1997041948574826700",
+    "createdAt": "December 06, 2025 at 05:34AM"
+  },
+  {
+    "text": "ﾏｲﾅﾋﾞｵｰﾙｽﾀｰ\n能登半島地震被災地復興支援\n石川富山枠⁉️\n\n奥川恭伸（星稜~ﾔｸﾙﾄ\n山瀬慎之介（星稜~読売\n森田駿哉（富山商~読売\n内山壮真（星稜~ﾔｸﾙﾄ\n山崎颯一郎（敦賀気比~オリ\n青野拓海（氷見~楽天\n齋藤大翔（金沢高~西武\n谷端将伍（星稜~日大~阪神\n岩城颯空（富山商~中大~西武\nなど https://t.co/AjGHX7JpzQ",
+    "userName": "H_I_T_03_plus_1",
+    "tweetUrl": "https://twitter.com/H_I_T_03_plus_1/status/1997048694513029534",
+    "createdAt": "December 06, 2025 at 06:01AM"
+  },
+  {
+    "text": "【阪神】中野拓夢は新人からの質問歓迎「答えられる範囲で」ドラ１立石、ドラ２谷端は同じ内野手(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/ZTp1dAVd1e",
+    "userName": "toratora_mk1",
+    "tweetUrl": "https://twitter.com/toratora_mk1/status/1997054321381593242",
+    "createdAt": "December 06, 2025 at 06:23AM"
   }
 ]
