@@ -422,5 +422,21 @@
     "publishedAt": "December 5, 2025 at 12:03AM",
     "description": "阪神ドラフト選手特集・谷端将伍（下）】夏の甲子園は無念の不戦敗「もう頭がもう真っ白」苦難乗り越え日大で２季連続首位 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "長野から村田から！阪神D2位・谷端将伍が日大魂の継承誓う",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eTVQ89Tp75o",
+    "publishedAt": "December 7, 2025 at 01:02PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「阪神ドラ2・谷端将伍…“謝罪”から始まった挑戦🔥 若き主砲の決意とは」#阪神タイガース#谷端将伍#ドラフト2025#大学野球#日大野球部#プロ野球ニュース#2000安打#東都大学野球#和田豊",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Dbfk-S5MwW4",
+    "publishedAt": "December 7, 2025 at 02:05PM",
+    "description": "阪神タイガースにドラフト2位で指名された、日本大学の谷端将伍。 華やかな創部100周年祝賀会の壇上で、彼が最初に口にしたの ...",
+    "keyword": "谷端 阪神"
   }
 ]
