@@ -438,5 +438,13 @@
     "publishedAt": "December 7, 2025 at 02:05PM",
     "description": "阪神タイガースにドラフト2位で指名された、日本大学の谷端将伍。 華やかな創部100周年祝賀会の壇上で、彼が最初に口にしたの ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】和田ヘッド、ドラ2谷端をいじるw　阪神ファンの反応集",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-Q2f2YyuR5Y",
+    "publishedAt": "December 8, 2025 at 02:10PM",
+    "description": "今回の動画は和田ヘッド、ドラ2谷端をいじるwとタイガースファンの反応をまとめた動画内容になります。 トラジ 阪神 ...",
+    "keyword": "谷端 阪神"
   }
 ]
