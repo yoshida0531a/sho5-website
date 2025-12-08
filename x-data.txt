@@ -5122,5 +5122,41 @@
     "userName": "yasuhiro19691",
     "tweetUrl": "https://twitter.com/yasuhiro19691/status/1997726409129930777",
     "createdAt": "December 08, 2025 at 02:54AM"
+  },
+  {
+    "text": "阪神新人入団選手背番号予想\n立石正広　9（内定）\n谷端将伍　24\n岡城快生　25\n早瀬朔　　34\n能登嵩都　46",
+    "userName": "yakiuhydro_tora",
+    "tweetUrl": "https://twitter.com/yakiuhydro_tora/status/1997803310242263082",
+    "createdAt": "December 08, 2025 at 08:00AM"
+  },
+  {
+    "text": "【阪神】和田ヘッド「かわいい後輩と思ったら…金本さんの６番だった」後輩のドラ２谷端イジる(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/o4htMttrEM",
+    "userName": "hidemaru_se",
+    "tweetUrl": "https://twitter.com/hidemaru_se/status/1997878358588416337",
+    "createdAt": "December 08, 2025 at 12:58PM"
+  },
+  {
+    "text": "新人選手背番号予想\n立石→9(報道あり)\n谷端→25\n岡城→55\n早瀬→34\n能登→46\n育成は分からん\n\n一応阪神の欠番が\n00,9,15,24,25,31,34,42,44,46,55\n70番以降はルーキーに与える可能性は低いので割愛",
+    "userName": "sato_teriyaki_8",
+    "tweetUrl": "https://twitter.com/sato_teriyaki_8/status/1997880890266149083",
+    "createdAt": "December 08, 2025 at 01:08PM"
+  },
+  {
+    "text": "阪神の新人入団会見は明日ですかね\n\n立石→9\n谷端→24\n岡城→25\nにならないかな\n\n超変革元年にHMが作られた髙山・横田・江越と同じ背番号",
+    "userName": "stasta646829",
+    "tweetUrl": "https://twitter.com/stasta646829/status/1997935427022680156",
+    "createdAt": "December 08, 2025 at 04:45PM"
+  },
+  {
+    "text": "もう彼のことは見切ってるファンが正常やと思う。立石・谷端がサードに回ったらテルが外野に来るから二軍で塩漬けにされるのは火を見るよりも明らかなのにトークショー祭りしてるんやから。\nなぜ阪神は高卒が育たないのかってのを教えてくれてるようなもんだよ。 https://t.co/H4cMcIQOgg",
+    "userName": "WcCwp659",
+    "tweetUrl": "https://twitter.com/WcCwp659/status/1998042795366617169",
+    "createdAt": "December 08, 2025 at 11:51PM"
+  },
+  {
+    "text": "阪神ドラフト2位　谷端選手\n大学リーグ戦データ(1部リーグ)\n\n試合60　打数191　安打54\n打率.283　本塁打6　盗塁7\n出塁.335　長打.450　OPS.785\n\n日本一レベルの高い東都リーグでベストナイン3回、首位打者2回の実力者。広角に長打打て内外野守れるユーティリティ性もあり。\n https://t.co/e4gj2mJftR",
+    "userName": "Secret_Analyze",
+    "tweetUrl": "https://twitter.com/Secret_Analyze/status/1998141847001301412",
+    "createdAt": "December 09, 2025 at 06:25AM"
   }
 ]
