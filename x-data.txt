@@ -5158,5 +5158,137 @@
     "userName": "Secret_Analyze",
     "tweetUrl": "https://twitter.com/Secret_Analyze/status/1998141847001301412",
     "createdAt": "December 09, 2025 at 06:25AM"
+  },
+  {
+    "text": "外野手\n豊田小野寺◎、島田井上◯\n内野手とは逆に候補が多いのが外野手。\n来年立石・谷端・前川が争うことになりそうだし、今年出番の少なかったレフトは整理したい。\n豊田小野寺はどっちも苦労人だけど….こちらも阪神で出番があるのかというと……\n井上も同様だがまだ戦力化の可能性あると思う。",
+    "userName": "1104_palmia",
+    "tweetUrl": "https://twitter.com/1104_palmia/status/1998172263305413008",
+    "createdAt": "December 09, 2025 at 08:26AM"
+  },
+  {
+    "text": "阪神・佐野が３０万増の７３０万円でサイン　立石、谷端ら同じ内野のルーキーを強く意識「目の色を変えて頑張りたい」\nhttps://t.co/ueXgAstPCQ\n\n　阪神の佐野大陽内野手（２３）が９日、兵庫県西宮市内の球団事務所で契約更改交渉に臨み、３０万増の７３０万円でサインした。（金額は推定）\n\n　ル...",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/1998290752410169497",
+    "createdAt": "December 09, 2025 at 04:16PM"
+  },
+  {
+    "text": "スタメン獲得を目指せ！\n\n阪神・佐野が３０万増の７３０万円でサイン　立石、谷端ら同じ内野のルーキーを強く意識「目の色を変えて頑張りたい」/阪神タイガース/デイリースポーツ online https://t.co/1IrX8wppS3 @Daily_Onlineより",
+    "userName": "torakichiclub",
+    "tweetUrl": "https://twitter.com/torakichiclub/status/1998294680392679723",
+    "createdAt": "December 09, 2025 at 04:32PM"
+  },
+  {
+    "text": "阪神・佐野が３０万増の７３０万円でサイン　立石、谷端ら同じ内野のルーキーを強く意識「目の色を変えて頑張りたい」https://t.co/HYnX0C7P7t\n#阪神 #tigers #タイガース #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/1998295323425542163",
+    "createdAt": "December 09, 2025 at 04:35PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/ridKIyWJlG\n\n阪神・佐野が３０万増の７３０万円でサイン立石、谷端ら同じ内野のルーキーを強く意識「目の色を変えて頑張りたい」\nhttps://t.co/XJhpPUJ4zW",
+    "userName": "5dmzn4",
+    "tweetUrl": "https://twitter.com/5dmzn4/status/1998297868684460265",
+    "createdAt": "December 09, 2025 at 04:45PM"
+  },
+  {
+    "text": "阪神・佐野が３０万増の７３０万円でサイン　立石、谷端ら同じ内野のルーキーを強く意識「目の色を変えて頑張りたい」(デイリースポーツ)\n https://t.co/mGdlloAmhy\n\n年俸アップは期待も込めてということだと思うので、頑張ってほしいです！\n#佐野大陽\n#日本海リーグ #富山GRNサンダーバーズ 出身",
+    "userName": "dokuritul",
+    "tweetUrl": "https://twitter.com/dokuritul/status/1998299876673904819",
+    "createdAt": "December 09, 2025 at 04:53PM"
+  },
+  {
+    "text": "知野は第二の細川を狙った感じだな。阪神の井上はもったいなさを感じたけど、ロッテの方が出れるかもな。ドラフトで谷端や立石がとれて、ポジション違うとはいえ、キャラ被りしたところがあるんで。守備はもっと頑張って、長打力を発揮してロッテでたくさん出てほしいな。",
+    "userName": "Torasshi_CRZJEF",
+    "tweetUrl": "https://twitter.com/Torasshi_CRZJEF/status/1998308986073051248",
+    "createdAt": "December 09, 2025 at 05:29PM"
+  },
+  {
+    "text": "@usagi_k_s 阪神ファンとしては井上は想定内でした\n立石と谷端をドラフトで獲得したのを見て色々と察するとこありましたよ\n\n実際に１軍での成績考えたら来年辺りで戦力外になってもおかしくないとこまで来てたので、それなら環境変えて頑張ってほしいとまで思ってましたし",
+    "userName": "kuroranks",
+    "tweetUrl": "https://twitter.com/kuroranks/status/1998309376243970072",
+    "createdAt": "December 09, 2025 at 05:30PM"
+  },
+  {
+    "text": "2027\n1.(中)近本光司\n2.(ニ)中野拓夢\n3.(右)森下翔太\n4.(三)佐藤輝明\n5.(一)大山悠輔\n6.(左)立石正広\n7.(遊)谷端将伍\n8.(DH)濱田太貴\n9.(捕)中川勇斗\nポジション適正とかメジャー挑戦とか無視したら最強すぎないか笑\n#阪神タイガース",
+    "userName": "meiyakujun",
+    "tweetUrl": "https://twitter.com/meiyakujun/status/1998312126457446642",
+    "createdAt": "December 09, 2025 at 05:41PM"
+  },
+  {
+    "text": "井上広大が現ドラでロッテへ移籍\n\nタイガース的にどうってより、井上の為には絶対この方がいい\n前川がいて中川も髙寺も出てきた\n立石、谷端が入って西純も野手転向\n\nこのままいても間違いなく阪神では出番ががない\nロッテで細川のみたく覚醒できるよう頑張れ！\n\n#井上広大\n#阪神タイガース",
+    "userName": "Marbou_2003",
+    "tweetUrl": "https://twitter.com/Marbou_2003/status/1998312400056107100",
+    "createdAt": "December 09, 2025 at 05:42PM"
+  },
+  {
+    "text": "井上広大、レフトががら空きだった今年結果が残せなかった時点で相当苦しいなとは思ってた。立石谷端くるし。\n限られた打席で結果を出すというよりは、打席数をたくさんもらって大きなリターンを出すタイプだったしもう阪神だと苦しかったなあ。",
+    "userName": "rag_bknb",
+    "tweetUrl": "https://twitter.com/rag_bknb/status/1998312706223513879",
+    "createdAt": "December 09, 2025 at 05:44PM"
+  },
+  {
+    "text": "井上広大を大山のバックアップにめっちゃ評価してるやつらいて笑ったわ。井上程度の内野手なら阪神になんぼでもいるじゃん。\n\n小幡木浪前川小野寺立石谷端(デバニー)\n誰でも互角以上に争えるわ。",
+    "userName": "p4JzwfmU",
+    "tweetUrl": "https://twitter.com/p4JzwfmU/status/1998324072208580930",
+    "createdAt": "December 09, 2025 at 06:29PM"
+  },
+  {
+    "text": "阪神 佐野大陽 契約更改\n30万増の730万円\n\n「すごく悔しいシーズンだった。より一層目の色を変えて、意識を180度変えて頑張りたい」\n\nオフは同郷で中日の村松と自主トレを敢行する。\n来季はドラフト1位の立石、同2位の谷端と内野のルーキーたちが加入する。\nhttps://t.co/Bpm45l6vDZ",
+    "userName": "amukeyo81",
+    "tweetUrl": "https://twitter.com/amukeyo81/status/1998324986700845145",
+    "createdAt": "December 09, 2025 at 06:32PM"
+  },
+  {
+    "text": "阪神の来年の布陣がわからんくなってきた。\nレフトを前川、西純、井坪をいいやつ順で使う？\n立石くんはどうするん？内野も出るとこないぞ...\n立石サードで佐藤ライトならレフト森下で外野は完全固定\n中野ショートで立石セカンド？立石ショート？あと谷端くんも使いたいんだけど...",
+    "userName": "h2_free",
+    "tweetUrl": "https://twitter.com/h2_free/status/1998327770347192398",
+    "createdAt": "December 09, 2025 at 06:44PM"
+  },
+  {
+    "text": "昨日とか今日発表されたあとも井上の移籍について言われてるけど正直もう阪神ではキツかったと思うけどな。高卒から入って6年同じ環境で1軍で大きな成果を残せなかったし、一塁の編成のことも言われるけど井上のあの守備力なら前川とか谷端くんにやらせてもいいと思うし、まあ環境変えて頑張ってくれ。",
+    "userName": "chika5_Jude5",
+    "tweetUrl": "https://twitter.com/chika5_Jude5/status/1998333136942600225",
+    "createdAt": "December 09, 2025 at 07:05PM"
+  },
+  {
+    "text": "濱田かー\n\n阪神ファン的には井上よりちょっと良いぐらい？\n\n何にせよレフトは立石、谷端、岡城、濱田、前川、中川で争って欲しいねー\n\n高寺は小幡とかとショートで勝負して欲しいが果たして",
+    "userName": "kanna1472583691",
+    "tweetUrl": "https://twitter.com/kanna1472583691/status/1998334903877066889",
+    "createdAt": "December 09, 2025 at 07:12PM"
+  },
+  {
+    "text": "来年の阪神強すぎる。\n想定オーダー\n１番近本\n２番中野\n３番森下\n４番佐藤輝\n５番大山\n６番立石\n７番谷端orデバニー\n8番坂本\n９番投手\n代打　濱田　高寺　前川　小野寺　島田　元山\nなど\nデバニーは、獲得していないため不透明\n#阪神タイガース",
+    "userName": "QsGPOWM4Ka66150",
+    "tweetUrl": "https://twitter.com/QsGPOWM4Ka66150/status/1998339025573146783",
+    "createdAt": "December 09, 2025 at 07:28PM"
+  },
+  {
+    "text": "決まってない新入団選手の背番号予想でもするか\n\n谷端将伍→25\n岡城快生→46\n早瀬朔→34\n濱田太貴→55\n(デバニー→44)\n(ルーカス→15)\n\nかな\nデュープ退団ならルーカスは20かもね\n純矢は支配下復帰したとしても野手番号でしょう、それこそ32とかね\n髙寺32でもいいけど、左打ちの天才って坪井っぽいし",
+    "userName": "Wayu89823207",
+    "tweetUrl": "https://twitter.com/Wayu89823207/status/1998356698659176714",
+    "createdAt": "December 09, 2025 at 08:38PM"
+  },
+  {
+    "text": "新しく来た濱田は今年100打席で打率.221 4ホームラン ヒットの半分が長打は典型的な当たれば飛ぶタイプか\nopsもほぼ7あるし右の控えは立石 谷端も入るからかなり激戦区だけど期待してるよ😎\n井上は阪神では開花出来なかったけどロッテで覚醒出来るように応援してるから頑張ってね💪",
+    "userName": "Ryuga_miyabi",
+    "tweetUrl": "https://twitter.com/Ryuga_miyabi/status/1998357947421016077",
+    "createdAt": "December 09, 2025 at 08:43PM"
+  },
+  {
+    "text": "阪神野手は今年より来年の方が間違いなく層は暑くなってはいる\n\nOut  原口、ラモヘル、野口、渡邉諒、楠本\n\nin   伏見、濱田、元山、立石、谷端、岡城、デバニー\n\nまぁ代打枠はなんとか厚み持たせれそうではある",
+    "userName": "TrysailYODA0907",
+    "tweetUrl": "https://twitter.com/TrysailYODA0907/status/1998363329371496894",
+    "createdAt": "December 09, 2025 at 09:05PM"
+  },
+  {
+    "text": "阪神・佐野が３０万増の７３０万円でサイン立石、谷端ら同じ内野のルーキーを強く意識「目の色を変えて頑張りたい」 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/fXrhjyRhkB",
+    "userName": "5_1203_02",
+    "tweetUrl": "https://twitter.com/5_1203_02/status/1998388450240921679",
+    "createdAt": "December 09, 2025 at 10:45PM"
+  },
+  {
+    "text": "2026阪神新応援歌作成ダービー\n◎ 伏見 髙寺\n〇 中川 立石\n△ 熊谷  豊田 植田 濱田 \n？ 谷端 岡城",
+    "userName": "doigakibaseball",
+    "tweetUrl": "https://twitter.com/doigakibaseball/status/1998391579321815478",
+    "createdAt": "December 09, 2025 at 10:57PM"
   }
 ]
