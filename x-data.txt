@@ -5290,5 +5290,59 @@
     "userName": "doigakibaseball",
     "tweetUrl": "https://twitter.com/doigakibaseball/status/1998391579321815478",
     "createdAt": "December 09, 2025 at 10:57PM"
+  },
+  {
+    "text": "阪神・佐野　内野のルーキー選手に闘志　立石＆谷端に負けない　３０万増でサイン「パワーつける」（デイリースポーツ） https://t.co/ecmdmgXYxF",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/1998513875764064716",
+    "createdAt": "December 10, 2025 at 07:03AM"
+  },
+  {
+    "text": "阪神・佐野　内野のルーキー選手に闘志　立石＆谷端に負けない　３０万増でサイン「パワーつける」/阪神タイガース/デイリースポーツ online https://t.co/3Tz3KgQMLY #阪神 #tigers #タイガース #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/1998530268559454234",
+    "createdAt": "December 10, 2025 at 08:08AM"
+  },
+  {
+    "text": "@wbtYiPLfdZvwh6p 環境変わってどうかですが、阪神は投手は上手く育成するが野手は？何ですよね\n基本的には立石、谷端に期待かな",
+    "userName": "tigerstsuboi32",
+    "tweetUrl": "https://twitter.com/tigerstsuboi32/status/1998539458568925361",
+    "createdAt": "December 10, 2025 at 08:45AM"
+  },
+  {
+    "text": "【阪神】\n甲子園の浜風対策か\n今オフ補強\nキーワードは『右打ちの野手』\nhttps://t.co/rJDcBjngU9\n\nドラフト指名の立石、谷端、岡城\n獲得秒読みのデバニー\n現役ドラフトで獲得の濱田\n上記全員が右打ち野手",
+    "userName": "HT_no3939",
+    "tweetUrl": "https://twitter.com/HT_no3939/status/1998586305916416190",
+    "createdAt": "December 10, 2025 at 11:51AM"
+  },
+  {
+    "text": "流石に大道と佐藤いなかったらまだましな濱田行くのは分かるが・・・同じ外野で明らかに格が上の佐藤・投手が足りてないのに大道いかずに濱田育理由がわかんねーよ\n\n阪神は濱田に夢見てんのか？中川・前川・立石・谷端がいて外国人で埋めやすいぞ？\n代打で使いつぶすにいい枠かもしれんけどさ",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/1998642135076319236",
+    "createdAt": "December 10, 2025 at 03:33PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/7fOYmjXek6\n\n阪神・佐野内野のルーキー選手に闘志立石＆谷端に負けない３０万増でサイン「パワーつける」\nhttps://t.co/NsaStpkn4c",
+    "userName": "5dmzn2",
+    "tweetUrl": "https://twitter.com/5dmzn2/status/1998660277915849026",
+    "createdAt": "December 10, 2025 at 04:45PM"
+  },
+  {
+    "text": "阪神は一向に助っ人補強の公式も来ないし新入団選手会見もないけどもしかして立石も谷端もデバニーも全て夢だったんですか？",
+    "userName": "han_kusuu",
+    "tweetUrl": "https://twitter.com/han_kusuu/status/1998663475896422603",
+    "createdAt": "December 10, 2025 at 04:58PM"
+  },
+  {
+    "text": "阪神・佐野内野のルーキー選手に闘志立石＆谷端に負けない３０万増でサイン「パワーつける」 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/uMzvwDxReK",
+    "userName": "9_1120_01",
+    "tweetUrl": "https://twitter.com/9_1120_01/status/1998690446911164781",
+    "createdAt": "December 10, 2025 at 06:45PM"
+  },
+  {
+    "text": "久しぶりに阪神新人の背番号予想（2025）\n\n立石9\n谷端25\n岡城31\n早瀬46\n能登34\n\n濱田は32かな、55も似合うけど",
+    "userName": "toratora3338",
+    "tweetUrl": "https://twitter.com/toratora3338/status/1998768434465923208",
+    "createdAt": "December 10, 2025 at 11:55PM"
   }
 ]
