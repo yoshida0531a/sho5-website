@@ -5344,5 +5344,23 @@
     "userName": "toratora3338",
     "tweetUrl": "https://twitter.com/toratora3338/status/1998768434465923208",
     "createdAt": "December 10, 2025 at 11:55PM"
+  },
+  {
+    "text": "創価大・立石正広内野手（22）、日大・谷端将伍内野手（21）、筑波大・岡城快生外野手（23）と3人ともが右打ち。新外国人候補、カム・デバニー内野手（28）も右打ち。\n今季退団した原口文仁、渡辺諒、野口恭佑の分を補うような形になる。\n\n#Yahooニュース\nhttps://t.co/1JdO2blssW",
+    "userName": "omaru20180202",
+    "tweetUrl": "https://twitter.com/omaru20180202/status/1998868711760142485",
+    "createdAt": "December 11, 2025 at 06:33AM"
+  },
+  {
+    "text": "2026年注目選手\n\n【阪神】\n下村、今朝丸、工藤、湯浅\n中川、嶋村\n元山、立石、谷端、山田、百崎\n濱田、西純、コンスエグラ\n\n【千葉】\n中森、池田、石垣、井上、山口\n\n【西武】\n平良、村田、蛭間、奥村",
+    "userName": "makimaki2329",
+    "tweetUrl": "https://twitter.com/makimaki2329/status/1998981022990708968",
+    "createdAt": "December 11, 2025 at 01:59PM"
+  },
+  {
+    "text": "この前東京行ったとき、電車で阪神の和田ヘッドに似た人見たんやけど気のせいかなぁ\n次の日に谷端に挨拶行った記事出てたけどまさかな・・・",
+    "userName": "Y_TAK_DLC",
+    "tweetUrl": "https://twitter.com/Y_TAK_DLC/status/1999083987239879092",
+    "createdAt": "December 11, 2025 at 08:48PM"
   }
 ]
