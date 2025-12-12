@@ -462,5 +462,13 @@
     "publishedAt": "December 11, 2025 at 11:03PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております！ 阪神タイガースと共に人生を歩み、青春をほぼ全て ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！谷端将伍、歴史的逆転判明！母独占告白「衝撃展開、状況一変」スター激突？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=RK2f4_wa-XU",
+    "publishedAt": "December 12, 2025 at 08:03AM",
+    "description": "阪神タイガース期待の新星、谷端将伍選手に密着！ドラフト2位の才能が育まれた、感動の幼少期を振り返る連載「虎宝」の第1回 ...",
+    "keyword": "谷端 阪神"
   }
 ]
