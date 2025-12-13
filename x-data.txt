@@ -5416,5 +5416,41 @@
     "userName": "mamorukuni1988",
     "tweetUrl": "https://twitter.com/mamorukuni1988/status/1999380566194409627",
     "createdAt": "December 12, 2025 at 04:27PM"
+  },
+  {
+    "text": "【阪神・和田豊　日大の後輩D2位・谷端将伍を鍛える】\n\n「6番をつけたいと報道で見たから、かわいい後輩だなと思っていたら、金本さんの6番っていうんで（笑）」。会場は笑い声に包まれた。\n\n#谷端将伍\nhttps://t.co/q5yDLUKIzC",
+    "userName": "X9LzSd1Orh78942",
+    "tweetUrl": "https://twitter.com/X9LzSd1Orh78942/status/1999726116643439038",
+    "createdAt": "December 13, 2025 at 03:20PM"
+  },
+  {
+    "text": "阪神・和田豊ヘッドコーチ「6番をつけたいっていうからかわいいなと思ったけど…」　日大の後輩D2位・谷端将伍を鍛える！\nhttps://t.co/RPJ0jLXS8z　今の大学生の年代だと和田HCの現役時代のイメージはないよね？金本元監督のイメージになるのはやむを得ないw。",
+    "userName": "hfsfansince2005",
+    "tweetUrl": "https://twitter.com/hfsfansince2005/status/1999740974206239127",
+    "createdAt": "December 13, 2025 at 04:19PM"
+  },
+  {
+    "text": "阪神・和田豊ヘッドコーチ「6番をつけたいっていうからかわいいなと思ったけど…」　日大の後輩D2位・谷端将伍を鍛える！(サンケイスポー...\n\n【PR】】プロ野球・Jリーグ・F1だけじゃない！DMM × DAZNホーダイならアニメや映画も思う存分楽しめる！ https://t.co/tTEMP1YMdj\nhttps://t.co/hl8c8bnVfh",
+    "userName": "5dmzn4",
+    "tweetUrl": "https://twitter.com/5dmzn4/status/1999777610331775140",
+    "createdAt": "December 13, 2025 at 06:45PM"
+  },
+  {
+    "text": "阪神新人連載・虎宝　D2位・谷端将伍、少年時代は母を投手に自宅でも練習　小学6年間で休んだのは1日だけ(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/KQplnOHJ4x",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/1999792625751347561",
+    "createdAt": "December 13, 2025 at 07:44PM"
+  },
+  {
+    "text": "阪神・和田豊ヘッドコーチ「6番をつけたいっていうからかわいいなと思ったけど…」　日大の後輩D2位・谷端将伍を鍛える！(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/0QLtSPoxi0",
+    "userName": "hamamiyazaki",
+    "tweetUrl": "https://twitter.com/hamamiyazaki/status/1999850663560479086",
+    "createdAt": "December 13, 2025 at 11:35PM"
+  },
+  {
+    "text": "阪神・和田豊ヘッドコーチ「6番をつけたいっていうからかわいいなと思ったけど…」　日大の後輩D2位・谷端将伍を鍛える！(サンケイスポーツ)\n\nhttps://t.co/VR1DXOXqv5",
+    "userName": "Mnuip366534",
+    "tweetUrl": "https://twitter.com/Mnuip366534/status/1999949735508287793",
+    "createdAt": "December 14, 2025 at 06:09AM"
   }
 ]
