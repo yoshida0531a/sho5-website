@@ -470,5 +470,13 @@
     "publishedAt": "December 12, 2025 at 08:03AM",
     "description": "阪神タイガース期待の新星、谷端将伍選手に密着！ドラフト2位の才能が育まれた、感動の幼少期を振り返る連載「虎宝」の第1回 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神新人連載・虎宝　D2位・谷端将伍、コロナで高3夏出場辞退　毎日1000スイング！汗と涙の星稜中・高6年間 Sk king",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=qDqGLN5zIAw",
+    "publishedAt": "December 14, 2025 at 02:05PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
