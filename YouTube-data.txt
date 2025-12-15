@@ -478,5 +478,45 @@
     "publishedAt": "December 14, 2025 at 02:05PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、和田コーチに独占弟子入り！衝撃判明、歴史的スター激突？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=mA3U5p8jIbM",
+    "publishedAt": "December 15, 2025 at 10:20AM",
+    "description": "え、マジで！？   阪神タイガースドラフト2位、日大の谷端将伍選手が、憧れの和田新ヘッドコーチに直接指導を受けることに ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】立石が背番号9！谷端が25！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UfFZBSHEC0k",
+    "publishedAt": "December 15, 2025 at 03:50PM",
+    "description": "阪神ファンの生の声を皆さんに伝えて行きます！ #阪神タイガース #立石正広 #ドラフト会議 #2ch #5ch #プロ野球 #なんj #藤川 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神2位・谷端将伍｜ドラフト指名の瞬間",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=flZ_yu_ryK0",
+    "publishedAt": "December 15, 2025 at 05:03PM",
+    "description": "他の動画ーーーーーーーーーーーーーーーーーーーーーーーーーーー 春季リーグ戦 中央大学vs日本大学（1回戦）ハイライト ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神新人、衝撃判明！劇的展開、スター激突、歴史的瞬間",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=tmAHv7wT5WI",
+    "publishedAt": "December 15, 2025 at 08:24PM",
+    "description": "阪神タイガースの未来を担う新戦力が誕生！15日に行われた新人選手入団発表会の様子をお届けします！支配下5選手、育成2選手 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！谷端、立石超えの劇的展開判明？歴史的スター激突、土壇場の逆転状況一変！驚愕の新記録へ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=bfrw86wYsKo",
+    "publishedAt": "December 16, 2025 at 05:48AM",
+    "description": "やっぱり気になる！立石航太選手への熱い想い   阪神タイガース・谷端中央選手が、ライバル立石選手について語った ...",
+    "keyword": "谷端 阪神"
   }
 ]
