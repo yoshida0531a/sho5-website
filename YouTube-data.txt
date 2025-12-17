@@ -534,5 +534,13 @@
     "publishedAt": "December 16, 2025 at 11:16AM",
     "description": "阪神タイガースの新入団選手発表会が大阪市内で行われ、ドラフト2位の谷端将伍内野手が強打者の象徴ともいえる背番号25を ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２谷端将伍、１位立石はライバルで親友「野球をしているとすごいけど、かわいさが」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=flUt0NF-Q5Y",
+    "publishedAt": "December 17, 2025 at 05:58PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
