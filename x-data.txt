@@ -6682,5 +6682,47 @@
     "userName": "Te3DyFbGx3oL",
     "tweetUrl": "https://twitter.com/Te3DyFbGx3oL/status/2001730050509447533",
     "createdAt": "December 19, 2025 at 04:03AM"
+  },
+  {
+    "text": "阪神D1位・立石正広、背番号「9」　に決定　D2位の谷端は「25」 - サンスポ https://t.co/86NhlBem6X via @SANSPOCOM",
+    "userName": "DLKm9mPCQ28178",
+    "tweetUrl": "https://twitter.com/DLKm9mPCQ28178/status/2001776899870330927",
+    "createdAt": "December 19, 2025 at 07:09AM"
+  },
+  {
+    "text": "阪神２位指名　谷端将伍さん地元・白山市に(HAB北陸朝日放送)\nhttps://t.co/0UULWIO6ZN",
+    "userName": "vx3pgh",
+    "tweetUrl": "https://twitter.com/vx3pgh/status/2001889880427864091",
+    "createdAt": "December 19, 2025 at 02:38PM"
+  },
+  {
+    "text": "来季変更される背番号と新入団選手の番号\n\n#00 元山飛優\n#7 中野拓夢\n#9 立石正広\n#17 伏見寅威\n#21 大竹耕太郎\n#24 キャム・ディベイニー\n#25 谷端将伍\n#32 濱田太貴\n#34 岡城快生\n#44 早瀬朔\n#49 工藤泰成\n#51 早川太貴\n#55 能登嵩都\n#98 ラファエル・ドリス",
+    "userName": "kobayakawaracy",
+    "tweetUrl": "https://twitter.com/kobayakawaracy/status/2001937058433270164",
+    "createdAt": "December 19, 2025 at 05:46PM"
+  },
+  {
+    "text": "実は今年のドラフト情報ちゃんと見てなかったのだが、谷端選手って星稜高校出身やん😳\n#阪神タイガース #熱血タイガース党",
+    "userName": "tora10ra_tigers",
+    "tweetUrl": "https://twitter.com/tora10ra_tigers/status/2001961126431744219",
+    "createdAt": "December 19, 2025 at 07:21PM"
+  },
+  {
+    "text": "谷端も岡城も阪神に合ってそうなキャラで楽しみやし早瀬の｢さくさくぱんだ｣は草\nあと能登の面構えめっちゃいいよね\n\n楽しみな選手しかおらんやん",
+    "userName": "LwEqjvNbNFDDHzw",
+    "tweetUrl": "https://twitter.com/LwEqjvNbNFDDHzw/status/2001961588321050851",
+    "createdAt": "December 19, 2025 at 07:23PM"
+  },
+  {
+    "text": "☑️元山飛優 00\n☑️中野拓夢 7\n☑️大竹耕太郎 21\n☑️工藤泰成 49\n☑️早川太貴 51\n☑️立石正広 9\n☑️谷端将伍 25\n☑️岡城快生 34\n☑️早瀬朔 44\n☑️能登嵩都 55\n☑️神宮僚介 127\n☑️山﨑照英 129\n☑️伏見寅威 17\n☑️濱田太貴 32\n☑️キャムディベイニー 24\n☑️ラファエルドリス 98\n☑️ダウリモレッタ 99\n#阪神タイガース",
+    "userName": "kaminaribolt",
+    "tweetUrl": "https://twitter.com/kaminaribolt/status/2002037522302689459",
+    "createdAt": "December 20, 2025 at 12:25AM"
+  },
+  {
+    "text": "ホークスとの日本シリーズで一発の怖さを思い知らされた阪神には来シーズン一発のある右打者が激増する。\n森下、中川に加えて立石、谷端、濱田、デバニー。\n加えて実戦を想定した新たな打撃マシンも導入されるようなのでこれまで苦手にしてきた投手対策にもなるので徐々に隙は無くなる #阪神タイガース",
+    "userName": "goronpa_X",
+    "tweetUrl": "https://twitter.com/goronpa_X/status/2002099296318148831",
+    "createdAt": "December 20, 2025 at 04:30AM"
   }
 ]
