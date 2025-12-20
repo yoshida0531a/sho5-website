@@ -6724,5 +6724,23 @@
     "userName": "goronpa_X",
     "tweetUrl": "https://twitter.com/goronpa_X/status/2002099296318148831",
     "createdAt": "December 20, 2025 at 04:30AM"
+  },
+  {
+    "text": "「新人王目指す」阪神から2位指名　谷端将伍選手が入団会見　背番号は２５(石川テレビ)\nhttps://t.co/YKxgPA8izu",
+    "userName": "yihaval685",
+    "tweetUrl": "https://twitter.com/yihaval685/status/2002142612535615672",
+    "createdAt": "December 20, 2025 at 07:22AM"
+  },
+  {
+    "text": "【新人連載】阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代 - スポニチ Sponichi Annex 野球 https://t.co/fZpd1i7ktY",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2002469541167919483",
+    "createdAt": "December 21, 2025 at 05:01AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代（スポニチアネックス） https://t.co/deC2oNq3Wh",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2002476003827069034",
+    "createdAt": "December 21, 2025 at 05:27AM"
   }
 ]
