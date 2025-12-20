@@ -542,5 +542,13 @@
     "publishedAt": "December 17, 2025 at 05:58PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "残りの補強ポイントはここだ‼️過去類を見ない的確さと選手の質‼️【徹底考察】#阪神タイガース #阪神　新外国人＃新外国人候補　2026#デバニー＃ルーカス＃モレッタ＃立石 正広＃谷端 将伍＃伏見 寅威",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=R5SnZeSNI0M",
+    "publishedAt": "December 20, 2025 at 07:15PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に生まれたチャンネルです  】 阪神 ...",
+    "keyword": "谷端 阪神"
   }
 ]
