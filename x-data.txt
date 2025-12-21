@@ -6742,5 +6742,77 @@
     "userName": "jikkyonomidori",
     "tweetUrl": "https://twitter.com/jikkyonomidori/status/2002476003827069034",
     "createdAt": "December 21, 2025 at 05:27AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代 - スポニチ Sponichi Annex 野球 https://t.co/a5KOuSG59k",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2002501543522938952",
+    "createdAt": "December 21, 2025 at 07:09AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代 - スポニチ Sponichi Annex 野球 https://t.co/3agOMNDh3l",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2002538333151654320",
+    "createdAt": "December 21, 2025 at 09:35AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代 - スポニチ Sponichi Annex 野球 https://t.co/xRB0216ACE",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2002553388060545239",
+    "createdAt": "December 21, 2025 at 10:35AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/Doq0sxjXwq",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2002556999113060433",
+    "createdAt": "December 21, 2025 at 10:49AM"
+  },
+  {
+    "text": "阪神新人連載・虎宝　D2位・谷端将伍、コロナで高3夏出場辞退　毎日1000スイング！汗と涙の星稜中・高6年間(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/oNp59pPfWa",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2002557633031778753",
+    "createdAt": "December 21, 2025 at 10:52AM"
+  },
+  {
+    "text": "阪神新人連載・虎宝　D2位・谷端将伍、日大2年春に骨折「やめたい」からの奮起(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/h0xiIV4UMX",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2002557661754360010",
+    "createdAt": "December 21, 2025 at 10:52AM"
+  },
+  {
+    "text": "【新連載】阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代 - スポニチ Sponichi Annex 野球 https://t.co/z5Iy1gIV5R",
+    "userName": "sponichi_endo",
+    "tweetUrl": "https://twitter.com/sponichi_endo/status/2002572362253021243",
+    "createdAt": "December 21, 2025 at 11:50AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/mQwVszVstl",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/2002648940152533048",
+    "createdAt": "December 21, 2025 at 04:54PM"
+  },
+  {
+    "text": "［プロ野球ドラフト会議2025］\n\n阪神タイガース🐯\n1位:立石正広 内野手 創価大学\n2位:谷端将伍 内野手 日本大学\n3位:岡城快生 外野手 筑波大学\n4位:早瀬朔 投手 神村学園高\n5位:能登嵩都 投手 オイシックス新潟アルビレックス・ベースボール・クラブ\n\n育成1位:神宮僚介 投手 https://t.co/xa5lW4A2VY",
+    "userName": "89_mie97",
+    "tweetUrl": "https://twitter.com/89_mie97/status/2002703148163752047",
+    "createdAt": "December 21, 2025 at 08:30PM"
+  },
+  {
+    "text": "阪神の佐野大陽と谷端将伍って顔似てない？2人の仲良しショット楽しみだな🥺🤍 https://t.co/KHaAcWKX0W",
+    "userName": "g459zjvk",
+    "tweetUrl": "https://twitter.com/g459zjvk/status/2002782562830450847",
+    "createdAt": "December 22, 2025 at 01:45AM"
+  },
+  {
+    "text": "【新人連載】阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果 - スポニチ Sponichi Annex 野球 https://t.co/7dhEMh6PYL",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2002831629312778415",
+    "createdAt": "December 22, 2025 at 05:00AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果 - スポニチ Sponichi Annex 野球 https://t.co/nddBhxCo85",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2002840932031590910",
+    "createdAt": "December 22, 2025 at 05:37AM"
   }
 ]
