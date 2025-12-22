@@ -566,5 +566,13 @@
     "publishedAt": "December 21, 2025 at 10:37PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に生まれたチャンネルです  】 阪神 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！谷端彰、阪神ドラフト2位！歴史的快挙、スター激突、土壇場の逆転判明！驚愕の劇的展開！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=iFGdhYk3Mcc",
+    "publishedAt": "December 23, 2025 at 05:53AM",
+    "description": "衝撃のホームランが人生を変えた！中央大学の谷端 尚伍選手、ドラフト2位指名秘話とプロへの熱い想いを徹底解説   大学時代、 ...",
+    "keyword": "谷端 阪神"
   }
 ]
