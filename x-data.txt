@@ -6814,5 +6814,59 @@
     "userName": "mouko_in_fukui",
     "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2002840932031590910",
     "createdAt": "December 22, 2025 at 05:37AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/uXhkxsdGnN",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/2002868093476016545",
+    "createdAt": "December 22, 2025 at 07:25AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果 - スポニチ Sponichi Annex 野球 https://t.co/6zvhvSLILF",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2002894487631417494",
+    "createdAt": "December 22, 2025 at 09:10AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果 - スポニチ Sponichi Annex 野球 https://t.co/KxjdbkUF1H",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2002910116333695195",
+    "createdAt": "December 22, 2025 at 10:12AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（上）　原点は金本ユニホームでバット振った小学生時代(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/PHRapj97AJ",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2002925385131114817",
+    "createdAt": "December 22, 2025 at 11:13AM"
+  },
+  {
+    "text": "阪神新人連載・虎宝　D2位・谷端将伍、日大2年春に骨折「やめたい」からの奮起(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/ImJWfnZKyL",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2002925599808180261",
+    "createdAt": "December 22, 2025 at 11:14AM"
+  },
+  {
+    "text": "なるほど。\n谷端くんをショート案な。\n打率残せるやろからショートでスタメン抜擢でもおもろいやろな。\n来シーズンの阪神どんなあれなるか楽しみやな。",
+    "userName": "TOKYSK1018",
+    "tweetUrl": "https://twitter.com/TOKYSK1018/status/2003092512714686768",
+    "createdAt": "December 22, 2025 at 10:17PM"
+  },
+  {
+    "text": "【新人連載】阪神ドラ2・谷端将伍（下）　森下の背中を追いかけた大学時代「今でもずっと目標です」 - スポニチ Sponichi Annex 野球 https://t.co/pHaLTZqNb1",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2003201657371582580",
+    "createdAt": "December 23, 2025 at 05:31AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（下）　森下の背中を追いかけた大学時代「今でもずっと目標です」 - スポニチ Sponichi Annex 野球 https://t.co/kNcEToiKTJ",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2003205211163361367",
+    "createdAt": "December 23, 2025 at 05:45AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（下）　森下の背中を追いかけた大学時代「今でもずっと目標です」 - スポニチ Sponichi Annex 野球\n\n＞中大に所属されていた森下さんです。自分が1年の時の4年生で、今でもずっと目標です（滝涙） https://t.co/JGLPRRhRus",
+    "userName": "mrstsik",
+    "tweetUrl": "https://twitter.com/mrstsik/status/2003212654375289043",
+    "createdAt": "December 23, 2025 at 06:14AM"
   }
 ]
