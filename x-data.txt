@@ -6868,5 +6868,53 @@
     "userName": "mrstsik",
     "tweetUrl": "https://twitter.com/mrstsik/status/2003212654375289043",
     "createdAt": "December 23, 2025 at 06:14AM"
+  },
+  {
+    "text": "@kamisokk タイガースに\n2025ドラ2谷端将伍選手が石川出身だし\n\n育成に輪島出身の川崎俊哲選手がいるから、タイガースの旗持っててもおかしくないんだよなぁ",
+    "userName": "butanikusukiyan",
+    "tweetUrl": "https://twitter.com/butanikusukiyan/status/2003222065730773197",
+    "createdAt": "December 23, 2025 at 06:52AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（下）　森下の背中を追いかけた大学時代「今でもずっと目標です」 - スポニチ Sponichi Annex 野球 https://t.co/bKiw1AHnKK",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2003224185221591377",
+    "createdAt": "December 23, 2025 at 07:00AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果 - スポニチ Sponichi Annex 野球 https://t.co/S9HKxDhU2u",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2003224696876335516",
+    "createdAt": "December 23, 2025 at 07:02AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（下）　森下の背中を追いかけた大学時代「今でもずっと目標です」(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/63Qskm3pXi",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2003230564573413568",
+    "createdAt": "December 23, 2025 at 07:25AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍（中）　父と目標設定「1日1000スイング」で成果(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/Iy77HiFgFa",
+    "userName": "makobayasan",
+    "tweetUrl": "https://twitter.com/makobayasan/status/2003242122405904449",
+    "createdAt": "December 23, 2025 at 08:11AM"
+  },
+  {
+    "text": "\"阪神ドラ2・谷端将伍（下）\n 森下の背中を追いかけた大学時代「今でもずっと目標です」\" https://t.co/ols0x4Y4rk",
+    "userName": "msam1224",
+    "tweetUrl": "https://twitter.com/msam1224/status/2003263659691376749",
+    "createdAt": "December 23, 2025 at 09:37AM"
+  },
+  {
+    "text": "元山飛優 00\n中野拓夢 7\n大竹耕太郎 21\n工藤泰成 49\n早川太貴 51\n立石正広 9\n谷端将伍 25\n岡城快生 34\n早瀬朔 44\n能登嵩都 55\n神宮僚介 127\n山﨑照英 129\n伏見寅威 17\n濱田太貴 32\nキャムディベイニー 24\nラファエルドリス 98\nダウリモレッタ 99\nイーストンルーカス 42\n#阪神タイガース",
+    "userName": "kaminaribolt",
+    "tweetUrl": "https://twitter.com/kaminaribolt/status/2003318950533431458",
+    "createdAt": "December 23, 2025 at 01:17PM"
+  },
+  {
+    "text": "ドラフトで野手補強に立石、谷端指名\n捕手坂本疲労軽減に伏見獲得\nリリーフ陣戦力維持にドリス再契約\nリリーフ陣戦力強化にモレッタ契約\n遊撃手戦力底上げにディベイニー契約\n先発陣戦力補強にルーカス契約\n\nあかん、阪神補強が的確すぎる\n来年連覇したら阪神電車10円値上げしてもええで！ワイJR民やし https://t.co/ErQaWYXZWL",
+    "userName": "tanpukusaikyo",
+    "tweetUrl": "https://twitter.com/tanpukusaikyo/status/2003322837264970231",
+    "createdAt": "December 23, 2025 at 01:32PM"
   }
 ]
