@@ -7036,5 +7036,287 @@
     "userName": "SANSPOCOM",
     "tweetUrl": "https://twitter.com/SANSPOCOM/status/2003938984003866721",
     "createdAt": "December 25, 2025 at 06:20AM"
+  },
+  {
+    "text": "阪神・藤川監督が明言ドラ１立石＆ドラ２谷端は春季Ｃ宜野座スタート「もちろん」２・１１紅白戦で新人大集結へ ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/rdOiMVhi2S",
+    "userName": "1217_k01",
+    "tweetUrl": "https://twitter.com/1217_k01/status/2003945069821456506",
+    "createdAt": "December 25, 2025 at 06:45AM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/7fOYmjXek6\n\n阪神・藤川監督が明言ドラ１立石＆ドラ２谷端は春季Ｃ宜野座スタート「もちろん」２・１１紅白戦で新人大集結へ\nhttps://t.co/JXlYMnFreZ",
+    "userName": "5dmzn2",
+    "tweetUrl": "https://twitter.com/5dmzn2/status/2003945133000241265",
+    "createdAt": "December 25, 2025 at 06:45AM"
+  },
+  {
+    "text": "@Torakichi_1001 @keiba_misyouri\n\"【阪神】1位立石正広、2位谷端将伍がキャンプで主力中心の宜野座スタート 2・11紅白戦も出場\" https://t.co/3PuJzC6uCX",
+    "userName": "daichimajin69",
+    "tweetUrl": "https://twitter.com/daichimajin69/status/2003945414677156247",
+    "createdAt": "December 25, 2025 at 06:46AM"
+  },
+  {
+    "text": "おはようございます🐯",
+    "userName": "cake6432",
+    "tweetUrl": "https://twitter.com/cake6432/status/2003948542923362740",
+    "createdAt": "December 25, 2025 at 06:58AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言 - スポニチ Sponichi Annex 野球 https://t.co/1flMdhLnhB",
+    "userName": "Sponichi_Tphoto",
+    "tweetUrl": "https://twitter.com/Sponichi_Tphoto/status/2003949165152518636",
+    "createdAt": "December 25, 2025 at 07:01AM"
+  },
+  {
+    "text": "【阪神ルーキー】立石正広選手＆谷端将伍選手が主力組キャンプスタート決定、藤川監督が英才教育を明言\n#hanshin #ドラフト \n\n https://t.co/B6XuxjNnqy",
+    "userName": "draft_kaigi",
+    "tweetUrl": "https://twitter.com/draft_kaigi/status/2003952241179586652",
+    "createdAt": "December 25, 2025 at 07:13AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石正広は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端将伍も - サンスポ https://t.co/C9h1lEkr7C @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2003953772700291526",
+    "createdAt": "December 25, 2025 at 07:19AM"
+  },
+  {
+    "text": "#おはパソ\n阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/zfw3BBkT3U",
+    "userName": "hide472",
+    "tweetUrl": "https://twitter.com/hide472/status/2003955216249769999",
+    "createdAt": "December 25, 2025 at 07:25AM"
+  },
+  {
+    "text": "虎D2谷端、D1立石が主力組のキャンプ地である宜野座スタートへ🐯\n藤川監督が信頼を置く小谷野打撃コーチに預けられる予定🚊\n\n【阪神】藤川球児監督、ドラ１・立石は宜野座スタート「打撃チーフの小谷野とやってもらいたい」ドラ２の谷端も主力組へ（スポーツ報知） https://t.co/bCvw5thM0Z",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/2003955290467979502",
+    "createdAt": "December 25, 2025 at 07:25AM"
+  },
+  {
+    "text": "【阪神】１位立石正広、２位谷端将伍がキャンプで主力中心の宜野座スタート　２・11紅白戦も出場 https://t.co/yDSYyb07ii",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/2003956106742452634",
+    "createdAt": "December 25, 2025 at 07:29AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も（サンケイスポーツ） https://t.co/SYQCbxbhTl",
+    "userName": "777_yoroshiku",
+    "tweetUrl": "https://twitter.com/777_yoroshiku/status/2003958416679883027",
+    "createdAt": "December 25, 2025 at 07:38AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も(サンケイスポーツ)\n\n【PR】】プロ野球・Jリーグ・F1だけじゃない！DMM × DAZNホーダイならアニメや映画も思う存分楽しめる！ https://t.co/PXSWGz4kWQ\nhttps://t.co/oMyBe8aKOy",
+    "userName": "9dazdm1",
+    "tweetUrl": "https://twitter.com/9dazdm1/status/2003960145450356988",
+    "createdAt": "December 25, 2025 at 07:45AM"
+  },
+  {
+    "text": "【広告】DMM × DAZNホーダイでスポーツからドラマ・映画・アニメまで、あらゆるコンテンツを一気に楽しもう！ https://t.co/1HZ0uz6nOi\n\n【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\nhttps://t.co/AVmIbTfXFX",
+    "userName": "5dmzn4",
+    "tweetUrl": "https://twitter.com/5dmzn4/status/2003960206410314179",
+    "createdAt": "December 25, 2025 at 07:45AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も（サンケイスポーツ） https://t.co/AgnhLah94R",
+    "userName": "moto_tigers",
+    "tweetUrl": "https://twitter.com/moto_tigers/status/2003960830405365874",
+    "createdAt": "December 25, 2025 at 07:47AM"
+  },
+  {
+    "text": "【阪神】藤川球児監督、ドラ１・立石は宜野座スタート「打撃チーフの小谷野とやってもらいたい」ドラ２の谷端も主力組へ(スポーツ報知)\n\n小谷野コーチなら安心ですね😌\n\n#Yahooニュース\nhttps://t.co/lcVLyg3k2T",
+    "userName": "kentagodai",
+    "tweetUrl": "https://twitter.com/kentagodai/status/2003962555723886730",
+    "createdAt": "December 25, 2025 at 07:54AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も（サンケイスポーツ） https://t.co/4HzHdCcI9U",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2003964377620455816",
+    "createdAt": "December 25, 2025 at 08:01AM"
+  },
+  {
+    "text": "阪神・藤川監督が明言　ドラ１立石＆ドラ２谷端は春季Ｃ宜野座スタート「もちろん」　２・１１紅白戦で新人大集結へ/阪神タイガース/デイリースポーツ online\nhttps://t.co/HC6tddzhK2 #阪神 #tigers #阪神タイガース #タイガース #大谷翔平 #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2003964821881213324",
+    "createdAt": "December 25, 2025 at 08:03AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/IGp3cizv41",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/2003966472583106670",
+    "createdAt": "December 25, 2025 at 08:10AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\n#Yahooニュース\nhttps://t.co/98CCVMIgGP",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/2003966936401715281",
+    "createdAt": "December 25, 2025 at 08:12AM"
+  },
+  {
+    "text": "【阪神】藤川監督\n\nドラ１立石＆ドラ２谷端を\n春季Ｃ宜野座スタートさせることを明言\n\n「立石、谷端に関してはもちろん宜野座スタートでいきます。（宜野座に）行く予定です。コンディション次第で。ここから（新人合同）自主トレがありますから」\n\n（デイリースポーツ）  https://t.co/TGlYEdaN3L",
+    "userName": "Qu2R56",
+    "tweetUrl": "https://twitter.com/Qu2R56/status/2003969712540250591",
+    "createdAt": "December 25, 2025 at 08:23AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言 - スポニチ Sponichi Annex 野球 https://t.co/eDOYo9XsVP",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2003975602525880442",
+    "createdAt": "December 25, 2025 at 08:46AM"
+  },
+  {
+    "text": "阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート!!!!!!!!!!!!!!\n#阪神タイガース\nhttps://t.co/NlJn2bCQzy",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2003979360773259769",
+    "createdAt": "December 25, 2025 at 09:01AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も\nhttps://t.co/gG1NUUMTAC",
+    "userName": "proyakyunewsX",
+    "tweetUrl": "https://twitter.com/proyakyunewsX/status/2003998896176111718",
+    "createdAt": "December 25, 2025 at 10:19AM"
+  },
+  {
+    "text": "【朗報】阪神ドラ1立石正広＆ドラ2谷端将伍が1軍宜野座Cスタート！藤川監督が明言【野球】【反応】【考察】 https://t.co/68gHeHUT5F @YouTubeより",
+    "userName": "toraho77",
+    "tweetUrl": "https://twitter.com/toraho77/status/2004000026016780688",
+    "createdAt": "December 25, 2025 at 10:23AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言 - スポニチ Sponichi Annex 野球 https://t.co/HOk2UuCJzb",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2004002114499117192",
+    "createdAt": "December 25, 2025 at 10:31AM"
+  },
+  {
+    "text": "小谷野組の直系だから\nよそもん（OB）は余計なクチ挟むなよ？\n\nと刺してもいるんだろうな、いいぞもっとやれ\n\n阪神・藤川球児監督決めた　D1位・立石正広は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端将伍も - サンスポ https://t.co/XdmSGmQJpm @SANSPOCOMより",
+    "userName": "yayoijin2009",
+    "tweetUrl": "https://twitter.com/yayoijin2009/status/2004002216487915829",
+    "createdAt": "December 25, 2025 at 10:32AM"
+  },
+  {
+    "text": "阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言 https://t.co/yYjqMgbWAF\n小谷野コーチがバッチリしごくらしい…。😱",
+    "userName": "HT_fan0423",
+    "tweetUrl": "https://twitter.com/HT_fan0423/status/2004006204264358139",
+    "createdAt": "December 25, 2025 at 10:48AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も（サンケイスポーツ） https://t.co/P75EozCSTq",
+    "userName": "hidemaru_se",
+    "tweetUrl": "https://twitter.com/hidemaru_se/status/2004016435627274520",
+    "createdAt": "December 25, 2025 at 11:28AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も(サンケイスポーツ)\n\nhttps://t.co/VVDF6z8IVl",
+    "userName": "I5wCOXbdVt37285",
+    "tweetUrl": "https://twitter.com/I5wCOXbdVt37285/status/2004026026570248233",
+    "createdAt": "December 25, 2025 at 12:06PM"
+  },
+  {
+    "text": "前場お疲れ様です。\nクリスマスの夜も予定なし🤣\n【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」（東スポWEB） https://t.co/EDAPH0kVtN",
+    "userName": "torakichiyasuh1",
+    "tweetUrl": "https://twitter.com/torakichiyasuh1/status/2004026878898983330",
+    "createdAt": "December 25, 2025 at 12:10PM"
+  },
+  {
+    "text": "藤川監督が明言　ドラ１立石＆ドラ２谷端は春季Ｃ宜野座スタート「もちろん」(阪神Vデイリー) https://t.co/DR7I9JVzyy",
+    "userName": "0egrAEClB1gfoo1",
+    "tweetUrl": "https://twitter.com/0egrAEClB1gfoo1/status/2004028187370836435",
+    "createdAt": "December 25, 2025 at 12:15PM"
+  },
+  {
+    "text": "阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/WcG1390ikF",
+    "userName": "junji_nakano06",
+    "tweetUrl": "https://twitter.com/junji_nakano06/status/2004031381991793071",
+    "createdAt": "December 25, 2025 at 12:28PM"
+  },
+  {
+    "text": "阪神の数少ない弱点が、\n「控えが薄い」\n「外国人が弱い」\n「遊撃手が物足りない」\nつまり、近本や佐藤、ローテPが離脱すれば他球団もワンチャンなくもない\n\nだったのに、ルーカス、ディベイニー、モレッタに立石、谷端もとってるのホントにえぐい\n\n鬼に金棒\n虎にオリハルコンのキバ",
+    "userName": "TATSUYA2043017",
+    "tweetUrl": "https://twitter.com/TATSUYA2043017/status/2004054219385721106",
+    "createdAt": "December 25, 2025 at 01:58PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\n\nhttps://t.co/p6IEb8EvxF",
+    "userName": "x26311096017161",
+    "tweetUrl": "https://twitter.com/x26311096017161/status/2004057807512101049",
+    "createdAt": "December 25, 2025 at 02:13PM"
+  },
+  {
+    "text": "【阪神】１位立石正広、２位谷端将伍がキャンプで主力中心の宜野座スタート　２・11紅白戦も出場(日刊スポーツ)\n\nhttps://t.co/pHN1ynmc0Y",
+    "userName": "yynmkoftyl97734",
+    "tweetUrl": "https://twitter.com/yynmkoftyl97734/status/2004080612366602544",
+    "createdAt": "December 25, 2025 at 03:43PM"
+  },
+  {
+    "text": "【阪神】藤川球児監督、ドラ１・立石は宜野座スタート「打撃チーフの小谷野とやってもらいたい」ドラ２の谷端も主力組へ(スポーツ報知)\n\nhttps://t.co/fKAvYAmE0q",
+    "userName": "fhyuidf",
+    "tweetUrl": "https://twitter.com/fhyuidf/status/2004083110271754615",
+    "createdAt": "December 25, 2025 at 03:53PM"
+  },
+  {
+    "text": ">小谷野が右バッターをしっかりと育ててきていますから\n\nやっぱ小谷野さん優秀やな\n\n阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も\nhttps://t.co/r8gSUBT3pM",
+    "userName": "dosvoksn",
+    "tweetUrl": "https://twitter.com/dosvoksn/status/2004119125686439991",
+    "createdAt": "December 25, 2025 at 06:16PM"
+  },
+  {
+    "text": "立石正広",
+    "userName": "HVK5xGOubZgreie",
+    "tweetUrl": "https://twitter.com/HVK5xGOubZgreie/status/2004145780043690325",
+    "createdAt": "December 25, 2025 at 08:02PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ1立石正広＆ドラ2谷端将伍が宜野座キャンプスタート　藤川球児監督が初日からの“英才教育”明言 - スポニチ Sponichi Annex 野球 https://t.co/qeKFoRYlY6 \nそらそうよ　早く紅白戦みたいわ、おーん",
+    "userName": "Eanas_77",
+    "tweetUrl": "https://twitter.com/Eanas_77/status/2004152419362787844",
+    "createdAt": "December 25, 2025 at 08:29PM"
+  },
+  {
+    "text": "阪神・藤川監督が明言　ドラ１立石＆ドラ２谷端は春季Ｃ宜野座スタート「もちろん」　２・１１紅白戦で新人大集結へ/阪神タイガース/デイリースポーツ online https://t.co/75V0dgzFqt",
+    "userName": "inokori_3814",
+    "tweetUrl": "https://twitter.com/inokori_3814/status/2004157111727804562",
+    "createdAt": "December 25, 2025 at 08:47PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\nhttps://t.co/HikmtvuuNX",
+    "userName": "beherec480",
+    "tweetUrl": "https://twitter.com/beherec480/status/2004189279954804795",
+    "createdAt": "December 25, 2025 at 10:55PM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石正広は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端将伍も - サンスポ https://t.co/XQmmSPH9qb @SANSPOCOMより",
+    "userName": "f61326",
+    "tweetUrl": "https://twitter.com/f61326/status/2004199409027060014",
+    "createdAt": "December 25, 2025 at 11:35PM"
+  },
+  {
+    "text": "将来の三遊間、立石＆谷端ってのも十分あり得ると思う\n\n【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\n#Yahooニュース\nhttps://t.co/sl2v3G9cG6",
+    "userName": "ramune_turq",
+    "tweetUrl": "https://twitter.com/ramune_turq/status/2004203396325417172",
+    "createdAt": "December 25, 2025 at 11:51PM"
+  },
+  {
+    "text": "阪神立石くん、マヤ暦で矢野燿大さんと紋章が全く同じ😳\n谷端くんは山田くんと全く同じ紋章で、\n岡城くんは克則コーチと全く同じ紋章。\n凄っ。",
+    "userName": "piano27426239",
+    "tweetUrl": "https://twitter.com/piano27426239/status/2004207598875394412",
+    "createdAt": "December 26, 2025 at 12:08AM"
+  },
+  {
+    "text": "【阪神】藤川球児監督、ドラ１・立石は宜野座スタート「打撃チーフの小谷野とやってもらいたい」ドラ２の谷端も主力組へ(スポーツ報知)\nhttps://t.co/xdygLw1DU2",
+    "userName": "digobe9443",
+    "tweetUrl": "https://twitter.com/digobe9443/status/2004220330278375722",
+    "createdAt": "December 26, 2025 at 12:58AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も(サンケイスポーツ)\nhttps://t.co/ljNi6yd7NE",
+    "userName": "hawogol534",
+    "tweetUrl": "https://twitter.com/hawogol534/status/2004235513172316475",
+    "createdAt": "December 26, 2025 at 01:59AM"
+  },
+  {
+    "text": "🐯ファンの皆さんおはようございます\n藤川監督が立石内野手、谷端内野手を宜野座キャンプへ🏟️\n小野谷打撃コーチに原石を託します🐯\n立石内野手と大学が同じなのですね\n本日最終日なのに残業確定😅\n週末にオカンと「奇跡のバックホーム」を鑑賞し号泣😭してきます\n\n本日も宜しくお願いします🙏 https://t.co/jXWJNFOv8n",
+    "userName": "0VtRw0pSHg8khze",
+    "tweetUrl": "https://twitter.com/0VtRw0pSHg8khze/status/2004290668852891959",
+    "createdAt": "December 26, 2025 at 05:38AM"
   }
 ]
