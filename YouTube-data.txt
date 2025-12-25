@@ -598,5 +598,93 @@
     "publishedAt": "December 25, 2025 at 05:46AM",
     "description": "新戦力に期待大！阪神タイガース・立石＆谷端、キャンプ初日から英才教育スタート！   今年のキャンプは、宜野座と谷端という ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "速報！阪神ドラフト、衝撃判明！劇的展開、スター激突？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=cI72IrY136Y",
+    "publishedAt": "December 25, 2025 at 06:29AM",
+    "description": "阪神タイガースの未来を担う新戦力たち、いよいよ始動！創価大の立石正広選手と日大の谷端将伍選手が、来春の沖縄キャンプで ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "速報！藤川監督、立石＆谷端に衝撃の決定！歴史的スター激突、劇的展開判明？驚愕の土壇場逆転状況一変か？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=qz_6z0VVciQ",
+    "publishedAt": "December 25, 2025 at 06:52AM",
+    "description": "阪神タイガースファン必見！藤川球児監督が、未来を担う立石＆谷端の2人に向けた熱い春季キャンプの方針を大公開！ドラフト1 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾🔥阪神・藤川球児監督、ドラ１立石は宜野座スタート！ドラ２谷端も主力組へ💪✨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QPR7rTI2PtQ",
+    "publishedAt": "December 25, 2025 at 08:56AM",
+    "description": "阪神タイガースの藤川球児監督が、今シーズンの新人選手起用方針を明らかにし、注目のドラフト1位・立石選手を宜野座キャンプ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾🐯 阪神ドラフト組が宜野座集結！立石＆谷端、春季キャンプから本格始動へ 🌴🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-m1B26iKJsA",
+    "publishedAt": "December 25, 2025 at 09:48AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【朗報】阪神ドラ1立石正広＆ドラ2谷端将伍が1軍宜野座Cスタート！藤川監督が明言【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=cGAd3cHNZb4",
+    "publishedAt": "December 25, 2025 at 10:23AM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #宜野座キャンプ #立石正広 #谷端将伍 #阪神タイガース ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・藤川球児監督が若手起用を決定　立石は宜野座Cスタートで小谷野と連携、谷端も注目",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=09MC8S0eRnk",
+    "publishedAt": "December 25, 2025 at 11:19AM",
+    "description": "阪神タイガースの藤川球児監督が新シーズンに向けた若手起用方針を発表しました⚾✨ドラフト1位で入団した立石選手は宜野座 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・藤川監督が新戦力を語る！立石と谷端の期待とは？ #反応集 #Shorts #藤川監督 #春季キャンプ #立石選手 #谷端選手 #若手選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=bi3nh61o5MQ",
+    "publishedAt": "December 25, 2025 at 11:26AM",
+    "description": "https://px.a8.net/svt/ejp?a8mat=459OFB+CRMPC2+461Y+6CHB6 阪神・藤川監督が新戦力を語る！立石と谷端の期待とは？",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ1立石＆ドラ2谷端 宜野座キャンプスタート確定！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=D8KK04BwqBY",
+    "publishedAt": "December 25, 2025 at 05:56PM",
+    "description": "阪神ファンの生の声を皆さんに伝えて行きます！ #阪神タイガース #立石正広 #谷端将伍 #ドラフト会議 #2ch #5ch #プロ野球 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "見どころはここ‼️立石、谷端ゴールデンルーキーがキャンプで観れる‼️#阪神タイガース #阪神　新外国人＃新外国人候補　2026#デバニー＃ルーカス＃モレッタ＃立石 正広＃谷端 将伍＃伏見 寅威",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=iYzYp9GYY4M",
+    "publishedAt": "December 25, 2025 at 07:05PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "小谷野コーチに任せる‼️立石、谷端ゴールデンルーキーが一軍キャンプへ‼️#阪神タイガース #阪神　新外国人＃新外国人候補　2026#デバニー＃ルーカス＃モレッタ＃立石 正広＃谷端 将伍＃伏見 寅威",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=B4JdBTn0V60",
+    "publishedAt": "December 25, 2025 at 07:36PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神の立石＆谷端が宜野座キャンプスタート決定！！！相当期待されてるな！！！　#巨人 #shorts #ジャイアンツ #阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=I3sQtXgBmPo",
+    "publishedAt": "December 26, 2025 at 02:40AM",
+    "description": "お仕事の御依頼は 0325syohei@gmail.com まで メンバーシップはこちらから登録出来ます↓ ...",
+    "keyword": "谷端 阪神"
   }
 ]
