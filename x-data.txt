@@ -7378,5 +7378,47 @@
     "userName": "nm_ryujiro",
     "tweetUrl": "https://twitter.com/nm_ryujiro/status/2004484101861179711",
     "createdAt": "December 26, 2025 at 06:27PM"
+  },
+  {
+    "text": "【日大野球部】創部100周年 阪神 谷端将伍・新主将 富塚隼介 ー新たな戦いに向けてー 〜連載最終話〜（日本大学SPORTS） https://t.co/CXAOwKoCWW",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2004672093028581685",
+    "createdAt": "December 27, 2025 at 06:54AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍 小5で見た夢が現実に　甲子園歴史館「ドラフト体験コーナー」同じポーズでパチリ(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/Z4piAGXNQZ",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2004686598005477827",
+    "createdAt": "December 27, 2025 at 07:51AM"
+  },
+  {
+    "text": "「新人王目指す」阪神から2位指名　谷端将伍選手が入団会見　背番号は２５(石川テレビ)\nhttps://t.co/qsa9Cg1xuo",
+    "userName": "raiki84854",
+    "tweetUrl": "https://twitter.com/raiki84854/status/2004735846499713371",
+    "createdAt": "December 27, 2025 at 11:07AM"
+  },
+  {
+    "text": "まあ、阪神がまだ助っ人獲るとしてもリリーフくらいだったし、いいんじゃないですかね\nまたモーチョみたいな野手獲って場所塞ぎになっても困るし、立石と谷端がいる時点で不要だわ",
+    "userName": "ramune_turq",
+    "tweetUrl": "https://twitter.com/ramune_turq/status/2004740060802089045",
+    "createdAt": "December 27, 2025 at 11:24AM"
+  },
+  {
+    "text": "来季の阪神打線どうなるんやろうな\n\nあくまで2025シーズンをベースに考えてだけども\n\n1.近本(中)\n2.中野(ニ)\n3.森下(右)\n4.佐藤(三)\n5.大山(一)\n6.立石(左)\n7.デバニー(遊)\n8.坂本(捕)\n\nかなぁ。デバニーがどれだけやれるんか未知数や。\n\nんで、谷端は1年目はしっかり育成する感じかなぁ。",
+    "userName": "neco_S_K_laoshi",
+    "tweetUrl": "https://twitter.com/neco_S_K_laoshi/status/2004800079836922083",
+    "createdAt": "December 27, 2025 at 03:22PM"
+  },
+  {
+    "text": "#タケに聞け\n\n阪神のドラ1立石、ドラ2谷端は1年目どれくらいの成績残してくれますか？ https://t.co/pMQM93ZJSV",
+    "userName": "gfdhjbxdhhgfex",
+    "tweetUrl": "https://twitter.com/gfdhjbxdhhgfex/status/2004850928281923832",
+    "createdAt": "December 27, 2025 at 06:44PM"
+  },
+  {
+    "text": "「100安打、新人王を目指したい」阪神ドラフト2位 谷端将伍選手が入団会見 星稜高校OB(MRO北陸放送)\nhttps://t.co/Avf77LNVIX",
+    "userName": "beherec480",
+    "tweetUrl": "https://twitter.com/beherec480/status/2004854302016458897",
+    "createdAt": "December 27, 2025 at 06:58PM"
   }
 ]
