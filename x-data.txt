@@ -7420,5 +7420,23 @@
     "userName": "beherec480",
     "tweetUrl": "https://twitter.com/beherec480/status/2004854302016458897",
     "createdAt": "December 27, 2025 at 06:58PM"
+  },
+  {
+    "text": "本日は有馬記念！\n年に一度だけの馬券購入。\n\n阪神ファンとしての世相馬券はずばり\n\n「立石に虎の未来は頼んだ！」ということで\n◎9 ダノンデサイル\n\nそして谷端の背番号25を合わせて\n\n3連単　9-2-5　で勝負します！！\n\n＃有馬記念　＃世相馬券　＃初の女性首相で牝馬初連覇もありそう",
+    "userName": "kagetora_1989",
+    "tweetUrl": "https://twitter.com/kagetora_1989/status/2005125488151523339",
+    "createdAt": "December 28, 2025 at 12:55PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\nhttps://t.co/mSZK4zNHFE",
+    "userName": "dsfsd232766",
+    "tweetUrl": "https://twitter.com/dsfsd232766/status/2005138590083547447",
+    "createdAt": "December 28, 2025 at 01:47PM"
+  },
+  {
+    "text": "【阪神】藤川球児監督、ドラ１・立石は宜野座スタート「打撃チーフの小谷野とやってもらいたい」ドラ２の谷端も主力組へ(スポーツ報知)\nhttps://t.co/dw3dNPgihy",
+    "userName": "kwgv956",
+    "tweetUrl": "https://twitter.com/kwgv956/status/2005172227550183547",
+    "createdAt": "December 28, 2025 at 04:01PM"
   }
 ]
