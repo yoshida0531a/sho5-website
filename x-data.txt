@@ -7486,5 +7486,29 @@
     "userName": "niwade3921",
     "tweetUrl": "https://twitter.com/niwade3921/status/2005694292036309070",
     "createdAt": "December 30, 2025 at 02:35AM"
+  },
+  {
+    "text": "阪神2位指名・谷端　将伍（日大４年）三塁｜携帯版　 https://t.co/8D1zOEWgug",
+    "userName": "kuratateo",
+    "tweetUrl": "https://twitter.com/kuratateo/status/2005846279570472990",
+    "createdAt": "December 30, 2025 at 12:39PM"
+  },
+  {
+    "text": "みんな、谷端将伍選手のサイン入り色紙見つけたよ！背番号25、羨ましいなぁ～😊\n\n谷端将伍 サイン入り色紙 背番号25\nhttps://t.co/bw2htjSnsQ",
+    "userName": "sportsfan03x44",
+    "tweetUrl": "https://twitter.com/sportsfan03x44/status/2005925896000098455",
+    "createdAt": "December 30, 2025 at 05:56PM"
+  },
+  {
+    "text": "え、谷端選手のサイン入り色紙、出てる！背番号25だなんて、ファンにはたまらないね！2025年のイベントってことは、未来の宝物になること間違いなしじゃん！欲しい🥺\n\n谷端将伍 サイン入り色紙 背番号25\nhttps://t.co/GKyAOlc11b",
+    "userName": "gQu3q5cmeQFO",
+    "tweetUrl": "https://twitter.com/gQu3q5cmeQFO/status/2006017269567045800",
+    "createdAt": "December 30, 2025 at 11:59PM"
+  },
+  {
+    "text": "谷端のサイン入り色紙出てるじゃん！背番号25が輝いてるわ、羨ましすぎるでござる。\n\n谷端将伍 サイン入り色紙 背番号25\nhttps://t.co/nHYhm97hpW",
+    "userName": "a8100562072249",
+    "tweetUrl": "https://twitter.com/a8100562072249/status/2006075151046369377",
+    "createdAt": "December 31, 2025 at 03:49AM"
   }
 ]
