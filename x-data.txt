@@ -7510,5 +7510,35 @@
     "userName": "a8100562072249",
     "tweetUrl": "https://twitter.com/a8100562072249/status/2006075151046369377",
     "createdAt": "December 31, 2025 at 03:49AM"
+  },
+  {
+    "text": "谷端のサイン入り色紙出てるじゃん！背番号25付きとか、俺が欲しいよもー！誰か買ったら自慢してくれよな😂\n\n谷端将伍 サイン入り色紙 背番号25\nhttps://t.co/5R95PMGqIK",
+    "userName": "BaseballEnth383",
+    "tweetUrl": "https://twitter.com/BaseballEnth383/status/2006117654138863793",
+    "createdAt": "December 31, 2025 at 06:38AM"
+  },
+  {
+    "text": "昨日高校の飲み会で言ってたねんけど\n谷端と同じリーグやった友達が\n谷端さんまじでえぐい。サイクルヒット打たれたって言っててワイの期待値上がりまくってる\n立石とタイプ似てるけどメンタル強くて阪神に合いそうって言ってくれた",
+    "userName": "uxA0sV2zvT45662",
+    "tweetUrl": "https://twitter.com/uxA0sV2zvT45662/status/2006209156047388729",
+    "createdAt": "December 31, 2025 at 12:41PM"
+  },
+  {
+    "text": "【Episode.4,702】\n■阪神連載「連覇」の年の新顔  \n②打撃コーチは母親、谷端将伍(ドラフト2位日大)…\n続きは、西宮竜二郎で🔍検索 \n「Facebookページでどうぞ」 \n#nishinomiya #hanshin #tigers #西宮 #阪神 #タイガース #阪神タイガース #鼓動を鳴らせ #虎道を進め #大みそか #大晦日",
+    "userName": "nm_ryujiro",
+    "tweetUrl": "https://twitter.com/nm_ryujiro/status/2006287831560565045",
+    "createdAt": "December 31, 2025 at 05:54PM"
+  },
+  {
+    "text": "今年は、阪神セリーグ優勝に加え、大注目スラッガーの立石とモンゴル大純愛谷端をドラフトで獲得するとても素晴らしい1年でした！\n来年も皇帝業に加え、アマチュアも阪神も少しBALもギャグにも更に邁進していきたいと思ってます。\n皆さん良いお年を！ https://t.co/vvscKANth2",
+    "userName": "chin_gisu_fan",
+    "tweetUrl": "https://twitter.com/chin_gisu_fan/status/2006367157819777124",
+    "createdAt": "December 31, 2025 at 11:09PM"
+  },
+  {
+    "text": "そのあと谷端に行かなかったのも分からなかった。その結果阪神に独占されたし。 https://t.co/apDfqJUq18",
+    "userName": "Jr55182821Jr",
+    "tweetUrl": "https://twitter.com/Jr55182821Jr/status/2006391570296418578",
+    "createdAt": "January 01, 2026 at 12:46AM"
   }
 ]
