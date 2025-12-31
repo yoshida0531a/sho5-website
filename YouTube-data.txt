@@ -750,5 +750,21 @@
     "publishedAt": "December 30, 2025 at 11:36PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "今年一年ありがとうございました‼️阪神にとって今年は歴史的な年になった‼️【徹底考察】#阪神タイガース #阪神　新外国人＃新外国人候補　2026#デバニー＃ルーカス＃モレッタ＃立石 正広＃谷端 将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=S6ZuxHEHbLE",
+    "publishedAt": "December 31, 2025 at 08:46PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "今年一年ありがとうございました‼️阪神にとって今年は歴史的な年になった‼️【徹底考察】#阪神タイガース #阪神　新外国人＃新外国人候補　2026#デバニー＃ルーカス＃モレッタ＃立石 正広＃谷端 将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=h_K9AFtFGyI",
+    "publishedAt": "December 31, 2025 at 09:31PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
   }
 ]
