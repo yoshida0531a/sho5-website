@@ -7540,5 +7540,41 @@
     "userName": "Jr55182821Jr",
     "tweetUrl": "https://twitter.com/Jr55182821Jr/status/2006391570296418578",
     "createdAt": "January 01, 2026 at 12:46AM"
+  },
+  {
+    "text": "東都大学リーグ通算成績比較\n\n谷端将伍（一部リーグ）\n191打数　打率283 本塁打6本　打点28\n［出塁率335］［長打率450］OPS785\n\n西川史礁（一部リーグ）\n162打数　打率284 本塁打6本　打点29\n［出塁率348］［長打率432］OPS780",
+    "userName": "tora_tora2026",
+    "tweetUrl": "https://twitter.com/tora_tora2026/status/2006650588822704347",
+    "createdAt": "January 01, 2026 at 05:55PM"
+  },
+  {
+    "text": "大学通算成績はほぼ互角です。\n谷端将伍選手の方が青山学院大学のドラフト1位で指名される程のレベルの高いピッチャーと対戦している分期待は出来ると思います。",
+    "userName": "tora_tora2026",
+    "tweetUrl": "https://twitter.com/tora_tora2026/status/2006651274935382210",
+    "createdAt": "January 01, 2026 at 05:58PM"
+  },
+  {
+    "text": "【謹賀新年】\n\n皆さま、あけましておめでとうございます。\n本年よろしくお願いいたします。\n2月の鹿児島キャンプ（実施・公開されれば…）より応援開始の予定です。\n今年は市川祐、谷端将伍など不動のレギュラーが抜ける厳しい状況ですが、逆に現役には大きなチャンス！\n日大野球部にご期待ください🔥 https://t.co/HgNIFAHYv6",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/2006706586694332756",
+    "createdAt": "January 01, 2026 at 09:38PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍は連覇の使者？恩師も驚いた万能ぶり「外野で使う考えもなかったんですが…」(東スポWEB)\nhttps://t.co/BXf0FqqRoX",
+    "userName": "SiioaZ",
+    "tweetUrl": "https://twitter.com/SiioaZ/status/2006768212252483885",
+    "createdAt": "January 02, 2026 at 01:43AM"
+  },
+  {
+    "text": "【阪神】藤川球児監督、ドラ１・立石は宜野座スタート「打撃チーフの小谷野とやってもらいたい」ドラ２の谷端も主力組へ(スポーツ報知)\nhttps://t.co/bHweRSqMit",
+    "userName": "Im8Piruu",
+    "tweetUrl": "https://twitter.com/Im8Piruu/status/2006808231780532581",
+    "createdAt": "January 02, 2026 at 04:22AM"
+  },
+  {
+    "text": "阪神・藤川球児監督決めた　D1位・立石は宜野座Cスタート「もちろん。小谷野とやってもらいたい」　D2位・谷端も(サンケイスポーツ)\nhttps://t.co/zdYdxjk1D5",
+    "userName": "si_feng21376",
+    "tweetUrl": "https://twitter.com/si_feng21376/status/2006825060292767940",
+    "createdAt": "January 02, 2026 at 05:29AM"
   }
 ]
