@@ -7576,5 +7576,29 @@
     "userName": "si_feng21376",
     "tweetUrl": "https://twitter.com/si_feng21376/status/2006825060292767940",
     "createdAt": "January 02, 2026 at 05:29AM"
+  },
+  {
+    "text": "森下翔太大学  青柳晃洋大学  新井良太大学\n陽川尚将大学  村上頌樹大学  下村海翔大学　\n立石正広大学  谷端将伍大学  大竹耕太郎大学\n\n頑張ってくれ‼️\n #箱根駅伝️",
+    "userName": "Umezawa_oshi",
+    "tweetUrl": "https://twitter.com/Umezawa_oshi/status/2006887468080263586",
+    "createdAt": "January 02, 2026 at 09:37AM"
+  },
+  {
+    "text": "@SABR_lions 阪神のライト、レフトは難しいとはいえこの福留を何年も超えられてないの情けないよ\n頼むぜ立石、谷端、岡城、濱田",
+    "userName": "V0RYSG",
+    "tweetUrl": "https://twitter.com/V0RYSG/status/2006978117051756756",
+    "createdAt": "January 02, 2026 at 03:37PM"
+  },
+  {
+    "text": "阪神タイガース2026\nレフトに行列できる\n\n前川右京\n中川勇斗\n髙寺望夢\n豊田寛\n小野寺暖\n立石正広\n谷端将伍",
+    "userName": "5001coffee",
+    "tweetUrl": "https://twitter.com/5001coffee/status/2006991404640485762",
+    "createdAt": "January 02, 2026 at 04:30PM"
+  },
+  {
+    "text": "阪神タイガース2026\nレフトに行列できる\n\n前川右京\n中川勇斗\n髙寺望夢\n豊田寛\n小野寺暖\n立石正広\n谷端将伍 https://t.co/0186dltIf5",
+    "userName": "5001coffee",
+    "tweetUrl": "https://twitter.com/5001coffee/status/2006992009958146550",
+    "createdAt": "January 02, 2026 at 04:32PM"
   }
 ]
