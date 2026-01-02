@@ -766,5 +766,13 @@
     "publishedAt": "December 31, 2025 at 09:31PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "日大　谷端　阪神ドラフト3位",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=F3zw0fYUtM4",
+    "publishedAt": "January 2, 2026 at 10:21AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
