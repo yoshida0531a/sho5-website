@@ -7600,5 +7600,83 @@
     "userName": "5001coffee",
     "tweetUrl": "https://twitter.com/5001coffee/status/2006992009958146550",
     "createdAt": "January 02, 2026 at 04:32PM"
+  },
+  {
+    "text": "今年の阪神は\n\nレフト・・・立石・谷端・前川・中川・豊田\nショート・・・デバニー・小幡・高寺\nユーティリティ（守備固め）兼代走・・・熊谷・植田\n\nでいいやろう。\nレフト・ショートで競争に負けた奴らと元山が代打要員。\n西純は守備がかなりしんどそうなので２軍で修練。\n木浪はトレード要因。",
+    "userName": "patipati289218",
+    "tweetUrl": "https://twitter.com/patipati289218/status/2007251361742872838",
+    "createdAt": "January 03, 2026 at 09:43AM"
+  },
+  {
+    "text": "今年の阪神は  \n\nレフト・・・立石・谷端・前川・中川・豊田 \nショート・・・デバニー・小幡・高寺 \nユーティリティ（守備固め）兼代走・・・熊谷・植田  \n\nでいいやろう。\nレフト・ショートで競争負けた奴らと元山が代打要員。 \n西純は守備がかなりしんどそうなので２軍で修練。\n木浪はトレード要員。",
+    "userName": "patipati289218",
+    "tweetUrl": "https://twitter.com/patipati289218/status/2007254420493611512",
+    "createdAt": "January 03, 2026 at 09:55AM"
+  },
+  {
+    "text": "阪神タイガース　レフト候補だけでチーム組める説\n\n1番　井坪（中）\n2番　高寺（遊）\n3番　立石正広（三）\n4番　前川右京（一）\n5番　谷端将伍（ニ）\n6番　濱田（左）\n7番　中川（捕）\n8番　豊田（右）\n9番　西純矢 https://t.co/ao3V4KKeV8",
+    "userName": "tora_tora2026",
+    "tweetUrl": "https://twitter.com/tora_tora2026/status/2007286137895956899",
+    "createdAt": "January 03, 2026 at 12:01PM"
+  },
+  {
+    "text": "阪神タイガース\nレフト候補だけでチーム組める説\n\n1番　井坪（中）\n2番　高寺（遊）\n3番　立石正広（三）\n4番　前川右京（一）\n5番　谷端将伍（ニ）\n6番　濱田（左）\n7番　中川（捕）\n8番　豊田（右）\n9番　西純矢\n#立石正広　#阪神タイガース https://t.co/FkL7CvMQj4",
+    "userName": "tora_tora2026",
+    "tweetUrl": "https://twitter.com/tora_tora2026/status/2007291406147301837",
+    "createdAt": "January 03, 2026 at 12:22PM"
+  },
+  {
+    "text": "@5001coffee レフト候補だけでチーム組めそうですね。\n1番　井坪（中）\n2番　高寺（遊）\n3番　立石正広（三）\n4番　前川右京（一）\n5番　谷端将伍（ニ）\n6番　濱田（左）\n7番　中川（捕）\n8番　豊田（右）\n9番　西純矢",
+    "userName": "tora_tora2026",
+    "tweetUrl": "https://twitter.com/tora_tora2026/status/2007291825707725257",
+    "createdAt": "January 03, 2026 at 12:23PM"
+  },
+  {
+    "text": "日大12年ぶりシード権獲得ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!\n\nこの活躍に谷端将伍も奮い立って来年3割10本で連覇に交換して新人王獲得といけ‼️",
+    "userName": "chin_gisu_fan",
+    "tweetUrl": "https://twitter.com/chin_gisu_fan/status/2007311270555590942",
+    "createdAt": "January 03, 2026 at 01:41PM"
+  },
+  {
+    "text": "@miura_children 日大よかったですね(泣) これは谷端も喜んでそう(泣)",
+    "userName": "niwatori3363",
+    "tweetUrl": "https://twitter.com/niwatori3363/status/2007312206422258017",
+    "createdAt": "January 03, 2026 at 01:44PM"
+  },
+  {
+    "text": "2026年注目選手（1/3更新ver.)\n\n【阪神】\n下村、ルーカス、ラグズデール、モレッタ、\n工藤、湯浅\n中川、嶋村\n元山、立石、谷端、山田、百崎\n濱田、西純、コンスエグラ\n\n【千葉】\n中森、池田、石垣、井上、山口\n\n【西武】\n平良、村田、蛭間、奥村",
+    "userName": "makimaki2329",
+    "tweetUrl": "https://twitter.com/makimaki2329/status/2007316371504521508",
+    "createdAt": "January 03, 2026 at 02:01PM"
+  },
+  {
+    "text": "阪神的には(元阪神含む)\n\n優勝:下村海翔大学\n4位:鳥谷敬大学\n5位:森下翔太大学\n6位:江越大賀大学\n8位:立石正広大学\n9位:青柳晃洋大学\n10位:谷端将伍大学\n12位:伏見寅威大学\n14位:村上頌樹大学\n16位:伊藤和雄大学\n18位:陽川尚将大学\n20位:熊谷敬宥大学\n\nかな",
+    "userName": "Espy_KinaKosuzu",
+    "tweetUrl": "https://twitter.com/Espy_KinaKosuzu/status/2007344384426320040",
+    "createdAt": "January 03, 2026 at 03:52PM"
+  },
+  {
+    "text": "これ見てた\n立石、独特の面白キャラやな\nテル森下のツッコミﾜﾛﾀ\n\n谷端とか岡城も(動画見る限りでは)阪神の空気には合ってそうだから活躍してくれたら嬉しいなあ",
+    "userName": "LwEqjvNbNFDDHzw",
+    "tweetUrl": "https://twitter.com/LwEqjvNbNFDDHzw/status/2007357119826456705",
+    "createdAt": "January 03, 2026 at 04:43PM"
+  },
+  {
+    "text": "「新人王目指す」阪神から2位指名　谷端将伍選手が入団会見　背番号は２５(石川テレビ)\nhttps://t.co/9fz2XuS8VU",
+    "userName": "Xhsqur",
+    "tweetUrl": "https://twitter.com/Xhsqur/status/2007359928743436689",
+    "createdAt": "January 03, 2026 at 04:54PM"
+  },
+  {
+    "text": "上から順に\nファースト\nキャッチャー\nセカンド\n誰\n小野寺暖\n立石正広\n谷端将伍 https://t.co/mF7WSY1XK1",
+    "userName": "dx62877",
+    "tweetUrl": "https://twitter.com/dx62877/status/2007394880495202460",
+    "createdAt": "January 03, 2026 at 07:13PM"
+  },
+  {
+    "text": "阪神ファンの皆さんあけおめです🎍\n\n2026年は本当に楽しみな野手、立石、谷端、岡城が入ります。\nその3人を迎え撃つ、高寺、井坪、中川、山田、百崎の高卒組のバトルが本当に楽しみ✨️\n\nまた門別や茨木、下村、今朝丸など若手投手の台頭も楽しみです！\n\n2026年もはん阪神タイガース楽しみです✨️✨️",
+    "userName": "4H9792",
+    "tweetUrl": "https://twitter.com/4H9792/status/2007418792515969199",
+    "createdAt": "January 03, 2026 at 08:48PM"
   }
 ]
