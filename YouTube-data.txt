@@ -774,5 +774,13 @@
     "publishedAt": "January 2, 2026 at 10:21AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍 ドラフトの瞬間",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zrAVjtc94Cs",
+    "publishedAt": "January 3, 2026 at 02:12PM",
+    "description": "谷端将伍選手が阪神2位指名された瞬間です！ ✓他の動画ーーーーーーーーーーーーーーーーーーーーーーーーーーー 春季リーグ ...",
+    "keyword": "谷端 阪神"
   }
 ]
