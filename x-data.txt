@@ -7678,5 +7678,317 @@
     "userName": "4H9792",
     "tweetUrl": "https://twitter.com/4H9792/status/2007418792515969199",
     "createdAt": "January 03, 2026 at 08:48PM"
+  },
+  {
+    "text": "伊原春樹投手、今朝丸裕喜選手、山田脩也選手、門別啓人投手、谷端将伍選手、岡城快生選手、西純矢選手も応援しないと！",
+    "userName": "kangekipapa",
+    "tweetUrl": "https://twitter.com/kangekipapa/status/2007680325821096136",
+    "createdAt": "January 04, 2026 at 02:07PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」\nhttps://t.co/Rulka17NhM",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2007693668757463447",
+    "createdAt": "January 04, 2026 at 03:00PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/VUGJ0SvXaU",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2007693974312489078",
+    "createdAt": "January 04, 2026 at 03:01PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」\n記事はこちら▼\nhttps://t.co/fo0qhxUgiE",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2007694119720677832",
+    "createdAt": "January 04, 2026 at 03:02PM"
+  },
+  {
+    "text": "今日は雪深い金沢市の星稜高校を訪問！\n谷端選手の自主トレ公開です☃\n曇天で寒かったけど楽しい取材でした✨️\n\n#阪神タイガース\n#谷端将伍\n#弁当忘れても傘忘れるな https://t.co/YgFElw03Rq",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2007694565999050912",
+    "createdAt": "January 04, 2026 at 03:04PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」 - スポーツ報知 https://t.co/tXvfqs88oe",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2007694993096573382",
+    "createdAt": "January 04, 2026 at 03:06PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端が母校・星稜高での自主トレ公開　外野手用グラブ持参　帰省でリフレッシュ「いい時間になりました」\nhttps://t.co/lH1ZUNp9nQ #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2007696686748197169",
+    "createdAt": "January 04, 2026 at 03:12PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」(スポーツ報知)\n#Yahooニュース\n#阪神タイガース #谷端将伍\nhttps://t.co/pz4acCiiVb",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2007697182976303421",
+    "createdAt": "January 04, 2026 at 03:14PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端が母校・星稜高での自主トレ公開　外野手用グラブ持参　帰省でリフレッシュ「いい時間になりました」（デイリースポーツ） https://t.co/Kozu4FgOoV",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2007700254532292875",
+    "createdAt": "January 04, 2026 at 03:26PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、年末年始無休トレに「先輩方も来ていて、いい時間になった」　母校の星稜高で自主トレ公開(サンケイスポーツ)\n\n【PR】】プロ野球・Jリーグ・F1だけじゃない！DMM × DAZNホーダイならアニメや映画も思う存分楽しめる！ https://t.co/9u8KRAe1ru\nhttps://t.co/18kb6QKBoO",
+    "userName": "5dmzn1",
+    "tweetUrl": "https://twitter.com/5dmzn1/status/2007704832006861305",
+    "createdAt": "January 04, 2026 at 03:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」(スポーツ報知)\n\n【PR】スポーツもエンタメもこれひとつ。DMM × DAZNホーダイならプロ野球、Jリーグ、F1、映画やアニメも見放題！ https://t.co/GkotUbx1bU\nhttps://t.co/5ahgpAYIS6",
+    "userName": "5dmzn2",
+    "tweetUrl": "https://twitter.com/5dmzn2/status/2007704836134056231",
+    "createdAt": "January 04, 2026 at 03:45PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/dSxvJ3WvFq\n\n阪神ドラ２谷端が母校・星稜高での自主トレ公開外野手用グラブ持参帰省でリフレッシュ「いい時間になりました」\nhttps://t.co/dOXyERtrV8",
+    "userName": "5dmzn5",
+    "tweetUrl": "https://twitter.com/5dmzn5/status/2007704849883038133",
+    "createdAt": "January 04, 2026 at 03:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/Hl6WSxA1CY",
+    "userName": "tmatunaga1",
+    "tweetUrl": "https://twitter.com/tmatunaga1/status/2007708140343865759",
+    "createdAt": "January 04, 2026 at 03:58PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞 ［ニュース / スポーツ / プロ野球 / NPB］\nhttps://t.co/arOaOu8Eld",
+    "userName": "8aleex01",
+    "tweetUrl": "https://twitter.com/8aleex01/status/2007708634944549221",
+    "createdAt": "January 04, 2026 at 04:00PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍、母校星稜で練習　内山先輩とプロ同士で再会「堅苦しい感じじゃなく」 https://t.co/S5GgVtRyH5 #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2007709292019724713",
+    "createdAt": "January 04, 2026 at 04:02PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞 https://t.co/uzEIM0rgt1 #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2007709293160620241",
+    "createdAt": "January 04, 2026 at 04:02PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞 ＜野球 / NPB / プロ野球＞\n\n【PR】Amazonタイムセール開催中\nお得な商品が毎日更新 https://t.co/cUu0Y50KNN\n\nhttps://t.co/Enh8jvYnDB",
+    "userName": "k_baseball_01",
+    "tweetUrl": "https://twitter.com/k_baseball_01/status/2007709342066458829",
+    "createdAt": "January 04, 2026 at 04:03PM"
+  },
+  {
+    "text": "阪神D2位・ #谷端将伍、年末年始無休トレに「先輩方も来ていて、いい時間になった」　母校の星稜高で自主トレ公開 https://t.co/0xT97rO9K8 #hanshin #阪神タイガース\n\n阪神のドラフト2位・谷端将伍内野手（21）＝日大＝が4日、母校の石川・星稜高の室内練習場で自主トレを公開した。",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2007709351524610107",
+    "createdAt": "January 04, 2026 at 04:03PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」（スポーツ報知） https://t.co/xBml44fruH",
+    "userName": "L2mCgo2IlDKCaQI",
+    "tweetUrl": "https://twitter.com/L2mCgo2IlDKCaQI/status/2007711577718309076",
+    "createdAt": "January 04, 2026 at 04:11PM"
+  },
+  {
+    "text": "\"【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」\" - スポーツ報知 #SmartNews  https://t.co/vPTsS5MIgB",
+    "userName": "SwallowsTaxi",
+    "tweetUrl": "https://twitter.com/SwallowsTaxi/status/2007718889581584607",
+    "createdAt": "January 04, 2026 at 04:40PM"
+  },
+  {
+    "text": "【広告】DMM × DAZNホーダイでプロ野球やJリーグ、F1に加え、映画やアニメ、ドラマもすべて見放題！ https://t.co/b96HrUi5Gh\n\n阪神ドラフト2位・谷端将伍が自主トレ公開　キャッチボールでは外野手用グラブを使用するシーンも(スポニチアネックス)\nhttps://t.co/vJRj1Y7IAX",
+    "userName": "9dazdm15",
+    "tweetUrl": "https://twitter.com/9dazdm15/status/2007719955941437534",
+    "createdAt": "January 04, 2026 at 04:45PM"
+  },
+  {
+    "text": "【広告】DMMとDAZNがタッグ！スポーツ中継もドラマもアニメも映画も、すべて見放題のホーダイプラン！ https://t.co/KAZ9cX66AX\n\n【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞\nhttps://t.co/OwnC6oBNLU",
+    "userName": "5dmzn4",
+    "tweetUrl": "https://twitter.com/5dmzn4/status/2007719968079847615",
+    "createdAt": "January 04, 2026 at 04:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、母校星稜で練習　内山先輩とプロ同士で再会「堅苦しい感じじゃなく」\n\n【PR】DMM × DAZNホーダイで、観たいスポーツも観たいドラマも映画もアニメも、ぜんぶ一つに！ https://t.co/JFXSHunHrp\nhttps://t.co/078QtvAta8",
+    "userName": "5dmzn5",
+    "tweetUrl": "https://twitter.com/5dmzn5/status/2007719970965467617",
+    "createdAt": "January 04, 2026 at 04:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/XayTwwQ3o1",
+    "userName": "atelierbou",
+    "tweetUrl": "https://twitter.com/atelierbou/status/2007723011961733394",
+    "createdAt": "January 04, 2026 at 04:57PM"
+  },
+  {
+    "text": "・【阪神】ドラ２谷端将伍が外野グラブで練習...\n・【日本ハム】福谷浩司「感謝の気持ちを直接...\n・【広島】小園海斗が自主トレ公開「（WBC...\nhttps://t.co/uQ0KpEh6pv",
+    "userName": "blogmura_news",
+    "tweetUrl": "https://twitter.com/blogmura_news/status/2007723717775053217",
+    "createdAt": "January 04, 2026 at 05:00PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、母校星稜で練習　内山先輩とプロ同士で再会「堅苦しい感じじゃなく」 ＜野球 / NPB / プロ野球＞\n\n【PR】Amazonタイムセール開催中\nお得な商品が毎日更新 https://t.co/cUu0Y50KNN\n\nhttps://t.co/iiYitmqW57",
+    "userName": "k_baseball_01",
+    "tweetUrl": "https://twitter.com/k_baseball_01/status/2007724439258182106",
+    "createdAt": "January 04, 2026 at 05:03PM"
+  },
+  {
+    "text": "阪神ちゃん🐅ドラ2 谷端将伍は雪中行軍ならぬ雪中トレ☃️❄️ですか…\n\n甲子園🏟️の「星稜さん(🍺•᎑•🍺)」が金沢出身と言ってたな(   ¯꒳¯ )｡｡｡\n\n同じ石川県でも気候風土は違うらしい？\n\n何処でもそうかw",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2007727390605357446",
+    "createdAt": "January 04, 2026 at 05:14PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラフト2位・谷端将伍が自主トレ公開　キャッチボールでは外野手用グラブを使用するシーンも - スポニチ Sponichi Annex 野球 https://t.co/zeTyotRLxo",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2007738984072724767",
+    "createdAt": "January 04, 2026 at 06:00PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞 https://t.co/HQKgyV5vsx",
+    "userName": "inokori_3814",
+    "tweetUrl": "https://twitter.com/inokori_3814/status/2007741746495828421",
+    "createdAt": "January 04, 2026 at 06:11PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、母校星稜で練習　内山先輩とプロ同士で再会「堅苦しい感じじゃなく」 - プロ野球 : 日刊スポーツ https://t.co/1A39RGSvl7",
+    "userName": "seiryo_fan",
+    "tweetUrl": "https://twitter.com/seiryo_fan/status/2007748171708129631",
+    "createdAt": "January 04, 2026 at 06:37PM"
+  },
+  {
+    "text": "阪神ドラ２谷端が母校・星稜高での自主トレ公開外野手用グラブ持参帰省でリフレッシュ「いい時間になりました」 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/UOmdSW84sE",
+    "userName": "5_aexpress_5",
+    "tweetUrl": "https://twitter.com/5_aexpress_5/status/2007750142246694919",
+    "createdAt": "January 04, 2026 at 06:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」 https://t.co/1amPJVjCip",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2007757327638962419",
+    "createdAt": "January 04, 2026 at 07:13PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞 https://t.co/xyjYe3L8z9",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/2007757891022037067",
+    "createdAt": "January 04, 2026 at 07:15PM"
+  },
+  {
+    "text": "虎D2谷端が星稜で☂内山らと自主トレ🐯\n入寮直前に良い時間を過ごせている👏\n\n【阪神】ドラ２谷端将伍、母校星稜で練習　内山先輩とプロ同士で再会「堅苦しい感じじゃなく」（日刊スポーツ） https://t.co/VBhaHLKgal",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/2007758605064491255",
+    "createdAt": "January 04, 2026 at 07:18PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、年末年始無休トレに「先輩方も来ていて、いい時間になった」　母校の星稜高で自主トレ公開（サンケイスポーツ） https://t.co/JsbBEmB9Om",
+    "userName": "L2mCgo2IlDKCaQI",
+    "tweetUrl": "https://twitter.com/L2mCgo2IlDKCaQI/status/2007759423008350544",
+    "createdAt": "January 04, 2026 at 07:22PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞（日刊スポーツ） https://t.co/0wbaapnaf2",
+    "userName": "L2mCgo2IlDKCaQI",
+    "tweetUrl": "https://twitter.com/L2mCgo2IlDKCaQI/status/2007760028443475971",
+    "createdAt": "January 04, 2026 at 07:24PM"
+  },
+  {
+    "text": "年末年始は毎日の様に星稜で自主トレをしている谷端🐯\n大みそかは星稜での「学校かくれんぼ」を見たのかな🤔\n\n阪神D2位・谷端将伍、年末年始無休トレに「先輩方も来ていて、いい時間になった」　母校の星稜高で自主トレ公開(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/89hNXwbmI8",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/2007761119268790377",
+    "createdAt": "January 04, 2026 at 07:28PM"
+  },
+  {
+    "text": "\"【阪神】ドラ2・谷端将伍が自主トレ公開 ヤクルト・内山壮真ら星稜OBとの合同練習で刺激「いい時間になりました」\" https://t.co/4F7K4xN7TQ",
+    "userName": "RvIshGb3Kz57184",
+    "tweetUrl": "https://twitter.com/RvIshGb3Kz57184/status/2007767240943550569",
+    "createdAt": "January 04, 2026 at 07:53PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端が母校・星稜高での自主トレ公開　外野手用グラブ持参　帰省でリフレッシュ「いい時間になりました」(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/qB1989YgWA",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2007768768299298906",
+    "createdAt": "January 04, 2026 at 07:59PM"
+  },
+  {
+    "text": "今年も阪神のショートもかなり競争激しくなりそうなポジションやな、ディベイニー選手とルーキー谷端選手が加入して、木浪選手・小幡選手・髙寺選手がいて、2軍には百崎選手や山田脩也選手などの若手もいる。\n誰かがハマってくれたらありがたい。",
+    "userName": "H5_torataxn9",
+    "tweetUrl": "https://twitter.com/H5_torataxn9/status/2007786344106655754",
+    "createdAt": "January 04, 2026 at 09:09PM"
+  },
+  {
+    "text": "阪神・谷端将伍が母校に刻む一歩。「見て学ぶことが多かった」ヤクルト内山らとの黄金の自主トレで得た“虎の即戦力”の確信\n#阪神タイガース\n#谷端将伍\n#星稜\nhttps://t.co/AnSz7xOGKm https://t.co/829NKeqHNA",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2007789105451761758",
+    "createdAt": "January 04, 2026 at 09:20PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が外野グラブで練習　１位立石正広に続いて…外野争いは１枠巡り大渋滞(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/jBjSc6wf1o",
+    "userName": "toratora_mk1",
+    "tweetUrl": "https://twitter.com/toratora_mk1/status/2007790233509867546",
+    "createdAt": "January 04, 2026 at 09:24PM"
+  },
+  {
+    "text": "阪神ドラフト２位・谷端将伍が外野グラブで練習、左翼争いは大渋滞か【野球】【反応】【考察】 https://t.co/eEYniw9mbj @YouTubeより",
+    "userName": "toraho77",
+    "tweetUrl": "https://twitter.com/toraho77/status/2007809382755774800",
+    "createdAt": "January 04, 2026 at 10:40PM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」 \nhttps://t.co/1SC7Z4vtxB",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2007830061781544990",
+    "createdAt": "January 05, 2026 at 12:02AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、年末年始無休トレに「先輩方も来ていて、いい時間になった」　母校の星稜高で自主トレ公開(サンケイスポーツ)\n\nhttps://t.co/9ZAMPI1Twf",
+    "userName": "buon12207830060",
+    "tweetUrl": "https://twitter.com/buon12207830060/status/2007873710280310924",
+    "createdAt": "January 05, 2026 at 02:56AM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍、星稜の大先輩・松井秀喜氏への弟子入り熱望「本塁打の打ち方を聞いてみたい」\nhttps://t.co/agQgrpRx9T",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2007905018439946405",
+    "createdAt": "January 05, 2026 at 05:00AM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍、星稜の大先輩・松井秀喜氏への弟子入り熱望「本塁打の打ち方を聞いてみたい」\n記事はこちら▼\nhttps://t.co/1XD8T3nzmc",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2007905266545651870",
+    "createdAt": "January 05, 2026 at 05:01AM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍、星稜の大先輩・松井秀喜氏への弟子入り熱望「本塁打の打ち方を聞いてみたい」\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/mKFybRBUly",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2007905286762184859",
+    "createdAt": "January 05, 2026 at 05:01AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　憧れ“ゴジラ級”活躍誓い　星稜高の大先輩「かっこよかった」アベレージヒッターも２桁弾目指す\nhttps://t.co/ls9RdXUx7g\n\n　阪神ドラフト２位の谷端将伍内野手（２１）＝日大＝が４日、石川県金沢市の母校・星稜高で自主トレを公開した。小さい頃からの憧れで日米通算５０７本... https://t.co/MNeg4za43z",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2007905544447914142",
+    "createdAt": "January 05, 2026 at 05:02AM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍、星稜の大先輩・松井秀喜氏への弟子入り熱望「本塁打の打ち方を聞いてみたい」 - スポーツ報知 https://t.co/q79MuXUWAn",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2007914293828944251",
+    "createdAt": "January 05, 2026 at 05:37AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　虎のミニラになる　球団初の星稜出身選手が先輩ゴジラ松井氏にいつか追いつく - スポニチ Sponichi Annex 野球 https://t.co/KyHj6Eagf7",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2007914783769845898",
+    "createdAt": "January 05, 2026 at 05:39AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、星稜高の顔になる！　地元石川で自主トレ公開し、ゴジラ級の活躍を宣言\nhttps://t.co/Ofm0AeI3X2\n\n#hanshin #阪神タイガース\n偉大な先輩のように！　阪神のドラフト2位・谷端将伍内野手（21）＝日大＝が4日、母校の石川・星稜高の室内練習場で自主トレを公開した。",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2007916976967201224",
+    "createdAt": "January 05, 2026 at 05:48AM"
   }
 ]
