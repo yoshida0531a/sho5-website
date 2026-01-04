@@ -782,5 +782,69 @@
     "publishedAt": "January 3, 2026 at 02:12PM",
     "description": "谷端将伍選手が阪神2位指名された瞬間です！ ✓他の動画ーーーーーーーーーーーーーーーーーーーーーーーーーーー 春季リーグ ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "徹底考察🔥森下以上の長打力を持つ5ツールプレイヤー‼️立石正広阪神の未来を背負う男‼️＃阪神タイガース #谷端将伍 ＃キャムデバニー ＃立石正広＃阪神＃ルーカス＃阪神　補強＃阪神　立石＃阪神　ドラフト",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wJfXMfRf_JY",
+    "publishedAt": "January 4, 2026 at 12:01PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【密着】阪神ドラ2・谷端将伍×ヤクルト・内山壮真！星稜OB合同自主トレで受けた「プロの刺激」とは？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wOv9yzY4wwY",
+    "publishedAt": "January 4, 2026 at 03:40PM",
+    "description": "阪神タイガースのドラフト2位ルーキー谷端将伍選手と、東京ヤクルトスワローズの内山壮真選手、星稜高校OBの二人が行った ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2・谷端将伍、母校・星稜高で自主トレ公開⚾️❄️雪上素振りで故郷・金沢に誓う飛躍の一年🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=bFGFv73RwDo",
+    "publishedAt": "January 4, 2026 at 03:55PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラフト速報！衝撃判明、スター激突、劇的展開！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=O0fLHpgfGAU",
+    "publishedAt": "January 4, 2026 at 04:07PM",
+    "description": "え、マジで！？   阪神タイガースドラフト2位、日大の谷端将伍選手が星稜高校で自主トレを公開！年末から黙々とトレーニング ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！谷端将伍、スター内山壮真との劇的展開判明！歴史的土壇場逆転状況一変？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=iP_cYXYmKgY",
+    "publishedAt": "January 4, 2026 at 04:15PM",
+    "description": "阪神タイガースファンのみんな、注目！✨ 日大の谷端将伍選手（21歳）が、星稜高校での自主トレの様子を特別公開！年末年始 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラフト２位・谷端将伍が外野グラブで練習、左翼争いは大渋滞か【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-znUW_9q4iU",
+    "publishedAt": "January 4, 2026 at 10:40PM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #ドラフト2位 #谷端将伍 #外野グラブ #阪神タイガース ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・ドラ２谷端　憧れ“ゴジラ級”活躍誓い　星稜高の大先輩「かっこよかった」アベレージヒッターも２桁弾目指す",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=laGgk9lzoKo",
+    "publishedAt": "January 5, 2026 at 05:59AM",
+    "description": "「野球ニュースH91」へようこそ！⚾ MLB・NPBの最新ニュース、日本人メジャーリーガー（大谷翔平・山本由伸・佐々木朗希 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端、判明する　阪神ファンの反応集",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=9Dg8KTeuawI",
+    "publishedAt": "January 5, 2026 at 06:00AM",
+    "description": "今回の動画は谷端、判明するとタイガースファンの反応をまとめた動画内容になります。 トラジ 阪神タイガースネットの声まとめ ...",
+    "keyword": "谷端 阪神"
   }
 ]
