@@ -846,5 +846,37 @@
     "publishedAt": "January 5, 2026 at 06:00AM",
     "description": "今回の動画は谷端、判明するとタイガースファンの反応をまとめた動画内容になります。 トラジ 阪神タイガースネットの声まとめ ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！谷端将伍、星稜高で劇的展開！歴史的逆転の鍵？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ve8eRM440KU",
+    "publishedAt": "January 5, 2026 at 08:14AM",
+    "description": "ええっと…ちょっと切ない気持ちになるお話です   今年のお正月、阪神タイガースの選手たちがテレビで大活躍！まさに阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、松井秀喜氏の衝撃告白！劇的展開、状況一変？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hnCiWU-XzX4",
+    "publishedAt": "January 5, 2026 at 10:39AM",
+    "description": "阪神タイガースドラフト2位、日大の谷端将伍選手が母校・星稜高校で自主トレを公開！   松井秀喜さんのような「学校の顔」を ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "速報:山下監督、阪神谷端に太鼓判！衝撃判明、歴史的スター激突？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=S9ixEI822o8",
+    "publishedAt": "January 5, 2026 at 10:46AM",
+    "description": "阪神・谷端選手、実は星稜高校の隠れた努力の塊だった！？   元星稜監督・山下智将さんが、愛弟子・谷端将伍選手の活躍を熱く ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端、立石はいい意味で阪神顔じゃないから不安",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=CQfXY_61g-k",
+    "publishedAt": "January 5, 2026 at 08:05PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
