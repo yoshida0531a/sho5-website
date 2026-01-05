@@ -1,5 +1,5 @@
 import { watch } from 'fs';
-import { execSync } from 'child_process';
+import { execSync, spawnSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { exiftool } from 'exiftool-vendored';
@@ -61,13 +61,20 @@ function formatDate(dateTime) {
 // consider using ImageMagick (convert) or sharp package instead.
 async function resizeImage(inputPath, outputPath) {
   try {
-    // Properly escape shell arguments to prevent command injection
-    const escapedInput = inputPath.replace(/"/g, '\\"');
-    const escapedOutput = outputPath.replace(/"/g, '\\"');
+    // Use spawnSync with array arguments to prevent command injection
+    const result = spawnSync('sips', [
+      '-Z', CONFIG.maxDimension.toString(),
+      inputPath,
+      '--out', outputPath
+    ], { encoding: 'utf-8' });
     
-    const command = `sips -Z ${CONFIG.maxDimension} "${escapedInput}" --out "${escapedOutput}"`;
+    if (result.error) {
+      throw result.error;
+    }
     
-    execSync(command, { stdio: 'pipe', shell: '/bin/bash' });
+    if (result.status !== 0) {
+      throw new Error(`sips exited with code ${result.status}: ${result.stderr}`);
+    }
     
     const stats = fs.statSync(outputPath);
     const sizeMB = stats.size / (1024 * 1024);
@@ -99,13 +106,24 @@ async function uploadToR2(filePath, fileName) {
 
     console.log(`   サイズ: ${resizeResult.sizeMB.toFixed(2)}MB`);
 
-    // R2にアップロード - properly escape arguments
-    const escapedBucketKey = `${CONFIG.bucketName}/${key}`;
-    const escapedFilePath = resizedPath.replace(/"/g, '\\"');
+    // R2にアップロード - use spawnSync with array arguments to prevent command injection
+    const bucketKey = `${CONFIG.bucketName}/${key}`;
     
-    const command = `wrangler r2 object put "${escapedBucketKey}" --file "${escapedFilePath}" --content-type image/jpeg --remote`;
-
-    execSync(command, { stdio: 'pipe', shell: '/bin/bash' });
+    const result = spawnSync('wrangler', [
+      'r2', 'object', 'put',
+      bucketKey,
+      '--file', resizedPath,
+      '--content-type', 'image/jpeg',
+      '--remote'
+    ], { encoding: 'utf-8' });
+    
+    if (result.error) {
+      throw result.error;
+    }
+    
+    if (result.status !== 0) {
+      throw new Error(`wrangler exited with code ${result.status}: ${result.stderr}`);
+    }
     
     // 一時ファイルを削除
     fs.unlinkSync(resizedPath);
