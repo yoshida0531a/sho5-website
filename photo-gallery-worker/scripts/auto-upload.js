@@ -2,11 +2,13 @@ import { watch } from 'fs';
 import { execSync, spawnSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
+import os from 'os';
 import { exiftool } from 'exiftool-vendored';
 
 // 設定
+const defaultWatchFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'auto-upload');
 const CONFIG = {
-  watchFolder: process.env.WATCH_FOLDER || '/Users/akira/Pictures/shogo写真データ/auto-upload',
+  watchFolder: process.env.WATCH_FOLDER || defaultWatchFolder,
   bucketName: 'sho5-gallery-photos',
   maxSizeMB: 2,
   maxDimension: 2400,
@@ -61,6 +63,11 @@ function formatDate(dateTime) {
 // consider using ImageMagick (convert) or sharp package instead.
 async function resizeImage(inputPath, outputPath) {
   try {
+    // Check if sips is available (macOS only)
+    if (os.platform() !== 'darwin') {
+      throw new Error('This script requires macOS with sips command. For other platforms, please modify the resizeImage function to use ImageMagick or another tool.');
+    }
+    
     // Use spawnSync with array arguments to prevent command injection
     const result = spawnSync('sips', [
       '-Z', CONFIG.maxDimension.toString(),

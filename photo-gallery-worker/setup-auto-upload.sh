@@ -54,8 +54,8 @@ echo ""
 echo "📁 監視フォルダの設定"
 echo "-------------------"
 
-# デフォルトパスの表示
-DEFAULT_WATCH_FOLDER="/Users/akira/Pictures/shogo写真データ/auto-upload"
+# デフォルトパスの表示（ユーザーのホームディレクトリを使用）
+DEFAULT_WATCH_FOLDER="$HOME/Pictures/shogo写真データ/auto-upload"
 echo "デフォルト: $DEFAULT_WATCH_FOLDER"
 echo ""
 echo "監視フォルダのパスを入力してください"
