@@ -97,8 +97,8 @@ cd photo-gallery-worker
 ```
 
 対話形式で入力：
-- **読み込み元フォルダ**: カメラからコピーした写真のフォルダ（例: \`~/Pictures/shogo写真データ/original\`）
-- **出力先フォルダ**: リサイズ後の保存先（例: \`~/Pictures/shogo写真データ/resized\`）
+- **読み込み元フォルダ**: カメラからコピーした写真のフォルダ（例: `~/Pictures/shogo写真データ/original`）
+- **出力先フォルダ**: リサイズ後の保存先（例: `~/Pictures/shogo写真データ/resized`）
 - Enterキーでデフォルトを使用可能
 
 #### ステップ2: 写真を確認
@@ -205,16 +205,16 @@ node scripts/upload-photos.js "/path/to/resized/photos"
 
 ### API エンドポイント
 
-- \`GET /api/photos\` - 写真一覧取得
-- \`GET /api/photos?date=2025-07-09\` - 特定日の写真
-- \`GET /images/{key}?size=medium\` - 画像配信
+- `GET /api/photos` - 写真一覧取得
+- `GET /api/photos?date=2025-07-09` - 特定日の写真
+- `GET /images/{key}?size=medium` - 画像配信
 
 ### サイズオプション
 
-- \`thumb\` - 300px幅、軽量
-- \`medium\` - 800px幅、スマホ最適
-- \`large\` - 1200px幅
-- \`original\` - オリジナルサイズ
+- `thumb` - 300px幅、軽量
+- `medium` - 800px幅、スマホ最適
+- `large` - 1200px幅
+- `original` - オリジナルサイズ
 
 ## テストとデプロイ
 
@@ -254,10 +254,10 @@ python3 -m http.server 8000
 GitHub Pagesの設定でブランチを選択すると、そのブランチの内容でサイトが公開されます：
 
 1. リポジトリの Settings → Pages
-2. Source で \`test/photo-gallery-update\` ブランチを選択
+2. Source で `test/photo-gallery-update` ブランチを選択
 3. Save をクリック
 4. 数分後、テストURLで確認可能
-5. テスト完了後、Source を \`main\` に戻す
+5. テスト完了後、Source を `main` に戻す
 
 ### デプロイワークフロー
 
@@ -326,7 +326,7 @@ GitHub Pagesの設定でブランチを選択すると、そのブランチの�
 
 ### エイリアスを作る（上級者向け）
 
-\`~/.zshrc\` または \`~/.bash_profile\` に追加：
+`~/.zshrc` または `~/.bash_profile` に追加：
 
 ```bash
 alias photo-resize="cd ~/path/to/photo-gallery-worker && ./resize-photos.sh"
