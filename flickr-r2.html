@@ -945,8 +945,11 @@
             touch1.clientY - touch2.clientY
           );
           
-          lightboxScale = Math.max(1, Math.min(5, lightboxInitialScale * (currentDistance / lightboxInitialDistance)));
-          updateImageTransform();
+          // Prevent division by zero
+          if (lightboxInitialDistance > 0) {
+            lightboxScale = Math.max(1, Math.min(5, lightboxInitialScale * (currentDistance / lightboxInitialDistance)));
+            updateImageTransform();
+          }
           
         } else if (isDragging && e.touches.length === 1) {
           // ドラッグ（ズーム時）またはスワイプ

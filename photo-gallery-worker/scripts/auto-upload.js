@@ -42,7 +42,7 @@ async function getPhotoDateTime(filePath) {
     const dateTime = tags.DateTimeOriginal || tags.CreateDate || tags.DateTime;
     return dateTime ? dateTime.toISOString().slice(0, 19).replace('T', ' ') : null;
   } catch (error) {
-    console.error(`⚠️  EXIF読み取りエラー: ${path.basename(filePath)}`);
+    console.error(`⚠️  EXIF読み取りエラー: ${path.basename(filePath)} - ${error.message}`);
     return null;
   }
 }
@@ -57,16 +57,17 @@ function formatDate(dateTime) {
 }
 
 // 画像をリサイズ
+// Note: This function uses macOS 'sips' command. For cross-platform support,
+// consider using ImageMagick (convert) or sharp package instead.
 async function resizeImage(inputPath, outputPath) {
   try {
-    const command = [
-      'sips',
-      '-Z', CONFIG.maxDimension.toString(),
-      `"${inputPath}"`,
-      '--out', `"${outputPath}"`
-    ];
+    // Properly escape shell arguments to prevent command injection
+    const escapedInput = inputPath.replace(/"/g, '\\"');
+    const escapedOutput = outputPath.replace(/"/g, '\\"');
     
-    execSync(command.join(' '), { stdio: 'pipe' });
+    const command = `sips -Z ${CONFIG.maxDimension} "${escapedInput}" --out "${escapedOutput}"`;
+    
+    execSync(command, { stdio: 'pipe', shell: '/bin/bash' });
     
     const stats = fs.statSync(outputPath);
     const sizeMB = stats.size / (1024 * 1024);
@@ -98,16 +99,13 @@ async function uploadToR2(filePath, fileName) {
 
     console.log(`   サイズ: ${resizeResult.sizeMB.toFixed(2)}MB`);
 
-    // R2にアップロード
-    const command = [
-      'wrangler', 'r2', 'object', 'put',
-      `${CONFIG.bucketName}/${key}`,
-      '--file', `"${resizedPath}"`,
-      '--content-type', 'image/jpeg',
-      '--remote'
-    ];
+    // R2にアップロード - properly escape arguments
+    const escapedBucketKey = `${CONFIG.bucketName}/${key}`;
+    const escapedFilePath = resizedPath.replace(/"/g, '\\"');
+    
+    const command = `wrangler r2 object put "${escapedBucketKey}" --file "${escapedFilePath}" --content-type image/jpeg --remote`;
 
-    execSync(command.join(' '), { stdio: 'pipe' });
+    execSync(command, { stdio: 'pipe', shell: '/bin/bash' });
     
     // 一時ファイルを削除
     fs.unlinkSync(resizedPath);
