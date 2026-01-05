@@ -10,7 +10,6 @@ Flickrの代替として、Cloudflare R2ストレージとWorkersを使用した
 - 🚀 高速配信
 - 💾 R2無料枠: 10GB/月 (約2万枚の写真)
 - 🖼️ ライトボックス表示（ピンチズーム、スワイプナビゲーション対応）
-- 🔄 自動アップロード機能
 
 ## 新機能
 
@@ -23,9 +22,17 @@ Flickrの代替として、Cloudflare R2ストレージとWorkersを使用した
 - **画像プリロード**: 前後の画像を先読みして高速表示
 - **キーボード操作**: ←→キーで画像移動、Escで閉じる
 
-### 自動アップロード機能
+### 写真リサイズ＆アップロード（2ステップ方式）
 
-特定のフォルダに写真を入れると、自動的にリサイズしてCloudflare R2にアップロードします。
+写真を効率的に管理するための2ステップワークフロー：
+
+#### ステップ1: 自動リサイズ
+特定のフォルダに写真を入れると、自動的にリサイズして日付フォルダに整理します。
+
+#### ステップ2: 手動アップロード
+リサイズ済みの写真を確認してから、手動でCloudflare R2にアップロードします。
+
+このアプローチにより、アップロード前に写真を確認・選別できます。
 
 ## セットアップ手順
 
@@ -56,38 +63,78 @@ npm run deploy
 
 ## 使用方法
 
-### 手動アップロード（従来の方法）
+### Mac向け：写真のリサイズとアップロード
+
+#### 方法1: シェルスクリプト（推奨・簡単）
 
 ```bash
-# shogo写真データフォルダをアップロード
-npm run upload "/Users/akira/Pictures/shogo写真データ"
+cd photo-gallery-worker
 
-# 個別フォルダをアップロード
-node scripts/upload-photos.js "/path/to/photos"
+# リサイズ（インタラクティブに設定）
+./resize-photos.sh
+
+# アップロード（リサイズ済みフォルダを指定）
+npm run upload ~/Pictures/shogo写真データ/resized
 ```
 
-### 自動アップロード（新機能）
+#### 方法2: npm コマンド
 
 ```bash
-# デフォルトの監視フォルダで起動
-npm run auto-upload
+cd photo-gallery-worker
 
-# カスタムフォルダを指定
-WATCH_FOLDER="/path/to/your/folder" npm run auto-upload
+# リサイズ（環境変数で設定）
+SOURCE_FOLDER="~/Pictures/original" OUTPUT_FOLDER="~/Pictures/resized" npm run resize
+
+# アップロード
+npm run upload ~/Pictures/resized
 ```
 
-**使い方:**
-1. スクリプトを起動
-2. 監視フォルダに写真をコピー（デフォルト: `/Users/akira/Pictures/shogo写真データ/auto-upload`）
-3. 自動的にリサイズ→アップロード→処理済みフォルダに移動
+#### 方法3: 直接指定
 
-**機能:**
-- ファイル追加を自動検出
-- 画像を最大2400pxにリサイズ
-- EXIF情報から撮影日時を取得して自動分類
-- Cloudflare R2に自動アップロード
-- 処理済みファイルは `processed` フォルダに移動
-- 対応フォーマット: JPG, JPEG, PNG
+```bash
+cd photo-gallery-worker
+
+# リサイズ
+node scripts/resize-photos.js
+
+# アップロード
+node scripts/upload-photos.js "/path/to/resized/photos"
+```
+
+### ワークフロー
+
+1. **写真をリサイズ**
+   ```bash
+   ./resize-photos.sh
+   ```
+   - 元の写真フォルダを指定
+   - 出力先フォルダを指定
+   - 自動的に日付フォルダに整理される
+
+2. **リサイズ結果を確認**
+   - 出力フォルダ内の写真を確認
+   - 不要な写真を削除
+
+3. **手動でアップロード**
+   ```bash
+   npm run upload ~/Pictures/shogo写真データ/resized
+   ```
+
+### フォルダ構造例
+
+```
+~/Pictures/shogo写真データ/
+├── original/              # 元の写真（カメラから）
+│   ├── IMG_001.JPG
+│   ├── IMG_002.JPG
+│   └── ...
+└── resized/              # リサイズ済み（日付で整理）
+    ├── 2025-07-09/
+    │   ├── IMG_001.JPG
+    │   └── IMG_002.JPG
+    └── 2025-07-10/
+        └── IMG_003.JPG
+```
 
 ## API エンドポイント
 
@@ -102,13 +149,28 @@ WATCH_FOLDER="/path/to/your/folder" npm run auto-upload
 - `large` - 1200px幅
 - `original` - オリジナルサイズ
 
-## HTMLファイル更新
+## テストサイトでの確認
 
-既存のflickr.htmlを以下で置き換え：
+HTMLファイルの変更は、まずテストサイトで確認してから本番に適用することを推奨します：
 
-1. `flickr-r2.html` をテスト
-2. 動作確認後 `flickr.html` に上書き
-3. `flickr-dates.html` も同様に更新
+### オプション1: 別リポジトリでテスト（現在の方式）
+- テストサイト: https://github.com/yoshida0531a/sho5-test-site
+- 本番サイト: https://github.com/yoshida0531a/sho5-website
+
+### オプション2: ブランチでテスト
+```bash
+# テスト用ブランチを作成
+git checkout -b test/lightbox-feature
+
+# テストが完了したらマージ
+git checkout main
+git merge test/lightbox-feature
+```
+
+### 推奨ワークフロー
+1. `flickr-r2.html` をテストサイトにコピー
+2. テストサイトで動作確認
+3. 問題なければ本番サイトの `flickr.html` に反映
 
 ## 無料枠制限
 
@@ -130,20 +192,22 @@ YYYY-MM-DD/
 
 ## トラブルシューティング
 
-### 自動アップロードが動作しない場合
+### リサイズが動作しない場合
 
-1. **sipsコマンドが見つからない（macOS以外）**:
-   - ImageMagickなど他の画像処理ツールをインストール
-   - `scripts/auto-upload.js`のresizeImage関数を修正
+1. **macOS以外のOS**:
+   - このスクリプトはmacOS専用（sipsコマンド使用）
+   - 他のOSではImageMagickなど別のツールが必要
 
-2. **wranglerコマンドが見つからない**:
+2. **Node.jsがインストールされていない**:
    ```bash
-   npm install -g wrangler
+   brew install node
    ```
 
-3. **EXIF読み取りエラー**:
-   - exiftoolが正しくインストールされているか確認
-   - 一部のファイルはEXIF情報がない場合があります（ファイル日時を使用）
+3. **依存関係がインストールされていない**:
+   ```bash
+   cd photo-gallery-worker
+   npm install
+   ```
 
 ### 画像表示の問題
 
