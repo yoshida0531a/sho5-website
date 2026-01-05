@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "upload": "node scripts/upload-photos.js"
+    "upload": "node scripts/upload-photos.js",
+    "auto-upload": "node scripts/auto-upload.js"
   },
   "devDependencies": {
     "wrangler": "^3.0.0"

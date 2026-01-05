@@ -310,6 +310,133 @@
       margin: 20px 0;
     }
 
+    /* Lightbox/Modal styles */
+    .lightbox {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.95);
+      z-index: 10000;
+      overflow: hidden;
+      touch-action: pan-x pan-y pinch-zoom;
+    }
+
+    .lightbox.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .lightbox-content {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .lightbox-image-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      touch-action: none;
+    }
+
+    .lightbox img {
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      transform-origin: center center;
+      transition: transform 0.3s ease;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+
+    .lightbox-close {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      font-size: 40px;
+      color: white;
+      cursor: pointer;
+      z-index: 10001;
+      width: 50px;
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 50%;
+      backdrop-filter: blur(10px);
+    }
+
+    .lightbox-nav {
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 50px;
+      color: white;
+      cursor: pointer;
+      z-index: 10001;
+      width: 60px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 50%;
+      backdrop-filter: blur(10px);
+      user-select: none;
+    }
+
+    .lightbox-nav.prev {
+      left: 20px;
+    }
+
+    .lightbox-nav.next {
+      right: 20px;
+    }
+
+    .lightbox-nav:hover,
+    .lightbox-close:hover {
+      background: rgba(0, 0, 0, 0.7);
+    }
+
+    .lightbox-counter {
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: white;
+      font-size: 16px;
+      z-index: 10001;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 8px 16px;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+    }
+
+    .lightbox-loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 18px;
+      z-index: 10002;
+    }
+
     /* レスポンシブ対応 */
     @media (max-width: 768px) {
       .gallery {
@@ -359,6 +486,20 @@
     <div class="density-btn" id="density-minus" onclick="changeDensity(1)" title="写真を小さく表示">-</div>
   </div>
 
+  <!-- Lightbox Modal -->
+  <div class="lightbox" id="lightbox">
+    <div class="lightbox-close" onclick="closeLightbox()">&times;</div>
+    <div class="lightbox-counter" id="lightbox-counter"></div>
+    <div class="lightbox-nav prev" onclick="navigateLightbox(-1)">&#8249;</div>
+    <div class="lightbox-nav next" onclick="navigateLightbox(1)">&#8250;</div>
+    <div class="lightbox-content">
+      <div class="lightbox-image-container" id="lightbox-image-container">
+        <div class="lightbox-loading" id="lightbox-loading">読み込み中...</div>
+        <img id="lightbox-img" src="" alt="">
+      </div>
+    </div>
+  </div>
+
   <footer>
     Copyright © 2023-2025 Akira Yoshida.
   </footer>
@@ -378,6 +519,22 @@
     let photosPerPage = 50; // 初期表示枚数
     let isLoading = false;
     let lastDensityChange = 0;
+    
+    // Lightbox用の変数
+    let lightboxActive = false;
+    let currentLightboxIndex = 0;
+    let lightboxScale = 1;
+    let lightboxPosX = 0;
+    let lightboxPosY = 0;
+    let lightboxTouchStartX = 0;
+    let lightboxTouchStartY = 0;
+    let lightboxInitialScale = 1;
+    let lightboxInitialDistance = 0;
+    let lightboxIsPinching = false;
+    let lightboxLastTap = 0;
+    
+    // 画像プリロード用
+    const preloadedImages = new Map();
     
     // 密度変更関数（連続タップ防止）
     function changeDensity(direction) {
@@ -441,12 +598,12 @@
       displayedPhotos = allPhotos.slice(0, endIndex);
       
       let htmlContent = "";
-      displayedPhotos.forEach(photo => {
+      displayedPhotos.forEach((photo, index) => {
         const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
         const originalUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
         
         htmlContent += `
-          <a href="${originalUrl}" target="_blank">
+          <a href="javascript:void(0)" onclick="openLightbox(${index})">
             <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
           </a>`;
       });
@@ -641,6 +798,224 @@
             $("#gallery").html(errorMessage);
           });
       }
+    });
+    
+    // Lightbox functions
+    function preloadImage(index) {
+      if (index < 0 || index >= displayedPhotos.length) return;
+      if (preloadedImages.has(index)) return;
+      
+      const photo = displayedPhotos[index];
+      const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
+      
+      const img = new Image();
+      img.src = imageUrl;
+      preloadedImages.set(index, img);
+    }
+    
+    function openLightbox(index) {
+      currentLightboxIndex = index;
+      lightboxActive = true;
+      lightboxScale = 1;
+      lightboxPosX = 0;
+      lightboxPosY = 0;
+      
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImg = document.getElementById('lightbox-img');
+      const lightboxLoading = document.getElementById('lightbox-loading');
+      const photo = displayedPhotos[index];
+      const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
+      
+      lightbox.classList.add('active');
+      lightboxLoading.style.display = 'block';
+      lightboxImg.style.display = 'none';
+      updateLightboxCounter();
+      
+      // プリロード済みの画像があれば使用
+      if (preloadedImages.has(index)) {
+        lightboxImg.src = preloadedImages.get(index).src;
+        lightboxLoading.style.display = 'none';
+        lightboxImg.style.display = 'block';
+      } else {
+        lightboxImg.src = imageUrl;
+        lightboxImg.onload = function() {
+          lightboxLoading.style.display = 'none';
+          lightboxImg.style.display = 'block';
+        };
+      }
+      
+      // 前後の画像をプリロード
+      preloadImage(index - 1);
+      preloadImage(index + 1);
+      
+      // スクロールを防ぐ
+      document.body.style.overflow = 'hidden';
+    }
+    
+    function closeLightbox() {
+      lightboxActive = false;
+      const lightbox = document.getElementById('lightbox');
+      lightbox.classList.remove('active');
+      document.body.style.overflow = '';
+      
+      // リセット
+      lightboxScale = 1;
+      lightboxPosX = 0;
+      lightboxPosY = 0;
+      updateImageTransform();
+    }
+    
+    function navigateLightbox(direction) {
+      const newIndex = currentLightboxIndex + direction;
+      if (newIndex >= 0 && newIndex < displayedPhotos.length) {
+        openLightbox(newIndex);
+      }
+    }
+    
+    function updateLightboxCounter() {
+      const counter = document.getElementById('lightbox-counter');
+      counter.textContent = `${currentLightboxIndex + 1} / ${displayedPhotos.length}`;
+    }
+    
+    function updateImageTransform() {
+      const lightboxImg = document.getElementById('lightbox-img');
+      lightboxImg.style.transform = `translate(${lightboxPosX}px, ${lightboxPosY}px) scale(${lightboxScale})`;
+    }
+    
+    // Lightbox touch events
+    function setupLightboxTouchEvents() {
+      const container = document.getElementById('lightbox-image-container');
+      const lightboxImg = document.getElementById('lightbox-img');
+      
+      let isDragging = false;
+      let startX = 0;
+      let startY = 0;
+      let currentX = 0;
+      let currentY = 0;
+      
+      container.addEventListener('touchstart', function(e) {
+        if (e.touches.length === 1) {
+          // シングルタッチ - ドラッグまたはダブルタップ
+          const touch = e.touches[0];
+          startX = touch.clientX - lightboxPosX;
+          startY = touch.clientY - lightboxPosY;
+          isDragging = true;
+          
+          // ダブルタップ検出
+          const now = Date.now();
+          if (now - lightboxLastTap < 300) {
+            // ダブルタップでズームトグル
+            if (lightboxScale > 1) {
+              lightboxScale = 1;
+              lightboxPosX = 0;
+              lightboxPosY = 0;
+            } else {
+              lightboxScale = 2;
+            }
+            updateImageTransform();
+          }
+          lightboxLastTap = now;
+          
+        } else if (e.touches.length === 2) {
+          // ピンチズーム開始
+          e.preventDefault();
+          isDragging = false;
+          lightboxIsPinching = true;
+          const touch1 = e.touches[0];
+          const touch2 = e.touches[1];
+          lightboxInitialDistance = Math.hypot(
+            touch1.clientX - touch2.clientX,
+            touch1.clientY - touch2.clientY
+          );
+          lightboxInitialScale = lightboxScale;
+        }
+      }, { passive: false });
+      
+      container.addEventListener('touchmove', function(e) {
+        if (lightboxIsPinching && e.touches.length === 2) {
+          // ピンチズーム
+          e.preventDefault();
+          const touch1 = e.touches[0];
+          const touch2 = e.touches[1];
+          const currentDistance = Math.hypot(
+            touch1.clientX - touch2.clientX,
+            touch1.clientY - touch2.clientY
+          );
+          
+          lightboxScale = Math.max(1, Math.min(5, lightboxInitialScale * (currentDistance / lightboxInitialDistance)));
+          updateImageTransform();
+          
+        } else if (isDragging && e.touches.length === 1) {
+          // ドラッグ（ズーム時）またはスワイプ
+          const touch = e.touches[0];
+          currentX = touch.clientX - startX;
+          currentY = touch.clientY - startY;
+          
+          if (lightboxScale > 1) {
+            // ズーム時はパン
+            lightboxPosX = currentX;
+            lightboxPosY = currentY;
+            updateImageTransform();
+          }
+        }
+      }, { passive: false });
+      
+      container.addEventListener('touchend', function(e) {
+        if (lightboxIsPinching) {
+          lightboxIsPinching = false;
+          if (lightboxScale <= 1) {
+            lightboxScale = 1;
+            lightboxPosX = 0;
+            lightboxPosY = 0;
+            updateImageTransform();
+          }
+        } else if (isDragging && lightboxScale === 1) {
+          // スワイプ検出（ズームしていない時のみ）
+          const deltaX = currentX - lightboxPosX;
+          const deltaY = Math.abs(currentY - lightboxPosY);
+          
+          // 横方向のスワイプで画像切り替え（縦方向の動きが小さい場合）
+          if (Math.abs(deltaX) > 50 && deltaY < 100) {
+            if (deltaX > 0) {
+              navigateLightbox(-1); // 右スワイプで前の画像
+            } else {
+              navigateLightbox(1);  // 左スワイプで次の画像
+            }
+          }
+          
+          // リセット
+          lightboxPosX = 0;
+          lightboxPosY = 0;
+          updateImageTransform();
+        }
+        isDragging = false;
+      });
+      
+      // キーボードナビゲーション
+      document.addEventListener('keydown', function(e) {
+        if (!lightboxActive) return;
+        
+        if (e.key === 'Escape') {
+          closeLightbox();
+        } else if (e.key === 'ArrowLeft') {
+          navigateLightbox(-1);
+        } else if (e.key === 'ArrowRight') {
+          navigateLightbox(1);
+        }
+      });
+      
+      // ライトボックスの背景クリックで閉じる
+      const lightbox = document.getElementById('lightbox');
+      lightbox.addEventListener('click', function(e) {
+        if (e.target === lightbox) {
+          closeLightbox();
+        }
+      });
+    }
+    
+    // Initialize lightbox events on page load
+    $(document).ready(function() {
+      setupLightboxTouchEvents();
     });
   </script>
 </body>
