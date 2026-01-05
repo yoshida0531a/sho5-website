@@ -56,10 +56,16 @@ async function getPhotoDateTime(filePath) {
 }
 
 // 撮影日時から日付部分を抽出
-function formatDate(dateTime) {
+function formatDate(dateTime, filePath) {
   if (!dateTime) {
     // 日時がない場合はファイルの更新日時を使用
-    return new Date().toISOString().slice(0, 10);
+    try {
+      const stats = fs.statSync(filePath);
+      return new Date(stats.mtime).toISOString().slice(0, 10);
+    } catch (error) {
+      // ファイル情報が取得できない場合は現在日時
+      return new Date().toISOString().slice(0, 10);
+    }
   }
   return dateTime.split(' ')[0]; // YYYY-MM-DD
 }
@@ -100,9 +106,9 @@ async function processFile(filePath) {
     
     // EXIF情報から撮影日時を取得
     const dateTime = await getPhotoDateTime(filePath);
-    const date = formatDate(dateTime);
+    const date = formatDate(dateTime, filePath);
     
-    console.log(`   撮影日時: ${dateTime || '不明（ファイル日時を使用）'}`);
+    console.log(`   撮影日時: ${dateTime || 'なし（ファイル日時を使用）'}`);
     console.log(`   日付フォルダ: ${date}`);
     
     // 日付ごとのフォルダを作成
