@@ -8482,5 +8482,209 @@
     "userName": "mnbv99015",
     "tweetUrl": "https://twitter.com/mnbv99015/status/2008553586599620732",
     "createdAt": "January 06, 2026 at 11:57PM"
+  },
+  {
+    "text": "阪神ドラ２谷端が新人合同自主トレ１日目を終え「１００パーセントでできている。万全」と順調アピール　大山にあいさつし「オーラがすごい」と驚き/阪神タイガース/デイリースポーツ online https://t.co/qoHTSof44O #阪神 #tigers #タイガース #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2008782489167577401",
+    "createdAt": "January 07, 2026 at 03:07PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　先輩・大山の存在感に感激「すごく優しくあいさつしてくれた」 - スポニチ Sponichi Annex 野球 https://t.co/VnXUyL1PO5",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2008784991237681298",
+    "createdAt": "January 07, 2026 at 03:17PM"
+  },
+  {
+    "text": "阪神・谷端将伍「藤川監督の『素直にやれ』っていう言葉と、キャンプまでにけがをしない、というのが印象に残った」 新人合同自主トレ初日 - サンスポ https://t.co/yNf9sE4sH9",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2008786198324736498",
+    "createdAt": "January 07, 2026 at 03:22PM"
+  },
+  {
+    "text": "阪神・谷端将伍「藤川監督の『素直にやれ』っていう言葉と、キャンプまでにけがをしない、というのが印象に残った」 新人合同自主トレ初...\n\n【PR】】プロ野球・Jリーグだけじゃない！DMM × DAZNホーダイならアニメや映画も思う存分楽しめる！ https://t.co/dAOzQb09Tj\nhttps://t.co/eEMRKeB02n",
+    "userName": "9dazdm4",
+    "tweetUrl": "https://twitter.com/9dazdm4/status/2008791988792152439",
+    "createdAt": "January 07, 2026 at 03:45PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/Bk8nvDkmZa\n\n阪神ドラ２谷端が新人合同自主トレ１日目を終え「１００パーセントでできている。万全」と順調アピール大山にあいさつし「オーラがすごい」と驚き\nhttps://t.co/lwkjZ8yACo",
+    "userName": "5dmzn3",
+    "tweetUrl": "https://twitter.com/5dmzn3/status/2008792008102736014",
+    "createdAt": "January 07, 2026 at 03:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も https://t.co/BmHuJ4c73S",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2008793689989280006",
+    "createdAt": "January 07, 2026 at 03:51PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も ［ニュース / スポーツ / プロ野球 / NPB］\nhttps://t.co/16HGqBzlT2",
+    "userName": "1219_901",
+    "tweetUrl": "https://twitter.com/1219_901/status/2008795805554282988",
+    "createdAt": "January 07, 2026 at 04:00PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も https://t.co/J9fEOg6cNs #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2008798936820076627",
+    "createdAt": "January 07, 2026 at 04:12PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も（日刊スポーツ） https://t.co/AvyhcQjURn",
+    "userName": "toracomame3",
+    "tweetUrl": "https://twitter.com/toracomame3/status/2008803385039081694",
+    "createdAt": "January 07, 2026 at 04:30PM"
+  },
+  {
+    "text": "全力走塁！\n【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も\n（日刊スポーツ） https://t.co/bSIAAGmOzV",
+    "userName": "msam1224",
+    "tweetUrl": "https://twitter.com/msam1224/status/2008818780009583024",
+    "createdAt": "January 07, 2026 at 05:31PM"
+  },
+  {
+    "text": "阪神ドラ２谷端が新人合同自主トレ１日目を終え「１００パーセントでできている。万全」と順調アピール　大山にあいさつし「オーラがすごい」と驚き(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/iBwGzUInnk",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2008820355708944429",
+    "createdAt": "January 07, 2026 at 05:37PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　先輩・大山の存在感に感激「すごく優しくあいさつしてくれた」（スポニチアネックス） https://t.co/zIABL4KCSc",
+    "userName": "toracomame3",
+    "tweetUrl": "https://twitter.com/toracomame3/status/2008823129410572477",
+    "createdAt": "January 07, 2026 at 05:48PM"
+  },
+  {
+    "text": "大山さん優しさに溢れてるんだなあ✨もはやキティちゃんに近い気がする。つられて優しくなっちゃう。\n\n【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」\nhttps://t.co/tPhgNdofSW",
+    "userName": "beer_nununuiht",
+    "tweetUrl": "https://twitter.com/beer_nununuiht/status/2008827250179981490",
+    "createdAt": "January 07, 2026 at 06:05PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　先輩・大山の存在感に感激「すごく優しくあいさつしてくれた」 - スポニチ Sponichi Annex 野球 https://t.co/Jufwaa0Uq8",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2008833769076351042",
+    "createdAt": "January 07, 2026 at 06:31PM"
+  },
+  {
+    "text": "今季や来季や今後での阪神タイガースでの公式戦でのペラントレースと交流戦での阪神タイガースの新人合同自主トレでの阪神タイガースの藤川球児1軍監督の黄言に関して、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と早瀬朔投手と能登嵩都投手と神宮僚介投手と山﨑照英選手に対して、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2008834520783651245",
+    "createdAt": "January 07, 2026 at 06:34PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/w7G14TGRgX",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2008836229908050104",
+    "createdAt": "January 07, 2026 at 06:40PM"
+  },
+  {
+    "text": "阪神ドラ２谷端が新人合同自主トレ１日目を終え「１００パーセントでできている。万全」と順調アピール大山にあいさつし「オーラがすごい」と驚き ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/Wby4AtPLcB",
+    "userName": "d1222_905",
+    "tweetUrl": "https://twitter.com/d1222_905/status/2008837305663164497",
+    "createdAt": "January 07, 2026 at 06:45PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　先輩・大山の存在感に感激「すごく優しくあいさつしてくれた」 - スポニチ Sponichi Annex 野球 https://t.co/Yvt3L41jcR",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/2008838471805538323",
+    "createdAt": "January 07, 2026 at 06:49PM"
+  },
+  {
+    "text": "その方が、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と早瀬朔投手と能登嵩都投手と神宮僚介投手と山﨑照英選手にとって、今季や来季や今後での公式戦でのペラントレースや交流戦で、良いプレーが出来、良い結果や良い成績が出し、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2008840214576615442",
+    "createdAt": "January 07, 2026 at 06:56PM"
+  },
+  {
+    "text": "阪神・谷端将伍「藤川監督の『素直にやれ』っていう言葉と、キャンプまでにけがをしない、というのが印象に残った」 新人合同自主トレ初日 - サンスポ https://t.co/iFxVTXcNj9 @SANSPOCOMから",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/2008840800994730300",
+    "createdAt": "January 07, 2026 at 06:59PM"
+  },
+  {
+    "text": "阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と早瀬朔投手と能登嵩都投手と神宮僚介投手と山﨑照英選手に対して、応援と鼓舞な気持ちで言うと思う。＊今季や来季や今後での公式戦でのペラントレースや交流戦含め",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2008841022789591383",
+    "createdAt": "January 07, 2026 at 06:59PM"
+  },
+  {
+    "text": "\"東都の安打製造機\"・ドラフト2️⃣位指名、谷端将伍選手がSGLで、主力選手に遭遇です😵\n\n『大山さんに挨拶させてもらいました。オーラがすごかったです。すごく優しく接してくれたのでうれしかったです…』☺️\n\n\"立石フィーバー\"に沸いていますが、この谷端選手も相当な実力者です☹️\n\n#阪神タイガース https://t.co/I2lZdVe1RE",
+    "userName": "HVK5xGOubZgreie",
+    "tweetUrl": "https://twitter.com/HVK5xGOubZgreie/status/2008869515669778459",
+    "createdAt": "January 07, 2026 at 08:53PM"
+  },
+  {
+    "text": "谷端将伍選手 歯ぁ白いなー",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2008877555743662172",
+    "createdAt": "January 07, 2026 at 09:25PM"
+  },
+  {
+    "text": "「緊張が感動に変わった」阪神ドラ2谷端を虜にした大山悠輔の素顔。名門の重圧を溶かした“最高の一言”とは？\n#阪神タイガース\n#大山悠輔\n#谷端将伍\nhttps://t.co/s2c1Dw7ekQ https://t.co/NPGGyyrwPt",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2008898918332215323",
+    "createdAt": "January 07, 2026 at 10:50PM"
+  },
+  {
+    "text": "阪神・谷端将伍「藤川監督の『素直にやれ』っていう言葉と、キャンプまでにけがをしない、というのが印象に残った」 新人合同自主トレ初日 - サンスポ https://t.co/QPcC3PjZ6Q @SANSPOCOMより",
+    "userName": "f61326",
+    "tweetUrl": "https://twitter.com/f61326/status/2008911310373978495",
+    "createdAt": "January 07, 2026 at 11:39PM"
+  },
+  {
+    "text": "ヤバすぎるエロ動画⇒『https://t.co/uENB7Z0DHv』\n\n📣【阪神】ドラ２谷端将伍が大山悠輔に遭遇したみたい！「オーラすごい。すごく優しい」とのこと✨ そして、立石正広との関係も気になるところ。これからの活躍に期待ですね！みんなはどう思う？🏏\nhttps://t.co/OVFNpYLYOO",
+    "userName": "fegCTySAzn94821",
+    "tweetUrl": "https://twitter.com/fegCTySAzn94821/status/2008921860960895300",
+    "createdAt": "January 08, 2026 at 12:21AM"
+  },
+  {
+    "text": "阪神・谷端将伍「藤川監督の『素直にやれ』っていう言葉と、キャンプまでにけがをしない、というのが印象に残った」 新人合同自主トレ初日(サンケイスポーツ)\n\nhttps://t.co/cZ8GxynZjJ",
+    "userName": "ssghs281540",
+    "tweetUrl": "https://twitter.com/ssghs281540/status/2008931987990716765",
+    "createdAt": "January 08, 2026 at 01:01AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が大山悠輔に遭遇「オーラすごい。すごく優しい」立石正広との関係も(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/sxtfnWFHV8",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2008954247912771909",
+    "createdAt": "January 08, 2026 at 02:29AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/9iP0r3C40I",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2008992412488651072",
+    "createdAt": "January 08, 2026 at 05:01AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実\n記事はこちら▼\nhttps://t.co/gCIRg1Et3m",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2008992480142799001",
+    "createdAt": "January 08, 2026 at 05:01AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実\nhttps://t.co/9y7HxEbZYZ",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2008993424184070272",
+    "createdAt": "January 08, 2026 at 05:05AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍「方向分からなく…」広すぎるSGLで遭難？最高の施設で「体が変わる」 https://t.co/Ih5JNiGvor #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2008995100060155967",
+    "createdAt": "January 08, 2026 at 05:12AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実 - スポーツ報知 https://t.co/K8fuFi1Bn1",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2009001883395146140",
+    "createdAt": "January 08, 2026 at 05:39AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」 - スポニチ Sponichi Annex 野球 https://t.co/qOJeEzcTRC",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2009003352282288302",
+    "createdAt": "January 08, 2026 at 05:44AM"
   }
 ]
