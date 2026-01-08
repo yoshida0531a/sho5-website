@@ -8686,5 +8686,485 @@
     "userName": "mouko_in_fukui",
     "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2009003352282288302",
     "createdAt": "January 08, 2026 at 05:44AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」（スポニチアネックス） https://t.co/otE2YKQrgP",
+    "userName": "toracomame3",
+    "tweetUrl": "https://twitter.com/toracomame3/status/2009013334822277298",
+    "createdAt": "January 08, 2026 at 06:24AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実（スポーツ報知） https://t.co/LrL6zEIGXP",
+    "userName": "toracomame3",
+    "tweetUrl": "https://twitter.com/toracomame3/status/2009013542398382402",
+    "createdAt": "January 08, 2026 at 06:25AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、虎風荘で迷子　トレーニング室からトイレへ移動「方向が浮かばなくなった」 - サンスポ https://t.co/B1QUxw6rmp @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2009024521412674024",
+    "createdAt": "January 08, 2026 at 07:09AM"
+  },
+  {
+    "text": "阪神タイガース・D２谷端将伍\n選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実  https://t.co/b6MEqOIbrT",
+    "userName": "lovebaseball_tg",
+    "tweetUrl": "https://twitter.com/lovebaseball_tg/status/2009025958511312929",
+    "createdAt": "January 08, 2026 at 07:14AM"
+  },
+  {
+    "text": "【阪神ドラ2谷端 寮「広い」迷子に】\nhttps://t.co/p4y4gNmSNC",
+    "userName": "YahooNewsTopics",
+    "tweetUrl": "https://twitter.com/YahooNewsTopics/status/2009026508531397034",
+    "createdAt": "January 08, 2026 at 07:17AM"
+  },
+  {
+    "text": "@YahooNewsTopics 阪神ドラ2の谷端将伍内野手が、入寮した選手寮「虎風荘」で迷子になったらしい😅。寮が広いから迷っちゃったのかな？谷端は大谷翔平選手も愛用しているというマットレスを持参して入寮し、「1年間ケガなくやりきる」という目標を掲げているんだって ¹ ² ³。",
+    "userName": "BallWizardry",
+    "tweetUrl": "https://twitter.com/BallWizardry/status/2009027986704551936",
+    "createdAt": "January 08, 2026 at 07:22AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/LZeJeSTSr1",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2009028083555422378",
+    "createdAt": "January 08, 2026 at 07:23AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実（スポーツ報知） https://t.co/waqPFMCQ72",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2009028789037355368",
+    "createdAt": "January 08, 2026 at 07:26AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」（スポニチアネックス） https://t.co/jOe9wxgfjf",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2009029051533676731",
+    "createdAt": "January 08, 2026 at 07:27AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」 - スポニチ Sponichi Annex 野球 https://t.co/niCThvsqkD",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2009033051356246050",
+    "createdAt": "January 08, 2026 at 07:43AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、虎風荘で迷子　トレーニング室からトイレへ移動「方向が浮かばなくなった」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/VQYFbeaIr9",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/2009034776586662127",
+    "createdAt": "January 08, 2026 at 07:49AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　先輩・大山の存在感に感激「すごく優しくあいさつしてくれた」（スポニチアネックス） https://t.co/SLZMmSP4j8",
+    "userName": "kazuhinoki",
+    "tweetUrl": "https://twitter.com/kazuhinoki/status/2009034924368777454",
+    "createdAt": "January 08, 2026 at 07:50AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「方向分からなく…」広すぎるSGLで遭難？最高の施設で「体が変わる」 \n#hanshin #tigers #阪神タイガース #谷端将伍 https://t.co/THgpX8Nh8p",
+    "userName": "nikkansports",
+    "tweetUrl": "https://twitter.com/nikkansports/status/2009034932388286804",
+    "createdAt": "January 08, 2026 at 07:50AM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に https://t.co/WKcdRujHDi\n#Gaze_at_Japan\n#news\n#Japan",
+    "userName": "TentativeGaze",
+    "tweetUrl": "https://twitter.com/TentativeGaze/status/2009034966584193058",
+    "createdAt": "January 08, 2026 at 07:50AM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に\n\n▶︎ 詳細はこちら → https://t.co/Icu6ZV6LON\n#ニュース速報 #時事ネタ",
+    "userName": "KY326687404801",
+    "tweetUrl": "https://twitter.com/KY326687404801/status/2009035082539925998",
+    "createdAt": "January 08, 2026 at 07:51AM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に\n#Yahooニュース\nhttps://t.co/3CjqLGRRKe",
+    "userName": "yoh_sea",
+    "tweetUrl": "https://twitter.com/yoh_sea/status/2009035208931332255",
+    "createdAt": "January 08, 2026 at 07:51AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　サウナに食事、ＳＧＬ充実施設に感動　宜野座キャンプへ「ケガのない体つくっていく」\nhttps://t.co/J3F6WLl5S1 #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2009038852758155619",
+    "createdAt": "January 08, 2026 at 08:06AM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に\n#Yahooニュース\nhttps://t.co/rO5TpmFN0g",
+    "userName": "ha_chan_dodeuce",
+    "tweetUrl": "https://twitter.com/ha_chan_dodeuce/status/2009039896464519634",
+    "createdAt": "January 08, 2026 at 08:10AM"
+  },
+  {
+    "text": "石川県民期待の阪神ルーキーはヤバい子だった\n\n阪神D2位・谷端将伍、虎風荘で迷子　トレーニング室からトイレへ移動「方向が浮かばなくなった」（サンケイスポーツ） https://t.co/2EDuX3YIoi",
+    "userName": "investor_saru",
+    "tweetUrl": "https://twitter.com/investor_saru/status/2009041451255279755",
+    "createdAt": "January 08, 2026 at 08:16AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実(スポーツ報知)\n#Yahooニュース \n\n新人さんカワユスｗ😇\nhttps://t.co/lLbOfYUihV",
+    "userName": "xxxtdsotmxxx",
+    "tweetUrl": "https://twitter.com/xxxtdsotmxxx/status/2009042315822944470",
+    "createdAt": "January 08, 2026 at 08:19AM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に https://t.co/lc60rwvCet",
+    "userName": "topic_tw",
+    "tweetUrl": "https://twitter.com/topic_tw/status/2009043035523567809",
+    "createdAt": "January 08, 2026 at 08:22AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「方向分からなく…」広すぎるSGLで遭難？最高の施設で「体が変わる」 https://t.co/pw5QQNQGKj",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2009045337198236118",
+    "createdAt": "January 08, 2026 at 08:31AM"
+  },
+  {
+    "text": "微笑ましいな\n\n【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実(スポーツ報知)\nhttps://t.co/7ROPhAhTkg",
+    "userName": "vd3F7LDxQ841114",
+    "tweetUrl": "https://twitter.com/vd3F7LDxQ841114/status/2009045446887694621",
+    "createdAt": "January 08, 2026 at 08:32AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」 - スポニチ Sponichi Annex 野球 https://t.co/dH3WJ13J7x",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2009047097354703338",
+    "createdAt": "January 08, 2026 at 08:38AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実(スポーツ報知)\n#Yahooニュース\nhttps://t.co/SMn6StGJpq",
+    "userName": "hamakazeseiti",
+    "tweetUrl": "https://twitter.com/hamakazeseiti/status/2009047433104511189",
+    "createdAt": "January 08, 2026 at 08:40AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」 - スポニチ Sponichi Annex 野球 https://t.co/16F5XAs4b5",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2009049265944068501",
+    "createdAt": "January 08, 2026 at 08:47AM"
+  },
+  {
+    "text": "阪神ドラ２谷端が新人合同自主トレ１日目を終え「１００パーセントでできている。万全」と順調アピール　大山にあいさつし「オーラがすごい」と驚き(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/DTi7DDqGI9",
+    "userName": "88_naughty_bgm",
+    "tweetUrl": "https://twitter.com/88_naughty_bgm/status/2009055410721050819",
+    "createdAt": "January 08, 2026 at 09:11AM"
+  },
+  {
+    "text": "阪神ドラフト2位の谷端将伍選手、寮で迷子とかウケる🤣\nどんだけ寮広いんだよ\n日本大学も広いのに\nhttps://t.co/90wR4sQiYe",
+    "userName": "irreEabQD83824",
+    "tweetUrl": "https://twitter.com/irreEabQD83824/status/2009055518086906194",
+    "createdAt": "January 08, 2026 at 09:12AM"
+  },
+  {
+    "text": "阪神・谷端将伍「藤川監督の『素直にやれ』っていう言葉と、キャンプまでにけがをしない、というのが印象に残った」 新人合同自主トレ初日(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/X1L7MtxI7j",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2009059346379100537",
+    "createdAt": "January 08, 2026 at 09:27AM"
+  },
+  {
+    "text": "> 「全部がすごくて。エレベーターがあるのもすごいですし、お風呂だったらサウナが本当にビックリしました」\n\n筑波にはエレベーターがないのか...\n\n阪神D2位・谷端将伍、虎風荘で迷子　トレーニング室からトイレへ移動「方向が浮かばなくなった」(サンケイスポーツ)\nhttps://t.co/iG1dCU2Fq5",
+    "userName": "shima2_jiro",
+    "tweetUrl": "https://twitter.com/shima2_jiro/status/2009067075550269857",
+    "createdAt": "January 08, 2026 at 09:58AM"
+  },
+  {
+    "text": "山崎照英\n\n結構イケメンさんよ🥰\n\n立石正広、谷端将伍が通過なう\n\n #日鉄鋼板SGLスタジアム尼崎 \n #阪神タイガース  #山崎照英  #立石正広  #谷端将伍 https://t.co/DZ54PLIL3V",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2009078207941947671",
+    "createdAt": "January 08, 2026 at 10:42AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍に早くも“プロの洗礼”!?「虎風荘」で迷子　設備の充実ぶりに「びっくり」(スポニチアネックス)\n#Yahooニュース\n#阪神タイガース #谷端将伍\nhttps://t.co/0eDXtFzLiF",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2009078471230955979",
+    "createdAt": "January 08, 2026 at 10:43AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端サウナに食事、ＳＧＬ充実施設に感動宜野座キャンプへ「ケガのない体つくっていく」 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/xSJdtnkbso",
+    "userName": "1218_802",
+    "tweetUrl": "https://twitter.com/1218_802/status/2009078903613345896",
+    "createdAt": "January 08, 2026 at 10:45AM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/tH2aaKG398\n\n阪神・ドラ２谷端サウナに食事、ＳＧＬ充実施設に感動宜野座キャンプへ「ケガのない体つくっていく」\nhttps://t.co/T4otFLb13U",
+    "userName": "8damm01",
+    "tweetUrl": "https://twitter.com/8damm01/status/2009094025757020537",
+    "createdAt": "January 08, 2026 at 11:45AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実（スポーツ報知）\n#Yahooニュース https://t.co/ExBH8wTWoj",
+    "userName": "mori_720724",
+    "tweetUrl": "https://twitter.com/mori_720724/status/2009104263386218773",
+    "createdAt": "January 08, 2026 at 12:25PM"
+  },
+  {
+    "text": "迷子になるって凄い設備なんだな。\n\n【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実(スポーツ報知)\n#Yahooニュース\nhttps://t.co/rZD0ZYqlPF",
+    "userName": "c7TRqYIrTMJiX9g",
+    "tweetUrl": "https://twitter.com/c7TRqYIrTMJiX9g/status/2009119326302032170",
+    "createdAt": "January 08, 2026 at 01:25PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言\nhttps://t.co/GMJEtOSSid\n\n　阪神が８日、沖縄県宜野座村で行う１軍キャンプ、同うるま市での２軍キャンプの日程を発表した。\n\n　ともに２月１日～２５日の期間で、休日は５、、１０、１６、２...",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2009132515215462414",
+    "createdAt": "January 08, 2026 at 02:18PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言\nhttps://t.co/3WUy7maNz0 #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2009132588821303322",
+    "createdAt": "January 08, 2026 at 02:18PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言/デイリースポーツ online\n\n#プロ野球 #阪神タイガース #阪神 #tigers \n https://t.co/NIPRd9KNbc # @Daily_Onlineより",
+    "userName": "JpKagoshima",
+    "tweetUrl": "https://twitter.com/JpKagoshima/status/2009133411202724081",
+    "createdAt": "January 08, 2026 at 02:21PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言/阪神タイガース/デイリースポーツ online https://t.co/ncdNUko3uk",
+    "userName": "landexx",
+    "tweetUrl": "https://twitter.com/landexx/status/2009135368223048119",
+    "createdAt": "January 08, 2026 at 02:29PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、虎風荘で迷子　トレーニング室からトイレへ移動「方向が浮かばなくなった」(サンケイスポーツ)\n\nhttps://t.co/ioZH2wFFYN",
+    "userName": "rijingpingjun1",
+    "tweetUrl": "https://twitter.com/rijingpingjun1/status/2009136520364741097",
+    "createdAt": "January 08, 2026 at 02:34PM"
+  },
+  {
+    "text": "阪神が1、2軍の春季キャンプ日程を発表　藤川監督はドラ1・立石、2位・谷端の宜野座スタートを明言（デイリースポーツ）-Yahoo!ニュース https://t.co/eHlCkl6xFf\n\n阪神が8日、沖縄県宜野座村で行う1軍キャンプ、同うるま市での2軍キャンプの日程を発表した。 https://t.co/sWk7F8FsLr",
+    "userName": "gnomotoke",
+    "tweetUrl": "https://twitter.com/gnomotoke/status/2009139210545188996",
+    "createdAt": "January 08, 2026 at 02:44PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/TOm8wSFG0x",
+    "userName": "1220k04",
+    "tweetUrl": "https://twitter.com/1220k04/status/2009139297736437939",
+    "createdAt": "January 08, 2026 at 02:45PM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に\n#Yahooニュース\nhttps://t.co/qkoQi9LXCd",
+    "userName": "chixxx94045980",
+    "tweetUrl": "https://twitter.com/chixxx94045980/status/2009141790600024543",
+    "createdAt": "January 08, 2026 at 02:55PM"
+  },
+  {
+    "text": "谷端と赤星の接点？？と思ったら日大だOBだ。 https://t.co/a6V4t58ziQ",
+    "userName": "ABE_Sato",
+    "tweetUrl": "https://twitter.com/ABE_Sato/status/2009142624557617233",
+    "createdAt": "January 08, 2026 at 02:58PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/uRMXQ6Yz6a",
+    "userName": "5CdsIpvmZO89934",
+    "tweetUrl": "https://twitter.com/5CdsIpvmZO89934/status/2009147975365443676",
+    "createdAt": "January 08, 2026 at 03:19PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言（デイリースポーツ） https://t.co/DH3lcaK6wX",
+    "userName": "junji_nakano06",
+    "tweetUrl": "https://twitter.com/junji_nakano06/status/2009153994757976467",
+    "createdAt": "January 08, 2026 at 03:43PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/Z9nDRZCDFO",
+    "userName": "satsuki_toraco",
+    "tweetUrl": "https://twitter.com/satsuki_toraco/status/2009157847784038742",
+    "createdAt": "January 08, 2026 at 03:58PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/4r99JPGK27",
+    "userName": "yuzu4918",
+    "tweetUrl": "https://twitter.com/yuzu4918/status/2009157931657478348",
+    "createdAt": "January 08, 2026 at 03:59PM"
+  },
+  {
+    "text": "\"阪神が1、2軍の春季キャンプ日程を発表 藤川監督はドラ1・立石、2位・谷端の宜野座スタートを明言\" https://t.co/pfHLnwVRu5",
+    "userName": "Kk8ctGaME5GsMO7",
+    "tweetUrl": "https://twitter.com/Kk8ctGaME5GsMO7/status/2009159006011691327",
+    "createdAt": "January 08, 2026 at 04:03PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/UnkMNFFXzs",
+    "userName": "Kai_Griffey",
+    "tweetUrl": "https://twitter.com/Kai_Griffey/status/2009160763727114291",
+    "createdAt": "January 08, 2026 at 04:10PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\n#阪神タイガース #立石正広 #谷端将伍\nhttps://t.co/7BTmpebBPr",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2009161651820609744",
+    "createdAt": "January 08, 2026 at 04:14PM"
+  },
+  {
+    "text": "阪神春季キャンプ\n立石と谷端は宜野座スタート🐯\n楽しみやわ🙌\n#阪神タイガース",
+    "userName": "1mo1mokenp1",
+    "tweetUrl": "https://twitter.com/1mo1mokenp1/status/2009165371023217090",
+    "createdAt": "January 08, 2026 at 04:28PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/sUbdjFTuN0",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2009171738215805414",
+    "createdAt": "January 08, 2026 at 04:54PM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実(スポーツ報知)\n#Yahooニュース\nhttps://t.co/FLfXSO8HaB",
+    "userName": "kkkno311",
+    "tweetUrl": "https://twitter.com/kkkno311/status/2009172249304289395",
+    "createdAt": "January 08, 2026 at 04:56PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言（デイリースポーツ） https://t.co/2gPK81scpx",
+    "userName": "kazuhinoki",
+    "tweetUrl": "https://twitter.com/kazuhinoki/status/2009174381969461643",
+    "createdAt": "January 08, 2026 at 05:04PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\nタッチアップの練習をしてる早瀬朔選手、谷端将伍選手、岡城快生選手、立石正広選手、神宮僚介選手、山﨑照英選手と山﨑選手の走るのを撮りたかったばかりに撮れなかった能登嵩都選手 笑 https://t.co/RHt4dv9zbU",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009186195365142807",
+    "createdAt": "January 08, 2026 at 05:51PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\n棒を使ってストレッチをする早瀬朔選手、谷端将伍選手とチラッと立石正広選手\n#早瀬朔 選手  #谷端将伍 選手  #立石正広 選手 https://t.co/rq1bm92wyt",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009190867756843118",
+    "createdAt": "January 08, 2026 at 06:10PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言（デイリースポーツ） https://t.co/skLUACWB0K",
+    "userName": "hhbwota50",
+    "tweetUrl": "https://twitter.com/hhbwota50/status/2009192676445577229",
+    "createdAt": "January 08, 2026 at 06:17PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\nキャッチボールをする谷端将伍選手①\n#谷端将伍 選手 https://t.co/h6N3yYYVaC",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009193091509702887",
+    "createdAt": "January 08, 2026 at 06:18PM"
+  },
+  {
+    "text": "ドラ2の谷端選手広い寮で迷子なんて面白い！新生活楽しんでほしいな～！\n\n阪神ドラ2谷端 寮「広い」迷子に\nhttps://t.co/OvWGIu8fnD",
+    "userName": "hogehogejapan",
+    "tweetUrl": "https://twitter.com/hogehogejapan/status/2009195888531693891",
+    "createdAt": "January 08, 2026 at 06:30PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\nキャッチボールをする谷端将伍選手②\n投げる時の上半身の動きが誰かに似てる…\n誰や…あー わからん\n#谷端将伍 選手 https://t.co/jwhWOhPI6I",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009196651811123451",
+    "createdAt": "January 08, 2026 at 06:33PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\nキャッチボールの終わりかけの立石正広選手と谷端将伍選手\n#立石正広 選手  #谷端将伍 選手 https://t.co/ixhwCwW8ny",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009199536405926108",
+    "createdAt": "January 08, 2026 at 06:44PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/rGefQ7UibA",
+    "userName": "kazunatumi",
+    "tweetUrl": "https://twitter.com/kazunatumi/status/2009200000665047111",
+    "createdAt": "January 08, 2026 at 06:46PM"
+  },
+  {
+    "text": "阪神ドラ２谷端、今日から自主トレってマジ？大山のオーラにびびった草\nhttps://t.co/aW1oVeAedZ\n＃阪神ファンと繋がりたい　#谷端将伍",
+    "userName": "KabochaMegane",
+    "tweetUrl": "https://twitter.com/KabochaMegane/status/2009203428829114420",
+    "createdAt": "January 08, 2026 at 07:00PM"
+  },
+  {
+    "text": "阪神が春季キャンプ日程を発表！ドラ1立石正広＆ドラ２谷端将伍は宜野座スタート【野球】【反応】【考察】 https://t.co/ibeVt6OFzo @YouTubeより",
+    "userName": "toraho77",
+    "tweetUrl": "https://twitter.com/toraho77/status/2009212448570761269",
+    "createdAt": "January 08, 2026 at 07:35PM"
+  },
+  {
+    "text": "【広告】DAZNのスポーツ中継とDMMの豊富なエンタメ作品。DMM × DAZNホーダイなら全部見放題！ https://t.co/7fOYmjXek6\n\n阪神が１、２軍の春季キャンプ日程を発表藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言\nhttps://t.co/ig9XgNgEcX",
+    "userName": "5dmzn2",
+    "tweetUrl": "https://twitter.com/5dmzn2/status/2009214802842013806",
+    "createdAt": "January 08, 2026 at 07:45PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/oiq7vLNbzJ",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2009220344171880672",
+    "createdAt": "January 08, 2026 at 08:07PM"
+  },
+  {
+    "text": "阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言/阪神タイガース/デイリースポーツ online https://t.co/vXYWQf5JqQ @Daily_Onlineより \n来月にはキャンプインですね。",
+    "userName": "teclis0734",
+    "tweetUrl": "https://twitter.com/teclis0734/status/2009222246162899417",
+    "createdAt": "January 08, 2026 at 08:14PM"
+  },
+  {
+    "text": "今年は阪神か中日が優勝だろうな…やっぱり両チーム共にドラフトが上手い！立石が評判通りの活躍に新外国人や谷端もハマれば打線はかなりやばい！中日も中西が加入で高校大学と日本一を経験している勝てる投手で高橋.金丸.中西と若手三本柱は強力！あとは1番でかいのは高山コーチ獲得！これは強い！",
+    "userName": "monkeysakamoto",
+    "tweetUrl": "https://twitter.com/monkeysakamoto/status/2009222742756008370",
+    "createdAt": "January 08, 2026 at 08:16PM"
+  },
+  {
+    "text": "二軍も気になる。岡城vs福島の足対決とか。\n\n阪神が１、２軍の春季キャンプ日程を発表　藤川監督はドラ１・立石、２位・谷端の宜野座スタートを明言(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/1hEO0SV2s9",
+    "userName": "ASiqHinQxIaboOp",
+    "tweetUrl": "https://twitter.com/ASiqHinQxIaboOp/status/2009241789308522896",
+    "createdAt": "January 08, 2026 at 09:32PM"
+  },
+  {
+    "text": "@dx62877 多分谷端繰り上げやったと思う。阪神の去年のドラフト戦略が右のスラッガー候補獲得やったし。\nほんでもし谷端が1位やったら、珍カスX民が「なんで谷端1位やねん💢」とブチ切れてたやろうね",
+    "userName": "kkandTigers",
+    "tweetUrl": "https://twitter.com/kkandTigers/status/2009242707403919638",
+    "createdAt": "January 08, 2026 at 09:36PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\n三塁でノックを受ける立石正広選手、谷端将伍選手、岡城快生選手、山﨑照英選手、能登嵩都選手、神宮僚介選手、早瀬朔選手\nピッチャーはちょっとビビってた 笑\n谷端選手うまい！ https://t.co/J4dFSExV8l",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009291263237845395",
+    "createdAt": "January 09, 2026 at 12:49AM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.8】\n二塁でノックを受ける立石正広選手、谷端将伍選手、岡城快生選手、山﨑照英選手、能登嵩都選手、神宮僚介選手、早瀬朔選手 https://t.co/L4UNhXyIrH",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2009291289280299296",
+    "createdAt": "January 09, 2026 at 12:49AM"
+  },
+  {
+    "text": "「新人王目指す」阪神から2位指名　谷端将伍選手が入団会見　背番号は２５(石川テレビ)\nhttps://t.co/cGYGkYU2XR",
+    "userName": "HeysWood",
+    "tweetUrl": "https://twitter.com/HeysWood/status/2009300010903781541",
+    "createdAt": "January 09, 2026 at 01:23AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実(スポーツ報知)\n#Yahooニュース\nhttps://t.co/OPO38NSEYz",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2009327088998994287",
+    "createdAt": "January 09, 2026 at 03:11AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、土と友達になる！！「高校以来…もう一度慣れていかないと」\nhttps://t.co/NHBPcBaBVO\n\n#hanshin #阪神タイガース",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2009363227680071751",
+    "createdAt": "January 09, 2026 at 05:35AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】谷端将伍「もう１度土に慣れていかないと」SGL合同トレ２日目に内野ノックで甲子園予習 https://t.co/hhH4bPPpVw #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2009363855059591672",
+    "createdAt": "January 09, 2026 at 05:37AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　土のグラウンド攻略へグラブさばきを再確認「慣れていかないと」 - スポニチ Sponichi Annex 野球 https://t.co/Eb8ohmDuKc",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2009366506984050802",
+    "createdAt": "January 09, 2026 at 05:48AM"
+  },
+  {
+    "text": "阪神ドラ2谷端 寮「広い」迷子に\n#Yahooニュース\nhttps://t.co/ARQ2NTCLo5",
+    "userName": "KomrK236306",
+    "tweetUrl": "https://twitter.com/KomrK236306/status/2009372015736607214",
+    "createdAt": "January 09, 2026 at 06:09AM"
   }
 ]
