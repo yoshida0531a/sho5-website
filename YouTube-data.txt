@@ -942,5 +942,269 @@
     "publishedAt": "January 7, 2026 at 11:18AM",
     "description": "阪神タイガース #ドラフト会議 #藤川球児 #藤川監督 #立石正広 #ドラフト2025 #谷端将伍 阪神タイガース新人合同自主トレ初日の ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、迷子速報！衝撃判明、歴史的劇的展開？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=SBqhKkHjZXU",
+    "publishedAt": "January 8, 2026 at 07:33AM",
+    "description": "え、SGLダンジョンって何！？   阪神タイガースの期待のルーキー、谷端将伍選手が球団施設でまさかの迷子事件！広大な施設に ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🏟️😲【阪神ドラ2新人に衝撃の洗礼】😲✨「広すぎて迷子に…」谷端将伍、超最新鋭“虎風荘”でプロのスケールを初体感！🔥🐯",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yv3wuPv4yDw",
+    "publishedAt": "January 8, 2026 at 09:23AM",
+    "description": "プロの第一歩でまさかの珍事件！】  ✨ 阪神タイガースのドラフト2位新人✨谷端将伍内野手（21）が、 新人合同自主トレ初日 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「プロの世界が広すぎた…阪神ドラ2ルーキーが迷子に😲」#阪神タイガース#谷端将伍#ドラフト2位#若虎#プロ野球ルーキー#虎風荘#新人合同自主トレ#阪神ファン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=5LDzxnei28U",
+    "publishedAt": "January 8, 2026 at 09:26AM",
+    "description": "阪神タイガース、ドラフト2位ルーキー・谷端将伍。 東都リーグで二度の首位打者に輝いた実力派内野手が、プロ野球の世界で ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=scti_7zpp5k",
+    "publishedAt": "January 8, 2026 at 09:56AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🏟️阪神新人・谷端将伍、入寮初日で迷",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=cQ4xgpoZ3rI",
+    "publishedAt": "January 8, 2026 at 10:42AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yV8klxAmpAw",
+    "publishedAt": "January 8, 2026 at 10:58AM",
+    "description": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🏟️【迷子で洗礼⁉️】阪神ドラ2・谷端将伍、豪華すぎる虎風荘に困惑😂♨️🍲「広すぎて別世界！」プロ生活の衝",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ZA4quRYus3M",
+    "publishedAt": "January 8, 2026 at 11:13AM",
+    "description": "阪神タイガースの未来が、いきなり“迷子”から始まった――！？  ⚾ ドラフト2位で阪神に入団した 谷端将伍 が、プロ生活 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【衝撃のプロ洗礼⁉️】阪神ドラ2・谷端将伍、豪華すぎる選手寮で迷子😂🏢♨️「広さが別次元！」サウナ＆すき焼きに驚愕⚾🍲",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ugH6HSjF160",
+    "publishedAt": "January 8, 2026 at 11:24AM",
+    "description": "阪神ドラフト2位ルーキー・谷端将伍が早くも“プロの洗礼”⁉️   入寮初日からまさかの迷子事件発生  ‍♂️  「こんなに広いのは ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zABw6RpLenE",
+    "publishedAt": "January 8, 2026 at 11:46AM",
+    "description": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2ルーキー、入寮初日で迷子に…😲 これが“プロの洗礼”」#阪神タイガース#谷端将伍#プロ野球#新人合同自主トレ#ドラフト2位#虎風荘#若虎#プロの洗礼",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XBO_nI4EGvY",
+    "publishedAt": "January 8, 2026 at 12:09PM",
+    "description": "阪神タイガースのドラフト2位ルーキー・谷端将伍内野手。 東都大学リーグで2度の首位打者に輝いた実力派が、プロ野球の世界に ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=CK5WJlpZtWY",
+    "publishedAt": "January 8, 2026 at 12:38PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Qd3i9tecDJI",
+    "publishedAt": "January 8, 2026 at 12:50PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯✨阪神ドラ2谷端将伍、選手寮でまさかの迷子デビュー！「広すぎて驚いた」サウナ＆すき焼き満喫🍲🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=4AiFGURsK5Q",
+    "publishedAt": "January 8, 2026 at 01:09PM",
+    "description": "阪神タイガースのドラフト2位としてプロ野球の世界に足を踏み入れた谷端将伍が、選手寮での新生活をスタートさせた。期待と ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KlrEro-X_M8",
+    "publishedAt": "January 8, 2026 at 01:10PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🏠【阪神ドラフト2位】谷端将伍、選手寮で迷子⁉️😳🛁サウナ＆すき焼き満喫でプロ生活スタート💪⚾",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=MzFFb2MVDJc",
+    "publishedAt": "January 8, 2026 at 01:17PM",
+    "description": "阪神ドラフト2位・谷端将伍選手が、最新鋭の選手寮「虎風荘」で早速迷子に⁉️   広すぎる寮内で右往左往しながらも、大浴場の ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ2・谷端将伍、選手寮の広さに仰天「いきなり迷子」 サウナ＆すき焼きに感激",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=iyStKJKRj2s",
+    "publishedAt": "January 8, 2026 at 01:27PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯【迷子から伝説へ！？】阪神ドラ2・谷端将伍が体感した“プロの世界”が想像以上だった件🏟️💪",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=SkQW5bw96Sg",
+    "publishedAt": "January 8, 2026 at 02:02PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ2・谷端将伍、選手寮でまさかの迷子体験「こんなに広いのは初めて」サウナ＆すき焼きに驚きの新生活",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UJHTvq5TouY",
+    "publishedAt": "January 8, 2026 at 02:23PM",
+    "description": "阪神タイガースのドラフト2位ルーキー・谷端将伍が入寮早々、広大な選手寮で迷子になるハプニングを告白。「こんなに広いのは ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2谷端将伍が語った第一歩　選手寮生活が示す適応力",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=GT2WgTs4CZY",
+    "publishedAt": "January 8, 2026 at 02:43PM",
+    "description": "阪神ドラ2谷端将伍が語った第一歩 選手寮生活が示す適応力 阪神ドラフト2位の谷端将伍が選手寮に入寮し、新生活をスタート ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ２谷端が新人合同自主トレ１日目を終え「１００パーセントでできている。万全」と順調アピール　大山にあいさつし「オーラがすごい」と驚き",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jUdYgo8mw3k",
+    "publishedAt": "January 8, 2026 at 02:55PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラフト2位・谷端将伍、選手寮で迷子!? サウナやすき焼き付きの豪華生活に驚き",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ln5P1Enfnzs",
+    "publishedAt": "January 8, 2026 at 02:57PM",
+    "description": "阪神ドラフト2位・谷端将伍、選手寮で迷子!? サウナやすき焼き付きの豪華生活に驚き阪神タイガースのドラフト2位ルーキー・谷 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍の新生活に見る可能性　阪神選手寮で始まった挑戦",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vQHhYUGQCzQ",
+    "publishedAt": "January 8, 2026 at 02:59PM",
+    "description": "谷端将伍の新生活に見る可能性 阪神選手寮で始まった挑戦 阪神ドラフト2位ルーキー谷端将伍の選手寮入寮エピソードを軸に、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2ルーキー・谷端将伍、選手寮で迷子に!? 広すぎる寮とサウナ・すき焼きの豪華環境",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hNG393-nmuY",
+    "publishedAt": "January 8, 2026 at 03:00PM",
+    "description": "阪神ドラ2ルーキー・谷端将伍、選手寮で迷子に!? 広すぎる寮とサウナ・すき焼きの豪華環境阪神タイガースのドラフト2位・谷端 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2・谷端将伍、選手寮で迷子に？「こんなに広いのは初めて」充実の寮生活とは",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=DzNDW_trJAI",
+    "publishedAt": "January 8, 2026 at 03:01PM",
+    "description": "阪神ドラ2・谷端将伍、選手寮で迷子に？「こんなに広いのは初めて」充実の寮生活とは阪神タイガースのドラフト2位ルーキー・ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=aSJPeNc-Xn0",
+    "publishedAt": "January 8, 2026 at 03:18PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=l64nSDIU0-o",
+    "publishedAt": "January 8, 2026 at 03:19PM",
+    "description": "阪神ドラフト2位の谷端将伍が新人合同自主トレ初日に“プロの洗礼”。最新鋭の選手寮・虎風荘の広さにまさかの迷子体験も、「 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神ドラ2】谷端将伍、入寮初日でまさかの迷子！？「こんなに広いの初めて」サウナ＆すき焼きに感動の新生活",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=RX9B12kIRXQ",
+    "publishedAt": "January 8, 2026 at 03:40PM",
+    "description": "【阪神ドラ2】谷端将伍、入寮初日でまさかの迷子！？ 「こんなに広いの初めて」サウナ＆すき焼きに感動の新生活阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍の新生活に見る可能性　阪神選手寮で始まった挑戦",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=0yg3ozwj0ds",
+    "publishedAt": "January 8, 2026 at 05:35PM",
+    "description": "谷端将伍の新生活に見る可能性 阪神選手寮で始まった挑戦 阪神ドラフト2位ルーキー谷端将伍の選手寮入寮エピソードを軸に、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2谷端将伍が語った第一歩　選手寮生活が示す適応力",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=92X260mQsT4",
+    "publishedAt": "January 8, 2026 at 05:40PM",
+    "description": "阪神ドラ2谷端将伍が語った第一歩 選手寮生活が示す適応力 阪神ドラフト2位の谷端将伍が選手寮に入寮し、新生活をスタート ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が選手寮でいきなり迷子「こんなに広いのは初めて」サウナにすき焼きと充実",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6elv5-7hJBQ",
+    "publishedAt": "January 8, 2026 at 06:20PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ2谷端将伍、入寮初日にまさかの迷子「広すぎる…」サウナ完備＆夕食は豪華すき焼きの衝撃",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=sHiX1-3UNC4",
+    "publishedAt": "January 8, 2026 at 07:30PM",
+    "description": "阪神タイガースのドラフト2位ルーキー・谷端将伍が、プロ野球人生の第一歩として入った選手寮で体験した“まさかの出来事”が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神が春季キャンプ日程を発表！ドラ1立石正広＆ドラ２谷端将伍は宜野座スタート【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Ahyc0H8_WC4",
+    "publishedAt": "January 8, 2026 at 07:34PM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #春季キャンプ #日程発表 #立石正広 #谷端将伍 #阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "迷子から始まるプロ野球人生――阪神ドラ2・谷端将伍、“虎風荘”で知った本当のプロのスケール",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=pMzzUgJ6EXw",
+    "publishedAt": "January 9, 2026 at 12:28AM",
+    "description": "プロ野球選手としての第一歩は、必ずしもグラウンドの上から始まるわけではない。阪神タイガースにドラフト2位で指名された谷 ...",
+    "keyword": "谷端 阪神"
   }
 ]
