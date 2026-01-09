@@ -1206,5 +1206,45 @@
     "publishedAt": "January 9, 2026 at 12:28AM",
     "description": "プロ野球選手としての第一歩は、必ずしもグラウンドの上から始まるわけではない。阪神タイガースにドラフト2位で指名された谷 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラフト2位・谷端将伍「内野で勝負」ディベイニーや佐藤輝明らと競争へ【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=SZrA-ZPbb2c",
+    "publishedAt": "January 9, 2026 at 10:53AM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #ドラフト2位 #谷端将伍 #内野で勝負 #阪神タイガース ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🏠⚾阪神ドラフト2位・谷端将伍、最新寮「虎風荘」で早速迷子⁉ 初日のプロ生活で体験した洗礼とは⚡🏠",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=HQuD7L-AuLw",
+    "publishedAt": "January 9, 2026 at 04:04AM",
+    "description": "阪神ドラフト2位・谷端将伍内野手（21）が、最新鋭の選手寮「虎風荘」に入寮初日で早速迷子になるハプニング   室内練習場 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2026.1.8】阪神タイガース新人合同自主トレでノックを受けるルーキーちゃん達立石正広 谷端将伍 岡城快生 早瀬朔 能登嵩都#立石正広 #谷端将伍 #岡城快生 #阪神タイガース ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=4Im2v77RbuI",
+    "publishedAt": "January 9, 2026 at 06:00PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯✨阪神新人・谷端将伍、最新鋭寮で“迷子デビュー”！プロ生活スタートの興奮を体感🔥🏠",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=I4yXC2jMMRY",
+    "publishedAt": "January 9, 2026 at 06:33PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「新人谷端将伍、寮で迷子⁉️ 初体験の広さに大興奮🏠」「サウナにすき焼きまで…阪神2位ルーキーの寮ライフ🫶🔥」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=67XZonL5FtM",
+    "publishedAt": "January 9, 2026 at 10:04PM",
+    "description": "阪神ドラフト2位・谷端将伍内野手（21）が、選手寮での“プロ生活初日”を大公開！あまりの広さに迷子になったり、サウナで ...",
+    "keyword": "谷端 阪神"
   }
 ]
