@@ -1246,5 +1246,29 @@
     "publishedAt": "January 9, 2026 at 10:04PM",
     "description": "阪神ドラフト2位・谷端将伍内野手（21）が、選手寮での“プロ生活初日”を大公開！あまりの広さに迷子になったり、サウナで ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "#立石正広 #谷端将伍 #ドラフト #阪神タイガース #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vrFnTWgM3oE",
+    "publishedAt": "January 10, 2026 at 02:01PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "#谷端将伍 #ドラフト #甲子園 #阪神タイガース #日本大学",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=JkJVl27vxtA",
+    "publishedAt": "January 10, 2026 at 06:00PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】森下翔太に続く「右の強打者」がやってくる　#shorts #阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hVWAUZkvPOA",
+    "publishedAt": "January 10, 2026 at 10:01PM",
+    "description": "hanshin #谷端将伍 #ドラフト #プロ野球 #野球 #npb.",
+    "keyword": "谷端 阪神"
   }
 ]
