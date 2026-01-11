@@ -9634,5 +9634,125 @@
     "userName": "njkker1",
     "tweetUrl": "https://twitter.com/njkker1/status/2010083302741545374",
     "createdAt": "January 11, 2026 at 05:16AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍は素直で愛嬌たっぷり　ファンに愛されること間違いナシ？（サンケイスポーツ） https://t.co/hiSS1uCqH3",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2010125409065832873",
+    "createdAt": "January 11, 2026 at 08:03AM"
+  },
+  {
+    "text": "現役プロ野球選手\n\n山瀬慎之助（巨人）\n泉圭輔（巨人）\n奥川恭伸（ヤクルト）\n角中勝也（千葉ロッテ）\n京田陽太（DeNA）\n山崎颯一郎（オリックス）\n寺西成騎（オリックス）\n谷端将伍（阪神）\n齋藤大翔（西武）\nあと数人 https://t.co/Kp2emPHbP3",
+    "userName": "onsokunoniwasi",
+    "tweetUrl": "https://twitter.com/onsokunoniwasi/status/2010137884049977658",
+    "createdAt": "January 11, 2026 at 08:53AM"
+  },
+  {
+    "text": "(ワイの)谷端くんに日大時代のお写真渡したいんだけど尼崎は遠いて‥",
+    "userName": "yoshi_ii_pokeke",
+    "tweetUrl": "https://twitter.com/yoshi_ii_pokeke/status/2010187544227619261",
+    "createdAt": "January 11, 2026 at 12:10PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nアップをする早瀬朔選手、谷端将伍選手、神宮僚介選手、立石正広選手、能登嵩都選手、岡城快生選手、山﨑照英選手 https://t.co/XMHIMPHJ9R",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010224967791853706",
+    "createdAt": "January 11, 2026 at 02:39PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nアップをする山﨑照英選手、岡城快生選手、谷端将伍選手、早瀬朔選手、立石正広選手、能登嵩都選手、神宮僚介選手 https://t.co/6AjtV56cEl",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010225565283037545",
+    "createdAt": "January 11, 2026 at 02:41PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nアップをする早瀬朔選手、谷端将伍選手、立石正広選手、岡城快生選手、能登嵩都選手、神宮僚介選手、山﨑照英選手\n\n能登選手やらかい！めっちゃ足上がってる https://t.co/WEaDApe4og",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010225824142921993",
+    "createdAt": "January 11, 2026 at 02:42PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nキャッチボールをする山﨑照英選手、谷端将伍選手、早瀬朔選手、能登嵩都選手 https://t.co/XjmvDoP073",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010238536428261696",
+    "createdAt": "January 11, 2026 at 03:33PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\n引きからのズーム！！\nキャッチボールをする山﨑照英選手、谷端将伍選手、早瀬朔選手、能登嵩都選手 https://t.co/Up6frhNDgm",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010239276999684590",
+    "createdAt": "January 11, 2026 at 03:36PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\n三塁でノックを受ける立石正広選手、谷端将伍選手、岡城快生選手、山﨑照英選手、能登嵩都選手、神宮僚介選手、早瀬朔選手 https://t.co/pT6YQFNOmc",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010261588587229496",
+    "createdAt": "January 11, 2026 at 05:04PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nショートでノックを受ける立石正広選手、谷端将伍選手、岡城快生選手、山﨑照英選手、能登嵩都選手、神宮僚介選手、早瀬朔選手 https://t.co/a7qjCd3QNr",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010264450109153590",
+    "createdAt": "January 11, 2026 at 05:16PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nレフトでノック中 強風にあおられる立石正広選手、谷端将伍選手、神宮僚介選手、早瀬朔選手 https://t.co/gBkFsC2Aim",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010267666536378415",
+    "createdAt": "January 11, 2026 at 05:28PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nショートでノックを受ける立石正広選手、谷端将伍選手、早瀬朔選手、神宮僚介選手、岡城快生選手、山﨑照英選手、能登嵩都選手 https://t.co/CczIjucvWA",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010268992305541233",
+    "createdAt": "January 11, 2026 at 05:34PM"
+  },
+  {
+    "text": "今季の開幕外野争い ※()は来季開幕時の年齢\n近本光司 (31)\n森下翔太(25)\n前川右京(22)\n濱田太貴(25)\n中川勇斗(22)\n髙寺望夢(23)\n小野寺暖(28)\n豊田寛(28)\n島田海吏 (30)\n井坪陽生 (21)\n岡城快生(22)\n谷端将伍(22)\n福島圭音(24)\nコンスエグラ(25)\n山崎照英(23)\n西純矢(24)\nなど",
+    "userName": "datakata_tigers",
+    "tweetUrl": "https://twitter.com/datakata_tigers/status/2010315998239543588",
+    "createdAt": "January 11, 2026 at 08:40PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nレフトでノックを受ける立石正広選手、谷端将伍選手、早瀬朔選手、神宮僚介選手、岡城快生選手、山﨑照英選手、能登嵩都選手\n\nコピペをしたばっかりに間違えてたからさっきの消した 笑 https://t.co/2BV5O6SStp",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010318614684221918",
+    "createdAt": "January 11, 2026 at 08:51PM"
+  },
+  {
+    "text": "【阪神新人合同自主トレ2026.1.11】\nドラ１立石正広選手とドラ２谷端将伍選手のキャッチボール https://t.co/Sxa5Z5erRM",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2010321463585476839",
+    "createdAt": "January 11, 2026 at 09:02PM"
+  },
+  {
+    "text": "大山は人格者だな\n\n阪神ドラ2・谷端将伍　先輩・大山の存在感に感激「すごく優しくあいさつしてくれた」\n#Yahooニュース\nhttps://t.co/ClzUNBr8Qb",
+    "userName": "godsavethepj",
+    "tweetUrl": "https://twitter.com/godsavethepj/status/2010331502954025045",
+    "createdAt": "January 11, 2026 at 09:42PM"
+  },
+  {
+    "text": "@amadoraball 谷端くんの大学の時の試合の映像を見ると東都大学野球からプロに指名されているサウスポーからヒットを打っていて阪神の大山や森下が苦手とするタイプは打ちそうな気がします。東都で首位打者二回獲得はプロでも率を残すのでは？🤔",
+    "userName": "uhyasan",
+    "tweetUrl": "https://twitter.com/uhyasan/status/2010332943294795953",
+    "createdAt": "January 11, 2026 at 09:48PM"
+  },
+  {
+    "text": "北國新聞見てて思ったのがルーキーの谷端（阪神）のほうが、7年目で2つ先輩の山瀬（巨人）よりもすでに年俸が上ってことだ。シビアな世界だ",
+    "userName": "Shinsaku3go",
+    "tweetUrl": "https://twitter.com/Shinsaku3go/status/2010337061480652801",
+    "createdAt": "January 11, 2026 at 10:04PM"
+  },
+  {
+    "text": "今季や来季や今後での阪神タイガースでの公式戦でのペラントレースと交流戦での阪神タイガースの野手陣らのバッティングでのトレーニングに関して、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手に対して、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2010345330542571745",
+    "createdAt": "January 11, 2026 at 10:37PM"
+  },
+  {
+    "text": "昼飯　白身魚のブイヤベース\n\n夕方のスカイビル\n\n阪神ドラ１立石選手ドラ２谷端選手 https://t.co/Qe9vqMNvSH",
+    "userName": "akuserareta1665",
+    "tweetUrl": "https://twitter.com/akuserareta1665/status/2010349133517955459",
+    "createdAt": "January 11, 2026 at 10:52PM"
   }
 ]
