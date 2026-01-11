@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
+    "resize": "node scripts/resize-photos.js",
     "upload": "node scripts/upload-photos.js"
   },
   "devDependencies": {
