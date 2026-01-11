@@ -1270,5 +1270,13 @@
     "publishedAt": "January 10, 2026 at 10:01PM",
     "description": "hanshin #谷端将伍 #ドラフト #プロ野球 #野球 #npb.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神新人合同自主トレ1/11尼崎 #阪神タイガース #阪神 #阪神ファン #プロ野球 #立石正広 #谷端将伍 #岡城快生 #早瀬朔 #能登嵩都 #神宮僚介 #山﨑照英 #野球選手 #守備 #創価大学",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=xkCeLVemWTk",
+    "publishedAt": "January 11, 2026 at 06:33PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
