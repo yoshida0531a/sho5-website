@@ -1,4 +1,4 @@
-import { execSync } from 'child_process';
+import { execSync, spawnSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
@@ -76,10 +76,16 @@ class PhotoUploader {
         commandArgs.push('--custom-metadata', metadata);
       }
 
-      // wranglerコマンドを実行（シェルインジェクション対策のため引数を配列で渡す）
-      execSync(`wrangler ${commandArgs.map(arg => 
-        arg.includes(' ') || arg.includes('"') ? `"${arg.replace(/"/g, '\\"')}"` : arg
-      ).join(' ')}`, { stdio: 'inherit' });
+      // wranglerコマンドを実行（spawnSyncを使用してシェルインジェクションを防ぐ）
+      const result = spawnSync('wrangler', commandArgs, { stdio: 'inherit' });
+      
+      if (result.error) {
+        throw new Error(`wrangler実行エラー: ${result.error.message}`);
+      }
+      
+      if (result.status !== 0) {
+        throw new Error(`wranglerがエラーコードで終了しました: ${result.status}`);
+      }
       
       // 一時ファイルを削除
       fs.unlinkSync(resizedPath);
