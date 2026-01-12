@@ -675,12 +675,15 @@
         progressiveLoadingInterval = null;
       }
       
+      // 全ての写真が読み込み済みかチェック
+      const isAllPhotosLoaded = () => displayedPhotos.length >= allPhotos.length;
+      
       // 既に全て表示されている場合はスキップ
-      if (displayedPhotos.length >= allPhotos.length) return;
+      if (isAllPhotosLoaded()) return;
       
       // 500msごとに次のページを読み込む
       progressiveLoadingInterval = setInterval(() => {
-        if (displayedPhotos.length >= allPhotos.length) {
+        if (isAllPhotosLoaded()) {
           clearInterval(progressiveLoadingInterval);
           progressiveLoadingInterval = null;
           return;
