@@ -5,6 +5,9 @@ const FREE_TIER_LIMITS = {
   MAX_PHOTOS: 25000 // より多くの写真を許可
 };
 
+// 撮影日時が不明な場合のデフォルト時刻（正午）
+const DEFAULT_FALLBACK_TIME = '12:00:00';
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -86,7 +89,7 @@ async function listPhotos(bucket, searchParams) {
     .map(obj => {
       // キーから日付と時間を抽出: YYYY-MM-DD/IMG_XXXX.JPG
       const [datePart, filename] = obj.key.split('/');
-      const dateTime = obj.customMetadata?.dateTime || datePart + ' 12:00:00';
+      const dateTime = obj.customMetadata?.dateTime || `${datePart} ${DEFAULT_FALLBACK_TIME}`;
       
       return {
         key: obj.key,
