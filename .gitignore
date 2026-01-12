@@ -1,6 +1,9 @@
 # Backup directories
 assets/images/backup_originals/
 
+# Source images for top page
+assets/images/top_sources/
+
 # Node modules
 node_modules/
 

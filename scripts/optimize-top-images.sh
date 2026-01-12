@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # トップページ画像最適化ツール
-# このスクリプトはトップページの3枚の画像（top_pc1.JPG, top_pc2.JPG, top_pc3.JPG）を
+# このスクリプトはトップページの5枚の画像（top_pc1.JPG～top_pc5.JPG）を
 # 最適化して、ウェブページの読み込み速度を改善します
 
 echo "🖼️  トップページ画像最適化ツール"
@@ -24,7 +24,7 @@ BACKUP_DIR="assets/images/backup_originals"
 # 画像の情報を表示
 echo "📊 現在の画像情報:"
 echo "=============================="
-for img in top_pc1.JPG top_pc2.JPG top_pc3.JPG; do
+for img in top_pc1.JPG top_pc2.JPG top_pc3.JPG top_pc4.JPG top_pc5.JPG; do
     if [ -f "$IMAGE_DIR/$img" ]; then
         size=$(du -h "$IMAGE_DIR/$img" | cut -f1)
         echo "  $img: $size"

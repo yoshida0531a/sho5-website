@@ -39,12 +39,24 @@ cd photo-gallery-worker && ./resize-photos.sh && npm run upload ~/Pictures/shogo
 
 ## 画像最適化
 
+### トップページ画像生成
+```bash
+cd scripts
+./create-top-images.sh
+```
+- **機能**: ソース画像から5枚のPC向けとモバイル向け画像を生成
+- **入力**: `assets/images/top_sources/` に5枚以上の画像を配置
+- **出力**: `top_pc1.JPG`～`top_pc5.JPG`（PC向け）、`top_mobile1.JPG`～`top_mobile5.JPG`（モバイル向け）
+- **PC向け**: 2000px幅に自動リサイズ
+- **モバイル向け**: 1200px幅に自動リサイズ
+- **対応形式**: JPG、PNG
+
 ### トップページ画像最適化
 ```bash
 cd scripts
 ./optimize-top-images.sh
 ```
-- **対象**: `top_pc1.JPG`, `top_pc2.JPG`, `top_pc3.JPG`
+- **対象**: `top_pc1.JPG`～`top_pc5.JPG`
 - **元の解像度**: 5184x3456px (2.3MB～5.0MB)
 - **最適化後**: 2000x1333px (250KB～410KB)
 - **削減率**: 約86%～94%（平均90.7%）
@@ -94,11 +106,15 @@ npm run deploy
 ## バッチスクリプト集
 
 ### 利用可能なスクリプト
-1. **トップページ画像最適化** (`scripts/optimize-top-images.sh`)
-   - 3枚の画像を2000px幅に最適化
+1. **トップページ画像生成** (`scripts/create-top-images.sh`)
+   - ソース画像から5枚のPC・モバイル向け画像を生成
+   - macOS（sips）/ Linux（ImageMagick）対応
+
+2. **トップページ画像最適化** (`scripts/optimize-top-images.sh`)
+   - 5枚の画像を2000px幅に最適化
    - macOS（sips）/ Linux（ImageMagick）対応
    
-2. **フォトギャラリー画像リサイズ** (`photo-gallery-worker/resize-photos.sh`)
+3. **フォトギャラリー画像リサイズ** (`photo-gallery-worker/resize-photos.sh`)
    - 2400pxにリサイズ＋日付整理
    - macOS専用（sips使用）
 

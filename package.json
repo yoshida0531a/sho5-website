@@ -4,6 +4,7 @@
   "description": "谷端将伍公式サイト - Shogo Tanihata Official Website",
   "type": "module",
   "scripts": {
+    "create-top-images": "node scripts/create-top-images.js",
     "optimize-top-images": "node scripts/optimize-top-images.js"
   },
   "keywords": [
