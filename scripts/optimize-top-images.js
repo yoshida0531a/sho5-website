@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 const REPO_ROOT = path.join(__dirname, '..');
 const IMAGE_DIR = path.join(REPO_ROOT, 'assets', 'images');
 const BACKUP_DIR = path.join(IMAGE_DIR, 'backup_originals');
-const IMAGES = ['top_pc1.JPG', 'top_pc2.JPG', 'top_pc3.JPG'];
+const IMAGES = ['top_pc1.JPG', 'top_pc2.JPG', 'top_pc3.JPG', 'top_pc4.JPG', 'top_pc5.JPG'];
 
 // 最適化設定
 const CONFIG = {
