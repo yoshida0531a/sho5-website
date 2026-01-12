@@ -62,7 +62,7 @@ class PhotoUploader {
       }
 
       // wrangler r2 object putコマンドでアップロード（リサイズ済みファイルを使用）
-      const command = [
+      let command = [
         'wrangler', 'r2', 'object', 'put',
         `${this.bucketName}/${key}`,
         '--file', `"${resizedPath}"`,
@@ -72,7 +72,8 @@ class PhotoUploader {
 
       // 撮影日時をカスタムメタデータとして追加
       if (dateTime) {
-        command.push('--metadata', `dateTime:${dateTime}`);
+        const metadata = JSON.stringify({ dateTime: dateTime });
+        command.push('--custom-metadata', `'${metadata}'`);
       }
 
       execSync(command.join(' '), { stdio: 'inherit' });
