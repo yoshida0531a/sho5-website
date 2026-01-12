@@ -526,6 +526,7 @@
     let photosPerPage = 50; // 初期表示枚数
     let isLoading = false;
     let lastDensityChange = 0;
+    let scrollObserver = null; // IntersectionObserver instance
     
     // Lightbox用の変数
     let lightboxActive = false;
@@ -573,6 +574,9 @@
       // 密度に応じて表示枚数を調整
       updatePhotosPerPage();
       
+      // ページをリセットして再表示
+      currentPage = 0;
+      
       // 表示を更新
       renderPhotos();
       
@@ -611,12 +615,15 @@
       displayedPhotos = allPhotos.slice(0, endIndex);
       
       let htmlContent = "";
-      displayedPhotos.forEach((photo, index) => {
+      allPhotos.forEach((photo, absoluteIndex) => {
+        // Only render photos up to endIndex
+        if (absoluteIndex >= endIndex) return;
+        
         const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
         const originalUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
         
         htmlContent += `
-          <a href="javascript:void(0)" onclick="openLightbox(${index})">
+          <a href="javascript:void(0)" onclick="openLightbox(${absoluteIndex})">
             <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
           </a>`;
       });
@@ -632,17 +639,23 @@
       const scrollTrigger = document.getElementById('scroll-trigger');
       const loadingMore = document.getElementById('loading-more');
       
+      // 既存のオブザーバーを切断
+      if (scrollObserver) {
+        scrollObserver.disconnect();
+        scrollObserver = null;
+      }
+      
       if (displayedPhotos.length < allPhotos.length) {
         scrollTrigger.style.display = 'block';
         
         // Intersection Observer for lazy loading
-        const observer = new IntersectionObserver((entries) => {
+        scrollObserver = new IntersectionObserver((entries) => {
           if (entries[0].isIntersecting && !isLoading) {
             loadMorePhotos();
           }
         }, { threshold: 0.1 });
         
-        observer.observe(scrollTrigger);
+        scrollObserver.observe(scrollTrigger);
       } else {
         scrollTrigger.style.display = 'none';
         loadingMore.style.display = 'none';
