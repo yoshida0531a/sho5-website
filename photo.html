@@ -615,18 +615,15 @@
       displayedPhotos = allPhotos.slice(0, endIndex);
       
       let htmlContent = "";
-      allPhotos.forEach((photo, absoluteIndex) => {
-        // Only render photos up to endIndex
-        if (absoluteIndex >= endIndex) return;
-        
+      for (let absoluteIndex = 0; absoluteIndex < endIndex; absoluteIndex++) {
+        const photo = allPhotos[absoluteIndex];
         const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
-        const originalUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
         
         htmlContent += `
           <a href="javascript:void(0)" onclick="openLightbox(${absoluteIndex})">
             <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
           </a>`;
-      });
+      }
       
       gallery.innerHTML = htmlContent;
       
