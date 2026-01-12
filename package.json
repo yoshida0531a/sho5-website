@@ -1,0 +1,17 @@
+{
+  "name": "sho5-website",
+  "version": "1.0.0",
+  "description": "谷端将伍公式サイト - Shogo Tanihata Official Website",
+  "type": "module",
+  "scripts": {
+    "optimize-top-images": "node scripts/optimize-top-images.js"
+  },
+  "keywords": [
+    "baseball",
+    "hanshin-tigers",
+    "shogo-tanihata"
+  ],
+  "author": "Akira Yoshida",
+  "license": "UNLICENSED",
+  "private": true
+}
