@@ -18,8 +18,11 @@ mkdir -p assets/images/top_sources
 
 # 5枚の写真を配置（パスは適宜変更してください）
 cp /path/to/your/photos/* assets/images/top_sources/
+```
 
-# 例: /Users/akira/Pictures/shogo写真データ/top から
+**例**:
+```bash
+# Akiraさんの場合
 cp /Users/akira/Pictures/shogo写真データ/top/* assets/images/top_sources/
 ```
 
