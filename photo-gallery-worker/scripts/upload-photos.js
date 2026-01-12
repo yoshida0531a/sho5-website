@@ -83,6 +83,27 @@ class PhotoUploader {
     }
   }
 
+  // フォルダ内の画像ファイルを再帰的に検索
+  findImageFiles(folderPath) {
+    let imageFiles = [];
+    
+    const entries = fs.readdirSync(folderPath, { withFileTypes: true });
+    
+    for (const entry of entries) {
+      const fullPath = path.join(folderPath, entry.name);
+      
+      if (entry.isDirectory()) {
+        // サブディレクトリを再帰的にスキャン
+        imageFiles = imageFiles.concat(this.findImageFiles(fullPath));
+      } else if (entry.isFile() && /\.(jpg|jpeg|png)$/i.test(entry.name)) {
+        // 画像ファイルを追加
+        imageFiles.push(fullPath);
+      }
+    }
+    
+    return imageFiles;
+  }
+
   // フォルダ内の全写真をアップロード
   async uploadFolder(folderPath) {
     console.log(`📁 フォルダをスキャン中: ${folderPath}`);
@@ -100,9 +121,7 @@ class PhotoUploader {
       return;
     }
 
-    const files = fs.readdirSync(folderPath)
-      .filter(file => /\.(jpg|jpeg|png)$/i.test(file))
-      .map(file => path.join(folderPath, file));
+    const files = this.findImageFiles(folderPath);
 
     console.log(`📸 ${files.length}枚の画像を発見`);
     
