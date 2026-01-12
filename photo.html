@@ -399,8 +399,8 @@
       justify-content: center;
       background: transparent;
       user-select: none;
-      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-      opacity: 0.7;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8), 0 0 8px rgba(0, 0, 0, 0.5);
+      opacity: 0.8;
       transition: opacity 0.2s ease;
     }
 
@@ -526,6 +526,7 @@
     let photosPerPage = 50; // 初期表示枚数
     let isLoading = false;
     let lastDensityChange = 0;
+    let progressiveLoadingInterval = null; // バックグラウンド読み込み用のインターバルID
     
     // Lightbox用の変数
     let lightboxActive = false;
@@ -668,23 +669,38 @@
     
     // バックグラウンドで徐々に全写真を読み込む
     function startProgressiveLoading() {
+      // 既に実行中の場合は停止
+      if (progressiveLoadingInterval) {
+        clearInterval(progressiveLoadingInterval);
+        progressiveLoadingInterval = null;
+      }
+      
       // 既に全て表示されている場合はスキップ
       if (displayedPhotos.length >= allPhotos.length) return;
       
       // 500msごとに次のページを読み込む
-      const loadInterval = setInterval(() => {
+      progressiveLoadingInterval = setInterval(() => {
         if (displayedPhotos.length >= allPhotos.length) {
-          clearInterval(loadInterval);
+          clearInterval(progressiveLoadingInterval);
+          progressiveLoadingInterval = null;
           return;
         }
         
-        // ユーザーがスクロールしていない場合のみバックグラウンドで読み込む
+        // ユーザーがスクロール中でない場合のみバックグラウンドで読み込む
         if (!isLoading) {
           currentPage++;
           renderPhotos();
         }
       }, 500);
     }
+    
+    // ページ離脱時にインターバルをクリーンアップ
+    window.addEventListener('beforeunload', function() {
+      if (progressiveLoadingInterval) {
+        clearInterval(progressiveLoadingInterval);
+        progressiveLoadingInterval = null;
+      }
+    });
     
     // タッチイベントハンドラー
     function handleTouchStart(e) {
