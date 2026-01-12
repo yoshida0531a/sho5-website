@@ -87,18 +87,26 @@ class PhotoUploader {
   findImageFiles(folderPath) {
     let imageFiles = [];
     
-    const entries = fs.readdirSync(folderPath, { withFileTypes: true });
-    
-    for (const entry of entries) {
-      const fullPath = path.join(folderPath, entry.name);
+    try {
+      const entries = fs.readdirSync(folderPath, { withFileTypes: true });
       
-      if (entry.isDirectory()) {
-        // サブディレクトリを再帰的にスキャン
-        imageFiles = imageFiles.concat(this.findImageFiles(fullPath));
-      } else if (entry.isFile() && /\.(jpg|jpeg|png)$/i.test(entry.name)) {
-        // 画像ファイルを追加
-        imageFiles.push(fullPath);
+      for (const entry of entries) {
+        const fullPath = path.join(folderPath, entry.name);
+        
+        if (entry.isDirectory()) {
+          // サブディレクトリを再帰的にスキャン
+          try {
+            imageFiles.push(...this.findImageFiles(fullPath));
+          } catch (error) {
+            console.warn(`⚠️  スキップ: ${fullPath} (${error.message})`);
+          }
+        } else if (entry.isFile() && /\.(jpg|jpeg|png)$/i.test(entry.name)) {
+          // 画像ファイルを追加
+          imageFiles.push(fullPath);
+        }
       }
+    } catch (error) {
+      console.warn(`⚠️  ディレクトリ読み取りエラー: ${folderPath} (${error.message})`);
     }
     
     return imageFiles;
