@@ -2,6 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { spawnSync } from 'child_process';
+import { resizeImageWithSips } from '../photo-gallery-worker/scripts/utils/image-utils.js';
+import { getFileSize, formatSize } from '../photo-gallery-worker/scripts/utils/image-utils.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -104,17 +106,8 @@ function optimizeWithImageMagick(inputPath, outputPath) {
 }
 
 // ファイルサイズを取得
-function getFileSize(filePath) {
-  const stats = fs.statSync(filePath);
-  return stats.size;
-}
-
 // サイズを人間が読める形式に変換
-function formatSize(bytes) {
-  if (bytes < 1024) return `${bytes} B`;
-  if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(2)} KB`;
-  return `${(bytes / (1024 * 1024)).toFixed(2)} MB`;
-}
+// (imported from image-utils.js)
 
 // 画像を最適化
 function optimizeImage(imageName, tool) {

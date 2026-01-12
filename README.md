@@ -98,8 +98,7 @@ npm run deploy
    - 3枚の画像を2000px幅に最適化
    - macOS（sips）/ Linux（ImageMagick）対応
    
-2. **フォトギャラリー画像リサイズ** (`scripts/resize-photo-gallery.sh`)
-   - `photo-gallery-worker/resize-photos.sh`へのシンボリックリンク
+2. **フォトギャラリー画像リサイズ** (`photo-gallery-worker/resize-photos.sh`)
    - 2400pxにリサイズ＋日付整理
    - macOS専用（sips使用）
 
@@ -113,10 +112,15 @@ npm run deploy
 │   │   └── backup_originals/   # 最適化前バックアップ（gitignore）
 │   └── js/                     # JavaScript
 ├── photo-gallery-worker/       # フォトギャラリーWorker
-│   └── resize-photos.sh       # リサイズスクリプト
+│   ├── scripts/
+│   │   ├── utils/             # 共通ユーティリティ（EXIF処理、画像処理）
+│   │   ├── resize-photos.js   # リサイズスクリプト
+│   │   └── upload-photos.js   # アップロードスクリプト
+│   ├── resize-photos.sh       # リサイズシェルスクリプト
+│   └── src/                   # Cloudflare Workerソース
 ├── scripts/                    # バッチスクリプト集
-│   ├── optimize-top-images.sh
-│   └── resize-photo-gallery.sh
+│   ├── optimize-top-images.js
+│   └── optimize-top-images.sh
 ├── index.html                  # トップページ
 ├── photo.html                  # フォトギャラリー
 ├── x.html                      # Xポスト
