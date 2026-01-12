@@ -13,21 +13,33 @@
 
 ### ステップ1: 画像をコピー
 ```bash
+# ソースディレクトリを作成（存在しない場合）
+mkdir -p assets/images/top_sources
+
 # 5枚の写真を配置
 cp /Users/akira/Pictures/shogo写真データ/top/* assets/images/top_sources/
 ```
 
 ### ステップ2: 画像生成
 ```bash
+# シェルスクリプトで実行
 cd scripts
 ./create-top-images.sh
+
+# または npm コマンドで実行
+npm run create-top-images
 ```
 - PC向け（2000px）とモバイル向け（1200px）の画像を自動生成
 - `top_pc1.JPG`～`top_pc5.JPG` と `top_mobile1.JPG`～`top_mobile5.JPG` が生成される
 
 ### ステップ3: （オプション）最適化
 ```bash
+# シェルスクリプトで実行
+cd scripts
 ./optimize-top-images.sh
+
+# または npm コマンドで実行
+npm run optimize-top-images
 ```
 
 詳細は [トップページ画像アップロード手順.md](./トップページ画像アップロード手順.md) を参照
