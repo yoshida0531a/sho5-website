@@ -1,4 +1,4 @@
-import { execSync, spawnSync } from 'child_process';
+import { spawnSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
@@ -72,8 +72,8 @@ class PhotoUploader {
 
       // 撮影日時をカスタムメタデータとして追加
       if (dateTime) {
-        const metadata = JSON.stringify({ dateTime: dateTime });
-        commandArgs.push('--custom-metadata', metadata);
+        // Wrangler expects custom metadata as JSON string
+        commandArgs.push('--custom-metadata', JSON.stringify({ dateTime: dateTime }));
       }
 
       // wranglerコマンドを実行（spawnSyncを使用してシェルインジェクションを防ぐ）
