@@ -1,112 +1,179 @@
 # Shogo Fun Site - 谷端将伍公式サイト
 
-谷端将伍の公式サイトのソースコード。阪神タイガース2024年ドラフト2位指名。
+谷端将伍の公式サイトのソースコード（阪神タイガース2024年ドラフト2位）
 
-## サイト概要
+## サイト構成
 
-このサイトは谷端将伍選手の公式サイトで、以下のコンテンツを提供しています：
-- Xポスト
-- YouTube動画
-- 写真ギャラリー
-- スケジュール情報
+- **トップページ** (`index.html`) - メインページ
+- **写真ギャラリー** (`photo.html`) - ライトボックス機能付き画像ギャラリー
+- **Xポスト** (`x.html`) - X（旧Twitter）投稿表示
+- **YouTube動画** (`youtube.html`) - 動画コンテンツ
 
-## バッチスクリプト / Batch Scripts
+## 写真アップロード手順（クイックスタート）
 
-画像最適化やメンテナンス用のバッチスクリプトは `scripts/` ディレクトリにまとめられています。
-
-### トップページ画像最適化
-
-トップページの3枚の画像を最適化して、ページの読み込み速度を改善します。
-
-```bash
-cd scripts
-./optimize-top-images.sh
-```
-
-詳細: [scripts/README.md](scripts/README.md)
-
-### フォトギャラリー画像の最適化
-
-フォトギャラリー用の写真をリサイズして最適化します。
-
-```bash
-cd scripts
-./resize-photo-gallery.sh
-```
-
-または、従来の方法:
-
+### ステップ1: リサイズ
 ```bash
 cd photo-gallery-worker
 ./resize-photos.sh
 ```
+- Enterキー2回でデフォルト設定使用
+- 元写真: `~/Pictures/shogo写真データ/original`
+- 出力先: `~/Pictures/shogo写真データ/resized`
 
-詳細: [PHOTO_UPLOAD.md](PHOTO_UPLOAD.md)
+### ステップ2: 確認
+```bash
+open ~/Pictures/shogo写真データ/resized
+```
+- 日付ごとにフォルダ分け
+- 不要な写真を削除
 
-## 画像の解像度について
+### ステップ3: アップロード
+```bash
+npm run upload ~/Pictures/shogo写真データ/resized
+```
 
-### トップページの画像（top_pc1.JPG, top_pc2.JPG, top_pc3.JPG）
+### ワンライナー
+```bash
+cd photo-gallery-worker && ./resize-photos.sh && npm run upload ~/Pictures/shogo写真データ/resized
+```
 
-- **元の解像度**: 5184x3456 pixels
-- **元のファイルサイズ**: 2.3MB～5.0MB
-- **最適化後の解像度**: 2000x1333 pixels
-- **最適化後のサイズ**: 250KB～410KB
+## 画像最適化
+
+### トップページ画像最適化
+```bash
+cd scripts
+./optimize-top-images.sh
+```
+- **対象**: `top_pc1.JPG`, `top_pc2.JPG`, `top_pc3.JPG`
+- **元の解像度**: 5184x3456px (2.3MB～5.0MB)
+- **最適化後**: 2000x1333px (250KB～410KB)
 - **削減率**: 約86%～94%（平均90.7%）
+- **バックアップ**: `assets/images/backup_originals/`（自動）
 
-Web表示では2000px幅で十分高画質であり、ページの読み込み速度が大幅に改善されます。
-
-### フォトギャラリーの画像
-
+### フォトギャラリー画像
 - **推奨解像度**: 2400px（最大辺）
-- EXIFデータから撮影日時を取得して日付ごとに整理
+- **自動整理**: EXIFデータから撮影日時取得→日付フォルダ分け
+
+## フォトギャラリー機能
+
+### ライトボックス機能
+- **基本**: 画像クリックでモーダル表示（スマホ最適化）
+- **ピンチズーム**: 2本指で1倍～5倍拡大縮小
+- **ダブルタップ**: 2倍ズーム⇔元サイズ切替
+- **スワイプ**: 左右で前後の画像移動（ズーム時無効）
+- **パン**: ズーム中にドラッグで移動
+- **キーボード**: ←→で移動、Escで閉じる
+- **最適化**: 遅延読み込み、先読み、キャッシュ
+
+### APIエンドポイント
+- `GET /api/photos` - 写真一覧
+- `GET /api/photos?date=2025-07-09` - 特定日の写真
+- `GET /images/{key}?size={thumb|medium|large|original}` - 画像配信
+
+### サイズオプション
+- `thumb`: 300px（軽量）
+- `medium`: 800px（スマホ最適）
+- `large`: 1200px
+- `original`: 元サイズ
+
+## Cloudflare R2 セットアップ
+
+### 初期設定
+```bash
+cd photo-gallery-worker
+npm install
+wrangler login          # ブラウザで認証
+wrangler r2 bucket create sho5-photos
+npm run deploy
+```
+
+### 無料枠制限
+- **R2ストレージ**: 10GB/月（約20,000枚、1枚500KB）
+- **Workers**: 10万リクエスト/日
+
+## バッチスクリプト集
+
+### 利用可能なスクリプト
+1. **トップページ画像最適化** (`scripts/optimize-top-images.sh`)
+   - 3枚の画像を2000px幅に最適化
+   - macOS（sips）/ Linux（ImageMagick）対応
+   
+2. **フォトギャラリー画像リサイズ** (`scripts/resize-photo-gallery.sh`)
+   - `photo-gallery-worker/resize-photos.sh`へのシンボリックリンク
+   - 2400pxにリサイズ＋日付整理
+   - macOS専用（sips使用）
 
 ## ディレクトリ構造
 
 ```
 .
 ├── assets/
-│   ├── css/          # スタイルシート
-│   ├── images/       # 画像ファイル
-│   │   └── backup_originals/  # 最適化前の元画像（gitignore）
-│   └── js/           # JavaScriptファイル
-├── photo-gallery-worker/  # フォトギャラリーWorkerとアップロードツール
-├── scripts/          # バッチスクリプト集
-│   ├── README.md     # スクリプトの詳細ドキュメント
-│   ├── optimize-top-images.sh     # トップページ画像最適化
-│   ├── optimize-top-images.js     # 画像最適化ロジック
-│   └── resize-photo-gallery.sh    # フォトギャラリー画像リサイズ（シンボリックリンク）
-├── index.html        # トップページ
-├── photo.html        # フォトギャラリー
-├── x.html            # Xポストページ
-├── youtube.html      # YouTube動画ページ
-└── PHOTO_UPLOAD.md   # 写真アップロード手順
-
+│   ├── css/                    # スタイルシート
+│   ├── images/                 # 画像
+│   │   └── backup_originals/   # 最適化前バックアップ（gitignore）
+│   └── js/                     # JavaScript
+├── photo-gallery-worker/       # フォトギャラリーWorker
+│   └── resize-photos.sh       # リサイズスクリプト
+├── scripts/                    # バッチスクリプト集
+│   ├── optimize-top-images.sh
+│   └── resize-photo-gallery.sh
+├── index.html                  # トップページ
+├── photo.html                  # フォトギャラリー
+├── x.html                      # Xポスト
+└── youtube.html                # YouTube動画
 ```
 
-## 開発
+## 開発環境
 
-### 必要な環境
+### 必須
+- Node.js
+- macOS（sips）または Linux（ImageMagick: `sudo apt-get install imagemagick`）
 
-- Node.js（バッチスクリプト用）
-- macOS または Linux
-  - macOS: 標準の `sips` コマンドを使用
-  - Linux: ImageMagickが必要（`sudo apt-get install imagemagick`）
-
-### バッチスクリプトの実行
-
-すべてのバッチスクリプトは `scripts/` ディレクトリにまとめられています。
-
+### テスト
 ```bash
-# トップページ画像の最適化
-cd scripts
-./optimize-top-images.sh
+# ローカルサーバー
+python3 -m http.server 8000
 
-# フォトギャラリー画像のリサイズ
-cd scripts
-./resize-photo-gallery.sh
+# ブランチテスト
+git checkout -b test/feature-name
+git push origin test/feature-name
+# GitHub Pages設定でブランチ選択→テスト→mainにマージ
 ```
 
-詳細なドキュメント: [scripts/README.md](scripts/README.md)
+## トラブルシューティング
+
+### 認証エラー
+```bash
+wrangler login
+```
+
+### wranglerコマンドが見つからない
+```bash
+cd photo-gallery-worker && npm install
+```
+
+### EXIFデータが読めない
+- スクリーンショット等はEXIF情報なし→ファイル更新日時を使用
+
+### ライトボックスが動作しない
+- JavaScriptコンソール確認
+- ブラウザキャッシュクリア
+- タッチスクリーン対応デバイスで確認
+
+## セキュリティ
+
+- ✅ コマンドインジェクション対策（spawnSync配列引数）
+- ✅ ゼロ除算対策（ピンチズーム）
+- ✅ CodeQLスキャン合格（脆弱性0件）
+
+## 推奨フォルダ構成
+
+```
+~/Pictures/shogo写真データ/
+├── original/     # カメラから取り込んだ元写真
+├── resized/      # リサイズ済み（日付整理）
+└── archive/      # アップロード済み元写真（バックアップ）
+```
 
 ## ライセンス
 
