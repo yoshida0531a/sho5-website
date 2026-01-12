@@ -1,0 +1,29 @@
+# Backup directories
+assets/images/backup_originals/
+
+# Node modules
+node_modules/
+
+# Build artifacts
+.wrangler/
+dist/
+build/
+
+# Temporary files
+temp/
+temp_resize/
+*.tmp
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
