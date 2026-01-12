@@ -70,6 +70,11 @@ class PhotoUploader {
         '--remote'
       ];
 
+      // 撮影日時をカスタムメタデータとして追加
+      if (dateTime) {
+        command.push('--metadata', `dateTime:${dateTime}`);
+      }
+
       execSync(command.join(' '), { stdio: 'inherit' });
       
       // 一時ファイルを削除

@@ -96,7 +96,15 @@ async function listPhotos(bucket, searchParams) {
         url: `/images/${obj.key}`
       };
     })
-    .sort((a, b) => new Date(a.dateTime) - new Date(b.dateTime))
+    .sort((a, b) => {
+      // まず撮影日時で比較
+      const dateComparison = new Date(a.dateTime) - new Date(b.dateTime);
+      if (dateComparison !== 0) {
+        return dateComparison;
+      }
+      // 撮影日時が同じ場合はファイル名で比較（安定したソート）
+      return a.key.localeCompare(b.key);
+    })
     .slice(0, limit);
 
   return {
