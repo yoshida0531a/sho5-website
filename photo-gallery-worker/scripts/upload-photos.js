@@ -8,6 +8,7 @@ import { resizeImageWithSips } from './utils/image-utils.js';
 class PhotoUploader {
   constructor(bucketName = 'sho5-gallery-photos') {
     this.bucketName = bucketName;
+    this.imageExtensionPattern = /\.(jpg|jpeg|png)$/i;
   }
 
   // 無料枠チェック
@@ -100,7 +101,7 @@ class PhotoUploader {
           } catch (error) {
             console.warn(`⚠️  スキップ: ${fullPath} (${error.message})`);
           }
-        } else if (entry.isFile() && /\.(jpg|jpeg|png)$/i.test(entry.name)) {
+        } else if (entry.isFile() && this.imageExtensionPattern.test(entry.name)) {
           // 画像ファイルを追加
           imageFiles.push(fullPath);
         }
