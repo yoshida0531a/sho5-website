@@ -1,1 +1,0 @@
-../photo-gallery-worker/resize-photos.sh

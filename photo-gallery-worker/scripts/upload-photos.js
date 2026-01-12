@@ -1,30 +1,13 @@
 import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
-import { exiftool } from 'exiftool-vendored';
+import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
+import { resizeImageWithSips } from './utils/image-utils.js';
 
 // 写真アップロードスクリプト
 class PhotoUploader {
   constructor(bucketName = 'sho5-gallery-photos') {
     this.bucketName = bucketName;
-  }
-
-  // EXIFから撮影日時を取得
-  async getPhotoDateTime(filePath) {
-    try {
-      const tags = await exiftool.read(filePath);
-      const dateTime = tags.DateTimeOriginal || tags.CreateDate || tags.DateTime;
-      return dateTime ? dateTime.toISOString().slice(0, 19).replace('T', ' ') : null;
-    } catch (error) {
-      console.error(`EXIF読み取りエラー: ${filePath}`, error);
-      return null;
-    }
-  }
-
-  // 撮影日時から日付部分を抽出
-  formatDate(dateTime) {
-    if (!dateTime) return 'unknown';
-    return dateTime.split(' ')[0]; // YYYY-MM-DD
   }
 
   // 無料枠チェック
@@ -43,35 +26,21 @@ class PhotoUploader {
 
   // 画像をリサイズ（1.5-2MBに圧縮）
   async resizeImage(inputPath, outputPath) {
-    try {
-      // sipsでリサイズ（macOS標準）
-      const command = [
-        'sips',
-        '-Z', '2400',           // 最大2400px（高品質、1-2MB目標）
-        `"${inputPath}"`,
-        '--out', `"${outputPath}"`
-      ];
-      
-      execSync(command.join(' '), { stdio: 'pipe' });
-      
-      // ファイルサイズをチェック
-      const stats = fs.statSync(outputPath);
-      const sizeMB = stats.size / (1024 * 1024);
-      
-      console.log(`📐 リサイズ完了: ${(sizeMB).toFixed(2)}MB`);
-      return true;
-    } catch (error) {
-      console.error(`❌ リサイズエラー:`, error.message);
+    const result = await resizeImageWithSips(inputPath, outputPath, 2400);
+    if (!result.success) {
+      console.error(`❌ リサイズエラー:`, result.error);
       return false;
     }
+    console.log(`📐 リサイズ完了: ${result.sizeMB.toFixed(2)}MB`);
+    return true;
   }
 
   // 単一ファイルをアップロード
   async uploadFile(filePath) {
     try {
       const fileName = path.basename(filePath);
-      const dateTime = await this.getPhotoDateTime(filePath);
-      const date = this.formatDate(dateTime);
+      const dateTime = await getPhotoDateTime(filePath);
+      const date = formatDate(dateTime, filePath);
       const key = `${date}/${fileName}`;
 
       console.log(`アップロード中: ${fileName} -> ${key}`);
@@ -160,7 +129,7 @@ class PhotoUploader {
     console.log(`✅ 成功: ${successful}枚`);
     console.log(`❌ 失敗: ${failed}枚`);
     
-    await exiftool.end();
+    await closeExiftool();
   }
 }
 

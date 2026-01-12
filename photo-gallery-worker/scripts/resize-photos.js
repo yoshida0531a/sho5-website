@@ -1,8 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import { spawnSync } from 'child_process';
-import { exiftool } from 'exiftool-vendored';
+import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
+import { resizeImageWithSips } from './utils/image-utils.js';
 
 // 設定
 const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'original');
@@ -43,58 +43,9 @@ if (os.platform() !== 'darwin') {
   process.exit(1);
 }
 
-// EXIFから撮影日時を取得
-async function getPhotoDateTime(filePath) {
-  try {
-    const tags = await exiftool.read(filePath);
-    const dateTime = tags.DateTimeOriginal || tags.CreateDate || tags.DateTime;
-    return dateTime ? dateTime.toISOString().slice(0, 19).replace('T', ' ') : null;
-  } catch (error) {
-    console.error(`⚠️  EXIF読み取りエラー: ${path.basename(filePath)} - ${error.message}`);
-    return null;
-  }
-}
-
-// 撮影日時から日付部分を抽出
-function formatDate(dateTime, filePath) {
-  if (!dateTime) {
-    // 日時がない場合はファイルの更新日時を使用
-    try {
-      const stats = fs.statSync(filePath);
-      return new Date(stats.mtime).toISOString().slice(0, 10);
-    } catch (error) {
-      // ファイル情報が取得できない場合は現在日時
-      return new Date().toISOString().slice(0, 10);
-    }
-  }
-  return dateTime.split(' ')[0]; // YYYY-MM-DD
-}
-
 // 画像をリサイズ
 async function resizeImage(inputPath, outputPath) {
-  try {
-    // Use spawnSync with array arguments to prevent command injection
-    const result = spawnSync('sips', [
-      '-Z', CONFIG.maxDimension.toString(),
-      inputPath,
-      '--out', outputPath
-    ], { encoding: 'utf-8' });
-    
-    if (result.error) {
-      throw result.error;
-    }
-    
-    if (result.status !== 0) {
-      throw new Error(`sips exited with code ${result.status}: ${result.stderr}`);
-    }
-    
-    const stats = fs.statSync(outputPath);
-    const sizeMB = stats.size / (1024 * 1024);
-    
-    return { success: true, sizeMB };
-  } catch (error) {
-    return { success: false, error: error.message };
-  }
+  return await resizeImageWithSips(inputPath, outputPath, CONFIG.maxDimension);
 }
 
 // ファイルをリサイズして出力フォルダに保存
@@ -151,7 +102,7 @@ async function main() {
   if (files.length === 0) {
     console.log('⚠️  処理対象のファイルが見つかりませんでした\n');
     console.log(`💡 対応フォーマット: ${CONFIG.supportedFormats.join(', ')}\n`);
-    await exiftool.end();
+    await closeExiftool();
     return;
   }
   
@@ -184,19 +135,19 @@ async function main() {
   console.log('  cd photo-gallery-worker');
   console.log(`  node scripts/upload-photos.js "${CONFIG.outputFolder}"\n`);
   
-  await exiftool.end();
+  await closeExiftool();
 }
 
 // エラーハンドリング
 process.on('unhandledRejection', async (error) => {
   console.error('❌ 予期しないエラー:', error);
-  await exiftool.end();
+  await closeExiftool();
   process.exit(1);
 });
 
 // 実行
 main().catch(async (error) => {
   console.error('❌ エラー:', error);
-  await exiftool.end();
+  await closeExiftool();
   process.exit(1);
 });
