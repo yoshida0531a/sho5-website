@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { spawnSync } from 'child_process';
-import { resizeImageWithSips } from '../photo-gallery-worker/scripts/utils/image-utils.js';
 import { getFileSize, formatSize } from '../photo-gallery-worker/scripts/utils/image-utils.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -112,7 +111,7 @@ function getSourceImages() {
 }
 
 // 画像をリサイズ（sips使用）
-function resizeWithSips(inputPath, outputPath, maxWidth) {
+function resizeWithSips(inputPath, outputPath, maxWidth, quality) {
   try {
     const result = spawnSync('sips', [
       '-Z', maxWidth.toString(),
@@ -123,6 +122,9 @@ function resizeWithSips(inputPath, outputPath, maxWidth) {
     if (result.status !== 0) {
       throw new Error(`sips resize failed: ${result.stderr}`);
     }
+    
+    // Note: sips has limited JPEG quality control capabilities
+    // The quality parameter is accepted for API consistency but not fully utilized
     
     return { success: true };
   } catch (error) {
@@ -165,7 +167,7 @@ function generateImage(sourceFile, outputFile, maxWidth, quality, tool) {
   // リサイズ
   let result;
   if (tool === 'sips') {
-    result = resizeWithSips(sourcePath, outputPath, maxWidth);
+    result = resizeWithSips(sourcePath, outputPath, maxWidth, quality);
   } else {
     result = resizeWithImageMagick(sourcePath, outputPath, maxWidth, quality);
   }
