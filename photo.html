@@ -523,7 +523,7 @@
     let allPhotos = [];
     let displayedPhotos = [];
     let currentPage = 0;
-    let photosPerPage = 50; // 初期表示枚数
+    let photosPerPage = 30; // 初期表示枚数（密度2のデフォルト値、updatePhotosPerPage()で上書きされる）
     let isLoading = false;
     let lastDensityChange = 0;
     let scrollObserver = null; // IntersectionObserver instance
@@ -604,7 +604,7 @@
         9: 150,
         10: 200  // 小さい写真: 多く表示
       };
-      photosPerPage = densityToPhotos[currentDensity] || 50;
+      photosPerPage = densityToPhotos[currentDensity] || 30; // デフォルトは密度2の30枚
     }
     
     // 写真を段階的に表示
@@ -670,13 +670,13 @@
       const loadingMore = document.getElementById('loading-more');
       loadingMore.style.display = 'block';
       
-      // 少し遅延を入れて安定性を確保
+      // 少し遅延を入れてUIの安定性を確保
       setTimeout(() => {
         currentPage++;
         renderPhotos();
         isLoading = false;
         loadingMore.style.display = 'none';
-      }, 500);
+      }, 200);
     }
     
     // タッチイベントハンドラー
