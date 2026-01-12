@@ -9,6 +9,12 @@ cd photo-gallery-worker
 ```
 Enterキーを2回押すだけ（デフォルト設定の場合）
 
+または、scriptsディレクトリから:
+```bash
+cd scripts
+./resize-photo-gallery.sh
+```
+
 ### 2. 確認
 ```bash
 open ~/Pictures/shogo写真データ/resized
@@ -26,6 +32,19 @@ npm run upload ~/Pictures/shogo写真データ/resized
 ```bash
 cd photo-gallery-worker && ./resize-photos.sh && npm run upload ~/Pictures/shogo写真データ/resized
 ```
+
+---
+
+## トップページ画像の最適化
+
+トップページの3枚の画像（top_pc1.JPG, top_pc2.JPG, top_pc3.JPG）を最適化する場合:
+
+```bash
+cd scripts
+./optimize-top-images.sh
+```
+
+詳細: [scripts/README.md](scripts/README.md)
 
 ---
 
