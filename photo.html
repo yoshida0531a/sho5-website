@@ -388,30 +388,34 @@
       position: fixed;
       top: 50%;
       transform: translateY(-50%);
-      font-size: 50px;
+      font-size: 32px;
       color: white;
       cursor: pointer;
       z-index: 10001;
-      width: 60px;
-      height: 60px;
+      width: auto;
+      height: auto;
       display: flex;
       align-items: center;
       justify-content: center;
-      background: rgba(0, 0, 0, 0.5);
-      border-radius: 50%;
-      backdrop-filter: blur(10px);
+      background: transparent;
       user-select: none;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8), 0 0 8px rgba(0, 0, 0, 0.5);
+      opacity: 0.8;
+      transition: opacity 0.2s ease;
     }
 
     .lightbox-nav.prev {
-      left: 20px;
+      left: 15px;
     }
 
     .lightbox-nav.next {
-      right: 20px;
+      right: 15px;
     }
 
-    .lightbox-nav:hover,
+    .lightbox-nav:hover {
+      opacity: 1;
+    }
+    
     .lightbox-close:hover {
       background: rgba(0, 0, 0, 0.7);
     }
@@ -522,6 +526,7 @@
     let photosPerPage = 50; // 初期表示枚数
     let isLoading = false;
     let lastDensityChange = 0;
+    let progressiveLoadingInterval = null; // バックグラウンド読み込み用のインターバルID
     
     // Lightbox用の変数
     let lightboxActive = false;
@@ -662,6 +667,44 @@
       }, 500);
     }
     
+    // バックグラウンドで徐々に全写真を読み込む
+    function startProgressiveLoading() {
+      // 既に実行中の場合は停止
+      if (progressiveLoadingInterval) {
+        clearInterval(progressiveLoadingInterval);
+        progressiveLoadingInterval = null;
+      }
+      
+      // 全ての写真が読み込み済みかチェック
+      const isAllPhotosLoaded = () => displayedPhotos.length >= allPhotos.length;
+      
+      // 既に全て表示されている場合はスキップ
+      if (isAllPhotosLoaded()) return;
+      
+      // 500msごとに次のページを読み込む
+      progressiveLoadingInterval = setInterval(() => {
+        if (isAllPhotosLoaded()) {
+          clearInterval(progressiveLoadingInterval);
+          progressiveLoadingInterval = null;
+          return;
+        }
+        
+        // ユーザーがスクロール中でない場合のみバックグラウンドで読み込む
+        if (!isLoading) {
+          currentPage++;
+          renderPhotos();
+        }
+      }, 500);
+    }
+    
+    // ページ離脱時にインターバルをクリーンアップ
+    window.addEventListener('beforeunload', function() {
+      if (progressiveLoadingInterval) {
+        clearInterval(progressiveLoadingInterval);
+        progressiveLoadingInterval = null;
+      }
+    });
+    
     // タッチイベントハンドラー
     function handleTouchStart(e) {
       if (e.touches.length === 2) {
@@ -786,6 +829,9 @@
               
               // 初期表示
               renderPhotos();
+              
+              // バックグラウンドで残りの写真を徐々に読み込む
+              startProgressiveLoading();
             } else {
               $("#gallery").html("<p>写真が見つかりませんでした。データ: " + JSON.stringify(data) + "</p>");
             }
@@ -811,10 +857,10 @@
     
     // Lightbox functions
     function preloadImage(index) {
-      if (index < 0 || index >= displayedPhotos.length) return;
+      if (index < 0 || index >= allPhotos.length) return;
       if (preloadedImages.has(index)) return;
       
-      const photo = displayedPhotos[index];
+      const photo = allPhotos[index];
       const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
       
       const img = new Image();
@@ -832,7 +878,7 @@
       const lightbox = document.getElementById('lightbox');
       const lightboxImg = document.getElementById('lightbox-img');
       const lightboxLoading = document.getElementById('lightbox-loading');
-      const photo = displayedPhotos[index];
+      const photo = allPhotos[index];
       const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
       
       lightbox.classList.add('active');
@@ -876,14 +922,14 @@
     
     function navigateLightbox(direction) {
       const newIndex = currentLightboxIndex + direction;
-      if (newIndex >= 0 && newIndex < displayedPhotos.length) {
+      if (newIndex >= 0 && newIndex < allPhotos.length) {
         openLightbox(newIndex);
       }
     }
     
     function updateLightboxCounter() {
       const counter = document.getElementById('lightbox-counter');
-      counter.textContent = `${currentLightboxIndex + 1} / ${displayedPhotos.length}`;
+      counter.textContent = `${currentLightboxIndex + 1} / ${allPhotos.length}`;
     }
     
     function updateImageTransform() {
