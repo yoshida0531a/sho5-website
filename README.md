@@ -9,7 +9,107 @@
 - **Xポスト** (`x.html`) - X（旧Twitter）投稿表示
 - **YouTube動画** (`youtube.html`) - 動画コンテンツ
 
-## 写真アップロード手順（クイックスタート）
+## トップページ画像の更新手順
+
+### クイックスタート
+```bash
+# 1. ソースディレクトリを作成
+mkdir -p assets/images/top_sources
+
+# 2. 5枚の写真をコピー（パスは適宜変更）
+cp /path/to/your/photos/* assets/images/top_sources/
+
+# 3. 画像生成
+npm run create-top-images
+
+# 4. （オプション）最適化
+npm run optimize-top-images
+
+# 5. コミット
+git add assets/images/top_pc*.JPG assets/images/top_mobile*.JPG
+git commit -m "トップページ画像を更新"
+git push
+```
+
+### 詳細手順
+
+#### ステップ1: 画像をコピー
+
+**コマンドライン:**
+```bash
+# ソースディレクトリを作成（存在しない場合）
+mkdir -p assets/images/top_sources
+
+# 5枚の写真を配置（パスは適宜変更してください）
+cp /path/to/your/photos/* assets/images/top_sources/
+```
+
+**Finderで直接コピー:**
+1. 写真のフォルダを開く
+2. 5枚の写真を選択してコピー（⌘+C）
+3. このリポジトリの `assets/images/top_sources/` フォルダを開く
+4. ペースト（⌘+V）
+
+**注意**: `top_sources/` ディレクトリは `.gitignore` に含まれているため、元画像はコミットされません。
+
+#### ステップ2: 画像生成
+```bash
+cd scripts
+./create-top-images.sh
+
+# または npm コマンドで実行
+npm run create-top-images
+```
+
+**自動処理内容:**
+- ソースディレクトリから最初の5枚を選択
+- PC向け画像（2000px幅）: `top_pc1.JPG` ～ `top_pc5.JPG`
+- モバイル向け画像（1200px幅）: `top_mobile1.JPG` ～ `top_mobile5.JPG`
+- すべての画像を `assets/images/` に配置
+
+#### ステップ3: 結果を確認
+```bash
+# 生成された画像を確認
+ls -lh assets/images/top_pc*.JPG
+ls -lh assets/images/top_mobile*.JPG
+
+# ブラウザで確認
+python3 -m http.server 8000
+# http://localhost:8000 を開く
+```
+
+#### ステップ4: （オプション）最適化
+```bash
+cd scripts
+./optimize-top-images.sh
+
+# または npm コマンドで実行
+npm run optimize-top-images
+```
+- ファイルサイズを約90%削減
+- 元画像を `assets/images/backup_originals/` にバックアップ
+
+### トラブルシューティング
+
+**エラー: "ソースディレクトリが見つかりません"**
+- `assets/images/top_sources/` ディレクトリが存在するか確認
+- このディレクトリに画像がコピーされているか確認
+
+**エラー: "ソース画像が不足しています"**
+- 最低5枚の画像（JPG/PNG形式）が必要
+- `ls assets/images/top_sources/` で画像を確認
+
+**画像の並び順を変更したい場合:**
+- 画像は名前順に処理されるため、ファイル名を変更して順序を調整
+```bash
+cd assets/images/top_sources
+mv photo1.jpg 01_photo1.jpg
+mv photo2.jpg 02_photo2.jpg
+```
+
+---
+
+## フォトギャラリー画像アップロード手順（クイックスタート）
 
 ### ステップ1: リサイズ
 ```bash
