@@ -9892,5 +9892,41 @@
     "userName": "senihara2512",
     "tweetUrl": "https://twitter.com/senihara2512/status/2010722427148644806",
     "createdAt": "January 12, 2026 at 11:35PM"
+  },
+  {
+    "text": "藤川阪神、連覇への課題は「レフトとショート」の固定　ドラ1・立石正広、2位・谷端将伍をどう起用するか【中西清起氏×片岡篤史氏・OB対談】(NEWSポストセブン)\n\nhttps://t.co/u6ZjPOS6oE",
+    "userName": "PeiDang74960",
+    "tweetUrl": "https://twitter.com/PeiDang74960/status/2010857085354066008",
+    "createdAt": "January 13, 2026 at 08:31AM"
+  },
+  {
+    "text": "【阪神】ドラ２・谷端将伍が自主トレ公開　ヤクルト・内山壮真ら星稜ＯＢとの合同練習で刺激「いい時間になりました」(スポーツ報知)\nhttps://t.co/G7VmwChHpA",
+    "userName": "chains07091550",
+    "tweetUrl": "https://twitter.com/chains07091550/status/2010947237560680845",
+    "createdAt": "January 13, 2026 at 02:29PM"
+  },
+  {
+    "text": "時間あったから昨日はSGLスタジアムに阪神の練習見に行ってきた🐯\n新人の立石、能登、谷端、岡城らが間近で守備練してて、帰り際には石井や今朝丸も写真撮れたし満足な1日でした！ https://t.co/AfrTGkAOpA",
+    "userName": "gori_flame",
+    "tweetUrl": "https://twitter.com/gori_flame/status/2010988191734776255",
+    "createdAt": "January 13, 2026 at 05:12PM"
+  },
+  {
+    "text": "@yoshi_ii_pokeke 京田３〜4年次（2015〜16）の実籾はすごい盛り上がりでした😌\n\n谷端はもう退寮しているので、実籾に来ることは無いと思います。\nファンレターとして阪神の寮に郵送されてはいかがでしょうか？ https://t.co/F9iun6OC95",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/2011018929653891157",
+    "createdAt": "January 13, 2026 at 07:14PM"
+  },
+  {
+    "text": "@Nichidaai 確かに凄かったですよね！\n東都の出身大学の友人がいて、半ば強引に連れて行かれた時に偶然見たのが京田選手で‥‥\nそこから大学野球の楽しさに目覚め‥京田選手推しをずっとやらせて頂いております‥‥\n\nそうですねー。\n谷端さんは色々検討します😌😌",
+    "userName": "yoshi_ii_pokeke",
+    "tweetUrl": "https://twitter.com/yoshi_ii_pokeke/status/2011030545405460774",
+    "createdAt": "January 13, 2026 at 08:00PM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　土のグラウンド攻略へグラブさばきを再確認「慣れていかないと」(スポニチアネックス)\n\nとにかく練習しまくって上手くなればいい。そういう意味でも、練習できる丈夫な体が大事になってくるわけですな、プロでは。\nhttps://t.co/SnKaq5MBoz",
+    "userName": "geki_sen",
+    "tweetUrl": "https://twitter.com/geki_sen/status/2011113724866937083",
+    "createdAt": "January 14, 2026 at 01:30AM"
   }
 ]
