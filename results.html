@@ -354,7 +354,7 @@
           
           const detailDiv = document.createElement('div');
           detailDiv.className = 'cell-detail';
-          detailDiv.textContent = `${cell.hits}-${cell.atBats}\n${cell.walks > 0 ? '四死球' + cell.walks : ''}`;
+          detailDiv.innerHTML = `${cell.hits}-${cell.atBats}<br>${cell.walks > 0 ? '四死球' + cell.walks : ''}`;
           
           cellDiv.appendChild(avgDiv);
           cellDiv.appendChild(detailDiv);
