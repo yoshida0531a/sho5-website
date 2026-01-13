@@ -475,7 +475,8 @@
     function encodeJsonForGithub(data) {
       const jsonString = JSON.stringify(data, null, 2);
       const utf8Bytes = new TextEncoder().encode(jsonString);
-      const binaryString = String.fromCharCode(...utf8Bytes);
+      // Use Array.from to avoid potential stack overflow with large data
+      const binaryString = String.fromCharCode(...Array.from(utf8Bytes));
       return btoa(binaryString);
     }
 
