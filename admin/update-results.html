@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>成績更新管理 - Admin</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+      background-color: #f8f9fa;
+      color: #212529;
+      padding: 16px;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 600;
+      color: #212529;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      font-size: 14px;
+      color: #6c757d;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .card-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      color: #212529;
+      border-bottom: 2px solid #ffc000;
+      padding-bottom: 8px;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      color: #495057;
+      margin-bottom: 6px;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    input[type="password"] {
+      width: 100%;
+      padding: 10px 12px;
+      font-size: 16px;
+      border: 1px solid #ced4da;
+      border-radius: 6px;
+      transition: border-color 0.2s;
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #ffc000;
+      box-shadow: 0 0 0 3px rgba(255, 192, 0, 0.1);
+    }
+
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .heatmap-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 12px;
+    }
+
+    .heatmap-cell-form {
+      border: 1px solid #dee2e6;
+      border-radius: 8px;
+      padding: 12px;
+      background-color: #f8f9fa;
+    }
+
+    .cell-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: #495057;
+      margin-bottom: 8px;
+      text-align: center;
+    }
+
+    .cell-inputs {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .cell-input-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .cell-input-group label {
+      font-size: 11px;
+      color: #6c757d;
+      margin: 0;
+      min-width: 50px;
+    }
+
+    .cell-input-group input {
+      flex: 1;
+      padding: 6px 8px;
+      font-size: 14px;
+    }
+
+    .button-group {
+      display: flex;
+      gap: 12px;
+      margin-top: 24px;
+    }
+
+    button {
+      flex: 1;
+      padding: 14px 24px;
+      font-size: 16px;
+      font-weight: 600;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background-color: #ffc000;
+      color: #000;
+    }
+
+    .btn-primary:hover {
+      background-color: #e6ad00;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(255, 192, 0, 0.3);
+    }
+
+    .btn-primary:active {
+      transform: translateY(0);
+    }
+
+    .btn-secondary {
+      background-color: #6c757d;
+      color: white;
+    }
+
+    .btn-secondary:hover {
+      background-color: #5a6268;
+    }
+
+    .btn-danger {
+      background-color: #dc3545;
+      color: white;
+    }
+
+    .btn-danger:hover {
+      background-color: #c82333;
+    }
+
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .alert {
+      padding: 12px 16px;
+      border-radius: 8px;
+      margin-bottom: 16px;
+      font-size: 14px;
+    }
+
+    .alert-success {
+      background-color: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+
+    .alert-error {
+      background-color: #f8d7da;
+      color: #721c24;
+      border: 1px solid #f5c6cb;
+    }
+
+    .alert-info {
+      background-color: #d1ecf1;
+      color: #0c5460;
+      border: 1px solid #bee5eb;
+    }
+
+    .token-info {
+      font-size: 12px;
+      color: #6c757d;
+      margin-top: 6px;
+      line-height: 1.5;
+    }
+
+    .loading {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border: 2px solid #f3f3f3;
+      border-top: 2px solid #ffc000;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .link-preview {
+      margin-top: 16px;
+      padding: 12px;
+      background-color: #f8f9fa;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .link-preview a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    .link-preview a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 640px) {
+      .stats-row {
+        grid-template-columns: 1fr;
+      }
+      
+      .button-group {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🔐 打撃成績管理システム</h1>
+      <div class="subtitle">データ入力・更新ページ</div>
+    </header>
+
+    <div id="message-container"></div>
+
+    <!-- GitHub Token Setup -->
+    <div class="card" id="token-section">
+      <div class="card-title">GitHub認証設定</div>
+      <div class="form-group">
+        <label for="github-token">GitHubパーソナルアクセストークン</label>
+        <input type="password" id="github-token" placeholder="ghp_xxxxxxxxxxxx">
+        <div class="token-info">
+          初回のみ入力が必要です。トークンはブラウザに安全に保存されます。<br>
+          トークンの作成: GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)<br>
+          必要な権限: <code>repo</code> (リポジトリへの読み書き権限)
+        </div>
+      </div>
+      <button class="btn-primary" onclick="saveToken()">トークンを保存</button>
+      <button class="btn-danger" onclick="clearToken()" style="margin-top: 12px;">トークンを削除</button>
+    </div>
+
+    <!-- Data Entry Form -->
+    <div class="card" id="data-form" style="display: none;">
+      <div class="card-title">今シーズン通算成績</div>
+      <div class="stats-row">
+        <div class="form-group">
+          <label for="season-avg">打率</label>
+          <input type="text" id="season-avg" placeholder=".000" pattern="^\.\d{3}$">
+        </div>
+        <div class="form-group">
+          <label for="season-hr">本塁打</label>
+          <input type="number" id="season-hr" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="season-rbi">打点</label>
+          <input type="number" id="season-rbi" placeholder="0" min="0">
+        </div>
+      </div>
+
+      <div class="card-title">コース別成績（3x3ヒートマップ）</div>
+      <div class="heatmap-grid" id="heatmap-form">
+        <!-- Generated by JavaScript -->
+      </div>
+
+      <div class="button-group">
+        <button class="btn-primary" onclick="updateResults()" id="update-btn">
+          データを更新
+        </button>
+        <button class="btn-secondary" onclick="loadCurrentData()">
+          現在のデータを読込
+        </button>
+      </div>
+
+      <div class="link-preview">
+        <strong>公開ページ:</strong> 
+        <a href="../results.html" target="_blank">results.html</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const GITHUB_API = 'https://api.github.com';
+    const REPO_OWNER = 'yoshida0531a';
+    const REPO_NAME = 'sho5-website';
+    const FILE_PATH = 'data/results.json';
+    const TOKEN_KEY = 'github_token';
+
+    // Initialize
+    document.addEventListener('DOMContentLoaded', () => {
+      generateHeatmapForm();
+      checkToken();
+    });
+
+    // Generate heatmap input form
+    function generateHeatmapForm() {
+      const container = document.getElementById('heatmap-form');
+      container.innerHTML = '';
+
+      for (let i = 1; i <= 9; i++) {
+        const cellDiv = document.createElement('div');
+        cellDiv.className = 'heatmap-cell-form';
+        
+        cellDiv.innerHTML = `
+          <div class="cell-label">位置 ${i}</div>
+          <div class="cell-inputs">
+            <div class="cell-input-group">
+              <label>安打</label>
+              <input type="number" id="hits-${i}" min="0" value="0">
+            </div>
+            <div class="cell-input-group">
+              <label>打数</label>
+              <input type="number" id="atBats-${i}" min="0" value="0">
+            </div>
+            <div class="cell-input-group">
+              <label>四死球</label>
+              <input type="number" id="walks-${i}" min="0" value="0">
+            </div>
+          </div>
+        `;
+        
+        container.appendChild(cellDiv);
+      }
+    }
+
+    // Check if token exists
+    function checkToken() {
+      const token = localStorage.getItem(TOKEN_KEY);
+      if (token) {
+        showMessage('トークンが設定されています', 'success');
+        document.getElementById('data-form').style.display = 'block';
+        loadCurrentData();
+      } else {
+        showMessage('GitHubトークンを設定してください', 'info');
+      }
+    }
+
+    // Save token
+    function saveToken() {
+      const token = document.getElementById('github-token').value.trim();
+      if (!token) {
+        showMessage('トークンを入力してください', 'error');
+        return;
+      }
+
+      if (!token.startsWith('ghp_') && !token.startsWith('github_pat_')) {
+        showMessage('有効なGitHubトークンを入力してください（ghp_ または github_pat_ で始まる）', 'error');
+        return;
+      }
+
+      localStorage.setItem(TOKEN_KEY, token);
+      document.getElementById('github-token').value = '';
+      showMessage('トークンを保存しました', 'success');
+      document.getElementById('data-form').style.display = 'block';
+      loadCurrentData();
+    }
+
+    // Clear token
+    function clearToken() {
+      if (confirm('保存されているトークンを削除しますか？')) {
+        localStorage.removeItem(TOKEN_KEY);
+        document.getElementById('data-form').style.display = 'none';
+        showMessage('トークンを削除しました', 'info');
+      }
+    }
+
+    // Show message
+    function showMessage(message, type = 'info') {
+      const container = document.getElementById('message-container');
+      const alertClass = `alert-${type === 'error' ? 'error' : type === 'success' ? 'success' : 'info'}`;
+      
+      container.innerHTML = `
+        <div class="alert ${alertClass}">
+          ${message}
+        </div>
+      `;
+
+      // Auto-hide after 5 seconds
+      setTimeout(() => {
+        container.innerHTML = '';
+      }, 5000);
+    }
+
+    // Load current data
+    async function loadCurrentData() {
+      try {
+        showMessage('現在のデータを読み込んでいます...', 'info');
+        
+        const response = await fetch(`/data/results.json?_=${Date.now()}`);
+        if (!response.ok) {
+          throw new Error('データの読み込みに失敗しました');
+        }
+
+        const data = await response.json();
+
+        // Load season stats
+        document.getElementById('season-avg').value = data.seasonStats.battingAverage;
+        document.getElementById('season-hr').value = data.seasonStats.homeRuns;
+        document.getElementById('season-rbi').value = data.seasonStats.rbi;
+
+        // Load heatmap data
+        data.heatmap.forEach((cell, index) => {
+          const position = index + 1;
+          document.getElementById(`hits-${position}`).value = cell.hits;
+          document.getElementById(`atBats-${position}`).value = cell.atBats;
+          document.getElementById(`walks-${position}`).value = cell.walks;
+        });
+
+        showMessage('データを読み込みました', 'success');
+      } catch (error) {
+        console.error('Error loading data:', error);
+        showMessage('データの読み込みに失敗しました: ' + error.message, 'error');
+      }
+    }
+
+    // Get file SHA from GitHub
+    async function getFileSha() {
+      const token = localStorage.getItem(TOKEN_KEY);
+      const url = `${GITHUB_API}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
+
+      const response = await fetch(url, {
+        headers: {
+          'Authorization': `token ${token}`,
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      });
+
+      if (!response.ok) {
+        throw new Error(`GitHubからファイル情報の取得に失敗: ${response.status}`);
+      }
+
+      const data = await response.json();
+      return data.sha;
+    }
+
+    // Update results
+    async function updateResults() {
+      const token = localStorage.getItem(TOKEN_KEY);
+      if (!token) {
+        showMessage('トークンが設定されていません', 'error');
+        return;
+      }
+
+      // Collect data
+      const seasonAvg = document.getElementById('season-avg').value.trim();
+      const seasonHr = parseInt(document.getElementById('season-hr').value) || 0;
+      const seasonRbi = parseInt(document.getElementById('season-rbi').value) || 0;
+
+      if (!seasonAvg.match(/^\.\d{3}$/)) {
+        showMessage('打率は .000 形式で入力してください', 'error');
+        return;
+      }
+
+      const heatmap = [];
+      for (let i = 1; i <= 9; i++) {
+        heatmap.push({
+          position: String(i),
+          hits: parseInt(document.getElementById(`hits-${i}`).value) || 0,
+          atBats: parseInt(document.getElementById(`atBats-${i}`).value) || 0,
+          walks: parseInt(document.getElementById(`walks-${i}`).value) || 0
+        });
+      }
+
+      const newData = {
+        seasonStats: {
+          battingAverage: seasonAvg,
+          homeRuns: seasonHr,
+          rbi: seasonRbi
+        },
+        heatmap: heatmap,
+        lastUpdated: new Date().toISOString()
+      };
+
+      // Update via GitHub API
+      const updateBtn = document.getElementById('update-btn');
+      updateBtn.disabled = true;
+      updateBtn.innerHTML = '<span class="loading"></span>更新中...';
+
+      try {
+        // Get current file SHA
+        showMessage('ファイル情報を取得中...', 'info');
+        const sha = await getFileSha();
+
+        // Update file
+        showMessage('データを更新中...', 'info');
+        const url = `${GITHUB_API}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
+        
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify(newData, null, 2))));
+        
+        const response = await fetch(url, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${token}`,
+            'Accept': 'application/vnd.github.v3+json',
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            message: '打撃成績を更新',
+            content: content,
+            sha: sha
+          })
+        });
+
+        if (!response.ok) {
+          const errorData = await response.json();
+          throw new Error(`更新失敗: ${errorData.message || response.status}`);
+        }
+
+        showMessage('✅ データを更新しました！', 'success');
+        
+        // Reload data after 2 seconds
+        setTimeout(() => {
+          loadCurrentData();
+        }, 2000);
+
+      } catch (error) {
+        console.error('Error updating data:', error);
+        showMessage('更新に失敗しました: ' + error.message, 'error');
+      } finally {
+        updateBtn.disabled = false;
+        updateBtn.innerHTML = 'データを更新';
+      }
+    }
+  </script>
+</body>
+</html>
