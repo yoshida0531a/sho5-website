@@ -471,6 +471,14 @@
       }
     }
 
+    // Encode JSON data for GitHub API (UTF-8 safe base64 encoding)
+    function encodeJsonForGithub(data) {
+      const jsonString = JSON.stringify(data, null, 2);
+      const utf8Bytes = new TextEncoder().encode(jsonString);
+      const binaryString = String.fromCharCode(...utf8Bytes);
+      return btoa(binaryString);
+    }
+
     // Get file SHA from GitHub
     async function getFileSha() {
       const token = localStorage.getItem(TOKEN_KEY);
@@ -543,7 +551,7 @@
         showMessage('データを更新中...', 'info');
         const url = `${GITHUB_API}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
         
-        const content = btoa(encodeURIComponent(JSON.stringify(newData, null, 2)).replace(/%([0-9A-F]{2})/g, (match, p1) => String.fromCharCode('0x' + p1)));
+        const content = encodeJsonForGithub(newData);
         
         const response = await fetch(url, {
           method: 'PUT',
