@@ -9928,5 +9928,35 @@
     "userName": "geki_sen",
     "tweetUrl": "https://twitter.com/geki_sen/status/2011113724866937083",
     "createdAt": "January 14, 2026 at 01:30AM"
+  },
+  {
+    "text": "谷端将伍が１年目にどのような成績を残すのか？という予想は新人の中でもっとも読み難い\n東都一部191打数 打率.283 6本塁打 OPS.785 三振率20.9% BB/K0.375\n二部（4年秋）52打数 打率.385 1本塁打 OPS.958 三振率9.6% BB/K0.6\n成績を見たら率は高いが三振が多く四球が少ないフリースインガーである",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2011295672595800430",
+    "createdAt": "January 14, 2026 at 01:33PM"
+  },
+  {
+    "text": "谷端将伍は3年の成績が一番よく\n春が打率.327 4本塁打 OPS1.062 三振率22.4% BB/K0.45\n秋は打率.417 2本塁打 OPS1.071 三振率19.4% BB/K0.714\nと率が残せて長打も打てている\n守備は4年春までは主に三塁を守り、4年秋はセカンドでベストナインを受賞\n本人もセカンドを希望している https://t.co/acaGL1mR83",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2011297757706010661",
+    "createdAt": "January 14, 2026 at 01:42PM"
+  },
+  {
+    "text": "土のグラウンドへの対応がネックになるだろうが、大学時代のサードでの守備への不安というのは主にスローイングであったので、ファーストへの距離が近いセカンドではそれは解消されるだろう\n個人的には谷端将伍には二軍でポスト中野としてセカンドを守り、打率.280 5本塁打くらいはやってほしい https://t.co/ZS25Jb2Pgm",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2011298458104455598",
+    "createdAt": "January 14, 2026 at 01:44PM"
+  },
+  {
+    "text": "全然贔屓じゃなくてアレなんだけど、阪神2位の谷端は結構注目してる。打ち方の無駄の無さといい、内野ってよりは外野とファーストみたいなイメージで、中川圭太と成長曲線が被りそうな感じで。",
+    "userName": "jgHN7NfwZ1n7gfD",
+    "tweetUrl": "https://twitter.com/jgHN7NfwZ1n7gfD/status/2011332445690609947",
+    "createdAt": "January 14, 2026 at 03:59PM"
+  },
+  {
+    "text": "阪神から2位指名…石川県白山市出身の日大・谷端将伍が入寮「睡眠を大事に」と愛用のマットレス持ち込む(石川テレビ)\nhttps://t.co/wB5WUgw2HG",
+    "userName": "a5wzakqw",
+    "tweetUrl": "https://twitter.com/a5wzakqw/status/2011452592824725562",
+    "createdAt": "January 14, 2026 at 11:57PM"
   }
 ]
