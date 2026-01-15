@@ -1,0 +1,19 @@
+{
+  "seasonStats": {
+    "battingAverage": ".000",
+    "homeRuns": 0,
+    "rbi": 0
+  },
+  "heatmap": [
+    { "position": "1", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "2", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "3", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "4", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "5", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "6", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "7", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "8", "hits": 0, "atBats": 0, "walks": 0 },
+    { "position": "9", "hits": 0, "atBats": 0, "walks": 0 }
+  ],
+  "lastUpdated": "2026-01-13T23:20:00Z"
+}
