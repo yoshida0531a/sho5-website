@@ -9958,5 +9958,35 @@
     "userName": "a5wzakqw",
     "tweetUrl": "https://twitter.com/a5wzakqw/status/2011452592824725562",
     "createdAt": "January 14, 2026 at 11:57PM"
+  },
+  {
+    "text": "谷端将伍（阪神 26卒見込 星稜）は３年春からよ😅 https://t.co/WChpurzOPt",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/2011727761329832397",
+    "createdAt": "January 15, 2026 at 06:10PM"
+  },
+  {
+    "text": "昨年の大学侍ジャパンで\n本職は内野だがレフトでノックを受ける\n３立石（高川学園→創価大）\n６谷端（星稜→日本大）\n\n阪神のドラ１・ドラ２の内野手２人は\n内野はショート以外はほぼ固まっている\nチーム事情もありこの２人のレフト争いが\n見れるかもですね https://t.co/L2iHeVpeQE",
+    "userName": "bluamabase",
+    "tweetUrl": "https://twitter.com/bluamabase/status/2011753013598437725",
+    "createdAt": "January 15, 2026 at 07:51PM"
+  },
+  {
+    "text": "@chin_gisu_fan おめでとうございます！！\n指名の瞬間は阪神入団するなんて半信半疑でしたね💦\n谷端には新人の旗振り役として頑張ってほしいです😘\n何はともあれハッピーバースデー！！",
+    "userName": "cronin_tigers",
+    "tweetUrl": "https://twitter.com/cronin_tigers/status/2011786689249944022",
+    "createdAt": "January 15, 2026 at 10:04PM"
+  },
+  {
+    "text": "\"半信\"半疑(阪神)と\"旗\"振り役(谷端)のダジャレには気づいてくれましたか…？",
+    "userName": "cronin_tigers",
+    "tweetUrl": "https://twitter.com/cronin_tigers/status/2011789475484250563",
+    "createdAt": "January 15, 2026 at 10:16PM"
+  },
+  {
+    "text": "今年の阪神、立石と谷端が派手に楽しみすぎる 前川も頑張ってほしい",
+    "userName": "ehuzi_teya",
+    "tweetUrl": "https://twitter.com/ehuzi_teya/status/2011868605093462194",
+    "createdAt": "January 16, 2026 at 03:30AM"
   }
 ]
