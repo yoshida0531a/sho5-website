@@ -1,0 +1,89 @@
+name: Filter YouTube by Subscribers
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_subscribers:
+        description: 'Minimum subscriber count (default: 100)'
+        required: false
+        default: '100'
+        type: number
+      dry_run:
+        description: 'Dry run mode (preview only, no changes)'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  filter-youtube:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run YouTube filter script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          MIN_SUBSCRIBERS: ${{ github.event.inputs.min_subscribers || '100' }}
+        run: |
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "❌ Error: YOUTUBE_API_KEY secret is not set."
+            echo "Please add your YouTube API key as a repository secret named 'YOUTUBE_API_KEY'"
+            echo ""
+            echo "手順:"
+            echo "1. Settings > Secrets and variables > Actions"
+            echo "2. 'New repository secret' をクリック"
+            echo "3. Name: YOUTUBE_API_KEY"
+            echo "4. Secret: あなたのYouTube API Key"
+            exit 1
+          fi
+          
+          echo "🎬 YouTube-data.txt フィルタリングを開始します..."
+          echo "📊 最小登録者数: $MIN_SUBSCRIBERS"
+          
+          node scripts/filter-youtube-by-subscribers.js
+
+      - name: Show results
+        run: |
+          if [ -f "YouTube-data.txt.backup" ]; then
+            BEFORE=$(cat YouTube-data.txt.backup | grep -c '"url"' || echo "0")
+            AFTER=$(cat YouTube-data.txt | grep -c '"url"' || echo "0")
+            REMOVED=$((BEFORE - AFTER))
+            
+            echo "📈 結果サマリー:"
+            echo "   処理前: $BEFORE 件"
+            echo "   処理後: $AFTER 件"
+            echo "   削除: $REMOVED 件"
+          fi
+
+      - name: Commit changes
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Check if there are changes
+          if git diff --quiet YouTube-data.txt; then
+            echo "✅ 変更はありませんでした（削除対象の動画なし）"
+          else
+            git add YouTube-data.txt
+            git commit -m "chore: Filter YouTube data by subscriber count (min: ${{ github.event.inputs.min_subscribers }})"
+            git push
+            echo "✅ YouTube-data.txt を更新しました"
+          fi
+
+      - name: Dry run notice
+        if: ${{ github.event.inputs.dry_run == 'true' }}
+        run: |
+          echo "🔍 ドライランモード: 変更はコミットされていません"
+          echo "実際にフィルタリングを適用するには、dry_run を false にして再実行してください"

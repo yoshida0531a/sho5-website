@@ -1,11 +1,15 @@
 /**
  * YouTube Data Filter Script
  * 
- * このスクリプトはYouTube-data.txtから登録者数が100人未満のチャンネルの動画を削除します。
+ * このスクリプトはYouTube-data.txtから登録者数が指定人数未満のチャンネルの動画を削除します。
  * 
  * 使用方法:
  * 1. 環境変数 YOUTUBE_API_KEY を設定するか、直接以下に入力してください
  * 2. node scripts/filter-youtube-by-subscribers.js を実行
+ * 
+ * 環境変数:
+ * - YOUTUBE_API_KEY: YouTube Data API v3のAPIキー（必須）
+ * - MIN_SUBSCRIBERS: 最小登録者数（デフォルト: 100）
  * 
  * 注意: YouTube Data API v3のクォータ制限があります（1日10,000ユニット）
  */
@@ -19,7 +23,14 @@ const __dirname = path.dirname(__filename);
 
 // YouTube API Key (環境変数から取得、または直接設定)
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || 'YOUR_YOUTUBE_API_KEY_HERE';
-const MIN_SUBSCRIBERS = 100;
+const MIN_SUBSCRIBERS_INPUT = parseInt(process.env.MIN_SUBSCRIBERS, 10);
+const MIN_SUBSCRIBERS = (Number.isNaN(MIN_SUBSCRIBERS_INPUT) || MIN_SUBSCRIBERS_INPUT < 0) 
+    ? 100 
+    : MIN_SUBSCRIBERS_INPUT;
+
+if (Number.isNaN(MIN_SUBSCRIBERS_INPUT) && process.env.MIN_SUBSCRIBERS) {
+    console.warn(`警告: 無効な MIN_SUBSCRIBERS 値: "${process.env.MIN_SUBSCRIBERS}"。デフォルト値 100 を使用します。`);
+}
 
 // ファイルパス
 const DATA_FILE = path.join(__dirname, '..', 'YouTube-data.txt');
