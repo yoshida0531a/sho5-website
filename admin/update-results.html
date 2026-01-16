@@ -303,16 +303,58 @@
       <div class="card-title">今シーズン通算成績</div>
       <div class="stats-row">
         <div class="form-group">
-          <label for="season-avg">打率</label>
-          <input type="text" id="season-avg" placeholder=".000" pattern="^\.\d{3}$">
+          <label for="summary-games">試合</label>
+          <input type="number" id="summary-games" placeholder="0" min="0">
         </div>
         <div class="form-group">
-          <label for="season-hr">本塁打</label>
-          <input type="number" id="season-hr" placeholder="0" min="0">
+          <label for="summary-avg">打率</label>
+          <input type="text" id="summary-avg" placeholder=".000" pattern="^\.\d{3}$">
         </div>
         <div class="form-group">
-          <label for="season-rbi">打点</label>
-          <input type="number" id="season-rbi" placeholder="0" min="0">
+          <label for="summary-runs">得点</label>
+          <input type="number" id="summary-runs" placeholder="0" min="0">
+        </div>
+      </div>
+      <div class="stats-row">
+        <div class="form-group">
+          <label for="summary-hr">本塁打</label>
+          <input type="number" id="summary-hr" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="summary-sb">盗塁</label>
+          <input type="number" id="summary-sb" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="summary-sh">犠打</label>
+          <input type="number" id="summary-sh" placeholder="0" min="0">
+        </div>
+      </div>
+      <div class="stats-row">
+        <div class="form-group">
+          <label for="summary-sf">犠飛</label>
+          <input type="number" id="summary-sf" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="summary-bb">四球</label>
+          <input type="number" id="summary-bb" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="summary-hbp">死球</label>
+          <input type="number" id="summary-hbp" placeholder="0" min="0">
+        </div>
+      </div>
+      <div class="stats-row">
+        <div class="form-group">
+          <label for="summary-so">三振</label>
+          <input type="number" id="summary-so" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="summary-gidp">併殺打</label>
+          <input type="number" id="summary-gidp" placeholder="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="summary-risp">得点圏打率</label>
+          <input type="text" id="summary-risp" placeholder=".000" pattern="^\.\d{3}$">
         </div>
       </div>
 
@@ -363,16 +405,20 @@
           <div class="cell-label">位置 ${i}</div>
           <div class="cell-inputs">
             <div class="cell-input-group">
+              <label>打率</label>
+              <input type="text" id="avg-${i}" placeholder=".000" pattern="^\\.\\d{3}$">
+            </div>
+            <div class="cell-input-group">
               <label>安打</label>
-              <input type="number" id="hits-${i}" min="0" value="0">
+              <input type="number" id="h-${i}" min="0" value="0">
             </div>
             <div class="cell-input-group">
               <label>打数</label>
-              <input type="number" id="atBats-${i}" min="0" value="0">
+              <input type="number" id="ab-${i}" min="0" value="0">
             </div>
             <div class="cell-input-group">
               <label>四死球</label>
-              <input type="number" id="walks-${i}" min="0" value="0">
+              <input type="number" id="bb_hbp-${i}" min="0" value="0">
             </div>
           </div>
         `;
@@ -451,17 +497,27 @@
 
         const data = await response.json();
 
-        // Load season stats
-        document.getElementById('season-avg').value = data.seasonStats.battingAverage;
-        document.getElementById('season-hr').value = data.seasonStats.homeRuns;
-        document.getElementById('season-rbi').value = data.seasonStats.rbi;
+        // Load summary stats (12 items)
+        document.getElementById('summary-games').value = data.summary.games;
+        document.getElementById('summary-avg').value = data.summary.avg;
+        document.getElementById('summary-runs').value = data.summary.runs;
+        document.getElementById('summary-hr').value = data.summary.hr;
+        document.getElementById('summary-sb').value = data.summary.sb;
+        document.getElementById('summary-sh').value = data.summary.sh;
+        document.getElementById('summary-sf').value = data.summary.sf;
+        document.getElementById('summary-bb').value = data.summary.bb;
+        document.getElementById('summary-hbp').value = data.summary.hbp;
+        document.getElementById('summary-so').value = data.summary.so;
+        document.getElementById('summary-gidp').value = data.summary.gidp;
+        document.getElementById('summary-risp').value = data.summary.risp;
 
         // Load heatmap data
         data.heatmap.forEach((cell, index) => {
           const position = index + 1;
-          document.getElementById(`hits-${position}`).value = cell.hits;
-          document.getElementById(`atBats-${position}`).value = cell.atBats;
-          document.getElementById(`walks-${position}`).value = cell.walks;
+          document.getElementById(`avg-${position}`).value = cell.avg;
+          document.getElementById(`h-${position}`).value = cell.h;
+          document.getElementById(`ab-${position}`).value = cell.ab;
+          document.getElementById(`bb_hbp-${position}`).value = cell.bb_hbp;
         });
 
         showMessage('データを読み込みました', 'success');
@@ -508,34 +564,62 @@
         return;
       }
 
-      // Collect data
-      const seasonAvg = document.getElementById('season-avg').value.trim();
-      const seasonHr = parseInt(document.getElementById('season-hr').value) || 0;
-      const seasonRbi = parseInt(document.getElementById('season-rbi').value) || 0;
+      // Collect summary data (12 items)
+      const summaryGames = parseInt(document.getElementById('summary-games').value) || 0;
+      const summaryAvg = document.getElementById('summary-avg').value.trim();
+      const summaryRuns = parseInt(document.getElementById('summary-runs').value) || 0;
+      const summaryHr = parseInt(document.getElementById('summary-hr').value) || 0;
+      const summarySb = parseInt(document.getElementById('summary-sb').value) || 0;
+      const summarySh = parseInt(document.getElementById('summary-sh').value) || 0;
+      const summarySf = parseInt(document.getElementById('summary-sf').value) || 0;
+      const summaryBb = parseInt(document.getElementById('summary-bb').value) || 0;
+      const summaryHbp = parseInt(document.getElementById('summary-hbp').value) || 0;
+      const summarySo = parseInt(document.getElementById('summary-so').value) || 0;
+      const summaryGidp = parseInt(document.getElementById('summary-gidp').value) || 0;
+      const summaryRisp = document.getElementById('summary-risp').value.trim();
 
-      if (!seasonAvg.match(/^\.\d{3}$/)) {
+      if (!summaryAvg.match(/^\.\d{3}$/)) {
         showMessage('打率は .000 形式で入力してください', 'error');
+        return;
+      }
+
+      if (!summaryRisp.match(/^\.\d{3}$/)) {
+        showMessage('得点圏打率は .000 形式で入力してください', 'error');
         return;
       }
 
       const heatmap = [];
       for (let i = 1; i <= 9; i++) {
+        const avg = document.getElementById(`avg-${i}`).value.trim();
+        if (!avg.match(/^\.\d{3}$/)) {
+          showMessage(`位置${i}の打率は .000 形式で入力してください`, 'error');
+          return;
+        }
         heatmap.push({
-          position: String(i),
-          hits: parseInt(document.getElementById(`hits-${i}`).value) || 0,
-          atBats: parseInt(document.getElementById(`atBats-${i}`).value) || 0,
-          walks: parseInt(document.getElementById(`walks-${i}`).value) || 0
+          avg: avg,
+          h: parseInt(document.getElementById(`h-${i}`).value) || 0,
+          ab: parseInt(document.getElementById(`ab-${i}`).value) || 0,
+          bb_hbp: parseInt(document.getElementById(`bb_hbp-${i}`).value) || 0
         });
       }
 
       const newData = {
-        seasonStats: {
-          battingAverage: seasonAvg,
-          homeRuns: seasonHr,
-          rbi: seasonRbi
+        last_updated: new Date().toISOString().split('T')[0],
+        summary: {
+          games: summaryGames,
+          avg: summaryAvg,
+          runs: summaryRuns,
+          hr: summaryHr,
+          sb: summarySb,
+          sh: summarySh,
+          sf: summarySf,
+          bb: summaryBb,
+          hbp: summaryHbp,
+          so: summarySo,
+          gidp: summaryGidp,
+          risp: summaryRisp
         },
-        heatmap: heatmap,
-        lastUpdated: new Date().toISOString()
+        heatmap: heatmap
       };
 
       // Update via GitHub API
