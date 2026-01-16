@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "create-top-images": "node scripts/create-top-images.js",
-    "optimize-top-images": "node scripts/optimize-top-images.js"
+    "optimize-top-images": "node scripts/optimize-top-images.js",
+    "filter-youtube": "node scripts/filter-youtube-by-subscribers.js"
   },
   "keywords": [
     "baseball",
