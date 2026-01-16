@@ -218,6 +218,69 @@ npm run deploy
    - 2400pxにリサイズ＋日付整理
    - macOS専用（sips使用）
 
+4. **YouTube登録者数フィルター** (`scripts/filter-youtube-by-subscribers.js`)
+   - YouTube-data.txtから登録者数が少ないチャンネルの動画を削除
+   - 詳細は下記「YouTube登録者数フィルター」セクション参照
+
+## YouTube登録者数フィルター
+
+YouTube-data.txtから、チャンネル登録者数が指定人数未満の動画エントリを自動削除するスクリプトです。
+
+### 機能
+- YouTube Data API v3を使用してチャンネル登録者数を取得
+- 登録者数が閾値未満の動画を自動削除
+- 処理前に自動バックアップ（`YouTube-data.txt.backup`）
+- チャンネルキャッシュでAPI呼び出しを最小化
+- 複数のYouTube URL形式に対応（watch, youtu.be, embed）
+
+### ローカル実行
+
+```bash
+# 基本実行（100人未満を削除）
+YOUTUBE_API_KEY=your_api_key npm run filter-youtube
+
+# 最小登録者数を指定（例: 500人未満を削除）
+YOUTUBE_API_KEY=your_api_key MIN_SUBSCRIBERS=500 npm run filter-youtube
+
+# 直接実行
+YOUTUBE_API_KEY=your_api_key node scripts/filter-youtube-by-subscribers.js
+```
+
+### GitHub Webから実行（推奨）
+
+GitHub Actions ワークフローを使用して、Webブラウザから手動実行できます。
+
+#### 初回セットアップ
+1. **YouTube API Keyを取得**
+   - [Google Cloud Console](https://console.cloud.google.com/) でプロジェクト作成
+   - YouTube Data API v3 を有効化
+   - APIキーを作成
+
+2. **GitHub Secretsに登録**
+   - リポジトリの **Settings > Secrets and variables > Actions** に移動
+   - **New repository secret** をクリック
+   - Name: `YOUTUBE_API_KEY`
+   - Secret: 取得したAPIキー
+
+#### 実行手順
+1. リポジトリの **Actions** タブに移動
+2. 左メニューから **Filter YouTube by Subscribers** を選択
+3. **Run workflow** ボタンをクリック
+4. オプションを設定:
+   - `min_subscribers`: 最小登録者数（デフォルト: 100）
+   - `dry_run`: チェックするとプレビューのみ（変更なし）
+5. **Run workflow** で実行開始
+
+#### 実行結果
+- 成功すると自動的にYouTube-data.txtが更新されコミットされます
+- ドライランモードでは変更はコミットされず、削除対象のプレビューのみ表示されます
+- ワークフローのログで詳細な処理結果を確認できます
+
+### 注意事項
+- YouTube Data API v3には1日10,000ユニットのクォータ制限があります
+- 動画1件につき約2ユニット消費（動画情報取得 + チャンネル情報取得）
+- チャンネルキャッシュにより、同じチャンネルの動画は1回のみAPI呼び出し
+
 ## ディレクトリ構造
 
 ```
