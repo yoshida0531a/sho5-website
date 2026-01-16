@@ -23,14 +23,25 @@ const MIN_SUBSCRIBERS = 100;
 
 // ファイルパス
 const DATA_FILE = path.join(__dirname, '..', 'YouTube-data.txt');
-const OUTPUT_FILE = path.join(__dirname, '..', 'YouTube-data.txt');
+const TEMP_OUTPUT_FILE = path.join(__dirname, '..', 'YouTube-data.txt.temp');
 const BACKUP_FILE = path.join(__dirname, '..', 'YouTube-data.txt.backup');
+
+// API Rate limiting delay (ms)
+const API_DELAY_MS = 250;
 
 async function getVideoDetails(videoId) {
     const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet&id=${videoId}&key=${YOUTUBE_API_KEY}`;
     try {
         const response = await fetch(url);
+        if (!response.ok) {
+            console.error(`Video API error: HTTP ${response.status}`);
+            return null;
+        }
         const data = await response.json();
+        if (data.error) {
+            console.error(`Video API error: ${data.error.message}`);
+            return null;
+        }
         if (data.items && data.items.length > 0) {
             return data.items[0].snippet.channelId;
         }
@@ -44,7 +55,15 @@ async function getChannelSubscribers(channelId) {
     const url = `https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${channelId}&key=${YOUTUBE_API_KEY}`;
     try {
         const response = await fetch(url);
+        if (!response.ok) {
+            console.error(`Channel API error: HTTP ${response.status}`);
+            return null;
+        }
         const data = await response.json();
+        if (data.error) {
+            console.error(`Channel API error: ${data.error.message}`);
+            return null;
+        }
         if (data.items && data.items.length > 0) {
             return parseInt(data.items[0].statistics.subscriberCount, 10);
         }
@@ -55,8 +74,23 @@ async function getChannelSubscribers(channelId) {
 }
 
 function extractVideoId(url) {
-    const match = url.match(/[?&]v=([^&]+)/);
-    return match ? match[1] : null;
+    // Support multiple YouTube URL formats
+    // Standard: https://www.youtube.com/watch?v=VIDEO_ID
+    // Short: https://youtu.be/VIDEO_ID
+    // Embed: https://www.youtube.com/embed/VIDEO_ID
+    const patterns = [
+        /[?&]v=([^&]+)/,           // youtube.com/watch?v=
+        /youtu\.be\/([^?&]+)/,     // youtu.be/
+        /embed\/([^?&]+)/          // youtube.com/embed/
+    ];
+    
+    for (const pattern of patterns) {
+        const match = url.match(pattern);
+        if (match) {
+            return match[1];
+        }
+    }
+    return null;
 }
 
 async function main() {
@@ -118,8 +152,8 @@ async function main() {
             removedVideos.push({ ...video, subscriberCount });
         }
 
-        // APIレート制限を避けるため少し待機
-        await new Promise(resolve => setTimeout(resolve, 100));
+        // APIレート制限を避けるため待機
+        await new Promise(resolve => setTimeout(resolve, API_DELAY_MS));
     }
 
     console.log('\n=== 結果 ===');
@@ -133,9 +167,10 @@ async function main() {
         });
     }
 
-    // 結果を保存
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(filteredVideos, null, 2));
-    console.log(`\n結果を ${OUTPUT_FILE} に保存しました。`);
+    // 一時ファイルに結果を保存し、成功後に元ファイルを置き換え
+    fs.writeFileSync(TEMP_OUTPUT_FILE, JSON.stringify(filteredVideos, null, 2));
+    fs.renameSync(TEMP_OUTPUT_FILE, DATA_FILE);
+    console.log(`\n結果を ${DATA_FILE} に保存しました。`);
 }
 
 main().catch(console.error);
