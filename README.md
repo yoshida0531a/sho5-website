@@ -1,4 +1,4 @@
-# Shogo Fun Site - 谷端将伍公式サイト
+# Shogo Fun Site - 谷端将伍応援サイト
 
 谷端将伍の公式サイトのソースコード（阪神タイガース2024年ドラフト2位）
 
@@ -263,13 +263,16 @@ GitHub Actions ワークフローを使用して、Webブラウザから手動�
    - Secret: 取得したAPIキー
 
 #### 実行手順
-1. リポジトリの **Actions** タブに移動
-2. 左メニューから **Filter YouTube by Subscribers** を選択
-3. **Run workflow** ボタンをクリック
-4. オプションを設定:
+1.（事前作業）GCPにて、YoutubeAPIのドメインホワイトリストの制限（*.chjqnfv62h.workers.dev）をやめ、
+Githubからも実行できるようにする
+2. リポジトリの **Actions** タブに移動
+3. 左メニューから **Filter YouTube by Subscribers** を選択
+4. **Run workflow** ボタンをクリック
+5. オプションを設定:
    - `min_subscribers`: 最小登録者数（デフォルト: 100）
    - `dry_run`: チェックするとプレビューのみ（変更なし）
-5. **Run workflow** で実行開始
+6. **Run workflow** で実行開始
+7. （事後作業）GCPにて、YoutubeAPIのドメインホワイトリストの制限（*.chjqnfv62h.workers.dev）を戻しておく
 
 #### 実行結果
 - 成功すると自動的にYouTube-data.txtが更新されコミットされます
