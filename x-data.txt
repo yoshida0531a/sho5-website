@@ -9988,5 +9988,137 @@
     "userName": "ehuzi_teya",
     "tweetUrl": "https://twitter.com/ehuzi_teya/status/2011868605093462194",
     "createdAt": "January 16, 2026 at 03:30AM"
+  },
+  {
+    "text": "@hikarit6 多分、わざわざ松山断って(想像)まで、星稜で始動したのは谷端くんに頼まれたのかなって感じもするけど、もう学校も始まってますもんね。\n実は腰の具合が芳しくないってオチもあるんだろうか…。",
+    "userName": "chains07091550",
+    "tweetUrl": "https://twitter.com/chains07091550/status/2011952972629221645",
+    "createdAt": "January 16, 2026 at 09:05AM"
+  },
+  {
+    "text": "@kousuke083006 流石に今オフ阿部居なくなるから榊原で確定だと思うけどそれにしても立石谷端両方スルーして両方阪神に獲られるとは思わんかった。あいつが1番阪神のスパイしてるだろ。",
+    "userName": "Jr55182821Jr",
+    "tweetUrl": "https://twitter.com/Jr55182821Jr/status/2011974837124940122",
+    "createdAt": "January 16, 2026 at 10:32AM"
+  },
+  {
+    "text": "セリーグの取るに足らないカスどもを近本中野森下佐藤大山で蹂躙しつつ、立石谷端髙寺中川山田前川あたりの次世代のコアになりうる選手たちを育成できる阪神羨ましすぎる",
+    "userName": "yb_lele88",
+    "tweetUrl": "https://twitter.com/yb_lele88/status/2011981891768070190",
+    "createdAt": "January 16, 2026 at 11:00AM"
+  },
+  {
+    "text": "阪神 vs 侍ジャパン\n\n1 (8) 近本\n2 (5) 立石\n3 (4) 中野\n4 (3) 大山\n5 (6) ディベイニー\n6 (7) 谷端\n7 (D) 濵田\n8 (9) 岡城\n9 (2) 伏見",
+    "userName": "p1y19ciwgg61650",
+    "tweetUrl": "https://twitter.com/p1y19ciwgg61650/status/2012001907875987553",
+    "createdAt": "January 16, 2026 at 12:20PM"
+  },
+  {
+    "text": "佐藤森下が選ばれて1番テンション上がる事実は壮行試合で彼らが阪神の敵になるのでその穴に必然的に谷端立石が入り姿を見れる事",
+    "userName": "han_kusuu",
+    "tweetUrl": "https://twitter.com/han_kusuu/status/2012005020552880437",
+    "createdAt": "January 16, 2026 at 12:32PM"
+  },
+  {
+    "text": "阪神\nA\n1.(中)近本\n2.(二)中野\n3.(右)森下\n4.(三)佐藤\n5.(一)大山\n6.(左)立石\n7.(遊)ディベイニー\n8.(捕)坂本\n\nB\n1.(中)岡城\n2.(二)熊谷\n3.(一)前川\n4.(三)谷端\n5.(右)濱田\n6.(左)中川\n7.(遊)小幡\n8.(捕)伏見\nおーん https://t.co/mNZUwo1CAx",
+    "userName": "daring_heaven27",
+    "tweetUrl": "https://twitter.com/daring_heaven27/status/2012012733676601682",
+    "createdAt": "January 16, 2026 at 01:03PM"
+  },
+  {
+    "text": "#阪神タイガース の補強が的確すぎる件\n\n〈WBC選出→新入団〉\n石井　大智→モレッタ（リリーフ右腕）\n坂本誠志郎→伏見寅威（好リード捕手）\n佐藤　輝明→立石正広・谷端将伍（スラッガー三塁手）\n森下　翔太→岡城快生・濱田太貴（右打ち外野手）\n\n不在の間の戦いぶりが今季最大の見ものかもしれん https://t.co/w3j7ruJnNA",
+    "userName": "pxIS8XmsD6UDGoI",
+    "tweetUrl": "https://twitter.com/pxIS8XmsD6UDGoI/status/2012015357591224437",
+    "createdAt": "January 16, 2026 at 01:13PM"
+  },
+  {
+    "text": "輝明 森下 誠志郎 ほんまにおめでとう\n阪神ちゃんはオープン戦どうするかよ\n捕手 三塁 右翼が空いた\n・捕手は梅野 伏見で行くのか\n・立石どこ守らすのか\n・谷端あたりも出番ありそうか",
+    "userName": "torauma_0609",
+    "tweetUrl": "https://twitter.com/torauma_0609/status/2012017656724144461",
+    "createdAt": "January 16, 2026 at 01:22PM"
+  },
+  {
+    "text": "佐藤森下がいない阪神のオープン戦と壮行試合のスタメンどうなるんだろ？笑\n立石をレフトで使うなら慣れさせたいから空くのはサードとライト\nライトはともかくサードで使いたい人いなくないか？\n谷端熊谷木浪とかになるんかな？",
+    "userName": "tigers9046300",
+    "tweetUrl": "https://twitter.com/tigers9046300/status/2012019830527004961",
+    "createdAt": "January 16, 2026 at 01:31PM"
+  },
+  {
+    "text": "壮行試合\n\n1中 近本\n2二 中野\n3指 中川\n4三 立石\n5一 大山\n6遊 ディバニー\n7右 谷端  \n8左 高寺\n9捕 伏見\n\n佐藤森下坂本抜きの阪神打線より弱いチーム普通にありそう",
+    "userName": "mahonakau",
+    "tweetUrl": "https://twitter.com/mahonakau/status/2012028325536116822",
+    "createdAt": "January 16, 2026 at 02:05PM"
+  },
+  {
+    "text": "1/16  SGL\n阪神タイガース　ドラフト育成1位\n神宮僚介くん\n阪神タイガース　ドラフト2位\n谷端将伍くん https://t.co/3gHdlGroS2",
+    "userName": "piano27426239",
+    "tweetUrl": "https://twitter.com/piano27426239/status/2012082053739864275",
+    "createdAt": "January 16, 2026 at 05:38PM"
+  },
+  {
+    "text": "テル、もりしー、誠志郎さん、石井さんがWBC後で疲れている時は右京、高寺、立石、谷端らに頑張ってほしい\n日本代表と阪神の練習試合では、また才木くんに投げてほしい\n＃阪神タイガース",
+    "userName": "68Mitu",
+    "tweetUrl": "https://twitter.com/68Mitu/status/2012094401980641317",
+    "createdAt": "January 16, 2026 at 06:27PM"
+  },
+  {
+    "text": "阪神のルーキーで1軍キャンプスタートは立石谷端くらいかな？楽しみやなぁ～\n#hanshin #tigers #阪神タイガース",
+    "userName": "tora_tora_yakyu",
+    "tweetUrl": "https://twitter.com/tora_tora_yakyu/status/2012094473250173361",
+    "createdAt": "January 16, 2026 at 06:27PM"
+  },
+  {
+    "text": "次回のゲストは立石正広選手と谷端将伍選手 https://t.co/kQcp8hkUyv",
+    "userName": "kazenoraby",
+    "tweetUrl": "https://twitter.com/kazenoraby/status/2012130357613900274",
+    "createdAt": "January 16, 2026 at 08:50PM"
+  },
+  {
+    "text": "阪神 強化試合スタメン予想\n\n1（中）近本光司\n2（二）中野拓夢\n3（三）立石正広\n4（遊）ディベイニー\n5（一）大山悠輔\n6（左）前川右京\n7（右）コンスエグラ\n8（指）谷端将伍\n9（捕）伏見寅威\n\n大山5番は明言してるという事で。\n立石を佐藤いない期間でどこを守らすのか。",
+    "userName": "Qu2R56",
+    "tweetUrl": "https://twitter.com/Qu2R56/status/2012141774148657494",
+    "createdAt": "January 16, 2026 at 09:35PM"
+  },
+  {
+    "text": "WBC強化試合阪神スタメン予想\n\n1（中）近本\n2（二）中野\n3（三）立石\n4（一）大山\n5（遊）ディベイニー\n6（左）前川\n7（指）谷端\n8（右）高寺\n9（捕）伏見",
+    "userName": "VaOG5pE7KI38313",
+    "tweetUrl": "https://twitter.com/VaOG5pE7KI38313/status/2012197972105183338",
+    "createdAt": "January 17, 2026 at 01:19AM"
+  },
+  {
+    "text": "【阪神】虎のルーキーズも将来的なＷＢＣ出場に意欲　Ｄ２位・谷端将伍「日本を代表して戦いたい」\nhttps://t.co/N60aMl0ynG",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2012253720289988873",
+    "createdAt": "January 17, 2026 at 05:00AM"
+  },
+  {
+    "text": "【阪神】虎のルーキーズも将来的なＷＢＣ出場に意欲　Ｄ２位・谷端将伍「日本を代表して戦いたい」\n記事はこちら▼\nhttps://t.co/Q4oakQ377y",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2012253889664352711",
+    "createdAt": "January 17, 2026 at 05:01AM"
+  },
+  {
+    "text": "【阪神】虎のルーキーズも将来的なＷＢＣ出場に意欲　Ｄ２位・谷端将伍「日本を代表して戦いたい」\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/ufrIoRGuYd",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2012253965442753015",
+    "createdAt": "January 17, 2026 at 05:01AM"
+  },
+  {
+    "text": "【阪神】虎のルーキーズも将来的なＷＢＣ出場に意欲　Ｄ２位・谷端将伍「日本を代表して戦いたい」 - スポーツ報知 https://t.co/yJssBJrthd",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2012255315635622229",
+    "createdAt": "January 17, 2026 at 05:07AM"
+  },
+  {
+    "text": "【阪神】虎のルーキーズも将来的なＷＢＣ出場に意欲　Ｄ２位・谷端将伍「日本を代表して戦いたい」（スポーツ報知） https://t.co/LHcXTDJAA9",
+    "userName": "L2mCgo2IlDKCaQI",
+    "tweetUrl": "https://twitter.com/L2mCgo2IlDKCaQI/status/2012257660553605388",
+    "createdAt": "January 17, 2026 at 05:16AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍が短い時間で先輩たちから吸収「もちろん打撃は一番見たい」宜野座Ｃ内定 https://t.co/NkNixvabeI #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2012260483244454381",
+    "createdAt": "January 17, 2026 at 05:27AM"
   }
 ]
