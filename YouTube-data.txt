@@ -910,5 +910,69 @@
     "publishedAt": "January 14, 2026 at 08:31AM",
     "description": "野球の話題を提供しております。 コメント・チャンネル登録・高評価お願い致します。 声はVOICEVOXを利用しています。",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、衝撃吸収！劇的展開、状況一変？速報、歴史的判明！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=h9QdhgLCTxQ",
+    "publishedAt": "January 17, 2026 at 07:07AM",
+    "description": "え、阪神の新人が先輩たちの背中を追ってるってマジ！？   日大の谷端将伍選手（21）、ドラフト2位で入団したばかりなのに、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "木浪 小幡もうかうかできない！新人谷端が1軍キャンプへ！！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Z_T1w9ldV1I",
+    "publishedAt": "January 17, 2026 at 01:12PM",
+    "description": "歩く野球名鑑☆ instagram https://www.instagram.com/yakyumeikan_8 TikTok https://www.tiktok.com/@yakyumeikan_8 Twitter ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.17阪神新人合同自主トレ  キャッチボール  谷端将伍選手、立石正広選手、山﨑照英選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=IxDXlfdkZW4",
+    "publishedAt": "January 17, 2026 at 06:23PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.17阪神新人合同自主トレ  ベースランニング  早瀬朔選手、谷端将伍選手、神宮僚介選手、立石正広選手、岡城快生選手、能登嵩都選手、山﨑照英選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=sKB9nuwRje8",
+    "publishedAt": "January 17, 2026 at 06:04PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.17阪神新人合同自主トレ  アップ①    立石正広選手、谷端将伍選手、岡城快生選手、早瀬朔選手、能登嵩都選手、神宮僚介選手、山﨑照英選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QTkL0-CJwBc",
+    "publishedAt": "January 17, 2026 at 05:05PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.17阪神新人合同自主トレ  アップ②     立石正広選手、谷端将伍選手、岡城快生選手、早瀬朔選手、能登嵩都選手、神宮僚介選手、山﨑照英選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=nkTzSVyEui0",
+    "publishedAt": "January 17, 2026 at 05:13PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.17阪神新人合同自主トレ   内野ノック   谷端将伍選手、早瀬朔選手、岡城快生選手、山﨑照英選手、能登嵩都選手、神宮僚介選手、",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yEpKWTBt56o",
+    "publishedAt": "January 17, 2026 at 07:24PM",
+    "description": "立石正広選手はノックはお休み.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.17阪神新人合同自主トレ   外野ノック   谷端将伍選手、能登嵩都選手、山﨑照英選手、岡城快生選手、早瀬朔選手、神宮僚介選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ffS28lranhc",
+    "publishedAt": "January 17, 2026 at 07:46PM",
+    "description": "立石正広選手はノックはお休み.",
+    "keyword": "谷端 阪神"
   }
 ]
