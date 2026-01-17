@@ -10120,5 +10120,167 @@
     "userName": "horai551horai",
     "tweetUrl": "https://twitter.com/horai551horai/status/2012260483244454381",
     "createdAt": "January 17, 2026 at 05:27AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　森下と佐藤輝の侍コンビに熱視線「姿勢であったりとか見て学びたい」（スポニチアネックス） https://t.co/QafoPjZTAc",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2012282052280721879",
+    "createdAt": "January 17, 2026 at 06:53AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　森下と佐藤輝の侍コンビに熱視線「姿勢であったりとか見て学びたい」 - スポニチ Sponichi Annex 野球 https://t.co/bRsFwthJmP",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2012286147381092671",
+    "createdAt": "January 17, 2026 at 07:09AM"
+  },
+  {
+    "text": "阪神D2位・谷端、春季キャンプで森下に「追い込まれたときのアプローチを聞いてみたい」 - サンスポ https://t.co/lLOpwJUBXF @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2012286433059553539",
+    "createdAt": "January 17, 2026 at 07:10AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が短い時間で先輩たちから吸収「もちろん打撃は一番見たい」宜野座Ｃ内定 https://t.co/Yt36V8bpsV",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2012297528604246028",
+    "createdAt": "January 17, 2026 at 07:54AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　森下と佐藤輝の侍コンビに熱視線「姿勢であったりとか見て学びたい」 - スポニチ Sponichi Annex 野球 https://t.co/dVq8uqpNmv",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2012305718553231854",
+    "createdAt": "January 17, 2026 at 08:27AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　“超短期・侍塾”の入門だ！佐藤輝＆森下から学ぶ　「打撃、姿勢を見たい」春季キャンプチャンスは２週間\nhttps://t.co/KlAztQKkJ8 #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2012307930729881704",
+    "createdAt": "January 17, 2026 at 08:36AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が短い時間で先輩たちから吸収「もちろん打撃は一番見たい」宜野座Ｃ内定 https://t.co/Yt36V8aRDn",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2012314230209356084",
+    "createdAt": "January 17, 2026 at 09:01AM"
+  },
+  {
+    "text": "今季や来季や今後での阪神タイガースでの公式戦でのペラントレースや交流戦での野手陣らの守備と守備での送球と返球に関して、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手に対して、野球の神と頭脳の神と目線の神と人間の神と歴史の神と未来予知の神は、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2012318255516401928",
+    "createdAt": "January 17, 2026 at 09:17AM"
+  },
+  {
+    "text": "米津煌太（③大垣日大）\nお誕生日おめでとうございます🎂\n\n1年次から谷端将伍と3、4番を組んで本塁打など華々しいデビュー✨\nさらにU23代表松山合宿に招集！\nしかし、2年次は苦しい1年😣\nそれでも昨秋終盤には当たりが戻り始めて復調気配！\n3年になる今季は、日大打線の核になれ🔥\n頑張れ！ https://t.co/NcqbMuNCrD https://t.co/ZJ24xyCIkX",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/2012319731315827185",
+    "createdAt": "January 17, 2026 at 09:23AM"
+  },
+  {
+    "text": "阪神D2位・谷端、春季キャンプで森下に「追い込まれたときのアプローチを聞いてみたい」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/QvPlj0GGgP",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2012328672884322523",
+    "createdAt": "January 17, 2026 at 09:58AM"
+  },
+  {
+    "text": "立石正広、谷端将伍グランド整備なう https://t.co/oAGWx54rRL",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2012336826514555187",
+    "createdAt": "January 17, 2026 at 10:31AM"
+  },
+  {
+    "text": "阪神D2位・谷端、春季キャンプで森下に「追い込まれたときのアプローチを聞いてみたい」(サンケイスポーツ)\n\nhttps://t.co/R3KfJOtVmX",
+    "userName": "gyuity1",
+    "tweetUrl": "https://twitter.com/gyuity1/status/2012369484712194163",
+    "createdAt": "January 17, 2026 at 12:40PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2谷端将伍　森下と佐藤輝の侍コンビに熱視線「姿勢であったりとか見て学びたい」 - スポニチ Sponichi Annex 野球 https://t.co/F6h8xZ4KzA",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2012369936040260068",
+    "createdAt": "January 17, 2026 at 12:42PM"
+  },
+  {
+    "text": "WBCの強化試合では阪神はサトテル不在のサードの所に立石や谷端、森下不在のライトに岡城などのルーキーを起用できるのが羨ましいな。\nオリは東に投げさせて覚醒のきっかけを作ったように佐藤一磨辺りを投げさせるでも良いと思う。",
+    "userName": "Ori_44134050",
+    "tweetUrl": "https://twitter.com/Ori_44134050/status/2012373053238386837",
+    "createdAt": "January 17, 2026 at 12:54PM"
+  },
+  {
+    "text": "谷端将伍は宜野座🏟️内定かな？",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2012375176932098338",
+    "createdAt": "January 17, 2026 at 01:03PM"
+  },
+  {
+    "text": "相手走者の動きに基づいて、ノーバンやワンバンドでの守備での送球や返球である事。であり、その方が、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手の守備や守備での送球や返球にとって、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2012375519644491920",
+    "createdAt": "January 17, 2026 at 01:04PM"
+  },
+  {
+    "text": "阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手に対して、応援と鼓舞な気持ちで言うと思う。＊今季や来季や今後での公式戦でのペラントレースや交流戦含め",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2012382577181544954",
+    "createdAt": "January 17, 2026 at 01:32PM"
+  },
+  {
+    "text": "今季や来季や今後での阪神タイガースでの公式戦でのペラントレースと交流戦での阪神タイガースの選手らの体での体調管理に関して、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手に対して、野球の神と精神の神と頭脳の神と目線の神と人間の神と歴史の神と未来予知の神は、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2012385557171572955",
+    "createdAt": "January 17, 2026 at 01:44PM"
+  },
+  {
+    "text": "②体での調子が悪くなった場合での体調管理は、選手自身の動きが良くなるまで、ある程度、サウナへ通うべきである事。であり、その方が、阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手のプレーにとって、",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2012395856498950278",
+    "createdAt": "January 17, 2026 at 02:25PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が短い時間で先輩たちから吸収「もちろん打撃は一番見たい」宜野座Ｃ内定(日刊スポーツ)\n\nhttps://t.co/WA7RLJCQMK",
+    "userName": "heno_lai",
+    "tweetUrl": "https://twitter.com/heno_lai/status/2012414133413597456",
+    "createdAt": "January 17, 2026 at 03:38PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が短い時間で先輩たちから吸収「もちろん打撃は一番見たい」宜野座Ｃ内定 https://t.co/gEmQZa0Ewg",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/2012454805470367792",
+    "createdAt": "January 17, 2026 at 06:19PM"
+  },
+  {
+    "text": "立石と谷端は故障しがちフォーム改造で自滅しがち。\n森下きゅんかサトテルが負傷離脱すれば阪神はムエンゴ打線と化すだろう",
+    "userName": "yamaasasuibun",
+    "tweetUrl": "https://twitter.com/yamaasasuibun/status/2012490027935420639",
+    "createdAt": "January 17, 2026 at 08:39PM"
+  },
+  {
+    "text": "阪神タイガースの立石正広選手と谷端将伍選手と岡城快生選手と山﨑照英選手に対して、応援と鼓舞な気持ちで言うと思う。＊今季や来季や今後での公式戦でのペラントレースと交流戦含め",
+    "userName": "sYMG4iC7nhFwZuZ",
+    "tweetUrl": "https://twitter.com/sYMG4iC7nhFwZuZ/status/2012534453315285310",
+    "createdAt": "January 17, 2026 at 11:36PM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　森下と佐藤輝の侍コンビに熱視線「姿勢であったりとか見て学びたい」(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/o6fuDg3i8m",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2012601089732771904",
+    "createdAt": "January 18, 2026 at 04:01AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】阪神大震災から31年…石川で被災のドラ２谷端将伍「応援してくれる人のためにも…」 https://t.co/1VKrW9vGIR #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2012619053928489292",
+    "createdAt": "January 18, 2026 at 05:12AM"
+  },
+  {
+    "text": "石川出身の阪神ドラ2・谷端将伍“故郷に光を”阪神大震災から31年「1・17」に全力プレーの誓い - スポニチ Sponichi Annex 野球 https://t.co/6Ux20MJaYq",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2012627143642292727",
+    "createdAt": "January 18, 2026 at 05:44AM"
+  },
+  {
+    "text": "【阪神】阪神大震災から31年…石川で被災のドラ２谷端将伍「応援してくれる人のためにも…」 https://t.co/uWIqxRro7n",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2012630034284957991",
+    "createdAt": "January 18, 2026 at 05:56AM"
   }
 ]
