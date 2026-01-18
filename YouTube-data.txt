@@ -974,5 +974,21 @@
     "publishedAt": "January 17, 2026 at 07:46PM",
     "description": "立石正広選手はノックはお休み.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！谷端将伍、歴史的逆転判明！阪神スター激突、状況一変？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=F-wWyGIVXoE",
+    "publishedAt": "January 18, 2026 at 07:24AM",
+    "description": "阪神タイガース、谷端将伍選手の心に響く言葉…野球ができる「当たり前」じゃない。能登半島地震や阪神・淡路大震災を経験 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚡️谷端将伍が阪神大震災を乗り越えた真実の心！感動の全力プレー宣言！阪神の“怪物”の新たな武器が目覚めた！その力に震えろ！ #阪神タイガース #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=o82CWS7-3HE",
+    "publishedAt": "January 18, 2026 at 07:49PM",
+    "description": "阪神・谷端将伍選手、阪神大震災犠牲者を追悼し新たな決意を誓う チャンネル登録して、谷端選手の成長を見守ろう！   #阪神 ...",
+    "keyword": "谷端 阪神"
   }
 ]
