@@ -10408,5 +10408,41 @@
     "userName": "fountainenink24",
     "tweetUrl": "https://twitter.com/fountainenink24/status/2012950030357876795",
     "createdAt": "January 19, 2026 at 03:07AM"
+  },
+  {
+    "text": "谷端将伍の直筆サイン色紙か…本人から直接ってマジ羨ましすぎるなあ。\n\n谷端将伍 阪神タイガース 直筆サイン  ドラフト 2位 立石正広 野球 日本大学\nhttps://t.co/rbatLOZhJO",
+    "userName": "PUrRZQs90bsE",
+    "tweetUrl": "https://twitter.com/PUrRZQs90bsE/status/2013020168562082098",
+    "createdAt": "January 19, 2026 at 07:46AM"
+  },
+  {
+    "text": "母が10万円も義援金を日本赤十字社に寄付したので能登半島地震のことは忘れないようにしています。1月1日午後4時10分には黙祷をしました。阪神D2位・谷端将伍、能登半島地震を経験し「野球ができていることは当たり前じゃない」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/H9ZweHgY2N",
+    "userName": "uedon1103",
+    "tweetUrl": "https://twitter.com/uedon1103/status/2013040248893350168",
+    "createdAt": "January 19, 2026 at 09:06AM"
+  },
+  {
+    "text": "今年の谷端でDH補強完了とは球団は考えていないみたいだから、前川は今年本当に頑張らないと不味いぞ。\n\n阪神が来季採用ＤＨ対策に今秋ドラフト一芸打者狙う　注目は大商大・春山、守備面課題もリーグ通算９本塁打のスラッガー/阪神タイガース/デイリースポーツ online https://t.co/qT0AnfsmI0",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2013044664044011775",
+    "createdAt": "January 19, 2026 at 09:23AM"
+  },
+  {
+    "text": "1/19 SGL\n笑顔の谷端将伍くん☺️ https://t.co/nqVpNRHMH2",
+    "userName": "piano27426239",
+    "tweetUrl": "https://twitter.com/piano27426239/status/2013187547997118705",
+    "createdAt": "January 19, 2026 at 06:51PM"
+  },
+  {
+    "text": "谷端将伍選手が、自身が遭遇した能登半島地震について語りました🏡\n\n『石川県の実家に帰省していた時でした。すごく揺れて驚きました。親戚の家は倒壊しました。こうして野球ができていることは当たり前じゃない。感謝の気持ちを持って、一日一日を大切に生きていきたいです…』🥹\n\n#阪神タイガース https://t.co/YoE6Vfqy9o",
+    "userName": "HVK5xGOubZgreie",
+    "tweetUrl": "https://twitter.com/HVK5xGOubZgreie/status/2013220625318629541",
+    "createdAt": "January 19, 2026 at 09:02PM"
+  },
+  {
+    "text": "￼\nお初にお目にかかります\n谷端将伍選手⚾️\n\nケガなく頑張ってください☺️\n\n2026.01.17  SGL https://t.co/6fLq0x4R5O",
+    "userName": "springholiday_",
+    "tweetUrl": "https://twitter.com/springholiday_/status/2013242389402394811",
+    "createdAt": "January 19, 2026 at 10:29PM"
   }
 ]
