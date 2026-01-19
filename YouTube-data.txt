@@ -990,5 +990,13 @@
     "publishedAt": "January 18, 2026 at 07:49PM",
     "description": "阪神・谷端将伍選手、阪神大震災犠牲者を追悼し新たな決意を誓う チャンネル登録して、谷端選手の成長を見守ろう！   #阪神 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2026年阪神新人合同自主トレ】      #阪神タイガース   #立石正広 選手、#谷端将伍 選手、#早瀬朔 選手、#岡城快生 選手、#山﨑照英 選手、#能登嵩都 選手、#神宮僚介 選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=3jvfphrtbRE",
+    "publishedAt": "January 19, 2026 at 10:27PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
