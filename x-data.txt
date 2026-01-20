@@ -10444,5 +10444,59 @@
     "userName": "springholiday_",
     "tweetUrl": "https://twitter.com/springholiday_/status/2013242389402394811",
     "createdAt": "January 19, 2026 at 10:29PM"
+  },
+  {
+    "text": "立石がいなくなると阪神は谷端次第何じゃないか？",
+    "userName": "84ys_PHI",
+    "tweetUrl": "https://twitter.com/84ys_PHI/status/2013447528642159002",
+    "createdAt": "January 20, 2026 at 12:04PM"
+  },
+  {
+    "text": "立石肉離れか〜\n阪神対侍の時に可能ならテル、森下、誠志郎とDHのところを3塁立石、DH谷端、ライト岡城、捕手榮枝でみたいんだけど、立石と榮枝間に合ってくれ･*･:≡(　ε:)",
+    "userName": "sara_plus",
+    "tweetUrl": "https://twitter.com/sara_plus/status/2013458086350950827",
+    "createdAt": "January 20, 2026 at 12:46PM"
+  },
+  {
+    "text": "@Tigers_140609 ドラ1肉離れとか阪神あるあるすぎて草 でもこれで谷端の出番増えるやん！ 立石は焦らず治して、谷端はレフト奪え！！（無理やりポジティブ）",
+    "userName": "musen9527",
+    "tweetUrl": "https://twitter.com/musen9527/status/2013469108252115027",
+    "createdAt": "January 20, 2026 at 01:30PM"
+  },
+  {
+    "text": "WBC終わるまでの阪神打線\n\n中　近本　岡城\n二　中野　木浪　高寺\n右　小野寺　豊田\n三　谷端:固定\n一　大山　小野寺\n左　前川　濱田\n遊　デバニー　小幡　熊谷\n指　井坪　\n捕　中川　榮枝　町田　嶋村　伏見\n\n谷端は守備位置変えながら4番で固定して小野寺、岡城、豊田を積極起用してほしい",
+    "userName": "gaddem5525",
+    "tweetUrl": "https://twitter.com/gaddem5525/status/2013476572444139745",
+    "createdAt": "January 20, 2026 at 01:59PM"
+  },
+  {
+    "text": "阪神タイガース\n\n谷端将伍（星稜高-日本大）の出番が増えそうですね。 https://t.co/nVonTthT3L",
+    "userName": "seiryo_fan",
+    "tweetUrl": "https://twitter.com/seiryo_fan/status/2013479857997652123",
+    "createdAt": "January 20, 2026 at 02:13PM"
+  },
+  {
+    "text": "まぁ大学時代から故障体質と疑われていたが、仮にそうでないとしても内野主戦の選手を不慣れな外野で練習させたらこうなったという可能性もあるよね。\n\n村上を外野で練習させたらまさに同じ事が起きたもの。\n\nドラフト大目玉なだけに御披露目は先かもしれないが谷端からしたらチャンスだね。 https://t.co/ltPzZpHiLH",
+    "userName": "tb_total500",
+    "tweetUrl": "https://twitter.com/tb_total500/status/2013485899628322991",
+    "createdAt": "January 20, 2026 at 02:37PM"
+  },
+  {
+    "text": "WBC終わるまでの阪神打線\n\n中　近本　岡城\n二　中野　木浪　高寺\n右　小野寺　豊田　濱田\n三　谷端:固定\n一　大山\n左　前川　小野寺\n遊　デバニー　小幡　熊谷\n指　井坪　山田　百崎\n捕　中川　榮枝　町田　嶋村　伏見\n\n谷端は守備位置変えながら4番で固定して小野寺、岡城、豊田を積極起用してほしい",
+    "userName": "gaddem5525",
+    "tweetUrl": "https://twitter.com/gaddem5525/status/2013512776119922745",
+    "createdAt": "January 20, 2026 at 04:23PM"
+  },
+  {
+    "text": "【阪神・谷端将伍　立石正広の出遅れに胸中複雑】\n\n大学時代から親友でもある2人だが、厳しいプロの世界では同じ大卒野手のライバル。親友の離脱という現実を受け止めながら、静かに自分の立ち位置と向き合っていく。\n\n#谷端将伍\nhttps://t.co/Kk5zFFrtII",
+    "userName": "X9LzSd1Orh78942",
+    "tweetUrl": "https://twitter.com/X9LzSd1Orh78942/status/2013711029407043888",
+    "createdAt": "January 21, 2026 at 05:31AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍「2人で開幕1軍で活躍したい」ドラ1立石へエール - スポニチ Sponichi Annex 野球 https://t.co/Ak4KNPpzmZ",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2013712687801491611",
+    "createdAt": "January 21, 2026 at 05:38AM"
   }
 ]
