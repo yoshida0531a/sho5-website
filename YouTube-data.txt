@@ -998,5 +998,37 @@
     "publishedAt": "January 19, 2026 at 10:27PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "衝撃速報！立石の怪我判明、谷端将伍の劇的展開とスター激突！歴史的状況一変？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=iRenJku1n68",
+    "publishedAt": "January 21, 2026 at 07:21AM",
+    "description": "衝撃！阪神タイガース、ドラフト1位立石選手が怪我で離脱…   でも、ドラフト2位の谷端将伍選手は、そんな仲間のために熱い ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍、立石正広が離脱で「やっぱり心配という気持ちもあります」胸中複雑「ここで差をつけるという考え方も」【野球】【反応】【考察】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=9j6TWKkCNEE",
+    "publishedAt": "January 21, 2026 at 12:09PM",
+    "description": "チャンネル登録はこちら▽ https://www.youtube.com/@baseball_reaction #谷端将伍 #立石正広 #胸中複雑 #阪神タイガース #野球 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【≪2026ルーキー/2025阪神タイガースドラフト2位/フリーバッティング≫開幕一軍を狙う！戦国東都で2季連続首位打者&amp;ベスト9に4度輝いた好守・強打の内野手！】日本大・谷端 将伍(星稜高)",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=iC-l8QvnlDM",
+    "publishedAt": "January 21, 2026 at 04:41PM",
+    "description": "大学野球 #侍ジャパン大学代表 #阪神タイガース #プロ野球 #日本大学 #星稜 2024/12/01 侍ジャパン大学代表候補選手強化合宿2日 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "虎の未来の主砲、立石&amp;谷端の豪快フリーバッティング",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UFzx3V0MRPs",
+    "publishedAt": "January 21, 2026 at 07:30PM",
+    "description": "阪神 #タイガース #立石 #谷端 #ドラフト #プロ野球 阪神ドラフト1&2位のスラッガーコンビのフリーバッティング動画をお裾分け.",
+    "keyword": "谷端 阪神"
   }
 ]
