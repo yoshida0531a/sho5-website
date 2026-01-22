@@ -1030,5 +1030,69 @@
     "publishedAt": "January 21, 2026 at 07:30PM",
     "description": "阪神 #タイガース #立石 #谷端 #ドラフト #プロ野球 阪神ドラフト1&2位のスラッガーコンビのフリーバッティング動画をお裾分け.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神キャンプ振り分け発表！ドラ2谷端が唯一の宜野座スタート！梅野、木浪ら具志川組に衝撃！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=uKxId3xaWq4",
+    "publishedAt": "January 22, 2026 at 06:50PM",
+    "description": "阪神タイガース #春季キャンプ #谷端将伍 #梅野隆太郎 #木浪聖也 #プロ野球 #宜野座キャンプ #具志川キャンプ 当チャンネルの ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神キャンプ振り分け発表！ドラ2谷端が宜野座スタート",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XLTI-ZL6c7M",
+    "publishedAt": "January 22, 2026 at 07:12PM",
+    "description": "阪神タイガース #プロ野球 #キャンプ #谷端将伍 #岩崎優 #梅野隆太郎 #野球 #スポーツ #NPB 当チャンネルのコンテンツは、著作 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神キャンプ速報、衝撃判明！谷端将伍、歴史的スター激突？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UdAQsqX0Dpc",
+    "publishedAt": "January 22, 2026 at 07:44PM",
+    "description": "阪神タイガースファン必見！新人のキャンプ振り分けが決定！  今年のドラフトで話題の谷端将伍選手（日大）が、なんと宜野座 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚠️ドラ2谷端将伍、宜野座キャンプで大抜擢！球団新人野手では佐藤輝、中野以来５年ぶり！誰もがその才能に圧倒される！ #阪神タイガース #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yqZZR0rtfGc",
+    "publishedAt": "January 22, 2026 at 07:50PM",
+    "description": "阪神キャンプメンバー決定！新人谷端が宜野座スタート  藤川監督の指導に期待⚾️ この動画が面白かったら「いいね」＆「 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神沖縄キャンプ2026振り分け発表🗣️【宜野座編】#阪神タイガース#阪神#阪神ファン #谷端将伍 #阪神ファン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=OITGDsHyQAc",
+    "publishedAt": "January 22, 2026 at 07:59PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に. スポニチアネックス",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=p_haKSjTBcY",
+    "publishedAt": "January 22, 2026 at 09:15PM",
+    "description": "ニュース みんなの反応 などをVTuberがお届けします。 この動画の参照 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【野手編】ポイントはここだ🔥阪神春季キャンプの振り分けを発表‼️#阪神タイガース＃谷端 将伍＃阪神タイガースたしなむ#阪神　新外国人#デバニー＃井坪 陽生＃阪神　春季キャンプ振り分け",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=LeWUCXK4j_s",
+    "publishedAt": "January 22, 2026 at 10:26PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】阪神キャンプ分けが波乱すぎるwwwドラ2谷端が唯一の宜野座、主力組はまさかの具志川送り！？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6esSiEoirfk",
+    "publishedAt": "January 22, 2026 at 11:43PM",
+    "description": "阪神タイガースの2026年春季キャンプ振り分けが決定！ドラフト2位の谷端将伍選手が新人唯一の宜野座スタートとなる一方、 ...",
+    "keyword": "谷端 阪神"
   }
 ]
