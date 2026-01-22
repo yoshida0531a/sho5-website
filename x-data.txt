@@ -10630,5 +10630,443 @@
     "userName": "sirayuri33park",
     "tweetUrl": "https://twitter.com/sirayuri33park/status/2014008495755104625",
     "createdAt": "January 22, 2026 at 01:13AM"
+  },
+  {
+    "text": "2番手に糸原、島田、豊田はないでしょ……谷端、中川、前川とかでは……。\n→\n【阪神】予想布陣イラスト＆オーダー　打線は昨季２冠の佐藤輝中心　先発は３冠村上ら屈指の布陣 https://t.co/RWr32U4vHp",
+    "userName": "KENZY_PRODUCTS",
+    "tweetUrl": "https://twitter.com/KENZY_PRODUCTS/status/2014134994495558127",
+    "createdAt": "January 22, 2026 at 09:36AM"
+  },
+  {
+    "text": "セ・リーグ順位予想\n1位 阪神\nデュプランティエの抜けた分に立石谷端ディベニー辺りの野手の追加と新外国人の投手3枚で穴埋め可能\nサトテルがどうなるか分からんけど別にサトテルが使えなかったとしても別に俺らが片腕しか使えない那須川天心に総合格闘技で勝てないのと同じで普通に強いので優勝予想",
+    "userName": "Horietabun_36",
+    "tweetUrl": "https://twitter.com/Horietabun_36/status/2014146701075042724",
+    "createdAt": "January 22, 2026 at 10:22AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「２人で開幕１軍、１年間活躍したい想いもある」離脱立石正広にエール https://t.co/I33ieWBAvj",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/2014199273655775578",
+    "createdAt": "January 22, 2026 at 01:51PM"
+  },
+  {
+    "text": "【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/IZKKd8vM70",
+    "userName": "sponichi_endo",
+    "tweetUrl": "https://twitter.com/sponichi_endo/status/2014261778965033044",
+    "createdAt": "January 22, 2026 at 06:00PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に（スポニチアネックス） - Yahoo!ニュース\n\nももちゃんがいるのが何よりも嬉しい。今の一軍の層なら、打のボジション取れる気がする https://t.co/erRCI86eLY",
+    "userName": "RYO_ogatasotaso",
+    "tweetUrl": "https://twitter.com/RYO_ogatasotaso/status/2014262151477879275",
+    "createdAt": "January 22, 2026 at 06:01PM"
+  },
+  {
+    "text": "寅威さんは宜野座スタートね\n#伏見寅威\n\n【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/oSFq8gclD4",
+    "userName": "lycopen_cb173",
+    "tweetUrl": "https://twitter.com/lycopen_cb173/status/2014262933048688645",
+    "createdAt": "January 22, 2026 at 06:04PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/Xi9OODlzhn",
+    "userName": "ayrtonmoa",
+    "tweetUrl": "https://twitter.com/ayrtonmoa/status/2014263706121912554",
+    "createdAt": "January 22, 2026 at 06:07PM"
+  },
+  {
+    "text": "🐯【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/hV1CVzw1Ls",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2014263765756461557",
+    "createdAt": "January 22, 2026 at 06:07PM"
+  },
+  {
+    "text": "阪神から2位指名…石川県白山市出身の日大・谷端将伍が入寮「睡眠を大事に」と愛用のマットレス持ち込む(石川テレビ)\nhttps://t.co/zCS2jaZoVV",
+    "userName": "cdfdzo8",
+    "tweetUrl": "https://twitter.com/cdfdzo8/status/2014265880352546870",
+    "createdAt": "January 22, 2026 at 06:16PM"
+  },
+  {
+    "text": "木浪どうした？故障なんかせんやろうに\n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\nhttps://t.co/V4t9EMJkJ0",
+    "userName": "ojipon2",
+    "tweetUrl": "https://twitter.com/ojipon2/status/2014266440115953746",
+    "createdAt": "January 22, 2026 at 06:18PM"
+  },
+  {
+    "text": "間も無くプロ野球のお正月が来る😊\n\n阪神キャンプ振り分け発表　主力組が集う宜野座には今朝丸がサプライズ選出　ドラ２の谷端は宜野座　ドラ１の立石は具志川スタート【一覧】(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/feF5iWdodM",
+    "userName": "3270KT",
+    "tweetUrl": "https://twitter.com/3270KT/status/2014266663399817520",
+    "createdAt": "January 22, 2026 at 06:19PM"
+  },
+  {
+    "text": "今朝丸選手　宜野座組👏👏　甲子園で投げる姿楽しみ。でもでもギア上げ好きで故障しないように頑張って❣️阪神キャンプ振り分け発表　主力組が集う宜野座には今朝丸がサプライズ選出　ドラ２の谷端は宜野座　ドラ１の立石は具志川スタート【一覧】（デイリースポーツ） https://t.co/hDynNthc58",
+    "userName": "bunbun_ay",
+    "tweetUrl": "https://twitter.com/bunbun_ay/status/2014267132041994501",
+    "createdAt": "January 22, 2026 at 06:21PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/rMDD1NbsNx\n\n立石はしゃーない。森下も最初は具志川やったし吉兆と思おう\n\n投手では椎葉、津田、伊藤稜が宜野座とは意外。戦力になればええな",
+    "userName": "horu_tenkura",
+    "tweetUrl": "https://twitter.com/horu_tenkura/status/2014267730187444660",
+    "createdAt": "January 22, 2026 at 06:23PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/XC8pNflo4f",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2014268501465436479",
+    "createdAt": "January 22, 2026 at 06:26PM"
+  },
+  {
+    "text": "\"阪神キャンプ振り分け発表 新人では唯一ドラ2谷端が宜野座スタート 岩崎、高橋、梅野、木浪ら具志川組に\" https://t.co/3LagNqKjVT",
+    "userName": "msam1224",
+    "tweetUrl": "https://twitter.com/msam1224/status/2014269449743048870",
+    "createdAt": "January 22, 2026 at 06:30PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　主力組が集う宜野座には今朝丸がサプライズ選出　ドラ２の谷端は宜野座　ドラ１の立石は具志川スタート【一覧】（デイリースポーツ） - Yahoo!ニュース https://t.co/qJN0uyYmpp",
+    "userName": "kajikaji3724",
+    "tweetUrl": "https://twitter.com/kajikaji3724/status/2014269485801439632",
+    "createdAt": "January 22, 2026 at 06:30PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　主力組が集う宜野座には今朝丸がサプライズ選出　ドラ２の谷端は宜野座　ドラ１の立石は具志川スタート【一覧】/阪神タイガース/デイリースポーツ online https://t.co/nMfcZPLQku #阪神 #tigers #タイガース #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2014271047399592178",
+    "createdAt": "January 22, 2026 at 06:36PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　主力組が集う宜野座には今朝丸がサプライズ選出　ドラ２の谷端は宜野座　ドラ１の立石は具志川スタート【一覧】(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/Iq5bmuazri",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2014271765476979076",
+    "createdAt": "January 22, 2026 at 06:39PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に https://t.co/IdqKsvtMw1",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2014272148190441559",
+    "createdAt": "January 22, 2026 at 06:41PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表主力組が集う宜野座には今朝丸がサプライズ選出ドラ２の谷端は宜野座ドラ１の立石は具志川スタート【一覧】 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/D5Io4upqwA",
+    "userName": "d1221_801",
+    "tweetUrl": "https://twitter.com/d1221_801/status/2014273119608062348",
+    "createdAt": "January 22, 2026 at 06:45PM"
+  },
+  {
+    "text": "梅野がいないですね。\n\"阪神キャンプ振り分け発表 主力組が集う宜野座には今朝丸がサプライズ選出 ドラ2の谷端は宜野座 ドラ1の立石は具志川スタート【一覧】\" https://t.co/JPuCkJR4dm",
+    "userName": "fukaana",
+    "tweetUrl": "https://twitter.com/fukaana/status/2014273827518492840",
+    "createdAt": "January 22, 2026 at 06:47PM"
+  },
+  {
+    "text": "【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/6KuZBKCAvD",
+    "userName": "Women0629",
+    "tweetUrl": "https://twitter.com/Women0629/status/2014273871151866082",
+    "createdAt": "January 22, 2026 at 06:48PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/qARc19mfHV",
+    "userName": "junji_nakano06",
+    "tweetUrl": "https://twitter.com/junji_nakano06/status/2014274521445077424",
+    "createdAt": "January 22, 2026 at 06:50PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/FeGhg1sySk",
+    "userName": "moto_tigers",
+    "tweetUrl": "https://twitter.com/moto_tigers/status/2014274652282228892",
+    "createdAt": "January 22, 2026 at 06:51PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース https://t.co/dc92Wj48rT",
+    "userName": "toshi55_attucky",
+    "tweetUrl": "https://twitter.com/toshi55_attucky/status/2014274735845392545",
+    "createdAt": "January 22, 2026 at 06:51PM"
+  },
+  {
+    "text": "寅威くんも宜野座スタートですね🐯\n\n【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/WNNM4NGBjO",
+    "userName": "iyoromixjuice",
+    "tweetUrl": "https://twitter.com/iyoromixjuice/status/2014274938929324148",
+    "createdAt": "January 22, 2026 at 06:52PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/yp0xl3CRXV テルどうなるんやろ",
+    "userName": "michiko3215",
+    "tweetUrl": "https://twitter.com/michiko3215/status/2014274958252544324",
+    "createdAt": "January 22, 2026 at 06:52PM"
+  },
+  {
+    "text": "虎のルーキーではD2谷端のみ、1軍キャンプスタート🐯\n同じく新加入の元山、浜田の燕OBも1軍スタートだ🚊\n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に（スポニチアネックス） https://t.co/QiJYZ9ODm4",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/2014275330471845967",
+    "createdAt": "January 22, 2026 at 06:53PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\n\n梅野西はベテラン肩叩き枠\n藤田は一軍最終試験かな https://t.co/dbOM0thPdj",
+    "userName": "bl7rm986",
+    "tweetUrl": "https://twitter.com/bl7rm986/status/2014275417470128538",
+    "createdAt": "January 22, 2026 at 06:54PM"
+  },
+  {
+    "text": "今朝丸くん\n宜野座組👍\n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/EUyxWuudmv",
+    "userName": "KUMUSUTA",
+    "tweetUrl": "https://twitter.com/KUMUSUTA/status/2014275595207921710",
+    "createdAt": "January 22, 2026 at 06:54PM"
+  },
+  {
+    "text": "【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/ePCvaCrodz",
+    "userName": "Sponichi_Tphoto",
+    "tweetUrl": "https://twitter.com/Sponichi_Tphoto/status/2014275892856713410",
+    "createdAt": "January 22, 2026 at 06:56PM"
+  },
+  {
+    "text": "ハマちゃんも、もとやまくんも宜野座\nライバルチームだけど個人的に推すよ\n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/hbqgL6zDyM",
+    "userName": "kana122",
+    "tweetUrl": "https://twitter.com/kana122/status/2014275968404467715",
+    "createdAt": "January 22, 2026 at 06:56PM"
+  },
+  {
+    "text": "ほほぉ🤔\n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/LbnQkCXxme",
+    "userName": "maspmarupi",
+    "tweetUrl": "https://twitter.com/maspmarupi/status/2014276161694847323",
+    "createdAt": "January 22, 2026 at 06:57PM"
+  },
+  {
+    "text": "【阪神】\n春季キャンプメンバー発表　\n村上頌樹・佐藤輝明ら主力がそろう宜野座にはルーキー谷端将伍 ＆\n育成の 嶋村麟士朗も\n参加\n（日テレNEWS NNN）\n👏🤩 https://t.co/HItP6H521y",
+    "userName": "chiene0007",
+    "tweetUrl": "https://twitter.com/chiene0007/status/2014276164303700106",
+    "createdAt": "January 22, 2026 at 06:57PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/RQ1cJIT8Cy\n\n元山キャンプ一軍スタートなのか！",
+    "userName": "TKMRSISNY122",
+    "tweetUrl": "https://twitter.com/TKMRSISNY122/status/2014276671747313798",
+    "createdAt": "January 22, 2026 at 06:59PM"
+  },
+  {
+    "text": "阪神のキャンプの振り分けが発表されたけど注目ポイントは守備位置かな\n\nレフト争いが注目ではあるけど\n\n各選手のメインポジ、サプポジをどうしていくか\n\n中川や高寺のはメインを外野なのか捕手、内野なのか\n谷端は内野のどこをメインにするのか\n大山が怪我した場合、一塁の一番手は誰になるのか",
+    "userName": "taiga202123",
+    "tweetUrl": "https://twitter.com/taiga202123/status/2014276700453146977",
+    "createdAt": "January 22, 2026 at 06:59PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に\n\n(虎速)\nhttps://t.co/MAv4PKEEfJ",
+    "userName": "bsoku_antenna",
+    "tweetUrl": "https://twitter.com/bsoku_antenna/status/2014277455880790087",
+    "createdAt": "January 22, 2026 at 07:02PM"
+  },
+  {
+    "text": "阪神ちゃん🐅春季キャンプ振分け発表\n\n新人さんの宜野座組は谷端将伍だけか\n\n意外だった\n\nくりまんじゅう🌰もとい🙇🏻…能登嵩都も選ばれると思っていたのに",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2014279306445467771",
+    "createdAt": "January 22, 2026 at 07:09PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり https://t.co/KThFxmkOI9",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2014281314581815331",
+    "createdAt": "January 22, 2026 at 07:17PM"
+  },
+  {
+    "text": "あれれ？\n#阪神タイガース \n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に\nhttps://t.co/7yq4umjd3I",
+    "userName": "ryu_tayan",
+    "tweetUrl": "https://twitter.com/ryu_tayan/status/2014282752099832220",
+    "createdAt": "January 22, 2026 at 07:23PM"
+  },
+  {
+    "text": "阪神春季キャンプ\n宜野座メンバー\n捕手\n坂本、伏見、藤田、中川、嶋村\n\n内野手\n元山、大山、熊谷、中野、佐藤、ディベイニー、谷端、小幡、百﨑、髙寺\n\n外野手\n森下、近本、濱田、井坪、前川、小野寺\n\n百崎くんマジ期待🙌\n#阪神タイガース\n#百崎蒼生",
+    "userName": "1mo1mokenp1",
+    "tweetUrl": "https://twitter.com/1mo1mokenp1/status/2014282775210405937",
+    "createdAt": "January 22, 2026 at 07:23PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり https://t.co/GPjdr2MxXi #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2014283774004019252",
+    "createdAt": "January 22, 2026 at 07:27PM"
+  },
+  {
+    "text": "阪神、春季キャンプメンバー振り分けを発表(ベースボールキング)\n\nドラフト組からの一軍参加は谷端選手のみ、他球団からの移籍組は全て一軍スタート\n\nまもなく球春、待ち遠しいですね🐯🤗\nhttps://t.co/19g8to27wP",
+    "userName": "Taka87395102",
+    "tweetUrl": "https://twitter.com/Taka87395102/status/2014283825250205980",
+    "createdAt": "January 22, 2026 at 07:27PM"
+  },
+  {
+    "text": "モレッタ小川w\nハーフの選手おったか一瞬考えたがなw\n\n阪神キャンプ振り分け発表　主力組が集う宜野座には今朝丸がサプライズ選出　ドラ２の谷端は宜野座　ドラ１の立石は具志川スタート　梅野、木浪はともに初の具志川【一覧】\nhttps://t.co/arLxq0V4qs",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/2014284612986671442",
+    "createdAt": "January 22, 2026 at 07:30PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/RTX9NF1GP2\n\n立石はミーバイしたからか",
+    "userName": "hi_333333_",
+    "tweetUrl": "https://twitter.com/hi_333333_/status/2014285079787573400",
+    "createdAt": "January 22, 2026 at 07:32PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり（日刊スポーツ） https://t.co/Z6IH049ngk",
+    "userName": "junji_nakano06",
+    "tweetUrl": "https://twitter.com/junji_nakano06/status/2014285777069650385",
+    "createdAt": "January 22, 2026 at 07:35PM"
+  },
+  {
+    "text": "10人w\n小幡良ければディベイニーもあるやろしな\nまぁケガ無ければ立石見たいわな谷端でもええし高寺中川前川も\n木浪小幡のショート争いで一気に追い抜いた中野拓夢の様な存在が出て欲しいな\n\n【阪神】左翼候補10人超も本命不在　「打たないと」の前川右京は…万能型など\nhttps://t.co/5Kej2a3AAc",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/2014286414876393960",
+    "createdAt": "January 22, 2026 at 07:37PM"
+  },
+  {
+    "text": "若手特に投手には一軍メンバーの姿を見せて学ばせようという意図かな【阪神】春季キャンプメンバー発表　村上頌樹・佐藤輝明ら主力がそろう宜野座にはルーキー谷端将伍＆育成の嶋村麟士朗も参加(日テレNEWS NNN)\n#Yahooニュース\nhttps://t.co/NvEk08CZyM",
+    "userName": "tolucky774",
+    "tweetUrl": "https://twitter.com/tolucky774/status/2014292901728260513",
+    "createdAt": "January 22, 2026 at 08:03PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/641Q3uitZR",
+    "userName": "atelierbou",
+    "tweetUrl": "https://twitter.com/atelierbou/status/2014295565140632023",
+    "createdAt": "January 22, 2026 at 08:14PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に（スポニチアネックス） https://t.co/4V01wX8gwU",
+    "userName": "hhbwota50",
+    "tweetUrl": "https://twitter.com/hhbwota50/status/2014296181657231743",
+    "createdAt": "January 22, 2026 at 08:16PM"
+  },
+  {
+    "text": "https://t.co/OFoMdU7CEf\n#阪神\n#立石\n#谷端\n#プロ野球\n#ドラフト\nキャンプイン前に、未来の主軸を担うであろう立石",
+    "userName": "YAKYUTAN",
+    "tweetUrl": "https://twitter.com/YAKYUTAN/status/2014298214665691441",
+    "createdAt": "January 22, 2026 at 08:24PM"
+  },
+  {
+    "text": "そういう心構えでないと、\n厳しい競争には生き残れない。\n頑張って欲しい！\n\n【阪神】ドラ２谷端将伍　ドラ１立石正広の出遅れに胸中複雑「ここで差をつけるという考え方も…」(東スポWEB)\n#Yahooニュース\nhttps://t.co/rG5ZNt0BPF",
+    "userName": "zuohualian62394",
+    "tweetUrl": "https://twitter.com/zuohualian62394/status/2014300683890266580",
+    "createdAt": "January 22, 2026 at 08:34PM"
+  },
+  {
+    "text": "2026年開幕レフトスタメンダービー\n前川右京\n立石正広\n中川勇斗\n井坪陽生\n谷端将伍\n濱田太貴\n豊田寛\n西純矢\nコンスエグラ\n\nってレフト候補多すぎやろw\n個人的には前川右京が好きやから是非がんばってほしい🥺\n\n#阪神タイガース\n#プロ野球",
+    "userName": "natuki2222",
+    "tweetUrl": "https://twitter.com/natuki2222/status/2014304647054520524",
+    "createdAt": "January 22, 2026 at 08:50PM"
+  },
+  {
+    "text": "【阪神】2026春季キャンプのメンバー出た！\n「いよいよ始まる感」。まずはケガなく、でも競争はバチバチで頼む🔥\n谷端＆百崎が入ってるのも嬉しい。頑張れ！\nソース：https://t.co/ai9Hell6sZ\n#阪神タイガース #春季キャンプ",
+    "userName": "AI_yakyu_Keiba",
+    "tweetUrl": "https://twitter.com/AI_yakyu_Keiba/status/2014305094704267675",
+    "createdAt": "January 22, 2026 at 08:52PM"
+  },
+  {
+    "text": "https://t.co/VvP6izsYpS\n#阪神\n#立石\n#谷端\n#プロ野球\n#ドラフト\n未来の阪神を担うであろう、立石",
+    "userName": "YAKYUTAN",
+    "tweetUrl": "https://twitter.com/YAKYUTAN/status/2014305370563645638",
+    "createdAt": "January 22, 2026 at 08:53PM"
+  },
+  {
+    "text": "今朝丸投手はサプライズではない\nサプライズは伊藤将司がいること\n\n阪神キャンプ振り分け発表\n主力組が集う宜野座には今朝丸がサプライズ選出\nドラ２の谷端は宜野座\nドラ１の立石は具志川スタート\n梅野、木浪はともに初の具志川 https://t.co/4cpnHEOPwg",
+    "userName": "Guilty_Closer",
+    "tweetUrl": "https://twitter.com/Guilty_Closer/status/2014305907396784241",
+    "createdAt": "January 22, 2026 at 08:55PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に https://t.co/D62ql3jEXP",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2014307224705802500",
+    "createdAt": "January 22, 2026 at 09:00PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり（日刊スポーツ） https://t.co/DWXyBdk0A2",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2014308468539494692",
+    "createdAt": "January 22, 2026 at 09:05PM"
+  },
+  {
+    "text": "岩崎、梅野、木浪はベテランゆっくりスタートやな\n\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/LKs5IwvuF3 https://t.co/QDjAplMImC",
+    "userName": "koiwatonakano",
+    "tweetUrl": "https://twitter.com/koiwatonakano/status/2014311045586940335",
+    "createdAt": "January 22, 2026 at 09:15PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「２人で開幕１軍、１年間活躍したい想いもある」離脱立石正広にエール(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/mKqdKDhy9q",
+    "userName": "110youca",
+    "tweetUrl": "https://twitter.com/110youca/status/2014311822808301628",
+    "createdAt": "January 22, 2026 at 09:18PM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に（スポニチアネックス） https://t.co/YRmewuP0wI\n他チームも最初はこのくらい選手を動かした方が刺激になっていいと思うよ。",
+    "userName": "Inokori335",
+    "tweetUrl": "https://twitter.com/Inokori335/status/2014314528868356373",
+    "createdAt": "January 22, 2026 at 09:29PM"
+  },
+  {
+    "text": "【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/7LIgkmpgF8",
+    "userName": "kk375644545",
+    "tweetUrl": "https://twitter.com/kk375644545/status/2014325027777515630",
+    "createdAt": "January 22, 2026 at 10:11PM"
+  },
+  {
+    "text": "【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/0VfVWEIjuJ",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2014333655771132333",
+    "createdAt": "January 22, 2026 at 10:45PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり(日刊スポーツ)\n\nhttps://t.co/P3bxg2A4dV",
+    "userName": "Rtyu1166884",
+    "tweetUrl": "https://twitter.com/Rtyu1166884/status/2014342006898835508",
+    "createdAt": "January 22, 2026 at 11:18PM"
+  },
+  {
+    "text": "開幕にはいいスタートが切れるよう、遠くから応援してます！\n\n【記事全文】阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に - スポニチ Sponichi Annex 野球 https://t.co/hJOAlbPXnB",
+    "userName": "Cardamom_Roll",
+    "tweetUrl": "https://twitter.com/Cardamom_Roll/status/2014353824740442221",
+    "createdAt": "January 23, 2026 at 12:05AM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n\nhttps://t.co/Guugcu0Qp5",
+    "userName": "UIFtiSDdMG31514",
+    "tweetUrl": "https://twitter.com/UIFtiSDdMG31514/status/2014391872832274903",
+    "createdAt": "January 23, 2026 at 02:37AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍、ルーキー唯一の宜野座組スタート「初日から全力」「開幕１軍が目標」\nhttps://t.co/WcVvMmH02a",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2014430589026185340",
+    "createdAt": "January 23, 2026 at 05:10AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍、ルーキー唯一の宜野座組スタート「初日から全力」「開幕１軍が目標」\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/Bc77WjfYgl",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2014430678285156719",
+    "createdAt": "January 23, 2026 at 05:11AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍、ルーキー唯一の宜野座組スタート「初日から全力」「開幕１軍が目標」\n記事はこちら▼\nhttps://t.co/6IYKQSWn0d",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2014430773156188572",
+    "createdAt": "January 23, 2026 at 05:11AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍が新人唯一の宜野座スタート「初日から全力で」体重は自己最高記録更新 https://t.co/ZGnQqOVOiW #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2014430997622698326",
+    "createdAt": "January 23, 2026 at 05:12AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍、ルーキー唯一の宜野座組スタート「初日から全力」「開幕１軍が目標」 - スポーツ報知 https://t.co/WZLQsuD1FF",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2014437434914979890",
+    "createdAt": "January 23, 2026 at 05:38AM"
+  },
+  {
+    "text": "おはようございます☀️今日も寒いですね🥶この寒さは週末まで続きそうです💦阪神🐯キャンプ入りメンバー発表😀谷端新人唯一👍競馬🐴今年もキング姉さん豪腕披露😀藤井聡太6冠の14歳デビュー戦はひふみん😀改めてご冥福をお祈りします🙏🙇体調に気をつけて良い華金、週末をお過ごしください🙇🐎🐴 https://t.co/eV8cPHeT27",
+    "userName": "cap630",
+    "tweetUrl": "https://twitter.com/cap630/status/2014444064821985726",
+    "createdAt": "January 23, 2026 at 06:04AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　新人唯一の宜野座キャンプスタート　開幕1軍へ「完走するということは決めている」 - スポニチ Sponichi Annex 野球 https://t.co/rme3cZ35xF",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2014445726164799837",
+    "createdAt": "January 23, 2026 at 06:11AM"
   }
 ]
