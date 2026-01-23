@@ -11068,5 +11068,263 @@
     "userName": "mouko_in_fukui",
     "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2014445726164799837",
     "createdAt": "January 23, 2026 at 06:11AM"
+  },
+  {
+    "text": "（日経新聞）阪神は22日、春季キャンプのメンバー振り分けを発表し、ドラフト1位の立石正広内野手は沖縄県うるま市で鍛える若手主体の「具志川組」スタートとなった。主力中心の「宜野座組」に入る見通しだったが、右脚の肉離れが20日に発表された。ドラフト2位の谷端将伍内野手は宜野座組に入った。",
+    "userName": "umibeni154",
+    "tweetUrl": "https://twitter.com/umibeni154/status/2014459077758484849",
+    "createdAt": "January 23, 2026 at 07:04AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「全力でいく」　宜野座Cスタート決定にマックス宣言 - サンスポ https://t.co/FVmz2l1K0Y @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2014459318406676867",
+    "createdAt": "January 23, 2026 at 07:05AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり https://t.co/X794KXZxDT",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/2014460219489976634",
+    "createdAt": "January 23, 2026 at 07:08AM"
+  },
+  {
+    "text": "おはようございます。金曜日です。朝晩は寒いですけど、日中はマシですか？\n阪神の春季キャンプメンバー発表されました。ルーキーからドラ2谷端くんが唯一宜野座メンバー、梅ちゃん木浪くんは初の具志川スタートと今年も何かありそうな予感です。",
+    "userName": "kuishinboneko1",
+    "tweetUrl": "https://twitter.com/kuishinboneko1/status/2014465869255176310",
+    "createdAt": "January 23, 2026 at 07:31AM"
+  },
+  {
+    "text": "🐯ドラフト2位の谷端(日大)が､新人で唯一⚾️宜野座スタートですね‼️😄 https://t.co/lDmJjy4Tcm",
+    "userName": "masatora4345",
+    "tweetUrl": "https://twitter.com/masatora4345/status/2014466621579133043",
+    "createdAt": "January 23, 2026 at 07:34AM"
+  },
+  {
+    "text": "【阪神】春季キャンプメンバー発表　村上頌樹・佐藤輝明ら主力がそろう宜野座にはルーキー谷端将伍＆育成の嶋村麟士朗も参加(日テレNEWS NNN)\n#Yahooニュース\nhttps://t.co/DlEQVuoroB",
+    "userName": "88_naughty_bgm",
+    "tweetUrl": "https://twitter.com/88_naughty_bgm/status/2014467222861975849",
+    "createdAt": "January 23, 2026 at 07:36AM"
+  },
+  {
+    "text": "「【激震】阪神キャンプ振り分けがアツすぎる！新人唯一の1軍・谷端と、具志川から逆襲を狙う虎の主力陣」\n#阪神タイガース\n#宜野座キャンプ\n#谷端将伍\nhttps://t.co/TwVsMoFox5 https://t.co/FEIuA9Dg47",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2014470632541737164",
+    "createdAt": "January 23, 2026 at 07:50AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　新人唯一の宜野座キャンプスタート　開幕1軍へ「完走するということは決めている」 - スポニチ Sponichi Annex 野球 https://t.co/SyR226fSu2",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2014477386692362686",
+    "createdAt": "January 23, 2026 at 08:16AM"
+  },
+  {
+    "text": "そんな気はしてた。木浪くん、やっぱり具志川か。藤川球児に用はないから、具志川行きだな。遥人も下村くんも新人くん達いるし。\n阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に(スポニチアネックス)\n#阪神タイガース\nhttps://t.co/9gmnuLY8xT",
+    "userName": "sk_0o0_ks",
+    "tweetUrl": "https://twitter.com/sk_0o0_ks/status/2014478751061655566",
+    "createdAt": "January 23, 2026 at 08:22AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「全力でいく」　宜野座Cスタート決定にマックス宣言(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/ELknCMTFv9",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2014479729492165052",
+    "createdAt": "January 23, 2026 at 08:26AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍、新人唯一宜野座Ｃスタート　球団新人野手では佐藤輝、中野以来５年ぶり(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/lki6cI6Pox",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2014480029259096164",
+    "createdAt": "January 23, 2026 at 08:27AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　新人唯一の宜野座キャンプスタート　開幕1軍へ「完走するということは決めている」 - スポニチ Sponichi Annex 野球 https://t.co/DCVeEjhqV2",
+    "userName": "ZKbURi0gZz99745",
+    "tweetUrl": "https://twitter.com/ZKbURi0gZz99745/status/2014493131799146670",
+    "createdAt": "January 23, 2026 at 09:19AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が新人唯一の宜野座スタート「初日から全力で」体重は自己最高記録更新 https://t.co/lS6dBp0SGs",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2014499573948154278",
+    "createdAt": "January 23, 2026 at 09:45AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　新人唯一の宜野座キャンプスタート　開幕1軍へ「完走するということは決めている」 - スポニチ Sponichi Annex 野球 https://t.co/pItV5Gt9Nb",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2014510152335163573",
+    "createdAt": "January 23, 2026 at 10:27AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　新人唯一の宜野座キャンプスタート　開幕1軍へ「完走するということは決めている」 - スポニチ Sponichi Annex 野球 https://t.co/tqDWmXHCaq",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2014522796827935205",
+    "createdAt": "January 23, 2026 at 11:17AM"
+  },
+  {
+    "text": "ガッツ！阪神谷端！ https://t.co/fXeRdwDV29",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://twitter.com/yoshida0531a/status/2014543146244583622",
+    "createdAt": "January 23, 2026 at 12:38PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「全力でいく」　宜野座Cスタート決定にマックス宣言(サンケイスポーツ)\n\nhttps://t.co/50BiKeVlD6",
+    "userName": "XinMaii",
+    "tweetUrl": "https://twitter.com/XinMaii/status/2014561587752014168",
+    "createdAt": "January 23, 2026 at 01:51PM"
+  },
+  {
+    "text": "谷端の評価も高かったから楽しみ。\n\n阪神がキャンプメンバー発表！ドラ2・谷端が新人唯一の宜野座組！具志川組には岩崎、大竹、梅野、木浪ら(高校野球ドットコム)\n#Yahooニュース\nhttps://t.co/nTSbpTO1J9",
+    "userName": "c7TRqYIrTMJiX9g",
+    "tweetUrl": "https://twitter.com/c7TRqYIrTMJiX9g/status/2014565993209839877",
+    "createdAt": "January 23, 2026 at 02:08PM"
+  },
+  {
+    "text": "阪神がキャンプメンバー発表！ドラ2・谷端が新人唯一の宜野座組！具志川組には岩崎、大竹、梅野、木浪ら(高校野球ドットコム)\n#Yahooニュース\nhttps://t.co/MCsLdeDqvl",
+    "userName": "satsuki_toraco",
+    "tweetUrl": "https://twitter.com/satsuki_toraco/status/2014573000360956303",
+    "createdAt": "January 23, 2026 at 02:36PM"
+  },
+  {
+    "text": "駄目でした🥲\n\n谷端将伍が唯一の宜野座組🏟️選出 https://t.co/wPj18MaiIl",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2014606439407616240",
+    "createdAt": "January 23, 2026 at 04:49PM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍、ルーキー唯一の宜野座組スタート「初日から全力」「開幕１軍が目標」(スポーツ報知)\n\nhttps://t.co/PC41kDjhVt",
+    "userName": "maishanggaoyin1",
+    "tweetUrl": "https://twitter.com/maishanggaoyin1/status/2014610121192833473",
+    "createdAt": "January 23, 2026 at 05:04PM"
+  },
+  {
+    "text": "阪神がキャンプメンバー発表！ドラ2・谷端が新人唯一の宜野座組！具志川組には岩崎、大竹、梅野、木浪ら\nhttps://t.co/hP8xKktMMI",
+    "userName": "5589com",
+    "tweetUrl": "https://twitter.com/5589com/status/2014636634713817183",
+    "createdAt": "January 23, 2026 at 06:49PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が新人唯一の宜野座スタート「初日から全力で」体重は自己最高記録更新 https://t.co/T0kcrS3YNl",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/2014637797957894625",
+    "createdAt": "January 23, 2026 at 06:54PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　新人唯一の宜野座キャンプスタート　開幕1軍へ「完走するということは決めている」 - スポニチ Sponichi Annex 野球 https://t.co/FyYg1GuR82",
+    "userName": "SHINICHIRO_51",
+    "tweetUrl": "https://twitter.com/SHINICHIRO_51/status/2014638676966572101",
+    "createdAt": "January 23, 2026 at 06:57PM"
+  },
+  {
+    "text": "谷端将伍選手と早瀬朔投手\n\n阪神スーツを着て登場 https://t.co/wlv5nIr8qL",
+    "userName": "kazenoraby",
+    "tweetUrl": "https://twitter.com/kazenoraby/status/2014655708932014112",
+    "createdAt": "January 23, 2026 at 08:05PM"
+  },
+  {
+    "text": "谷端将伍選手は去年の川﨑俊哲選手に続いての石川県出身選手。楽しみすぎる。\n #熱血タイガース党　#阪神タイガース",
+    "userName": "tora10ra_tigers",
+    "tweetUrl": "https://twitter.com/tora10ra_tigers/status/2014659047061127170",
+    "createdAt": "January 23, 2026 at 08:18PM"
+  },
+  {
+    "text": "そろそろ阪神キャンプやけど、谷端と伏見さんが個人的に気になるなぁ\nキャンプ楽しみやわ",
+    "userName": "YoiboshiKusei",
+    "tweetUrl": "https://twitter.com/YoiboshiKusei/status/2014659858054979702",
+    "createdAt": "January 23, 2026 at 08:21PM"
+  },
+  {
+    "text": "谷端君世代の星稜は地方大会途中辞退だった\n甲子園で暴れられるで",
+    "userName": "amakaraisan",
+    "tweetUrl": "https://twitter.com/amakaraisan/status/2014662329246626069",
+    "createdAt": "January 23, 2026 at 08:31PM"
+  },
+  {
+    "text": "谷端vs奥川の石川・星稜対決、あるとええなぁ😌",
+    "userName": "kiiroikobana",
+    "tweetUrl": "https://twitter.com/kiiroikobana/status/2014666048092741710",
+    "createdAt": "January 23, 2026 at 08:46PM"
+  },
+  {
+    "text": "すみません\n谷端将伍選手でした🙇",
+    "userName": "yoshimi440mnf",
+    "tweetUrl": "https://twitter.com/yoshimi440mnf/status/2014666777134018758",
+    "createdAt": "January 23, 2026 at 08:49PM"
+  },
+  {
+    "text": "立石選手が注目されていますが僕は谷端選手にめちゃくちゃ期待を寄せています。\nあなたは阪神の顔になれる！！ https://t.co/WxEwKF7Fo6",
+    "userName": "katanshikateru8",
+    "tweetUrl": "https://twitter.com/katanshikateru8/status/2014667255527985158",
+    "createdAt": "January 23, 2026 at 08:51PM"
+  },
+  {
+    "text": "【記事全文】阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演 - スポニチ Sponichi Annex 野球 https://t.co/qoMztfh1cb",
+    "userName": "punpunkei",
+    "tweetUrl": "https://twitter.com/punpunkei/status/2014689033641984175",
+    "createdAt": "January 23, 2026 at 10:17PM"
+  },
+  {
+    "text": "【記事全文】阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演 - スポニチ Sponichi Annex 野球 https://t.co/4mZet9fFJF",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2014689679791280222",
+    "createdAt": "January 23, 2026 at 10:20PM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/VmCAP5wC2v",
+    "userName": "chixxx94045980",
+    "tweetUrl": "https://twitter.com/chixxx94045980/status/2014690026299519407",
+    "createdAt": "January 23, 2026 at 10:21PM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/hIvOQv9AqR",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/2014690182843511226",
+    "createdAt": "January 23, 2026 at 10:22PM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演（スポニチアネックス） https://t.co/bjrGp6Fwji\n朔朔パンダ🐼？☺",
+    "userName": "JUNKYA1983",
+    "tweetUrl": "https://twitter.com/JUNKYA1983/status/2014691142684836258",
+    "createdAt": "January 23, 2026 at 10:26PM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演（スポニチアネックス） https://t.co/cWikqabAz7",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2014705655555489882",
+    "createdAt": "January 23, 2026 at 11:23PM"
+  },
+  {
+    "text": "阪神?早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演\n\nhttps://t.co/1BMooAh8yu",
+    "userName": "laotoumingbing",
+    "tweetUrl": "https://twitter.com/laotoumingbing/status/2014706058162536830",
+    "createdAt": "January 23, 2026 at 11:25PM"
+  },
+  {
+    "text": "【記事全文】阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演 - スポニチ Sponichi Annex 野球 https://t.co/xKE8ueyuOR",
+    "userName": "f61326",
+    "tweetUrl": "https://twitter.com/f61326/status/2014707948279513539",
+    "createdAt": "January 23, 2026 at 11:33PM"
+  },
+  {
+    "text": "@3tvbox 谷端選手日本大学の頃から応援しています！！ぜひ当たりますように🙏",
+    "userName": "Shoz5jh",
+    "tweetUrl": "https://twitter.com/Shoz5jh/status/2014719479541055588",
+    "createdAt": "January 24, 2026 at 12:18AM"
+  },
+  {
+    "text": "阪神キャンプ振り分け発表　新人では唯一ドラ2谷端が宜野座スタート　岩崎、高橋、梅野、木浪ら具志川組に \nhttps://t.co/nzgn84fJhf",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2014733001800790457",
+    "createdAt": "January 24, 2026 at 01:12AM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/ey1Gz6rlUy",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2014764664727707993",
+    "createdAt": "January 24, 2026 at 03:18AM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/ey1Gz6rlUy",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2014773758163353890",
+    "createdAt": "January 24, 2026 at 03:54AM"
   }
 ]
