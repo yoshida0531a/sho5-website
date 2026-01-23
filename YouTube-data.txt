@@ -1094,5 +1094,37 @@
     "publishedAt": "January 22, 2026 at 11:43PM",
     "description": "阪神タイガースの2026年春季キャンプ振り分けが決定！ドラフト2位の谷端将伍選手が新人唯一の宜野座スタートとなる一方、 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【谷端が複雑な本音を吐露】藤川監督が梅野の2軍理由を明言した件について【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=X_Uhf5cIfOw",
+    "publishedAt": "January 23, 2026 at 07:00AM",
+    "description": "こちらのチャンネルでは、阪神タイガースの情報にのみ特化し、より掘り下げてお伝えしていきます!! 阪神ファンの皆さんは ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【野手編】注目ポイントはここだ🔥阪神春季キャンプの振り分けを発表‼️#阪神タイガース＃谷端 将伍＃阪神タイガースたしなむ#阪神　新外国人#デバニー＃井坪 陽生＃阪神　春季キャンプ振り分け",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=JxkggCLQ3Xw",
+    "publishedAt": "January 23, 2026 at 07:45AM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【1/17～1/23のタイガース情報🐯】ドラ2谷端将伍＆ドラ4早瀬朔初登場！初々しい恒例の自己紹介／キャンプ直前！自主トレ情報たっぷり #熱血タイガース党",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=imwZxY0qxk8",
+    "publishedAt": "January 23, 2026 at 10:13PM",
+    "description": "キャンプ直前の自主トレ情報をたっぷりと！ 宜野座組も発表され、みんな来季へ向けての勝負が始まっています。 ドラフト2位谷 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ドラ2谷端選手＆ドラ4早瀬投手へ】福本豊党首のキャーンと一言！（2026年1月23日放送） #熱血タイガース党 #shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=dgTNVawBHfE",
+    "publishedAt": "January 23, 2026 at 11:26PM",
+    "description": "新人の2人へ、球界のレジェンド福本党首から金言です。 （2026年1月23日放送） 熱血！タイガース党HP ...",
+    "keyword": "谷端 阪神"
   }
 ]
