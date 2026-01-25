@@ -1142,5 +1142,45 @@
     "publishedAt": "January 24, 2026 at 10:57PM",
     "description": "熱血！タイガース党恒例企画【新人選手への10の質問】 のちのち大選手になったときに、お宝映像として出てくることも ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "驚愕‼️ディベイニーシーズン途中6月末に獲得を阪神が画策していた‼️#阪神タイガース #阪神　新外国人＃新外国人候補　2026#デバニー＃ルーカス＃モレッタ＃立石 正広＃谷端 将伍＃伏見 寅威",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kNmThjB80Tk",
+    "publishedAt": "January 25, 2026 at 08:01AM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "#谷端将伍 #ドラフト #大学野球 #プロ野球 #阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-DTYBm5Y_MQ",
+    "publishedAt": "January 25, 2026 at 06:00PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【本気を見てほしい】藤川球児監督が若虎を宜野座へ抜擢｜高卒2年目・今朝丸＆新人D2谷端に与えた試練　#阪神タイガース　#藤川球児　#春季キャンプ　#宜野座キャンプ　#今朝丸裕喜　#谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kHPbW_b_9BI",
+    "publishedAt": "January 25, 2026 at 12:43AM",
+    "description": "阪神・藤川球児監督が春季キャンプのメンバー編成で下した決断。 高卒2年目・今朝丸裕喜、そして新人で唯一のドラフト2位・谷 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ランニングは高卒新人早瀬投手が先頭！】ドラ２谷端＆ドラ４早瀬　プロ生活１か月を振り返る #熱血タイガース党",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ijihjSxvPvU",
+    "publishedAt": "January 25, 2026 at 09:45PM",
+    "description": "入団会見からはや１ヶ月。いよいよ自主トレが始まりプロの世界を肌で感じているはずのお二人。いまの素直な気持ちを伺いまし ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・ドラ２谷端　新人唯一の宜野座組スタート「自分らしく」自然体で全力アピール誓う",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=qYIcqiK1I2g",
+    "publishedAt": "January 26, 2026 at 01:28AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
