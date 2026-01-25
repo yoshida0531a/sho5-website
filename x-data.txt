@@ -11512,5 +11512,71 @@
     "userName": "Te3DyFbGx3oL",
     "tweetUrl": "https://twitter.com/Te3DyFbGx3oL/status/2015125628484239635",
     "createdAt": "January 25, 2026 at 03:12AM"
+  },
+  {
+    "text": "阪神のドラ1色紙7枚直筆って…めっちゃ羨ましいなあ。こんなの飾れたら毎日テンション上がる気がする。\n\n阪神タイガース 立石 谷端 岡城 早瀬 能登 直筆サイン 色紙 7枚\nhttps://t.co/xyOr78DYOg",
+    "userName": "PUrRZQs90bsE",
+    "tweetUrl": "https://twitter.com/PUrRZQs90bsE/status/2015187927379112365",
+    "createdAt": "January 25, 2026 at 07:20AM"
+  },
+  {
+    "text": "早瀬は視野が広いか、まだ自信がなく自己も固まっていないのか、どっちなのかはわからなかった。谷端も経験に基づく自信があるのか、職人型なのかわからなかった。\n\n【新人の登竜門】ドラ2谷端将伍＆ドラ4早瀬朔に10の質問！サクサクパンダ早瀬投手爆誕 #熱血タイガース党 https://t.co/5kCCS5jb52",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2015197627521081350",
+    "createdAt": "January 25, 2026 at 07:58AM"
+  },
+  {
+    "text": "【新人の登竜門】ドラ2谷端将伍＆ドラ4早瀬朔に10の質問！サクサクパンダ早瀬投手爆誕 #熱血タイガース党 https://t.co/GosfW0L9of @YouTubeより",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2015257715392856461",
+    "createdAt": "January 25, 2026 at 11:57AM"
+  },
+  {
+    "text": "【2026.1.25 阪神新人合同自主トレ】\nSGLでは新人合同自主トレを見れなかったけど SGLから新人合同自主トレ見えた！\n谷端将伍選手、岡城快生選手、山﨑照英選手 https://t.co/DnrS06tv6q",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2015278639378796904",
+    "createdAt": "January 25, 2026 at 01:20PM"
+  },
+  {
+    "text": "阪神のドラ1直筆色紙7枚セットだって！？立石とか能登のサイン揃ってるの羨ましすぎるんだけど〜\n\n阪神タイガース 立石 谷端 岡城 早瀬 能登 直筆サイン 色紙 7枚\nhttps://t.co/vFRCErUjPN",
+    "userName": "nanamipuzzlebox",
+    "tweetUrl": "https://twitter.com/nanamipuzzlebox/status/2015321716361249082",
+    "createdAt": "January 25, 2026 at 04:11PM"
+  },
+  {
+    "text": "わたくしが見つけましたの、阪神の若き戦士たちの直筆サイン色紙。風のように貴重ですわ。\n\n阪神タイガース 立石 谷端 岡城 早瀬 能登 直筆サイン 色紙 7枚\nhttps://t.co/ODJxqsXdY7",
+    "userName": "shinjukuMika28",
+    "tweetUrl": "https://twitter.com/shinjukuMika28/status/2015371571628478550",
+    "createdAt": "January 25, 2026 at 07:30PM"
+  },
+  {
+    "text": "阪神・早瀬朔は「さくさくパンダ」が愛称!?谷端将伍とサンテレビ「熱血タイガース党！」出演 \nhttps://t.co/yEWBR2orTF",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2015457678168854858",
+    "createdAt": "January 26, 2026 at 01:12AM"
+  },
+  {
+    "text": "【阪神】春季キャンプ1、2軍の参加メンバー決定...佐藤輝らWBC組 ディベイニー ドラ2谷端は1軍 大竹 梅野 木浪らは2軍スタート(TBS NEWS DIG Powered by JNN)\n#Yahooニュース\nhttps://t.co/IUVeUVPZb6",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2015481919119786110",
+    "createdAt": "January 26, 2026 at 02:48AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍、ケガ防止へ春季キャンプに秘密兵器持ち込み「部屋でもできますし」 https://t.co/GtJ0T1PhBs #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2015519517665865742",
+    "createdAt": "January 26, 2026 at 05:17AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　キャンプ完走へ「電気治療器具」持参　ケガ予防へ「準備だけはしたい」 - スポニチ Sponichi Annex 野球 https://t.co/P2vNGYlNhA",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2015525399397331411",
+    "createdAt": "January 26, 2026 at 05:41AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、振り込まれた初任給は「見たことがない数字」「もっと稼げるような選手に」推定年俸1200万円\nhttps://t.co/551SGt8e9M \n\n#hanshin #阪神タイガース\n阪神D2位・谷端将伍内野手（21）＝日大＝が25日、新人で唯一参加する宜野座キャンプに向けてSGLで汗を流した",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2015529701478154427",
+    "createdAt": "January 26, 2026 at 05:58AM"
   }
 ]
