@@ -1206,5 +1206,13 @@
     "publishedAt": "January 27, 2026 at 11:00PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "#立石正広 #谷端将伍 #ドラフト #阪神タイガース #大学野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8vvYtJHK6VY",
+    "publishedAt": "January 28, 2026 at 06:00PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
