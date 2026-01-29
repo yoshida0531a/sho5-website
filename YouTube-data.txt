@@ -1214,5 +1214,13 @@
     "publishedAt": "January 28, 2026 at 06:00PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２谷端将伍が憧れ森下翔太と初対面「オーラすごかった」緊張の面持ちであいさつ回り Sk king",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Hv3bji-bOnI",
+    "publishedAt": "January 29, 2026 at 11:41PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
