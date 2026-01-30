@@ -1222,5 +1222,13 @@
     "publishedAt": "January 29, 2026 at 11:41PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、スター激突！衝撃判明、劇的展開の裏側？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=rMVkWx-OxHg",
+    "publishedAt": "January 30, 2026 at 07:36AM",
+    "description": "阪神タイガース、期待のルーキー・谷端将伍選手が合流！初の自主トレの様子を大公開！✨   日大からドラフト2位で入団した谷 ...",
+    "keyword": "谷端 阪神"
   }
 ]
