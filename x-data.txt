@@ -12124,5 +12124,83 @@
     "userName": "horai551horai",
     "tweetUrl": "https://twitter.com/horai551horai/status/2017335139756339234",
     "createdAt": "January 31, 2026 at 05:32AM"
+  },
+  {
+    "text": "【阪神・森下翔太　うるま市立田場小を訪問】\n\n先乗り合同自主トレを終えた森下、井坪、今朝丸、谷端がうるま市立田場小を、石井、村上、小幡、百崎が宜野座村立漢那小を、それぞれ訪問した。\n\n#森下翔太\nhttps://t.co/hsHZBsHgl9",
+    "userName": "X9LzSd1Orh78942",
+    "tweetUrl": "https://twitter.com/X9LzSd1Orh78942/status/2017352918735982634",
+    "createdAt": "January 31, 2026 at 06:43AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「早く名前を覚えてもらってまた来年も」初の小学校訪問に「楽しい時間」 ＜野球 / NPB / プロ野球＞\n\n【PR】Amazonタイムセール開催中\nお得な商品が毎日更新 https://t.co/cUu0Y50KNN\n\nhttps://t.co/fkJgeqAvHT",
+    "userName": "k_baseball_01",
+    "tweetUrl": "https://twitter.com/k_baseball_01/status/2017357917209694499",
+    "createdAt": "January 31, 2026 at 07:03AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「早く名前を覚えてもらってまた来年も」初の小学校訪問に「楽しい時間」 https://t.co/hTgGQY1Agt",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2017376089606418857",
+    "createdAt": "January 31, 2026 at 08:15AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍「早く名前を覚えてもらってまた来年も」初の小学校訪問に「楽しい時間」(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/1jgW7HsDwa",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2017382060336550384",
+    "createdAt": "January 31, 2026 at 08:38AM"
+  },
+  {
+    "text": "WBC中の阪神スタメン\n\n1近本、中\n2中野、二\n3谷端、左\n4大山、一\n5立石、三\n6ディバニー、遊\n7中川、右\n8伏見、捕\n9ピッチャー",
+    "userName": "shasuyakyuu",
+    "tweetUrl": "https://twitter.com/shasuyakyuu/status/2017391864840880186",
+    "createdAt": "January 31, 2026 at 09:17AM"
+  },
+  {
+    "text": "☑チェック📚 75773\n\n月刊タイガース 2026年 02 月号 1/30\n\n果てなき再進化\n大山悠輔\n\n及川雅貴 立石正広 谷端将伍\n川上千尋 阪神タイガース\n\nhttps://t.co/g5jAafHLSa",
+    "userName": "CoCoA_Chan__",
+    "tweetUrl": "https://twitter.com/CoCoA_Chan__/status/2017392308157837493",
+    "createdAt": "January 31, 2026 at 09:19AM"
+  },
+  {
+    "text": "藤川阪神、連覇への課題は「レフトとショート」の固定　ドラ1・立石正広、2位・谷端将伍をどう起用するか【中西清起氏×片岡篤史氏・OB対談】(NEWSポストセブン)\nhttps://t.co/kRCLaEEC1g",
+    "userName": "zuliyed",
+    "tweetUrl": "https://twitter.com/zuliyed/status/2017392455038206330",
+    "createdAt": "January 31, 2026 at 09:20AM"
+  },
+  {
+    "text": "確かにシェラトンや\n\nや【記事全文】阪神・森下翔太　“行列のできる相談所”を宜野座Cで開設　ドラ2谷端将伍ら若手を歓迎「教えたい」 - スポニチ Sponichi Annex 野球 https://t.co/wUB06vfDjQ",
+    "userName": "asEVnKPwOVjt6OM",
+    "tweetUrl": "https://twitter.com/asEVnKPwOVjt6OM/status/2017497508587725027",
+    "createdAt": "January 31, 2026 at 04:17PM"
+  },
+  {
+    "text": "阪神・藤川球児流「食卓改革」　今春キャンプも23歳以下＆寮生活者に“外食禁止令”(スポニチアネックス)\n今年の宜野座組では今朝丸、百崎、ドラフト2位・谷端（日大）、具志川組では山田、同1位・立石（創価大）、同3位・岡城（筑波大）らがその枠組みだ。\n#Yahooニュース https://t.co/ufsyhUsuAL",
+    "userName": "naranotorao",
+    "tweetUrl": "https://twitter.com/naranotorao/status/2017503551589912854",
+    "createdAt": "January 31, 2026 at 04:41PM"
+  },
+  {
+    "text": "ついに明日キャンプイン🙌🏻🙌🏻\n\n阪神が黄金期を伸ばせるかは\n立石、谷端、下村、今朝丸にかかってる！\nと個人的には思ってるので、今年のキャンプはこの4人に注目ッ( ఠ‿ఠ )\n\nあとプラスワンで早川！",
+    "userName": "yasikotora",
+    "tweetUrl": "https://twitter.com/yasikotora/status/2017517658443546828",
+    "createdAt": "January 31, 2026 at 05:37PM"
+  },
+  {
+    "text": "サトテルやっとサインか。\nでもちょっと見損なったかな。\nかなり俺の中ではマイナス評価。\n推しから外れたね。\n\n今年は応援するが。\n\nどうしてもメジャー行くならその先は一切応援しない。なぜなら阪神の選手ではなくなるから。\n\nさて、次の推しは誰にするかな。\n右京か…今年入った谷端か。",
+    "userName": "roland700gx",
+    "tweetUrl": "https://twitter.com/roland700gx/status/2017581756350861364",
+    "createdAt": "January 31, 2026 at 09:52PM"
+  },
+  {
+    "text": "数年後、神ドラフトと言われるように切磋琢磨して頑張ってや！\n\n阪神タイガース・ドラ２谷端将伍\n「早く名前を覚えてもらってまた来年も」初の小学校訪問に「楽しい時間」\n https://t.co/cNLHW5irDa",
+    "userName": "lovebaseball_tg",
+    "tweetUrl": "https://twitter.com/lovebaseball_tg/status/2017610786118746283",
+    "createdAt": "January 31, 2026 at 11:47PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】森下先輩が目標！ドラ２谷端将伍「背中追い続けて頑張っていく」新人唯一の宜野座組 https://t.co/26g7fXPizh #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2017695070967791692",
+    "createdAt": "February 01, 2026 at 05:22AM"
   }
 ]
