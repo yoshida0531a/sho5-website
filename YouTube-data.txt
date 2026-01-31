@@ -1230,5 +1230,29 @@
     "publishedAt": "January 30, 2026 at 07:36AM",
     "description": "阪神タイガース、期待のルーキー・谷端将伍選手が合流！初の自主トレの様子を大公開！✨   日大からドラフト2位で入団した谷 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ２谷端将伍「早く名前を覚えてもらってまた来年も」初の小学校訪問に「楽しい時間」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=mBpHTkUgh_g",
+    "publishedAt": "January 31, 2026 at 07:00AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "#谷端将伍 #日本大学 #星稜 #ドラフト #阪神タイガース #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=TyBKVLgAi1Y",
+    "publishedAt": "January 31, 2026 at 10:00AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【合同自主トレ】いよいよ沖縄キャンプ直前！選手たちが宜野座に集まりキャンプインに向け調整を行いました！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=sCtOhPXzv2E",
+    "publishedAt": "January 30, 2026 at 10:45PM",
+    "description": "【合同自主トレ】 キャンプインを目前に、宜野座での合同自主トレが行われました！ 今日から合流した #岩崎優 選手は、宜野座に ...",
+    "keyword": "谷端 阪神"
   }
 ]
