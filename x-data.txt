@@ -12496,5 +12496,113 @@
     "userName": "1vnspPaJ5W59647",
     "tweetUrl": "https://twitter.com/1vnspPaJ5W59647/status/2018031601620574595",
     "createdAt": "February 02, 2026 at 03:40AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、柵越えゼロも「充実していました」シートノックでは二塁で軽快動き披露 - サンスポ https://t.co/hQLCslgQNG @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2018083244932207085",
+    "createdAt": "February 02, 2026 at 07:05AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍、キャンプ初日から猛アピール！フリー打撃、サトテルと同じ組で柵越え連発　右の長距離砲が早速存在感 https://t.co/nyvrx85w1P",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2018102835230220540",
+    "createdAt": "February 02, 2026 at 08:23AM"
+  },
+  {
+    "text": "阪神のドラフト2位の谷端がめっちゃいいって噂が流れてきた。\n\nあとディベイニーはショート守れるの？って感じなんか？\n\n阪神はショートにディベイニーが埋まるかどーかもあるけど、1番は小幡が今年ディベイニーが来てポジション簡単に開け渡したらあかんなって思ってる。",
+    "userName": "1994_sk",
+    "tweetUrl": "https://twitter.com/1994_sk/status/2018123904674672774",
+    "createdAt": "February 02, 2026 at 09:46AM"
+  },
+  {
+    "text": "阪神D2位・谷端、土と友達になる！！「高校以来…もう一度慣れていかないと」(サンケイスポーツ)\nhttps://t.co/UeWs5SaUQa",
+    "userName": "tYcwr66",
+    "tweetUrl": "https://twitter.com/tYcwr66/status/2018125433615872025",
+    "createdAt": "February 02, 2026 at 09:52AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍、キャンプ初日から猛アピール！フリー打撃、サトテルと同じ組で柵越え連発　右の長距離砲が早速存在感 https://t.co/IRLWXDs1Zi",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2018127767460598178",
+    "createdAt": "February 02, 2026 at 10:02AM"
+  },
+  {
+    "text": "阪神に立石と谷端を両取りされたのは同リーグとしてダメージが大きかったですが、ヤクルトもそれに負けないだけの指名ができたのは良かったですよねー\n今年のドラフトも独自路線に切り替えずに良い選...\n続き→https://t.co/N2efGAyart\n#マシュマロを投げ合おう",
+    "userName": "bokuru87",
+    "tweetUrl": "https://twitter.com/bokuru87/status/2018187288031957445",
+    "createdAt": "February 02, 2026 at 01:58PM"
+  },
+  {
+    "text": "高校の時から「真面目」って言われ続けていた谷端くんそらもう阪神にぴったりよ🐯 https://t.co/nxGrMckSnU",
+    "userName": "JACKANDKNIFE2",
+    "tweetUrl": "https://twitter.com/JACKANDKNIFE2/status/2018191713559544301",
+    "createdAt": "February 02, 2026 at 02:16PM"
+  },
+  {
+    "text": "阪神って今年も『1軍控えにするにはもったいない若手だけど、彼らを落とすと1軍控えスカスカ…』という状態にならないか心配\n\n立石,谷端,髙寺,前川,島田,岡城,濱田,中川あたりがどうなるか",
+    "userName": "tomwo_baseball",
+    "tweetUrl": "https://twitter.com/tomwo_baseball/status/2018202466500935947",
+    "createdAt": "February 02, 2026 at 02:58PM"
+  },
+  {
+    "text": "谷端将伍が二塁\n\n立石正広が三塁\n\nでシートノック🏏なう\n\n場所は違いますが\n\n阪神ちゃん🐅は”一芸入試”から”ユーティリティー”に移行した様だ",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2018233635825189137",
+    "createdAt": "February 02, 2026 at 05:02PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　充実の先乗り合同自主トレ!!　人見知り克服「いろんな先輩と会話もできた」 - スポニチ Sponichi Annex 野球 https://t.co/K2Vb0OeXQT",
+    "userName": "maezima21231",
+    "tweetUrl": "https://twitter.com/maezima21231/status/2018252269578563597",
+    "createdAt": "February 02, 2026 at 06:16PM"
+  },
+  {
+    "text": "【阪神期待の星】D2位・谷端将伍が二塁守備で魅せた！\n柵越えゼロ？そんなの関係なし！✨\n\n阪神D2位の谷端将伍選手がシートノックで軽快なセカンドの動きを披露。\n「打つだけが野球じゃない」と言わんばかりの安定感に、首脳陣もファンも熱視線です。本人は「充実していた」と手応え十分！ https://t.co/cD6vRQfdB2",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2018253054768771479",
+    "createdAt": "February 02, 2026 at 06:20PM"
+  },
+  {
+    "text": "3月OP戦で観れるかな阪神打線\n\n1 中 近本→井坪\n2 二 中野→谷端\n3 三 立石\n4 一 大山\n5 遊 ディベイニー\n6 左 前川→豊田、小野寺\n7 右 濱田→福島、西純矢\n8 捕 伏見\n9 投 西勇輝→桐敷→モレッタ→ラグズデールなど\n\n濱田がライト？ファースト？\n若手で外野手、あんまりいない",
+    "userName": "suna_uni_mame",
+    "tweetUrl": "https://twitter.com/suna_uni_mame/status/2018310779146223644",
+    "createdAt": "February 02, 2026 at 10:09PM"
+  },
+  {
+    "text": "阪神の新人では２位の谷端くん推し😎👍 https://t.co/q0vbH01yzI",
+    "userName": "DEeMBJ62j178764",
+    "tweetUrl": "https://twitter.com/DEeMBJ62j178764/status/2018319606734323779",
+    "createdAt": "February 02, 2026 at 10:44PM"
+  },
+  {
+    "text": "谷端やっぱ大学時代と足の上げ方変えてる気がするな\n\n前はもっとシンプルに足あげて踏み出してたけど、今は若干巨人の坂本みたいなタイミングの取り方になってる",
+    "userName": "gudedora",
+    "tweetUrl": "https://twitter.com/gudedora/status/2018323380978782665",
+    "createdAt": "February 02, 2026 at 10:59PM"
+  },
+  {
+    "text": "5部　まいてぃー\n\nこの時期の握手会、毎年のように今年の阪神の注目選手をちひさんに聞いてたので、\n\n今年はまいてぃーに質問を\n\nその結果、谷端選手との回答をいただいたので、今年は谷端選手に注目したいと思います🐯",
+    "userName": "winterFChiYa39",
+    "tweetUrl": "https://twitter.com/winterFChiYa39/status/2018345394770784552",
+    "createdAt": "February 03, 2026 at 12:26AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍、キャンプ初日から猛アピール！フリー打撃、サトテルと同じ組で柵越え連発　右の長距離砲が早速存在感 \nhttps://t.co/iV8IFyoCmf",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2018356826077605949",
+    "createdAt": "February 03, 2026 at 01:12AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍が２日目で“プロ１号”「確実に当てる、を意識しての１本」で存在感 https://t.co/M0bIuEgjLf #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2018422389655118070",
+    "createdAt": "February 03, 2026 at 05:32AM"
+  },
+  {
+    "text": "【記事全文】亀山つとむ氏　阪神ドラ2谷端将伍はDeNA・牧に似ている　逆方向への打球は1軍戦力レベル - スポニチ Sponichi Annex 野球 https://t.co/UOSIgFakO9",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2018424601450364960",
+    "createdAt": "February 03, 2026 at 05:41AM"
   }
 ]
