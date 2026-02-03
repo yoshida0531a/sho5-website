@@ -1294,5 +1294,45 @@
     "publishedAt": "February 2, 2026 at 11:45PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【予想以上の逸材か】評論家からは「谷端の雰囲気は牧っぽい。」との声も。高橋は遂に開幕ローテーション入りか！【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=C7qNWz4AUVA",
+    "publishedAt": "February 3, 2026 at 12:00PM",
+    "description": "これからも阪神に関する動画を”ほぼ毎日”アップしていきますので、チャンネル登録お願いします！",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】衝撃の開幕スタメンが判明  #阪神タイガース #shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=43uA_CEsYIA",
+    "publishedAt": "February 3, 2026 at 06:00PM",
+    "description": "甲子園 #baseball #hanshintigers #プロ野球 #阪神 #野球雑学 #阪神ファン #近本光司 #中野拓夢 #森下翔太 #佐藤輝明 #大山悠輔 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【キャンプ考察2/3🔥】谷端１軍で勝負出来る力はある‼️伊原いい調整している充分ローテに入れる力がある‼️　 #阪神タイガース＃阪神タイガースたしなむ＃阪神　春季キャンプ#阪神キャンプ2/3＃森下翔太",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=5i0RL-ZbKeI",
+    "publishedAt": "February 3, 2026 at 08:40PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2・谷端の怪物ルーキーエピソード#プロ野球 #阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=dAuLwe3jo1M",
+    "publishedAt": "February 3, 2026 at 10:15PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【キャンプ考察2/3🔥】谷端１軍で勝負出来る力はある‼️伊原いい調整している充分ローテに入れる力がある‼️　 #阪神タイガース＃阪神タイガースたしなむ＃阪神　春季キャンプ#阪神キャンプ2/3＃森下翔",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=L4hausCQdgQ",
+    "publishedAt": "February 3, 2026 at 10:16PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
   }
 ]
