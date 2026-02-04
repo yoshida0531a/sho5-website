@@ -1334,5 +1334,85 @@
     "publishedAt": "February 3, 2026 at 10:16PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾️ 若虎・谷端将伍が魅せた！春季キャンプ初安打の瞬間✨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=WaIz9soqMws",
+    "publishedAt": "February 4, 2026 at 02:17PM",
+    "description": "沖縄・宜野座で行われた阪神タイガース春季キャンプ。ドラフト2位・谷端将伍選手（21歳）がついに「虎初安打」を記録しま ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥阪神ルーキー谷端将伍、キャンプ初安打で開幕１軍アピール⚡⚾",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hT5sukGQBDE",
+    "publishedAt": "February 4, 2026 at 02:56PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位の谷端将伍、シート打撃で“2026年チーム初安打”＆“プロ初安打”",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zbbV-I-UxBg",
+    "publishedAt": "February 4, 2026 at 03:29PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【レフト争いに加わる？】新戦力の濱田＆谷端が快音を連発！ブルペン入りの下村は復活へ大きく前進か！【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=HUlP54gGAVI",
+    "publishedAt": "February 4, 2026 at 05:00PM",
+    "description": "これからも阪神に関する動画を”ほぼ毎日”アップしていきますので、チャンネル登録お願いします！",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】19歳今朝丸がホロ苦被弾…一方でドラ2谷端が門別から衝撃の初安打！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jfL6Rtd_6BY",
+    "publishedAt": "February 4, 2026 at 05:18PM",
+    "description": "2026年2月4日、阪神タイガースの宜野座キャンプで行われた初のシート打撃。期待の高卒2年目・今朝丸裕喜投手が登板しました ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神2位指名｜東都二部秋リーグ2025】谷端将伍（日本大4年）がライト前ヒット！#野球youtube #阪神タイガース #日本大学 #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=u4jnmiC_pKY",
+    "publishedAt": "February 4, 2026 at 06:01PM",
+    "description": "東都二部秋リーグ（大田スタジアム） ◇2025/10/28◇ 谷端将伍（日本大4年）がライト前ヒット！ 【選手紹介】 谷端将伍（たに ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【楽しみ過ぎる】谷端が初安打！濱田がチーム初HR！下村が初ブルペン！虎の新戦力が猛アピール！阪神タイガース密着！応援番組「虎バン」ABCテレビ公式チャンネル",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=z81szjVl9h0",
+    "publishedAt": "February 4, 2026 at 09:05PM",
+    "description": "2026年2月1日(日)～連日配信中！ 阪神タイガース沖縄キャンプダイジェスト5日目 ☆石井大智 ・ 坂本誠志郎のＷＢＣ組 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯【阪神】ドラ2谷端将伍が宜野座で存在感！💪ルーキー唯一の一軍キャンプも余裕「倒れるほどじ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=BSa5Qru5AXE",
+    "publishedAt": "February 4, 2026 at 09:27PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【キャンプ考察2/4🔥】木下良くなってるぞ‼️谷端内容かなりいいぞ‼️百崎も成長している‼️#阪神タイガース＃阪神タイガースをたしなむ#阪神キャンプ　2/4#下村 海翔#藤川監督#谷端将吾",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zmd5rPgBltQ",
+    "publishedAt": "February 4, 2026 at 10:46PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【キャンプ考察2/4🔥】木下良くなってるぞ‼️谷端内容かなりいいぞ‼️百崎も成長している‼️#阪神タイガース＃#阪神　シート打撃#阪神タイガースをたしなむ#阪神キャンプ　2/4#下村 海翔#谷端将吾",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=NYsYHXH2VWE",
+    "publishedAt": "February 4, 2026 at 11:54PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
   }
 ]
