@@ -1414,5 +1414,61 @@
     "publishedAt": "February 4, 2026 at 11:54PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "😱阪神ドラ2ルーキー、プロ投手相手に初球ホームラン！宜野座スタンドが興奮の渦！新たな&quot;破壊兵器&quot;が登場！阪神はNPB全体を爆撃した #阪神タイガース #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=raJxqwI47gg",
+    "publishedAt": "February 5, 2026 at 02:45PM",
+    "description": "【阪神春季キャンプ】ドラフト２位・谷端将伍が初対ピッチャーで魅せた驚愕の初球ヒット！⚾️   この動画が面白かったら「 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2谷端がプロ初打席初球ヒット！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hDQaoKRBkXo",
+    "publishedAt": "February 5, 2026 at 02:47PM",
+    "description": "阪神タイガース #谷端将伍 #ドラフト2位 #プロ野球 #キャンプ #宜野座 #野球 #スポーツ #ルーキー 当チャンネルのコンテンツは、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【新人選手のキャンプ初休日】宜野座組の新人＃谷端将伍 選手がバスソルト作りに挑戦！リラックスアイテムを自作しました！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vuO1-GwEExM",
+    "publishedAt": "February 5, 2026 at 06:05PM",
+    "description": "【新人選手のキャンプ初休日】 宜野座組の新人＃谷端将伍 選手がバスソルト作りに挑戦しました！ リラックスアイテムを自作 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ルーキーの初休日】春季キャンプ初の休日！エイサー体験・バスソルトづくりで沖縄文化を学ぶ！！阪神タイガース密着！応援番組「虎バン」ABCテレビ公式チャンネル",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Qhr6t5C1Z58",
+    "publishedAt": "February 5, 2026 at 07:00PM",
+    "description": "2026年2月1日(日)～連日配信中！ ▷ドラフト1位の立石を含む具志川組はエイサー体験で沖縄の伝統文化を学ぶ！ ▷ドラフト2位 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【若手覚醒の予感】濱田の長打力が炸裂！谷端は即戦力？下村のブルペン投球に首脳陣も注目【阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=FOJu-TMA8gA",
+    "publishedAt": "February 6, 2026 at 04:00AM",
+    "description": "【若手覚醒の予感】濱田の長打力が炸裂！谷端は即戦力？下村のブルペン投球に首脳陣も注目【阪神タイガース フル動画 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "#谷端将伍 #阪神タイガース #ドラフト #大学野球 #高校野球 #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Y1vguVZZDKQ",
+    "publishedAt": "February 6, 2026 at 06:00AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ルーキー唯一の宜野座組】ABCラジオ「川上千尋の虎たまプレミアム！」谷端将伍選手のインタビューをお届け！！阪神タイガース密着！応援番組「虎バン」ABCテレビ公式チャンネル",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=oe4Kmpx7k8I",
+    "publishedAt": "February 6, 2026 at 09:01PM",
+    "description": "ABCラジオ「川上千尋の虎たまプレミアム！」（FM93.3MHz・AM1008kHz） 2026年2月6日(金) 20時45分～ 出演：川上 千尋 ...",
+    "keyword": "谷端 阪神"
   }
 ]
