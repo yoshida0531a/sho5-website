@@ -13102,5 +13102,365 @@
     "userName": "Madobe_zoku",
     "tweetUrl": "https://twitter.com/Madobe_zoku/status/2019159486611747139",
     "createdAt": "February 05, 2026 at 06:21AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、シート打撃の初打席！初球！いきなり初安打　「自分の間で打てた」（1/2ページ） - サンスポ https://t.co/kUJEXgxtEe @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2019172977200574627",
+    "createdAt": "February 05, 2026 at 07:15AM"
+  },
+  {
+    "text": "阪神　ドラ2・谷端将伍「積極性が持ち味」“プロ初スイング”で初安打、しかも26年チーム実戦初安打 - スポニチ Sponichi Annex 野球 https://t.co/I7HxMUre7p",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2019173672934912452",
+    "createdAt": "February 05, 2026 at 07:18AM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍が“プロ初安打”「初球からフルスイングできたかな」門別の初球を左前に https://t.co/dprMQI7qyg",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2019180860826673276",
+    "createdAt": "February 05, 2026 at 07:46AM"
+  },
+  {
+    "text": "おはよーございます🌞\nボチボチ寒さも落ち着いてますね今日は。キャンプも実戦始まりましたねーそこでドラ2谷端くんいきなり魅せます！！門別くんの初球真っ直ぐとらえてヒット！！いきなり振れるのはめっちゃいいすねー楽しみやわ立石くんも含めて新しい阪神をくっていく中心になってほしいね🙌🐯 https://t.co/ZOMVp7fzbw",
+    "userName": "BASKKFOKD",
+    "tweetUrl": "https://twitter.com/BASKKFOKD/status/2019181776447353139",
+    "createdAt": "February 05, 2026 at 07:50AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端が“初安打”鮮烈実戦デビュー　初打席初球打ち「積極性は自分のアピールポイント」\nhttps://t.co/m1kYZbsUY1 #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2019184826277065021",
+    "createdAt": "February 05, 2026 at 08:02AM"
+  },
+  {
+    "text": "【記事全文】阪神　ドラ2・谷端将伍「積極性が持ち味」“プロ初スイング”で初安打、しかも26年チーム実戦初安打 - スポニチ Sponichi Annex 野球 https://t.co/psMDO9Hc2R",
+    "userName": "Sponichi1000",
+    "tweetUrl": "https://twitter.com/Sponichi1000/status/2019210793850663372",
+    "createdAt": "February 05, 2026 at 09:45AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、シート打撃の初打席！初球！いきなり初安打　「自分の間で打てた」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/qaF9CuwXdQ",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/2019211521612738656",
+    "createdAt": "February 05, 2026 at 09:48AM"
+  },
+  {
+    "text": "朝の虎🐯ニュース（2/5）\n\n1. 浜田太貴が“虎1号”をシート打撃で放った。外野争いが一気に熱い🔥\n2. 今朝丸裕喜はホロ苦登板。でも「球自体は良かった」…ここから上げてくるかも💪\n3. ドラ2谷端将伍が“プロ初安打”。初球から振り抜く姿勢が刺さる⚡\n\n#阪神タイガース #タイガース #NPB",
+    "userName": "raulpaisen",
+    "tweetUrl": "https://twitter.com/raulpaisen/status/2019213026776477855",
+    "createdAt": "February 05, 2026 at 09:54AM"
+  },
+  {
+    "text": "出たぞ！阪神、今キャンプ初シート打撃でドラ2谷端将伍が初打席初安打　門別から左前打\nhttps://t.co/MIur3fcIF7",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2019214396023804088",
+    "createdAt": "February 05, 2026 at 10:00AM"
+  },
+  {
+    "text": "出たぞ！阪神、今キャンプ初シート打撃でドラ2谷端将伍が初打席初安打　門別から左前打 https://t.co/gvLM4FyqTL",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2019230075384729982",
+    "createdAt": "February 05, 2026 at 11:02AM"
+  },
+  {
+    "text": "【阪神キャンプ2026】\n昨日のシート打撃、一番印象に残ったのは誰ですか？\n\n自分はもちろん浜田選手のホームランでした🐯谷端選手にヒットが出たのも嬉しかったです！\n\n新加入の選手が良い感じですね✨",
+    "userName": "tora_gishi",
+    "tweetUrl": "https://twitter.com/tora_gishi/status/2019248729161888128",
+    "createdAt": "February 05, 2026 at 12:16PM"
+  },
+  {
+    "text": "谷端もやるよ！🐯\n\n巨人スコアラーが「すごい」と評したドラ２ルーキー　初めてプロの投手と対戦→初球を一発で仕留める(阪神Vデイリー) https://t.co/i0tvzRimd9",
+    "userName": "MLoYZ2EKio2915",
+    "tweetUrl": "https://twitter.com/MLoYZ2EKio2915/status/2019249122805797271",
+    "createdAt": "February 05, 2026 at 12:18PM"
+  },
+  {
+    "text": "阪神　ドラフト２位の谷端がオリジナルバスソルトづくり体験　リラックス効果ありで「持ち帰れるのでうれしい」　過去に具志堅用高が入った足湯も体験\nhttps://t.co/OA9ameZEXf #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2019260603014213902",
+    "createdAt": "February 05, 2026 at 01:03PM"
+  },
+  {
+    "text": "【記事全文】阪神　ドラ2・谷端将伍「積極性が持ち味」“プロ初スイング”で初安打、しかも26年チーム実戦初安打 - スポニチ Sponichi Annex 野球 https://t.co/GvZOynkJJs",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2019261207681835433",
+    "createdAt": "February 05, 2026 at 01:06PM"
+  },
+  {
+    "text": "1人かーーい！！\n阪神　ドラフト２位の谷端がオリジナルバスソルトづくり体験　リラックス効果ありで「持ち帰れるのでうれしい」　過去に具志堅用高が入った足湯も体験(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/6ckZGuhv9L",
+    "userName": "Ari10imomusi20",
+    "tweetUrl": "https://twitter.com/Ari10imomusi20/status/2019262023352344593",
+    "createdAt": "February 05, 2026 at 01:09PM"
+  },
+  {
+    "text": "阪神　ドラフト２位の谷端がオリジナルバスソルトづくり体験　リラックス効果ありで「持ち帰れるのでうれしい」　過去に具志堅用高が入った足湯も体験(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/vVzK8h3DcZ",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2019264879795056885",
+    "createdAt": "February 05, 2026 at 01:20PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　キャンプ休日にオリジナルバスソルトづくり体験に参加「いい休日になった」 - スポニチ Sponichi Annex 野球 https://t.co/TDgGWDHgdA",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2019265432348463106",
+    "createdAt": "February 05, 2026 at 01:22PM"
+  },
+  {
+    "text": "阪神・谷端将伍がバスソルト作り「湯船に長い時間入って疲れをとっている」 - サンスポ https://t.co/One9C9Yt6q @SANSPOCOMより",
+    "userName": "sanspooskseiri",
+    "tweetUrl": "https://twitter.com/sanspooskseiri/status/2019265960780394945",
+    "createdAt": "February 05, 2026 at 01:24PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍がオリジナル入浴剤作りを体験「いいものが作れた」選んだフレーバーは… https://t.co/SPFRzgwzEZ #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2019269116842971367",
+    "createdAt": "February 05, 2026 at 01:37PM"
+  },
+  {
+    "text": "阪神・谷端将伍がバスソルト作り「湯船に長い時間入って疲れをとっている」 - サンスポ https://t.co/hSnkUsruxU",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2019278504681205862",
+    "createdAt": "February 05, 2026 at 02:14PM"
+  },
+  {
+    "text": "【阪神】ドラ２谷端将伍がオリジナル入浴剤作りを体験「いいものが作れた」選んだフレーバーは… https://t.co/QulkSvOKyZ",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2019278871724720469",
+    "createdAt": "February 05, 2026 at 02:16PM"
+  },
+  {
+    "text": "阪神ドラフト２位の谷端がオリジナルバスソルトづくり体験リラックス効果ありで「持ち帰れるのでうれしい」過去に具志堅用高が入った足湯も体験 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/F6h7FUEl5j",
+    "userName": "dstore_803",
+    "tweetUrl": "https://twitter.com/dstore_803/status/2019286158728139221",
+    "createdAt": "February 05, 2026 at 02:45PM"
+  },
+  {
+    "text": "谷端将伍、具志川組のルーキーたちと離れて何をしてるんだろうな〜って思ってたら一人で入浴剤作りに勤しんでて可愛すぎる。",
+    "userName": "22_speed_",
+    "tweetUrl": "https://twitter.com/22_speed_/status/2019289689979781230",
+    "createdAt": "February 05, 2026 at 02:59PM"
+  },
+  {
+    "text": "谷端将伍（たにはた・しょうご）選手が\nなんと２位で獲れた！\nこれはもう\n優勝か優勝の\n二択しかないっ！\n【楽しみ過ぎる】谷端が初安打！濱田がチーム初HR！下村が初ブルペン！虎の新戦力が猛アピール！\n🐯虎バンチャンネル\nhttps://t.co/XveQ8zKuzU \n#虎バン \n#星稜高校 \n#白山市 \n#阪神タイガース",
+    "userName": "Kobebay31st",
+    "tweetUrl": "https://twitter.com/Kobebay31st/status/2019295285831430181",
+    "createdAt": "February 05, 2026 at 03:21PM"
+  },
+  {
+    "text": "阪神・谷端将伍がバスソルト作り「湯船に長い時間入って疲れをとっている」(サンケイスポーツ)\n#Yahooニュース\n#阪神タイガース #谷端将伍\n#沖縄キャンプ2026\nhttps://t.co/7FaqRgSV32",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2019310532520767639",
+    "createdAt": "February 05, 2026 at 04:22PM"
+  },
+  {
+    "text": "阪神ちゃん🐅\n\nもし立石正広を抽選で外したら、谷端将伍を繰上げ1位指名したのかしら？",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2019320557976891561",
+    "createdAt": "February 05, 2026 at 05:01PM"
+  },
+  {
+    "text": "阪神　ドラ2・谷端将伍「積極性が持ち味」“プロ初スイング”で初安打、しかも26年チーム実戦初安打 - スポニチ Sponichi Annex 野球 https://t.co/Ez9Xj8cp63",
+    "userName": "maezima21231",
+    "tweetUrl": "https://twitter.com/maezima21231/status/2019327758242034041",
+    "createdAt": "February 05, 2026 at 05:30PM"
+  },
+  {
+    "text": "【宜野座どよめく】ドラ2・谷端将伍、衝撃の初球ヒット！Gスコアラーも「すごい」と絶句 \n https://t.co/TdLexSgNVJ\n\n#阪神タイガース\n#谷端将伍 https://t.co/7DueSqcr1L",
+    "userName": "kokeisansyo_tv",
+    "tweetUrl": "https://twitter.com/kokeisansyo_tv/status/2019344159300313170",
+    "createdAt": "February 05, 2026 at 06:35PM"
+  },
+  {
+    "text": "阪神第2クールから\n谷端は外野やるのかは気になるところ",
+    "userName": "p1y19ciwgg61650",
+    "tweetUrl": "https://twitter.com/p1y19ciwgg61650/status/2019373238242144401",
+    "createdAt": "February 05, 2026 at 08:31PM"
+  },
+  {
+    "text": "\"阪神ドラ2・谷端将伍 キャンプ休日にオリジナルバスソルトづくり体験に参加「いい休日になった」\" https://t.co/KWDXXvoAsO",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2019393753753272423",
+    "createdAt": "February 05, 2026 at 09:52PM"
+  },
+  {
+    "text": "阪神がキャンプメンバー発表！ドラ2・谷端が新人唯一の宜野座組！具志川組には岩崎、大竹、梅野、木浪ら(高校野球ドットコム)\nhttps://t.co/z9nz7V5I3I",
+    "userName": "744g3j",
+    "tweetUrl": "https://twitter.com/744g3j/status/2019397087163723827",
+    "createdAt": "February 05, 2026 at 10:05PM"
+  },
+  {
+    "text": "阪神・ドラ2谷端が“初安打”鮮烈実戦デビュー　初打席初球打ち「積極性は自分のアピールポイント」 https://t.co/vCHb5KEEtk\n\n谷端も立石と遜色ない能力の\n持ち主\n決して大柄ではないが、\n打撃は無駄な動きがなくバットが振れる\nひょっとしたら谷端のほうが\nデビューが早いかもな",
+    "userName": "GoldKTigers",
+    "tweetUrl": "https://twitter.com/GoldKTigers/status/2019398991163888062",
+    "createdAt": "February 05, 2026 at 10:13PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　キャンプ休日にオリジナルバスソルトづくり体験に参加「いい休日になった」 - スポニチ Sponichi Annex 野球 https://t.co/JqcHK3TQOF",
+    "userName": "maezima21231",
+    "tweetUrl": "https://twitter.com/maezima21231/status/2019399697757270524",
+    "createdAt": "February 05, 2026 at 10:16PM"
+  },
+  {
+    "text": "阪神のドラフト２位ルーキー谷端、左右は違うが、金本の再来かもしれない。#阪神タイガース",
+    "userName": "kuwagatamaru",
+    "tweetUrl": "https://twitter.com/kuwagatamaru/status/2019407097893695938",
+    "createdAt": "February 05, 2026 at 10:45PM"
+  },
+  {
+    "text": "【新人選手のキャンプ初休日】宜野座組の新人＃谷端将伍 選手がバスソルト作りに挑戦！リラックスアイテムを自作しました！ https://t.co/8L4LcuDDSr @YouTubeより",
+    "userName": "chixxx94045980",
+    "tweetUrl": "https://twitter.com/chixxx94045980/status/2019411763062841803",
+    "createdAt": "February 05, 2026 at 11:04PM"
+  },
+  {
+    "text": "【あのスイングからは想像できない繊細な趣味…ギャップ萌えが止まりません。】\n\n阪神期待の若虎・谷端将伍選手が、まさかの「バスソルト作り」に夢中!? 🛀✨\n豪快なバッティングの裏側にある、プロとしての繊細なコンディショニング術に注目です。\n\n詳細はこちら👇\nhttps://t.co/LS8S7dDhz0 https://t.co/0NylCsJYeL",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2019415841977299388",
+    "createdAt": "February 05, 2026 at 11:20PM"
+  },
+  {
+    "text": "ヤクルトの内山っぽいけどリトル森下くらいになってくれたらな\n立石はケガ無く慣れれば結構数字残しそうやし谷端来たらデカいで\n\n阪神　Ｇスコアラーが「すごい」と評したドラ２ルーキー　初めてプロの投手と対戦→初球を一発で仕留める　宜野座のスタンドどよめく\nhttps://t.co/AHurdZO5vl",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/2019421328378626051",
+    "createdAt": "February 05, 2026 at 11:42PM"
+  },
+  {
+    "text": "阪神期待の新人谷端くん\n\n早速ユニ予約しよ。25 前川右京も負けられないなあー　多分レフト争い\n\n#阪神タイガース #谷端将伍 https://t.co/PdkAC8CaCy",
+    "userName": "mTEWHds0EEyTZUr",
+    "tweetUrl": "https://twitter.com/mTEWHds0EEyTZUr/status/2019422611663704248",
+    "createdAt": "February 05, 2026 at 11:47PM"
+  },
+  {
+    "text": "💖雑紙新刊紹介 1408180\n\n月刊タイガース 2026年 02 月号 1/30\n\n果てなき再進化\n大山悠輔\n\n及川雅貴 立石正広 谷端将伍\n川上千尋 阪神タイガース\n\nhttps://t.co/WydK4ooy7m",
+    "userName": "sarasara9001",
+    "tweetUrl": "https://twitter.com/sarasara9001/status/2019492057845526908",
+    "createdAt": "February 06, 2026 at 04:23AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、キャンプ休日にバスソルト作り「今はしっかりとした生活リズムを送れている」 - サンスポ https://t.co/E9uv396pjW @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2019537199969235343",
+    "createdAt": "February 06, 2026 at 07:22AM"
+  },
+  {
+    "text": "おはようございます🐯\n阪神ファンは、立石だけやなくて谷端にも期待してるんやで！\n谷端！Fight🔥 https://t.co/6VTVndCO6v",
+    "userName": "hiro_ken_son",
+    "tweetUrl": "https://twitter.com/hiro_ken_son/status/2019550856740499812",
+    "createdAt": "February 06, 2026 at 08:17AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　キャンプ休日にオリジナルバスソルトづくり体験に参加「いい休日になった」 https://t.co/LHwm18xqKa",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2019552007636533281",
+    "createdAt": "February 06, 2026 at 08:21AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、キャンプ休日にバスソルト作り「今はしっかりとした生活リズムを送れている」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/XifrUm6k0h",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/2019552355113656466",
+    "createdAt": "February 06, 2026 at 08:22AM"
+  },
+  {
+    "text": "1/3 阪神のドラ2・谷端将伍が、佐藤輝明の横でファンをうならせた。新人で唯一のキャンプ宜野座組として注目を集める姿が話題に。⚾️\n\n2/3 産経新聞によれば、この宜野座キャンプで谷端は走塁と守備のセンスを早速アピール。佐藤輝明と並ぶ場面でファンの視線を引いた。👀\n\n3… https://t.co/ZFPfFQFFv0",
+    "userName": "celine_hay24354",
+    "tweetUrl": "https://twitter.com/celine_hay24354/status/2019553073111171149",
+    "createdAt": "February 06, 2026 at 08:25AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、キャンプ休日にバスソルト作り「今はしっかりとした生活リズムを送れている」(サンケイスポーツ)\n#Yahooニュース\n#阪神タイガース #谷端将伍\n#沖縄キャンプ2026\nhttps://t.co/uop8sYnxjB",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2019558537329049829",
+    "createdAt": "February 06, 2026 at 08:47AM"
+  },
+  {
+    "text": "阪神〝ドラ2〟谷端将伍、佐藤輝明の横でファンうならせた　新人で唯一のキャンプ宜野座組 - 産経ニュース\nhttps://t.co/eL9dGd1T6s  \n阪神の沖縄・宜野座キャンプで、ドラフト2位ルーキーの内野手、谷端将伍（日大）の注目度が日を追うごとに高まっている。",
+    "userName": "SankeiNews_WEST",
+    "tweetUrl": "https://twitter.com/SankeiNews_WEST/status/2019568195456364737",
+    "createdAt": "February 06, 2026 at 09:25AM"
+  },
+  {
+    "text": "阪神のキャンプ見てると、ドラ1の立石くんはまだ病み上がりだからこれからとして、ドラ2の谷端くんがかなりやってくれそうな気がするんだけど、なんつーかプロ向きかなって。まぁど素人の意見なんですねどね😇",
+    "userName": "XXXXFX5",
+    "tweetUrl": "https://twitter.com/XXXXFX5/status/2019572080170406372",
+    "createdAt": "February 06, 2026 at 09:41AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、キャンプ休日にバスソルト作り「今はしっかりとした生活リズムを送れている」（サンケイスポーツ） https://t.co/ZgUWA6UEXV",
+    "userName": "nacchishika",
+    "tweetUrl": "https://twitter.com/nacchishika/status/2019583248985416096",
+    "createdAt": "February 06, 2026 at 10:25AM"
+  },
+  {
+    "text": "阪神〝ドラ2〟谷端将伍、佐藤輝明の横でファンうならせた　新人で唯一のキャンプ宜野座組(産経新聞)\n\nhttps://t.co/IhdS3YOEr7",
+    "userName": "1Z2cYqNrHD98898",
+    "tweetUrl": "https://twitter.com/1Z2cYqNrHD98898/status/2019586740063965257",
+    "createdAt": "February 06, 2026 at 10:39AM"
+  },
+  {
+    "text": "【新人選手のキャンプ初休日】宜野座組の新人＃谷端将伍 選手がバスソルト作りに挑戦！リラックスアイテムを自作しました！ https://t.co/FwNpgtpu87 @YouTubeより",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2019589096537223485",
+    "createdAt": "February 06, 2026 at 10:48AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　キャンプ休日にオリジナルバスソルトづくり体験に参加「いい休日になった」 https://t.co/fa4IhK5m8j",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2019591933979471956",
+    "createdAt": "February 06, 2026 at 11:00AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、キャンプ休日にバスソルト作り「今はしっかりとした生活リズムを送れている」(サンケイスポーツ)\n\nhttps://t.co/cwvRq4OVed",
+    "userName": "x26311096017161",
+    "tweetUrl": "https://twitter.com/x26311096017161/status/2019611636517204318",
+    "createdAt": "February 06, 2026 at 12:18PM"
+  },
+  {
+    "text": "確実に捉えるのが上手いよね映像見てると😄ヒットの延長線上がHRになるかんじかな？目指すは山田哲人のような打者になってくれるといいな🤭\n\n阪神〝ドラ2〟谷端将伍、佐藤輝明の横でファンうならせた　新人で唯一のキャンプ宜野座組(産経新聞)\n#Yahooニュース https://t.co/UjuhdRIpCh",
+    "userName": "redstar53ARENPA",
+    "tweetUrl": "https://twitter.com/redstar53ARENPA/status/2019620546288492815",
+    "createdAt": "February 06, 2026 at 12:53PM"
+  },
+  {
+    "text": "\"阪神〝ドラ2〟谷端将伍、佐藤輝明の横でファンうならせた 新人で唯一のキャンプ宜野座組\" https://t.co/fdAAeS2TFf",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2019689954952261883",
+    "createdAt": "February 06, 2026 at 05:29PM"
+  },
+  {
+    "text": "\"【阪神】ドラフト2位の谷端将伍、シート打撃で“2026年チーム初安打”＆“プロ初安打”\" https://t.co/inWNBmqn4y",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2019692024480559174",
+    "createdAt": "February 06, 2026 at 05:37PM"
+  },
+  {
+    "text": "@JING_BASEBALL 言われてみればそうかもしれないですね\n\n腕たたむ手首返さない、とかしてると打てないイメージあります。\n\n阪神ファンなので申し訳ないのですが、\n立石が左で谷端が右の印象です。",
+    "userName": "redtigeryakyu",
+    "tweetUrl": "https://twitter.com/redtigeryakyu/status/2019714550233534761",
+    "createdAt": "February 06, 2026 at 07:07PM"
+  },
+  {
+    "text": "今年活躍出来るかは分からんけど立石と谷端は楽しみやな🐯\n\n【阪神】藤川球児監督がドラフト１位・立石正広を宜野座組に合流させる意向「連係プレーなどを座学として学んでもらおうかな」（スポーツ報知） https://t.co/etDDXBdv2p",
+    "userName": "tribe_psycho",
+    "tweetUrl": "https://twitter.com/tribe_psycho/status/2019752739287253042",
+    "createdAt": "February 06, 2026 at 09:39PM"
+  },
+  {
+    "text": "#虎たま UPされてます🐯\n【ルーキー唯一の宜野座組】ABCラジオ「川上千尋の虎たまプレミアム！」谷端将伍選手のインタビューをお届け！！阪神タイガース密着！\n#阪神タイガース　#川上千尋🐯\nhttps://t.co/hvjt0ROxiN @YouTubeより https://t.co/v1y8Kxc8AV",
+    "userName": "shimorin42",
+    "tweetUrl": "https://twitter.com/shimorin42/status/2019754037332050247",
+    "createdAt": "February 06, 2026 at 09:44PM"
+  },
+  {
+    "text": "立石か谷端欲しいわーとか去年の今頃言ってたから、1年後立石と谷端で阪神の同じポジションを争うかもしれないとか言われたら去年の俺情緒おかしくなってそう",
+    "userName": "gudedora",
+    "tweetUrl": "https://twitter.com/gudedora/status/2019774340930425005",
+    "createdAt": "February 06, 2026 at 11:05PM"
+  },
+  {
+    "text": "【ルーキー唯一の宜野座組】ABCラジオ「川上千尋の虎たまプレミアム！」谷端将伍選手のインタビューをお届け！！阪神タイガース密着！応援番組「虎バン... https://t.co/PdLWceXXob @YouTubeより",
+    "userName": "kanikani_nosns",
+    "tweetUrl": "https://twitter.com/kanikani_nosns/status/2019805227835404621",
+    "createdAt": "February 07, 2026 at 01:07AM"
   }
 ]
