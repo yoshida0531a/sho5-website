@@ -13462,5 +13462,41 @@
     "userName": "kanikani_nosns",
     "tweetUrl": "https://twitter.com/kanikani_nosns/status/2019805227835404621",
     "createdAt": "February 07, 2026 at 01:07AM"
+  },
+  {
+    "text": "#スカイA猛虎\n谷端将伍選手  #25\n濱中治、新井貴浩選手の番号を継ぐスケールの大きさで期待大です！",
+    "userName": "I_mt1037",
+    "tweetUrl": "https://twitter.com/I_mt1037/status/2019989457815089519",
+    "createdAt": "February 07, 2026 at 01:19PM"
+  },
+  {
+    "text": "阪神は高卒3年目～5年目あたりの野手で誰が今季ブレークするか楽しみだな。そこに立石、谷端、岡城が入ったわけだし、なおさら楽しみ。",
+    "userName": "amadoraball",
+    "tweetUrl": "https://twitter.com/amadoraball/status/2019996705052381483",
+    "createdAt": "February 07, 2026 at 01:48PM"
+  },
+  {
+    "text": "阪神シート打撃ずっと見てられる😆\n能登いいね👍谷端頑張れ！",
+    "userName": "kikuitimonji37",
+    "tweetUrl": "https://twitter.com/kikuitimonji37/status/2020037921856954402",
+    "createdAt": "February 07, 2026 at 04:32PM"
+  },
+  {
+    "text": "(  ˙꒳​˙  )ﾌﾑﾌﾑ…\n明日の対外試合・日ハム戦は\nこういうオーダーか…\n立石・谷端・岡城は\n様子見ってとこかな？🤔\n\nディベィニー未知数やけど　\n前川今年あかんかったら　\nやばいなぁ…\n\n#オープン戦\n#阪神\n#ディベィニー\n#立石 https://t.co/GLQ5X0xEf7",
+    "userName": "nDPQ4FLWMibrSaU",
+    "tweetUrl": "https://twitter.com/nDPQ4FLWMibrSaU/status/2020124450276917601",
+    "createdAt": "February 07, 2026 at 10:16PM"
+  },
+  {
+    "text": "阪神、中川百崎立石谷端と23歳以下の右打者若手が充実しすぎてる件\nhttps://t.co/OklR39RmBt",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2020136717064229243",
+    "createdAt": "February 07, 2026 at 11:05PM"
+  },
+  {
+    "text": "@HT_keiba 立石と谷端とデバが使えたらホンマ困ったね｡2軍は将来に備えて百崎と山田中心で行くだろうし｡ただ彼阪神戦やたら打ったから誰かに取られるくらいなら〜🎵かな🤣",
+    "userName": "Bunnishi1",
+    "tweetUrl": "https://twitter.com/Bunnishi1/status/2020179006235250915",
+    "createdAt": "February 08, 2026 at 01:53AM"
   }
 ]
