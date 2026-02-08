@@ -1470,5 +1470,29 @@
     "publishedAt": "February 6, 2026 at 09:01PM",
     "description": "ABCラジオ「川上千尋の虎たまプレミアム！」（FM93.3MHz・AM1008kHz） 2026年2月6日(金) 20時45分～ 出演：川上 千尋 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "畠世周vs阪神ドラ2谷端将伍　シート打撃　#阪神タイガース　#阪神 #畠世周 #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kknSUABFPhY",
+    "publishedAt": "February 8, 2026 at 10:13AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【どうなる!?2026プロ野球】新戦力で阪神vs日ハム練習試合!!",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=sCWIRjYB3Z4",
+    "publishedAt": "February 8, 2026 at 12:00PM",
+    "description": "プロ野球スピリッツ2025 #プロスピ2026 #プロスピ2025 #プロ野球 #ストーブリーグ #パワプロ #プロスピ #オープン戦 #開幕戦 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】【謎】阪神ドラ2谷端、一人だけ「バスソルト作り」の怪。エイサー組との格差にファン困惑？【ネットの反応】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QMcebd-U4qg",
+    "publishedAt": "February 8, 2026 at 01:00PM",
+    "description": "こんにちは！ 超速アスリートチャンネルです！ 阪神ドラフト2位の谷端将伍選手が、キャンプ休日にバスソルト作りを体験！",
+    "keyword": "谷端 阪神"
   }
 ]
