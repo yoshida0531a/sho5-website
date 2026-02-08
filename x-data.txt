@@ -13498,5 +13498,101 @@
     "userName": "Bunnishi1",
     "tweetUrl": "https://twitter.com/Bunnishi1/status/2020179006235250915",
     "createdAt": "February 08, 2026 at 01:53AM"
+  },
+  {
+    "text": "立石、谷端、濱田、百崎は一軍で\n。\n力のないベテランは容赦なく二軍へ。\n\n#阪神タイガース\n#阪神タイガースファンと繋がりたい\n\n亀山つとむ氏　阪神ドラ2谷端将伍はDeNA・牧に似ている　逆方向への打球は1軍戦力レベル(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/DVcVrMOLX3",
+    "userName": "jun_sky_walkers",
+    "tweetUrl": "https://twitter.com/jun_sky_walkers/status/2020276171263603157",
+    "createdAt": "February 08, 2026 at 08:19AM"
+  },
+  {
+    "text": "米田歩生（②広島商）\nお誕生日おめでとうございます🎂\n\n昨年はルーキーながら秋季リーグ戦から正捕手に定着！\n打撃でも規定打席到達の打率.308は、谷端将伍（阪神）、冨塚隼介（④日大三）に次ぐチーム3位、リーグ18位の好成績！\n今年も強打の正捕手としてさらなる成長を🔥\n頑張れ！ https://t.co/CsQOefj0oC https://t.co/FbnBsEYFKQ",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/2020286849902866469",
+    "createdAt": "February 08, 2026 at 09:01AM"
+  },
+  {
+    "text": "タイガースで星稜出身て記憶ないと調べたら、やっぱ谷端が初でした  \n\nゴジラ松井を外した呪いかね \n\n立石の金看板に隠れるも、過去にこのクラスは中々いない",
+    "userName": "Torakichi6K",
+    "tweetUrl": "https://twitter.com/Torakichi6K/status/2020331236410159438",
+    "createdAt": "February 08, 2026 at 11:57AM"
+  },
+  {
+    "text": "競合一位で立石獲れたのに、同じ右投右打、同ポジションで似たタイプの谷端を二位で行った意味ですね\n\nまさか残ったなら獲ってしまえです  \n\nサラリーマンスカウトさんが言うてました  \n\n谷端まで阪神はセ・リーグのパワーバランスが壊れてしまう、、と",
+    "userName": "Torakichi6K",
+    "tweetUrl": "https://twitter.com/Torakichi6K/status/2020335366633644527",
+    "createdAt": "February 08, 2026 at 12:14PM"
+  },
+  {
+    "text": "あんま阪神知らんから叩かれる覚悟だけど\n左森下中近本右佐藤輝\n一大山、二中野、遊高寺小幡ディベイニー、三立石谷端ディベイニー\nじゃだめなの",
+    "userName": "Tamagoman5_5",
+    "tweetUrl": "https://twitter.com/Tamagoman5_5/status/2020366258458517663",
+    "createdAt": "February 08, 2026 at 02:17PM"
+  },
+  {
+    "text": "５回裏　投手：津田淳哉　遊：小幡\n　　　　ニ：谷端　右：コンスエグラ\n矢澤　一内安　①\n奈良間　投ゴロ　●②\n代：山縣　左安　●①③\nエドポロ　投適ゴロ　●●②\n淺間　中飛　●●●\n\n阪神２－２日本ハム",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2020368044871282762",
+    "createdAt": "February 08, 2026 at 02:24PM"
+  },
+  {
+    "text": "阪神には\n名前に「濱」（はま）がつくとか\n横浜高校出身とかの選手は\n活躍するという\nうわさが\n【楽しみ過ぎる】谷端が初安打！濱田がチーム初HR！下村が初ブルペン！虎の新戦力が猛アピール！阪神タイガース密着！応援番組 #虎バン \nABCテレビ公式チャンネル\n４日\nhttps://t.co/GBAAd000DI\n#濱田太貴",
+    "userName": "Kobebay31st",
+    "tweetUrl": "https://twitter.com/Kobebay31st/status/2020371458808283421",
+    "createdAt": "February 08, 2026 at 02:37PM"
+  },
+  {
+    "text": "６回表　投手：生田目翼　遊：山縣\n　　　　左：今川　中：矢澤\n谷端　三ゴロ　●\nコンスエグラ　三ゴロ　●●\n濱田　左安👍　●●①→藤田\n嶋村　左適２安💕　●●②\n高寺　左適安💕　●●①\n中川　右飛　●●●\n\n阪神４－２日本ハム",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2020371637963825470",
+    "createdAt": "February 08, 2026 at 02:38PM"
+  },
+  {
+    "text": "【練習試合】阪神4-6日本ハム\n6回裏　谷端、精いっぱいのプレーもファイターズが追加点\n投手:椎葉\n打者:今川\n結果:セカンドタイムリー内野安打\n【公式モバイルサイトで実況速報中!】\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2020378138744967588",
+    "createdAt": "February 08, 2026 at 03:04PM"
+  },
+  {
+    "text": "７回表　投手：松岡洸希\n　　　　一：野村　ニ：上川畑\n佐野　見三振　●\n前川　遊ゴロ　●●\n小幡　二内安👍　●●①\n谷端　四球　●●①②\nコンスエグラ　二ゴロ　●●●\n\n阪神４－８日本ハム",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2020381115689889847",
+    "createdAt": "February 08, 2026 at 03:16PM"
+  },
+  {
+    "text": "期待してる若手(ドラ1以外)\nセ・リーグ\n神:谷端将伍、中川勇斗\n横:深沢鳳介、濱将乃介\n巨:藤井健翔、中山礼都\n中:能戸輝夢、森駿太\n広:勝田成、赤木晴哉\nヤ:廣澤優、内山壮真",
+    "userName": "kaki_gori_",
+    "tweetUrl": "https://twitter.com/kaki_gori_/status/2020389365072163132",
+    "createdAt": "February 08, 2026 at 03:48PM"
+  },
+  {
+    "text": "阪神　2/8練習試合\nポジ：高寺、木下、工藤、嶋村、石黒\n普通：茨木、中川、谷端\n謎：濱田\nネガ：門別、百崎、前川\nゴミ：ディベイニー、小幡、津田、佐野、椎葉\n\n今年もショートは熊谷やね",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2020391275732816198",
+    "createdAt": "February 08, 2026 at 03:56PM"
+  },
+  {
+    "text": "@hochi_MLB 阪神…立石・谷端・岡城\nヤク…松下・松川・石井\n阪神の野手ドラフトは高評価で、ヤクルトの野手ドラフトが低評価な理由が全く理解できない。",
+    "userName": "jN4gQMDDdX94995",
+    "tweetUrl": "https://twitter.com/jN4gQMDDdX94995/status/2020487673576628665",
+    "createdAt": "February 08, 2026 at 10:19PM"
+  },
+  {
+    "text": "15：坂本誠志郎\n16：小野泰己※\n17：高橋遥人\n18：小幡竜平\n19：井上広大※\n20：伊藤将司\n21：鈴木勇斗※\n22：門別啓人\n23：椎葉剛\n24：今朝丸裕喜\n25：谷端将伍\n\n※は既に阪神退団選手 https://t.co/GvI2WyJwd6",
+    "userName": "maru_niki8",
+    "tweetUrl": "https://twitter.com/maru_niki8/status/2020495080600310076",
+    "createdAt": "February 08, 2026 at 10:49PM"
+  },
+  {
+    "text": "@HVK5xGOubZgreie オリックスにジェリーがいる\n\n阪神には、ルーカス、ラグズデール、モレッタ、ドリス、ディベイニー、立石、谷端、近本、森下、てる、大山がいる！\n\n阪神は何とかなるよ！\n\n阪神ア熱覇へ突き進め🐯",
+    "userName": "40b9yfRWTovnqJH",
+    "tweetUrl": "https://twitter.com/40b9yfRWTovnqJH/status/2020500284334834147",
+    "createdAt": "February 08, 2026 at 11:09PM"
+  },
+  {
+    "text": "阪神の若手野手、ええの多いな。\n高寺、百崎、嶋村、前川、山田修也、中川、立石、谷端",
+    "userName": "BrotherDac",
+    "tweetUrl": "https://twitter.com/BrotherDac/status/2020596265286005081",
+    "createdAt": "February 09, 2026 at 05:31AM"
   }
 ]
