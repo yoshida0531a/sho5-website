@@ -13594,5 +13594,95 @@
     "userName": "BrotherDac",
     "tweetUrl": "https://twitter.com/BrotherDac/status/2020596265286005081",
     "createdAt": "February 09, 2026 at 05:31AM"
+  },
+  {
+    "text": "【虎になれ】使える気にさせたのはルーキー谷端将伍か ＜野球 / NPB / プロ野球＞\n\n【PR】Amazonタイムセール開催中\nお得な商品が毎日更新 https://t.co/cUu0Y50KNN\n\nhttps://t.co/gcS6zu2YeV",
+    "userName": "k_baseball_01",
+    "tweetUrl": "https://twitter.com/k_baseball_01/status/2020619407832318157",
+    "createdAt": "February 09, 2026 at 07:03AM"
+  },
+  {
+    "text": "【虎になれ】使える気にさせたのはルーキー谷端将伍か \n#虎だ虎だ虎になれ！ #谷端将伍 #阪神\nhttps://t.co/51ex0aSukR",
+    "userName": "nikkansports",
+    "tweetUrl": "https://twitter.com/nikkansports/status/2020644584561451449",
+    "createdAt": "February 09, 2026 at 08:43AM"
+  },
+  {
+    "text": "【虎になれ】使える気にさせたのはルーキー谷端将伍か https://t.co/1UtbzQ8pQE",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2020652594629415101",
+    "createdAt": "February 09, 2026 at 09:14AM"
+  },
+  {
+    "text": "[9] 立石正広【D1】\n[25] 谷端将伍【D2】（宜野座）\n[34] 岡城快生【D3】 https://t.co/maN00UE4tN",
+    "userName": "6IOOI9",
+    "tweetUrl": "https://twitter.com/6IOOI9/status/2020679740185829883",
+    "createdAt": "February 09, 2026 at 11:02AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】谷端将伍、主力主体の宜野座組第2クールで手応え「普段通り。自分なりにできている」 https://t.co/qhA0T9AEEV #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2020811838187839698",
+    "createdAt": "February 09, 2026 at 07:47PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、主力主体の宜野座組第2クールで手応え「普段通り。自分なりにできている」 https://t.co/PXTALshCqY",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2020816695485505965",
+    "createdAt": "February 09, 2026 at 08:06PM"
+  },
+  {
+    "text": "コメ欄でとある選手が容疑者として挙がっていますがどうなんでしょうね？俺は彼は真面目な求道者だと思うんだけどなあ。\n\n【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/zok7gV9236 @YouTubeより",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2020817541149426024",
+    "createdAt": "February 09, 2026 at 08:10PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、主力主体の宜野座組第2クールで手応え「普段通り。自分なりにできている」(日刊スポーツ)\n\nhttps://t.co/Mt60c4VRUY",
+    "userName": "cPiWdFeW0094235",
+    "tweetUrl": "https://twitter.com/cPiWdFeW0094235/status/2020841204808835482",
+    "createdAt": "February 09, 2026 at 09:44PM"
+  },
+  {
+    "text": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/S6n37zLMyK @YouTubeより",
+    "userName": "yamada4649ver1",
+    "tweetUrl": "https://twitter.com/yamada4649ver1/status/2020850644383662102",
+    "createdAt": "February 09, 2026 at 10:21PM"
+  },
+  {
+    "text": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/Jfq4tIgwrF @YouTubeより \n濱田っぽいが・・・",
+    "userName": "tora_jinro",
+    "tweetUrl": "https://twitter.com/tora_jinro/status/2020852939624243456",
+    "createdAt": "February 09, 2026 at 10:31PM"
+  },
+  {
+    "text": "1人だけベースランニング手抜いてる選手が〜のくだり言うなら言う言わんなら言わんではっきりしてほしいな...じゃないと憶測でいらん争い出てくるやん...\n\n【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/nSvUK9ihXi",
+    "userName": "MeeTigers",
+    "tweetUrl": "https://twitter.com/MeeTigers/status/2020855039711908329",
+    "createdAt": "February 09, 2026 at 10:39PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、主力主体の宜野座組第2クールで手応え「普段通り。自分なりにできている」(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/jmCbT3md0H",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2020931283355041812",
+    "createdAt": "February 10, 2026 at 03:42AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習（スポニチアネックス） https://t.co/veci4HCjFO",
+    "userName": "L2mCgo2IlDKCaQI",
+    "tweetUrl": "https://twitter.com/L2mCgo2IlDKCaQI/status/2020961631627509928",
+    "createdAt": "February 10, 2026 at 05:42AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習（スポニチアネックス） https://t.co/8Po4CkgmSp",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2020963315854475456",
+    "createdAt": "February 10, 2026 at 05:49AM"
+  },
+  {
+    "text": "いずみちゃん、4日間ご苦労さまでした🙆‍♀️お子ちゃまは連れてきてるのかな？お留守番かな？\n阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習（スポニチアネックス） https://t.co/LkQSBJ9mu9",
+    "userName": "msam1224",
+    "tweetUrl": "https://twitter.com/msam1224/status/2020968836443537886",
+    "createdAt": "February 10, 2026 at 06:11AM"
   }
 ]
