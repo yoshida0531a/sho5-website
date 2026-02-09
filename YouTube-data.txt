@@ -1494,5 +1494,29 @@
     "publishedAt": "February 8, 2026 at 01:00PM",
     "description": "こんにちは！ 超速アスリートチャンネルです！ 阪神ドラフト2位の谷端将伍選手が、キャンプ休日にバスソルト作りを体験！",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=a1lSezJ6akM",
+    "publishedAt": "February 9, 2026 at 06:48PM",
+    "description": "各球団キャンプレポート＜再生リスト＞ https://www.youtube.com/playlist?list=PLim5RMArTCEO2FqJuo_JyksH6zC85W38u ＜里 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾「守備が変わる」阪神・沖縄キャンプでの身体革命#阪神タイガース #沖縄キャンプ #ピラティス #谷端将伍 #野球選手の身体作り #守備力向上 #スポーツトレーニング #プロ野球 #身体革命 ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zEY7PkvSY3k",
+    "publishedAt": "February 9, 2026 at 07:23PM",
+    "description": "阪神タイガースの沖縄・宜野座キャンプで起きた、小さな“身体革命”。38歳のピラティスインストラクター・市川いずみさんが、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端将伍、主力主体の宜野座組第2クールで手応え「普段通り。自分なりにできている」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=R_PAtReXZo4",
+    "publishedAt": "February 9, 2026 at 07:44PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
