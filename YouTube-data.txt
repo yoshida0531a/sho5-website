@@ -1518,5 +1518,21 @@
     "publishedAt": "February 9, 2026 at 07:44PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「阪神に現れた“牧級ルーキー” 他球団が震えた谷端将伍の正体」#阪神タイガース#谷端将伍#阪神キャンプ#阪神新人",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=NPc-HfnEQks",
+    "publishedAt": "February 10, 2026 at 11:34AM",
+    "description": "セ・リーグ覇者・阪神タイガースの春季キャンプで 今、最も評価を急上昇させている新戦力がいる。 ドラフト2位ルーキー・谷端 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "捕手大復活⚾️中川勇斗選手湯浅vs藤田/谷端を好リード👏#阪神タイガース　#阪神　#中川勇斗 #谷端将伍 #藤田健斗",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QfY9jdux4tc",
+    "publishedAt": "February 10, 2026 at 02:07PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
