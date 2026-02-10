@@ -13684,5 +13684,113 @@
     "userName": "msam1224",
     "tweetUrl": "https://twitter.com/msam1224/status/2020968836443537886",
     "createdAt": "February 10, 2026 at 06:11AM"
+  },
+  {
+    "text": "【ルーキー】阪神ドラフト1位・立石正広選手が1軍キャンプ合流、2位・谷端選手は守備向上に着手 \n#hanshin #ドラフト会議 #ルーキー \n\nhttps://t.co/kHPesPwXD3",
+    "userName": "draft_kaigi",
+    "tweetUrl": "https://twitter.com/draft_kaigi/status/2020982610630148585",
+    "createdAt": "February 10, 2026 at 07:06AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習 - スポニチ Sponichi Annex 野球 https://t.co/wgruB5A1ub",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2020984412620677379",
+    "createdAt": "February 10, 2026 at 07:13AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習（スポニチアネックス） https://t.co/Nb6z0Au5pI",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2020989400918995304",
+    "createdAt": "February 10, 2026 at 07:33AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/efzeVv3nKi",
+    "userName": "kazuhinoki",
+    "tweetUrl": "https://twitter.com/kazuhinoki/status/2020992770492846542",
+    "createdAt": "February 10, 2026 at 07:46AM"
+  },
+  {
+    "text": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/ZdblJAnrPV @YouTubeより\n\n虎テレで観る限りアイツやな😂",
+    "userName": "horu_tenkura",
+    "tweetUrl": "https://twitter.com/horu_tenkura/status/2020997186830598337",
+    "createdAt": "February 10, 2026 at 08:04AM"
+  },
+  {
+    "text": "今年は本気で阪神がぶっちぎりで強いと思っているので、他球団ファンの皆様ごめんなさい。先に謝っておきます。阪神の補強が最強すぎて…完璧すぎて怖いくらいです。ヤクルトから来た濵田選手、海外からディベイニー選手やルーカス選手など、ドラフトの立石選手や谷端選手など…もう今から楽しみ！",
+    "userName": "r_uiui_",
+    "tweetUrl": "https://twitter.com/r_uiui_/status/2021032856877924737",
+    "createdAt": "February 10, 2026 at 10:25AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍がピラティスで理想の捕球姿勢の感覚目指す「自分のものにする」志願の個別練習 - スポニチ Sponichi Annex 野球 https://t.co/Ts2USdZxrs",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2021033473562247466",
+    "createdAt": "February 10, 2026 at 10:28AM"
+  },
+  {
+    "text": "#「熱血！タイガース党」\n谷端将伍選手のサインボール\n当たりました！\n嬉しいです。\nありがとうございます😊 https://t.co/kdfWd31P4L",
+    "userName": "mayuta365",
+    "tweetUrl": "https://twitter.com/mayuta365/status/2021070658156040419",
+    "createdAt": "February 10, 2026 at 12:56PM"
+  },
+  {
+    "text": "「牧秀悟と重なる」 佐藤輝明と並んだフリー打撃で他球団を驚かせた「阪神の新戦力」は(週刊ベースボールONLINE)\n\n世間では立石君の影に隠れがちだけれど\n谷端君も即戦力クラスであり開幕レギュラーを狙えるだけの力はあるんよね\n\nもしかしたら..あり得るのでは？🐯😳\nhttps://t.co/0H4BZv8hce",
+    "userName": "Taka87395102",
+    "tweetUrl": "https://twitter.com/Taka87395102/status/2021086070365094247",
+    "createdAt": "February 10, 2026 at 01:57PM"
+  },
+  {
+    "text": "阪神ちゃん🐅\n\n明日の紅白戦🏟️スタメンを発表なう🗒\n\n紅組の先発投手は伊藤の将やん\n白組の先発投手はくりまんじゅう🌰もとい🙇‍♀️…能登嵩都🙌🏻💕\n\n谷端将伍、元山飛優、濱ちゃんも紅組スタメン",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2021108327657373983",
+    "createdAt": "February 10, 2026 at 03:25PM"
+  },
+  {
+    "text": "谷端くんが先発メンバー。さてどうなりますか\n\n阪神が11日の紅白戦メンバー発表　ドラ５・能登が先発　近本、大山、伏見らが今キャンプ初実戦（デイリースポーツ） https://t.co/IRuP9JkwkT",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2021125723910742252",
+    "createdAt": "February 10, 2026 at 04:34PM"
+  },
+  {
+    "text": "学生野球全然詳しくないんだけど大学全日本の４番やべぇなこいつ絶対プロだわ他のバッターと格が違う（名前も知らんし覚える気もない）って思ってて、それが立石かと思ってたら谷端だった。彼かなりやると思いますね。",
+    "userName": "ElderRiverfield",
+    "tweetUrl": "https://twitter.com/ElderRiverfield/status/2021126397285236766",
+    "createdAt": "February 10, 2026 at 04:37PM"
+  },
+  {
+    "text": "阪神、2月11日の紅白戦メンバー発表\n\n　【紅】（先攻・一塁ベンチ）\n　１番・中堅　高寺\n　２番・三塁　木浪\n　３番・二塁　谷端\n　４番・左翼　前川\n　５番・ＤＨ　濱田\n　６番・捕手　伏見\n　７番・遊撃　小幡\n　８番・右翼　小野寺\n　９番・一塁　元山\n　投手　伊藤将\n　〈ベンチ入りメンバー〉",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021127702091280627",
+    "createdAt": "February 10, 2026 at 04:42PM"
+  },
+  {
+    "text": "阪神春季キャンプ\n11日紅白戦､スタメン\n\n◆紅（先攻一塁ベンチ）\n1番・中堅　高寺\n2番・三塁　木浪\n3番・二塁　谷端\n4番・左翼　前川\n5番・DH　浜田\n6番・捕手　伏見\n7番・遊撃　小幡\n8番・右翼　小野寺\n9番・一塁　元山\n投手　伊藤将\n\n#阪神タイガース\n#春季キャンプ\n#宜野座キャンプ\n#紅白戦",
+    "userName": "nekotora_joe",
+    "tweetUrl": "https://twitter.com/nekotora_joe/status/2021140789066383654",
+    "createdAt": "February 10, 2026 at 05:34PM"
+  },
+  {
+    "text": "ルーキー年は今年だけ。ルーキーの春キャンプも今だけ。例え結果出なくてもチャンスはまだまだ貰える。ドラフト上位指名だからね。悔いない様に思いっきり行こうぜ。\n\n谷端将伍、主力主体の宜野座組第2クールで手応え「普段通り。自分なりにできている」 https://t.co/SM5SACuUwu",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2021168463654396149",
+    "createdAt": "February 10, 2026 at 07:24PM"
+  },
+  {
+    "text": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/kvCviiVpNr @YouTubeより",
+    "userName": "mahiromax",
+    "tweetUrl": "https://twitter.com/mahiromax/status/2021188632921448816",
+    "createdAt": "February 10, 2026 at 08:44PM"
+  },
+  {
+    "text": "谷端将伍　阪神の切り札",
+    "userName": "vvn7t",
+    "tweetUrl": "https://twitter.com/vvn7t/status/2021259556815294591",
+    "createdAt": "February 11, 2026 at 01:26AM"
+  },
+  {
+    "text": "阪神ドラ2 谷端将伍 ",
+    "userName": "chiene0007",
+    "tweetUrl": "https://twitter.com/chiene0007/status/2021321687267172574",
+    "createdAt": "February 11, 2026 at 05:33AM"
   }
 ]
