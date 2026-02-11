@@ -13792,5 +13792,383 @@
     "userName": "chiene0007",
     "tweetUrl": "https://twitter.com/chiene0007/status/2021321687267172574",
     "createdAt": "February 11, 2026 at 05:33AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2021341349291884553",
+    "createdAt": "February 11, 2026 at 06:51AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2021345939492061251",
+    "createdAt": "February 11, 2026 at 07:10AM"
+  },
+  {
+    "text": "2026.02.06放送分\n【ルーキー唯一の宜野座組】ABCラジオ「川上千尋の虎たまプレミアム！」谷端将伍選手のインタビューをお届け！！\n\n#阪神タイガース\n#虎バンチャンネル\n#川上千尋の虎たまプレミアム\nhttps://t.co/vlxrzcy8Ui https://t.co/bJ1feFM5RC",
+    "userName": "mirror657",
+    "tweetUrl": "https://twitter.com/mirror657/status/2021350643869548631",
+    "createdAt": "February 11, 2026 at 07:28AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2021353512526021110",
+    "createdAt": "February 11, 2026 at 07:40AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2谷端将伍 https://t.co/ktuqI2AKTG",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2021376659388235971",
+    "createdAt": "February 11, 2026 at 09:12AM"
+  },
+  {
+    "text": "きょう関西のテレビ（④）で\n🐯阪神紅白戦ありますが\n出るそうです\nセカンドで👇\n阪神がドラフト２位指名…石川県白山市出身の日大・谷端将伍 市長に活躍誓う「市の代表として頑張りたい」\n石川テレビの動画\n２０２５年１２月４日\nhttps://t.co/ZkFhrhSnN4\n#石川県 \n#白山市  \n#星稜高校 \n#谷端将伍",
+    "userName": "Kobebay31st",
+    "tweetUrl": "https://twitter.com/Kobebay31st/status/2021409107648094333",
+    "createdAt": "February 11, 2026 at 11:21AM"
+  },
+  {
+    "text": "阪神の打撃練習見てるけど\n谷端 厳しいんちゃうか これが2位か\n良さが見えんわ",
+    "userName": "windmyhair",
+    "tweetUrl": "https://twitter.com/windmyhair/status/2021413776042717655",
+    "createdAt": "February 11, 2026 at 11:39AM"
+  },
+  {
+    "text": "【阪神紅白戦】\n【紅組】\n1（中）高寺\n2（三）木浪\n3（二）谷端\n4（左）前川\n5（指）浜田\n6（捕）伏見\n7（遊）小幡\n8（右）小野寺\n9（一）元山\n先発投手＝伊藤将\n【白組】\n1（中）近本\n2（遊）ディベイニー\n3（右）森下\n4（三）佐藤\n5（一）大山\n6（指）糸原\n7（捕）坂本\n8（二）熊谷\n9（左）中川",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/2021414618418258364",
+    "createdAt": "February 11, 2026 at 11:42AM"
+  },
+  {
+    "text": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選 ...\n \nhttps://t.co/Tj0f5bmG6N\n \n#プロ野球 #HanshinTigers #ソフトバンク #ピッチャー #中日 #巨人 #広島 #楽天 #横浜DeNA #清原 #西武 https://t.co/KpQmfRbo0d",
+    "userName": "npbhub",
+    "tweetUrl": "https://twitter.com/npbhub/status/2021421713787916350",
+    "createdAt": "February 11, 2026 at 12:11PM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍 https://t.co/jAC0cAMH5v",
+    "userName": "maezima21231",
+    "tweetUrl": "https://twitter.com/maezima21231/status/2021424446805012822",
+    "createdAt": "February 11, 2026 at 12:21PM"
+  },
+  {
+    "text": "1回表　紅組\n(白組投手　能登嵩都)\n髙寺望夢　左飛\n木浪聖也　空振り三振\n谷端将伍　左飛\n紅0-0白\n#スカイA猛虎",
+    "userName": "imspta44",
+    "tweetUrl": "https://twitter.com/imspta44/status/2021435141579817343",
+    "createdAt": "February 11, 2026 at 01:04PM"
+  },
+  {
+    "text": "谷端将伍の直筆サインボールやばーーー！直接サインもらった時の写真付きとか羨ましすぎるよぉ～～～\n\n阪神タイガース 谷端将伍 直筆サインボール\nhttps://t.co/LrfkFpekwy",
+    "userName": "yukariCherry42",
+    "tweetUrl": "https://twitter.com/yukariCherry42/status/2021437927092519161",
+    "createdAt": "February 11, 2026 at 01:15PM"
+  },
+  {
+    "text": "@TigersDreamlink 能勢投手の初回三者凡退、谷端とのルーキー対決を完璧に制して最高のスタート！これぞ阪神の未来だ🔥🐯 #阪神タイガース #能勢 #春季キャンプ",
+    "userName": "LioraSolveil",
+    "tweetUrl": "https://twitter.com/LioraSolveil/status/2021445039252250999",
+    "createdAt": "February 11, 2026 at 01:43PM"
+  },
+  {
+    "text": "谷端を将伍呼びしてるの皇帝だけ説",
+    "userName": "asarisea",
+    "tweetUrl": "https://twitter.com/asarisea/status/2021445467369005069",
+    "createdAt": "February 11, 2026 at 01:45PM"
+  },
+  {
+    "text": "谷端将伍、素晴らしい選球眼",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2021445788002549793",
+    "createdAt": "February 11, 2026 at 01:46PM"
+  },
+  {
+    "text": "谷端の直筆サイン球…直接もらったってマジかよ羨ましすぎる( ；꒳； )\n\n阪神タイガース 谷端将伍 直筆サインボール\nhttps://t.co/wE7hnmKOZi",
+    "userName": "ayumeCloud47",
+    "tweetUrl": "https://twitter.com/ayumeCloud47/status/2021446710187393410",
+    "createdAt": "February 11, 2026 at 01:50PM"
+  },
+  {
+    "text": "わがはいの予言通り、谷端のサイン色紙が出たにゃ…下僕ども羨ましいであろう\n\n谷端将伍 サイン入り色紙 背番号25\nhttps://t.co/Kj9ENNUipP",
+    "userName": "yogenyan222",
+    "tweetUrl": "https://twitter.com/yogenyan222/status/2021446915074949613",
+    "createdAt": "February 11, 2026 at 01:51PM"
+  },
+  {
+    "text": "3回表　紅組\n(白組投手　石井大智)\n木浪聖也　右前安打\n谷端将伍　四球\n前川右京　右前安打\n(石井負傷のため途中終了)\n紅4-1白\n#スカイA猛虎",
+    "userName": "imspta44",
+    "tweetUrl": "https://twitter.com/imspta44/status/2021447572985086279",
+    "createdAt": "February 11, 2026 at 01:53PM"
+  },
+  {
+    "text": "【悲報】能登、2回4失点デビュー\n\n阪神のドラフト５位・能登嵩都投手が白組の先発を務めたがほろ苦デビューとなった。\n\n初回\n高寺　左飛\n木浪　空振り三振\n谷端　左飛\n\n２回\n前川　右前打\n小野寺　適時内野安打。\n元山　２点打\n合計４失点 https://t.co/cMCvt3dDX3",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021448356279746690",
+    "createdAt": "February 11, 2026 at 01:56PM"
+  },
+  {
+    "text": "【阪神】谷端将伍「もう１度土に慣れていかないと」SGL合同トレ２日目に内野ノックで甲子園予習(日刊スポーツ)\nhttps://t.co/tEPxKAbqzc",
+    "userName": "itelyz",
+    "tweetUrl": "https://twitter.com/itelyz/status/2021452602257584504",
+    "createdAt": "February 11, 2026 at 02:13PM"
+  },
+  {
+    "text": "谷端将伍",
+    "userName": "chin_gisu_fan",
+    "tweetUrl": "https://twitter.com/chin_gisu_fan/status/2021453899614519575",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "谷端将伍、素晴らしいアピール",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2021453999803859244",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "大学日本代表の実力。\n\n谷端ヒット https://t.co/lWay5xzDtk",
+    "userName": "EITVTs3KoxLwlQ9",
+    "tweetUrl": "https://twitter.com/EITVTs3KoxLwlQ9/status/2021454010172178772",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "谷端将伍さん #hanshin #tigers",
+    "userName": "ekkusu2000",
+    "tweetUrl": "https://twitter.com/ekkusu2000/status/2021454050773045438",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "#阪神紅軍 スタメン\n中 髙寺望夢 24歳 上田西\n三 木浪聖也 32歳 Honda\n二 谷端将伍 23歳 日大\n左 前川右京 23歳 智弁学園\nDH 濱田太貴 26歳 ヤクルト\n捕 伏見寅威 36歳 日ハム\n遊 小幡竜平 26歳 延岡学園\n右 小野寺暖 29歳 大商大\n一 元山飛優 28歳 西武\n投 伊藤将司 30歳 JR東\n※26年度満年齢",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2021454065323085921",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "谷端将伍、ツーベース！😂 https://t.co/k6EMgfHXUl",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2021454098223202748",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "谷端将伍ｷﾀ━━ヽ(´ω`)ﾉﾞ━━!!\n左線痛烈ぅぅぅ",
+    "userName": "kazunatumi",
+    "tweetUrl": "https://twitter.com/kazunatumi/status/2021454108327280957",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "谷端将伍👏👏👏👏",
+    "userName": "TK_Tigers60",
+    "tweetUrl": "https://twitter.com/TK_Tigers60/status/2021454109120004176",
+    "createdAt": "February 11, 2026 at 02:19PM"
+  },
+  {
+    "text": "5回表　紅組\n(白組投手　伊藤稜)\n元山飛優　四球\n井坪陽生　四球\n木浪聖也→(代打)\nコンスエグラ　三直(二塁走者元山戻れず併殺)\n谷端将伍　左翼線二塁打\n前川右京　中飛\n紅4-1白\n#スカイA猛虎",
+    "userName": "imspta44",
+    "tweetUrl": "https://twitter.com/imspta44/status/2021454296760582528",
+    "createdAt": "February 11, 2026 at 02:20PM"
+  },
+  {
+    "text": "阪神さん、立石くんより谷端くんのほうが一軍はやそう",
+    "userName": "gokutsuna",
+    "tweetUrl": "https://twitter.com/gokutsuna/status/2021454969992511790",
+    "createdAt": "February 11, 2026 at 02:23PM"
+  },
+  {
+    "text": "谷端、そりゃいい時(大学)前で捌いてたけど、今日のスタンドまで飛ばしたファールとさっきのツーベースで、しっかりプロの球でも内側上手く捌けたなーって感動しかないわね。引き出しが増やせるならそれに越したことはないし。",
+    "userName": "chin_gisu_fan",
+    "tweetUrl": "https://twitter.com/chin_gisu_fan/status/2021455608084561938",
+    "createdAt": "February 11, 2026 at 02:25PM"
+  },
+  {
+    "text": "阪神タイガース\n谷端将伍内野手（星稜高-日本大）\n\n紅白戦途中経過\n\n第一打席：左飛\n第二打席：四球\n第三打席：二塁打 https://t.co/ZC8ifbutWh",
+    "userName": "seiryo_fan",
+    "tweetUrl": "https://twitter.com/seiryo_fan/status/2021456541921181723",
+    "createdAt": "February 11, 2026 at 02:29PM"
+  },
+  {
+    "text": "阪神2/11紅白戦\n・谷端、打撃と選球眼で猛アピール\n・石黒、順調な仕上がり\n・西純矢、実戦初ヒット\n・能登、ストレートに課題\n・ディベイニー、守備はかなり厳しい\n・石井とイトマサ、故障か\n\n軽症を祈るばかり\nショートは今年も苦労しそう",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2021457747896897706",
+    "createdAt": "February 11, 2026 at 02:34PM"
+  },
+  {
+    "text": "2月11日　紅白戦　打撃結果\n\n白組\n高寺 望夢：1打数 0安打（左飛、中犠飛）\n井坪 陽生：0打数 0安打（四球）\n木浪 聖也：2打数 1安打（三振、右安）\nコンスエグラ：1打数 0安打（三振）\n谷端 将伍：2打数 1安打（左飛、四球、左2）\n前川 右京：3打数 2安打（右安、右安、中飛）👑\n濱田 太貴：2打数",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021463611252801560",
+    "createdAt": "February 11, 2026 at 02:57PM"
+  },
+  {
+    "text": "#阪神紅白戦\n\n谷端将伍🤭\nインコースの球に強いな🤭\n☆*:.｡. o(≧▽≦)o .｡.:*☆\n\nナイスバッティング👍👍👍\n☆*:.｡. o(≧▽≦)o .｡.:*☆\n\n第一打席は\nファールになったけど🙄\nインコースの球を\nスタンドイン⚾️🏟️",
+    "userName": "JT4DBNY23Xm3EPw",
+    "tweetUrl": "https://twitter.com/JT4DBNY23Xm3EPw/status/2021469802074866124",
+    "createdAt": "February 11, 2026 at 03:22PM"
+  },
+  {
+    "text": "ゴールデンルーキー谷端将伍 https://t.co/GMbGTTzD1w",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2021471078611288195",
+    "createdAt": "February 11, 2026 at 03:27PM"
+  },
+  {
+    "text": "今日の紅白戦で印象的だった選手\n濱田→阪神だと貴重なかち上げる打球を飛ばせそうな右打者\n谷端→出だし良さげ、この思いっきりの良さをキープして欲しい\n大山→流石っす\nイトマサ→この時期でインズバ投げれてるので良い感じっぽい、無事を祈る\n西純矢→良いスタート、良い積極性\n #阪神タイガース",
+    "userName": "Samical18",
+    "tweetUrl": "https://twitter.com/Samical18/status/2021473200102834224",
+    "createdAt": "February 11, 2026 at 03:35PM"
+  },
+  {
+    "text": "谷端も出たんか。阪神野手どんどん出てきてるな…ここ最近の移籍組、ドラフト1.2と…",
+    "userName": "limited9000F_yu",
+    "tweetUrl": "https://twitter.com/limited9000F_yu/status/2021473388007657566",
+    "createdAt": "February 11, 2026 at 03:36PM"
+  },
+  {
+    "text": "前川、中川、立石、谷端、岡城ここ全員同級生なの阪神の未来は明るい",
+    "userName": "masaa3456",
+    "tweetUrl": "https://twitter.com/masaa3456/status/2021473507625119883",
+    "createdAt": "February 11, 2026 at 03:36PM"
+  },
+  {
+    "text": "@Jr55182821Jr 谷端は2位相当の選手だとは思うけど阪神にフィットする感じしない\nショート埋めた方が良い気はする",
+    "userName": "kousuke083006",
+    "tweetUrl": "https://twitter.com/kousuke083006/status/2021490754628223115",
+    "createdAt": "February 11, 2026 at 04:45PM"
+  },
+  {
+    "text": "谷端のフォームはウエスタンに染まってない良い打ち方だな 広島と阪神の2軍の右打者はみんな異常に捻り出す",
+    "userName": "pkm24_",
+    "tweetUrl": "https://twitter.com/pkm24_/status/2021492233292390864",
+    "createdAt": "February 11, 2026 at 04:51PM"
+  },
+  {
+    "text": "紅白戦で左線に二塁打を放つ谷端将伍選手 https://t.co/IqLiSltyac",
+    "userName": "Sponichi_Tphoto",
+    "tweetUrl": "https://twitter.com/Sponichi_Tphoto/status/2021498332959605024",
+    "createdAt": "February 11, 2026 at 05:15PM"
+  },
+  {
+    "text": "もう谷端将伍にショートやらせたら良いじゃない",
+    "userName": "barmursu",
+    "tweetUrl": "https://twitter.com/barmursu/status/2021505832962433490",
+    "createdAt": "February 11, 2026 at 05:45PM"
+  },
+  {
+    "text": "@Sponichi_Tphoto おお、谷端将伍選手やりましたね！🔥\n左線への二塁打は見事な当たり。流れを変える一打になりそうです💪⚾\nこれは次の打者への大きなチャンスですね！",
+    "userName": "Lala_kibo",
+    "tweetUrl": "https://twitter.com/Lala_kibo/status/2021506232448905343",
+    "createdAt": "February 11, 2026 at 05:46PM"
+  },
+  {
+    "text": "谷端将伍、鮮やかなインコースの捌き方！！！\nhttps://t.co/FbJxj6qqIA",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021521548486795485",
+    "createdAt": "February 11, 2026 at 06:47PM"
+  },
+  {
+    "text": "谷端将伍、ショートあかんの？\nhttps://t.co/TxaIUfYiJe",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021525367157141627",
+    "createdAt": "February 11, 2026 at 07:03PM"
+  },
+  {
+    "text": "谷端が戦力になるかもしれないという希望が大きくなったことが、せめてもの救い。開幕1軍もあり得ると思っている人多いはず\n\n【悪夢の紅白戦に…】石井",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2021528541100490793",
+    "createdAt": "February 11, 2026 at 07:15PM"
+  },
+  {
+    "text": "阪神タイガース新人・谷端将伍、ツーベースヒットでファン歓喜「ツーベース！」「インコース捌きが上手い」(2026/02/11)｜SNSのバズまとめ - Yahoo!リアルタイム検索 https://t.co/6Vgbg5HRtu",
+    "userName": "L2mCgo2IlDKCaQI",
+    "tweetUrl": "https://twitter.com/L2mCgo2IlDKCaQI/status/2021531510885806239",
+    "createdAt": "February 11, 2026 at 07:27PM"
+  },
+  {
+    "text": "谷端将伍、ショートあかんの？ https://t.co/QAWOM4hEdq",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2021540275898679522",
+    "createdAt": "February 11, 2026 at 08:02PM"
+  },
+  {
+    "text": "こんばんとらほ〜🐯\n\n「牧秀悟と重なる」 \n佐藤輝明と並んだフリー打撃で\n他球団を驚かせた\n　　「阪神の新戦力」は？\n\n🐯🐯🐯🐯🐯🐯🐯🐯\n　  谷端さんですね\n🐯🐯🐯🐯🐯🐯🐯🐯\n\n今日もよろしくおねがいします🙇\n\nhttps://t.co/i6GXrGZl9M",
+    "userName": "ZETTON_PONOJI",
+    "tweetUrl": "https://twitter.com/ZETTON_PONOJI/status/2021544126525960425",
+    "createdAt": "February 11, 2026 at 08:17PM"
+  },
+  {
+    "text": "\"東都の安打製造機\"・谷端将伍選手が、紅白戦でレフト線へツーベースヒットです☄️\n\n「確実に当てることを意識して打席に立ちました。その中でヒットが1本出た。これからも力みすぎずにアピールできたらと思っています…」😊　　\n\n目指せ新人王です👍✨\n\n#阪神タイガース\n https://t.co/G4vlPTizDL",
+    "userName": "HVK5xGOubZgreie",
+    "tweetUrl": "https://twitter.com/HVK5xGOubZgreie/status/2021555206698479768",
+    "createdAt": "February 11, 2026 at 09:01PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、初球一閃　火を噴く二塁打　「積極的に行こうと決めている」（サンケイスポーツ） https://t.co/MgUmGzdAPc",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2021578427841544664",
+    "createdAt": "February 11, 2026 at 10:33PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ2谷端将伍が弾丸二塁打「ちゃんと1本が出たのはよかった」反省生かしてプロ初安打 https://t.co/gShc9B3FsH #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2021589437092704339",
+    "createdAt": "February 11, 2026 at 11:17PM"
+  },
+  {
+    "text": "【阪神】ドラ2谷端将伍が弾丸二塁打「ちゃんと1本が出たのはよかった」反省生かしてプロ初安打 https://t.co/sH7AuZEQCq",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2021590603591496107",
+    "createdAt": "February 11, 2026 at 11:22PM"
+  },
+  {
+    "text": "【阪神】ドラ2谷端将伍が弾丸二塁打「ちゃんと1本が出たのはよかった」反省生かしてプロ初安打(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/svhnEJiqPg",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2021668899285348752",
+    "createdAt": "February 12, 2026 at 04:33AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、初球一閃　火を噴く二塁打　「積極的に行こうと決めている」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/hcJTUZeV37",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2021669535053754389",
+    "createdAt": "February 12, 2026 at 04:35AM"
+  },
+  {
+    "text": "阪神D2位・谷端、土と友達になる！！「高校以来…もう一度慣れていかないと」(サンケイスポーツ)\nhttps://t.co/mJxFGdnI7k",
+    "userName": "rZIswBmQZg65469",
+    "tweetUrl": "https://twitter.com/rZIswBmQZg65469/status/2021672864983003416",
+    "createdAt": "February 12, 2026 at 04:49AM"
+  },
+  {
+    "text": "阪神タイガース新人・谷端将伍、ツーベースヒットでファン歓喜「ツーベース！」「インコース捌きが上手い」(2026/02/11)｜SNSのバズまとめ - Yahoo!リアルタイム検索 https://t.co/m5n7Ls6KSn",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2021682370148282884",
+    "createdAt": "February 12, 2026 at 05:26AM"
+  },
+  {
+    "text": "亀山つとむ氏　阪神ドラ2・谷端将伍は“お試し”ではなく1軍戦力で勝負できている - スポニチ Sponichi Annex 野球 https://t.co/rZskz2itds",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2021684479497326824",
+    "createdAt": "February 12, 2026 at 05:35AM"
+  },
+  {
+    "text": "【評論】阪神・ディベイニーは前に出る「攻めの意識」を　谷端はグラブ内でボールが踊っている（デイリースポーツ） https://t.co/5Fkd4ca2gb",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2021684590491119966",
+    "createdAt": "February 12, 2026 at 05:35AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 - スポニチ Sponichi Annex 野球 https://t.co/m3e22WHF9J",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2021684966174629998",
+    "createdAt": "February 12, 2026 at 05:37AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　反省生かして二塁打　紅白戦で３番・二塁スタメン「すごいありがたい」（デイリースポーツ） https://t.co/Kdiy8T0tXH",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2021686465344721220",
+    "createdAt": "February 12, 2026 at 05:43AM"
+  },
+  {
+    "text": "\"阪神・ドラ2谷端 反省生かして二塁打 紅白戦で3番・二塁スタメン「すごいありがたい」\" https://t.co/JZKuc2hGFx",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2021693677853110272",
+    "createdAt": "February 12, 2026 at 06:11AM"
   }
 ]
