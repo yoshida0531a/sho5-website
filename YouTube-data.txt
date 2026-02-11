@@ -1534,5 +1534,29 @@
     "publishedAt": "February 10, 2026 at 02:07PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】中野不在の穴を埋める！ドラ2谷端将伍が紅白戦で実戦初安打。熊谷敬宥が脱帽した守備力の正体。",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wWf7MyvPyrY",
+    "publishedAt": "February 11, 2026 at 10:28PM",
+    "description": "2026/2/11 宜野座キャンプ紅白戦速報】阪神のドラフト2位ルーキー、谷端将伍選手がついにその実力を証明しました！ 紅組の3番 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神D2位・谷端将伍、初球一閃　火を噴く二塁打　「積極的に行こうと決めている",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=pbhVGEgW0A0",
+    "publishedAt": "February 11, 2026 at 10:29PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【悪夢の紅白戦に…】石井&amp; 伊藤将司に相次いでアクシデント発生...。長期離脱の可能性も...。今朝丸・谷端・西純矢はアピールに成功！【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_opIiI0iKR0",
+    "publishedAt": "February 11, 2026 at 05:45PM",
+    "description": "これからも阪神に関する動画を”ほぼ毎日”アップしていきますので、チャンネル登録お願いします！",
+    "keyword": "谷端 阪神"
   }
 ]
