@@ -14170,5 +14170,239 @@
     "userName": "RioSaito516",
     "tweetUrl": "https://twitter.com/RioSaito516/status/2021693677853110272",
     "createdAt": "February 12, 2026 at 06:11AM"
+  },
+  {
+    "text": "【藤田平氏の眼】阪神・ディベイニーは前に出る「攻めの意識」を谷端はグラブ内でボールが踊っている ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/AmzZHtwPuw",
+    "userName": "beautyy_k04",
+    "tweetUrl": "https://twitter.com/beautyy_k04/status/2021702077500776564",
+    "createdAt": "February 12, 2026 at 06:45AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、初球一閃　火を噴く二塁打　「積極的に行こうと決めている」 - サンスポ https://t.co/3ULj7Se2lo @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2021704537476931873",
+    "createdAt": "February 12, 2026 at 06:54AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 https://t.co/ADUxfCQ7we",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2021706316658749599",
+    "createdAt": "February 12, 2026 at 07:02AM"
+  },
+  {
+    "text": "【評論】亀山つとむ氏　阪神ドラ2・谷端将伍は“お試し”ではなく1軍戦力で勝負できている - スポニチ Sponichi Annex 野球 https://t.co/3fSojgqRDB",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2021709097792647346",
+    "createdAt": "February 12, 2026 at 07:13AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 - スポニチ Sponichi Annex 野球 https://t.co/iQfenzuPhC",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2021709209189142959",
+    "createdAt": "February 12, 2026 at 07:13AM"
+  },
+  {
+    "text": "【評論】阪神・ディベイニーは前に出る「攻めの意識」を　谷端はグラブ内でボールが踊っている（デイリースポーツ） - Yahoo!ニュース https://t.co/ohPU6MDnn4",
+    "userName": "fk1hisa",
+    "tweetUrl": "https://twitter.com/fk1hisa/status/2021711263961841728",
+    "createdAt": "February 12, 2026 at 07:21AM"
+  },
+  {
+    "text": "【評論】阪神・ディベイニーは前に出る「攻めの意識」を　谷端はグラブ内でボールが踊っている(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/XDak6Mo8Af",
+    "userName": "yasuhiro19691",
+    "tweetUrl": "https://twitter.com/yasuhiro19691/status/2021711660952826065",
+    "createdAt": "February 12, 2026 at 07:23AM"
+  },
+  {
+    "text": "【阪神】ドラ2谷端将伍が弾丸二塁打「ちゃんと1本が出たのはよかった」反省生かしてプロ初安打 https://t.co/fWoDLGGNIl",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/2021725422283854000",
+    "createdAt": "February 12, 2026 at 08:17AM"
+  },
+  {
+    "text": "現時点での阪神開幕戦スタメン予想\n\n1. 近本 (中)\n2. 中野 (ニ)\n3. 森下 (右)\n4. 佐藤 (三)\n5. 大山 (一)\n6. 濱田 (左)\n7. 小幡 (遊)\n8. 坂本 (捕)\n9. 村上 (投)\n\n代打：\n左1 前川、左2 糸原\n右1 ディベイニー、右2 谷端・立石",
+    "userName": "Entertainer_JOY",
+    "tweetUrl": "https://twitter.com/Entertainer_JOY/status/2021737195749749011",
+    "createdAt": "February 12, 2026 at 09:04AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　反省生かして二塁打　紅白戦で３番・二塁スタメン「すごいありがたい」（デイリースポーツ） https://t.co/16fN8T7e2v",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2021739459985957184",
+    "createdAt": "February 12, 2026 at 09:13AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 https://t.co/k0HDHL4eEx",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2021751622796202222",
+    "createdAt": "February 12, 2026 at 10:02AM"
+  },
+  {
+    "text": "【記事全文】亀山つとむ氏　阪神ドラ2・谷端将伍は“お試し”ではなく1軍戦力で勝負できている - スポニチ Sponichi Annex 野球 https://t.co/AnEu2DYt1G",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2021764192454451445",
+    "createdAt": "February 12, 2026 at 10:52AM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 - スポニチ Sponichi Annex 野球 https://t.co/iP7gMRrXYu",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2021764590594666569",
+    "createdAt": "February 12, 2026 at 10:53AM"
+  },
+  {
+    "text": "【評論】阪神・ディベイニーは前に出る「攻めの意識」を　谷端はグラブ内でボールが踊っている（デイリースポーツ）\nただ守備が終わっとるだけ https://t.co/G0TMRJhctz",
+    "userName": "zpeeiz",
+    "tweetUrl": "https://twitter.com/zpeeiz/status/2021778741673025615",
+    "createdAt": "February 12, 2026 at 11:49AM"
+  },
+  {
+    "text": "【朗報】ドラ2谷端将伍、ホンモノっぽい\nhttps://t.co/F78LWtiUWq",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021796906062721247",
+    "createdAt": "February 12, 2026 at 01:02PM"
+  },
+  {
+    "text": "【朗報】ドラ2谷端将伍、ホンモノっぽい https://t.co/VE0qxuzG4C",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2021811945985180075",
+    "createdAt": "February 12, 2026 at 02:01PM"
+  },
+  {
+    "text": "なんか谷端やばくね？これがポジションもらえるかギリギリな阪神アツいな",
+    "userName": "WCPXoks5v645532",
+    "tweetUrl": "https://twitter.com/WCPXoks5v645532/status/2021814201640268262",
+    "createdAt": "February 12, 2026 at 02:10PM"
+  },
+  {
+    "text": "【阪神・谷端への個人的評価】\n\n・良いところ\nセカンド中心に守備を見てるが想定よりも守れそう、動きも悪くない。\nプロのボールへの対応力が現状高く、1年目から少なくとも2軍ではそこそこ打てるのではないか。\n\n・悪いところ\n手首を返す、ポイントが後ろ\nこの辺から外野にフライを飛ばせなさそう。",
+    "userName": "redtigeryakyu",
+    "tweetUrl": "https://twitter.com/redtigeryakyu/status/2021818833653432530",
+    "createdAt": "February 12, 2026 at 02:29PM"
+  },
+  {
+    "text": "朕の谷端将伍がここまで大躍動してて感動",
+    "userName": "chin_gisu_fan",
+    "tweetUrl": "https://twitter.com/chin_gisu_fan/status/2021827646142001351",
+    "createdAt": "February 12, 2026 at 03:04PM"
+  },
+  {
+    "text": "メガってるヒトラーおるけど、そもそも阪神はテル森下の成長、大山復調気味に加えて、立石谷端の加入、みんな不安材料視してるけどデバニーの加入、それに高寺の成長、これで総得点の上昇は全然ある。それに、投手陣も石井及川は蓄積どうせあるので他のリリーフ陣も使っていくのは必至。",
+    "userName": "WCPXoks5v645532",
+    "tweetUrl": "https://twitter.com/WCPXoks5v645532/status/2021843792702398569",
+    "createdAt": "February 12, 2026 at 04:08PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 - スポニチ Sponichi Annex 野球 https://t.co/E1YGWJTj4X",
+    "userName": "maezima21231",
+    "tweetUrl": "https://twitter.com/maezima21231/status/2021846389375062437",
+    "createdAt": "February 12, 2026 at 04:18PM"
+  },
+  {
+    "text": "亀山つとむ氏　阪神ドラ2・谷端将伍は“お試し”ではなく1軍戦力で勝負できている - スポニチ Sponichi Annex 野球 https://t.co/anvWpDsbJ6",
+    "userName": "maezima21231",
+    "tweetUrl": "https://twitter.com/maezima21231/status/2021846609055887707",
+    "createdAt": "February 12, 2026 at 04:19PM"
+  },
+  {
+    "text": "谷端は無駄がないスイングと言うかそこそこ打ちそうな構えやし立石も出したいやろけど2人同時に守るとこないw\nこれ以上ケガ人出んこと祈る\n\n阪神ドラ1立石正広　初めて宜野座キャンプのブルペンへ　1軍主力のキレ味肌で感じた\nhttps://t.co/MiwOMjC5Uc",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/2021848546396536886",
+    "createdAt": "February 12, 2026 at 04:27PM"
+  },
+  {
+    "text": "【阪神キャンプ】ドラフト2位谷端の評価は？主力が全力の中で悪目立ちする選手が…⁉︎阪神キャンプを里崎が語ります！ https://t.co/jU1v46LrrD @YouTubeより",
+    "userName": "chronoiti",
+    "tweetUrl": "https://twitter.com/chronoiti/status/2021862680500613371",
+    "createdAt": "February 12, 2026 at 05:23PM"
+  },
+  {
+    "text": "谷端、ルーキーやのに長年阪神に居てる雰囲気ある",
+    "userName": "paranosu_0338",
+    "tweetUrl": "https://twitter.com/paranosu_0338/status/2021866090096361929",
+    "createdAt": "February 12, 2026 at 05:36PM"
+  },
+  {
+    "text": "森下、佐藤風格がちゃうな。\n特に佐藤。今年は去年より打ちそう。\n谷端がめちゃくちゃいい。控えに回るレベルではない。他球団なら即戦力でレギュラーなれる。\n阪神がとってくる外国人投手はえげつない。シーズン無双してくれそう。\n立石はオーラ、スイング別格。岡本クラスには二、三年でなれる。",
+    "userName": "gorigorihanshin",
+    "tweetUrl": "https://twitter.com/gorigorihanshin/status/2021885727278239864",
+    "createdAt": "February 12, 2026 at 06:54PM"
+  },
+  {
+    "text": "谷端将伍、岡田からダメ出しか 　ファン「これで逆に期待」\nhttps://t.co/4GCvKCHyuk",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021887755018739974",
+    "createdAt": "February 12, 2026 at 07:03PM"
+  },
+  {
+    "text": "谷端将伍、岡田からダメ出しか 　ファン「これで逆に期待」 https://t.co/1YZGQnv5te",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2021902460353143003",
+    "createdAt": "February 12, 2026 at 08:01PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、実戦で連日の快音「自分の間で打てている」 - サンスポ https://t.co/z3TglwIenh",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2021909402782228755",
+    "createdAt": "February 12, 2026 at 08:29PM"
+  },
+  {
+    "text": "谷端は星稜の先輩でもあるヤクルト内山っぽいイメージ\nセカンドにとどまれるかどうかでかなり評価変わりそうな選手\n手薄な阪神代打陣にとっては1軍に置いておきたいけど将来のレギュラー候補として考えるとファームで育成するのが妥当だし難しいところだな",
+    "userName": "shanbdag3212",
+    "tweetUrl": "https://twitter.com/shanbdag3212/status/2021921933181554712",
+    "createdAt": "February 12, 2026 at 09:18PM"
+  },
+  {
+    "text": "佐藤輝明と森下翔太に加えて立石までおっえええんですか\n谷端も高寺中川百崎も楽しみやし\n近本中野大山はまあ活躍するやろし\n絶対阪神優勝\nプロ野球開幕まてない",
+    "userName": "tank_bkn",
+    "tweetUrl": "https://twitter.com/tank_bkn/status/2021923145209557055",
+    "createdAt": "February 12, 2026 at 09:23PM"
+  },
+  {
+    "text": "星稜中OBの大学野球選手\n\n投\n佐宗翼(早稲田)\n\n捕\n吉岡裕希(奈良学園)→富山サンダーバーズ\n佐々木優太(亜細亜)\n\n内\n谷端将伍(日本大)→阪神タイガース\n服部翔(慶應)\n中谷羽玖(東海大)\n島田光(早稲田)\n中島幹大(同志社)\n\n外\n出村夢太(駒澤)\n中園魁斗(國學院)\n専徒大和(立正)\n\nhttps://t.co/iKIZSdtBHg",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/2021925768880935417",
+    "createdAt": "February 12, 2026 at 09:34PM"
+  },
+  {
+    "text": "【速報】谷端将伍、実戦で打ちまくる\n\n谷端将伍内野手（21）が実戦で連日の快音を鳴らしている。 https://t.co/kb9U3hMe38",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2021935252634308974",
+    "createdAt": "February 12, 2026 at 10:11PM"
+  },
+  {
+    "text": "@tigerschannel72 谷端将伍、連日の打ちまくり！桐敷から打つのは自信になりますね。1年目からの大活躍、確信しました。楽しみな新星が現れましたね！",
+    "userName": "kholikprast",
+    "tweetUrl": "https://twitter.com/kholikprast/status/2021937552383680749",
+    "createdAt": "February 12, 2026 at 10:20PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、実戦で連日の快音「自分の間で打てている」(サンケイスポーツ)\n#Tigers\nhttps://t.co/IVXLHwkcJ5",
+    "userName": "don_hasegawa",
+    "tweetUrl": "https://twitter.com/don_hasegawa/status/2021946770276987247",
+    "createdAt": "February 12, 2026 at 10:57PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、実戦で連日の快音「自分の間で打てている」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/aIPNa5J53a",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/2021953081416818751",
+    "createdAt": "February 12, 2026 at 11:22PM"
+  },
+  {
+    "text": "阪神ライブBP完走\n\nラグズデールはかなり良さげ。直球も走ってたし、カーブやカットにキレもあり打者が翻弄されていた。あとは実戦の制球次第。\n桐敷は打ち込まれてたけどライブBPなので多少はね？ストライク投げるのがお仕事ですから。\n谷端は日に日に打席内容が良くなってる。今日は素晴らしかった。",
+    "userName": "kanata53",
+    "tweetUrl": "https://twitter.com/kanata53/status/2021960933711782065",
+    "createdAt": "February 12, 2026 at 11:53PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　今春実戦5打席目で初安打　伊藤稜から二塁打「ちゃんと1本出たのは良かった」 \nhttps://t.co/NJ98EuXuqP",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2022005967567683799",
+    "createdAt": "February 13, 2026 at 02:52AM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　実戦形式でパンチ力発揮「自分の間で打てている」対桐敷3打席で安打性2本 - スポニチ Sponichi Annex 野球 https://t.co/zGLedBpLCn",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2022052119948488866",
+    "createdAt": "February 13, 2026 at 05:56AM"
   }
 ]
