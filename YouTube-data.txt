@@ -1566,5 +1566,53 @@
     "publishedAt": "February 13, 2026 at 04:10PM",
     "description": "石井大智がアキレス腱損傷で長期離脱…阪神に激震！若手台頭なるか？ 今後も阪神タイガース最新情報を最速でお届けします⚾   ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神才木先発！楽天荘司と激突🔥谷端＆村林が三塁スタメン！注目の一戦 #議員定数削減 #議員定数削減 #統治者 #サッカー #野球 #割増金",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Zq5xX_48WW8",
+    "publishedAt": "February 14, 2026 at 01:23PM",
+    "description": "阪神才木先発！楽天荘司と激突  谷端＆村林が三塁スタメン！注目の一戦.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【対楽天１軍戦】谷端が２度大飛球！投手陣は概ね順調な仕上がりを見せる【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=maa8HXVay7s",
+    "publishedAt": "February 14, 2026 at 05:35PM",
+    "description": "メンバーシップ参加用URL https://www.youtube.com/channel/UC311dFTy9dKwF9qG04VlAXw/join サブ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【積極性と選球眼】ルーキー谷端 3ボールから豪快なスイングをしかけ四球をもぎ取る 内容のある打席で開幕1軍へアピール",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=dm0ZTh9bl8g",
+    "publishedAt": "February 14, 2026 at 07:18PM",
+    "description": "NPB #プロ野球 #阪神タイガース #阪神 #タイガース #hanshin #tigers #甲子園 #阪神甲子園球場 #SGL #SGLスタジアム #熱覇 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神対楽天2/14🔥】谷端もキラリと光る‼️中川高寺アピール‼️#阪神タイガース＃＃阪神タイガースたしなむ#阪神　楽天　練習試合2/14#【キャンプ考察2/14🔥】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UHJEYgkwMYU",
+    "publishedAt": "February 14, 2026 at 08:44PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "目立ったのは楽天野手陣！谷端は楽しみしかない。【2/14】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=02jLpnBdVnU",
+    "publishedAt": "February 14, 2026 at 10:26PM",
+    "description": "中日、西武、阪神で選手として16年間プレイした後、野球解説者に転身。2005年には東北楽天ゴールデンイーグルスの初代監督に ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神対楽天2/14🔥】谷端もキラリと光る‼️中川高寺アピール‼️#阪神タイガース＃＃阪神タイガースたしなむ#阪神　楽天　練習試合2/14#【キャンプ考察2/14🔥】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=pD7fPbria4A",
+    "publishedAt": "February 14, 2026 at 10:45PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
   }
 ]
