@@ -1614,5 +1614,29 @@
     "publishedAt": "February 14, 2026 at 10:45PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "誰のお尻がNO.1⁉️ベースランニング🏃‍♂️💨阪神沖縄宜野座キャンプ2026　#阪神タイガース　#阪神　#森下翔太 #谷端将伍 #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=p1tQXFXtAqY",
+    "publishedAt": "February 15, 2026 at 11:22AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端がいい！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=y-EathiMX0U",
+    "publishedAt": "February 15, 2026 at 11:19PM",
+    "description": "インスタグラム あだっちゃんねる https://www.instagram.com/adatchannel2001 #プロ野球 #野球 #阪神タイガース.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神対楽天2/14】谷端セカンド争い激化🔥下村エグすぎると話題‼️中川・高寺が存在感爆発‼️キャンプ徹底解説",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=fgdGFG2Ma8s",
+    "publishedAt": "February 16, 2026 at 04:00AM",
+    "description": "【阪神対楽天2/14】谷端セカンド争い激化  下村エグすぎると話題‼️中川・高寺が存在感爆発‼️キャンプ徹底解説 阪神対 ...",
+    "keyword": "谷端 阪神"
   }
 ]
