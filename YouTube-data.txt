@@ -1638,5 +1638,13 @@
     "publishedAt": "February 16, 2026 at 04:00AM",
     "description": "【阪神対楽天2/14】谷端セカンド争い激化  下村エグすぎると話題‼️中川・高寺が存在感爆発‼️キャンプ徹底解説 阪神対 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、牧秀悟と重なる逸材【野球速報】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=YTgHWuZIxa4",
+    "publishedAt": "February 17, 2026 at 12:18PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
