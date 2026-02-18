@@ -1646,5 +1646,53 @@
     "publishedAt": "February 17, 2026 at 12:18PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【超変化球】ラグズデールの縦カーブがエグイ！ドラ2谷端はバットで全力アピール！阪神タイガース密着！応援番組「虎バン」ABCテレビ公式チャンネル",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=obeGwQksnrc",
+    "publishedAt": "February 18, 2026 at 07:15PM",
+    "description": "阪神タイガース #虎バン #プロ野球キャンプ 2026年2月1日(日)～連日配信中！ 阪神タイガース沖縄キャンプダイジェスト18日目 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2/18 阪神キャンプ】ドラフト2位ルーキー谷端将伍！来日初シート打撃登板のモレッタから中前打！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Zbhgs44fZ20",
+    "publishedAt": "February 18, 2026 at 07:32PM",
+    "description": "あなたの阪神愛をカタチにします！ ぜひチャンネル登録をお願いします! https://bit.ly/3J35PY0 内容 春季キャンプ第4クール2日目 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【サバイバルポジション06】阪神連覇なるか⁉︎キャンプで注目は『ディベイニーが打つかだけ』里崎CH推し&quot;谷端将伍&quot;のサード説はあり⁉︎【阪神編】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=rNVoQ73ZfaA",
+    "publishedAt": "February 18, 2026 at 07:15PM",
+    "description": "里崎チャンネルおすすめ動画＞ ▽一軍と二軍の違いについて https://youtu.be/xmaIfDcZ26A ▽袴田彩会が『もう辞めます』と言っ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【キャンプ考察2/18🔥】谷端は１軍の戦力として見ている‼️夢が膨らむ立石初フリー打撃‼️ディベイニー少し順応性を見せる‼️ #阪神タイガース＃阪神タイガースをたしなむ#阪神キャンプ2/18",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=sDW4jJRANbg",
+    "publishedAt": "February 18, 2026 at 09:40PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾覚醒の予感！阪神ドラ2・谷端将伍が値千金タイムリー🎯首脳陣も熱視線🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=tmcZdlcWtjE",
+    "publishedAt": "February 18, 2026 at 10:06PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、衝撃適時打！劇的展開、スター激突判明？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-Z0BkljcvIA",
+    "publishedAt": "February 19, 2026 at 04:12AM",
+    "description": "ええっ！？   阪神タイガース期待の新星、谷端将伍選手が、なんと新外国人モレッタ投手に先制適時打を叩き出しました！",
+    "keyword": "谷端 阪神"
   }
 ]
