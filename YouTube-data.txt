@@ -1694,5 +1694,29 @@
     "publishedAt": "February 19, 2026 at 04:12AM",
     "description": "ええっ！？   阪神タイガース期待の新星、谷端将伍選手が、なんと新外国人モレッタ投手に先制適時打を叩き出しました！",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハッスル】立石には負けない！ドラ２谷端がバットで猛アピール！ #阪神タイガース #hanshintigers #虎バンチャンネル #プロ野球キャンプ #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=56VZCCkNeP4",
+    "publishedAt": "February 19, 2026 at 12:00PM",
+    "description": "フル動画はコチラ！https://youtu.be/obeGwQksnrc 【超変化球】ラグズデールの縦カーブがエグイ！ドラ2谷端はバットで全力 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【評価爆上がり中】ルーカス完全アジャスト！谷端が首脳陣を唸らせた“修正力”とは？【阪神タイガース】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=gX22lJNWV68",
+    "publishedAt": "February 20, 2026 at 04:00AM",
+    "description": "【評価爆上がり中】ルーカス完全アジャスト！谷端が首脳陣を唸らせた“修正力”とは？【阪神タイガース】 今回の動画では、阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神キャンプ2/18】夢が膨らむルーキー立石の打撃‼️谷端は一軍戦力確定か⁉️ディベイニー順応力発揮‼️",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=r1GrwZf4S8A",
+    "publishedAt": "February 20, 2026 at 05:00AM",
+    "description": "【阪神キャンプ2/18】夢が膨らむルーキー立石の打撃‼️谷端は一軍戦力確定か⁉️ディベイニー順応力発揮‼️ こんばんは！",
+    "keyword": "谷端 阪神"
   }
 ]
