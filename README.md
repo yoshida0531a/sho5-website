@@ -135,8 +135,8 @@ cd photo-gallery-worker
 npm run process
 ```
 
-- 元写真フォルダ: `~/Pictures/shogo写真データ/original`（デフォルト）
-- 圧縮後フォルダ: `~/Pictures/shogo写真データ/resized`（デフォルト）
+- 元写真フォルダ: `~/Pictures/sho5org/original`（デフォルト）
+- 圧縮後フォルダ: `~/Pictures/sho5org/resized`（デフォルト）
 - **途中で止まっても再実行するだけで続きから再開**されます
 - macOSのスリープを自動で防止します（caffeinate）
 
@@ -151,14 +151,14 @@ cd photo-gallery-worker
 npm run resize
 ```
 
-- 元写真: `~/Pictures/shogo写真データ/original`
-- 出力先: `~/Pictures/shogo写真データ/resized`（日付フォルダに自動整理）
-- 進捗は `~/Pictures/shogo写真データ/resize-progress.json` に記録されます
+- 元写真: `~/Pictures/sho5org/original`
+- 出力先: `~/Pictures/sho5org/resized`（日付フォルダに自動整理）
+- 進捗は `~/Pictures/sho5org/resize-progress.json` に記録されます
 
 #### ステップ2: 内容確認（オプション）
 
 ```bash
-open ~/Pictures/shogo写真データ/resized
+open ~/Pictures/sho5org/resized
 ```
 
 日付ごとにフォルダ分けされているので、不要な写真をここで削除できます。
@@ -167,10 +167,10 @@ open ~/Pictures/shogo写真データ/resized
 
 ```bash
 cd photo-gallery-worker
-npm run upload ~/Pictures/shogo写真データ/resized
+npm run upload ~/Pictures/sho5org/resized
 ```
 
-- 進捗は `~/Pictures/shogo写真データ/upload-progress.json` に記録されます
+- 進捗は `~/Pictures/sho5org/upload-progress.json` に記録されます
 - **途中で止まっても再実行するだけで続きから再開**されます
 
 ---
@@ -179,8 +179,8 @@ npm run upload ~/Pictures/shogo写真データ/resized
 
 | 環境変数 | デフォルト値 | 説明 |
 |----------|-------------|------|
-| `SOURCE_FOLDER` | `~/Pictures/shogo写真データ/original` | 元写真フォルダ |
-| `OUTPUT_FOLDER` | `~/Pictures/shogo写真データ/resized` | 圧縮後フォルダ |
+| `SOURCE_FOLDER` | `~/Pictures/sho5org/original` | 元写真フォルダ |
+| `OUTPUT_FOLDER` | `~/Pictures/sho5org/resized` | 圧縮後フォルダ |
 | `CONCURRENCY` | `5` | 並列処理数（PC負荷に応じて3〜10で調整） |
 | `BUCKET_NAME` | `sho5-gallery-photos` | Cloudflare R2バケット名 |
 
@@ -203,11 +203,11 @@ SOURCE_FOLDER=~/Desktop/photos OUTPUT_FOLDER=~/Desktop/resized npm run resize
 npm run resize
 
 # アップロードが途中で止まった場合 → 再実行でアップロード済みをスキップ
-npm run upload ~/Pictures/shogo写真データ/resized
+npm run upload ~/Pictures/sho5org/resized
 
 # 最初からやり直したい場合 → 進捗ファイルを削除してから実行
-rm ~/Pictures/shogo写真データ/resize-progress.json
-rm ~/Pictures/shogo写真データ/upload-progress.json
+rm ~/Pictures/sho5org/resize-progress.json
+rm ~/Pictures/sho5org/upload-progress.json
 npm run process
 ```
 
@@ -439,7 +439,7 @@ cd photo-gallery-worker && npm install
 ## 推奨フォルダ構成
 
 ```
-~/Pictures/shogo写真データ/
+~/Pictures/sho5org/
 ├── original/     # カメラから取り込んだ元写真
 ├── resized/      # リサイズ済み（日付整理）
 └── archive/      # アップロード済み元写真（バックアップ）

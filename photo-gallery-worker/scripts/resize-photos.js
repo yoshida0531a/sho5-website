@@ -7,8 +7,8 @@ import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.
 import { resizeImageWithSips } from './utils/image-utils.js';
 
 // 設定
-const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'original');
-const defaultOutputFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'resized');
+const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'sho5org', 'original');
+const defaultOutputFolder = path.join(os.homedir(), 'Pictures', 'sho5org', 'resized');
 
 const CONFIG = {
   sourceFolder: process.env.SOURCE_FOLDER || defaultSourceFolder,
@@ -16,7 +16,7 @@ const CONFIG = {
   maxDimension: 2400,
   supportedFormats: ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG'],
   concurrency: parseInt(process.env.CONCURRENCY || '5', 10),
-  progressFile: process.env.PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'resize-progress.json')
+  progressFile: process.env.PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'sho5org', 'resize-progress.json')
 };
 
 console.log('📸 Photo Resize Tool for Mac');

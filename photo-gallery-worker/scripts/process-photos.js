@@ -6,8 +6,8 @@
  *   node scripts/process-photos.js [元画像フォルダ] [圧縮済み出力フォルダ]
  *
  * 環境変数:
- *   SOURCE_FOLDER  - 元画像フォルダ（デフォルト: ~/Pictures/shogo写真データ/original）
- *   OUTPUT_FOLDER  - 圧縮済み出力フォルダ（デフォルト: ~/Pictures/shogo写真データ/resized）
+ *   SOURCE_FOLDER  - 元画像フォルダ（デフォルト: ~/Pictures/sho5org/original）
+ *   OUTPUT_FOLDER  - 圧縮済み出力フォルダ（デフォルト: ~/Pictures/sho5org/resized）
  *   BUCKET_NAME    - R2バケット名（デフォルト: sho5-gallery-photos）
  *   CONCURRENCY    - 並列数（デフォルト: 5）
  */
@@ -22,8 +22,8 @@ import { resizeImageWithSips } from './utils/image-utils.js';
 import { execSync } from 'child_process';
 
 // 設定
-const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'original');
-const defaultOutputFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'resized');
+const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'sho5org', 'original');
+const defaultOutputFolder = path.join(os.homedir(), 'Pictures', 'sho5org', 'resized');
 
 const CONFIG = {
   sourceFolder: process.argv[2] || process.env.SOURCE_FOLDER || defaultSourceFolder,
@@ -32,8 +32,8 @@ const CONFIG = {
   maxDimension: 2400,
   supportedFormats: ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG'],
   concurrency: parseInt(process.env.CONCURRENCY || '5', 10),
-  resizeProgressFile: process.env.RESIZE_PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'resize-progress.json'),
-  uploadProgressFile: process.env.UPLOAD_PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'upload-progress.json'),
+  resizeProgressFile: process.env.RESIZE_PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'sho5org', 'resize-progress.json'),
+  uploadProgressFile: process.env.UPLOAD_PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'sho5org', 'upload-progress.json'),
 };
 
 // 進捗管理

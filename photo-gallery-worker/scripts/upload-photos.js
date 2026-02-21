@@ -11,7 +11,7 @@ import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.
 
 const CONCURRENCY = parseInt(process.env.CONCURRENCY || '5', 10);
 const BUCKET_NAME = process.env.BUCKET_NAME || 'sho5-gallery-photos';
-const defaultProgressFile = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'upload-progress.json');
+const defaultProgressFile = path.join(os.homedir(), 'Pictures', 'sho5org', 'upload-progress.json');
 const PROGRESS_FILE = process.env.PROGRESS_FILE || defaultProgressFile;
 
 // 進捗管理
@@ -182,7 +182,7 @@ const uploader = new PhotoUploader();
 const folderPath = process.argv[2];
 if (!folderPath) {
   console.log('使用方法: node upload-photos.js [フォルダパス]');
-  console.log('例: node upload-photos.js "/Users/akira/Pictures/shogo写真データ/resized"');
+  console.log('例: node upload-photos.js "/Users/akira/Pictures/sho5org/resized"');
   process.exit(1);
 }
 
