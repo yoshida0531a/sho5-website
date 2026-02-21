@@ -1734,5 +1734,37 @@
     "publishedAt": "February 20, 2026 at 11:15PM",
     "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zz-_7Y4k4jo",
+    "publishedAt": "February 21, 2026 at 07:48AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【悶絶！】谷端＆百﨑が鬼の基礎練習でしごかれる！プロ野球選手も基礎から上手くなっている！ #阪神タイガース #hanshintigers #虎バンチャンネル #プロ野球キャンプ #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ud5qA5L18z8",
+    "publishedAt": "February 21, 2026 at 04:59PM",
+    "description": "フル動画はコチラ！https://youtu.be/_t7zTlmenKA.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「戦いの場に戻ってきた」藤川監督、OP戦初戦ドローも手応え　大山3安打＆谷端1番起用の意図とは #阪神タイガース #藤川球児 #虎将トーク #オープン戦 #大山悠輔 #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=q_bFwWwSggw",
+    "publishedAt": "February 21, 2026 at 08:07PM",
+    "description": "阪神オープン戦初戦は中日と1-1のドロー。 藤川監督は「戦いの場に戻ってきた感じ」と実戦モードへの移行を強調。 大山の ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【開幕直前考察⚡】阪神レフト・谷畑注目‼️ 才木は中日戦先発⁉️ 開幕3連戦ローテ徹底予想！#阪神タイガース #阪神キャンプ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=T40fpS2PAwg",
+    "publishedAt": "February 22, 2026 at 05:00AM",
+    "description": "【開幕直前考察⚡】阪神レフト・谷畑注目‼️ 才木は中日戦先発⁉️ 開幕3連戦ローテ徹底予想！#阪神タイガース #阪神キャンプ ...",
+    "keyword": "谷端 阪神"
   }
 ]
