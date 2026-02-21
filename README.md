@@ -109,32 +109,106 @@ mv photo2.jpg 02_photo2.jpg
 
 ---
 
-## フォトギャラリー画像アップロード手順（クイックスタート）
+## フォトギャラリー画像アップロード手順
 
-### ステップ1: リサイズ
+> **実行フォルダ**: すべてのコマンドは `photo-gallery-worker/` ディレクトリで実行してください。
+>
+> ```bash
+> cd /path/to/sho5-website/photo-gallery-worker
+> ```
+
+### 初回セットアップ（初回のみ）
+
+```bash
+# リポジトリのルートではなく photo-gallery-worker/ で実行する
+cd photo-gallery-worker
+npm install          # 依存パッケージをインストール
+wrangler login       # Cloudflareにブラウザ認証（初回のみ）
+```
+
+---
+
+### パターンA: 一括処理（圧縮 → アップロードを自動で連続実行）
+
 ```bash
 cd photo-gallery-worker
-./resize-photos.sh
+npm run process
 ```
-- Enterキー2回でデフォルト設定使用
-- 元写真: `~/Pictures/shogo写真データ/original`
-- 出力先: `~/Pictures/shogo写真データ/resized`
 
-### ステップ2: 確認
+- 元写真フォルダ: `~/Pictures/shogo写真データ/original`（デフォルト）
+- 圧縮後フォルダ: `~/Pictures/shogo写真データ/resized`（デフォルト）
+- **途中で止まっても再実行するだけで続きから再開**されます
+- macOSのスリープを自動で防止します（caffeinate）
+
+---
+
+### パターンB: 工程を分けて実行
+
+#### ステップ1: 圧縮（ローカルで完結）
+
+```bash
+cd photo-gallery-worker
+npm run resize
+```
+
+- 元写真: `~/Pictures/shogo写真データ/original`
+- 出力先: `~/Pictures/shogo写真データ/resized`（日付フォルダに自動整理）
+- 進捗は `~/Pictures/shogo写真データ/resize-progress.json` に記録されます
+
+#### ステップ2: 内容確認（オプション）
+
 ```bash
 open ~/Pictures/shogo写真データ/resized
 ```
-- 日付ごとにフォルダ分け
-- 不要な写真を削除
 
-### ステップ3: アップロード
+日付ごとにフォルダ分けされているので、不要な写真をここで削除できます。
+
+#### ステップ3: アップロード
+
 ```bash
+cd photo-gallery-worker
 npm run upload ~/Pictures/shogo写真データ/resized
 ```
 
-### ワンライナー
+- 進捗は `~/Pictures/shogo写真データ/upload-progress.json` に記録されます
+- **途中で止まっても再実行するだけで続きから再開**されます
+
+---
+
+### カスタマイズ（環境変数）
+
+| 環境変数 | デフォルト値 | 説明 |
+|----------|-------------|------|
+| `SOURCE_FOLDER` | `~/Pictures/shogo写真データ/original` | 元写真フォルダ |
+| `OUTPUT_FOLDER` | `~/Pictures/shogo写真データ/resized` | 圧縮後フォルダ |
+| `CONCURRENCY` | `5` | 並列処理数（PC負荷に応じて3〜10で調整） |
+| `BUCKET_NAME` | `sho5-gallery-photos` | Cloudflare R2バケット名 |
+
 ```bash
-cd photo-gallery-worker && ./resize-photos.sh && npm run upload ~/Pictures/shogo写真データ/resized
+# 例: 並列数を8に増やして高速化
+CONCURRENCY=8 npm run process
+
+# 例: フォルダを明示的に指定
+SOURCE_FOLDER=~/Desktop/photos OUTPUT_FOLDER=~/Desktop/resized npm run resize
+```
+
+---
+
+### 中断・再開（レジューム）
+
+処理が途中で止まった場合は、**同じコマンドを再実行するだけ**で続きから再開されます。
+
+```bash
+# 圧縮が途中で止まった場合 → 再実行で未完了分のみ処理
+npm run resize
+
+# アップロードが途中で止まった場合 → 再実行でアップロード済みをスキップ
+npm run upload ~/Pictures/shogo写真データ/resized
+
+# 最初からやり直したい場合 → 進捗ファイルを削除してから実行
+rm ~/Pictures/shogo写真データ/resize-progress.json
+rm ~/Pictures/shogo写真データ/upload-progress.json
+npm run process
 ```
 
 ## 画像最適化
@@ -214,11 +288,20 @@ npm run deploy
    - 5枚の画像を2000px幅に最適化
    - macOS（sips）/ Linux（ImageMagick）対応
    
-3. **フォトギャラリー画像リサイズ** (`photo-gallery-worker/resize-photos.sh`)
-   - 2400pxにリサイズ＋日付整理
+3. **フォトギャラリー画像リサイズ** (`photo-gallery-worker/scripts/resize-photos.js`)
+   - 2400pxにリサイズ＋日付整理、並列処理・レジューム対応
    - macOS専用（sips使用）
+   - 実行: `cd photo-gallery-worker && npm run resize`
 
-4. **YouTube登録者数フィルター** (`scripts/filter-youtube-by-subscribers.js`)
+4. **フォトギャラリー画像アップロード** (`photo-gallery-worker/scripts/upload-photos.js`)
+   - 圧縮済みフォルダをCloudflare R2にアップロード、並列処理・レジューム対応
+   - 実行: `cd photo-gallery-worker && npm run upload [フォルダパス]`
+
+5. **フォトギャラリー一括処理** (`photo-gallery-worker/scripts/process-photos.js`)
+   - 圧縮→アップロードを一括実行、並列処理・レジューム対応
+   - 実行: `cd photo-gallery-worker && npm run process`
+
+6. **YouTube登録者数フィルター** (`scripts/filter-youtube-by-subscribers.js`)
    - YouTube-data.txtから登録者数が少ないチャンネルの動画を削除
    - 詳細は下記「YouTube登録者数フィルター」セクション参照
 
@@ -296,9 +379,10 @@ Githubからも実行できるようにする
 ├── photo-gallery-worker/       # フォトギャラリーWorker
 │   ├── scripts/
 │   │   ├── utils/             # 共通ユーティリティ（EXIF処理、画像処理）
-│   │   ├── resize-photos.js   # リサイズスクリプト
-│   │   └── upload-photos.js   # アップロードスクリプト
-│   ├── resize-photos.sh       # リサイズシェルスクリプト
+│   │   ├── resize-photos.js   # リサイズスクリプト（並列・レジューム対応）
+│   │   ├── upload-photos.js   # アップロードスクリプト（並列・レジューム対応）
+│   │   └── process-photos.js  # 圧縮→アップロード一括スクリプト
+│   ├── resize-photos.sh       # リサイズシェルスクリプト（旧方式）
 │   └── src/                   # Cloudflare Workerソース
 ├── scripts/                    # バッチスクリプト集
 │   ├── optimize-top-images.js
