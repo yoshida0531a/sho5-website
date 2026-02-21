@@ -13,8 +13,8 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 # デフォルトのフォルダパス
-DEFAULT_SOURCE="$HOME/Pictures/shogo写真データ/original"
-DEFAULT_OUTPUT="$HOME/Pictures/shogo写真データ/resized"
+DEFAULT_SOURCE="$HOME/Pictures/sho5org/original"
+DEFAULT_OUTPUT="$HOME/Pictures/sho5org/resized"
 
 echo "📁 フォルダ設定"
 echo ""

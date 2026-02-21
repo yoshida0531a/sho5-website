@@ -1,18 +1,22 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
+import { spawn } from 'child_process';
+import pLimit from 'p-limit';
 import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
 import { resizeImageWithSips } from './utils/image-utils.js';
 
 // 設定
-const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'original');
-const defaultOutputFolder = path.join(os.homedir(), 'Pictures', 'shogo写真データ', 'resized');
+const defaultSourceFolder = path.join(os.homedir(), 'Pictures', 'sho5org', 'original');
+const defaultOutputFolder = path.join(os.homedir(), 'Pictures', 'sho5org', 'resized');
 
 const CONFIG = {
   sourceFolder: process.env.SOURCE_FOLDER || defaultSourceFolder,
   outputFolder: process.env.OUTPUT_FOLDER || defaultOutputFolder,
   maxDimension: 2400,
-  supportedFormats: ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG']
+  supportedFormats: ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG'],
+  concurrency: parseInt(process.env.CONCURRENCY || '5', 10),
+  progressFile: process.env.PROGRESS_FILE || path.join(os.homedir(), 'Pictures', 'sho5org', 'resize-progress.json')
 };
 
 console.log('📸 Photo Resize Tool for Mac');
@@ -21,7 +25,40 @@ console.log(`📁 読み込み: ${CONFIG.sourceFolder}`);
 console.log(`📁 出力先: ${CONFIG.outputFolder}`);
 console.log(`🔄 対応フォーマット: ${CONFIG.supportedFormats.join(', ')}`);
 console.log(`📐 最大サイズ: ${CONFIG.maxDimension}px`);
+console.log(`⚡ 並列数: ${CONFIG.concurrency}`);
+console.log(`📋 進捗ファイル: ${CONFIG.progressFile}`);
 console.log('-----------------------------------\n');
+
+// 進捗管理
+function loadProgress() {
+  if (fs.existsSync(CONFIG.progressFile)) {
+    try {
+      return JSON.parse(fs.readFileSync(CONFIG.progressFile, 'utf-8'));
+    } catch {
+      return {};
+    }
+  }
+  return {};
+}
+
+function saveProgress(progress) {
+  fs.writeFileSync(CONFIG.progressFile, JSON.stringify(progress, null, 2), 'utf-8');
+}
+
+// macOSのスリープ防止（caffeinate）
+function startCaffeinate() {
+  if (os.platform() !== 'darwin') return null;
+  const proc = spawn('caffeinate', ['-i'], { stdio: 'ignore', detached: true });
+  proc.unref();
+  console.log(`☕ caffeinate起動済み (PID: ${proc.pid}) - スリープを防止します\n`);
+  return proc;
+}
+
+function stopCaffeinate(proc) {
+  if (proc) {
+    try { process.kill(proc.pid); } catch { /* process may have already exited */ }
+  }
+}
 
 // フォルダの存在確認
 if (!fs.existsSync(CONFIG.sourceFolder)) {
@@ -49,40 +86,41 @@ async function resizeImage(inputPath, outputPath) {
 }
 
 // ファイルをリサイズして出力フォルダに保存
-async function processFile(filePath) {
+async function processFile(filePath, progress) {
   const fileName = path.basename(filePath);
-  
+
+  // 既に完了済みならスキップ
+  if (progress[fileName] === 'done') {
+    console.log(`⏭️  スキップ（完了済み）: ${fileName}`);
+    return { success: true, skipped: true };
+  }
+
   try {
     console.log(`🔍 処理中: ${fileName}`);
-    
+
     // EXIF情報から撮影日時を取得
     const dateTime = await getPhotoDateTime(filePath);
     const date = formatDate(dateTime, filePath);
-    
-    console.log(`   撮影日時: ${dateTime || 'なし（ファイル日時を使用）'}`);
-    console.log(`   日付フォルダ: ${date}`);
-    
+
     // 日付ごとのフォルダを作成
     const dateFolderPath = path.join(CONFIG.outputFolder, date);
     if (!fs.existsSync(dateFolderPath)) {
       fs.mkdirSync(dateFolderPath, { recursive: true });
     }
-    
+
     // リサイズして保存
     const outputPath = path.join(dateFolderPath, fileName);
     const resizeResult = await resizeImage(filePath, outputPath);
-    
+
     if (!resizeResult.success) {
       throw new Error(`リサイズ失敗: ${resizeResult.error}`);
     }
-    
-    console.log(`   サイズ: ${resizeResult.sizeMB.toFixed(2)}MB`);
-    console.log(`   保存先: ${date}/${fileName}`);
-    console.log(`✅ 完了\n`);
-    
+
+    console.log(`✅ 完了: ${date}/${fileName} (${resizeResult.sizeMB.toFixed(2)}MB)`);
+
     return { success: true, outputPath };
   } catch (error) {
-    console.error(`❌ エラー: ${fileName} - ${error.message}\n`);
+    console.error(`❌ エラー: ${fileName} - ${error.message}`);
     return { success: false, error: error.message };
   }
 }
@@ -90,51 +128,77 @@ async function processFile(filePath) {
 // メイン処理
 async function main() {
   console.log('📋 ファイルをスキャン中...\n');
-  
+
   // 対応フォーマットのファイルを取得
   const files = fs.readdirSync(CONFIG.sourceFolder)
-    .filter(file => {
-      const ext = path.extname(file);
-      return CONFIG.supportedFormats.includes(ext);
-    })
+    .filter(file => CONFIG.supportedFormats.includes(path.extname(file)))
     .map(file => path.join(CONFIG.sourceFolder, file));
-  
+
   if (files.length === 0) {
     console.log('⚠️  処理対象のファイルが見つかりませんでした\n');
     console.log(`💡 対応フォーマット: ${CONFIG.supportedFormats.join(', ')}\n`);
     await closeExiftool();
     return;
   }
-  
-  console.log(`📸 ${files.length}枚の画像を発見しました\n`);
-  console.log('🚀 リサイズを開始します...\n');
-  
-  // 各ファイルを処理
-  const results = [];
-  for (const filePath of files) {
-    const result = await processFile(filePath);
-    results.push(result);
-    
-    // 負荷軽減のため少し待機
-    await new Promise(resolve => setTimeout(resolve, 100));
+
+  // 進捗ファイルを読み込み
+  const progress = loadProgress();
+  const alreadyDone = Object.values(progress).filter(v => v === 'done').length;
+  const remaining = files.filter(f => progress[path.basename(f)] !== 'done').length;
+
+  console.log(`📸 ${files.length}枚の画像を発見（完了済み: ${alreadyDone}枚 / 未処理: ${remaining}枚）\n`);
+
+  if (remaining === 0) {
+    console.log('✅ すべてのファイルが処理済みです\n');
+    await closeExiftool();
+    return;
   }
-  
+
+  console.log('🚀 リサイズを開始します...\n');
+
+  // caffeinate でスリープ防止
+  const caffeinateProc = startCaffeinate();
+
+  // 並列処理
+  const limit = pLimit(CONFIG.concurrency);
+  let successful = 0;
+  let failed = 0;
+  let skipped = 0;
+
+  const tasks = files.map(filePath => limit(async () => {
+    const fileName = path.basename(filePath);
+    const result = await processFile(filePath, progress);
+
+    if (result.skipped) {
+      skipped++;
+    } else if (result.success) {
+      successful++;
+      progress[fileName] = 'done';
+      saveProgress(progress);
+    } else {
+      failed++;
+    }
+  }));
+
+  await Promise.all(tasks);
+
+  stopCaffeinate(caffeinateProc);
+
   // 結果サマリー
-  const successful = results.filter(r => r.success).length;
-  const failed = results.filter(r => !r.success).length;
-  
-  console.log('============================');
+  console.log('\n============================');
   console.log('📊 リサイズ結果:');
   console.log(`✅ 成功: ${successful}枚`);
+  console.log(`⏭️  スキップ（完了済み）: ${skipped}枚`);
   console.log(`❌ 失敗: ${failed}枚`);
   console.log('============================\n');
-  
+
   console.log(`📁 リサイズ済み画像: ${CONFIG.outputFolder}`);
-  console.log('💡 次のステップ: 手動でCloudflare R2にアップロードしてください\n');
+  console.log(`📋 進捗ファイル: ${CONFIG.progressFile}`);
+  console.log('💡 次のステップ: アップロードを実行してください\n');
   console.log('アップロードコマンド例:');
   console.log('  cd photo-gallery-worker');
   console.log(`  node scripts/upload-photos.js "${CONFIG.outputFolder}"\n`);
-  
+
   await closeExiftool();
 }
 
