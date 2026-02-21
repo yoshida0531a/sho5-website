@@ -1954,5 +1954,2099 @@
     "userName": "mouko_in_fukui",
     "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2024951523403596148",
     "createdAt": "February 21, 2026 at 05:57AM"
+  },
+  {
+    "text": "【見どころ】中日の注目は鵜飼。2月17日の練習試合で本塁打を放つなど、ここまでの対外試合では快音を連発している。開幕一軍入りを手繰り寄せるべく、この一戦でもバットで結果を残せるか。対する阪神の注目は、ドラフト2位ルーキーの谷端。今春のキャンプはチームの新人で唯一、主力中心（続く）",
+    "userName": "dragonsjp",
+    "tweetUrl": "https://twitter.com/dragonsjp/status/2024967571418873978",
+    "createdAt": "February 21, 2026 at 07:01AM"
+  },
+  {
+    "text": "阪神・谷端将伍がOP戦でも積極打法でアピール誓う　数少ない打席で持ち味発揮へ意欲 - スポニチ Sponichi Annex 野球 https://t.co/IOeK6kRorY",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2024971629475103230",
+    "createdAt": "February 21, 2026 at 07:17AM"
+  },
+  {
+    "text": "谷端くんも守らす所に困るよね🐯\n贅沢な悩みかな？🤔\n#サクサク土曜日",
+    "userName": "SyHatsu",
+    "tweetUrl": "https://twitter.com/SyHatsu/status/2024976107662192843",
+    "createdAt": "February 21, 2026 at 07:35AM"
+  },
+  {
+    "text": "立石くんのガタイえぐいよなー\n良くなってきたからこそ無理せず🙏\n谷端くんもすごいよなー、楽しみな逸材\n#サクサク土曜日",
+    "userName": "yoheiradio",
+    "tweetUrl": "https://twitter.com/yoheiradio/status/2024976281415418172",
+    "createdAt": "February 21, 2026 at 07:35AM"
+  },
+  {
+    "text": "おはようございます🤗\n\n今日からいよいよオープン戦🏟️🌸\n開幕1軍へ、結果が求められますね。\n\n🐯スタメンに関してはやはりレフト。\n島田、豊田、小野寺、中川、前川、髙寺、井坪、濱田、立石、谷端。\n\n昨年を見ると結果が良くても翌日交代してたので、日替わりになるのか？果たして。\n\n#オープン戦 https://t.co/ikqBL9mfdJ",
+    "userName": "zatopekharuto",
+    "tweetUrl": "https://twitter.com/zatopekharuto/status/2024978758974013487",
+    "createdAt": "February 21, 2026 at 07:45AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/HqQOFB07K7",
+    "userName": "satsuki_toraco",
+    "tweetUrl": "https://twitter.com/satsuki_toraco/status/2024979021952582127",
+    "createdAt": "February 21, 2026 at 07:46AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む（サンケイスポーツ）-Yahoo!ニュース https://t.co/wcdp661xIw\n\n阪神ドラフト2位・谷端将伍内野手（21）＝日大＝が21日、プロ初のオープン戦（対中日、北谷）に挑む。",
+    "userName": "gnomotoke",
+    "tweetUrl": "https://twitter.com/gnomotoke/status/2024982915701243919",
+    "createdAt": "February 21, 2026 at 08:02AM"
+  },
+  {
+    "text": "【ダンカン】阪神もメダルラッシュ！！　D2位・谷端、浜田、元山、D1位・立石…俺の隠しメダルは西純矢\nhttps://t.co/26ybbTtyO4\n\n#hanshin #阪神タイガース #ダンカン\nサンケイスポーツ野球コラム「ダンカン",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2024982999495008601",
+    "createdAt": "February 21, 2026 at 08:02AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　プロ初のＯＰ戦へ「積極的」アピール誓った　沖縄で積み上げた努力の成果示す\nhttps://t.co/7fXAiVXWpw #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2024987013901156501",
+    "createdAt": "February 21, 2026 at 08:18AM"
+  },
+  {
+    "text": "今日のオープン戦、中日の大野雄大に対して谷端がどんな打撃見せてくれるか楽しみだわ。\n\nルーキーで唯一、初日から宜野座キャンプで練習してたし、首脳陣の期待の高さが伺える。\n大野からヒット打って、開幕1軍の当確ランプ灯そうな（＾ν＾）",
+    "userName": "Grenier_tora",
+    "tweetUrl": "https://twitter.com/Grenier_tora/status/2024990571551711643",
+    "createdAt": "February 21, 2026 at 08:32AM"
+  },
+  {
+    "text": "【ダンカン】阪神もメダルラッシュ！！　D2位・谷端、浜田、元山、D1位・立石…俺の隠しメダルは西純矢 - サンスポ https://t.co/JjaQv1TleM @SANSPOCOMより",
+    "userName": "f61326",
+    "tweetUrl": "https://twitter.com/f61326/status/2024991344314421370",
+    "createdAt": "February 21, 2026 at 08:35AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位の谷端将伍が「左キラー」に名乗り　２１日は中日・大野雄大と対戦予定「気合が入ります。とにかく積極的に」(スポーツ報知)\n#Yahooニュース\nhttps://t.co/5F3pt8IweF",
+    "userName": "88_naughty_bgm",
+    "tweetUrl": "https://twitter.com/88_naughty_bgm/status/2024993846816571487",
+    "createdAt": "February 21, 2026 at 08:45AM"
+  },
+  {
+    "text": "⚾️⚾️⚾️⚾️⚾️⚾️🐯🐯🐯🐯🐯🐯✌️✌️✌️✌️✌️㊗️✌️✌️✌️✌️✌️✌️\n\n　　プロ野球オープン戦\n\n　　　　阪神vs中日\n\n阪神新加入ディベイニー遊撃\nドラフト2位谷端三塁の出場\nが予想される🌸\n谷端将伍　2025年ドラ2\n石川県白石市出身　星稜高校\n日本大学　東都大学1部リーグ\n首位打者\n\n🐯今年もよろしくです🍀",
+    "userName": "0077mako",
+    "tweetUrl": "https://twitter.com/0077mako/status/2024997378307309926",
+    "createdAt": "February 21, 2026 at 08:59AM"
+  },
+  {
+    "text": "谷端めっちゃいろんな人に褒められてるよな？？\nすごい期待しちゃう",
+    "userName": "ashimori_t",
+    "tweetUrl": "https://twitter.com/ashimori_t/status/2024999732045906414",
+    "createdAt": "February 21, 2026 at 09:08AM"
+  },
+  {
+    "text": "谷端が良いのは知っていたが、まさか立石よりも先に出てくるとは思わんかった",
+    "userName": "hanshindaigaku",
+    "tweetUrl": "https://twitter.com/hanshindaigaku/status/2025000039899431195",
+    "createdAt": "February 21, 2026 at 09:10AM"
+  },
+  {
+    "text": "楽しみ！アピールのチャンス！\n\n阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む（サンケイスポーツ） https://t.co/ck6roz6DqO",
+    "userName": "zuohualian62394",
+    "tweetUrl": "https://twitter.com/zuohualian62394/status/2025001801888792983",
+    "createdAt": "February 21, 2026 at 09:17AM"
+  },
+  {
+    "text": "谷端は相当なタマかもしれない\n立石は出遅れてるからわからないけど\n#阪神タイガース #hanshin #tigers",
+    "userName": "abeshin_0417",
+    "tweetUrl": "https://twitter.com/abeshin_0417/status/2025003813787369864",
+    "createdAt": "February 21, 2026 at 09:25AM"
+  },
+  {
+    "text": "@whlqAYJbSzuPMlD おはよう😊\nキャンプからオープン戦まであっという間やな💦\n個人的には谷端・濱田・下村・木下あたりが楽しみやわ😁",
+    "userName": "tolucky1007",
+    "tweetUrl": "https://twitter.com/tolucky1007/status/2025005596307869829",
+    "createdAt": "February 21, 2026 at 09:32AM"
+  },
+  {
+    "text": "バッティング練習順\n\n拳弥さんが一番手🙌\n\n中川くんもソコ！？👀\n\nこんなんゼッタイスタメンじゃん💕\n\nちゃんとりんりんもいるー🍮🍒\n\nもう、球児監督ダイスキー😍\n\n糸さん差し置いてるから\n谷端くんがサードスタメンかな🤔\n\nhttps://t.co/3fGN1zsAnN https://t.co/EvHVd0C9X6",
+    "userName": "vertical_st",
+    "tweetUrl": "https://twitter.com/vertical_st/status/2025006347474043325",
+    "createdAt": "February 21, 2026 at 09:35AM"
+  },
+  {
+    "text": "@kira_tigers @1sEHD37wjo42770 佐藤は普通にサードやってますよ\n1回だけライト\n阪神でも内野特守しかしてません\n谷端は外野守備練習を始めました\n藤川監督の中でサード佐藤、レフト谷端にしたいのかも知れませんね\nそもそも谷端はストレート苦にしてなくてプロ適応は早いと予想されてましたし",
+    "userName": "x_womow_x",
+    "tweetUrl": "https://twitter.com/x_womow_x/status/2025008780229140878",
+    "createdAt": "February 21, 2026 at 09:44AM"
+  },
+  {
+    "text": "中日vs阪神のオープン戦、無料配信なし😭\n\nDMM×DAZNホーダイなら月額最安値でプロ野球を堪能✨\n\nここから迷わずいけた👇\nhttps://t.co/G53TekdXDF\n\n21日14時、阪神は高橋遥人が先発予定。\n\nドラ2谷端将伍の1番起用も有力で、開幕一軍サバイバルが早くも激アツ！\n\n#dragons #tigers #PR",
+    "userName": "lemonbaum_2178",
+    "tweetUrl": "https://twitter.com/lemonbaum_2178/status/2025009675444650298",
+    "createdAt": "February 21, 2026 at 09:48AM"
+  },
+  {
+    "text": "【記事全文】阪神・谷端将伍がOP戦でも積極打法でアピール誓う　数少ない打席で持ち味発揮へ意欲 - スポニチ Sponichi Annex 野球 https://t.co/3qUeNCGAes",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2025010416569688143",
+    "createdAt": "February 21, 2026 at 09:51AM"
+  },
+  {
+    "text": "今日からオープン戦が始まり、虎は竜との試合⚾️\n谷端はここまで実戦で6打数1安打🐯\n打撃でアピールしたいところ🚊\n\n阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む（サンケイスポーツ） https://t.co/Ql1IQ8Bv4L",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/2025014262138380685",
+    "createdAt": "February 21, 2026 at 10:06AM"
+  },
+  {
+    "text": "プロ野球オープン戦がついに開幕🔥\n\n🆚中日 vs 阪神\n🕰️2/21(土) 14:00\n\nDMM×DAZNホーダイなら先着で1,390pt還元✨\n\n視聴▶︎https://t.co/G53TekdXDF\n\n実質月額最安値で北谷の激闘を生中継！解約いつでもOK。\n\n中日・鵜飼の連発か、阪神ドラ2谷端将伍の快音か。\n\n#dragons #tigers #PR",
+    "userName": "lemonbaum_2178",
+    "tweetUrl": "https://twitter.com/lemonbaum_2178/status/2025014356908646861",
+    "createdAt": "February 21, 2026 at 10:07AM"
+  },
+  {
+    "text": "スカパーや他配信と迷っているならDMM×DAZN一択\n\n月額最安＆解約いつでもOK。\n\nPayPay等のキャンペーンも活用してお得に野球三昧！\n\n最安で観る方法▶︎https://t.co/G53TekdpO7\n\n実戦で結果を出し続ける鵜飼と、期待の新人・谷端。今しか見れない起用を網羅できる\n\n#PR #dragons #tigers",
+    "userName": "lemonbaum_2178",
+    "tweetUrl": "https://twitter.com/lemonbaum_2178/status/2025024422952776027",
+    "createdAt": "February 21, 2026 at 10:47AM"
+  },
+  {
+    "text": "スタメン発表　D2位・谷端将伍が「6番・三塁」で対外試合初スタメン　先発は最優秀防御率右腕の才木浩人(サンケイスポーツ)\n#Yahooニュース\n\n梅野残留😳 https://t.co/uq016IwM9u",
+    "userName": "bl7rm986",
+    "tweetUrl": "https://twitter.com/bl7rm986/status/2025024726540902848",
+    "createdAt": "February 21, 2026 at 10:48AM"
+  },
+  {
+    "text": "@taku_tigersfan 良かったですね😁\nゆっくり見れる至福のときです😇\nはい‼️立石谷端強力なライバル\n出現ですが、周りの雑音はねのけて\nやり切って欲しいですわ。\nほんまですね。ベテラン関係ない\n活躍を😇",
+    "userName": "saruku5555",
+    "tweetUrl": "https://twitter.com/saruku5555/status/2025029900315623725",
+    "createdAt": "February 21, 2026 at 11:08AM"
+  },
+  {
+    "text": "[メルカリ] 谷端将伍 限定 銀箔押し サイン入り レアカード 阪神タイガース BBM 2026 ルーキーエディション 日本大学→ドラフト2位 ¥…\n\nhttps://t.co/BEWaf9LWHE",
+    "userName": "maru00922",
+    "tweetUrl": "https://twitter.com/maru00922/status/2025040816226664635",
+    "createdAt": "February 21, 2026 at 11:52AM"
+  },
+  {
+    "text": "小田とか谷端ですらセカンドさせようみたいな流れあるのに石塚にそれがないのは異常じゃない？笑",
+    "userName": "331766497178g",
+    "tweetUrl": "https://twitter.com/331766497178g/status/2025040842092900640",
+    "createdAt": "February 21, 2026 at 11:52AM"
+  },
+  {
+    "text": "#阪神タイガース\n今日の中日とのオープン戦、スタメンセカンドは谷端ですかね？中野は宜野座へ居残りだし\n上手くいくと開幕スタメンセカンドは谷端かもしれませんね！",
+    "userName": "ajtajt0852654",
+    "tweetUrl": "https://twitter.com/ajtajt0852654/status/2025041141201338581",
+    "createdAt": "February 21, 2026 at 11:53AM"
+  },
+  {
+    "text": "あまりオープン戦に興味無いけど、高橋遥がオープン戦（vs中日）で開幕投手はメチャクチャ興味ある　\n\nあと谷端ね",
+    "userName": "Torakichi6K",
+    "tweetUrl": "https://twitter.com/Torakichi6K/status/2025042022252564715",
+    "createdAt": "February 21, 2026 at 11:56AM"
+  },
+  {
+    "text": "谷端の本職が二塁ってどういうこと https://t.co/knskCBk4yK",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2025043030974304671",
+    "createdAt": "February 21, 2026 at 12:00PM"
+  },
+  {
+    "text": "今日関テレでOP戦あるんアッツ！\nTVで見れるやん\nスタメンどうなるやろ\n8近本\n4中野\n6ディベイニー\n3大山\n7濱田\n9高寺\nD中川\n5谷端\n2伏見\nP髙橋\n\nこんな感じになるんかな\n#阪神タイガース",
+    "userName": "kosaka_speed",
+    "tweetUrl": "https://twitter.com/kosaka_speed/status/2025044814199472256",
+    "createdAt": "February 21, 2026 at 12:08PM"
+  },
+  {
+    "text": "サトテルwbcやしオープン戦は立石か谷端がサードなんかな それやったらかなり嬉しい",
+    "userName": "hireosub",
+    "tweetUrl": "https://twitter.com/hireosub/status/2025046167202234542",
+    "createdAt": "February 21, 2026 at 12:13PM"
+  },
+  {
+    "text": "谷端、高橋羨ましい",
+    "userName": "ryuuuutoudabi",
+    "tweetUrl": "https://twitter.com/ryuuuutoudabi/status/2025048410915832076",
+    "createdAt": "February 21, 2026 at 12:22PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む(サンケイスポーツ)\n\nhttps://t.co/t2hIOJmEu7",
+    "userName": "huinglink",
+    "tweetUrl": "https://twitter.com/huinglink/status/2025050094920482926",
+    "createdAt": "February 21, 2026 at 12:29PM"
+  },
+  {
+    "text": "ディベ小幡熊谷木浪次第ではあるけど、中野ってショートに戻ることってもう無理なのかな、いけるなら谷端セカンド中野ショート立石サード大山ファースト外野を森下近本佐藤でいくのもいいかなってちょっと思っちゃった、それくらい谷端がいい",
+    "userName": "nAzO_OnAkAItA_I",
+    "tweetUrl": "https://twitter.com/nAzO_OnAkAItA_I/status/2025051449512919204",
+    "createdAt": "February 21, 2026 at 12:34PM"
+  },
+  {
+    "text": "【Episode.4,754】\n立石と谷端…\n\n続きは、西宮竜二郎で🔍検索 \n「Facebookページでどうぞ」 \n#nishinomiya #hanshin #tigers #西宮 #阪神 #タイガース #阪神タイガース #熱覇 #ねっぱ #Fuelyourpassion #大安 #寅の日 #国際母語デー #漱石の日 #日刊新聞創刊の日",
+    "userName": "nm_ryujiro",
+    "tweetUrl": "https://twitter.com/nm_ryujiro/status/2025052573326352581",
+    "createdAt": "February 21, 2026 at 12:38PM"
+  },
+  {
+    "text": "本日のオープンスタメン予想\n1中　高寺\n2二　元山\n3遊　ディベィニー\n4一　大山\n5右　濱田\n6左　中川\n7三　谷端\n8捕　伏見\n9指　小幡",
+    "userName": "cAUWPiMSly12351",
+    "tweetUrl": "https://twitter.com/cAUWPiMSly12351/status/2025057722690043950",
+    "createdAt": "February 21, 2026 at 12:59PM"
+  },
+  {
+    "text": "あー今日のOP戦、中野くん出ないのか。残念。元山くんと谷端くんがセカンド出るのかな。中野くんの分まで頑張ってね。勝つぞ😄",
+    "userName": "momongapyu6874",
+    "tweetUrl": "https://twitter.com/momongapyu6874/status/2025057897122857374",
+    "createdAt": "February 21, 2026 at 01:00PM"
+  },
+  {
+    "text": "1番谷端アッツ\nありがとう藤川球児",
+    "userName": "zatsuteira",
+    "tweetUrl": "https://twitter.com/zatsuteira/status/2025060145412407394",
+    "createdAt": "February 21, 2026 at 01:08PM"
+  },
+  {
+    "text": "【先攻】阪神のスターティングラインアップは1番：谷端(二)、2番：髙寺(中)、3番：ディベイニー(遊)、4番：大山(一)、5番：濱田(指)、6番：木浪(三)、7番：伏見(捕)、8番：中川(左)、9番：小野寺(右)です。",
+    "userName": "dragonsjp",
+    "tweetUrl": "https://twitter.com/dragonsjp/status/2025060454213845411",
+    "createdAt": "February 21, 2026 at 01:10PM"
+  },
+  {
+    "text": "阪神スタメン\n谷端\n高寺\nディベイニー\n大山\n濱田\n木浪\n伏見\n中川\n小野寺\n\n投手　　高橋\n\n中日スタメン\n岡林\n鵜飼\n上林\n細川\nボスラー\nサノー\n福永\n石伊\n辻本\n\n投手　　大野雄大",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://twitter.com/400216Susumu/status/2025061017085194354",
+    "createdAt": "February 21, 2026 at 01:12PM"
+  },
+  {
+    "text": "今日のオープン戦は先発ハルト！！！\n1番セカンド谷端！\n3番ディベイニー！ https://t.co/6WHJuodf56",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2025061034453835801",
+    "createdAt": "February 21, 2026 at 01:12PM"
+  },
+  {
+    "text": "1番谷端くん！がんばれ〜",
+    "userName": "Accel0512",
+    "tweetUrl": "https://twitter.com/Accel0512/status/2025061152963919892",
+    "createdAt": "February 21, 2026 at 01:12PM"
+  },
+  {
+    "text": "1番谷端！たのしみ！！！！！！！",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2025061219993092274",
+    "createdAt": "February 21, 2026 at 01:13PM"
+  },
+  {
+    "text": "【阪神21日スタメン】谷端1番セカンド＆高寺2番 クリーンナップはディベイニー 大山 濱田 木浪6番サード 先発・高橋 捕手は伏見\nhttps://t.co/yl3zDzD0qh\n\n■プロ野球　中日ー阪神　オープン戦　（21日　北谷）\n\n阪神の今季初オープン戦となる中日戦のスタメンが発表された。昨季のオープン戦は3勝... https://t.co/IhVQ2L2lVr",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2025061278021288263",
+    "createdAt": "February 21, 2026 at 01:13PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍「気合は入ります」　プロ初のオープン戦に挑む - サンスポ https://t.co/zEnawhy6MB",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2025061356429623505",
+    "createdAt": "February 21, 2026 at 01:13PM"
+  },
+  {
+    "text": "おぉ、谷端くん1番",
+    "userName": "tigersparty77",
+    "tweetUrl": "https://twitter.com/tigersparty77/status/2025061398964048252",
+    "createdAt": "February 21, 2026 at 01:13PM"
+  },
+  {
+    "text": "1番(二)谷端面白いな、中野の控え植田とかだし\n右の代打兼セカンド2番手で計算出来たら嬉しい",
+    "userName": "toratora_570",
+    "tweetUrl": "https://twitter.com/toratora_570/status/2025061486524334422",
+    "createdAt": "February 21, 2026 at 01:14PM"
+  },
+  {
+    "text": "1番セカンド谷端！！？？",
+    "userName": "galbo0125",
+    "tweetUrl": "https://twitter.com/galbo0125/status/2025061758101307815",
+    "createdAt": "February 21, 2026 at 01:15PM"
+  },
+  {
+    "text": "プロ野球オープン戦開幕\n阪神VS中日\nスタメン\n遥人に谷端きた〜🤩\n濱田に寅威もアピールや！\n悠輔は言うまでもありません😆 https://t.co/QQOzCB54WR",
+    "userName": "hh3sw66xhYEhcC4",
+    "tweetUrl": "https://twitter.com/hh3sw66xhYEhcC4/status/2025062498458894833",
+    "createdAt": "February 21, 2026 at 01:18PM"
+  },
+  {
+    "text": "谷端期待されてるねえ\nいいねえ",
+    "userName": "hiyokokko_ht",
+    "tweetUrl": "https://twitter.com/hiyokokko_ht/status/2025062504582598730",
+    "createdAt": "February 21, 2026 at 01:18PM"
+  },
+  {
+    "text": "1番谷端😁😁😁😁😁😁😁\n\nサード木浪🤔🤔🤔🤔🤔🤔🤔",
+    "userName": "Hanshinfunda",
+    "tweetUrl": "https://twitter.com/Hanshinfunda/status/2025062579350159827",
+    "createdAt": "February 21, 2026 at 01:18PM"
+  },
+  {
+    "text": "1番セカンド谷端選手！！",
+    "userName": "D2XpmnmHiy",
+    "tweetUrl": "https://twitter.com/D2XpmnmHiy/status/2025062630608830739",
+    "createdAt": "February 21, 2026 at 01:18PM"
+  },
+  {
+    "text": "谷端1番で喜んでたら6番サードに木浪いて横転",
+    "userName": "Tora_0035",
+    "tweetUrl": "https://twitter.com/Tora_0035/status/2025062745444679747",
+    "createdAt": "February 21, 2026 at 01:19PM"
+  },
+  {
+    "text": "谷端1番セカンドスタメンアツ〜",
+    "userName": "ToranokoV",
+    "tweetUrl": "https://twitter.com/ToranokoV/status/2025062826986127794",
+    "createdAt": "February 21, 2026 at 01:19PM"
+  },
+  {
+    "text": "阪神スタメン発表\n1番、セカンド谷端 3番、ショートディベイニー\n5番、DH濱田 7番、捕手伏見の4人の新戦力の\n活躍楽しみだ🐯 https://t.co/NZxabCCmi8",
+    "userName": "tkun0612",
+    "tweetUrl": "https://twitter.com/tkun0612/status/2025062834250629408",
+    "createdAt": "February 21, 2026 at 01:19PM"
+  },
+  {
+    "text": "1番セカンド谷端!?!?",
+    "userName": "harukitoraaka",
+    "tweetUrl": "https://twitter.com/harukitoraaka/status/2025062834762314102",
+    "createdAt": "February 21, 2026 at 01:19PM"
+  },
+  {
+    "text": "中日戦練習試合スタメン\n1谷端（ニ）\n2高寺（中）\n3デイベニー（遊）\n4大山（一）\n5濱田（指）\n6木浪（三）\n7伏見（捕）\n8中川（左）\n9小野寺（右）\n投高橋",
+    "userName": "toraemon31",
+    "tweetUrl": "https://twitter.com/toraemon31/status/2025063342491275434",
+    "createdAt": "February 21, 2026 at 01:21PM"
+  },
+  {
+    "text": "【中日】オープン戦の「開幕投手」はベテラン・大野雄大　阪神はドラフト２位・谷端将伍が先発出場　両チームスタメンを発表\nhttps://t.co/KmMlw8xJxt\n\n◇オープン戦　中日―阪神（２１日・北谷）\n\n　中日のオープン戦が開幕した。阪神戦のスタメンを発表し、大野雄大投手が先発。阪神の先発は高橋... https://t.co/uSmuJAOszg",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2025063345607618865",
+    "createdAt": "February 21, 2026 at 01:21PM"
+  },
+  {
+    "text": "1番セカンド谷端とかでうおおおおおってなってたのに､6番目になんかちんしゃぶいて本当に萎えた",
+    "userName": "re_Hina1423",
+    "tweetUrl": "https://twitter.com/re_Hina1423/status/2025063483193339912",
+    "createdAt": "February 21, 2026 at 01:22PM"
+  },
+  {
+    "text": "谷端マジでセカンドで行くの？\nサードきなみんは一旦置いとくとして",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2025063604350030229",
+    "createdAt": "February 21, 2026 at 01:22PM"
+  },
+  {
+    "text": "立石いれば立石サード、谷端セカンドだったんだろうな...",
+    "userName": "chika5_Jude5",
+    "tweetUrl": "https://twitter.com/chika5_Jude5/status/2025063675879719177",
+    "createdAt": "February 21, 2026 at 01:22PM"
+  },
+  {
+    "text": "ルーキー谷端1番！ https://t.co/KKT6VKNjPD",
+    "userName": "Wataru110548891",
+    "tweetUrl": "https://twitter.com/Wataru110548891/status/2025063689880252896",
+    "createdAt": "February 21, 2026 at 01:23PM"
+  },
+  {
+    "text": "谷端と勇斗スタメン！！！頑張れよー！！！\n\n右京と麟士朗も途中出場やろけど爪痕残せよ！！！",
+    "userName": "Guti_hansin14",
+    "tweetUrl": "https://twitter.com/Guti_hansin14/status/2025063852220785069",
+    "createdAt": "February 21, 2026 at 01:23PM"
+  },
+  {
+    "text": "実際のオーダー\n4　谷端\n8　髙寺\n6　ディベイニー\n3　大山\nD　濱田\n5　木浪\n2　伏見\n7　中川\n9　小野寺\nP　髙橋",
+    "userName": "mjdaj63",
+    "tweetUrl": "https://twitter.com/mjdaj63/status/2025063920860532890",
+    "createdAt": "February 21, 2026 at 01:23PM"
+  },
+  {
+    "text": "1番セカンド谷端はアツい",
+    "userName": "Munielbaseball",
+    "tweetUrl": "https://twitter.com/Munielbaseball/status/2025064105523249489",
+    "createdAt": "February 21, 2026 at 01:24PM"
+  },
+  {
+    "text": "1番谷端の活躍期待",
+    "userName": "Wf8hyLoZZZ12947",
+    "tweetUrl": "https://twitter.com/Wf8hyLoZZZ12947/status/2025064197462307004",
+    "createdAt": "February 21, 2026 at 01:25PM"
+  },
+  {
+    "text": "1番谷端や",
+    "userName": "mocmocmockun",
+    "tweetUrl": "https://twitter.com/mocmocmockun/status/2025064954546847882",
+    "createdAt": "February 21, 2026 at 01:28PM"
+  },
+  {
+    "text": "谷端のセカンドテスト👏",
+    "userName": "Lucky7tora3",
+    "tweetUrl": "https://twitter.com/Lucky7tora3/status/2025064981801439630",
+    "createdAt": "February 21, 2026 at 01:28PM"
+  },
+  {
+    "text": "阪神タイガース\nオープン戦　vs中日　北谷球場　初戦　スタメン\n１．谷端　セカンド\n２．高寺　センター\n３．ディベイニー　ショート\n４．大山　ファースト\n５．濱田　指名打者\n６．木浪　サード\n７．伏見　キャッチャー\n８．中川　レフト\n９．小野寺　ライト\n2026年も全力応援中！",
+    "userName": "takashi17881788",
+    "tweetUrl": "https://twitter.com/takashi17881788/status/2025065050990616660",
+    "createdAt": "February 21, 2026 at 01:28PM"
+  },
+  {
+    "text": "セカンド谷端",
+    "userName": "F9Rxe",
+    "tweetUrl": "https://twitter.com/F9Rxe/status/2025065052752273672",
+    "createdAt": "February 21, 2026 at 01:28PM"
+  },
+  {
+    "text": "1番谷端、2番高寺！\n試合楽しみーー！！ https://t.co/Mi72Oqvpe3",
+    "userName": "bnt_coco_mtd",
+    "tweetUrl": "https://twitter.com/bnt_coco_mtd/status/2025065142984355897",
+    "createdAt": "February 21, 2026 at 01:28PM"
+  },
+  {
+    "text": "今日のスタメン1番セカンド谷端や",
+    "userName": "koputasu120",
+    "tweetUrl": "https://twitter.com/koputasu120/status/2025065246583652745",
+    "createdAt": "February 21, 2026 at 01:29PM"
+  },
+  {
+    "text": "1番セカンド谷端👏✨",
+    "userName": "tonk3w",
+    "tweetUrl": "https://twitter.com/tonk3w/status/2025065343790825657",
+    "createdAt": "February 21, 2026 at 01:29PM"
+  },
+  {
+    "text": "【中日 スタメン】\n1（中）岡林 勇希\n2（指）鵜飼 航丞\n3（右）上林 誠知\n4（左）細川 成也\n5（三）ボスラー\n6（一）サノー\n7（二）福永 裕基\n8（捕）石伊 雄太\n9（遊）辻本 倫太郎\nP：大野 雄大\n\n【阪神 スタメン】\n1（二）谷端 将伍\n2（中）髙寺 望夢\n3（遊）ディベイニー\n4（一）大山 悠輔",
+    "userName": "gnomotoke",
+    "tweetUrl": "https://twitter.com/gnomotoke/status/2025065508253622682",
+    "createdAt": "February 21, 2026 at 01:30PM"
+  },
+  {
+    "text": "谷端の守備次第だけど\nサード谷端も試してみてほしい",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/2025066205229551706",
+    "createdAt": "February 21, 2026 at 01:33PM"
+  },
+  {
+    "text": "オープン戦はじまるな〜\nサードは若手誰もいないか…\n１番谷端くんがんばれ〜",
+    "userName": "XfWsD9jYQs66122",
+    "tweetUrl": "https://twitter.com/XfWsD9jYQs66122/status/2025066234677789039",
+    "createdAt": "February 21, 2026 at 01:33PM"
+  },
+  {
+    "text": "1番谷端楽しみすぎる",
+    "userName": "_rikataaaaan",
+    "tweetUrl": "https://twitter.com/_rikataaaaan/status/2025066437216534655",
+    "createdAt": "February 21, 2026 at 01:33PM"
+  },
+  {
+    "text": "谷端、濱田、中川スタメン！楽しみやわぁ。 https://t.co/bvqq0uXkDc",
+    "userName": "tricolore_1225",
+    "tweetUrl": "https://twitter.com/tricolore_1225/status/2025066684927918434",
+    "createdAt": "February 21, 2026 at 01:34PM"
+  },
+  {
+    "text": "PR\n\n⚾オープン戦⚾\n中日 vs 阪神 14:00\n\nJSPORTS(5日間無料)\n⇒https://t.co/UpeIxkmd3u\n\n中日は鵜飼に注目\nなんかいい感じです\n\n阪神はドラフト2位ルーキーの谷端くん\n新人で唯一、宜野座組でキャンプスタート✨\n\ndragons\ntigers",
+    "userName": "rui_loui",
+    "tweetUrl": "https://twitter.com/rui_loui/status/2025066701738705075",
+    "createdAt": "February 21, 2026 at 01:35PM"
+  },
+  {
+    "text": "1番セカンド谷端！？",
+    "userName": "yakisoba53",
+    "tweetUrl": "https://twitter.com/yakisoba53/status/2025066717022679398",
+    "createdAt": "February 21, 2026 at 01:35PM"
+  },
+  {
+    "text": "おお！谷端1番か\nディベイニーさんそろそろ長打お願いします😅",
+    "userName": "mogu0506",
+    "tweetUrl": "https://twitter.com/mogu0506/status/2025066791115149668",
+    "createdAt": "February 21, 2026 at 01:35PM"
+  },
+  {
+    "text": "髙寺中川のレフト争いは面白かったけどここに立石谷端らも入ってくるとなるとポジション考えろよとなるわな",
+    "userName": "nwtr_bcd",
+    "tweetUrl": "https://twitter.com/nwtr_bcd/status/2025067326539006377",
+    "createdAt": "February 21, 2026 at 01:37PM"
+  },
+  {
+    "text": "【オープン戦】\n【阪神】\n1谷端(二)\n2高寺(中)\n3ディベイニー(遊)\n4大山(一)\n5濱田(指)\n6木浪(三)\n7伏見(捕)\n8中川(左)\n9小野寺(右)\nP高橋\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2025067737496912241",
+    "createdAt": "February 21, 2026 at 01:39PM"
+  },
+  {
+    "text": "【中日対阪神オープン戦】1（二） 谷端 将伍　3（遊） ディベイニー https://t.co/3X8L0FUSG4",
+    "userName": "nanjstu",
+    "tweetUrl": "https://twitter.com/nanjstu/status/2025068988540256393",
+    "createdAt": "February 21, 2026 at 01:44PM"
+  },
+  {
+    "text": "セカンド谷端は注目やな",
+    "userName": "sefuto_ht",
+    "tweetUrl": "https://twitter.com/sefuto_ht/status/2025069006668050863",
+    "createdAt": "February 21, 2026 at 01:44PM"
+  },
+  {
+    "text": "一番谷端最高や",
+    "userName": "mirujodazjo",
+    "tweetUrl": "https://twitter.com/mirujodazjo/status/2025069073701511264",
+    "createdAt": "February 21, 2026 at 01:44PM"
+  },
+  {
+    "text": "谷端くんスタメンじゃーん！頑張ってねー！",
+    "userName": "mas09272",
+    "tweetUrl": "https://twitter.com/mas09272/status/2025069099660050881",
+    "createdAt": "February 21, 2026 at 01:44PM"
+  },
+  {
+    "text": "谷端セカンドあついな",
+    "userName": "2929yuwa3",
+    "tweetUrl": "https://twitter.com/2929yuwa3/status/2025069213908631987",
+    "createdAt": "February 21, 2026 at 01:44PM"
+  },
+  {
+    "text": "@hanshintigersjp 谷端楽しみやな",
+    "userName": "the_champ2525",
+    "tweetUrl": "https://twitter.com/the_champ2525/status/2025070312380137795",
+    "createdAt": "February 21, 2026 at 01:49PM"
+  },
+  {
+    "text": "<PR>\nプロ野球オープン戦\n\n2月21日（土） 14:00 北谷\n中日ドラゴンズ\nvs.\n阪神タイガース\n\nアマプラ J SPORTS\n無料体験あり\n👉https://t.co/MbVwOuexBT\n\n解説：森繁和\n実況：熊谷龍一\n球場：Agreスタジアム北谷\n\n阪神の注目は、ドラフト2位ルーキーの谷端",
+    "userName": "tsuyoponlove777",
+    "tweetUrl": "https://twitter.com/tsuyoponlove777/status/2025070476498727407",
+    "createdAt": "February 21, 2026 at 01:50PM"
+  },
+  {
+    "text": "それにしても谷端、高寺の1、2番のスタメン楽しみだな‼️🐯\n若手2人の1、2番オープン戦とは言え楽しみだ‼️🐯",
+    "userName": "kenshirohanshin",
+    "tweetUrl": "https://twitter.com/kenshirohanshin/status/2025070529498284351",
+    "createdAt": "February 21, 2026 at 01:50PM"
+  },
+  {
+    "text": "１番谷端は思い切ったな",
+    "userName": "Fujinami0925",
+    "tweetUrl": "https://twitter.com/Fujinami0925/status/2025070544014672184",
+    "createdAt": "February 21, 2026 at 01:50PM"
+  },
+  {
+    "text": "谷端がセカンドやって何故か髙寺がセンターやってるのに木浪がサード守ってるのおかしいだろ",
+    "userName": "uraraurara_612",
+    "tweetUrl": "https://twitter.com/uraraurara_612/status/2025071497472319647",
+    "createdAt": "February 21, 2026 at 01:54PM"
+  },
+  {
+    "text": "1番谷端で神",
+    "userName": "AniQgVZSxr62725",
+    "tweetUrl": "https://twitter.com/AniQgVZSxr62725/status/2025071634554781703",
+    "createdAt": "February 21, 2026 at 01:54PM"
+  },
+  {
+    "text": "谷端頑張れ🔥\n#阪神タイガース",
+    "userName": "5g3at",
+    "tweetUrl": "https://twitter.com/5g3at/status/2025071663860346888",
+    "createdAt": "February 21, 2026 at 01:54PM"
+  },
+  {
+    "text": "サード木浪は「はっ？」って感じやけど、谷端高寺スタメンならそうなるか。って感じ。\n流石に、百﨑には劣後しないでしょ。",
+    "userName": "vwvwkk",
+    "tweetUrl": "https://twitter.com/vwvwkk/status/2025072704936968660",
+    "createdAt": "February 21, 2026 at 01:58PM"
+  },
+  {
+    "text": "おおお1番谷端に先発高橋遥人！ってDHでやるんや、へえ。",
+    "userName": "norinoirnori",
+    "tweetUrl": "https://twitter.com/norinoirnori/status/2025072751225229754",
+    "createdAt": "February 21, 2026 at 01:59PM"
+  },
+  {
+    "text": "かっとばせ谷端\nかっとばせ谷端\nかっとばせ谷端\n谷端〜〜〜谷端\nかっとばせ谷端 https://t.co/UNvBBV01Qf",
+    "userName": "Yuusuke67010620",
+    "tweetUrl": "https://twitter.com/Yuusuke67010620/status/2025072813288390887",
+    "createdAt": "February 21, 2026 at 01:59PM"
+  },
+  {
+    "text": "オープン戦、阪神タイガースはルーキー谷端が1番セカンド。外野陣はライト小野寺・センター高寺・レフト中川。しかし中日がそのまま開幕戦いけそうな面子で震える。",
+    "userName": "investor_saru",
+    "tweetUrl": "https://twitter.com/investor_saru/status/2025072841042059516",
+    "createdAt": "February 21, 2026 at 01:59PM"
+  },
+  {
+    "text": "オープン戦！\n１番谷端くん、頑張れ～😆📣",
+    "userName": "G14l69QNc8kf8fY",
+    "tweetUrl": "https://twitter.com/G14l69QNc8kf8fY/status/2025072947069952449",
+    "createdAt": "February 21, 2026 at 01:59PM"
+  },
+  {
+    "text": "セカンド谷端か！\n小野寺と中川にも注目👀",
+    "userName": "chika_tora5",
+    "tweetUrl": "https://twitter.com/chika_tora5/status/2025072996336255471",
+    "createdAt": "February 21, 2026 at 02:00PM"
+  },
+  {
+    "text": "谷端どんな感じなんだろ",
+    "userName": "suda_bind_2",
+    "tweetUrl": "https://twitter.com/suda_bind_2/status/2025073076522926403",
+    "createdAt": "February 21, 2026 at 02:00PM"
+  },
+  {
+    "text": "谷端くん緊張してたな💦\n徐々に上げていこう😊",
+    "userName": "1018spring",
+    "tweetUrl": "https://twitter.com/1018spring/status/2025073823356518437",
+    "createdAt": "February 21, 2026 at 02:03PM"
+  },
+  {
+    "text": "#阪神 #阪神タイガース #hanshin\n\n谷端って普通に過大評価にしか見えへんねんけどなんでええことになってん？🥺",
+    "userName": "HAB32HAB32",
+    "tweetUrl": "https://twitter.com/HAB32HAB32/status/2025073842218262558",
+    "createdAt": "February 21, 2026 at 02:03PM"
+  },
+  {
+    "text": "#プロ野球 #オープン戦 #北谷 21日\n#中日-#阪神 \n【@DragonsOfficial】\n1中岡林\n2指鵜飼\n3右上林\n4左細川\n5三ボスラー\n6一サノー\n7二福永\n8捕石伊\n9遊辻本\n#先発 #大野\n【@TigersDreamlink】\n1二谷端\n2中高寺\n3遊#ディベイニー\n4一大山\n5指濵田\n6三木浪\n7捕伏見\n8左中川\n9右小野寺\n先発 #高橋遥人 https://t.co/vHsiO3Ygdo",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2025073906592481520",
+    "createdAt": "February 21, 2026 at 02:03PM"
+  },
+  {
+    "text": "大野雄大だいぶ仕上がってるな、いい経験になりそうやね谷端とか",
+    "userName": "J_BEAS99",
+    "tweetUrl": "https://twitter.com/J_BEAS99/status/2025074013253632150",
+    "createdAt": "February 21, 2026 at 02:04PM"
+  },
+  {
+    "text": "東海テレビの実況、阪神の選手の名前間違えすぎやろ。\n谷端を高寺言ったり、ディベイ二ーをラグズデール言ったり。\n雑だなーって思ってしまう。",
+    "userName": "hidetheones",
+    "tweetUrl": "https://twitter.com/hidetheones/status/2025075138262434278",
+    "createdAt": "February 21, 2026 at 02:08PM"
+  },
+  {
+    "text": "1番谷端\n２番高寺\n３番ディベイニー\n５番濱田\nキャッチャー伏見、レフト中川\n\nなに、この「ワンプレートに好きなモノ全部詰め込みました」みたいな夢のオーダーは。\nお子様ランチかな？（＾ν＾）",
+    "userName": "Grenier_tora",
+    "tweetUrl": "https://twitter.com/Grenier_tora/status/2025075275588100165",
+    "createdAt": "February 21, 2026 at 02:09PM"
+  },
+  {
+    "text": "谷端ここから出番増えてくの楽しみ",
+    "userName": "giants64385",
+    "tweetUrl": "https://twitter.com/giants64385/status/2025076462731362401",
+    "createdAt": "February 21, 2026 at 02:13PM"
+  },
+  {
+    "text": "谷端のセカンド守備ってどんな感じなん",
+    "userName": "soraAREyo_2023",
+    "tweetUrl": "https://twitter.com/soraAREyo_2023/status/2025076587868381573",
+    "createdAt": "February 21, 2026 at 02:14PM"
+  },
+  {
+    "text": "@hanshintigersjp スタメン楽しみです！谷端選手と高寺選手の1、2番コンビが活躍しますように！がんばれタイガース！🐯 #hanshin #tigers",
+    "userName": "pratamartx",
+    "tweetUrl": "https://twitter.com/pratamartx/status/2025076697444614452",
+    "createdAt": "February 21, 2026 at 02:14PM"
+  },
+  {
+    "text": "始まったなぁ\n谷端同い年なん信じられへん https://t.co/Y6nw7LImNt",
+    "userName": "komeisyokatsuAK",
+    "tweetUrl": "https://twitter.com/komeisyokatsuAK/status/2025076776310112321",
+    "createdAt": "February 21, 2026 at 02:15PM"
+  },
+  {
+    "text": "遥人すばらし！\n\nキャムと谷端くんの牽制も確認しながら、内容ある1ウラ",
+    "userName": "aji_kana",
+    "tweetUrl": "https://twitter.com/aji_kana/status/2025077034779848981",
+    "createdAt": "February 21, 2026 at 02:16PM"
+  },
+  {
+    "text": "谷端中野の二遊間もあるのか\nなんかそっちの方がいい気がしてきたな",
+    "userName": "keita_sanos",
+    "tweetUrl": "https://twitter.com/keita_sanos/status/2025077096113135810",
+    "createdAt": "February 21, 2026 at 02:16PM"
+  },
+  {
+    "text": "谷端はセカンドなんか🤔開幕したら中野やろうから使いたいけど使えないやん😑",
+    "userName": "yamasho2514",
+    "tweetUrl": "https://twitter.com/yamasho2514/status/2025077119152529538",
+    "createdAt": "February 21, 2026 at 02:16PM"
+  },
+  {
+    "text": "木浪ってやっぱ期待されてるんやな\n今日なんか大野で左やのにももとか使えるし\nサードに谷端してセカンド元山とかもできるのに\nサード木浪にするのは全然干されてない",
+    "userName": "tsball9",
+    "tweetUrl": "https://twitter.com/tsball9/status/2025077235246612640",
+    "createdAt": "February 21, 2026 at 02:16PM"
+  },
+  {
+    "text": "谷端にショートやらせろ！！\nディベイニーは大物で鍛えて\n鍛えまくっても守備ポロなら\n代打、\nもう木浪いらん!!島田もいらん\nスタメンサード木浪とか\n馬鹿げた無駄遣いすんなや！！\n未来ある若手使えや！！\n#阪神タイガース",
+    "userName": "o5qvi4fwzY60314",
+    "tweetUrl": "https://twitter.com/o5qvi4fwzY60314/status/2025077812718444761",
+    "createdAt": "February 21, 2026 at 02:19PM"
+  },
+  {
+    "text": "谷端をセカンドで起用してるのええな https://t.co/YO0pyV0LZK",
+    "userName": "6xafc",
+    "tweetUrl": "https://twitter.com/6xafc/status/2025077827671060871",
+    "createdAt": "February 21, 2026 at 02:19PM"
+  },
+  {
+    "text": "木浪は迫力ないな\n谷端の方が雰囲気あるやん",
+    "userName": "worirun",
+    "tweetUrl": "https://twitter.com/worirun/status/2025079026638094644",
+    "createdAt": "February 21, 2026 at 02:23PM"
+  },
+  {
+    "text": "濱田オープン戦でどれだけ良い成績上げても生え抜き優先で立石、前川、谷端が開幕使えそうなら代打起用になるやろな！#阪神タイガース",
+    "userName": "yuki_taiger",
+    "tweetUrl": "https://twitter.com/yuki_taiger/status/2025079115318243381",
+    "createdAt": "February 21, 2026 at 02:24PM"
+  },
+  {
+    "text": "中川の捕手はともかく髙寺の内野が完全に見限られてそうなのさすがにしんどい\nセカンド髙寺サード谷端の何がいかんのですか！",
+    "userName": "nakina_ya",
+    "tweetUrl": "https://twitter.com/nakina_ya/status/2025079338409005344",
+    "createdAt": "February 21, 2026 at 02:25PM"
+  },
+  {
+    "text": "中　近本　岡城　高寺\n二　中野　山田　百崎\n右　小野寺　\n三　立石　固定\n左　谷端　固定\n一　大山　中川　前川\n遊　デバニー　小幡　熊谷\n指　濱田　豊田\n捕　伏見　榮枝　町田\n投　村上\n\nこれで回して欲しい　立石と谷端は守備位置変えて固定して我慢強く使って欲しい",
+    "userName": "gaddem5525",
+    "tweetUrl": "https://twitter.com/gaddem5525/status/2025079856468525272",
+    "createdAt": "February 21, 2026 at 02:27PM"
+  },
+  {
+    "text": "ディベイニーと伏見と熊谷は応援歌出来るだろうな\n立石も多分来るけど谷端濱田は微妙かな\nまぁ、この球団の場合本当に応援歌が出来る\"だけ\"なんすけど…",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2025080097758478661",
+    "createdAt": "February 21, 2026 at 02:28PM"
+  },
+  {
+    "text": "立石ディベ谷端髙寺がいてサードで出場する機会が微塵も無さそうな選手がこの時期に6番サードって普通に有り得んでしょ",
+    "userName": "uraraurara_612",
+    "tweetUrl": "https://twitter.com/uraraurara_612/status/2025080129681326113",
+    "createdAt": "February 21, 2026 at 02:28PM"
+  },
+  {
+    "text": "アカン、大野エエわ。\n来週、侍ジャパンと練習試合するから今年は早く仕上げて来たっちゅうとるな。\nちょっと今の時期のこのスタメンの阪神では難しいわ。\n谷端、ディベイニー、濵田、木浪、伏見とか並んどる打線では点が取られへんわ。",
+    "userName": "akidongbeihu",
+    "tweetUrl": "https://twitter.com/akidongbeihu/status/2025080207133253738",
+    "createdAt": "February 21, 2026 at 02:28PM"
+  },
+  {
+    "text": "谷端アッッッッツ https://t.co/Ani6v458O9",
+    "userName": "oniisan_toraho",
+    "tweetUrl": "https://twitter.com/oniisan_toraho/status/2025080738291613770",
+    "createdAt": "February 21, 2026 at 02:30PM"
+  },
+  {
+    "text": "佐藤のおらん間は谷端をサードで見たかったわ、悪手すぎる",
+    "userName": "taiga_ti",
+    "tweetUrl": "https://twitter.com/taiga_ti/status/2025080853865566321",
+    "createdAt": "February 21, 2026 at 02:31PM"
+  },
+  {
+    "text": "立石谷端髙寺その他大勢いるらしいけど本当にレフト起用するんすか中川？それ本当に意味ある？",
+    "userName": "uraraurara_612",
+    "tweetUrl": "https://twitter.com/uraraurara_612/status/2025081963816841615",
+    "createdAt": "February 21, 2026 at 02:35PM"
+  },
+  {
+    "text": "今日は、オープン戦開幕。\n谷端楽しみ😊\n高橋もいいね👍",
+    "userName": "irute97668373",
+    "tweetUrl": "https://twitter.com/irute97668373/status/2025082871606903232",
+    "createdAt": "February 21, 2026 at 02:39PM"
+  },
+  {
+    "text": "谷端悪くないよな、ルーキーとは思えん柔らかさある",
+    "userName": "tigrs5019",
+    "tweetUrl": "https://twitter.com/tigrs5019/status/2025084160151617539",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端くん、良い当たり！\n打点ついてほしかったなぁ",
+    "userName": "mikiya_enatech",
+    "tweetUrl": "https://twitter.com/mikiya_enatech/status/2025084211414085954",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端は結構時間かかるタイプだと思います\n変化球の対応がね",
+    "userName": "dx62877",
+    "tweetUrl": "https://twitter.com/dx62877/status/2025084224827723937",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端アウトやったけど良さそうやな\n代打なら余り散らかしてるから1年目はそこ目指して欲しい",
+    "userName": "ITsyatiku22",
+    "tweetUrl": "https://twitter.com/ITsyatiku22/status/2025084227642077246",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端はストレートに対してはハードヒット出来ているが変化球に対してはどうか",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2025084264832991420",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端くんアウトになったけど、アウトコースへの対応も素晴らしいです！\n対応力が高い！！\n #阪神タイガース",
+    "userName": "DQTORA",
+    "tweetUrl": "https://twitter.com/DQTORA/status/2025084289872974270",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端いいね",
+    "userName": "karuma_BBL",
+    "tweetUrl": "https://twitter.com/karuma_BBL/status/2025084293677212024",
+    "createdAt": "February 21, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端、右方向に意識があるのは良い\nただ今は最低限外野フライを打たないといけないシーン\nプロ野球は１点取れば大成功\nアマチュアとは１点の重さが桁違いなのだよ\n1点の重みをもっと勉強するんだぞ",
+    "userName": "ayrtonmoa",
+    "tweetUrl": "https://twitter.com/ayrtonmoa/status/2025084348635250917",
+    "createdAt": "February 21, 2026 at 02:45PM"
+  },
+  {
+    "text": "寧ろこっちが恩恵受けてる側だからさ言いたくないけどさ\nオープン戦から誤審多くない？\nサノーのやつもストライクだし\n谷端のあれもセーフでしょ\n\nというよりも今年も阪神は強いんだろうなって痛感させられるわ",
+    "userName": "dai_dra7",
+    "tweetUrl": "https://twitter.com/dai_dra7/status/2025084387302494633",
+    "createdAt": "February 21, 2026 at 02:45PM"
+  },
+  {
+    "text": "谷端やっぱストレートの反応は良さそう、後は変化球に対応出来ればかな",
+    "userName": "l9DiLoM6nP37996",
+    "tweetUrl": "https://twitter.com/l9DiLoM6nP37996/status/2025084407401631837",
+    "createdAt": "February 21, 2026 at 02:45PM"
+  },
+  {
+    "text": "たった今…着弾🐯📺️📣\n\n中川ｸﾝ⭐️\n\nいきなりのツーベース👏☺✨️\n\nえっ⁉️\n\n谷端ｸﾝの今の…セーフでしょ😮‍💨\n#あー高寺ｸﾝ💔 #無得点💨 https://t.co/GoptEU9XO3",
+    "userName": "lenlen1187",
+    "tweetUrl": "https://twitter.com/lenlen1187/status/2025084733580058803",
+    "createdAt": "February 21, 2026 at 02:46PM"
+  },
+  {
+    "text": "谷端、せっかくの一軍キャンプで結果欲しいところなのにずっとハードラックで可哀想だな\nでも首脳陣は内容見てくれてるから安心してな",
+    "userName": "lsdw_w",
+    "tweetUrl": "https://twitter.com/lsdw_w/status/2025084784389816337",
+    "createdAt": "February 21, 2026 at 02:46PM"
+  },
+  {
+    "text": "谷端ずっと悪くない\n立石がおらん間は、3Bで起用し続けてみて欲しい\n思ってたより内野残れそうな動きもしてるし",
+    "userName": "kkandTigers",
+    "tweetUrl": "https://twitter.com/kkandTigers/status/2025084951931302069",
+    "createdAt": "February 21, 2026 at 02:47PM"
+  },
+  {
+    "text": "谷端代打ならすでに去年のメンツをこえてる感じがあるのでいいね",
+    "userName": "nwtr_bcd",
+    "tweetUrl": "https://twitter.com/nwtr_bcd/status/2025085068562387166",
+    "createdAt": "February 21, 2026 at 02:47PM"
+  },
+  {
+    "text": "#阪神タイガース\n権丈塁審！谷端セーフや！",
+    "userName": "j9F2gwUxwRZLLYx",
+    "tweetUrl": "https://twitter.com/j9F2gwUxwRZLLYx/status/2025085234820382942",
+    "createdAt": "February 21, 2026 at 02:48PM"
+  },
+  {
+    "text": "谷端打席内容の濃さに対して運はない気がする\n直球の対応力は申し分ないけど中々結果に結びつかんな",
+    "userName": "romanho08",
+    "tweetUrl": "https://twitter.com/romanho08/status/2025085323798323236",
+    "createdAt": "February 21, 2026 at 02:49PM"
+  },
+  {
+    "text": "@satsuki_toraco 髙橋遥人くんの先発だね！オープン戦の開幕投手って最高じゃないですか！1番の谷端くんも楽しみすぎる〜！4番の大山選手、やっぱり神です！大勝利間違いなし！！",
+    "userName": "Doraji09785145",
+    "tweetUrl": "https://twitter.com/Doraji09785145/status/2025085483018322351",
+    "createdAt": "February 21, 2026 at 02:49PM"
+  },
+  {
+    "text": "髙橋遥人 高橋遥人くんの先発だね！オープン戦から始まるって最高だよ！1番の谷端くんも大活躍しそうだな〜4番の大山選手はやっぱり神じゃないっすか！楽しみすぎる〜！！ https://t.co/VS7aaLaUSc",
+    "userName": "Doraji09785145",
+    "tweetUrl": "https://twitter.com/Doraji09785145/status/2025085554808029425",
+    "createdAt": "February 21, 2026 at 02:49PM"
+  },
+  {
+    "text": "谷端のスイング撮りてえな…",
+    "userName": "pentaxJTC",
+    "tweetUrl": "https://twitter.com/pentaxJTC/status/2025086591098601519",
+    "createdAt": "February 21, 2026 at 02:54PM"
+  },
+  {
+    "text": "谷端くん確かにいい。キャンプから攻守見てて、十分レギュラー枠に割り込んでいける力はあると思う。思うけど、\n\nまもなく立石くん上がって来るよ。\n\n実戦的にまだ未見やけど、あのスイング・打球音でただもんではないのがわかる。サトテルん時みたいにね。\nこの二人の競争も楽しみ。\n#阪神タイガース",
+    "userName": "Kso3ckXpss9zBrF",
+    "tweetUrl": "https://twitter.com/Kso3ckXpss9zBrF/status/2025086832548216966",
+    "createdAt": "February 21, 2026 at 02:54PM"
+  },
+  {
+    "text": "なんかもう平然と谷端がセカンド守ってるけど、そんなに守備良かったのか？",
+    "userName": "Njof159",
+    "tweetUrl": "https://twitter.com/Njof159/status/2025087407046230215",
+    "createdAt": "February 21, 2026 at 02:57PM"
+  },
+  {
+    "text": "@kkkkkkk99chika 谷端大チャンスですよ。",
+    "userName": "a4wd",
+    "tweetUrl": "https://twitter.com/a4wd/status/2025087435861086367",
+    "createdAt": "February 21, 2026 at 02:57PM"
+  },
+  {
+    "text": "谷端将伍のサイン色紙背番号25だって～！羨ましすぎるんだけど誰か譲ってくれない？😭💦\n\n谷端将伍 サイン入り色紙 背番号25\nhttps://t.co/2bOvQXK6rC",
+    "userName": "vrcEventFan123",
+    "tweetUrl": "https://twitter.com/vrcEventFan123/status/2025088085134885180",
+    "createdAt": "February 21, 2026 at 02:59PM"
+  },
+  {
+    "text": "@kkkkkkk99chika セカンド谷端、ショート中野でも良いと思いますね。",
+    "userName": "a4wd",
+    "tweetUrl": "https://twitter.com/a4wd/status/2025088604062761460",
+    "createdAt": "February 21, 2026 at 03:02PM"
+  },
+  {
+    "text": "わがはいの予言通り、阪神の谷端がこんなサイン出回るとはにゃ…下僕が手に入れたのか羨ましいにゃ\n\n谷端将伍 阪神タイガース 直筆サイン  ドラフト 2位 立石正広 野球 日本大学\nhttps://t.co/2WfLOs74UR",
+    "userName": "yogenyan222",
+    "tweetUrl": "https://twitter.com/yogenyan222/status/2025090228428370097",
+    "createdAt": "February 21, 2026 at 03:08PM"
+  },
+  {
+    "text": "谷端に対しての3球目めちゃくちゃよかった\nコース完璧やったしこっからもストレートで空振り取れるなら相当デカい",
+    "userName": "NoZuMiKKu",
+    "tweetUrl": "https://twitter.com/NoZuMiKKu/status/2025092554748993944",
+    "createdAt": "February 21, 2026 at 03:17PM"
+  },
+  {
+    "text": "谷端は全部振っててえらい",
+    "userName": "y_tsuda",
+    "tweetUrl": "https://twitter.com/y_tsuda/status/2025092585208119506",
+    "createdAt": "February 21, 2026 at 03:17PM"
+  },
+  {
+    "text": "谷端くん今日はここまでいいとこなし",
+    "userName": "tr3_win5",
+    "tweetUrl": "https://twitter.com/tr3_win5/status/2025092588924223668",
+    "createdAt": "February 21, 2026 at 03:17PM"
+  },
+  {
+    "text": "根尾が投げ方が以前の野手投げからプロのピッチャーらしくなってきた。\n谷端が高めのストレートにつられてたので、かなり球威やキレがあるんだろう。\nこれは今年はやるかも。\n#中日\n#阪神",
+    "userName": "Tw9QiTlaHo3602I",
+    "tweetUrl": "https://twitter.com/Tw9QiTlaHo3602I/status/2025092777307242550",
+    "createdAt": "February 21, 2026 at 03:18PM"
+  },
+  {
+    "text": "谷端はヒット1本出たら打ち出しそうやけどな",
+    "userName": "x_vni",
+    "tweetUrl": "https://twitter.com/x_vni/status/2025092781681914133",
+    "createdAt": "February 21, 2026 at 03:18PM"
+  },
+  {
+    "text": "谷端何でもかんでも振りすぎ",
+    "userName": "kkkenjiiiiii",
+    "tweetUrl": "https://twitter.com/kkkenjiiiiii/status/2025092783644836165",
+    "createdAt": "February 21, 2026 at 03:18PM"
+  },
+  {
+    "text": "谷端やっぱ早かったけどな実際",
+    "userName": "f7AjkBTl3W79869",
+    "tweetUrl": "https://twitter.com/f7AjkBTl3W79869/status/2025092837474533446",
+    "createdAt": "February 21, 2026 at 03:18PM"
+  },
+  {
+    "text": "#阪神 #阪神タイガース #hanshin\n \nインサイドがまったく当たらんからな。つかうだけ無駄>谷端",
+    "userName": "HAB32HAB32",
+    "tweetUrl": "https://twitter.com/HAB32HAB32/status/2025092920945291583",
+    "createdAt": "February 21, 2026 at 03:19PM"
+  },
+  {
+    "text": "【「谷端、お前が希望だ」虎党が待ちわびた“本物のフルスイング”がついに解禁】\n\nついにこの日が来た。\n鳴尾浜で磨き上げたそのスイングが、一軍の舞台で解き放たれる。\n谷端将伍の「気合」は、僕たちの「期待」そのものだ。\nプロ初の実戦、その一振りに夢を託して。\n\n詳細はこちら👇 https://t.co/wjocKsCAKL",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2025093125979463693",
+    "createdAt": "February 21, 2026 at 03:20PM"
+  },
+  {
+    "text": "谷端守備ええな",
+    "userName": "JUNKIEX2525",
+    "tweetUrl": "https://twitter.com/JUNKIEX2525/status/2025093971429720432",
+    "createdAt": "February 21, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端ほんまに思ったより守れるな",
+    "userName": "nishinomiya_tgs",
+    "tweetUrl": "https://twitter.com/nishinomiya_tgs/status/2025093982125228430",
+    "createdAt": "February 21, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端普通に悪くない",
+    "userName": "tc2qLlzBbY88328",
+    "tweetUrl": "https://twitter.com/tc2qLlzBbY88328/status/2025094021052596363",
+    "createdAt": "February 21, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端のセカンド、思ったより守れるのおもろい",
+    "userName": "HayaToraMarines",
+    "tweetUrl": "https://twitter.com/HayaToraMarines/status/2025094076757147963",
+    "createdAt": "February 21, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端、普通にセカンドでもやれそう？",
+    "userName": "ta23_La_Joya",
+    "tweetUrl": "https://twitter.com/ta23_La_Joya/status/2025094083803578500",
+    "createdAt": "February 21, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端髙寺中川を使いまくってベテランの負担減らすシーズンにしたいわね",
+    "userName": "inosuke551138",
+    "tweetUrl": "https://twitter.com/inosuke551138/status/2025094200900116793",
+    "createdAt": "February 21, 2026 at 03:24PM"
+  },
+  {
+    "text": "つーか谷端セカンドやれるんやな",
+    "userName": "_Head_Coach",
+    "tweetUrl": "https://twitter.com/_Head_Coach/status/2025094253790261750",
+    "createdAt": "February 21, 2026 at 03:24PM"
+  },
+  {
+    "text": "谷端、大学→新人合同自主トレの→の期間にずっと守備練習してたんかってぐらい良くなってね？\n大学時代の守備結構やばかったで",
+    "userName": "Manchestigers",
+    "tweetUrl": "https://twitter.com/Manchestigers/status/2025094442710184288",
+    "createdAt": "February 21, 2026 at 03:25PM"
+  },
+  {
+    "text": "谷端守備も普通にいいやん",
+    "userName": "aqours14123",
+    "tweetUrl": "https://twitter.com/aqours14123/status/2025094462763102669",
+    "createdAt": "February 21, 2026 at 03:25PM"
+  },
+  {
+    "text": "谷端くんは大分時間かかりそうな気配がする、全く対応できてないけど大丈夫かこれ",
+    "userName": "basbollmoyashi1",
+    "tweetUrl": "https://twitter.com/basbollmoyashi1/status/2025094567469674897",
+    "createdAt": "February 21, 2026 at 03:25PM"
+  },
+  {
+    "text": "小野寺とか木浪とか、チャンスもらってるのに空気の時点で終わってるよな。谷端とかとは立場が違いすぎる。",
+    "userName": "zxEy1mwRx4zjQ32",
+    "tweetUrl": "https://twitter.com/zxEy1mwRx4zjQ32/status/2025094707777532296",
+    "createdAt": "February 21, 2026 at 03:26PM"
+  },
+  {
+    "text": "谷端のセカンドは怪しいって聞くけど、今のところはどうなんだろ",
+    "userName": "F7Nrm",
+    "tweetUrl": "https://twitter.com/F7Nrm/status/2025094738874171430",
+    "createdAt": "February 21, 2026 at 03:26PM"
+  },
+  {
+    "text": "谷端は阪神じゃ居ないタイプの顔立ちやね",
+    "userName": "shadow17v",
+    "tweetUrl": "https://twitter.com/shadow17v/status/2025095092378501152",
+    "createdAt": "February 21, 2026 at 03:27PM"
+  },
+  {
+    "text": "谷端セカンドできるならショート解決できるんよ\n中野ショートにしたらいいだけだから",
+    "userName": "3inNagi",
+    "tweetUrl": "https://twitter.com/3inNagi/status/2025095816327897531",
+    "createdAt": "February 21, 2026 at 03:30PM"
+  },
+  {
+    "text": "結構いいバッティングやったのに可哀想\nさっきの谷端といい運がない",
+    "userName": "OKD00383734",
+    "tweetUrl": "https://twitter.com/OKD00383734/status/2025096576486826259",
+    "createdAt": "February 21, 2026 at 03:33PM"
+  },
+  {
+    "text": "谷端の直筆色紙ゲットした人羨ましすぎる…あーあ、私も直接サインもらいたかったな😔\n\n谷端将伍 阪神タイガース 直筆サイン  ドラフト 2位 立石正広 野球 日本大学\nhttps://t.co/MoNQyqnjaL",
+    "userName": "musouthinker93",
+    "tweetUrl": "https://twitter.com/musouthinker93/status/2025096836411703539",
+    "createdAt": "February 21, 2026 at 03:34PM"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍がオープン戦サード争い！一緒にタイガースを応援しよう https://t.co/G4XiI5wNcs",
+    "userName": "NWAntenna_III",
+    "tweetUrl": "https://twitter.com/NWAntenna_III/status/2025097005769580635",
+    "createdAt": "February 21, 2026 at 03:35PM"
+  },
+  {
+    "text": "🐯 谷端くん\n\n伊藤家の５男坊に入籍💍",
+    "userName": "Z8imzfxwDU25531",
+    "tweetUrl": "https://twitter.com/Z8imzfxwDU25531/status/2025097248326271344",
+    "createdAt": "February 21, 2026 at 03:36PM"
+  },
+  {
+    "text": "@crunchy9941 谷端、セカンド無理や",
+    "userName": "t9100776274035",
+    "tweetUrl": "https://twitter.com/t9100776274035/status/2025097377737306559",
+    "createdAt": "February 21, 2026 at 03:36PM"
+  },
+  {
+    "text": "今日の内容だけなら\n1 近本\n2 中野\n3大山\n4佐藤\n5森下\n6立石or谷端or中川or高寺\n7ディベイニー\n8坂本\nでいいんじゃない？\n #hanshin",
+    "userName": "pSbD31pgzyA96Mi",
+    "tweetUrl": "https://twitter.com/pSbD31pgzyA96Mi/status/2025097557253521844",
+    "createdAt": "February 21, 2026 at 03:37PM"
+  },
+  {
+    "text": "谷端セカンド想定素晴らしい",
+    "userName": "Ski_no_stock",
+    "tweetUrl": "https://twitter.com/Ski_no_stock/status/2025098089649070331",
+    "createdAt": "February 21, 2026 at 03:39PM"
+  },
+  {
+    "text": "【中日】大野雄大が２回１安打無失点と順調な仕上がり「次回は侍ジャパンとの試合になると思う」\nhttps://t.co/DHTW4YruIr\n\n　中日の大野雄大投手（37）が21日、オープン戦の阪神戦（北谷）に先発。2回を投げて1安打無失点とほぼ完璧な投球を披露した。\n\n　大野は初回、谷端を投ゴロ、高寺を左飛、... https://t.co/bZAUP9Nc5Y",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2025098487332044852",
+    "createdAt": "February 21, 2026 at 03:41PM"
+  },
+  {
+    "text": "谷端バッティング全くやん",
+    "userName": "BofHideo305",
+    "tweetUrl": "https://twitter.com/BofHideo305/status/2025098493468312030",
+    "createdAt": "February 21, 2026 at 03:41PM"
+  },
+  {
+    "text": "出掛けてたから15時くらいから見始めたけど、濱田くんも良い感じだ！\n谷端くんはちょっときついかもしれん\n経験かな",
+    "userName": "sykazsst",
+    "tweetUrl": "https://twitter.com/sykazsst/status/2025098767859679477",
+    "createdAt": "February 21, 2026 at 03:42PM"
+  },
+  {
+    "text": "すまん百崎と谷端で二塁と三塁を構成してや",
+    "userName": "xsns123",
+    "tweetUrl": "https://twitter.com/xsns123/status/2025099176690991608",
+    "createdAt": "February 21, 2026 at 03:44PM"
+  },
+  {
+    "text": "@EITVTs3KoxLwlQ9 @hanshintigersjp ここに高寺前川もいて、立石谷端も参戦ならまさに激アツ",
+    "userName": "toratamakinkin",
+    "tweetUrl": "https://twitter.com/toratamakinkin/status/2025099200275652900",
+    "createdAt": "February 21, 2026 at 03:44PM"
+  },
+  {
+    "text": "谷端やっぱりセカンドある程度守れてるのデカイよなこれ！",
+    "userName": "beni_009",
+    "tweetUrl": "https://twitter.com/beni_009/status/2025099597480427712",
+    "createdAt": "February 21, 2026 at 03:45PM"
+  },
+  {
+    "text": "谷端くんほんまにルーキー❓阪神のユニフォームが似合いすぎている",
+    "userName": "m_tora_m_",
+    "tweetUrl": "https://twitter.com/m_tora_m_/status/2025099614144327888",
+    "createdAt": "February 21, 2026 at 03:45PM"
+  },
+  {
+    "text": "谷端の送球、パキパキで好き",
+    "userName": "Manchestigers",
+    "tweetUrl": "https://twitter.com/Manchestigers/status/2025099626748280886",
+    "createdAt": "February 21, 2026 at 03:45PM"
+  },
+  {
+    "text": "さあ6回裏もイトマサ続投だ‼️\nイトマサ2イニング目も抑えていけ‼️🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🐯\nそして谷端以外の内野の守備が変わったな https://t.co/s7qMBdvCt8",
+    "userName": "kenshirohanshin",
+    "tweetUrl": "https://twitter.com/kenshirohanshin/status/2025099659384160394",
+    "createdAt": "February 21, 2026 at 03:45PM"
+  },
+  {
+    "text": "谷端、守備は下手くそやと聞いてたけど。普通じゃない？",
+    "userName": "tommystar1116",
+    "tweetUrl": "https://twitter.com/tommystar1116/status/2025099718028906987",
+    "createdAt": "February 21, 2026 at 03:46PM"
+  },
+  {
+    "text": "谷端普通程度には守れそうやん\n守備下手くそって聞いてたけど",
+    "userName": "Tora_chika5",
+    "tweetUrl": "https://twitter.com/Tora_chika5/status/2025099930721984886",
+    "createdAt": "February 21, 2026 at 03:47PM"
+  },
+  {
+    "text": "チャンスは作ったものの、あと1本が出ずに完封負\n谷端もおらんし、今年も苦しみそうやね😣\nさらに、タイムリーエラー含めて3失策はアカンよ😔 https://t.co/TzYZstHXDz",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://twitter.com/Nichidaai/status/2025101755168796775",
+    "createdAt": "February 21, 2026 at 03:54PM"
+  },
+  {
+    "text": "@tommystar1116 谷端サード テルがライトで試してどんな感じになるか早く見たいですね",
+    "userName": "arigatakiiii",
+    "tweetUrl": "https://twitter.com/arigatakiiii/status/2025101942578708937",
+    "createdAt": "February 21, 2026 at 03:55PM"
+  },
+  {
+    "text": "谷端は4タコか\n最初はこんなもんでしょ\n立石来るまで爪痕残してや",
+    "userName": "Tigerslove1019",
+    "tweetUrl": "https://twitter.com/Tigerslove1019/status/2025103825598906564",
+    "createdAt": "February 21, 2026 at 04:02PM"
+  },
+  {
+    "text": "谷端は今は経験か、当てに行きすぎな感じはするが",
+    "userName": "DWhite06is_here",
+    "tweetUrl": "https://twitter.com/DWhite06is_here/status/2025103836374073539",
+    "createdAt": "February 21, 2026 at 04:02PM"
+  },
+  {
+    "text": "谷端くんは何も焦らんで良い",
+    "userName": "keiko_tigers",
+    "tweetUrl": "https://twitter.com/keiko_tigers/status/2025103836994736637",
+    "createdAt": "February 21, 2026 at 04:02PM"
+  },
+  {
+    "text": "今日谷端ミスショットばっかやったな。",
+    "userName": "kira_tigers",
+    "tweetUrl": "https://twitter.com/kira_tigers/status/2025103896633614626",
+    "createdAt": "February 21, 2026 at 04:02PM"
+  },
+  {
+    "text": "谷端くん、４タコやけど積極性はすごい評価されそう",
+    "userName": "Mii__Chal4621",
+    "tweetUrl": "https://twitter.com/Mii__Chal4621/status/2025103951235047882",
+    "createdAt": "February 21, 2026 at 04:03PM"
+  },
+  {
+    "text": "谷端は結果を欲しがって当てに行ってる打席が増えてきてるな",
+    "userName": "kenaka210",
+    "tweetUrl": "https://twitter.com/kenaka210/status/2025104037386092715",
+    "createdAt": "February 21, 2026 at 04:03PM"
+  },
+  {
+    "text": "誰谷端の事牧みたいになるって言ったの牧じゃなく江越みたいになるんちゃうwwww #阪神タイガース",
+    "userName": "yuki_taiger",
+    "tweetUrl": "https://twitter.com/yuki_taiger/status/2025104097683407236",
+    "createdAt": "February 21, 2026 at 04:03PM"
+  },
+  {
+    "text": "谷端くんはちょい時間かかりそうかね",
+    "userName": "sakuramasu0523",
+    "tweetUrl": "https://twitter.com/sakuramasu0523/status/2025104101097570616",
+    "createdAt": "February 21, 2026 at 04:03PM"
+  },
+  {
+    "text": "谷端は結果よりも打席内容が悪いのが気になる\nお疲れかな",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2025104161348706505",
+    "createdAt": "February 21, 2026 at 04:03PM"
+  },
+  {
+    "text": "谷端もまず今年は2軍で今日の大野以外の1軍2軍行き来するレベルの投手達を打てるようになってもらいたいね",
+    "userName": "amjpwjg",
+    "tweetUrl": "https://twitter.com/amjpwjg/status/2025104318169579659",
+    "createdAt": "February 21, 2026 at 04:04PM"
+  },
+  {
+    "text": "谷端ええやん(守備が)(思ってたんと違う)",
+    "userName": "JYFG4CnFFhC1xMh",
+    "tweetUrl": "https://twitter.com/JYFG4CnFFhC1xMh/status/2025105478737690843",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端のセカンド守備は良いよな。\nてか肩強いな。",
+    "userName": "kira_tigers",
+    "tweetUrl": "https://twitter.com/kira_tigers/status/2025105502687171067",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端セカンド良きです\nあとは打撃の適応だけ、できそうな片鱗は見せてるしがんばれがんばれ",
+    "userName": "sarasa_penguin",
+    "tweetUrl": "https://twitter.com/sarasa_penguin/status/2025105513290367135",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端の守備全然問題ないのでは",
+    "userName": "ht_ayayaya35",
+    "tweetUrl": "https://twitter.com/ht_ayayaya35/status/2025105523709018425",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端無難にセカンド守備こなしてるのええな",
+    "userName": "mitsu_820",
+    "tweetUrl": "https://twitter.com/mitsu_820/status/2025105527873954181",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端選手、バッティングはまだまだお勉強かもしれんけど、守備は安定してるな。土のグラウンド慣れてそう。",
+    "userName": "hk_tigers",
+    "tweetUrl": "https://twitter.com/hk_tigers/status/2025105531015446880",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端普通にドラフト評価の感じよりセカンド守れそうなのデカすぎる",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/2025105536971309548",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端普通に守備ええな",
+    "userName": "SUCwc",
+    "tweetUrl": "https://twitter.com/SUCwc/status/2025105548413370400",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "今年もゲッツーから始めよう\n谷端君ええでー\n陵人無失点",
+    "userName": "amakaraisan",
+    "tweetUrl": "https://twitter.com/amakaraisan/status/2025105566964879563",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端守備はいいんじゃない",
+    "userName": "koputasu120",
+    "tweetUrl": "https://twitter.com/koputasu120/status/2025105624191947089",
+    "createdAt": "February 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "谷端普通にセカンド守れてるの前評判何やったんって感じ",
+    "userName": "fK4hWpkaxB45979",
+    "tweetUrl": "https://twitter.com/fK4hWpkaxB45979/status/2025105755419148773",
+    "createdAt": "February 21, 2026 at 04:10PM"
+  },
+  {
+    "text": "谷端は想定より打てないし想定より守れてるな\nレギュラー獲れるかは知らんけど一軍ベンチには入れそうな感じ\nまあ結局は打撃次第やけど",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2025105846825578981",
+    "createdAt": "February 21, 2026 at 04:10PM"
+  },
+  {
+    "text": "@Atdpe0HgWrpSDpi 谷端はそんな感じなんや💦💦\n谷端の打席あんまり見れてないねん🥹\n\n３月入ればもっと楽しみなってくる😍😍",
+    "userName": "masashin321",
+    "tweetUrl": "https://twitter.com/masashin321/status/2025105900076453923",
+    "createdAt": "February 21, 2026 at 04:10PM"
+  },
+  {
+    "text": "そろそろ一日一善を覚えんといかんぞ谷端(･∀･)\n\n…やっぱお疲れのごつあるかねえ^^;\n \nhttps://t.co/kDlO6J3XN3",
+    "userName": "c6kett",
+    "tweetUrl": "https://twitter.com/c6kett/status/2025106148899106958",
+    "createdAt": "February 21, 2026 at 04:11PM"
+  },
+  {
+    "text": "まだそんな難しい打球が飛んでるわけではないけど、谷端の守備上達してる気がする\n\n元々瞬発力はそれなりにあったけど、あんなスムーズに毎回動けてたイメージは無かったな\n\n三塁より一塁が近いセカンドの方が打球に入りやすいタイプだったりはするのかもだけど",
+    "userName": "gudedora",
+    "tweetUrl": "https://twitter.com/gudedora/status/2025106445797400818",
+    "createdAt": "February 21, 2026 at 04:12PM"
+  },
+  {
+    "text": "谷端くん地味にスタメンからの最終居残り達成しそうやん\n新人ちゃん、ドラフト年から活躍しちゃう？",
+    "userName": "kositan_tan",
+    "tweetUrl": "https://twitter.com/kositan_tan/status/2025106813537149334",
+    "createdAt": "February 21, 2026 at 04:14PM"
+  },
+  {
+    "text": "@masashin321 谷端はそう見えた😂\nまだまだこれから☺️\n\n絶対楽しくなってくるねー😄\nいやー早く甲子園行きたい😉",
+    "userName": "Atdpe0HgWrpSDpi",
+    "tweetUrl": "https://twitter.com/Atdpe0HgWrpSDpi/status/2025107181415399907",
+    "createdAt": "February 21, 2026 at 04:15PM"
+  },
+  {
+    "text": "谷端は大学時代にショート守ってないから阪神でもサードやセカンドで練習させてるのは分かるけど、元山はショート守らせてもいいんじゃないか\n今主にセカンドとファーストやけど、シーズン入って中野と大山を下げて守備固めは無いと思う\n打撃でもアピールしてるからショートで競わせるのはありやと思う",
+    "userName": "1kawajunya",
+    "tweetUrl": "https://twitter.com/1kawajunya/status/2025108508673491181",
+    "createdAt": "February 21, 2026 at 04:21PM"
+  },
+  {
+    "text": "立石おらんし谷端はセカンドで出てるしでサードスタメンで遊んでたの許しかけてたけど普通に百﨑最初から出すべきすぎてあれ",
+    "userName": "hiyokokko_ht",
+    "tweetUrl": "https://twitter.com/hiyokokko_ht/status/2025109361035792613",
+    "createdAt": "February 21, 2026 at 04:24PM"
+  },
+  {
+    "text": "谷端セカンドの守備は問題なさそう\nまだバッティングが微妙そう",
+    "userName": "HondaMaya",
+    "tweetUrl": "https://twitter.com/HondaMaya/status/2025110139221803142",
+    "createdAt": "February 21, 2026 at 04:27PM"
+  },
+  {
+    "text": "谷端まで見たい",
+    "userName": "DWhite06is_here",
+    "tweetUrl": "https://twitter.com/DWhite06is_here/status/2025110233723592858",
+    "createdAt": "February 21, 2026 at 04:27PM"
+  },
+  {
+    "text": "谷端まで回せ右京に暖よ\n#阪神タイガース #Tigers",
+    "userName": "imspta44",
+    "tweetUrl": "https://twitter.com/imspta44/status/2025110367811289598",
+    "createdAt": "February 21, 2026 at 04:28PM"
+  },
+  {
+    "text": "やから是が非でも谷端に回せと…。\n#阪神タイガース #Tigers",
+    "userName": "imspta44",
+    "tweetUrl": "https://twitter.com/imspta44/status/2025110802471289169",
+    "createdAt": "February 21, 2026 at 04:30PM"
+  },
+  {
+    "text": "ショボい試合内容にしてはポジ要素多いかな\n投手は遥人と伊原、野手は濱田と谷端の守備\n大山はさすがに別格として",
+    "userName": "lsdw_w",
+    "tweetUrl": "https://twitter.com/lsdw_w/status/2025111594011951334",
+    "createdAt": "February 21, 2026 at 04:33PM"
+  },
+  {
+    "text": "谷端くんは経験かな\n根尾くんに取られた三振のときが気になった",
+    "userName": "sykazsst",
+    "tweetUrl": "https://twitter.com/sykazsst/status/2025111787444863070",
+    "createdAt": "February 21, 2026 at 04:34PM"
+  },
+  {
+    "text": "谷端の4-0と木浪の3-0は似てるようで全く違いますからね本当に",
+    "userName": "takudreamtaku51",
+    "tweetUrl": "https://twitter.com/takudreamtaku51/status/2025113045790556180",
+    "createdAt": "February 21, 2026 at 04:39PM"
+  },
+  {
+    "text": "谷端くんも良い経験になったよね",
+    "userName": "babyromantica",
+    "tweetUrl": "https://twitter.com/babyromantica/status/2025113151130480864",
+    "createdAt": "February 21, 2026 at 04:39PM"
+  },
+  {
+    "text": "結果は出んかったけど谷端ファーストストライク全部振ってるん評価出来るし\nディベイニーのゴロの捌きかなり上手くなってるし\n大山の仕上がりは満点やし\nピッチャー陣は将司こそ最後バタバタしたけど仕上がり順調やし\n引き分けではあったけど良いオープン戦の始まり方やな\n#阪神タイガース",
+    "userName": "kosaka_speed",
+    "tweetUrl": "https://twitter.com/kosaka_speed/status/2025113220403589535",
+    "createdAt": "February 21, 2026 at 04:39PM"
+  },
+  {
+    "text": "・髙橋、化け物\n・大山、好調\n・百崎、軽快な三塁守備\n・中川、ミスは打撃で取り返す\n・谷端、いまいち\n・ディベイニー、ショートは無理\n・木浪、さようなら\n\n実りあるオープン戦だった",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2025113372044496960",
+    "createdAt": "February 21, 2026 at 04:40PM"
+  },
+  {
+    "text": "まあ谷端が割と守備面で問題なさそうなのは大きな収穫　突然ショート守れるようになったら最高なんだけども(強欲)",
+    "userName": "zeppen_Pt",
+    "tweetUrl": "https://twitter.com/zeppen_Pt/status/2025113447248384098",
+    "createdAt": "February 21, 2026 at 04:40PM"
+  },
+  {
+    "text": "@kira_tigers 俺はずっと前から言ってる\n\n若い子らに左打者が全然いない\n岡城も百崎も山田も谷端も立石もみーーんな右",
+    "userName": "sa_saurakun",
+    "tweetUrl": "https://twitter.com/sa_saurakun/status/2025113653872328976",
+    "createdAt": "February 21, 2026 at 04:41PM"
+  },
+  {
+    "text": "谷端がセカンドを普通に守れそうなことが確認出来たのが収穫だな\n俊足強肩でスローイングに難があったので送球距離が三塁よりも短くなる二塁が合ってますわ\n後は打撃面で結果を残せたらポスト中野の最右翼となるでしょ",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2025114387804279215",
+    "createdAt": "February 21, 2026 at 04:44PM"
+  },
+  {
+    "text": "オープン戦　vs中日の感想\n投手\n・遥人はこんなもん\n・才木はこんなもん…\n・伊藤良いね\n・伊原仕上がってる、頼むぞ！！\n・湯浅頑張って\n野手\n・大山濱田中川👍️\n・谷端守備頑張ってるね\n・起用なんとかしてくれ、中川髙寺は本職で使ってくれ頼む\n試すべき人ちゃんと試してね…",
+    "userName": "uraraurara_612",
+    "tweetUrl": "https://twitter.com/uraraurara_612/status/2025114450651759010",
+    "createdAt": "February 21, 2026 at 04:44PM"
+  },
+  {
+    "text": "阪神がセカンド谷端しててビックリ",
+    "userName": "IKRJctJCXl97850",
+    "tweetUrl": "https://twitter.com/IKRJctJCXl97850/status/2025114573494428029",
+    "createdAt": "February 21, 2026 at 04:45PM"
+  },
+  {
+    "text": "今日も相変わらずだけど小幡送球が不安定だ…送球面は大山がいるから何とかなってるけど\n\n大山いる間に改善して欲しい。谷端は思ったよりセカンド守れてるけど…本来ならサードやって欲しいわけよ。でも中野の控えも兼ねてサードと両起用して欲しいわね。",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2025115358613623115",
+    "createdAt": "February 21, 2026 at 04:48PM"
+  },
+  {
+    "text": "谷端君はフル出場させましたね\n親心",
+    "userName": "amakaraisan",
+    "tweetUrl": "https://twitter.com/amakaraisan/status/2025116929212788972",
+    "createdAt": "February 21, 2026 at 04:54PM"
+  },
+  {
+    "text": "今日のオープン戦を観る感じだと相変わらずコア5以外は打撃厳しい。\n唯一ついてきてるのが中川と濱田だけ。\n谷端はルーキーだから仕方なしだが、根尾に空振り三振はBAD！",
+    "userName": "1026mgd",
+    "tweetUrl": "https://twitter.com/1026mgd/status/2025117094904561992",
+    "createdAt": "February 21, 2026 at 04:55PM"
+  },
+  {
+    "text": "#プロ野球オープン戦\n主なルーキーの成績（2/21迄）\n平川蓮 広島1 .600(5-3)1盗\n谷端将伍 阪神2 .000(4-0)\n勝田成 広島3 .750(4-3)\n西川篤夢 広島6 .000(2-0)\n花田旭 中日6 .000(2-0)\n三上愛介 中日育3 .000(2-0)\n知念大成 巨人育5 .000(2-0)\n繁永晟 楽天3 1.000(1-1)\n皆川岳飛 巨人4 .000(1-0)1盗",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2025117493673820657",
+    "createdAt": "February 21, 2026 at 04:56PM"
+  },
+  {
+    "text": "【中日】オープン戦の「開幕投手」はベテラン・大野雄大　阪神はドラフト２位・谷端将伍が先発出場　両チームスタメンを発表（スポーツ報知）\n#dragons #dragons90th #ﾊﾟｧﾝ #素晴らしい #Tigers #あかん阪神優勝してまう #Vやねん #鼓動を鳴らせ_虎道を進め https://t.co/EdztuiAlhw",
+    "userName": "yamada4649ver1",
+    "tweetUrl": "https://twitter.com/yamada4649ver1/status/2025118350121300096",
+    "createdAt": "February 21, 2026 at 05:00PM"
+  },
+  {
+    "text": "オープン戦　2026/02/21　vs中日\n\n(二) 谷端 将伍 .000 4打数0安打1三振\n(中左) 高寺 望夢 .000 3打数0安打0三振\n打左中 井坪 陽生 .000 1打数0安打0三振\n(遊) ディベイニー .000 3打数0安打0三振\n遊 小幡 竜平 .000 1打数0安打0三振\n(一) 大山 悠輔 1.000 3打数3安打0三振👑\n糸原 健斗 .000",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2025119701429616892",
+    "createdAt": "February 21, 2026 at 05:05PM"
+  },
+  {
+    "text": "@Doraji09785145 オープン戦の開幕投手、めっちゃ嬉しいです‼️\n立石くんも楽しみですが、谷端くんもかなり楽しみですね👍😃",
+    "userName": "satsuki_toraco",
+    "tweetUrl": "https://twitter.com/satsuki_toraco/status/2025120392445394953",
+    "createdAt": "February 21, 2026 at 05:08PM"
+  },
+  {
+    "text": "しっかり打席立たずに変えられてたね\nなんならそのまま守備から前川ですらよかったレベル\n\n打者もオープン戦で結果出したい小野寺と谷端やったんやから\n走るならさっさと走らないと打者にも迷惑かかってんのよ",
+    "userName": "shiro_masa_",
+    "tweetUrl": "https://twitter.com/shiro_masa_/status/2025120442844098999",
+    "createdAt": "February 21, 2026 at 05:08PM"
+  },
+  {
+    "text": "終わりすぎてる\n普通に立石谷端高寺は絶対内野で木浪はそもそもどこであっても使うべきではない https://t.co/kTEmUlC1qo",
+    "userName": "satoANCHIfack",
+    "tweetUrl": "https://twitter.com/satoANCHIfack/status/2025122602495459738",
+    "createdAt": "February 21, 2026 at 05:17PM"
+  },
+  {
+    "text": "引き分けか〜\nキャンプからオープン戦まで新戦力は現状、ハマちゃんが見せてるのが心強い🔥\n谷端がんばれ🤜",
+    "userName": "torafuntonight1",
+    "tweetUrl": "https://twitter.com/torafuntonight1/status/2025125226938597432",
+    "createdAt": "February 21, 2026 at 05:27PM"
+  },
+  {
+    "text": "谷端は結果求めて力んでるなって感じ",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2025125290301948233",
+    "createdAt": "February 21, 2026 at 05:27PM"
+  },
+  {
+    "text": "今のところ大山以外のコア抜きやから勝ち負けはどうでもいいかな\nはよ谷端とかにも1本出て欲しいな",
+    "userName": "bonjiri51",
+    "tweetUrl": "https://twitter.com/bonjiri51/status/2025125584880501070",
+    "createdAt": "February 21, 2026 at 05:28PM"
+  },
+  {
+    "text": "🐯🐯🐯🐯🐯⚾️🐯🐯🐯🐯🐾\n　　プロ野球オープン戦\n\n　　　中日1対1阪神\n　　　　　沖縄\n\n昨年現役ドラフトで阪神の\n濵田が同点タイムリーヒット！\n\n新加入ディベイニーと新人\n谷端無安打　大山貫禄の3打数\n3安打　今年やりそうな予感👍",
+    "userName": "0077mako",
+    "tweetUrl": "https://twitter.com/0077mako/status/2025125655965466792",
+    "createdAt": "February 21, 2026 at 05:29PM"
+  },
+  {
+    "text": "@rollingtaro 藤川監督も言うてた通り、みんな地に足つけてドッシリと見守りましょ！！\n\nと言うておいて谷端全然でしたね、、、",
+    "userName": "tonmytomy",
+    "tweetUrl": "https://twitter.com/tonmytomy/status/2025131963733213232",
+    "createdAt": "February 21, 2026 at 05:54PM"
+  },
+  {
+    "text": "谷端やけど、カード1周くらいは1軍でも、その後2軍で試合に出てもらうのもアリな気がしてきた。\n中野がいる限りまずセカンドでは出られんし、交流戦くらいでの合流目指してたくさん実践を積ませるのも良いと思う。",
+    "userName": "S1Hr8ZaGRK81823",
+    "tweetUrl": "https://twitter.com/S1Hr8ZaGRK81823/status/2025137199445115279",
+    "createdAt": "February 21, 2026 at 06:15PM"
+  },
+  {
+    "text": "去年でいうところの木浪や熊谷や糸原のところを、谷端や立石がやってくれたら。\n代打兼内野の2番手候補という感じで。\nタフとはいえ何があるかわからんし、スタメン組が積極的に休める形を作りたいな。",
+    "userName": "S1Hr8ZaGRK81823",
+    "tweetUrl": "https://twitter.com/S1Hr8ZaGRK81823/status/2025138654935650635",
+    "createdAt": "February 21, 2026 at 06:20PM"
+  },
+  {
+    "text": "スタメン発表　阪神D2位・谷端将伍が「1番・二塁」で先発（サンケイスポーツ） https://t.co/LnPfcWV1bf",
+    "userName": "OTA34__Miyo26_",
+    "tweetUrl": "https://twitter.com/OTA34__Miyo26_/status/2025139048952865151",
+    "createdAt": "February 21, 2026 at 06:22PM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍が「1番・二塁」で先発(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/tE6uMzhqEc",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2025146050542272610",
+    "createdAt": "February 21, 2026 at 06:50PM"
+  },
+  {
+    "text": "濱田高寺前川立石谷端いるなら絶対中川くん捕手やるべきだよな。\n勿体なすぎる",
+    "userName": "nakagawakun_68",
+    "tweetUrl": "https://twitter.com/nakagawakun_68/status/2025146844389765352",
+    "createdAt": "February 21, 2026 at 06:53PM"
+  },
+  {
+    "text": "そもそも 右は立石 谷端 ディベイニー 中川\n左には高寺 前川 小幡\nといて濱田辺りや次世代の百崎辺りも考えると\n普通に思考するなら\n木浪 糸原の序列は高くない。って結論になるかと思うんよな🤔",
+    "userName": "gb591128",
+    "tweetUrl": "https://twitter.com/gb591128/status/2025147056835494036",
+    "createdAt": "February 21, 2026 at 06:54PM"
+  },
+  {
+    "text": "普通に考えたら阪神はこうすべきだよな\n\n捕　坂本/中川/榮枝\n一　大山/谷端/前川\nニ　中野/高寺/百崎\n三　立石/高寺/ディベイニー/谷端/百崎\n遊　高寺/ディベイニー小幡/山田\n右　佐藤\n中　近本/高寺\n左　森下\n\nレフトに全員集めて何がしたいん？",
+    "userName": "satoANCHIfack",
+    "tweetUrl": "https://twitter.com/satoANCHIfack/status/2025147432368308252",
+    "createdAt": "February 21, 2026 at 06:55PM"
+  },
+  {
+    "text": "谷端は新人なので、前のめりな打席になるくらいでいいと思う立石を置いてくくらいガツガツやってけ",
+    "userName": "shino_yakyu",
+    "tweetUrl": "https://twitter.com/shino_yakyu/status/2025148995321082295",
+    "createdAt": "February 21, 2026 at 07:02PM"
+  },
+  {
+    "text": "谷端くんのインスタずっと初期アイコンやったのにいつの間に！？！？！？\nってか可愛すぎない！？！？！？！？ https://t.co/rO9poNHjrY",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2025149682574565623",
+    "createdAt": "February 21, 2026 at 07:04PM"
+  },
+  {
+    "text": "立石と谷端がいて、濱田がいるなんて、夢がありすぎる。\n\nてか、谷端めっちゃいい。",
+    "userName": "ekodrum",
+    "tweetUrl": "https://twitter.com/ekodrum/status/2025152473758138521",
+    "createdAt": "February 21, 2026 at 07:15PM"
+  },
+  {
+    "text": "中日の根尾、気合十分の投球　プロ野球オープン戦\nhttps://t.co/yu3pMGCNwr\n\n　中日の根尾が、気合十分の投球を見せた。\n\n　五回から3番手で1イニングを投げ、無安打無失点。2死後には新人の谷端から直球で空振り三振も奪った。「思い描いているボールではないものもあった。そこの精度をもっと高...",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2025153087409934679",
+    "createdAt": "February 21, 2026 at 07:18PM"
+  },
+  {
+    "text": "谷端は、個人として成功してほしい。伝わってくる。",
+    "userName": "ekodrum",
+    "tweetUrl": "https://twitter.com/ekodrum/status/2025153596107698201",
+    "createdAt": "February 21, 2026 at 07:20PM"
+  },
+  {
+    "text": "大山と濱田以外がひどすぎる\n中川と嶋村はナイスだが\n谷端はルーキーなんでしゃあない",
+    "userName": "keibakuruidon2",
+    "tweetUrl": "https://twitter.com/keibakuruidon2/status/2025156548927127592",
+    "createdAt": "February 21, 2026 at 07:32PM"
+  },
+  {
+    "text": "谷端守備うま！一瞬セカンド中野っち⁇と見間違えたくらい！立石ケガがちなら実質ドラ1谷端なんちゃうかな　期待しかない！\n#阪神タイガース",
+    "userName": "nanami7890",
+    "tweetUrl": "https://twitter.com/nanami7890/status/2025160662700404892",
+    "createdAt": "February 21, 2026 at 07:48PM"
+  },
+  {
+    "text": "谷端の課題である外スラクルクルが健在",
+    "userName": "cgh8g",
+    "tweetUrl": "https://twitter.com/cgh8g/status/2025160755470061739",
+    "createdAt": "February 21, 2026 at 07:48PM"
+  },
+  {
+    "text": "2026即戦力ルーキーカタログ　谷端将伍、田和廉ら開幕一軍候補【セ・リーグ編】 | 週刊ベースボールONLINE https://t.co/aCtUY8wi9r",
+    "userName": "nottyaaa",
+    "tweetUrl": "https://twitter.com/nottyaaa/status/2025161694184702388",
+    "createdAt": "February 21, 2026 at 07:52PM"
+  },
+  {
+    "text": "【阪神オープン戦スタメン】1(二)谷端　vs中日　2026/02/21 【オープン戦開幕戦】 \nhttps://t.co/ccpmbUq91C",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2025161742960021671",
+    "createdAt": "February 21, 2026 at 07:52PM"
+  },
+  {
+    "text": "【阪神】総勢10人以上…ドラ２谷端将伍も左翼争いに　自前グラブで外野守備スタート　本職内野 \nhttps://t.co/8ggzb8Dr1f",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2025161745627525473",
+    "createdAt": "February 21, 2026 at 07:52PM"
+  },
+  {
+    "text": "谷端将伍さん、対外試合8打数0安打 　守備は攻守連発\nhttps://t.co/LjpXmMoWWn",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2025164094396084265",
+    "createdAt": "February 21, 2026 at 08:02PM"
+  },
+  {
+    "text": "スポナビの速報を見てるだけなら、\n投手陣は順調、野手陣は大山と濱田以外は…といった感じ。\n\nXの反応を見ていると、セカンドの谷端が思ったより守れていると肯定的。\n確かにドラフトの寸評見てると守備不安と見た気がするので、良いことですね。\n\n谷端は慣れたら打撃も適応してくると思うので期待。",
+    "userName": "kanata53",
+    "tweetUrl": "https://twitter.com/kanata53/status/2025165111523246334",
+    "createdAt": "February 21, 2026 at 08:06PM"
+  },
+  {
+    "text": "「戦いの場に戻ってきた」藤川監督、OP戦初戦ドローも手応え　大山3安打＆谷端1番起用の意図とは #阪神タイガース #藤川球児 #虎将トーク #オ... https://t.co/UUrNmxNRQO @YouTubeより",
+    "userName": "nekotora_joe",
+    "tweetUrl": "https://twitter.com/nekotora_joe/status/2025165413890621703",
+    "createdAt": "February 21, 2026 at 08:07PM"
+  },
+  {
+    "text": "「戦いの場に戻ってきた」\n藤川監督、OP戦初戦を総括。\n\n大山3安打\n谷端1番起用の意図\n投手陣の現在地\n\n開幕へ向けたリアルな温度感。\n一問一答中心でまとめました。\nhttps://t.co/dQ0Nwv6vCC\n\n▼藤川監督一問一答\nhttps://t.co/d0D6tqfVvr\n\n#阪神タイガース #藤川球児 #オープン戦",
+    "userName": "nekotora_joe",
+    "tweetUrl": "https://twitter.com/nekotora_joe/status/2025166087411872163",
+    "createdAt": "February 21, 2026 at 08:09PM"
+  },
+  {
+    "text": "あと守備評価低かった谷端が、甲子園で破綻せず2B守れるようならこれもスカウトのミスになりそう",
+    "userName": "Fmiya_fumiya283",
+    "tweetUrl": "https://twitter.com/Fmiya_fumiya283/status/2025167255143940217",
+    "createdAt": "February 21, 2026 at 08:14PM"
+  },
+  {
+    "text": "うちが立石谷端取れてんのってバッッッッッッのおかげなんだな助かる https://t.co/34pnpsqxj8",
+    "userName": "shitaperohaakan",
+    "tweetUrl": "https://twitter.com/shitaperohaakan/status/2025168241732321685",
+    "createdAt": "February 21, 2026 at 08:18PM"
+  },
+  {
+    "text": "谷端ディフェンスはいいが打つ方が悪くなってるみたいね",
+    "userName": "jigokukan",
+    "tweetUrl": "https://twitter.com/jigokukan/status/2025168320165744801",
+    "createdAt": "February 21, 2026 at 08:18PM"
+  },
+  {
+    "text": "オープン戦の谷端くんどうやった？いま1番気になってる今年のドラフトで^_^\nオープン戦みたひと教えてくだせぇ",
+    "userName": "_tigers_s2",
+    "tweetUrl": "https://twitter.com/_tigers_s2/status/2025170721547468832",
+    "createdAt": "February 21, 2026 at 08:28PM"
+  },
+  {
+    "text": "@tommystar1116 普段がGG受賞者だから。\n谷端は大変よね。",
+    "userName": "algernon_1977",
+    "tweetUrl": "https://twitter.com/algernon_1977/status/2025174182448005356",
+    "createdAt": "February 21, 2026 at 08:42PM"
+  },
+  {
+    "text": "谷端守備は無難にこなしてるけど、バッティングがきついな",
+    "userName": "Tana_Mochi5",
+    "tweetUrl": "https://twitter.com/Tana_Mochi5/status/2025174484937048321",
+    "createdAt": "February 21, 2026 at 08:43PM"
+  },
+  {
+    "text": "谷端今日あかんかったけど、1本良い当たりはあった。オープン戦やし1年目やからもっと大目に見たれよ笑\nもうハズレみたいな扱いしてる奴ガイジしかおらんやろ",
+    "userName": "dtpatdw31662mm",
+    "tweetUrl": "https://twitter.com/dtpatdw31662mm/status/2025175005018153380",
+    "createdAt": "February 21, 2026 at 08:45PM"
+  },
+  {
+    "text": "谷端に関しては何も心配していません\n\nいきなりプロの球を打てるほど甘い\n世界じゃない\n\nとにかく怪我無くプロのリズムに\n慣れてくれたら充分\n\n今日もセカンド9イニング守り続けた\n\n経験を積む\n\n凡事徹底\n\n素晴らしい先輩が大山近本筆頭に居るんでね\n\n今はどっしり焦らず積み重ねる日々\n\n見守ります",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2025176027488772354",
+    "createdAt": "February 21, 2026 at 08:49PM"
+  },
+  {
+    "text": "途中寄ったガソリンスタンドでドラとのOP戦やってたちょっと見てたら谷端出て来たから注目してたけど、現状厳しいかな…",
+    "userName": "kzo_38",
+    "tweetUrl": "https://twitter.com/kzo_38/status/2025176482935669210",
+    "createdAt": "February 21, 2026 at 08:51PM"
+  },
+  {
+    "text": "@shitaperohaakan 真面目に珍のドラフトをオリがやるべきだったよな\n立石谷端なんて調べれば調べるほどドンピシャやろに",
+    "userName": "LoveIshii9",
+    "tweetUrl": "https://twitter.com/LoveIshii9/status/2025179371804524953",
+    "createdAt": "February 21, 2026 at 09:02PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」\nhttps://t.co/zWysruLwId\n\n◆練習試合　中日１―１阪神（２１日・北谷）\n\n　阪神・谷端将伍内野手が「１番・二塁」で先発した。１打席目はプロ１６... https://t.co/xou9PSP4bH",
+    "userName": "Dorapeinet",
+    "tweetUrl": "https://twitter.com/Dorapeinet/status/2025179965516603766",
+    "createdAt": "February 21, 2026 at 09:05PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」（スポーツ報知） https://t.co/m9HW9OVomn",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2025180232853106776",
+    "createdAt": "February 21, 2026 at 09:06PM"
+  },
+  {
+    "text": "ルーキーエディション！\nラスト5箱目！\nシークレット　石垣選手\n銀箔サイン　篠原選手、谷端選手\nホロ箔サイン　森選手\n\nやっとオリックスの選手引けました！ https://t.co/DIfnfI7peW",
+    "userName": "subaru_2934",
+    "tweetUrl": "https://twitter.com/subaru_2934/status/2025180296287752291",
+    "createdAt": "February 21, 2026 at 09:06PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」 - スポーツ報知 https://t.co/QLHT2nAI0x",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2025180372854886908",
+    "createdAt": "February 21, 2026 at 09:06PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」\nhttps://t.co/MZoHsKI5X3",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2025181380754186453",
+    "createdAt": "February 21, 2026 at 09:10PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」\n記事はこちら▼\nhttps://t.co/1AeUJuI1f6",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2025181523914223727",
+    "createdAt": "February 21, 2026 at 09:11PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」\n#阪神タイガース #tigers #ベースボールポスト\n記事はこちら▼\nhttps://t.co/LCtHNxBRvg",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2025181567350358359",
+    "createdAt": "February 21, 2026 at 09:11PM"
+  },
+  {
+    "text": "タイガース１番には、ルーキー谷端選手打たされましたねσ(^◇^;)",
+    "userName": "toratorayade",
+    "tweetUrl": "https://twitter.com/toratorayade/status/2025182536138416542",
+    "createdAt": "February 21, 2026 at 09:15PM"
+  },
+  {
+    "text": "谷端将伍の写真見たけどコーチ陣に居そうな貫禄がある",
+    "userName": "kkopllm",
+    "tweetUrl": "https://twitter.com/kkopllm/status/2025185691039363183",
+    "createdAt": "February 21, 2026 at 09:27PM"
+  },
+  {
+    "text": "立石の影に隠れているが谷端と岡城も私はやってくれると思うよ。#阪神タイガース",
+    "userName": "hyogo_5koku",
+    "tweetUrl": "https://twitter.com/hyogo_5koku/status/2025187606234103863",
+    "createdAt": "February 21, 2026 at 09:35PM"
+  },
+  {
+    "text": "谷端はまだまだ厳しいな",
+    "userName": "CCB1063337",
+    "tweetUrl": "https://twitter.com/CCB1063337/status/2025189493461159997",
+    "createdAt": "February 21, 2026 at 09:42PM"
+  },
+  {
+    "text": "谷端、結局本当に二塁もやるのかな\n正直普通に三塁か外野でいいとは思うが\nまぁ中日福永みたいになれば嬉しいねって感じすか",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2025190680038178882",
+    "createdAt": "February 21, 2026 at 09:47PM"
+  },
+  {
+    "text": "続く谷端選手は、どう攻めますかね\nσ(^◇^;)",
+    "userName": "toratorayade",
+    "tweetUrl": "https://twitter.com/toratorayade/status/2025191537320362219",
+    "createdAt": "February 21, 2026 at 09:51PM"
+  },
+  {
+    "text": "@LovewithTakagi 濱田期待☺️　谷端☹️",
+    "userName": "takorice_mosu",
+    "tweetUrl": "https://twitter.com/takorice_mosu/status/2025193064655192254",
+    "createdAt": "February 21, 2026 at 09:57PM"
+  },
+  {
+    "text": "谷端くんはすごいぞ、8打席で判断は早すぎる。 https://t.co/M4xYaSAdwT",
+    "userName": "17_yg_starbucks",
+    "tweetUrl": "https://twitter.com/17_yg_starbucks/status/2025193250680918523",
+    "createdAt": "February 21, 2026 at 09:57PM"
+  },
+  {
+    "text": "C中川/嶋村\n1B前川\n2B谷端\n3B立石/百崎\nSS山田/髙寺\nOF岡城\nOF福島\nOF井坪\n\nまじで去年立石/谷端/岡城の3枚拾ってなかったら未来終わってたよな。まだ全然厳しいけどギリ耐えてるか...？どうか...？っていう水準にはなった。",
+    "userName": "22_speed_",
+    "tweetUrl": "https://twitter.com/22_speed_/status/2025193682597806134",
+    "createdAt": "February 21, 2026 at 09:59PM"
+  },
+  {
+    "text": "ルーキーエディション3箱買いました。\n狙い、当たりは\n\n/10藤原聡大(シークレット版)\n/100平川蓮\n/100谷端将伍\n\n勝ちました💪",
+    "userName": "vVQu6xGmup57804",
+    "tweetUrl": "https://twitter.com/vVQu6xGmup57804/status/2025194008633553190",
+    "createdAt": "February 21, 2026 at 10:00PM"
+  },
+  {
+    "text": "谷端くん渋イケメンよな\n#谷端将伍 https://t.co/98smuDxB3H",
+    "userName": "saisai111245",
+    "tweetUrl": "https://twitter.com/saisai111245/status/2025196063058264314",
+    "createdAt": "February 21, 2026 at 10:09PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」（スポーツ報知） - Yahoo!ニュース\n\n最初から簡単に打てる訳ないんやし一歩一歩着実にやね。\n守備もガンガン鍛えてほしいな。 https://t.co/RSD50tJtVN",
+    "userName": "yakinikuyasanda",
+    "tweetUrl": "https://twitter.com/yakinikuyasanda/status/2025196401609900324",
+    "createdAt": "February 21, 2026 at 10:10PM"
+  },
+  {
+    "text": "1番起用の阪神D2位・谷端はフル出場で無安打「結果を求めてやっていたので悔しい気持ちが一番」https://t.co/jVamoyijR2 \n\n#hanshin #阪神タイガース",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2025196876707070349",
+    "createdAt": "February 21, 2026 at 10:12PM"
+  },
+  {
+    "text": "谷端くんはオープン戦の間にどれだけ適応できるかなあ　楽しみ",
+    "userName": "fruitparad",
+    "tweetUrl": "https://twitter.com/fruitparad/status/2025199464085160040",
+    "createdAt": "February 21, 2026 at 10:22PM"
+  },
+  {
+    "text": "谷端、普通にタイミングの問題かも。\n守備はいいし、タイミングさえ完璧にこなせばガチで化ける。楽しみです。",
+    "userName": "Bullfrog__BW",
+    "tweetUrl": "https://twitter.com/Bullfrog__BW/status/2025199750077939809",
+    "createdAt": "February 21, 2026 at 10:23PM"
+  },
+  {
+    "text": "いま録画で昼のオープン戦観ているが、根尾に完璧に抑えられてんのはアカンな……谷端の三振とか。",
+    "userName": "KENZY_PRODUCTS",
+    "tweetUrl": "https://twitter.com/KENZY_PRODUCTS/status/2025200965880893693",
+    "createdAt": "February 21, 2026 at 10:28PM"
+  },
+  {
+    "text": "谷端disるならくれや。",
+    "userName": "gogonogorilla",
+    "tweetUrl": "https://twitter.com/gogonogorilla/status/2025201558246621621",
+    "createdAt": "February 21, 2026 at 10:30PM"
+  },
+  {
+    "text": "この「挨拶」という文言を聞くと去年伊原が先発に回った時に「挨拶は終わり」と言っていたのを思い出す\nつまり球児監督からの強い期待の証拠、頑張れ谷端！！\n#Yahooニュース\nhttps://t.co/AMDIpgUJlQ",
+    "userName": "Stephen_donsama",
+    "tweetUrl": "https://twitter.com/Stephen_donsama/status/2025202299254309140",
+    "createdAt": "February 21, 2026 at 10:33PM"
+  },
+  {
+    "text": "@fiorastelle821 立石と谷端で40HR 100打点!!",
+    "userName": "nobu5561",
+    "tweetUrl": "https://twitter.com/nobu5561/status/2025203083165532623",
+    "createdAt": "February 21, 2026 at 10:36PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」 - スポーツ報知 https://t.co/OcBvZPOaBI \n\n凡打でも一塁まで全力疾走！続けてほしい。",
+    "userName": "Keep_same9",
+    "tweetUrl": "https://twitter.com/Keep_same9/status/2025203482794623196",
+    "createdAt": "February 21, 2026 at 10:38PM"
+  },
+  {
+    "text": "谷端は少し線の細さみたいなものは感じた",
+    "userName": "sonnyujapan",
+    "tweetUrl": "https://twitter.com/sonnyujapan/status/2025205326182789571",
+    "createdAt": "February 21, 2026 at 10:45PM"
+  },
+  {
+    "text": "谷端ノーヒット？何も気にする必要ない\nオープン戦なんて（なんならプロ入って数年なら）結果なんてどうでも良いから家庭が大事",
+    "userName": "A01157350A",
+    "tweetUrl": "https://twitter.com/A01157350A/status/2025205718463533069",
+    "createdAt": "February 21, 2026 at 10:47PM"
+  },
+  {
+    "text": "まず怪我していないという点で藤川は谷端のこと相当評価してると思うで、だって入団直後あんなに怪我するな、無理するな、今まで通りにって口酸っぱく言ってたもの",
+    "userName": "A01157350A",
+    "tweetUrl": "https://twitter.com/A01157350A/status/2025206021111914799",
+    "createdAt": "February 21, 2026 at 10:48PM"
+  },
+  {
+    "text": "谷端、まだまだこれから！",
+    "userName": "Tiger_chiId",
+    "tweetUrl": "https://twitter.com/Tiger_chiId/status/2025207490913468506",
+    "createdAt": "February 21, 2026 at 10:54PM"
+  },
+  {
+    "text": "谷端のルーキー65/75とかえぐいわ…俺も欲しいわほんまに😭\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/KzX0ht7yzH",
+    "userName": "tigersculefan8",
+    "tweetUrl": "https://twitter.com/tigersculefan8/status/2025210574322426257",
+    "createdAt": "February 21, 2026 at 11:06PM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」 https://t.co/JVa5VVexLk",
+    "userName": "torasokuT",
+    "tweetUrl": "https://twitter.com/torasokuT/status/2025212824025436425",
+    "createdAt": "February 21, 2026 at 11:15PM"
+  },
+  {
+    "text": "【中日】オープン戦の「開幕投手」はベテラン・大野雄大　阪神はドラフト２位・谷端将伍が先発出場　両チームスタメンを発表(スポーツ報知)\n#Yahooニュース\nhttps://t.co/5jL3VI1ZbW",
+    "userName": "masakigifu",
+    "tweetUrl": "https://twitter.com/masakigifu/status/2025213464969711710",
+    "createdAt": "February 21, 2026 at 11:18PM"
+  },
+  {
+    "text": "谷端のルーキー65/75枚って！俺まだ持ってへんのに誰かゲットしとるんかよ羨ましすぎるわぁ😤\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/uBPAycCGXp",
+    "userName": "hanshinfan1234",
+    "tweetUrl": "https://twitter.com/hanshinfan1234/status/2025216679123583389",
+    "createdAt": "February 21, 2026 at 11:30PM"
+  },
+  {
+    "text": "谷端将伍のルーキー65/75！？うわーめっちゃ欲しい…羨ましすぎるよ～！\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/5iwqRVCTlA",
+    "userName": "Te3DyFbGx3oL",
+    "tweetUrl": "https://twitter.com/Te3DyFbGx3oL/status/2025219870191755542",
+    "createdAt": "February 21, 2026 at 11:43PM"
+  },
+  {
+    "text": "谷端ほんまにえぐいわ…😢",
+    "userName": "tigersculefan8",
+    "tweetUrl": "https://twitter.com/tigersculefan8/status/2025220176795598997",
+    "createdAt": "February 21, 2026 at 11:44PM"
+  },
+  {
+    "text": "@tigerschannel72 谷端お前なら大丈夫や",
+    "userName": "takanofunohide",
+    "tweetUrl": "https://twitter.com/takanofunohide/status/2025220607571624025",
+    "createdAt": "February 21, 2026 at 11:46PM"
+  },
+  {
+    "text": "谷端のルーキー65/75枚って…！羨ましすぎて震えるんだけど！！！\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/Xgvql7ztpq",
+    "userName": "gekitomo2024",
+    "tweetUrl": "https://twitter.com/gekitomo2024/status/2025224470537871457",
+    "createdAt": "February 22, 2026 at 12:01AM"
+  },
+  {
+    "text": "谷端は真面目やなあ。\n近本ですら38打席も出んかったんやから、5タコくらい気にすんなってー。\n前身守備で良い当たりもあったし。",
+    "userName": "S1Hr8ZaGRK81823",
+    "tweetUrl": "https://twitter.com/S1Hr8ZaGRK81823/status/2025224927608275269",
+    "createdAt": "February 22, 2026 at 12:03AM"
+  },
+  {
+    "text": "3人目の谷端には2球目、3球目と内角に構えた石伊のミットを目がけて投げ込み、最後は高めの直球を振らせて空振り三振。\n「シーズンに入る前に、しっかりこういうボールを投げられたのはよかった」と自信を深めた。",
+    "userName": "Saori07071639",
+    "tweetUrl": "https://twitter.com/Saori07071639/status/2025225429158953059",
+    "createdAt": "February 22, 2026 at 12:05AM"
+  },
+  {
+    "text": "大卒ルーキーを即戦力として見てる時点で素人\nそんな大した活躍しないよ\n立石も松下も谷端も\n内藤はあと2年待てる https://t.co/u89GIxPuKP",
+    "userName": "jlvxhtk47",
+    "tweetUrl": "https://twitter.com/jlvxhtk47/status/2025228164948263360",
+    "createdAt": "February 22, 2026 at 12:16AM"
+  },
+  {
+    "text": "オープン戦予想スタメン\n阪神\n1中 高寺67\n2二 谷端25\n3遊 ディベイニー24⇒遊 小幡38\n4一 大山3⇒左 中川68\n5右 濱田32\n6三 元山00⇒三 木浪0\n7捕 梅野2⇒捕 嶋村128\n8左 前川58(一)\n9指 熊谷4⇒指 糸原33\n先発 村上41(2)大竹21(2)ルーカス42(2)ラグズデール46(2)ドリス98",
+    "userName": "goq8qnl",
+    "tweetUrl": "https://twitter.com/goq8qnl/status/2025228540728524831",
+    "createdAt": "February 22, 2026 at 12:18AM"
+  },
+  {
+    "text": "おい、谷端のルーキーカード限定65/75売ってるじゃん！羨ましすぎるわ。\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/TKxhrNAhjj",
+    "userName": "a8100562072249",
+    "tweetUrl": "https://twitter.com/a8100562072249/status/2025236904166240519",
+    "createdAt": "February 22, 2026 at 12:51AM"
+  },
+  {
+    "text": "@tigerschannel72 攻守→好守かな？\n谷端非凡なバッティングセンスあると思うし頑張ってほしい",
+    "userName": "SYAAAACHOOOO",
+    "tweetUrl": "https://twitter.com/SYAAAACHOOOO/status/2025243298735292585",
+    "createdAt": "February 22, 2026 at 01:16AM"
+  },
+  {
+    "text": "@urabi00 そりゃあ､もう！\n暗黒時代なら即､レギュラーの立石・谷端が入団。\n高寺・前川・中川・百崎の台頭\n今年は成績を出さないと､\n首か現ドラになる可能性大ですからね",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2025247153829142678",
+    "createdAt": "February 22, 2026 at 01:32AM"
+  },
+  {
+    "text": "谷端のルーキー65/75枚ってマジかよ…俺欲しくて震えてるわ！\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/0EhOh3bjK1",
+    "userName": "BaseballEnth383",
+    "tweetUrl": "https://twitter.com/BaseballEnth383/status/2025247260674527584",
+    "createdAt": "February 22, 2026 at 01:32AM"
+  },
+  {
+    "text": "谷端将伍のルーキー65/75って…！マジで欲しいんだけどなぁ～羨ましすぎる😭\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/ld3itz3e5R",
+    "userName": "mamorukuni1988",
+    "tweetUrl": "https://twitter.com/mamorukuni1988/status/2025249603323326771",
+    "createdAt": "February 22, 2026 at 01:41AM"
+  },
+  {
+    "text": "1番起用の阪神D2位・谷端はフル出場で無安打「結果を求めてやっていたので悔しい気持ちが一番」\nhttps://t.co/Pt8JIJOVHY",
+    "userName": "zsl4wkSg57joWlX",
+    "tweetUrl": "https://twitter.com/zsl4wkSg57joWlX/status/2025252368271728930",
+    "createdAt": "February 22, 2026 at 01:52AM"
+  },
+  {
+    "text": "谷端ほんま挨拶だけや",
+    "userName": "tigersculefan8",
+    "tweetUrl": "https://twitter.com/tigersculefan8/status/2025259187157303390",
+    "createdAt": "February 22, 2026 at 02:19AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端プロ初のＯＰ戦へ「積極的」アピール誓った沖縄で積み上げた努力の成果示す ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/kXjw6hmfq0",
+    "userName": "8aleex04",
+    "tweetUrl": "https://twitter.com/8aleex04/status/2025265573681397806",
+    "createdAt": "February 22, 2026 at 02:45AM"
+  },
+  {
+    "text": "【中日対阪神オープン戦】1（二） 谷端 将伍　3（遊） ディベイニー \nhttps://t.co/dinELyTt84",
+    "userName": "minamiyama_ko38",
+    "tweetUrl": "https://twitter.com/minamiyama_ko38/status/2025282443310137617",
+    "createdAt": "February 22, 2026 at 03:52AM"
+  },
+  {
+    "text": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』というあいさつですよね」 https://t.co/hAdY0e8uSu",
+    "userName": "mtmxjp",
+    "tweetUrl": "https://twitter.com/mtmxjp/status/2025284910546833831",
+    "createdAt": "February 22, 2026 at 04:02AM"
+  },
+  {
+    "text": "この阪神谷端将伍のルーキーカード、限定65/75…羨ましい輝きね。🖋️\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/EhrF3g0oGg",
+    "userName": "fountainenink24",
+    "tweetUrl": "https://twitter.com/fountainenink24/status/2025286627900203158",
+    "createdAt": "February 22, 2026 at 04:08AM"
+  },
+  {
+    "text": "谷端のルーキー65/75って…めっちゃ欲しいなあ。僕には縁遠い世界だわ🍃\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/hRo3FOoqZ0",
+    "userName": "PUrRZQs90bsE",
+    "tweetUrl": "https://twitter.com/PUrRZQs90bsE/status/2025295782836888019",
+    "createdAt": "February 22, 2026 at 04:45AM"
+  },
+  {
+    "text": "阪神ドラ２・谷端　軽快二塁守備　「１番」で無安打も将「ディフェンスができれば出続けることができる」(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/7kTR6uF4HP",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2025306122354393258",
+    "createdAt": "February 22, 2026 at 05:26AM"
+  },
+  {
+    "text": "みなさん\nおはとらほー👴\n\n今日は昼は🇯🇵に🐯に同じ時間にやりよるから忙しい😁\nスポナビチェックしたらSBのピッチャーギーダーになってる😁よ〜見直したら前田さんやった😂完全に👴ボケ🍆や\nとにかく山川のボケ以外がんばれ🔥\n\n谷端くん初ヒットたのまい👴\n輝明🇯🇵の4番やぞ気合いや\n\nよろしくです😊 https://t.co/6eDmCbR69O",
+    "userName": "Z8imzfxwDU25531",
+    "tweetUrl": "https://twitter.com/Z8imzfxwDU25531/status/2025306842583506945",
+    "createdAt": "February 22, 2026 at 05:29AM"
+  },
+  {
+    "text": "谷端のルーキー65/75枚って…めっちゃ欲しいじゃん羨ましすぎるよ～！\n\nBBM ルーキーエディション阪神タイガース 谷端将伍\nhttps://t.co/uHSwBFZ6Rs",
+    "userName": "sportsfan03x44",
+    "tweetUrl": "https://twitter.com/sportsfan03x44/status/2025309339838521828",
+    "createdAt": "February 22, 2026 at 05:39AM"
+  },
+  {
+    "text": "阪神ドラ２・谷端　軽快二塁守備　「１番」で無安打も将「ディフェンスができれば出続けることができる」（デイリースポーツ） https://t.co/GLvVsXFrwD",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2025313561216762239",
+    "createdAt": "February 22, 2026 at 05:55AM"
   }
 ]
