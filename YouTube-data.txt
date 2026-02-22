@@ -1766,5 +1766,21 @@
     "publishedAt": "February 22, 2026 at 05:00AM",
     "description": "【開幕直前考察⚡】阪神レフト・谷畑注目‼️ 才木は中日戦先発⁉️ 開幕3連戦ローテ徹底予想！#阪神タイガース #阪神キャンプ ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "February 21, 2026",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=IWBqF1S6JD8",
+    "publishedAt": "February 21, 2026 at 10:16PM",
+    "description": "【阪神】谷端将伍、１番・二塁に抜てきも無安打「結果を求めてきたんで正直悔しい」…藤川球児監督「『入団した谷端です』 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【OP戦初戦】4番大山3安打！才木無失点！髙橋遥人2回5奪三振！強敵ドラゴンズ相手に順調な仕上がり！阪神タイガース密着！応援番組「虎バン」ABCテレビ公式チャンネル",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=r8gSYXi_aZI",
+    "publishedAt": "February 21, 2026 at 08:54PM",
+    "description": "阪神タイガース #虎バン #プロ野球キャンプ 2026年2月1日(日)～連日配信中！ 阪神タイガース沖縄キャンプダイジェスト21日目 ...",
+    "keyword": "谷端 阪神"
   }
 ]
