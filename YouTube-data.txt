@@ -1782,5 +1782,13 @@
     "publishedAt": "February 21, 2026 at 08:54PM",
     "description": "阪神タイガース #虎バン #プロ野球キャンプ 2026年2月1日(日)～連日配信中！ 阪神タイガース沖縄キャンプダイジェスト21日目 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "OP戦『阪神vs日ハム』貞よ、それはあかんて。谷端よ、目ぇさませ！ドリス大丈夫かいな？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8xDHNyPymeE",
+    "publishedAt": "February 23, 2026 at 07:03PM",
+    "description": "VOL.781／26.0223 OP戦『阪神vs日ハム』貞よ、それはあかんて。谷端よ、目ぇさませ！ドリス大丈夫かいな？ 顔を隠して愛を ...",
+    "keyword": "谷端 阪神"
   }
 ]
