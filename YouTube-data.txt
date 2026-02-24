@@ -1790,5 +1790,21 @@
     "publishedAt": "February 23, 2026 at 07:03PM",
     "description": "VOL.781／26.0223 OP戦『阪神vs日ハム』貞よ、それはあかんて。谷端よ、目ぇさませ！ドリス大丈夫かいな？ 顔を隠して愛を ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【激闘】守護神岩崎VSドラ2谷端がライブBPで対決！今季初実戦形式登板の岩崎優が若虎相手に圧巻の投球を披露！阪神タイガース密着！応援番組「虎バン」ABCテレビ公式チャンネル",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ZWQzCfnoqko",
+    "publishedAt": "February 24, 2026 at 06:11PM",
+    "description": "阪神タイガース #虎バン #プロ野球キャンプ 2026年2月1日(日)～連日配信中！ 阪神タイガース沖縄キャンプダイジェスト24日目 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "新人谷端のスローイング！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wHFHdke-_tg",
+    "publishedAt": "February 24, 2026 at 07:18PM",
+    "description": "歩く野球名鑑☆ instagram https://www.instagram.com/yakyumeikan_8 TikTok https://www.tiktok.com/@yakyumeikan_8 Twitter ...",
+    "keyword": "谷端 阪神"
   }
 ]
