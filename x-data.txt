@@ -5704,5 +5704,263 @@
     "userName": "ZETTON_PONOJI",
     "tweetUrl": "https://twitter.com/ZETTON_PONOJI/status/2026406601402565054",
     "createdAt": "2026-02-24T21:19:17 00:00"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍　岩崎相手に無安打も「打席に立てて良かった」収穫のライブBP - スポニチ Sponichi Annex 野球 https://t.co/wIC3tczREe",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2026418430837137434",
+    "createdAt": "2026-02-24T22:06:17 00:00"
+  },
+  {
+    "text": "阪神春季キャンプも今日で打ち上げですね！\n\n石井投手、豊田選手の怪我はとても残念でしたが、新戦力も見えてきました。個人的には、谷端、嶋村、木下、今朝丸の4選手に特に期待しています🐅\n\n次の体外試合は3/2,3のWBC強化試合(韓国、日本)です。めっちゃ楽しみですよねー✨",
+    "userName": "tora_gishi",
+    "tweetUrl": "https://twitter.com/tora_gishi/status/2026420553679253667",
+    "createdAt": "2026-02-24T22:14:43 00:00"
+  },
+  {
+    "text": "阪神の立石がなぜ凄いのか、打撃フォームを解説しますわ！！！モレッタの球速問題や実は谷端が逸材な理由、高寺にも言いたいことあるので好き放題言います... https://t.co/k5i0gHtdG0 @YouTubeより\n\n朝から首がもげるほど頷きながら見てました。",
+    "userName": "hibi_mit1010",
+    "tweetUrl": "https://twitter.com/hibi_mit1010/status/2026424926010486968",
+    "createdAt": "2026-02-24T22:32:06 00:00"
+  },
+  {
+    "text": "岩崎投手、順調のようですね。石井投手離脱でいつにも増して守護神への期待が高まってしまいますが、何とか無事に開幕を迎えてほしいね。谷端選手はじめ対戦した若い選手は対応に苦労していましたが、良い経験になりました🐯👍\n #阪神タイガース  #岩崎優\nhttps://t.co/wML5ar36j1",
+    "userName": "jyuuoumuteki",
+    "tweetUrl": "https://twitter.com/jyuuoumuteki/status/2026425755962662968",
+    "createdAt": "2026-02-24T22:35:24 00:00"
+  },
+  {
+    "text": "谷端将伍、一軍で代打待機するより二軍で試合に出るほうがええと思う？\nhttps://t.co/pInS0aAajK",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2026428675848307159",
+    "createdAt": "2026-02-24T22:47:00 00:00"
+  },
+  {
+    "text": "気合いの谷端🐯\n#阪神タイガース\n #阪神ファンと繋がりたい https://t.co/sD7x5Sh37v",
+    "userName": "MLoYZ2EKio2915",
+    "tweetUrl": "https://twitter.com/MLoYZ2EKio2915/status/2026428831796748799",
+    "createdAt": "2026-02-24T22:47:37 00:00"
+  },
+  {
+    "text": "@tigerschannel72 試合数こなす方に一票。立石、谷端が佐藤輝明と中野みたいになる近未来に期待しかない👍\n谷端はインコースの捌き方が半端無いですね",
+    "userName": "a_v1025385",
+    "tweetUrl": "https://twitter.com/a_v1025385/status/2026430046039323118",
+    "createdAt": "2026-02-24T22:52:26 00:00"
+  },
+  {
+    "text": "@TigersDreamlink \n大阪神様にお願いします　谷端の応援歌をよっしゃあ漢唄にし、キセルグッズを販売してください貧民ながら高価でも買います　花の慶次プレミア演出トラ柄に賭けて（掛けて",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://twitter.com/yoshida0531a/status/2026439891161329832",
+    "createdAt": "2026-02-24T23:31:34 00:00"
+  },
+  {
+    "text": "谷端将伍、一軍で代打待機するより二軍で試合に出るほうがええと思う？ https://t.co/w5xhpIT29m",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2026462566558429440",
+    "createdAt": "2026-02-25T01:01:40 00:00"
+  },
+  {
+    "text": "1軍登録は、近本、森下を除くと4～5人？\n外野手として有力候補は、立石、前川、高寺、濵田、中川の5選手\n熊谷、谷端は内野手登録かも？\n#阪神タイガース https://t.co/4sRf3LLipa",
+    "userName": "mori15nori12",
+    "tweetUrl": "https://twitter.com/mori15nori12/status/2026463324486172956",
+    "createdAt": "2026-02-25T01:04:41 00:00"
+  },
+  {
+    "text": "【激闘】守護神岩崎VSドラ2谷端がライブBPで対決！今季初実戦形式登板の岩崎優が若虎相手に圧巻の投球を披露！阪神タイガース密着！応援番組「虎バン... https://t.co/3wsSfNKu90 @YouTubeより",
+    "userName": "11777kaoChin",
+    "tweetUrl": "https://twitter.com/11777kaoChin/status/2026487484776067255",
+    "createdAt": "2026-02-25T02:40:41 00:00"
+  },
+  {
+    "text": "@yasikotora 個人的には若手が争えるポジションがあった方がいいかなーと思うのでサード佐藤で去年同様、レフトを立石高寺中川前川濱田なんならできるかわかんないけど谷端あたりで争ってくれたらいいなぁと！高寺、ぼくはショートでも試して欲しいけどセンターも試してるし、まずは外野で打ちまくって欲しいす！",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2026491199851475209",
+    "createdAt": "2026-02-25T02:55:27 00:00"
+  },
+  {
+    "text": "メルカリで出品されている野球選手関連グッズなどを紹介していきます！PR\n\n商品名: 谷端将伍 RC BBMルーキーエディション2026 緑箔　75シリ\n\n販売価格: 3222円\n\nhttps://t.co/UNuvTm29n2",
+    "userName": "KswmhkjCc453561",
+    "tweetUrl": "https://twitter.com/KswmhkjCc453561/status/2026492892722901214",
+    "createdAt": "2026-02-25T03:02:10 00:00"
+  },
+  {
+    "text": "谷端の緑サインジャージカード出てる…羨ましすぎるんですけど😭\n\nBBM ルーキーエディション 阪神 谷端将伍 ジャージナンバー 緑 サインカード\nhttps://t.co/SCVbjDHN26",
+    "userName": "sportsfan03x44",
+    "tweetUrl": "https://twitter.com/sportsfan03x44/status/2026496633634980328",
+    "createdAt": "2026-02-25T03:17:02 00:00"
+  },
+  {
+    "text": "谷端は開幕一軍に残れるか。\n濱田は尻すぼみにならんか。\n立石はいつ復帰するか。\nデバはショートの守備最低限できて小幡より打てるか。\nオープン戦やけど注目するところはようけある。",
+    "userName": "_rip_off1003",
+    "tweetUrl": "https://twitter.com/_rip_off1003/status/2026497047864684656",
+    "createdAt": "2026-02-25T03:18:41 00:00"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2谷端将伍　岩崎相手に無安打も「打席に立てて良かった」収穫のライブBP - スポニチ Sponichi Annex 野球 https://t.co/qjgXE1zE7u",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2026501561380446225",
+    "createdAt": "2026-02-25T03:36:37 00:00"
+  },
+  {
+    "text": "ドラ２谷端、凡打も経験　プロ野球キャンプ・阪神：朝日新聞 https://t.co/gh0mcSSaEl",
+    "userName": "chronoiti",
+    "tweetUrl": "https://twitter.com/chronoiti/status/2026504591488229775",
+    "createdAt": "2026-02-25T03:48:39 00:00"
+  },
+  {
+    "text": "@blackclover_ex 该上班了老师们，把原画谷端上来呀",
+    "userName": "txfnzmyj_36",
+    "tweetUrl": "https://twitter.com/txfnzmyj_36/status/2026515632381186540",
+    "createdAt": "2026-02-25T04:32:32 00:00"
+  },
+  {
+    "text": "このポストに関しては\n引用リポスト禁止でお願いします✍️\n\nキャンプ終了〜🙌🏻🙌🏻\n選手の皆さん、お疲れ様でした！！\n\n村上選手会長の挨拶にずっと下を向いてる大山が今年に燃えてるというか、ゴゴゴゴ…感があって良かった🔥🔥\n\n立石、谷端、伏見、濱田、ディベイニー",
+    "userName": "yasikotora",
+    "tweetUrl": "https://twitter.com/yasikotora/status/2026524601820578087",
+    "createdAt": "2026-02-25T05:08:10 00:00"
+  },
+  {
+    "text": "このポストに関しては\n引用リポスト禁止でお願いします✍️\n\nキャンプ終了〜🙌🏻🙌🏻\n選手の皆さん、お疲れ様でした！！\n\n村上選手会長の挨拶にずっと下を向いてる大山が今年に燃えてるというか、ゴゴゴゴ…感があって良かった🔥🔥\n\n立石、谷端、伏見、濱田、ディベイニー",
+    "userName": "yasikotora",
+    "tweetUrl": "https://twitter.com/yasikotora/status/2026525590019518729",
+    "createdAt": "2026-02-25T05:12:06 00:00"
+  },
+  {
+    "text": "立石谷端という実績がない2人を除いて\n誰をレフトに推薦したいかと言われれば\n中川かな。\n\n高寺はもうお前どこやるの https://t.co/R6WkWbE2yg",
+    "userName": "kira_tigers",
+    "tweetUrl": "https://twitter.com/kira_tigers/status/2026559787941704165",
+    "createdAt": "2026-02-25T07:27:59 00:00"
+  },
+  {
+    "text": "阪神の新人で唯一「宜野座組」入り・谷端将伍、積極性が身上「３球全部勝負したい」…開幕一軍めざしスイング磨く(読売新聞オンライン)\n#Yahooニュース\nhttps://t.co/EKvkALreg2",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2026570519617892405",
+    "createdAt": "2026-02-25T08:10:38 00:00"
+  },
+  {
+    "text": "中野がいるのに、何でこんなのを獲ったの？\n石井みたいなことがあるから投手を獲っておけば良かったのに。\n今年は阪神は最下位やな。\n\n阪神の新人で唯一「宜野座組」入り・谷端将伍、積極性が身上「３球全部勝負したい」…開幕一軍めざしスイング磨く（読売新聞オンライン） https://t.co/WqRfOXSHZw",
+    "userName": "koichitakahiko",
+    "tweetUrl": "https://twitter.com/koichitakahiko/status/2026573627941073026",
+    "createdAt": "2026-02-25T08:22:59 00:00"
+  },
+  {
+    "text": "【速報】谷端将伍、OP戦7打数無安打に「リキみすぎた」\n\nルーキーでただ1人、宜野座組でキャンプを完走した阪神の谷端は「『見て学んで』ということを自分の中でテーマとしてやってきて、吸収できた」と振り返った。 https://t.co/auILnGunI0",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2026590445166539016",
+    "createdAt": "2026-02-25T09:29:49 00:00"
+  },
+  {
+    "text": "俺の中ではMVPやろ！新人やで❤️\n\n阪神D2位・谷端将伍、宜野座組でキャンプ完走　見て学んで「吸収できた」(サンケイスポーツ)\nhttps://t.co/BmLcKLwC8o",
+    "userName": "ojipon2",
+    "tweetUrl": "https://twitter.com/ojipon2/status/2026594164994093401",
+    "createdAt": "2026-02-25T09:44:35 00:00"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、宜野座組でキャンプ完走　見て学んで「吸収できた」\nhttps://t.co/tk47WEbDLm\n#hanshin #阪神タイガース",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2026594802071224492",
+    "createdAt": "2026-02-25T09:47:07 00:00"
+  },
+  {
+    "text": "谷端の箔サイン、25枚限定か…羨ましいね、私の記憶みたいに消えちゃう前に手に入れたいわ。\n\nBBM 2026 ルーキー 谷端将伍 阪神タイガース 25枚限定 箔サイン\nhttps://t.co/k5fCVCs8ex",
+    "userName": "shadowecho7K92",
+    "tweetUrl": "https://twitter.com/shadowecho7K92/status/2026596858294911466",
+    "createdAt": "2026-02-25T09:55:18 00:00"
+  },
+  {
+    "text": "阪神の新人で唯一「宜野座組」入り・谷端将伍、積極性が身上「３球全部勝負したい」…開幕一軍めざしスイング磨く\n\n#阪神タイガース #宜野座\n▼記事はこちら\nhttps://t.co/nE0VN5S0RO",
+    "userName": "yomiuri_kobe",
+    "tweetUrl": "https://twitter.com/yomiuri_kobe/status/2026616314324988270",
+    "createdAt": "2026-02-25T11:12:36 00:00"
+  },
+  {
+    "text": "谷端くんキャンプ完走出来て何より",
+    "userName": "blau_luchs",
+    "tweetUrl": "https://twitter.com/blau_luchs/status/2026618741199613995",
+    "createdAt": "2026-02-25T11:22:15 00:00"
+  },
+  {
+    "text": "挑戦者、命令を下す。その選択は死を意味する。\n\nBBM ルーキーエディション 谷端将伍 50枚限定 ホロ箔サイン 阪神タイガース\nhttps://t.co/wILBpPEdNc",
+    "userName": "yokohamaBatsu1",
+    "tweetUrl": "https://twitter.com/yokohamaBatsu1/status/2026622415816561041",
+    "createdAt": "2026-02-25T11:36:51 00:00"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、宜野座組でキャンプ完走　見て学んで「吸収できた」(サンケイスポーツ)\n\nhttps://t.co/tHdlegcOuP",
+    "userName": "ghuj749883",
+    "tweetUrl": "https://twitter.com/ghuj749883/status/2026632250855665744",
+    "createdAt": "2026-02-25T12:15:56 00:00"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、宜野座組でキャンプ完走　見て学んで「吸収できた」 - サンスポ https://t.co/6sxMR7dhfK @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2026636930855875045",
+    "createdAt": "2026-02-25T12:34:32 00:00"
+  },
+  {
+    "text": "阪神キャンプ終わったなー今年は全然見れなかったな\n谷端くん宜野座完走おめでとう！お疲れ様でした！実戦でなかなか結果出てなくても焦らず自分のプレーを発揮する時をソワソワして待っている🙂‍↕️",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2026640506638446701",
+    "createdAt": "2026-02-25T12:48:44 00:00"
+  },
+  {
+    "text": "谷端のあだ名「谷やん」\nコテコテやないか🤣\n最近表情がすっきりしてて充実してそう\n谷やん頑張れー！ https://t.co/foR1u9GHRS",
+    "userName": "NNNT1318",
+    "tweetUrl": "https://twitter.com/NNNT1318/status/2026652737639952614",
+    "createdAt": "2026-02-25T13:37:20 00:00"
+  },
+  {
+    "text": "谷端は気負わず頑張れ\n立石はその土俵に立ててすら\nいないんだからまだチャンスだよ",
+    "userName": "_TigerAround",
+    "tweetUrl": "https://twitter.com/_TigerAround/status/2026656094278529092",
+    "createdAt": "2026-02-25T13:50:40 00:00"
+  },
+  {
+    "text": "このキャンプで印象に残った選手といえば結局一軍経験のある選手ばかりだったような気はする\nそれ以外で目立ったのは嶋村と谷端ぐらいか",
+    "userName": "Hojo_H_ojoH",
+    "tweetUrl": "https://twitter.com/Hojo_H_ojoH/status/2026661557455958395",
+    "createdAt": "2026-02-25T14:12:23 00:00"
+  },
+  {
+    "text": "ずっとこの写真にツボってしまう。\n\n谷端選手、ルーキーからはひとりではじめは心細かったはずなのに、怪我なく感想おめでとうございます✨\n\nオープン戦、打席も守備もみる機会あったら楽しみにしておりますがんばれ～",
+    "userName": "___umi_t",
+    "tweetUrl": "https://twitter.com/___umi_t/status/2026673874562330678",
+    "createdAt": "2026-02-25T15:01:20 00:00"
+  },
+  {
+    "text": "谷端が伊藤隼太に似てるって言われてるらしくて草",
+    "userName": "konoNUFC",
+    "tweetUrl": "https://twitter.com/konoNUFC/status/2026737087119335584",
+    "createdAt": "2026-02-25T19:12:31 00:00"
+  },
+  {
+    "text": "やはり\nショートは助っ人じゃ埋められないのね🤨\n\n阪神　注目のディベイニーは土に苦労　新加入の元山＆ドラ２谷端が存在感　一、二、三塁は不動【担当記者総括・内野】(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/lwxyurwTM8",
+    "userName": "fanfanstepp",
+    "tweetUrl": "https://twitter.com/fanfanstepp/status/2026754672942526913",
+    "createdAt": "2026-02-25T20:22:23 00:00"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、宜野座組でキャンプ完走　見て学んで「吸収できた」(サンケイスポーツ)\n\nhttps://t.co/epM9q1qlLv",
+    "userName": "chligoqdi1",
+    "tweetUrl": "https://twitter.com/chligoqdi1/status/2026755241400811790",
+    "createdAt": "2026-02-25T20:24:39 00:00"
+  },
+  {
+    "text": "【日刊スポ】【阪神】糸井SA太鼓判！“谷やん”谷端将伍、主力中心の宜野座組で完走／虎番が選ぶMVP https://t.co/N9jOBm0J2p #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2026755913902616950",
+    "createdAt": "2026-02-25T20:27:19 00:00"
+  },
+  {
+    "text": "阪神ドラ2谷端将伍「先輩たちを見ながら充実した練習ができた」新人で唯一宜野座完走 - スポニチ Sponichi Annex 野球 https://t.co/fEYUc1RE7U",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2026760577822109968",
+    "createdAt": "2026-02-25T20:45:51 00:00"
+  },
+  {
+    "text": "アニョンハセヨ🙋‍♂️🇰🇷\n\nプロ野球開幕まで２９日‼️\nあと１ヵ月程で開幕やん🤭\n\n谷端、立石、今朝丸とか🤭\n気になる選手が一杯🤭\n一軍での活躍も間近かもね🤭\n\n最近‼️デュオリンゴ🍏での\n韓国語🇰🇷レッスンが\n忙しいねん🤭🤣\n\n只今‼️293日継続中🇰🇷\n１週間毎で更新やから🤭\n日曜日の１９時に最終順位確定🇰🇷 https://t.co/HEkr5W8X0Q",
+    "userName": "JT4DBNY23Xm3EPw",
+    "tweetUrl": "https://twitter.com/JT4DBNY23Xm3EPw/status/2026768649986650543",
+    "createdAt": "2026-02-25T21:17:56 00:00"
   }
 ]
