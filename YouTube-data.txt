@@ -1806,5 +1806,21 @@
     "publishedAt": "February 24, 2026 at 07:18PM",
     "description": "歩く野球名鑑☆ instagram https://www.instagram.com/yakyumeikan_8 TikTok https://www.tiktok.com/@yakyumeikan_8 Twitter ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍選手 応援曲 #阪神タイガース #谷端将伍 #25 #応援歌 #npb",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ZN4WC6WvFRY",
+    "publishedAt": "February 26, 2026 at 06:42PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【キャンプ総括🔥】2026CAMP全選手考察‼️野手編‼️.       #阪神タイガース＃阪神タイガースをたしなむ#阪神タイガース 　キャンプ打ち上げ#立石正広＃谷端",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=LVS0sNqghd0",
+    "publishedAt": "February 26, 2026 at 08:34PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
   }
 ]
