@@ -6148,5 +6148,233 @@
     "userName": "jikkyonomidori",
     "tweetUrl": "https://twitter.com/jikkyonomidori/status/2027127187367997909",
     "createdAt": "February 27, 2026 at 06:02AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、3・3日本代表戦「出たい気持ち」「大事な一日になると思います」 - サンスポ https://t.co/yWZ5uTZC0M @SANSPOCOMより",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2027143477163934148",
+    "createdAt": "February 27, 2026 at 07:07AM"
+  },
+  {
+    "text": "谷端くんのインスタのアイコン可愛い😊",
+    "userName": "XthAOY8mBf8356",
+    "tweetUrl": "https://twitter.com/XthAOY8mBf8356/status/2027149411512660145",
+    "createdAt": "February 27, 2026 at 07:30AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　侍ジャパンとの対戦熱望「将来的にはそこに入れるような選手になりたい」 - スポニチ Sponichi Annex 野球 https://t.co/amEn4bisRb",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2027158017339429026",
+    "createdAt": "February 27, 2026 at 08:05AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　３・３侍ジャパン戦「感じたい」出場意欲　将来的代表入りへ「しっかり目に焼き付けて」\nhttps://t.co/GThJ0AMYRc #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2027158363545694446",
+    "createdAt": "February 27, 2026 at 08:06AM"
+  },
+  {
+    "text": "朝の虎🐯ニュース（2/26）\n1. 阪神宜野座キャンプが打ち上げられ全員参加で充実感を語る⚾️  \n2. 伊原陵人がチーム最多投球でキャンプMVP「まだ伸びしろ」と前向き🔥  \n3. 阪神・谷端将伍が新人唯一のキャンプ完走を振り返り意欲💪  \n#阪神タイガース #タイガース #NPB",
+    "userName": "raulpaisen",
+    "tweetUrl": "https://twitter.com/raulpaisen/status/2027164273810751720",
+    "createdAt": "February 27, 2026 at 08:30AM"
+  },
+  {
+    "text": "【阪神】谷端将伍「どれぐらい差があるか見てみたい」３月３日侍ジャパン戦で学ぶ！注目は牧秀悟 https://t.co/I64jLw436Q",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2027168060411678946",
+    "createdAt": "February 27, 2026 at 08:45AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、3・3日本代表戦「出たい気持ち」「大事な一日になると思います」(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/vgCCOzca9N",
+    "userName": "banseiairport",
+    "tweetUrl": "https://twitter.com/banseiairport/status/2027178976905662609",
+    "createdAt": "February 27, 2026 at 09:28AM"
+  },
+  {
+    "text": "2月27日　全体練習(甲子園)\n\n(野手)\n\n嶋村、中川、町田、長坂、伏見、百崎、熊谷、谷端、中野、高寺、小幡、大山、浜田、元山、ディベイニー、福島、岡城、前川、小野寺、近本",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2027191256196194569",
+    "createdAt": "February 27, 2026 at 10:17AM"
+  },
+  {
+    "text": "また侍ユニの谷端さんが見たいな💭 https://t.co/pNFJu60ZMy",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2027203586468590005",
+    "createdAt": "February 27, 2026 at 11:06AM"
+  },
+  {
+    "text": "谷端くんのアイコンが可愛すぎてファンの人かと思ったw",
+    "userName": "c4co19",
+    "tweetUrl": "https://twitter.com/c4co19/status/2027209625075109908",
+    "createdAt": "February 27, 2026 at 11:30AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、3・3日本代表戦「出たい気持ち」「大事な一日になると思います」(サンケイスポーツ)\n\nhttps://t.co/XWoz22iaiA",
+    "userName": "huinglink",
+    "tweetUrl": "https://twitter.com/huinglink/status/2027218517838487836",
+    "createdAt": "February 27, 2026 at 12:05PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　侍ジャパンとの対戦熱望「将来的にはそこに入れるような選手になりたい」(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/APE12OfIVZ",
+    "userName": "RioSaito516",
+    "tweetUrl": "https://twitter.com/RioSaito516/status/2027226206622621887",
+    "createdAt": "February 27, 2026 at 12:36PM"
+  },
+  {
+    "text": "【記事全文】阪神ドラ2・谷端将伍　侍ジャパンとの対戦熱望「将来的にはそこに入れるような選手になりたい」 - スポニチ Sponichi Annex 野球 https://t.co/dIQit2EI1D",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2027226589663199379",
+    "createdAt": "February 27, 2026 at 12:37PM"
+  },
+  {
+    "text": "【「入りたい」じゃない、「入るんだ」。その強気な瞳に、虎の未来を託したくなった。】\n\nドラフト2位、谷端将伍。\n彼が見据えているのは、単なるプロ野球選手としてのスタートラインではありませんでした。 🐯✨\n「侍ジャパンと対戦したい」「将来的にはそこに入りたい」 https://t.co/AWT6ir8H3E",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2027229704319627427",
+    "createdAt": "February 27, 2026 at 12:50PM"
+  },
+  {
+    "text": "SGL散歩してきました🚶‍♀️\n\n選手が練習してるとこに遭遇！\n\n富田選手や椎葉選手、今朝丸選手や谷端選手などがいました。\n\n選手がサインしてたのですが、背番号が見えないので誰かわからなかったです。 https://t.co/uWL1LTvyyn",
+    "userName": "nana_masuo2",
+    "tweetUrl": "https://twitter.com/nana_masuo2/status/2027233800863019267",
+    "createdAt": "February 27, 2026 at 01:06PM"
+  },
+  {
+    "text": "東都首位打者の谷端って派手にやばい可能性ないか？？？？？？ https://t.co/C5zmBRBiln",
+    "userName": "WCPXoks5v645532",
+    "tweetUrl": "https://twitter.com/WCPXoks5v645532/status/2027234439366156611",
+    "createdAt": "February 27, 2026 at 01:08PM"
+  },
+  {
+    "text": "@nytgt 最高です😆✨一緒に谷端くん掲げましょう！！私は能登くんも買います！！！",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2027235469772439982",
+    "createdAt": "February 27, 2026 at 01:12PM"
+  },
+  {
+    "text": "谷端がストーリーあげたらこのかわいいアイコンが出現するからずっとこのアイコン使い続けてどうぞ🫰🏻 https://t.co/45jgfmVvjG",
+    "userName": "geheimnis____",
+    "tweetUrl": "https://twitter.com/geheimnis____/status/2027235992957227231",
+    "createdAt": "February 27, 2026 at 01:14PM"
+  },
+  {
+    "text": "【トレード募集】\n求:ルーキーエディション2026\n     石垣・毛利・奥村・櫻井・森・佐藤龍・    平川・櫻井\nシリアル\n \n譲:ルーキーエディション2026\n     立石 200シリ\n     能登100シリ\n     谷端 200シリ\n     過去シリーズ(dmまで）\n\n#ルーキーエディション",
+    "userName": "mao200161",
+    "tweetUrl": "https://twitter.com/mao200161/status/2027263277932433797",
+    "createdAt": "February 27, 2026 at 03:03PM"
+  },
+  {
+    "text": "でも谷端くんおって嬉しい！！",
+    "userName": "Tigers53_love",
+    "tweetUrl": "https://twitter.com/Tigers53_love/status/2027263474901098945",
+    "createdAt": "February 27, 2026 at 03:04PM"
+  },
+  {
+    "text": "【阪神】谷端将伍「どれぐらい差があるか見てみたい」３月３日侍ジャパン戦で学ぶ！注目は牧秀悟(日刊スポーツ)\n\nhttps://t.co/sunCaefaFb",
+    "userName": "huyzgyio",
+    "tweetUrl": "https://twitter.com/huyzgyio/status/2027284838701744455",
+    "createdAt": "February 27, 2026 at 04:29PM"
+  },
+  {
+    "text": "阪神D2[谷端将伍]は虎の【和製ジャッジ】だ！侍ジャパンを震撼させる衝撃 https://t.co/0F1zFK2fB0",
+    "userName": "NWAntenna_III",
+    "tweetUrl": "https://twitter.com/NWAntenna_III/status/2027286122871853357",
+    "createdAt": "February 27, 2026 at 04:34PM"
+  },
+  {
+    "text": "【侍ジャパンvs阪神タイガース戦予想オーダー】\n日本\nD大谷翔平\n9近藤健介\n7森下翔太\n5佐藤輝明\n3岡本和真\n6小園海斗\n4牧原大成\n2坂本誠志郎\n8周東佑京\n1菅野智之\n阪神\n8近本光司\n4中野拓夢\n5谷端将伍\n3大山悠輔\n7前川右京\n9髙寺望夢\nDディベイニー\n2伏見寅威\n6小幡竜平\n1才木浩人\n異論は認めます",
+    "userName": "imspta44",
+    "tweetUrl": "https://twitter.com/imspta44/status/2027304701021286542",
+    "createdAt": "February 27, 2026 at 05:48PM"
+  },
+  {
+    "text": "谷端ルーキーマジ？ https://t.co/6ifqbvMQpE",
+    "userName": "WCPXoks5v645532",
+    "tweetUrl": "https://twitter.com/WCPXoks5v645532/status/2027307200591626432",
+    "createdAt": "February 27, 2026 at 05:57PM"
+  },
+  {
+    "text": "@mao200161 検索より失礼します。\n当方平川銀箔(シークレット)所持しております。立石or谷端と郵送での交換は可能でしょうか？また、過去シリーズで阪神ものございましたら一度相談させていただきたいです。",
+    "userName": "tsuta8san",
+    "tweetUrl": "https://twitter.com/tsuta8san/status/2027322076915523653",
+    "createdAt": "February 27, 2026 at 06:57PM"
+  },
+  {
+    "text": "ちうにちは本気メンバーぽいね\nうちも森下佐藤坂本抜きの本気メンバーでやるのか、それとも木下谷端あたりが出るのか",
+    "userName": "kuwasuraniki",
+    "tweetUrl": "https://twitter.com/kuwasuraniki/status/2027329959686217945",
+    "createdAt": "February 27, 2026 at 07:28PM"
+  },
+  {
+    "text": "メルカリで出品されている野球選手関連グッズなどを紹介していきます！PR\n\n商品名: 阪神タイガース 谷端将伍 直筆サイン 色紙 ドラフト2位\n\n販売価格: 2111円\n\nhttps://t.co/8GxjEUuCy7",
+    "userName": "KswmhkjCc453561",
+    "tweetUrl": "https://twitter.com/KswmhkjCc453561/status/2027343446445625439",
+    "createdAt": "February 27, 2026 at 08:21PM"
+  },
+  {
+    "text": "3年秋？だかの状態で入ってきてたらえぐかったかもだけど、4年でちょっと落としちゃった気がする\nただ、谷端はとんでもない努力家だから、いい選手にはなると思う https://t.co/pLtBhNTFNs",
+    "userName": "5Q0gsoDBE244465",
+    "tweetUrl": "https://twitter.com/5Q0gsoDBE244465/status/2027361741206900851",
+    "createdAt": "February 27, 2026 at 09:34PM"
+  },
+  {
+    "text": "@tatsuya9819 １番〜５番，今季も要警戒だし此処へ立石や谷端が入って来たら更に厄介…｡",
+    "userName": "yokoyan02220222",
+    "tweetUrl": "https://twitter.com/yokoyan02220222/status/2027379145475518678",
+    "createdAt": "February 27, 2026 at 10:43PM"
+  },
+  {
+    "text": "【阪神】\n小幡\nライトで守備練習も多く語らず\n\n｢僕、守ってました？わからないです。まぁまぁ、これから…｣\n\n筒井コーチ\n｢スキルアップを図って、色んなポジションをやりながらという形じゃないですか。谷端や熊谷と一緒。練習の一貫でやっているのかなと｣ https://t.co/U5yxoiDZX5",
+    "userName": "HT_no3939",
+    "tweetUrl": "https://twitter.com/HT_no3939/status/2027400299821089044",
+    "createdAt": "February 28, 2026 at 12:07AM"
+  },
+  {
+    "text": "阪神D2位?谷端将伍、3?3日本代表戦「出たい気持ち」「大事な一日になると思います」\n\nhttps://t.co/YW7zjpQBae",
+    "userName": "Ghfyu136806",
+    "tweetUrl": "https://twitter.com/Ghfyu136806/status/2027436961603195214",
+    "createdAt": "February 28, 2026 at 02:33AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端３・３侍ジャパン戦「感じたい」出場意欲将来的代表入りへ「しっかり目に焼き付けて」 ［ニュース / スポーツ / NBP / 阪神タイガース / 野球］\nhttps://t.co/RxHgNuV4zA",
+    "userName": "dstore_803",
+    "tweetUrl": "https://twitter.com/dstore_803/status/2027439894898082099",
+    "createdAt": "February 28, 2026 at 02:45AM"
+  },
+  {
+    "text": "阪神D2位?谷端将伍、3?3日本代表戦「出たい気持ち」「大事な一日になると思います」\n\nhttps://t.co/sPrc3ihoBj",
+    "userName": "ZhuniRi",
+    "tweetUrl": "https://twitter.com/ZhuniRi/status/2027475405343805446",
+    "createdAt": "February 28, 2026 at 05:06AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】ドラ２谷端将伍　打撃好調も土のグラウンドに苦戦「どんなバウンドになるか分からない」 https://t.co/Td7rNNUDKi #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2027480642569510916",
+    "createdAt": "February 28, 2026 at 05:27AM"
+  },
+  {
+    "text": "谷端くん岡城くん初めて甲子園で練習？頑張れ〜\nそしておばちまで外野練習してるの",
+    "userName": "blau_luchs",
+    "tweetUrl": "https://twitter.com/blau_luchs/status/2027490810149896293",
+    "createdAt": "February 28, 2026 at 06:07AM"
+  },
+  {
+    "text": "谷端 ショート練習きたわ！\n #日刊スポーツ\n #阪神 https://t.co/1jxk4Fcywj",
+    "userName": "p1y19ciwgg61650",
+    "tweetUrl": "https://twitter.com/p1y19ciwgg61650/status/2027492575817748527",
+    "createdAt": "February 28, 2026 at 06:14AM"
+  },
+  {
+    "text": ">>>筒井外野守備兼走塁チーフコーチは「スキルアップを図って、内野の選手が外野で足を動かすことは多々ある。熊谷や谷端と一緒」と説明したが、浅い打球へのスライディング、クッションボールの処理など、本番さながらの動きだった。\n\nhttps://t.co/ffHkbMf3d9",
+    "userName": "ASOB3826",
+    "tweetUrl": "https://twitter.com/ASOB3826/status/2027492952575275375",
+    "createdAt": "February 28, 2026 at 06:16AM"
+  },
+  {
+    "text": "筒井コーチ\n「スキルアップを図って、いろんなポジションやりながらという形じゃないですか。谷端や熊谷と一緒です。練習の一貫でやっているのかなと」\n\nhttps://t.co/E54A7O21dq",
+    "userName": "ASOB3826",
+    "tweetUrl": "https://twitter.com/ASOB3826/status/2027493201708519727",
+    "createdAt": "February 28, 2026 at 06:17AM"
   }
 ]
