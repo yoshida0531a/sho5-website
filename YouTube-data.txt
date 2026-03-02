@@ -1870,5 +1870,29 @@
     "publishedAt": "March 2, 2026 at 01:24AM",
     "description": "昨日、糸井さんのイベントに行ったので、その動画も入れています。 ※主催者に動画掲載確認済みです。 ◇藤川監督が超異例の谷 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神対韓国代表3/2🔥】レフト争いが熱い‼️谷端も安打‼️ モレッタ、ドリス、岩崎０封一安心‼️ #阪神タイガース＃阪神タイガースたしなむ#wbc 阪神対韓国代表3/2",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KAopugkIHS4",
+    "publishedAt": "March 2, 2026 at 04:30PM",
+    "description": "圧倒的な考察力で、愛と礼儀を持って忖度無しで語らさせて頂いております❗️ 【2025.3.23に開設の新しいチャンネルです  】 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神谷端、衝撃初安打！柳賢振超え、劇的展開判明？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=HYYqnodvqYU",
+    "publishedAt": "March 2, 2026 at 07:29PM",
+    "description": "ついに！阪神タイガース、ドラフト2位ルーキー・谷端将伍選手がプロ初安打を記録！   試合は3-3の緊迫した7回2死、しかも相手 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【初安打はメジャー78勝左腕から】ドラ2 谷端将悟 センター前へプロ実戦初安打を放つ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=BD9jh7QrQFQ",
+    "publishedAt": "March 2, 2026 at 09:28PM",
+    "description": "NPB #プロ野球 #阪神タイガース #阪神 #タイガース #hanshin #tigers #甲子園 #阪神甲子園球場 #SGL #SGLスタジアム #熱覇 ...",
+    "keyword": "谷端 阪神"
   }
 ]
