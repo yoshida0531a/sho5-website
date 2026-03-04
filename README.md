@@ -117,24 +117,24 @@ cd photo-gallery-worker
 ./resize-photos.sh
 ```
 - Enterキー2回でデフォルト設定使用
-- 元写真: `~/Pictures/shogo写真データ/original`
-- 出力先: `~/Pictures/shogo写真データ/resized`
+- 元写真: `~/Pictures/sho5org/original`
+- 出力先: `~/Pictures/sho5org/resized`
 
 ### ステップ2: 確認
 ```bash
-open ~/Pictures/shogo写真データ/resized
+open ~/Pictures/sho5org/resized
 ```
 - 日付ごとにフォルダ分け
 - 不要な写真を削除
 
 ### ステップ3: アップロード
 ```bash
-npm run upload ~/Pictures/shogo写真データ/resized
+npm run upload ~/Pictures/sho5org/resized
 ```
 
 ### ワンライナー
 ```bash
-cd photo-gallery-worker && ./resize-photos.sh && npm run upload ~/Pictures/shogo写真データ/resized
+cd photo-gallery-worker && ./resize-photos.sh && npm run upload ~/Pictures/sho5org/resized
 ```
 
 ## 画像最適化
@@ -355,7 +355,7 @@ cd photo-gallery-worker && npm install
 ## 推奨フォルダ構成
 
 ```
-~/Pictures/shogo写真データ/
+~/Pictures/sho5org/
 ├── original/     # カメラから取り込んだ元写真
 ├── resized/      # リサイズ済み（日付整理）
 └── archive/      # アップロード済み元写真（バックアップ）
