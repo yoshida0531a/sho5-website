@@ -37,14 +37,15 @@ class PhotoUploader {
   }
 
   // 単一ファイルをアップロード
-  async uploadFile(filePath) {
+  async uploadFile(filePath, index = null, total = null) {
     try {
       const fileName = path.basename(filePath);
       const dateTime = await getPhotoDateTime(filePath);
       const date = formatDate(dateTime, filePath);
       const key = `${date}/${fileName}`;
 
-      console.log(`アップロード中: ${fileName} -> ${key}`);
+      const progress = index !== null && total !== null ? `[${index}/${total}] ` : '';
+      console.log(`${progress}アップロード中: ${fileName} -> ${key}`);
       console.log(`撮影日時: ${dateTime || '不明'}`);
 
       // 一時的なリサイズファイルを作成
@@ -53,7 +54,9 @@ class PhotoUploader {
         fs.mkdirSync(tempDir, { recursive: true });
       }
       
-      const resizedPath = path.join(tempDir, fileName);
+      // 並列実行時のファイル名衝突を避けるためユニークなサフィックスを付与
+      const uniqueSuffix = `${Date.now()}_${Math.random().toString(36).slice(2)}_${process.pid}`;
+      const resizedPath = path.join(tempDir, `${uniqueSuffix}_${fileName}`);
       
       // リサイズ実行
       const resizeSuccess = await this.resizeImage(filePath, resizedPath);
@@ -113,8 +116,22 @@ class PhotoUploader {
     return imageFiles;
   }
 
+  // 並列アップロード
+  async uploadInParallel(files, concurrency) {
+    const results = [];
+    const total = files.length;
+    for (let i = 0; i < files.length; i += concurrency) {
+      const chunk = files.slice(i, i + concurrency);
+      const chunkResults = await Promise.all(
+        chunk.map((f, j) => this.uploadFile(f, i + j + 1, total))
+      );
+      results.push(...chunkResults);
+    }
+    return results;
+  }
+
   // フォルダ内の全写真をアップロード
-  async uploadFolder(folderPath) {
+  async uploadFolder(folderPath, concurrency = 5) {
     console.log(`📁 フォルダをスキャン中: ${folderPath}`);
     
     if (!fs.existsSync(folderPath)) {
@@ -135,20 +152,13 @@ class PhotoUploader {
     console.log(`📸 ${files.length}枚の画像を発見`);
     
     // 制限内に収まるかチェック（基本制限のみ）
-    if (files.length > 2000) {
-      console.error(`❌ 一度にアップロードできる枚数は2000枚までです`);
+    if (files.length > 3000) {
+      console.error(`❌ 一度にアップロードできる枚数は3000枚までです`);
       console.error(`📊 発見枚数: ${files.length}枚`);
       return;
     }
 
-    const results = [];
-    for (const filePath of files) {
-      const result = await this.uploadFile(filePath);
-      results.push(result);
-      
-      // 少し待機（API制限回避）
-      await new Promise(resolve => setTimeout(resolve, 100));
-    }
+    const results = await this.uploadInParallel(files, concurrency);
 
     const successful = results.filter(r => r.success).length;
     const failed = results.filter(r => !r.success).length;
@@ -164,12 +174,24 @@ class PhotoUploader {
 // 使用例
 const uploader = new PhotoUploader();
 
-// コマンドライン引数からフォルダパスを取得
+// コマンドライン引数からフォルダパスと並列数を取得
 const folderPath = process.argv[2];
 if (!folderPath) {
-  console.log('使用方法: node upload-photos.js [フォルダパス]');
+  console.log('使用方法: node upload-photos.js [フォルダパス] [--concurrency <N>]');
   console.log('例: node upload-photos.js "/Users/akira/Pictures/shogo写真データ"');
+  console.log('例: node upload-photos.js "/Users/akira/Pictures/shogo写真データ" --concurrency 3');
   process.exit(1);
 }
 
-uploader.uploadFolder(folderPath).catch(console.error);
+const concurrencyIndex = process.argv.indexOf('--concurrency');
+let concurrency = 5;
+if (concurrencyIndex !== -1 && process.argv[concurrencyIndex + 1]) {
+  const parsed = parseInt(process.argv[concurrencyIndex + 1], 10);
+  if (isNaN(parsed) || parsed < 1) {
+    console.warn(`⚠️  無効な並列数が指定されました。デフォルト値(5)を使用します。`);
+  } else {
+    concurrency = Math.max(1, Math.min(10, parsed));
+  }
+}
+
+uploader.uploadFolder(folderPath, concurrency).catch(console.error);
