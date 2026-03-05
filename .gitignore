@@ -17,6 +17,9 @@ temp/
 temp_resize/
 *.tmp
 
+# Upload progress tracking
+upload-progress.json
+
 # Log files
 *.log
 
