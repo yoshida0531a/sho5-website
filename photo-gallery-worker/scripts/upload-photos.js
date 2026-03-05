@@ -1,10 +1,21 @@
 import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
+import readline from 'readline';
 import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
 import { resizeImageWithSips } from './utils/image-utils.js';
 
 // 写真アップロードスクリプト
+
+// stdin から1行読み込んで返す
+function askQuestion(query) {
+  const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+  return new Promise(resolve => rl.question(query, answer => {
+    rl.close();
+    resolve(answer);
+  }));
+}
+
 class PhotoUploader {
   constructor(bucketName = 'sho5-gallery-photos') {
     this.bucketName = bucketName;
@@ -149,12 +160,11 @@ class PhotoUploader {
 
     const files = this.findImageFiles(folderPath);
 
-    console.log(`📸 ${files.length}枚の画像を発見`);
-    
-    // 制限内に収まるかチェック（基本制限のみ）
-    if (files.length > 3000) {
-      console.error(`❌ 一度にアップロードできる枚数は3000枚までです`);
-      console.error(`📊 発見枚数: ${files.length}枚`);
+    console.log(`📸 ${files.length}枚の写真が見つかりました。`);
+    const answer = await askQuestion('アップロードを開始しますか？ (y/n): ');
+    if (answer !== 'y' && answer !== 'Y') {
+      console.log('キャンセルしました。');
+      await closeExiftool();
       return;
     }
 

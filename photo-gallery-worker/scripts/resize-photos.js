@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
+import readline from 'readline';
 import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
 import { resizeImageWithSips } from './utils/image-utils.js';
 
@@ -41,6 +42,42 @@ if (os.platform() !== 'darwin') {
   console.error('❌ このスクリプトはmacOS専用です（sipsコマンドを使用）');
   console.log('💡 他のOSの場合は、ImageMagickなど別のツールをご使用ください\n');
   process.exit(1);
+}
+
+// サブフォルダを再帰的にスキャンして対象画像ファイルを返す
+function findImageFiles(folderPath) {
+  let imageFiles = [];
+
+  try {
+    const entries = fs.readdirSync(folderPath, { withFileTypes: true });
+
+    for (const entry of entries) {
+      const fullPath = path.join(folderPath, entry.name);
+
+      if (entry.isDirectory()) {
+        try {
+          imageFiles.push(...findImageFiles(fullPath));
+        } catch (error) {
+          console.warn(`⚠️  スキップ: ${fullPath} (${error.message})`);
+        }
+      } else if (entry.isFile() && CONFIG.supportedFormats.includes(path.extname(entry.name))) {
+        imageFiles.push(fullPath);
+      }
+    }
+  } catch (error) {
+    console.warn(`⚠️  ディレクトリ読み取りエラー: ${folderPath} (${error.message})`);
+  }
+
+  return imageFiles;
+}
+
+// stdin から1行読み込んで返す
+function askQuestion(query) {
+  const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+  return new Promise(resolve => rl.question(query, answer => {
+    rl.close();
+    resolve(answer);
+  }));
 }
 
 // 画像をリサイズ
@@ -91,13 +128,8 @@ async function processFile(filePath) {
 async function main() {
   console.log('📋 ファイルをスキャン中...\n');
   
-  // 対応フォーマットのファイルを取得
-  const files = fs.readdirSync(CONFIG.sourceFolder)
-    .filter(file => {
-      const ext = path.extname(file);
-      return CONFIG.supportedFormats.includes(ext);
-    })
-    .map(file => path.join(CONFIG.sourceFolder, file));
+  // 対応フォーマットのファイルを再帰的に取得
+  const files = findImageFiles(CONFIG.sourceFolder);
   
   if (files.length === 0) {
     console.log('⚠️  処理対象のファイルが見つかりませんでした\n');
@@ -106,8 +138,15 @@ async function main() {
     return;
   }
   
-  console.log(`📸 ${files.length}枚の画像を発見しました\n`);
-  console.log('🚀 リサイズを開始します...\n');
+  console.log(`📸 ${files.length}枚の写真が見つかりました。`);
+  const answer = await askQuestion('リサイズを開始しますか？ (y/n): ');
+  if (answer !== 'y' && answer !== 'Y') {
+    console.log('キャンセルしました。');
+    await closeExiftool();
+    return;
+  }
+
+  console.log('\n🚀 リサイズを開始します...\n');
   
   // 各ファイルを処理
   const results = [];
