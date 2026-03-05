@@ -2,10 +2,14 @@ import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import readline from 'readline';
+import { fileURLToPath } from 'url';
 import { getPhotoDateTime, formatDate, closeExiftool } from './utils/exif-utils.js';
 import { resizeImageWithSips } from './utils/image-utils.js';
 
 // 写真アップロードスクリプト
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const PROGRESS_FILE = path.join(__dirname, '..', 'upload-progress.json');
 
 // stdin から1行読み込んで返す
 function askQuestion(query) {
@@ -16,10 +20,70 @@ function askQuestion(query) {
   }));
 }
 
+// ミリ秒を HH:MM:SS 形式にフォーマット
+function formatDuration(ms) {
+  const totalSeconds = Math.floor(ms / 1000);
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+  return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+}
+
 class PhotoUploader {
   constructor(bucketName = 'sho5-gallery-photos') {
     this.bucketName = bucketName;
     this.imageExtensionPattern = /\.(jpg|jpeg|png)$/i;
+    this._startedAt = new Date().toISOString();
+  }
+
+  // 進捗ファイルを読み込む
+  loadProgress() {
+    if (fs.existsSync(PROGRESS_FILE)) {
+      try {
+        const data = JSON.parse(fs.readFileSync(PROGRESS_FILE, 'utf-8'));
+        return {
+          folderPath: data.folderPath,
+          startedAt: data.startedAt,
+          updatedAt: data.updatedAt,
+          completed: new Set(data.completed || []),
+          failed: new Set(data.failed || []),
+        };
+      } catch (error) {
+        console.warn('⚠️  進捗ファイルの読み込みに失敗しました:', error.message);
+      }
+    }
+    return null;
+  }
+
+  // 進捗ファイルを保存する
+  saveProgress(folderPath, completed, failed) {
+    const data = {
+      folderPath,
+      startedAt: this._startedAt,
+      updatedAt: new Date().toISOString(),
+      completed: [...completed],
+      failed: [...failed],
+    };
+    fs.writeFileSync(PROGRESS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  }
+
+  // 進捗ファイルを削除する
+  deleteProgress() {
+    if (fs.existsSync(PROGRESS_FILE)) {
+      fs.unlinkSync(PROGRESS_FILE);
+    }
+  }
+
+  // 進捗をコンソールに表示する
+  displayProgress(current, total, startTime, successCount, failureCount) {
+    const elapsed = Date.now() - startTime;
+    const percent = ((current / total) * 100).toFixed(1);
+    const speed = elapsed > 0 ? current / (elapsed / 1000) : 0;
+    const remaining = total - current;
+    const estimatedMs = speed > 0 ? (remaining / speed) * 1000 : 0;
+    console.log(
+      `[${current}/${total}] ${percent}% | 経過: ${formatDuration(elapsed)} | 残り推定: ${formatDuration(estimatedMs)} | ✅成功: ${successCount} ❌失敗: ${failureCount}`
+    );
   }
 
   // 無料枠チェック
@@ -48,15 +112,14 @@ class PhotoUploader {
   }
 
   // 単一ファイルをアップロード
-  async uploadFile(filePath, index = null, total = null) {
+  async uploadFile(filePath) {
     try {
       const fileName = path.basename(filePath);
       const dateTime = await getPhotoDateTime(filePath);
       const date = formatDate(dateTime, filePath);
       const key = `${date}/${fileName}`;
 
-      const progress = index !== null && total !== null ? `[${index}/${total}] ` : '';
-      console.log(`${progress}アップロード中: ${fileName} -> ${key}`);
+      console.log(`アップロード中: ${fileName} -> ${key}`);
       console.log(`撮影日時: ${dateTime || '不明'}`);
 
       // 一時的なリサイズファイルを作成
@@ -127,18 +190,41 @@ class PhotoUploader {
     return imageFiles;
   }
 
-  // 並列アップロード
-  async uploadInParallel(files, concurrency) {
-    const results = [];
-    const total = files.length;
-    for (let i = 0; i < files.length; i += concurrency) {
-      const chunk = files.slice(i, i + concurrency);
-      const chunkResults = await Promise.all(
-        chunk.map((f, j) => this.uploadFile(f, i + j + 1, total))
+  // 並列アップロード（進捗追跡付き）
+  async uploadInParallel(filesToUpload, concurrency, folderPath, completed, failed, sessionStartTime) {
+    // totalFiles = 完了済み + 今回処理する分（失敗再試行含む）= allFiles.length と等しい
+    const totalFiles = completed.size + filesToUpload.length;
+    // 前回セッションの完了数をベースに表示上のカウンタを開始
+    let processedCount = completed.size;
+    let successCount = completed.size;
+    let failureCount = 0;
+
+    for (let i = 0; i < filesToUpload.length; i += concurrency) {
+      const chunk = filesToUpload.slice(i, i + concurrency);
+      await Promise.all(
+        chunk.map(async (f) => {
+          const result = await this.uploadFile(f);
+          processedCount++;
+
+          if (result.success) {
+            successCount++;
+            completed.add(f);
+            // 失敗リストから除外（前回失敗して今回成功した場合）
+            failed.delete(f);
+          } else {
+            failureCount++;
+            failed.add(f);
+          }
+
+          // 進捗を表示
+          this.displayProgress(processedCount, totalFiles, sessionStartTime, successCount, failureCount);
+          // アップロード毎に即座に進捗ファイルを保存
+          this.saveProgress(folderPath, completed, failed);
+        })
       );
-      results.push(...chunkResults);
     }
-    return results;
+
+    return { successCount, failureCount };
   }
 
   // フォルダ内の全写真をアップロード
@@ -158,9 +244,43 @@ class PhotoUploader {
       return;
     }
 
-    const files = this.findImageFiles(folderPath);
+    // 前回の進捗を確認
+    let completed = new Set();
+    let failed = new Set();
+    let resume = false;
 
-    console.log(`📸 ${files.length}枚の写真が見つかりました。`);
+    const prevProgress = this.loadProgress();
+    if (prevProgress && prevProgress.folderPath === folderPath) {
+      const answer = await askQuestion(
+        `📂 前回の進捗ファイルが見つかりました（完了: ${prevProgress.completed.size}枚, 失敗: ${prevProgress.failed.size}枚）。前回の続きから再開しますか？ (y/n): `
+      );
+      if (answer === 'y' || answer === 'Y') {
+        completed = prevProgress.completed;
+        failed = prevProgress.failed;
+        this._startedAt = prevProgress.startedAt;
+        resume = true;
+        console.log(`🔄 ${completed.size}枚をスキップして続きから再開します。`);
+      } else {
+        console.log('🆕 最初からやり直します。');
+        this._startedAt = new Date().toISOString();
+      }
+    }
+
+    const allFiles = this.findImageFiles(folderPath);
+    // 完了済みファイルをスキップ（失敗ファイルは再試行対象）
+    const filesToUpload = allFiles.filter(f => !completed.has(f));
+
+    console.log(`📸 ${allFiles.length}枚の写真が見つかりました。${resume ? `（${completed.size}枚スキップ）` : ''} 残り${filesToUpload.length}枚をアップロードします。`);
+
+    if (filesToUpload.length === 0) {
+      console.log('✅ すべてのファイルがアップロード済みです。');
+      if (failed.size === 0) {
+        this.deleteProgress();
+      }
+      await closeExiftool();
+      return;
+    }
+
     const answer = await askQuestion('アップロードを開始しますか？ (y/n): ');
     if (answer !== 'y' && answer !== 'Y') {
       console.log('キャンセルしました。');
@@ -168,15 +288,25 @@ class PhotoUploader {
       return;
     }
 
-    const results = await this.uploadInParallel(files, concurrency);
+    // 進捗ファイルを初期化（再開時は既存データを保持）
+    this.saveProgress(folderPath, completed, failed);
 
-    const successful = results.filter(r => r.success).length;
-    const failed = results.filter(r => !r.success).length;
-    
+    const sessionStartTime = Date.now();
+    const { successCount, failureCount } = await this.uploadInParallel(
+      filesToUpload, concurrency, folderPath, completed, failed, sessionStartTime
+    );
+
     console.log(`\n📊 アップロード結果:`);
-    console.log(`✅ 成功: ${successful}枚`);
-    console.log(`❌ 失敗: ${failed}枚`);
-    
+    console.log(`✅ 成功: ${successCount}枚`);
+    console.log(`❌ 失敗: ${failureCount}枚`);
+
+    if (failureCount === 0) {
+      this.deleteProgress();
+      console.log('🎉 全件アップロード完了！進捗ファイルを削除しました。');
+    } else {
+      console.log(`⚠️  ${failureCount}件の失敗があります。次回実行時に再試行されます。`);
+    }
+
     await closeExiftool();
   }
 }
