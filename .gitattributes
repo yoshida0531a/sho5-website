@@ -1,0 +1,5 @@
+# Shell scripts - ensure LF line endings and executable bit
+photo-gallery-worker/upload.sh eol=lf
+photo-gallery-worker/resize-photos.sh eol=lf
+scripts/create-top-images.sh eol=lf
+scripts/optimize-top-images.sh eol=lf
