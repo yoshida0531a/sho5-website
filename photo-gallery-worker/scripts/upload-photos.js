@@ -178,8 +178,8 @@ const uploader = new PhotoUploader();
 const folderPath = process.argv[2];
 if (!folderPath) {
   console.log('使用方法: node upload-photos.js [フォルダパス] [--concurrency <N>]');
-  console.log('例: node upload-photos.js "/Users/akira/Pictures/shogo写真データ"');
-  console.log('例: node upload-photos.js "/Users/akira/Pictures/shogo写真データ" --concurrency 3');
+  console.log('例: node upload-photos.js "/Users/akira/Pictures/sho5org"');
+  console.log('例: node upload-photos.js "/Users/akira/Pictures/sho5org" --concurrency 3');
   process.exit(1);
 }
 
