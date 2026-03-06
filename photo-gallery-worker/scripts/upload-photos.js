@@ -147,7 +147,13 @@ class PhotoUploader {
         '--remote'
       ];
 
-      execSync(command.join(' '), { stdio: 'inherit' });
+      execSync(command.join(' '), {
+        stdio: 'inherit',
+        env: {
+          ...process.env,
+          CLOUDFLARE_API_TOKEN: process.env.CLOUDFLARE_API_TOKEN,
+        },
+      });
       
       // 一時ファイルを削除
       fs.unlinkSync(resizedPath);

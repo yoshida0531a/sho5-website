@@ -22,7 +22,9 @@
 #
 # 前提条件:
 #   - Node.js がインストールされていること
-#   - npx wrangler login で Cloudflare に認証済みであること
+#   - 環境変数 CLOUDFLARE_API_TOKEN に Cloudflare API Token が設定されていること
+#     例: export CLOUDFLARE_API_TOKEN="your_token_here"  (~/.zshrc 等に記載)
+#     APIトークン発行: https://dash.cloudflare.com/profile/api-tokens
 #   - このスクリプトに実行権限が付与されていること: chmod +x upload.sh
 # =============================================================================
 
@@ -43,19 +45,25 @@ if [ ! -d "node_modules" ]; then
   fi
 fi
 
-# Cloudflare ログイン状態を確認
-echo "🔐 Cloudflare ログイン状態を確認中..."
-if ! npx wrangler whoami > /dev/null 2>&1; then
+# Cloudflare 認証確認（API Token 方式）
+echo "🔐 Cloudflare 認証を確認中..."
+if [ -z "${CLOUDFLARE_API_TOKEN:-}" ]; then
   echo ""
-  echo "⚠️  Cloudflare にログインしていません。ログインを開始します..."
-  npx wrangler login
-  # ログイン後に再確認
-  if ! npx wrangler whoami > /dev/null 2>&1; then
-    echo "❌ ログインに失敗しました。再度お試しください。"
-    exit 1
-  fi
+  echo "❌ 環境変数 CLOUDFLARE_API_TOKEN が設定されていません。"
+  echo "   ~/.zshrc または ~/.bashrc に以下を追加してください："
+  echo "   export CLOUDFLARE_API_TOKEN=\"あなたのAPIトークン\""
+  echo ""
+  echo "   APIトークンは Cloudflare Dashboard で発行できます："
+  echo "   https://dash.cloudflare.com/profile/api-tokens"
+  exit 1
 fi
-echo "✅ Cloudflare ログイン済み"
+
+# wrangler は CLOUDFLARE_API_TOKEN を自動認識するので whoami で確認
+if ! npx wrangler whoami > /dev/null 2>&1; then
+  echo "❌ Cloudflare 認証に失敗しました。APIトークンが正しいか確認してください。"
+  exit 1
+fi
+echo "✅ Cloudflare 認証済み"
 
 # ソースフォルダを引数または対話的に入力
 DEFAULT_FOLDER="$HOME/Pictures/sho5org/original"
