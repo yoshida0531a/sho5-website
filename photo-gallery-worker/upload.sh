@@ -47,10 +47,13 @@ fi
 echo "🔐 Cloudflare ログイン状態を確認中..."
 if ! npx wrangler whoami > /dev/null 2>&1; then
   echo ""
-  echo "⚠️  Cloudflare にログインしていません。"
-  echo "以下のコマンドでログインしてから再度実行してください:"
-  echo "  npx wrangler login"
-  exit 1
+  echo "⚠️  Cloudflare にログインしていません。ログインを開始します..."
+  npx wrangler login
+  # ログイン後に再確認
+  if ! npx wrangler whoami > /dev/null 2>&1; then
+    echo "❌ ログインに失敗しました。再度お試しください。"
+    exit 1
+  fi
 fi
 echo "✅ Cloudflare ログイン済み"
 
