@@ -1894,5 +1894,13 @@
     "publishedAt": "March 2, 2026 at 09:28PM",
     "description": "NPB #プロ野球 #阪神タイガース #阪神 #タイガース #hanshin #tigers #甲子園 #阪神甲子園球場 #SGL #SGLスタジアム #熱覇 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2026.3.7 春季教育リーグ ソフトバンクホークスー阪神タイガース】#阪神タイガース   #sglスタジアム    #岡城快生 #谷端将伍 #前川右京  #梅野隆太郎 #西純矢 #百﨑蒼生",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Ltxgn0L38n4",
+    "publishedAt": "March 7, 2026 at 08:43PM",
+    "description": "2026.3.7 春季教育リーグ ソフトバンクホークス 0-7 阪神タイガース.",
+    "keyword": "谷端 阪神"
   }
 ]
