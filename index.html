@@ -7,7 +7,9 @@
   <meta name="description" content="谷端将伍の応援サイト。阪神タイガース2024年ドラフト2位指名。日本大学野球部出身、侍ジャパン大学代表。Xポスト、YouTube動画、写真、スケジュール情報を発信しています。">
   <link rel="canonical" href="https://sho5.org/">
   <!-- Preload first slideshow image for faster LCP -->
-  <link rel="preload" as="image" href="assets/images/top_pc1.JPG">
+  <link rel="preload" as="image" href="assets/images/top_pc1.webp" type="image/webp">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <script type="application/ld+json">
   {
@@ -129,11 +131,31 @@
   <header>Sho5 Fun Site</header>
 
   <div class="slideshow">
-    <img src="assets/images/top_pc1.JPG" alt="Slide 1" class="active" fetchpriority="high">
-    <img src="assets/images/top_pc2.JPG" alt="Slide 2" loading="lazy">
-    <img src="assets/images/top_pc3.JPG" alt="Slide 3" loading="lazy">
-    <img src="assets/images/top_pc4.JPG" alt="Slide 4" loading="lazy">
-    <img src="assets/images/top_pc5.JPG" alt="Slide 5" loading="lazy">
+    <picture>
+      <source media="(max-width: 767px)" srcset="assets/images/top_sp1.webp" type="image/webp">
+      <source srcset="assets/images/top_pc1.webp" type="image/webp">
+      <img src="assets/images/top_pc1.JPG" alt="Slide 1" class="active" fetchpriority="high">
+    </picture>
+    <picture>
+      <source media="(max-width: 767px)" srcset="assets/images/top_sp2.webp" type="image/webp">
+      <source srcset="assets/images/top_pc2.webp" type="image/webp">
+      <img src="assets/images/top_pc2.JPG" alt="Slide 2" loading="lazy">
+    </picture>
+    <picture>
+      <source media="(max-width: 767px)" srcset="assets/images/top_sp3.webp" type="image/webp">
+      <source srcset="assets/images/top_pc3.webp" type="image/webp">
+      <img src="assets/images/top_pc3.JPG" alt="Slide 3" loading="lazy">
+    </picture>
+    <picture>
+      <source media="(max-width: 767px)" srcset="assets/images/top_sp4.webp" type="image/webp">
+      <source srcset="assets/images/top_pc4.webp" type="image/webp">
+      <img src="assets/images/top_pc4.JPG" alt="Slide 4" loading="lazy">
+    </picture>
+    <picture>
+      <source media="(max-width: 767px)" srcset="assets/images/top_sp5.webp" type="image/webp">
+      <source srcset="assets/images/top_pc5.webp" type="image/webp">
+      <img src="assets/images/top_pc5.JPG" alt="Slide 5" loading="lazy">
+    </picture>
 
     <div class="indicators">
       <button data-slide="0" class="active">•</button>
