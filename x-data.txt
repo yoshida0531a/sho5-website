@@ -13024,5 +13024,281 @@
     "userName": "sportsfan03x44",
     "tweetUrl": "https://twitter.com/sportsfan03x44/status/2030753289919144265",
     "createdAt": "March 9, 2026 at 06:11AM"
+  },
+  {
+    "text": "おお、阪神のルーキーカードセット売ってるわ！緑箔サイン羨ましすぎるでござる。\n\n阪神タイガース 立石正広 谷端将伍 ルーキーカードセット 75シリ\nhttps://t.co/sUqY5LhT5a",
+    "userName": "a8100562072249",
+    "tweetUrl": "https://twitter.com/a8100562072249/status/2030792557853130868",
+    "createdAt": "March 9, 2026 at 08:47AM"
+  },
+  {
+    "text": "立石と谷端の75シリ緑箔サインセット出てる！羨ましいわ\n\n阪神タイガース 立石正広 谷端将伍 ルーキーカードセット 75シリ\nhttps://t.co/qWcqS0Q6lm",
+    "userName": "CaChEmEmOrYqWeR",
+    "tweetUrl": "https://twitter.com/CaChEmEmOrYqWeR/status/2030792774640111667",
+    "createdAt": "March 9, 2026 at 08:48AM"
+  },
+  {
+    "text": "【阪神ファン必見】伝統の一戦で若手守備の課題が浮き彫りに…😱 谷端選手、岡城選手の判断に藤川監督も言及！今後の成長に期待！ #阪神タイガース #プロ野球\n\n▼詳細はこちら\nhttps://t.co/Ow0mZdKxFW",
+    "userName": "yakyumatome9221",
+    "tweetUrl": "https://twitter.com/yakyumatome9221/status/2030802957604995322",
+    "createdAt": "March 9, 2026 at 09:28AM"
+  },
+  {
+    "text": "谷端くんのユニフォーム即発送だって！  \nルーキーなのにこれから楽しみすぎて羨ましい～😭\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/24WiHpRyIt",
+    "userName": "mamorukuni1988",
+    "tweetUrl": "https://twitter.com/mamorukuni1988/status/2030817641607094451",
+    "createdAt": "March 9, 2026 at 10:27AM"
+  },
+  {
+    "text": "ほんま谷端のユニホーム即発送で売ってるで！えぐいわ、ルーキー推しならしゃーないな。\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/UiuIvuKPO9",
+    "userName": "tigersculefan8",
+    "tweetUrl": "https://twitter.com/tigersculefan8/status/2030817930582331769",
+    "createdAt": "March 9, 2026 at 10:28AM"
+  },
+  {
+    "text": "おい、谷端のユニフォーム売っとるで！即発送やて、ルーキー推しにたまらんわ。\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/u67mFthXPC",
+    "userName": "hanshinfan1234",
+    "tweetUrl": "https://twitter.com/hanshinfan1234/status/2030818267808542949",
+    "createdAt": "March 9, 2026 at 10:29AM"
+  },
+  {
+    "text": "阪神の谷端選手ユニフォーム、即発送でゲットできるなんてラッキー！期待のルーキーだよ♪\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/wJuZCeir6c",
+    "userName": "Te3DyFbGx3oL",
+    "tweetUrl": "https://twitter.com/Te3DyFbGx3oL/status/2030818693437849721",
+    "createdAt": "March 9, 2026 at 10:31AM"
+  },
+  {
+    "text": "谷端のユニフォームが即発送なんだろうな。羨ましいな。\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/xCc95PLe36",
+    "userName": "PUrRZQs90bsE",
+    "tweetUrl": "https://twitter.com/PUrRZQs90bsE/status/2030819897249308835",
+    "createdAt": "March 9, 2026 at 10:36AM"
+  },
+  {
+    "text": "谷端のユニホーム即発送だって！最高すぎる…\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/feTB2gPW47",
+    "userName": "gekitomo2024",
+    "tweetUrl": "https://twitter.com/gekitomo2024/status/2030820489065582711",
+    "createdAt": "March 9, 2026 at 10:38AM"
+  },
+  {
+    "text": "谷端将伍のユニホーム、ひたむきさが滲むストライプにうっとり…即発送のLサイズ、狙い目よ！🖋️\n\n【即発送】 谷端将伍 25 阪神タイガース ホーム ユニフォーム Ｌ《受注品》\nhttps://t.co/CdL5PwxTpY",
+    "userName": "fountainenink24",
+    "tweetUrl": "https://twitter.com/fountainenink24/status/2030824604441227282",
+    "createdAt": "March 9, 2026 at 10:54AM"
+  },
+  {
+    "text": "@Stephen_donsama 岡城や谷端、立石という未完の卵に一軍を経験させたのは大きいと思う\n\nあと失点したとはいえ木下もいい仕上がり\n\n木浪使うぐらいなら谷端を我慢強く使って欲しい",
+    "userName": "green8068",
+    "tweetUrl": "https://twitter.com/green8068/status/2030827882835214614",
+    "createdAt": "March 9, 2026 at 11:07AM"
+  },
+  {
+    "text": "谷端将伍のユニ即発送だって！僕も欲しいんだぜ🥹\n\n【即発送】 谷端将伍 #25 阪神タイガース ホームユニフォーム Ｌ《受注品》\nhttps://t.co/e4X5pzBepg",
+    "userName": "azurebloom42",
+    "tweetUrl": "https://twitter.com/azurebloom42/status/2030829905907154950",
+    "createdAt": "March 9, 2026 at 11:15AM"
+  },
+  {
+    "text": "【阪神】念願甲子園デビュー谷端将伍はホロ苦「全然できていない」途中出場でアピールできず猛省(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/SikDeXGER1",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2030838085504942437",
+    "createdAt": "March 9, 2026 at 11:48AM"
+  },
+  {
+    "text": "@torauma_0609 立石がおるよ\n谷端もおるね",
+    "userName": "nakawissimo",
+    "tweetUrl": "https://twitter.com/nakawissimo/status/2030841107773632765",
+    "createdAt": "March 9, 2026 at 12:00PM"
+  },
+  {
+    "text": "T谷端さんの投ゴロ一塁到達は4.1くらい",
+    "userName": "MbaseDballL",
+    "tweetUrl": "https://twitter.com/MbaseDballL/status/2030841516936327351",
+    "createdAt": "March 9, 2026 at 12:02PM"
+  },
+  {
+    "text": "@yasainashi_men 谷端も将来的には、、、\n\n98lineより年下にしても、現状6人でそのうち二人、将来的に10人中四人とか最高でしかないです😊😊😊",
+    "userName": "_tigers2",
+    "tweetUrl": "https://twitter.com/_tigers2/status/2030847163459379495",
+    "createdAt": "March 9, 2026 at 12:24PM"
+  },
+  {
+    "text": "@_tigers2 谷端も期待ですね！\n\n虎の将来が楽しみで仕方ないですね😊\n大成して欲しい！",
+    "userName": "yasainashi_men",
+    "tweetUrl": "https://twitter.com/yasainashi_men/status/2030848257245794681",
+    "createdAt": "March 9, 2026 at 12:28PM"
+  },
+  {
+    "text": "@jtYoYw4RjV78095 こんにちとらほ〜🐯\n\n立石さん、岡田さんにまだって\n谷端さん、しょげてる\n岡城さん、ニコニコ\n\nいろいろと、、、\n\nそそ、嶋村さん大活躍中\n\n今週もよろしくお願いします",
+    "userName": "ZETTON_PONOJI",
+    "tweetUrl": "https://twitter.com/ZETTON_PONOJI/status/2030848456387162509",
+    "createdAt": "March 9, 2026 at 12:29PM"
+  },
+  {
+    "text": "【『最低』を知った男は、あとは『最高』へ駆け上がるだけだ。】\n\n伝統の一戦、満員の聖地。\nあの大歓声の中で味わった「併殺打」の悔しさは、\n画面越しでは計り知れないほど重く、苦いものだったはず。\nそれでも、試合後の谷端将伍から漏れたのは https://t.co/n1XN7rykG5",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://twitter.com/greeeen8316/status/2030891331921547609",
+    "createdAt": "March 9, 2026 at 03:20PM"
+  },
+  {
+    "text": "@HVK5xGOubZgreie ショートとレフト争いがどうなるのか楽しみですね\n\n立石、前川、谷端、岡城、小幡、木浪、高寺、熊谷\n新外国人が爆発しそうなら入れてもいいけど  やっぱり生え抜きでレベルの高いスタメンが組めるのがベストですからねー    \n\n近本中野森下佐藤大山坂本を脅かすのが理想です  嶋村がんばれ!!",
+    "userName": "kyoukatan115",
+    "tweetUrl": "https://twitter.com/kyoukatan115/status/2030892980979355719",
+    "createdAt": "March 9, 2026 at 03:26PM"
+  },
+  {
+    "text": "@tigerschannel72 開幕小幡は確定やろな👍🏼\n嶋村支配下もそろそろ\n岡城くんはポスト近本になり得る\n何よりも肩が強い💪\n谷端立石も頑張ってほしいな",
+    "userName": "e45RoRTw0992260",
+    "tweetUrl": "https://twitter.com/e45RoRTw0992260/status/2030897093343400061",
+    "createdAt": "March 9, 2026 at 03:42PM"
+  },
+  {
+    "text": "若月のエラーも凡退も試合出てない坂本が悪いという謎理論、まんま田中秀太のエラーで鳥谷に理不尽にキレた下柳やんけ\n\n野球ファンは皆阪神ファンということが証明されたね\n\nみんなでテルちゃんを応援しよう\n\n井端、明日のスタメンはわかるよねぇ？",
+    "userName": "horuhis1985",
+    "tweetUrl": "https://twitter.com/horuhis1985/status/2030913099298132436",
+    "createdAt": "March 9, 2026 at 04:46PM"
+  },
+  {
+    "text": "侍ジャパン🇯🇵#井端弘和  監督\n\n#大谷翔平 投手の存在感について\n「試合になったら先頭に立って、声を含めて円陣でやってくれるっていうのは見ていて頼もしいなと思う。残りの試合も全てやってくれるとありがたい」\n\n#WorldBaseballClassic",
+    "userName": "Naoto_SANSPO",
+    "tweetUrl": "https://twitter.com/Naoto_SANSPO/status/2030913139957772582",
+    "createdAt": "March 9, 2026 at 04:46PM"
+  },
+  {
+    "text": "井端の勇姿「鳥谷がスタートしている」を貼っておこう\nhttps://t.co/6qmbZVg8l2",
+    "userName": "motokobayashi",
+    "tweetUrl": "https://twitter.com/motokobayashi/status/2030913988222161069",
+    "createdAt": "March 9, 2026 at 04:50PM"
+  },
+  {
+    "text": "#正反対な君と僕\n自分が谷くんとか平とかの側なので2人のﾃﾝｼｮﾝが落ち着く、そして平が出たあとにてんぷら(ﾈｺ)鳴いてくるの和む～(ФωФ)ﾆｬｰ\n平の言動に引いたり極端に揚げ足とったりしないで自然に空気を混ぜてる鈴木山田東もとてもｲｲ\n外でも自然に手を繋ぐ谷くんもｲｲ\n#坂田将吾 #加藤渉",
+    "userName": "8S69S8",
+    "tweetUrl": "https://twitter.com/8S69S8/status/2030914689044271175",
+    "createdAt": "March 9, 2026 at 04:52PM"
+  },
+  {
+    "text": "うい、わため、リーリヤ…宗谷岬だよ……\nまさかこのメンツで日本最北端に来るとは思わなかったね…… https://t.co/NCumOnfq70",
+    "userName": "harumi551",
+    "tweetUrl": "https://twitter.com/harumi551/status/2030916343256797216",
+    "createdAt": "March 9, 2026 at 04:59PM"
+  },
+  {
+    "text": "「あの回がゼロになってしまうと…」井端弘和監督が語る韓国戦の勝敗を分けたポイント。大谷翔平の同点弾は「かなり好影響を与えた」(ベースボールチャンネル)\n\nhttps://t.co/xkOuBr06Xh",
+    "userName": "shngchngqdi1",
+    "tweetUrl": "https://twitter.com/shngchngqdi1/status/2030916496353083404",
+    "createdAt": "March 9, 2026 at 04:59PM"
+  },
+  {
+    "text": "大谷翔平のリーダーシップに「頼もしい」「残りの試合も全てやってくれると」侍ジャパン井端監督が期待\n#大谷翔平 #shoheiohtani #ベースボールポスト\n記事はこちら▼\nhttps://t.co/3QgZwRDlDM",
+    "userName": "baseballpost_jp",
+    "tweetUrl": "https://twitter.com/baseballpost_jp/status/2030917334349607335",
+    "createdAt": "March 9, 2026 at 05:03PM"
+  },
+  {
+    "text": "大谷翔平のリーダーシップに「頼もしい」「残りの試合も全てやってくれると」侍ジャパン井端監督が期待\n#大谷翔平 #ShoheiOhtani\n記事はこちら▼\nhttps://t.co/hZ2WmYeaiI",
+    "userName": "SportsHochi",
+    "tweetUrl": "https://twitter.com/SportsHochi/status/2030917430566846853",
+    "createdAt": "March 9, 2026 at 05:03PM"
+  },
+  {
+    "text": "大谷翔平のリーダーシップに「頼もしい」「残りの試合も全てやってくれると」侍ジャパン井端監督が期待\n#大谷翔平 #ShoheiOhtani\nhttps://t.co/Wgz0vJXoaO",
+    "userName": "hochi_baseball",
+    "tweetUrl": "https://twitter.com/hochi_baseball/status/2030917808729596231",
+    "createdAt": "March 9, 2026 at 05:05PM"
+  },
+  {
+    "text": "帰宅中のひと暗記！\n\n大谷翔平選手が、まるで主人公のようなWBC。\n昨日は、吉田正尚選手が勝負を決めましたね！\n\nなぜ国際大会には、こんなにもドラマがあるのでしょうか。\n\nところで先日、私が読書用に使っていたタブレット端末に、マルウェアの感染が発覚しました……\n一旦使うのを控えます。 https://t.co/Dsu20yWNOt",
+    "userName": "gihyo_ipass",
+    "tweetUrl": "https://twitter.com/gihyo_ipass/status/2030918215904412081",
+    "createdAt": "March 9, 2026 at 05:06PM"
+  },
+  {
+    "text": "阪神・谷端将伍 「一生懸命プレーすることが一番大事」 実戦で学びながら成長へつなげる／開幕一軍を目指して(週刊ベースボールONLINE)\n\nhttps://t.co/W6e8cWd1kD",
+    "userName": "maishanggaoyin1",
+    "tweetUrl": "https://twitter.com/maishanggaoyin1/status/2030920992936349944",
+    "createdAt": "March 9, 2026 at 05:17PM"
+  },
+  {
+    "text": "阪神・谷端将伍「まったくダメです」初の甲子園巨人戦で併殺も「いい経験になりました」(サンケイスポーツ)\n\nhttps://t.co/Ei5IHUvQaO",
+    "userName": "dfdghh13216",
+    "tweetUrl": "https://twitter.com/dfdghh13216/status/2030949250302095850",
+    "createdAt": "March 9, 2026 at 07:10PM"
+  },
+  {
+    "text": "19時40分より、谷端奏人さんとゲリラセッションをお届け致します☺️\nライブ配信をスタート致します。\nレインボー放送局🌈\nhttps://t.co/mN5aJXOCkA",
+    "userName": "KazuyaRainbow",
+    "tweetUrl": "https://twitter.com/KazuyaRainbow/status/2030956170803073056",
+    "createdAt": "March 9, 2026 at 07:37PM"
+  },
+  {
+    "text": "@mh_tigers_5365 ですね！！\n岡城と谷端はしっかりとSGLで守備練習してもらって一軍で活躍して欲しいですね！！サトテルの後釜と森下みたいな右の打者が育って欲しいです！\n新入団選手で立石も出てたので見たかったですね笑笑",
+    "userName": "N0ANxWuHj1L30mE",
+    "tweetUrl": "https://twitter.com/N0ANxWuHj1L30mE/status/2030959882514657716",
+    "createdAt": "March 9, 2026 at 07:52PM"
+  },
+  {
+    "text": "明日のチェコ戦は谷端とか百崎でも使ってくれ",
+    "userName": "zakk_mac",
+    "tweetUrl": "https://twitter.com/zakk_mac/status/2030996567214501982",
+    "createdAt": "March 9, 2026 at 10:18PM"
+  },
+  {
+    "text": "キムドヨン、アンヒョンミンは若くていいバッターがいるのは確かに韓国の未来は明るい\nでも我が阪神にも同じ22歳の立石、谷端、岡城がいるので虎の未来も明るい",
+    "userName": "furetefuruel1",
+    "tweetUrl": "https://twitter.com/furetefuruel1/status/2030997648812220736",
+    "createdAt": "March 9, 2026 at 10:22PM"
+  },
+  {
+    "text": "ここまでオープン戦出場のあるルーキー（セリーグ編）\n\n阪神：谷端、岡城、能登\n横浜：小田、片山、成瀬\n巨人：竹丸、田和、山城、皆川、小濱、知念\n中日：中西、櫻井、新保、花田、牧野\n広島：平川、齊藤、勝田、赤木、西川、岸本\nヤク：増居",
+    "userName": "hyperwatcher",
+    "tweetUrl": "https://twitter.com/hyperwatcher/status/2031036236597772446",
+    "createdAt": "March 10, 2026 at 12:55AM"
+  },
+  {
+    "text": "社会人の山田裕貴「大谷半端ねぇって！」\n #山田裕貴ANN",
+    "userName": "ktmpfm04",
+    "tweetUrl": "https://twitter.com/ktmpfm04/status/2031056147810279517",
+    "createdAt": "March 10, 2026 at 02:14AM"
+  },
+  {
+    "text": "社会人の山田裕貴「大谷半端ないって！！！！」 #山田裕貴ANN",
+    "userName": "mmiyaaa",
+    "tweetUrl": "https://twitter.com/mmiyaaa/status/2031056529437458767",
+    "createdAt": "March 10, 2026 at 02:16AM"
+  },
+  {
+    "text": "元住吉に住んでた30年前は、毎朝毎晩この長ーいホームを端から端まで歩いてたな\n元住の改札はあっち側端っこ\n渋谷の改札はこっち側端っこ https://t.co/JdIWGbsi6J",
+    "userName": "yonyon147",
+    "tweetUrl": "https://twitter.com/yonyon147/status/2031060734424265020",
+    "createdAt": "March 10, 2026 at 02:33AM"
+  },
+  {
+    "text": "ガイド渋谷事変も改めて眺めて思ったのですがアニメ公式は夏油さんを美化しすぎて草でしたｗ　否、外見的に……ファンとしては喜ぶべきなんだろうけど五条先生と並べて遜色ない美形にするのは…ちょっと。私はよく見れば男前だって気づく程度の地味な端整顔の夏油傑（原作通り）が推せる…まぁ推すけど",
+    "userName": "9tani8ki8ki25",
+    "tweetUrl": "https://twitter.com/9tani8ki8ki25/status/2031061111097950608",
+    "createdAt": "March 10, 2026 at 02:34AM"
+  },
+  {
+    "text": "デザイナーズ制服は1990年辺り。紺ブレブームと共にw平成初期の渋谷JKでしたがルーソはまだショート丈でラルフの紺ハイソが主流でした(ドラマ高校教師リアル世代)卒業した途端にだるっだるのルーズとプリクラが流行り始めた狭間世代でJDブームとJKブームのどちらにも乗れなかった悲しい世代です。 https://t.co/zKab3E9Ar7",
+    "userName": "wlo_olxvxlo_olw",
+    "tweetUrl": "https://twitter.com/wlo_olxvxlo_olw/status/2031061998113550659",
+    "createdAt": "March 10, 2026 at 02:38AM"
+  },
+  {
+    "text": "@nekomatapsy0527 お爺ちゃん、中日新聞しか読んで無いのかな😰❓\n井端は代表監督だしウッズも福留も谷繁ももう居ませんよ⁉️",
+    "userName": "COCORO_WATARI",
+    "tweetUrl": "https://twitter.com/COCORO_WATARI/status/2031071258960605568",
+    "createdAt": "March 10, 2026 at 03:14AM"
+  },
+  {
+    "text": "@sachiocmbtwnts @beauty_saka358 溝口勇児と谷本慎二の比較。\n\n溝口：足立区貧困出身の連続起業家。FiNCで150億調達、BreakingDown成功もWEIN崩壊・サナエトークン炎上。孫・イーロン級の一点突破を期待されつつ「中途半端」と批判。",
+    "userName": "grok",
+    "tweetUrl": "https://twitter.com/grok/status/2031071301935182007",
+    "createdAt": "March 10, 2026 at 03:15AM"
+  },
+  {
+    "text": "目とか #町田(#町田隼乙)も2年目ですし #嶋村(#嶋村麟士朗)も2年目でホームランを打った #タイガース としては時間をかけて選手を育てていく ルーキー #岡城(#岡城快生)も #谷端(#谷端将伍 ?)も…それこそ #立石(#立石正広)もベンチで #山崎(#山崎照英) も代走で三回四回からずっと待機していますから https://t.co/fDHvZFy7d2",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2031071798595575995",
+    "createdAt": "March 10, 2026 at 03:17AM"
   }
 ]
