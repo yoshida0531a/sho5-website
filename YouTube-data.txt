@@ -1918,5 +1918,21 @@
     "publishedAt": "March 8, 2026 at 09:45PM",
     "description": "本動画はNPB規程に従い、収益化オフ、140秒以内。 2026年3月8日 読売ジャイアンツ戦 #阪神タイガース #オープン戦 #阪神 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "T−WAVE　谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=m5iQUBHXJKM",
+    "publishedAt": "March 10, 2026 at 10:45AM",
+    "description": "プロ野球 #甲子園 #阪神タイガース#谷端将伍#T−WAVE.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍（阪神タイガース）ホームラン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6RG1_B5l_ms",
+    "publishedAt": "March 10, 2026 at 06:06PM",
+    "description": "shorts #谷端将伍 #阪神タイガース #日本大学 #ドラフト2位.",
+    "keyword": "谷端 阪神"
   }
 ]
