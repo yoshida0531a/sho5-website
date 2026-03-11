@@ -3,488 +3,439 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shogo Results</title>
-  <meta name="description" content="谷端将伍の打撃成績。今シーズンの打率、本塁打、打点とコース別打率ヒートマップ。">
+  <title>Results - 谷端将伍</title>
+  <meta name="description" content="谷端将伍の試合結果。オープン戦・公式戦の打撃成績とゲームログ。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    *, *::before, *::after { box-sizing: border-box; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
-      background-color: #f8f9fa;
-      color: #212529;
-      padding: 12px;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Hiragino Sans', Meiryo, sans-serif;
+      background-color: white;
+      color: black;
     }
 
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
-      width: 100%;
+    .top-link {
+      position: fixed;
+      top: 12px;
+      left: 16px;
+      font-size: 22px;
+      color: black;
+      text-decoration: none;
+      z-index: 100;
     }
 
     header {
       text-align: center;
-      margin-bottom: 16px;
+      font-size: 28px;
+      font-weight: bold;
+      padding: 16px 0 8px;
     }
 
-    h1 {
-      font-size: 24px;
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 0 12px 40px;
+    }
+
+    /* ── Tabs ── */
+    .tabs {
+      display: flex;
+      border-bottom: 2px solid #000;
+      margin-bottom: 20px;
+    }
+
+    .tab-btn {
+      flex: 1;
+      padding: 10px 0;
+      background: none;
+      border: none;
+      font-family: inherit;
+      font-size: 15px;
       font-weight: 600;
-      color: #212529;
-      margin-bottom: 8px;
+      cursor: pointer;
+      color: #888;
+      border-bottom: 3px solid transparent;
+      margin-bottom: -2px;
     }
 
-    .season-stats {
-      background: white;
+    .tab-btn.active {
+      color: #000;
+      border-bottom-color: #000;
+    }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ── Stats card ── */
+    .stats-card {
+      background: #f8f8f8;
       border-radius: 12px;
-      padding: 16px;
-      margin-bottom: 16px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 14px;
+      margin-bottom: 20px;
     }
 
-    .stats-grid {
+    .stats-card-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: #555;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .stats-row {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
+      gap: 8px;
       text-align: center;
-    }
-
-    .stat-item {
-      padding: 8px;
     }
 
     .stat-label {
-      font-size: 11px;
-      color: #6c757d;
-      margin-bottom: 4px;
-      font-weight: 500;
+      font-size: 10px;
+      color: #777;
+      margin-bottom: 2px;
     }
 
     .stat-value {
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 700;
-      color: #212529;
     }
 
+    .stat-value.highlight {
+      font-size: 22px;
+    }
+
+    /* ── Game log ── */
+    .section-title {
+      font-size: 15px;
+      font-weight: 600;
+      margin: 4px 0 10px;
+    }
+
+    .no-games {
+      text-align: center;
+      color: #999;
+      font-size: 14px;
+      padding: 30px 0;
+    }
+
+    .game-card {
+      border: 1px solid #eee;
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 10px;
+    }
+
+    .game-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .game-date {
+      font-size: 12px;
+      color: #777;
+    }
+
+    .game-matchup {
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    .game-score {
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .result-win  { color: #c0392b; }
+    .result-lose { color: #1e6bbf; }
+    .result-draw { color: #888; }
+
+    .game-stats {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .game-stat {
+      font-size: 13px;
+      color: #555;
+    }
+
+    .game-stat strong {
+      color: #000;
+    }
+
+    /* ── Heatmap ── */
     .heatmap-section {
-      background: white;
-      border-radius: 12px;
-      padding: 16px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      margin-top: 24px;
     }
 
     .heatmap-title {
-      font-size: 16px;
+      font-size: 14px;
       font-weight: 600;
       text-align: center;
-      margin-bottom: 12px;
-      color: #212529;
-    }
-
-    .heatmap-container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 16px;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
     }
 
     .heatmap-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 8px;
-      flex-shrink: 0;
-    }
-
-    .batter-silhouette {
-      flex-shrink: 0;
-      width: 80px;
-      height: auto;
+      gap: 6px;
+      max-width: 270px;
+      margin: 0 auto 10px;
     }
 
     .heatmap-cell {
       aspect-ratio: 1;
       border-radius: 8px;
+      border: 1px solid rgba(0,0,0,0.08);
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      padding: 8px;
-      transition: transform 0.2s;
-      border: 1px solid rgba(0,0,0,0.1);
-    }
-
-    .heatmap-cell:active {
-      transform: scale(0.95);
+      padding: 4px;
     }
 
     .cell-avg {
-      font-size: clamp(20px, 5vw, 32px);
+      font-size: clamp(14px, 4vw, 20px);
       font-weight: 700;
       line-height: 1;
-      margin-bottom: 4px;
+      margin-bottom: 2px;
     }
 
     .cell-detail {
-      font-size: clamp(9px, 2.5vw, 11px);
-      color: #495057;
-      line-height: 1.3;
+      font-size: clamp(8px, 2vw, 10px);
+      color: #555;
       text-align: center;
+      line-height: 1.3;
     }
+
+    .avg-0  { background: #ffffff; }
+    .avg-1  { background: #fff9e6; }
+    .avg-2  { background: #fff3cc; }
+    .avg-3  { background: #ffecb3; }
+    .avg-4  { background: #ffe699; }
+    .avg-5  { background: #ffe080; }
+    .avg-6  { background: #ffdb66; }
+    .avg-7  { background: #ffd54d; }
+    .avg-8  { background: #ffcf33; }
+    .avg-9  { background: #ffc61a; }
+    .avg-10 { background: #ffc000; }
 
     .legend {
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 8px;
-      margin-top: 12px;
+      gap: 6px;
       font-size: 11px;
-      color: #6c757d;
-    }
-
-    .legend-item {
-      display: flex;
-      align-items: center;
-      gap: 4px;
+      color: #777;
     }
 
     .legend-box {
-      width: 16px;
-      height: 16px;
+      width: 14px;
+      height: 14px;
       border-radius: 3px;
       border: 1px solid rgba(0,0,0,0.1);
+      display: inline-block;
     }
 
+    /* ── Misc ── */
     .last-updated {
       text-align: center;
-      margin-top: 12px;
       font-size: 11px;
-      color: #6c757d;
+      color: #bbb;
+      margin-top: 20px;
     }
 
     .loading {
       text-align: center;
-      padding: 40px;
-      color: #6c757d;
-    }
-
-    /* Yellow gradient colors for Hanshin Tigers */
-    .avg-0 {
-      background-color: #ffffff;
-      color: #212529;
-    }
-
-    .avg-1 {
-      background-color: #fff9e6;
-      color: #212529;
-    }
-
-    .avg-2 {
-      background-color: #fff3cc;
-      color: #212529;
-    }
-
-    .avg-3 {
-      background-color: #ffecb3;
-      color: #212529;
-    }
-
-    .avg-4 {
-      background-color: #ffe699;
-      color: #212529;
-    }
-
-    .avg-5 {
-      background-color: #ffe080;
-      color: #212529;
-    }
-
-    .avg-6 {
-      background-color: #ffdb66;
-      color: #212529;
-    }
-
-    .avg-7 {
-      background-color: #ffd54d;
-      color: #212529;
-    }
-
-    .avg-8 {
-      background-color: #ffcf33;
-      color: #000000;
-    }
-
-    .avg-9 {
-      background-color: #ffc61a;
-      color: #000000;
-    }
-
-    .avg-10 {
-      background-color: #ffc000;
-      color: #000000;
-    }
-
-    @media (max-height: 700px) {
-      body {
-        padding: 8px;
-      }
-      
-      h1 {
-        font-size: 20px;
-        margin-bottom: 6px;
-      }
-      
-      .season-stats, .heatmap-section {
-        padding: 12px;
-        margin-bottom: 12px;
-      }
-      
-      .stat-value {
-        font-size: 18px;
-      }
-      
-      .heatmap-grid {
-        gap: 6px;
-      }
-      
-      .cell-avg {
-        font-size: clamp(18px, 4.5vw, 28px);
-      }
-
-      .batter-silhouette {
-        width: 60px;
-      }
-    }
-
-    @media (max-width: 640px) {
-      .stats-grid {
-        grid-template-columns: repeat(3, 1fr);
-      }
-
-      .heatmap-container {
-        gap: 12px;
-      }
-
-      .batter-silhouette {
-        width: 60px;
-      }
+      padding: 60px 0;
+      color: #aaa;
+      font-size: 14px;
     }
   </style>
 </head>
 <body>
+  <a class="top-link" href="index.html">←</a>
+  <header>Results</header>
+
   <div class="container">
-    <header>
-      <h1>打撃成績</h1>
-    </header>
+    <div id="loading" class="loading">読み込み中…</div>
 
-    <div id="loading" class="loading">
-      読み込み中...
-    </div>
-
-    <div id="content" style="display: none;">
-      <div class="season-stats">
-        <div class="stats-grid">
-          <div class="stat-item">
-            <div class="stat-label">試合</div>
-            <div class="stat-value" id="stat-games">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">打率</div>
-            <div class="stat-value" id="stat-avg">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">得点</div>
-            <div class="stat-value" id="stat-runs">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">本塁打</div>
-            <div class="stat-value" id="stat-hr">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">盗塁</div>
-            <div class="stat-value" id="stat-sb">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">犠打</div>
-            <div class="stat-value" id="stat-sh">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">犠飛</div>
-            <div class="stat-value" id="stat-sf">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">四球</div>
-            <div class="stat-value" id="stat-bb">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">死球</div>
-            <div class="stat-value" id="stat-hbp">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">三振</div>
-            <div class="stat-value" id="stat-so">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">併殺打</div>
-            <div class="stat-value" id="stat-gidp">-</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-label">得点圏打率</div>
-            <div class="stat-value" id="stat-risp">-</div>
-          </div>
-        </div>
+    <div id="main-content" style="display:none;">
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="spring">オープン戦</button>
+        <button class="tab-btn" data-tab="regular">公式戦</button>
       </div>
 
-      <div class="heatmap-section">
-        <div class="heatmap-title">コース別打率ヒートマップ</div>
-        <div class="heatmap-container">
-          <div class="heatmap-grid" id="heatmap">
-            <!-- Generated by JavaScript -->
-          </div>
-          <svg class="batter-silhouette" viewBox="0 0 100 200" xmlns="http://www.w3.org/2000/svg">
-            <!-- Right-handed batter silhouette -->
-            <!-- Head -->
-            <circle cx="50" cy="25" r="15" fill="#6c757d" opacity="0.7"/>
-            <!-- Body -->
-            <rect x="40" y="40" width="20" height="50" rx="5" fill="#6c757d" opacity="0.7"/>
-            <!-- Left arm (front) -->
-            <rect x="25" y="50" width="15" height="10" rx="3" fill="#6c757d" opacity="0.7" transform="rotate(-30 32.5 55)"/>
-            <!-- Right arm (back) -->
-            <rect x="60" y="50" width="15" height="10" rx="3" fill="#6c757d" opacity="0.7" transform="rotate(30 67.5 55)"/>
-            <!-- Bat -->
-            <rect x="15" y="35" width="8" height="60" rx="2" fill="#8b4513" opacity="0.8" transform="rotate(-45 19 65)"/>
-            <!-- Legs -->
-            <rect x="38" y="90" width="10" height="45" rx="3" fill="#6c757d" opacity="0.7" transform="rotate(-5 43 112.5)"/>
-            <rect x="52" y="90" width="10" height="45" rx="3" fill="#6c757d" opacity="0.7" transform="rotate(5 57 112.5)"/>
-            <!-- Feet -->
-            <ellipse cx="43" cy="140" rx="8" ry="4" fill="#333" opacity="0.7"/>
-            <ellipse cx="57" cy="140" rx="8" ry="4" fill="#333" opacity="0.7"/>
-          </svg>
+      <!-- Spring Training -->
+      <div class="tab-panel active" id="tab-spring">
+        <div class="stats-card">
+          <div class="stats-card-title">シーズン成績</div>
+          <div class="stats-row" id="spring-summary"></div>
         </div>
-        <div class="legend">
-          <div class="legend-item">
-            <div class="legend-box" style="background-color: #ffffff;"></div>
+        <div class="section-title">試合結果</div>
+        <div id="spring-games"></div>
+      </div>
+
+      <!-- Regular Season -->
+      <div class="tab-panel" id="tab-regular">
+        <div class="stats-card">
+          <div class="stats-card-title">シーズン成績</div>
+          <div class="stats-row" id="regular-summary"></div>
+        </div>
+        <div class="section-title">試合結果</div>
+        <div id="regular-games"></div>
+
+        <div class="heatmap-section" id="heatmap-section" style="display:none;">
+          <div class="heatmap-title">コース別打率</div>
+          <div class="heatmap-grid" id="heatmap"></div>
+          <div class="legend">
+            <div class="legend-box" style="background:#ffffff;"></div>
             <span>.000</span>
-          </div>
-          <div class="legend-item">
             <span>→</span>
-          </div>
-          <div class="legend-item">
-            <div class="legend-box" style="background-color: #ffc000;"></div>
+            <div class="legend-box" style="background:#ffc000;"></div>
             <span>.400+</span>
           </div>
         </div>
-        <div class="last-updated" id="last-updated">-</div>
       </div>
+
+      <div class="last-updated" id="last-updated"></div>
     </div>
   </div>
 
   <script>
-    // Calculate batting average
-    function calculateAverage(hits, atBats) {
-      if (atBats === 0) return 0;
-      return hits / atBats;
-    }
+    /* Tab switching */
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+      });
+    });
 
-    // Format batting average
-    function formatAverage(avg) {
-      return avg.toFixed(3);
-    }
-
-    // Parse average string to number
-    function parseAverage(avgStr) {
-      return parseFloat(avgStr);
-    }
-
-    // Get color class based on batting average
-    function getColorClass(avg) {
-      if (avg === 0) return 'avg-0';
-      if (avg < 0.050) return 'avg-1';
-      if (avg < 0.100) return 'avg-2';
-      if (avg < 0.150) return 'avg-3';
-      if (avg < 0.200) return 'avg-4';
-      if (avg < 0.250) return 'avg-5';
-      if (avg < 0.300) return 'avg-6';
-      if (avg < 0.350) return 'avg-7';
-      if (avg < 0.400) return 'avg-8';
-      if (avg < 0.450) return 'avg-9';
+    /* Heat colour class */
+    function avgClass(avgStr) {
+      const v = parseFloat(avgStr);
+      if (!v) return 'avg-0';
+      if (v < 0.050) return 'avg-1';
+      if (v < 0.100) return 'avg-2';
+      if (v < 0.150) return 'avg-3';
+      if (v < 0.200) return 'avg-4';
+      if (v < 0.250) return 'avg-5';
+      if (v < 0.300) return 'avg-6';
+      if (v < 0.350) return 'avg-7';
+      if (v < 0.400) return 'avg-8';
+      if (v < 0.450) return 'avg-9';
       return 'avg-10';
     }
 
-    // Load and display data
+    function safe(v, fb = '-') { return (v === null || v === undefined) ? fb : v; }
+
+    /* Render stats summary */
+    function renderSummary(id, s) {
+      const fields = [
+        { label: '試合',   key: 'games' },
+        { label: '打率',   key: 'avg',  hl: true },
+        { label: '本塁打', key: 'hr' },
+        { label: '打点',   key: 'rbi' },
+        { label: '打席',   key: 'pa' },
+        { label: '安打',   key: 'h' },
+        { label: '四球',   key: 'bb' },
+        { label: '三振',   key: 'so' },
+      ];
+      document.getElementById(id).innerHTML = fields.map(f =>
+        `<div class="stat-item">
+           <div class="stat-label">${f.label}</div>
+           <div class="stat-value${f.hl ? ' highlight' : ''}">${safe(s[f.key])}</div>
+         </div>`
+      ).join('');
+    }
+
+    /* Render game log */
+    function renderGames(id, games) {
+      const el = document.getElementById(id);
+      if (!games || games.length === 0) {
+        el.innerHTML = '<div class="no-games">試合データはまだありません</div>';
+        return;
+      }
+      const sorted = [...games].sort((a, b) => b.date.localeCompare(a.date));
+      el.innerHTML = sorted.map(g => {
+        const rc = g.result === 'W' ? 'result-win' : g.result === 'L' ? 'result-lose' : 'result-draw';
+        const rl = g.result === 'W' ? '勝' : g.result === 'L' ? '敗' : '分';
+        const date = (g.date || '').replace(/-/g, '/');
+        const extras = [];
+        if (g.hr  > 0) extras.push(`${g.hr}本塁打`);
+        if (g.rbi > 0) extras.push(`${g.rbi}打点`);
+        if (g.bb  > 0) extras.push(`${g.bb}四球`);
+        if (g.sb  > 0) extras.push(`${g.sb}盗塁`);
+        if (g.so  > 0) extras.push(`${g.so}三振`);
+        return `<div class="game-card">
+          <div class="game-header">
+            <div>
+              <div class="game-date">${date}</div>
+              <div class="game-matchup">vs ${safe(g.opponent, '?')}</div>
+            </div>
+            <div class="game-score ${rc}">${rl} ${safe(g.score_us, 0)}-${safe(g.score_them, 0)}</div>
+          </div>
+          <div class="game-stats">
+            <div class="game-stat"><strong>${safe(g.h, 0)}安打 ${safe(g.ab, 0)}打数</strong></div>
+            ${extras.map(e => `<div class="game-stat"><strong>${e}</strong></div>`).join('')}
+          </div>
+        </div>`;
+      }).join('');
+    }
+
+    /* Render heatmap */
+    function renderHeatmap(cells) {
+      if (!cells || cells.length === 0) return;
+      document.getElementById('heatmap').innerHTML = cells.map(c =>
+        `<div class="heatmap-cell ${avgClass(c.avg)}">
+           <div class="cell-avg">${c.avg}</div>
+           <div class="cell-detail">${c.h}-${c.ab}${c.bb_hbp > 0 ? '<br>四死球' + c.bb_hbp : ''}</div>
+         </div>`
+      ).join('');
+      document.getElementById('heatmap-section').style.display = 'block';
+    }
+
+    /* Fetch and render */
     async function loadData() {
       try {
-        const response = await fetch('/data/results.json');
-        if (!response.ok) {
-          throw new Error('データの読み込みに失敗しました');
+        const res = await fetch('/data/results.json');
+        if (!res.ok) throw new Error('fetch failed');
+        const data = await res.json();
+
+        const st = data.spring_training  || {};
+        const rs = data.regular_season   || {};
+
+        renderSummary('spring-summary', st.summary || {});
+        renderGames('spring-games', st.games || []);
+
+        renderSummary('regular-summary', rs.summary || {});
+        renderGames('regular-games', rs.games || []);
+        renderHeatmap(rs.heatmap || []);
+
+        if (data.last_updated) {
+          document.getElementById('last-updated').textContent =
+            '最終更新: ' + data.last_updated.replace(/-/g, '/');
         }
-        
-        const data = await response.json();
-        
-        // Display 12 summary stats
-        document.getElementById('stat-games').textContent = data.summary.games;
-        document.getElementById('stat-avg').textContent = data.summary.avg;
-        document.getElementById('stat-runs').textContent = data.summary.runs;
-        document.getElementById('stat-hr').textContent = data.summary.hr;
-        document.getElementById('stat-sb').textContent = data.summary.sb;
-        document.getElementById('stat-sh').textContent = data.summary.sh;
-        document.getElementById('stat-sf').textContent = data.summary.sf;
-        document.getElementById('stat-bb').textContent = data.summary.bb;
-        document.getElementById('stat-hbp').textContent = data.summary.hbp;
-        document.getElementById('stat-so').textContent = data.summary.so;
-        document.getElementById('stat-gidp').textContent = data.summary.gidp;
-        document.getElementById('stat-risp').textContent = data.summary.risp;
-        
-        // Generate heatmap
-        const heatmapContainer = document.getElementById('heatmap');
-        heatmapContainer.innerHTML = '';
-        
-        data.heatmap.forEach((cell) => {
-          const avg = parseAverage(cell.avg);
-          const colorClass = getColorClass(avg);
-          
-          const cellDiv = document.createElement('div');
-          cellDiv.className = `heatmap-cell ${colorClass}`;
-          
-          const avgDiv = document.createElement('div');
-          avgDiv.className = 'cell-avg';
-          avgDiv.textContent = cell.avg;
-          
-          const detailDiv = document.createElement('div');
-          detailDiv.className = 'cell-detail';
-          detailDiv.innerHTML = `${cell.h}-${cell.ab}<br>${cell.bb_hbp > 0 ? '四死球' + cell.bb_hbp : ''}`;
-          
-          cellDiv.appendChild(avgDiv);
-          cellDiv.appendChild(detailDiv);
-          heatmapContainer.appendChild(cellDiv);
-        });
-        
-        // Display last updated
-        const lastUpdated = new Date(data.last_updated);
-        const formattedDate = lastUpdated.toLocaleString('ja-JP', {
-          year: 'numeric',
-          month: '2-digit',
-          day: '2-digit'
-        });
-        document.getElementById('last-updated').textContent = `最終更新: ${formattedDate}`;
-        
-        // Show content
+
         document.getElementById('loading').style.display = 'none';
-        document.getElementById('content').style.display = 'block';
-        
-      } catch (error) {
-        console.error('Error loading data:', error);
+        document.getElementById('main-content').style.display = 'block';
+      } catch (e) {
         document.getElementById('loading').textContent = 'データの読み込みに失敗しました';
+        console.error(e);
       }
     }
 
-    // Load data on page load
     loadData();
   </script>
 </body>
