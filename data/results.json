@@ -1,28 +1,64 @@
 {
-  "last_updated": "2026-01-16",
-  "summary": {
-    "games": 0,
-    "avg": ".000",
-    "runs": 0,
-    "hr": 0,
-    "sb": 0,
-    "sh": 0,
-    "sf": 0,
-    "bb": 0,
-    "hbp": 0,
-    "so": 0,
-    "gidp": 0,
-    "risp": ".000"
+  "last_updated": "2026-03-11",
+  "spring_training": {
+    "summary": {
+      "games": 0,
+      "pa": 0,
+      "ab": 0,
+      "h": 0,
+      "double": 0,
+      "triple": 0,
+      "hr": 0,
+      "rbi": 0,
+      "runs": 0,
+      "sb": 0,
+      "bb": 0,
+      "hbp": 0,
+      "so": 0,
+      "sh": 0,
+      "sf": 0,
+      "avg": ".000",
+      "obp": ".000",
+      "slg": ".000",
+      "ops": ".000"
+    },
+    "games": []
   },
-  "heatmap": [
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-    { "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 }
-  ]
+  "regular_season": {
+    "summary": {
+      "games": 0,
+      "pa": 0,
+      "ab": 0,
+      "h": 0,
+      "double": 0,
+      "triple": 0,
+      "hr": 0,
+      "rbi": 0,
+      "runs": 0,
+      "sb": 0,
+      "bb": 0,
+      "hbp": 0,
+      "so": 0,
+      "sh": 0,
+      "sf": 0,
+      "avg": ".000",
+      "obp": ".000",
+      "slg": ".000",
+      "ops": ".000",
+      "risp": ".000",
+      "gidp": 0
+    },
+    "games": [],
+    "heatmap": [
+      { "zone": "高め内角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "高め中",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "高め外角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "中内角",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "中",       "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "中外角",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "低め内角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "低め中",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
+      { "zone": "低め外角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 }
+    ]
+  }
 }
