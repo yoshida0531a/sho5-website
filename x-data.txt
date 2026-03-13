@@ -14416,5 +14416,203 @@
     "userName": "2kobex3kawachi1",
     "tweetUrl": "https://twitter.com/2kobex3kawachi1/status/2032180870011109693",
     "createdAt": "March 13, 2026 at 04:44AM"
+  },
+  {
+    "text": "2位で髙橋隆慶か谷端が正解だったかな去年のドラフトは？\n3位山城は儲けものだったね！\n\nコントロールは誰が修正したんだろう？🤔",
+    "userName": "amasuke012",
+    "tweetUrl": "https://twitter.com/amasuke012/status/2032221585097232509",
+    "createdAt": "March 13, 2026 at 07:25AM"
+  },
+  {
+    "text": "有能な編成なら谷端一択\n岡本の穴を舐めすぎ\n横手投げなら船迫で足りてる https://t.co/N4BbbgSwSt",
+    "userName": "viva_giants0625",
+    "tweetUrl": "https://twitter.com/viva_giants0625/status/2032222312859386165",
+    "createdAt": "March 13, 2026 at 07:28AM"
+  },
+  {
+    "text": "現状見ると\n岡城＞谷端になりそうか",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2032222362213761227",
+    "createdAt": "March 13, 2026 at 07:29AM"
+  },
+  {
+    "text": "@ZETTON_PONOJI おはようございます。\n立石君が調整中の間に谷端君や岡城君に育成選手達も頑張ってます。\n競争でレベルアップを期待！💪\n藤川監督は全員にチャンスを与えてくれてますね🐯\n今日もよろしくお願いします。",
+    "userName": "jtYoYw4RjV78095",
+    "tweetUrl": "https://twitter.com/jtYoYw4RjV78095/status/2032228315025850574",
+    "createdAt": "March 13, 2026 at 07:52AM"
+  },
+  {
+    "text": "確かに来年サトテルがいるかどうかわからんけど、試合に出ている谷端、戦力は落ちるかもだけど、熊谷や糸原もいる。\n\n余程の事が無い限り、ある程度二軍でしっかりした後に一軍デビューでも良いのでは？\n\nそれでケガして１年棒降ったら意味が無いじゃん…。\n\n観たいのはやまやまだろうけど…。",
+    "userName": "ykun_ARE",
+    "tweetUrl": "https://twitter.com/ykun_ARE/status/2032240813871415769",
+    "createdAt": "March 13, 2026 at 08:42AM"
+  },
+  {
+    "text": "父さん、谷端はヒットが出ないね。\n韓国代表との強化試合で打った１本\nきりだよ。打ち方を忘れたのかな？\n\n今は色々悩んで頭で野球をやってる\nんだろう。素直な子供の頃の気持ち\nに戻れるといいね。小５ぐらいに。\n\n谷端将伍だから？#阪神タイガース",
+    "userName": "g9Jtkcy9IhOeUpZ",
+    "tweetUrl": "https://twitter.com/g9Jtkcy9IhOeUpZ/status/2032246620994355611",
+    "createdAt": "March 13, 2026 at 09:05AM"
+  },
+  {
+    "text": "谷端には、一定期間無条件にチャンスを与え続けて欲しいかな。 https://t.co/FSJauyGY57",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2032265326168326326",
+    "createdAt": "March 13, 2026 at 10:19AM"
+  },
+  {
+    "text": "@Dorapeinet 田和より谷端だったな！笑笑",
+    "userName": "VIZFavXo3cCK9XG",
+    "tweetUrl": "https://twitter.com/VIZFavXo3cCK9XG/status/2032280455396135279",
+    "createdAt": "March 13, 2026 at 11:19AM"
+  },
+  {
+    "text": "この4年春知ってるから無双してるのも納得なんだよね\nなんなら阪神のドラ2は谷端じゃなくて山城推してた https://t.co/2RhMSeNqh0",
+    "userName": "AniQgVZSxr62725",
+    "tweetUrl": "https://twitter.com/AniQgVZSxr62725/status/2032309860323483680",
+    "createdAt": "March 13, 2026 at 01:16PM"
+  },
+  {
+    "text": "立石より谷端の方が先に一軍デビューするか？\n↓\n谷端より岡城の方が先じゃね？ ｲﾏｺｺ",
+    "userName": "shuuu__jack",
+    "tweetUrl": "https://twitter.com/shuuu__jack/status/2032316231047594384",
+    "createdAt": "March 13, 2026 at 01:42PM"
+  },
+  {
+    "text": "谷端高橋残っていたのにスルーして田和\n\n無能の極み",
+    "userName": "gtopoketore23",
+    "tweetUrl": "https://twitter.com/gtopoketore23/status/2032316766421123331",
+    "createdAt": "March 13, 2026 at 01:44PM"
+  },
+  {
+    "text": "@ZNO_Draft まあ言いたいことわかりますけどYG安田が成功したらもう野手は十分じゃないすかね？\n\n例えば2025年の1位は立石入札かクジ回避で藤原、2位候補で言うとケインとか谷端もいましたけど2位前半で指名はちょっと渋いなあってのはわかっちゃいますね",
+    "userName": "JING_BASEBALL",
+    "tweetUrl": "https://twitter.com/JING_BASEBALL/status/2032328832741752869",
+    "createdAt": "March 13, 2026 at 02:32PM"
+  },
+  {
+    "text": "立石君より岡城君の方が活躍しそう。\n\n立石君と谷端君を実際に見てないから強くは言えないけどね。",
+    "userName": "tukine_akatuki",
+    "tweetUrl": "https://twitter.com/tukine_akatuki/status/2032335662196932746",
+    "createdAt": "March 13, 2026 at 02:59PM"
+  },
+  {
+    "text": "@c_c_naoki 普通に岡城谷端のどちらか獲れたのにな。",
+    "userName": "qi3jIpdQRbuGUGT",
+    "tweetUrl": "https://twitter.com/qi3jIpdQRbuGUGT/status/2032365835071955126",
+    "createdAt": "March 13, 2026 at 04:59PM"
+  },
+  {
+    "text": "【🐯猛虎キャンプ独占直撃 Vol.4】\n注目ルーキー・谷端将伍選手！\n💬「甲子園で活躍したい」\n今シーズンへの熱い思いを語る！\n\n本編はこちら👇\nhttps://t.co/amiKGwavVD\n\n#阪神タイガース #谷端将伍 https://t.co/V5Iiuv78KG",
+    "userName": "1985toratora1",
+    "tweetUrl": "https://twitter.com/1985toratora1/status/2032366053444005927",
+    "createdAt": "March 13, 2026 at 05:00PM"
+  },
+  {
+    "text": "@Sh_matumoto66 じゃあタメで。\n個人的には立石よりも、ドラ2の谷端くん・ドラ3の岡城くんに期待してる\n\n立石くんは大学選手権の時に、ハマスタにぶち込んでたから、ロマン砲。ただ、阪神はロマン砲育てるの苦手だからなぁ(江越、井上、中谷など。。)",
+    "userName": "_Love_IKARing",
+    "tweetUrl": "https://twitter.com/_Love_IKARing/status/2032374883515318671",
+    "createdAt": "March 13, 2026 at 05:35PM"
+  },
+  {
+    "text": "@_Love_IKARing 谷端くんはいいって聞いた気がする！岡城くんにも注目しとく！さすがにサトテルはもうロマン枠卒業したか",
+    "userName": "Sh_matumoto66",
+    "tweetUrl": "https://twitter.com/Sh_matumoto66/status/2032375268166545463",
+    "createdAt": "March 13, 2026 at 05:36PM"
+  },
+  {
+    "text": "谷端くんの顔めっちゃ好き\nバッターボックスは言ってる時の眼光の鋭さめっちゃいい",
+    "userName": "Gabu_109",
+    "tweetUrl": "https://twitter.com/Gabu_109/status/2032375543329689765",
+    "createdAt": "March 13, 2026 at 05:37PM"
+  },
+  {
+    "text": "https://t.co/B7ug3btqTX\n来月1日新設の鷹68。平日限定で、たぶん大型。第五中学校,新川天神山青少年広場,新川谷端児童公園入口,三鷹新川浄水所,新川宿,北野公園,六中前,三鷹第一小学校前に武蔵境営業所の大型が停車するんやったら、バリ嬉しか〜。",
+    "userName": "yuzuki_ohtani",
+    "tweetUrl": "https://twitter.com/yuzuki_ohtani/status/2032387595947462739",
+    "createdAt": "March 13, 2026 at 06:25PM"
+  },
+  {
+    "text": "@kkandTigers 谷端立石っていうコーナー候補を獲得した上に福島井坪の守備芸人コンビも岡城もいて、熊谷島田で最低限も確保できる以上、守備下手過ぎて大したプラス稼げないレフトに中川置く必要はマジでない(同じ枠に濱田もいる)のでもはや捕手以外で中川が一軍にいる意味はあんまないと思います。知らんけど。",
+    "userName": "44_mfastball",
+    "tweetUrl": "https://twitter.com/44_mfastball/status/2032397779675521391",
+    "createdAt": "March 13, 2026 at 07:06PM"
+  },
+  {
+    "text": "谷端くんはいじられるタイプで先輩たちは優しくておもしろい方ばかりと_φ(･_･\n\n【谷端インタビュー】“甲子園で活躍したい”ルーキーが今シーズンへの思いを語る！ https://t.co/SBoxJ3fn1j",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2032399353751720371",
+    "createdAt": "March 13, 2026 at 07:12PM"
+  },
+  {
+    "text": "勝男さんの日は行くか分からんけど\n立石くんと谷端くんのときは行けるから良かった(*^_^*) https://t.co/6t1Nz6cgBC",
+    "userName": "Nkd5Tj",
+    "tweetUrl": "https://twitter.com/Nkd5Tj/status/2032420310541373721",
+    "createdAt": "March 13, 2026 at 08:35PM"
+  },
+  {
+    "text": "二・谷端\n三・立石\n中・岡城\n左・中川\n捕・嶋村\nDH・前川\n\n↑ここら辺は将来的に確定ポジションな気がする…\n中川くんの捕手問題と前川の守備問題は諦めたくないけど、どうなるかなぁ…",
+    "userName": "ken_syo_yen",
+    "tweetUrl": "https://twitter.com/ken_syo_yen/status/2032425250407977168",
+    "createdAt": "March 13, 2026 at 08:55PM"
+  },
+  {
+    "text": "谷端将伍に文句つけてる奴らさぁ...プロ1年目にオープン戦でいきなり打てって無理だろ\nhttps://t.co/R8WkaFkF2n",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2032441798329810989",
+    "createdAt": "March 13, 2026 at 10:01PM"
+  },
+  {
+    "text": "@G7698626191760 @VIZFavXo3cCK9XG @Dorapeinet 谷端も知らんのか",
+    "userName": "yokohama_lovesd",
+    "tweetUrl": "https://twitter.com/yokohama_lovesd/status/2032444074259874084",
+    "createdAt": "March 13, 2026 at 10:10PM"
+  },
+  {
+    "text": "@5Q0gsoDBE244465 谷端か\nありがとう",
+    "userName": "maru_niki8",
+    "tweetUrl": "https://twitter.com/maru_niki8/status/2032452118146339311",
+    "createdAt": "March 13, 2026 at 10:42PM"
+  },
+  {
+    "text": "谷端将伍に文句つけてる奴らさぁ...プロ1年目にオープン戦でいきなり打てって無理だろ https://t.co/sgOAs8kXAW",
+    "userName": "toraigers",
+    "tweetUrl": "https://twitter.com/toraigers/status/2032456763413311734",
+    "createdAt": "March 13, 2026 at 11:00PM"
+  },
+  {
+    "text": "谷端将伍に文句つけてる奴らさぁ...プロ1年目にオープン戦でいきなり打てって無理だろ\n\n(阪神タイガースちゃんねる)\nhttps://t.co/epykJ7pj4c",
+    "userName": "bsoku_antenna",
+    "tweetUrl": "https://twitter.com/bsoku_antenna/status/2032457727738548646",
+    "createdAt": "March 13, 2026 at 11:04PM"
+  },
+  {
+    "text": "メルカリで出品されている野球選手関連グッズなどを紹介していきます！PR\n\n商品名: 2026 BBM 谷端将伍 阪神タイガース RC ルーキーエディション ①\n\n販売価格: 300円\n\nhttps://t.co/P67tFKVNgK",
+    "userName": "KswmhkjCc453561",
+    "tweetUrl": "https://twitter.com/KswmhkjCc453561/status/2032458565739503763",
+    "createdAt": "March 13, 2026 at 11:07PM"
+  },
+  {
+    "text": "あの場面\n谷端選手に\n8球目を投じて直後\n球審さんから坂本捕手が\n球を受け取り　石井投手が一瞬左足首をくねくねってまわされたから\n返球を1時中断されたんやな。\nその直後に石井投手が後方につんのめったやろう。そこは左足首が急に脱力されたのか　早くマウンドに上がり戻ろうとして",
+    "userName": "BiuI5F5Hu5GvUTT",
+    "tweetUrl": "https://twitter.com/BiuI5F5Hu5GvUTT/status/2032460240197959963",
+    "createdAt": "March 13, 2026 at 11:14PM"
+  },
+  {
+    "text": "WBC決戦前やけど\n今年の阪神は昨年より野手の成長、新戦力により控え層の起用が楽しみになってきたな\n昨年は中川、高寺以外ほんまに期待度低かった\n立石はもちろん岡城、そこに谷端が入れるか\n糸原木浪のプチ復活\n元山、濱田も食い込んできそう\n高寺中川有力やけど誰かレフト勝ち取れるかな",
+    "userName": "rapanparapara",
+    "tweetUrl": "https://twitter.com/rapanparapara/status/2032485815776051615",
+    "createdAt": "March 14, 2026 at 12:55AM"
+  },
+  {
+    "text": "称号「谷端 将伍コレクター(ブロンズ)」をゲット！！ https://t.co/xoHzm53QQ3 #Tコレ #阪神タイガース",
+    "userName": "alza__27",
+    "tweetUrl": "https://twitter.com/alza__27/status/2032487028185809302",
+    "createdAt": "March 14, 2026 at 01:00AM"
+  },
+  {
+    "text": "嶋村木下谷端岡城がどこまで戦えるかやな",
+    "userName": "__TigersFan",
+    "tweetUrl": "https://twitter.com/__TigersFan/status/2032488906965618855",
+    "createdAt": "March 14, 2026 at 01:08AM"
   }
 ]
