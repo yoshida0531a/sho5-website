@@ -1934,5 +1934,13 @@
     "publishedAt": "March 10, 2026 at 06:06PM",
     "description": "shorts #谷端将伍 #阪神タイガース #日本大学 #ドラフト2位.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【谷端インタビュー】“甲子園で活躍したい”ルーキーが今シーズンへの思いを語る！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ORC9g_JYqio",
+    "publishedAt": "March 13, 2026 at 05:00PM",
+    "description": "あなたの阪神愛をカタチにします！ ぜひチャンネル登録をお願いします! https://bit.ly/3J35PY0 初のトラトラタイガース ...",
+    "keyword": "谷端 阪神"
   }
 ]
