@@ -15934,5 +15934,233 @@
     "userName": "dgdg19852003",
     "tweetUrl": "https://twitter.com/dgdg19852003/status/2033289738707415452",
     "createdAt": "March 16, 2026 at 06:10AM"
+  },
+  {
+    "text": "@Dorapeinet 谷端、岡城で満足してたけど俺たちには立石がいたんやなって、しかも実力は未知数",
+    "userName": "katojunichifan",
+    "tweetUrl": "https://twitter.com/katojunichifan/status/2033333798419767329",
+    "createdAt": "March 16, 2026 at 09:05AM"
+  },
+  {
+    "text": "中川前川立石谷端岡城カミネロアンヒョンミンキムドヨンの03世代でタイガースの黄金時代築こうや",
+    "userName": "shitaperohaakan",
+    "tweetUrl": "https://twitter.com/shitaperohaakan/status/2033343350187913271",
+    "createdAt": "March 16, 2026 at 09:43AM"
+  },
+  {
+    "text": "佐藤輝明2番を1番恐れてるのは中野\n\nいわゆる2番に強打者をとなれば\nそれを優先して谷端や立石を2番セカンドとなる可能性が出て来てたからね。",
+    "userName": "may525t",
+    "tweetUrl": "https://twitter.com/may525t/status/2033357274157285527",
+    "createdAt": "March 16, 2026 at 10:38AM"
+  },
+  {
+    "text": "@raixot 能力的には申し分ないけど、（後釜が立石・谷端なら新人のために）4番の守備位置動かすのはどうかとかみたいな話が出てくるので動かしづらいところがある気がする",
+    "userName": "iceman_ht",
+    "tweetUrl": "https://twitter.com/iceman_ht/status/2033365763487310223",
+    "createdAt": "March 16, 2026 at 11:12AM"
+  },
+  {
+    "text": "声劇読んでみた\n「ぼくのドッペルゲンガー」\n作者: 鍵谷 端哉 様 お借りしました！\n(ちょいカミあり) https://t.co/bJHAleQL8M",
+    "userName": "hanasakiyum",
+    "tweetUrl": "https://twitter.com/hanasakiyum/status/2033376253521334669",
+    "createdAt": "March 16, 2026 at 11:54AM"
+  },
+  {
+    "text": "@Dorapeinet 立石、谷端、岡城はお買い得やった",
+    "userName": "teeth_ache",
+    "tweetUrl": "https://twitter.com/teeth_ache/status/2033382447862423688",
+    "createdAt": "March 16, 2026 at 12:18PM"
+  },
+  {
+    "text": "現状スタメン枠候補\n捕手 松尾？山本祐大？岸田？田宮？\nファースト 岡本\nセカンド 牧\nショート 次世代…泉口？宗山？紅林？小園？\nサード 佐藤輝明\n\n期待枠\n1.3塁 立石･谷端･佐々木泰･清宮･渡部聖弥･内藤鵬\n二遊間 小幡･滝沢･石塚⇒(二)太田椋･黒川\n捕手 渡部海･中川勇人･小島大河",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2033385096993280132",
+    "createdAt": "March 16, 2026 at 12:29PM"
+  },
+  {
+    "text": "森下かサトテルは確実に呼ばれるでしょ\nあとは中川髙寺立石谷端の誰かが選ばれればって感じか？ https://t.co/1K3qmqMn1n",
+    "userName": "AYAKAZE_YP",
+    "tweetUrl": "https://twitter.com/AYAKAZE_YP/status/2033386769404875084",
+    "createdAt": "March 16, 2026 at 12:35PM"
+  },
+  {
+    "text": "次のWBC、ライト佐藤、センター岡城、レフト森下、ショート高寺、サード立石、セカンド谷端、ファースト中川、キャッチャー嶋村、指名打者前川、投手高橋で世界一だっかんする予定だからサ。よろしく頼むよ君たち。",
+    "userName": "makimaki2329",
+    "tweetUrl": "https://twitter.com/makimaki2329/status/2033401013722570886",
+    "createdAt": "March 16, 2026 at 01:32PM"
+  },
+  {
+    "text": "@fantakazuhiro 今年のドラフト組は面白そうですね！！\n谷端くんも岡城くんも✌️楽しみ！！\n\nディベィニーは最初は使いそうですよね〜👍",
+    "userName": "satsuki_toraco",
+    "tweetUrl": "https://twitter.com/satsuki_toraco/status/2033414106938794469",
+    "createdAt": "March 16, 2026 at 02:24PM"
+  },
+  {
+    "text": "嶋村支配下昇格で最後のピース揃ったし阪神の開幕1軍こんな感じかな\n元山の所は木浪の可能性もありそうやけど\nスタメンは1〜5は一緒で、6番レフト中川、7番小幡、8番坂本かな\n野手最後1枠谷端と岡城で迷ったけど、ここんとこバッティングで結果残してる岡城が生き残る気がする\n#阪神タイガース https://t.co/1G3wbLu8qn",
+    "userName": "kosaka_speed",
+    "tweetUrl": "https://twitter.com/kosaka_speed/status/2033423869181321366",
+    "createdAt": "March 16, 2026 at 03:03PM"
+  },
+  {
+    "text": "@Dorapeinet 立石、谷端、岡城3人もええの取れた",
+    "userName": "1201ikuma",
+    "tweetUrl": "https://twitter.com/1201ikuma/status/2033463626846355787",
+    "createdAt": "March 16, 2026 at 05:41PM"
+  },
+  {
+    "text": "立石谷端岡城の3人の最大のポイントは、たとえ彼らが不調になったとしても佐藤中野近本という強力な布陣が控えてる点やと思う。\nだから彼ら依存にはならへんし、変に気負わすことなく伸び伸び次世代育成が可能な点がデカい。 https://t.co/HHGiFYam64",
+    "userName": "tintintinsahur",
+    "tweetUrl": "https://twitter.com/tintintinsahur/status/2033468603702694018",
+    "createdAt": "March 16, 2026 at 06:01PM"
+  },
+  {
+    "text": "谷端くん画伯でにっこり\nアクスタ明日からかな？？欲しい！！！",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2033475638552936801",
+    "createdAt": "March 16, 2026 at 06:29PM"
+  },
+  {
+    "text": "ルーキーの開幕一軍入り立石でもなければ谷端でもなければ岡城になりそうになふとは思わなかった。\n立石はポテンシャルはあるけどスペ体質ぽいのがちょっとな…",
+    "userName": "takumove",
+    "tweetUrl": "https://twitter.com/takumove/status/2033492339575140416",
+    "createdAt": "March 16, 2026 at 07:35PM"
+  },
+  {
+    "text": "そういえば谷端銀箔自引きできた🤩 https://t.co/JfO9KNMkEA",
+    "userName": "_la4sk12",
+    "tweetUrl": "https://twitter.com/_la4sk12/status/2033512388067270897",
+    "createdAt": "March 16, 2026 at 08:55PM"
+  },
+  {
+    "text": "✾谷端川暗渠とレンギョウ\n…と東武東上線 https://t.co/S1bl8BImun",
+    "userName": "thankyoueveryon",
+    "tweetUrl": "https://twitter.com/thankyoueveryon/status/2033518681884639486",
+    "createdAt": "March 16, 2026 at 09:20PM"
+  },
+  {
+    "text": "・大山さんがベーランのスライディングとかBP回りでバランスくずして真っ青なる…どっちも無事そうでよかった\n・谷端くん練習後半の個別守備？で20スクワット(笑顔)は強がりやとしてもすごいよ\n・百ちゃんもしんどい練習の後で笑えるのすごいよ\n・はるとがさのに投げた最後の内角ほんまにボールか？",
+    "userName": "NUL8_8",
+    "tweetUrl": "https://twitter.com/NUL8_8/status/2033519356307804609",
+    "createdAt": "March 16, 2026 at 09:22PM"
+  },
+  {
+    "text": "・レフトショート流動的で新メンバーありだとショートの背後のフライこわいね\n・大山さんのBP回りの空振りでバランス崩して倒れるのまじヒヤッとする\n・右京くん中川くん濱ちゃんの外野守備色々言われがち3人衆へのツツイさんによる片手封じゴロノックまじがんばれ\n・谷端くんは「谷やん」(確定)",
+    "userName": "NUL8_8",
+    "tweetUrl": "https://twitter.com/NUL8_8/status/2033519361831698839",
+    "createdAt": "March 16, 2026 at 09:22PM"
+  },
+  {
+    "text": "暗渠緑道の生き物。手前から蝶、亀、カブト虫\n#暗渠 #谷端川 https://t.co/eYgWOPLf7A",
+    "userName": "KazMiyamo",
+    "tweetUrl": "https://twitter.com/KazMiyamo/status/2033531885943660705",
+    "createdAt": "March 16, 2026 at 10:12PM"
+  },
+  {
+    "text": "暗渠緑道の生き物。手前から蝶、亀、カブト虫\n#暗渠 #谷端川 https://t.co/eYgWOPLf7A",
+    "userName": "KazMiyamo",
+    "tweetUrl": "https://twitter.com/KazMiyamo/status/2033531885943660705",
+    "createdAt": "March 16, 2026 at 10:12PM"
+  },
+  {
+    "text": "西宮神社 必勝祈願\n2026/03/05\n#神宮僚介 #谷端将吾 https://t.co/Wemj5OjjC3",
+    "userName": "H5212494",
+    "tweetUrl": "https://twitter.com/H5212494/status/2033537942111805768",
+    "createdAt": "March 16, 2026 at 10:36PM"
+  },
+  {
+    "text": "暖くん\n谷端くん\n井坪くん\nお誕生日おめでとうございます🎂🎉",
+    "userName": "she_tigers",
+    "tweetUrl": "https://twitter.com/she_tigers/status/2033558926843859002",
+    "createdAt": "March 17, 2026 at 12:00AM"
+  },
+  {
+    "text": "【㊗️3/17誕生日】\n95笠原祥太郎⚾・早見あかり\n中川絵美里・知念慶⚽\n96山口緋奈子・平田伊梨亜\n98小野寺暖⚾神・真島なおみ\n渡邉幸愛・00朝比奈れい\n01 三品瑠香・南なつ\n📷02石田千穂/STU\n川島鈴遥・和田優香\n📷03中西アルノ/乃木坂\n04谷端将伍・＆ 05井坪陽生⚾神\n📷 葉山莉瑚/RainTree\n📷 内山優花 https://t.co/Lb9m9cA5IF",
+    "userName": "Kench151",
+    "tweetUrl": "https://twitter.com/Kench151/status/2033558996989440341",
+    "createdAt": "March 17, 2026 at 12:00AM"
+  },
+  {
+    "text": "【誕生日 3/17】谷端将伍(22歳)[神#25]\n（石川県 白山市） #阪神タイガース #tigers\nhttps://t.co/IpZQgcBDuE",
+    "userName": "NPBinfo_bot",
+    "tweetUrl": "https://twitter.com/NPBinfo_bot/status/2033560249945161895",
+    "createdAt": "March 17, 2026 at 12:05AM"
+  },
+  {
+    "text": "誕生日おめでとう🎉\nカードゲット👍\n#谷端将伍\n#井坪陽生\n#小野寺暖\n#タイガースコレクション https://t.co/ZJkGXFYUhC",
+    "userName": "Toranshin_fam",
+    "tweetUrl": "https://twitter.com/Toranshin_fam/status/2033560488077062181",
+    "createdAt": "March 17, 2026 at 12:06AM"
+  },
+  {
+    "text": "3人もなの！？谷端くん,井坪くん,小野寺くん誕生日おめでとう🎉 https://t.co/jhziYg3sWC",
+    "userName": "Taiko_Torahou",
+    "tweetUrl": "https://twitter.com/Taiko_Torahou/status/2033561601023050008",
+    "createdAt": "March 17, 2026 at 12:10AM"
+  },
+  {
+    "text": "3月17日誕生日、谷端くんも仲間入りだー https://t.co/W9jbevSWXc",
+    "userName": "sasha_gs55",
+    "tweetUrl": "https://twitter.com/sasha_gs55/status/2033565640242684318",
+    "createdAt": "March 17, 2026 at 12:26AM"
+  },
+  {
+    "text": "小野寺、井坪、谷端の3人今日誕生日なんや\n同じチームで3人も同じ日おるの珍しいな",
+    "userName": "emo7733",
+    "tweetUrl": "https://twitter.com/emo7733/status/2033567295499612448",
+    "createdAt": "March 17, 2026 at 12:33AM"
+  },
+  {
+    "text": "小野寺、谷端、井坪みんな誕生日おめでとう🎉🎉",
+    "userName": "rookiekrsk0620",
+    "tweetUrl": "https://twitter.com/rookiekrsk0620/status/2033569216838951345",
+    "createdAt": "March 17, 2026 at 12:40AM"
+  },
+  {
+    "text": "立石、谷端、岡城ほんとに期待してるし絶対に戦力になってくれると確信してる\nそれぐらい期待できる3人",
+    "userName": "chikamon1195",
+    "tweetUrl": "https://twitter.com/chikamon1195/status/2033572411556471290",
+    "createdAt": "March 17, 2026 at 12:53AM"
+  },
+  {
+    "text": "この3人だけじゃなくてこの世代は同級生ってこともあって全員期待が止まらないんすよ\n前川も中川も町田も嶋村も立石も谷端も岡城も神宮も海の向こうで頑張ってる森木もみんな期待しかない https://t.co/dkL3aENBuz",
+    "userName": "chikamon1195",
+    "tweetUrl": "https://twitter.com/chikamon1195/status/2033573404079730946",
+    "createdAt": "March 17, 2026 at 12:57AM"
+  },
+  {
+    "text": "おはようございます。#谷端将伍[22](#タイガース) #井坪陽生[21](#タイガース) #小野寺暖[28](#タイガース) お誕生日おめでとう！#プロ野球",
+    "userName": "noraneko0122",
+    "tweetUrl": "https://twitter.com/noraneko0122/status/2033634517622345930",
+    "createdAt": "March 17, 2026 at 05:00AM"
+  },
+  {
+    "text": "【谷端将伍】\n\n22歳\n     ⟡.·*.⋆𝐇𝐚𝐩𝐩𝐲𝐁𝐢𝐫𝐭𝐡𝐃𝐚𝐲 ⋆✧︎*。\n\nｱﾋﾟｰﾙｱﾋﾟｰﾙして\n這い上がって来てください!!!!!\n虎へ来てくれたからにはﾌｧﾝがついてる\n頑張れ谷端くん https://t.co/rUVkm0jBWX",
+    "userName": "2_y165BBa",
+    "tweetUrl": "https://twitter.com/2_y165BBa/status/2033638795397239260",
+    "createdAt": "March 17, 2026 at 05:17AM"
+  },
+  {
+    "text": "阪神タイガース\n谷端将伍選手\nお誕生日おめでとうございます🎉🎂",
+    "userName": "TENGARAMON_ONE",
+    "tweetUrl": "https://twitter.com/TENGARAMON_ONE/status/2033649564385972373",
+    "createdAt": "March 17, 2026 at 06:00AM"
+  },
+  {
+    "text": "おはようございます🙋\n\n本日3月17日は小野寺暖選手､井坪陽生選手､谷端将伍選手の誕生日です🎂\nおめでとうございます🎉\n\n今日も1日頑張っていきましょう👊",
+    "userName": "Ktokkk0320",
+    "tweetUrl": "https://twitter.com/Ktokkk0320/status/2033653212537098668",
+    "createdAt": "March 17, 2026 at 06:14AM"
+  },
+  {
+    "text": "おはようございます\n火曜日　午後から出張\nタイガース　井坪、谷端、小野寺の誕生日、この仔達の1軍での活躍を見たい、頑張れ\nオープン戦はロッテ戦、出張で出先にいるのでリアタイ出来ないことに気が付いた\n今日も一日頑張りましょう！",
+    "userName": "HsyJun1",
+    "tweetUrl": "https://twitter.com/HsyJun1/status/2033654758595326402",
+    "createdAt": "March 17, 2026 at 06:20AM"
+  },
+  {
+    "text": "谷端君も今日お誕生日なのね\n同じ日に3人は凄いね",
+    "userName": "H5212494",
+    "tweetUrl": "https://twitter.com/H5212494/status/2033655519567876505",
+    "createdAt": "March 17, 2026 at 06:23AM"
   }
 ]
