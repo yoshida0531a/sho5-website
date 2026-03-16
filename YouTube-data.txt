@@ -1942,5 +1942,13 @@
     "publishedAt": "March 13, 2026 at 05:00PM",
     "description": "あなたの阪神愛をカタチにします！ ぜひチャンネル登録をお願いします! https://bit.ly/3J35PY0 初のトラトラタイガース ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍選手25  乾健斗投手059 田島光祐捕手055 春季教育リーグ 阪神　オリックス　SGL 2026年",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=IXGpR-2fEiA",
+    "publishedAt": "March 16, 2026 at 07:59AM",
+    "description": "谷端将伍選手25 乾健斗投手059 田島光祐捕手055 阪神タイガース オリックスバファローズ 春季教育リーグ 2026年.",
+    "keyword": "谷端 阪神"
   }
 ]
