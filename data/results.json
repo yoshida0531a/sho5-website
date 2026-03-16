@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-11",
+  "last_updated": "2026-03-16",
   "spring_training": {
     "summary": {
       "games": 0,
       "pa": 0,
-      "ab": 0,
+      "ab": 1,
       "h": 0,
       "double": 0,
-      "triple": 0,
+      "triple": 1,
       "hr": 0,
       "rbi": 0,
       "runs": 0,
@@ -22,16 +22,101 @@
       "slg": ".000",
       "ops": ".000"
     },
-    "games": []
+    "games": [
+      {
+        "date": "2026-03-15",
+        "opponent": "広島",
+        "ab": 3,
+        "h": 1,
+        "hr": 0,
+        "rbi": 1,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-14",
+        "opponent": "広島",
+        "ab": 4,
+        "h": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 1,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-12",
+        "opponent": "オリックス",
+        "ab": 4,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-11",
+        "opponent": "オリックス",
+        "ab": 3,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-10",
+        "opponent": "オリックス",
+        "ab": 4,
+        "h": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-08",
+        "opponent": "巨人",
+        "ab": 1,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      }
+    ]
   },
   "regular_season": {
     "summary": {
       "games": 0,
       "pa": 0,
-      "ab": 0,
+      "ab": 1,
       "h": 0,
       "double": 0,
-      "triple": 0,
+      "triple": 1,
       "hr": 0,
       "rbi": 0,
       "runs": 0,
@@ -48,17 +133,156 @@
       "risp": ".000",
       "gidp": 0
     },
-    "games": [],
+    "games": [
+      {
+        "date": "2026-03-15",
+        "opponent": "広島",
+        "ab": 3,
+        "h": 1,
+        "hr": 0,
+        "rbi": 1,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-14",
+        "opponent": "広島",
+        "ab": 4,
+        "h": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 1,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-12",
+        "opponent": "オリックス",
+        "ab": 4,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-11",
+        "opponent": "オリックス",
+        "ab": 3,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-10",
+        "opponent": "オリックス",
+        "ab": 4,
+        "h": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      },
+      {
+        "date": "2026-03-08",
+        "opponent": "巨人",
+        "ab": 1,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": "D",
+        "score_us": 0,
+        "score_them": 0
+      }
+    ],
     "heatmap": [
-      { "zone": "高め内角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "高め中",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "高め外角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "中内角",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "中",       "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "中外角",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "低め内角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "低め中",   "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 },
-      { "zone": "低め外角", "avg": ".000", "h": 0, "ab": 0, "bb_hbp": 0 }
+      {
+        "zone": "高め内角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "高め中",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "高め外角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "中内角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "中",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "中外角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "低め内角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "低め中",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "低め外角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      }
     ]
   }
 }
