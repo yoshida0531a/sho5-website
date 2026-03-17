@@ -382,7 +382,7 @@
       const el = document.getElementById(heroId);
       if (!el) return;
       const avg = s && s.avg;
-      el.textContent = (avg && avg !== '.000') ? avg : '--';
+      el.textContent = (avg && /^\.\d{3}$/.test(avg)) ? avg : '--';
     }
 
     /* Render stats summary */
@@ -414,8 +414,19 @@
       }
       const sorted = [...games].sort((a, b) => b.date.localeCompare(a.date));
       el.innerHTML = sorted.map(g => {
-        const rc = g.result === 'W' ? 'result-win' : g.result === 'L' ? 'result-lose' : 'result-draw';
-        const rl = g.result === 'W' ? '勝' : g.result === 'L' ? '敗' : '分';
+        const rc =
+          g.result === 'W' ? 'result-win' :
+          g.result === 'L' ? 'result-lose' :
+          g.result === 'D' ? 'result-draw' : '';
+
+        const rl =
+          g.result === 'W' ? '勝' :
+          g.result === 'L' ? '敗' :
+          g.result === 'D' ? '分' : '結果未取得';
+
+        const hasScore = Number.isFinite(g.score_us) && Number.isFinite(g.score_them);
+        const scoreText = hasScore ? `${g.score_us}-${g.score_them}` : '--';
+
         const date = (g.date || '').replace(/-/g, '/');
         const ab = safe(g.ab, 0);
         const h  = safe(g.h,  0);
@@ -432,7 +443,7 @@
               <div class="game-date">${date}</div>
               <div class="game-matchup">vs ${safe(g.opponent, '?')}</div>
             </div>
-            <div class="game-score ${rc}">${rl} ${safe(g.score_us, 0)}-${safe(g.score_them, 0)}</div>
+            <div class="game-score ${rc}">${rl} ${scoreText}</div>
           </div>
           <div class="game-stats">
             <div class="game-stat"><strong>${h}安打 ${ab}打数</strong></div>
