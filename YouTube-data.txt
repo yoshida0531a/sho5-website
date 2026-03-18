@@ -1950,5 +1950,45 @@
     "publishedAt": "March 16, 2026 at 07:59AM",
     "description": "谷端将伍選手25 乾健斗投手059 田島光祐捕手055 阪神タイガース オリックスバファローズ 春季教育リーグ 2026年.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】3/18(水) 神13－0オ（ＳＧＬ）| 谷端、4打点！コンスエグラ、今季ＳＧＬチーム第1号！猛打爆発14安打13得点！5回コールドゲームで勝利！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8u6ii0I-rA0",
+    "publishedAt": "March 18, 2026 at 03:40PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ2・谷端将伍が1イニング4打点！「安打製造機」の本領発揮！　＃shorts ＃ #阪神タイガース #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=3pMvFzhllVI",
+    "publishedAt": "March 18, 2026 at 03:53PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2軍虎将トーク】阪神13得点爆発　平田監督「桜開花宣言打線」#阪神ファーム #平田勝男 #西純矢 #谷端将伍 #プロ野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=f-FaUfZrhlM",
+    "publishedAt": "March 18, 2026 at 09:11PM",
+    "description": "阪神2軍が13得点の大勝。 初回から打者一巡の猛攻で一挙8得点。 平田勝男2軍監督は打線について 「桜開花宣言打線やな」と ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2026.3.17】2軍阪神vsオリックス ルーキー谷端選手試合後に山崎憲晴コーチとサブグラウンドで守備練習#阪神タイガース #谷端将伍 #山崎憲晴 #sglスタジアム尼崎",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=y_86R4_CUBY",
+    "publishedAt": "March 18, 2026 at 10:53PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "😬阪神に隠された最終兵器！たった数分で4打点…誰も止められない打者！何者だこの打者…1回で試合を決めた異常な破壊力！ #阪神タイガース #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=FdBxALOKyCw",
+    "publishedAt": "March 19, 2026 at 01:07AM",
+    "description": "阪神ドラ2・谷端将伍が衝撃デビュー！1イニング4打点の大暴れ   この活躍がすごいと思ったら  ✨ ぜひ高評価＆チャンネル登録 ...",
+    "keyword": "谷端 阪神"
   }
 ]
