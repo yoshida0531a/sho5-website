@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-18",
+  "last_updated": "2026-03-19",
   "spring_training": {
     "summary": {
       "games": 6,
       "pa": 0,
-      "ab": 20,
+      "ab": 17,
       "h": 4,
       "double": 0,
       "triple": 1,
@@ -17,12 +17,26 @@
       "so": 0,
       "sh": 0,
       "sf": 0,
-      "avg": ".200",
+      "avg": ".235",
       "obp": ".000",
       "slg": ".000",
       "ops": ".000"
     },
     "games": [
+      {
+        "date": "2026-03-19",
+        "opponent": "オリックス",
+        "ab": 0,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
       {
         "date": "2026-03-18",
         "opponent": "オリックス",
@@ -83,20 +97,6 @@
         "date": "2026-03-12",
         "opponent": "オリックス",
         "ab": 4,
-        "h": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "so": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-03-11",
-        "opponent": "オリックス",
-        "ab": 3,
         "h": 0,
         "hr": 0,
         "rbi": 0,
@@ -113,7 +113,7 @@
     "summary": {
       "games": 6,
       "pa": 0,
-      "ab": 20,
+      "ab": 17,
       "h": 4,
       "double": 0,
       "triple": 1,
@@ -126,7 +126,7 @@
       "so": 0,
       "sh": 0,
       "sf": 0,
-      "avg": ".200",
+      "avg": ".235",
       "obp": ".000",
       "slg": ".000",
       "ops": ".000",
@@ -134,6 +134,20 @@
       "gidp": 0
     },
     "games": [
+      {
+        "date": "2026-03-19",
+        "opponent": "オリックス",
+        "ab": 0,
+        "h": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "so": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
       {
         "date": "2026-03-18",
         "opponent": "オリックス",
@@ -194,20 +208,6 @@
         "date": "2026-03-12",
         "opponent": "オリックス",
         "ab": 4,
-        "h": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "so": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-03-11",
-        "opponent": "オリックス",
-        "ab": 3,
         "h": 0,
         "hr": 0,
         "rbi": 0,
