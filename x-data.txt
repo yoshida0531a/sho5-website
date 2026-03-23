@@ -3172,5 +3172,143 @@
     "userName": "TAKA05164599",
     "tweetUrl": "https://twitter.com/TAKA05164599/status/2035813776927416750",
     "createdAt": "March 23, 2026 at 05:20AM"
+  },
+  {
+    "text": "谷端ジュニアの情報\n\nhttps://t.co/e8KfRA5MBX",
+    "userName": "TackyYoji",
+    "tweetUrl": "https://twitter.com/TackyYoji/status/2035841465340084233",
+    "createdAt": "March 23, 2026 at 07:10AM"
+  },
+  {
+    "text": "@b47qZEzB06LmitM 個人の自由だけど中野も外して谷端、正捕手嶋村ってどう考えても守りで勝つチーム作ってるのに10点取られても11点とって勝とう！みたいなベネぜエラ戦みたいな野球見たいんでしょうね、ぼくは中野がいいし、キャッチャーは坂本か梅野がいいです。あとセンター森下は監督がきっぱり否定してましたよね",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2035845866704249278",
+    "createdAt": "March 23, 2026 at 07:27AM"
+  },
+  {
+    "text": "@b47qZEzB06LmitM 他の方の「梅野なんかつかうな！」って意見にはプロの起用に文句言うな！素人が！みたいなこというのに自分はめちゃくちゃ上から目線なんすよね。開幕すごい楽しみです！もちろん立石も嶋村も谷端もディベイニーも！ローテも楽しみです！",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2035855858899505463",
+    "createdAt": "March 23, 2026 at 08:07AM"
+  },
+  {
+    "text": "@bachmann60 おはありのおはようございます😊\n開幕初戦の🐰の先発はルーキー竹丸(左腕)なのでレフトは中川でショートは小幡もしくは熊谷かサプライズで谷端もあるかもね🐯\n今週もよろしくお願いします😊",
+    "userName": "japnesehistory",
+    "tweetUrl": "https://twitter.com/japnesehistory/status/2035859840044818782",
+    "createdAt": "March 23, 2026 at 08:23AM"
+  },
+  {
+    "text": "@naka14193381 この可能性もあるので渡部1本釣りでも自分は納得です。佐々木との2枚獲りが実現すればかなり大きいので。\n\nもし佐々木を外した場合は立石へ入札、外したら谷端という流れですかね？松下はベイに持っていかれましたしね。",
+    "userName": "tsuu_art",
+    "tweetUrl": "https://twitter.com/tsuu_art/status/2035898906379469035",
+    "createdAt": "March 23, 2026 at 10:58AM"
+  },
+  {
+    "text": "西純矢と嶋村、立石谷端岡城のルーキーにも期待してるで",
+    "userName": "6_22_b",
+    "tweetUrl": "https://twitter.com/6_22_b/status/2035898987014979753",
+    "createdAt": "March 23, 2026 at 10:58AM"
+  },
+  {
+    "text": "改めて伊原とかドラフト組が当たり前のように活躍してるの凄いな、立石がコケる可能性も少なそうで 谷端が少し不安なくらいか",
+    "userName": "yuurei_71kz",
+    "tweetUrl": "https://twitter.com/yuurei_71kz/status/2035902107057033406",
+    "createdAt": "March 23, 2026 at 11:11AM"
+  },
+  {
+    "text": "【イベント出店情報】\n3/29(日)は「ふるさと滝野川さくらまつり」に瀧野川やきそばのキッチンカーが出店します‼️\n(販売時間：12:00～売切次第終了）\n地元・北谷端公園で開催される地域のお祭りです🌸休日に瀧野川やきそばが食べられるめったにない機会なので、お近くの方は是非お越しください🙌✨ https://t.co/0VpcbZNNim",
+    "userName": "tokiwasauce",
+    "tweetUrl": "https://twitter.com/tokiwasauce/status/2035914619387310160",
+    "createdAt": "March 23, 2026 at 12:00PM"
+  },
+  {
+    "text": "@nytgt はじめまして！いつもイラスト見させていただいております🥰ぜひ谷端さんお願いします！！",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2035917230597394560",
+    "createdAt": "March 23, 2026 at 12:11PM"
+  },
+  {
+    "text": "谷端くんのタオル緑系かなって思ってたら糸ちゃんカラー",
+    "userName": "Tigers7_HIROKI",
+    "tweetUrl": "https://twitter.com/Tigers7_HIROKI/status/2035923809631605137",
+    "createdAt": "March 23, 2026 at 12:37PM"
+  },
+  {
+    "text": "谷端くんのインスタアイコンのやつも可愛い〜！ https://t.co/PD703VjWSE",
+    "userName": "Accel0512",
+    "tweetUrl": "https://twitter.com/Accel0512/status/2035933017479520688",
+    "createdAt": "March 23, 2026 at 01:13PM"
+  },
+  {
+    "text": "正直キツイのは大山と中野\nこれをどこまで目瞑れるか\n普通に厳しいよこの2人\n嶋村前川のファーストオプションと高寺のセカンド、谷端の台頭が必須",
+    "userName": "1US1D",
+    "tweetUrl": "https://twitter.com/1US1D/status/2035938362176262225",
+    "createdAt": "March 23, 2026 at 01:35PM"
+  },
+  {
+    "text": "@Hamakyo_Ori_Ars ありがとうございます😭！谷端くん承知しました！",
+    "userName": "nytgt",
+    "tweetUrl": "https://twitter.com/nytgt/status/2035956184579297469",
+    "createdAt": "March 23, 2026 at 02:45PM"
+  },
+  {
+    "text": "期待の若手打線\n1番岡城快生(中)\n2番高寺望夢(二)\n3番立石正広(三)\n4番谷端将伍(一)\n5番中川勇斗(捕)\n6番前川右京(指)\n7番西純矢(右)\n8番山田脩也(遊)\n9番福島圭音(左)\n代打百崎蒼生",
+    "userName": "guera00351",
+    "tweetUrl": "https://twitter.com/guera00351/status/2036044204544348366",
+    "createdAt": "March 23, 2026 at 08:35PM"
+  },
+  {
+    "text": "オリックスとの二軍三連戦で立石谷端岡城、小野寺嶋村熊谷辺りの当落があるんだろうな。立石はまだ時間かけていいな。",
+    "userName": "takoball221",
+    "tweetUrl": "https://twitter.com/takoball221/status/2036047251441918100",
+    "createdAt": "March 23, 2026 at 08:47PM"
+  },
+  {
+    "text": "長期離脱者出たら出たで\n岡城　立石　谷端　西純矢\n中川　高寺などなどど\nレギュラー奪取するのに目の色変えて\nプレイするんじゃないの？",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2036055585465204739",
+    "createdAt": "March 23, 2026 at 09:20PM"
+  },
+  {
+    "text": "2026.3.2\n7回裏 ヒットで出塁した #谷端将伍 選手 https://t.co/p5EmNVk9b8",
+    "userName": "satoteru_",
+    "tweetUrl": "https://twitter.com/satoteru_/status/2036061045454959010",
+    "createdAt": "March 23, 2026 at 09:42PM"
+  },
+  {
+    "text": "声劇読んでみた\n「箱の中身は？」\n作者: 鍵谷端哉 様 お借りしました！\n(ちょいカミあり) https://t.co/IZMFxwLl21",
+    "userName": "hanasakiyum",
+    "tweetUrl": "https://twitter.com/hanasakiyum/status/2036070115406733388",
+    "createdAt": "March 23, 2026 at 10:18PM"
+  },
+  {
+    "text": "不甲斐ない山田に\n発破掛けるためにも\n谷端や立石にショートやらせたら？",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2036076754172035127",
+    "createdAt": "March 23, 2026 at 10:45PM"
+  },
+  {
+    "text": "『明日花の純な夜』鍵谷端哉さんの「四月一日の花嫁」。色々台本を探している時に私も興味深く読ませていただいていた2人台本でありました！切なくもあたたかい気持ちが残るお話で、明日花さんと真琴さん演じる親友同士の掛け合いが素敵でしたね👰🏻‍♀️✨\n#ラジオ3 #radio3 #リスラジ\n#タラントゥラジオ",
+    "userName": "xite_perform",
+    "tweetUrl": "https://twitter.com/xite_perform/status/2036080901977973196",
+    "createdAt": "March 23, 2026 at 11:01PM"
+  },
+  {
+    "text": "阪神はDH導入に向けて助っ人野手を複数連れてきて見極める選択もあった筈だけどドラフトで立石谷端岡城、現ドラで濱田取った選択はよかったと思う。助っ人は育成する時間を金で買うようなもの。でも1軍に枠がないなら格安の若手集める方がコスパ良い。補強と育成は戦力確保の仕方が違うだけなんだよな",
+    "userName": "Grenier_tora",
+    "tweetUrl": "https://twitter.com/Grenier_tora/status/2036083868550435185",
+    "createdAt": "March 23, 2026 at 11:13PM"
+  },
+  {
+    "text": "お借りした素敵な作品🫶\n\n【十月の朝顔】:筆先ちひろ様 https://t.co/mi1L9NTbgV\n\n【夢か現か幻か】:筆先ちひろ様 https://t.co/rdRYi79Axi\n\n【ウォール・バレンタインは唐突に】:筆先ちひろ様 https://t.co/BxJwWZfCtb\n\n【スマイル0円】:鍵谷端哉 様\nhttps://t.co/huTU6dxh83 https://t.co/9c4XHnszEL",
+    "userName": "nekoba_kaoru",
+    "tweetUrl": "https://twitter.com/nekoba_kaoru/status/2036092473852969182",
+    "createdAt": "March 23, 2026 at 11:47PM"
+  },
+  {
+    "text": "『 ■■■を殺すのは 』\n\nKP / あおのわたばね\n\nPC/PL\n谷端 藍 / 灯火 さん\n\nEND-D 生還\n┈┈┈┈┈┈┈┈┈┈┈┈┈\n快刀乱魔 自陣HO4月に回させてもらいました！！\n谷端さんに来てもらえて良かった…😭💕✨\nたくさん谷端さんについて知れました🙌\nhttps://t.co/OFKX4MOfh7",
+    "userName": "AONO1315794",
+    "tweetUrl": "https://twitter.com/AONO1315794/status/2036103456214438033",
+    "createdAt": "March 24, 2026 at 12:31AM"
   }
 ]
