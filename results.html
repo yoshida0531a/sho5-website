@@ -388,7 +388,7 @@
     /* Render stats summary */
     function renderSummary(id, s) {
       const pa = (s.pa > 0) ? s.pa : (s.ab || 0) + (s.bb || 0) + (s.hbp || 0) + (s.sh || 0) + (s.sf || 0);
-      const xbh = (s.double || 0) + (s.triple || 0) + (s.hr || 0);
+      const extraBaseHits = (s.double || 0) + (s.triple || 0) + (s.hr || 0);
       const fields = [
         { label: '試合',   key: 'games' },
         { label: '打率',   key: 'avg',  hl: true },
@@ -397,7 +397,7 @@
         { label: '打席',   value: pa },
         { label: '安打',   key: 'h' },
         { label: '四球',   key: 'bb' },
-        { label: '長打',   value: xbh },
+        { label: '長打',   value: extraBaseHits },
       ];
       document.getElementById(id).innerHTML = fields.map(f =>
         `<div class="stat-item">
@@ -438,8 +438,8 @@
         if (g.rbi > 0) extras.push(`${g.rbi}打点`);
         if (g.bb  > 0) extras.push(`${g.bb}四球`);
         if (g.sb  > 0) extras.push(`${g.sb}盗塁`);
-        const xbhNonHR = (g.double || 0) + (g.triple || 0);
-        if (xbhNonHR > 0) extras.push(`${xbhNonHR}長打`);
+        const doublesAndTriples = (g.double || 0) + (g.triple || 0);
+        if (doublesAndTriples > 0) extras.push(`${doublesAndTriples}長打`);
         return `<div class="game-card">
           <div class="game-header">
             <div>
