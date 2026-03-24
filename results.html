@@ -387,20 +387,22 @@
 
     /* Render stats summary */
     function renderSummary(id, s) {
+      const pa = (s.pa > 0) ? s.pa : (s.ab || 0) + (s.bb || 0) + (s.hbp || 0) + (s.sh || 0) + (s.sf || 0);
+      const extraBaseHits = (s.double || 0) + (s.triple || 0) + (s.hr || 0);
       const fields = [
         { label: '試合',   key: 'games' },
         { label: '打率',   key: 'avg',  hl: true },
         { label: '本塁打', key: 'hr' },
         { label: '打点',   key: 'rbi' },
-        { label: '打席',   key: 'pa' },
+        { label: '打席',   value: pa },
         { label: '安打',   key: 'h' },
         { label: '四球',   key: 'bb' },
-        { label: '三振',   key: 'so' },
+        { label: '長打',   value: extraBaseHits },
       ];
       document.getElementById(id).innerHTML = fields.map(f =>
         `<div class="stat-item">
            <div class="stat-label">${f.label}</div>
-           <div class="stat-value${f.hl ? ' highlight' : ''}">${safe(s[f.key])}</div>
+           <div class="stat-value${f.hl ? ' highlight' : ''}">${f.value !== undefined ? f.value : safe(s[f.key])}</div>
          </div>`
       ).join('');
     }
@@ -422,7 +424,7 @@
         const rl =
           g.result === 'W' ? '勝' :
           g.result === 'L' ? '敗' :
-          g.result === 'D' ? '分' : '結果未取得';
+          g.result === 'D' ? '分' : '';
 
         const hasScore = Number.isFinite(g.score_us) && Number.isFinite(g.score_them);
         const scoreText = hasScore ? `${g.score_us}-${g.score_them}` : '--';
@@ -436,7 +438,8 @@
         if (g.rbi > 0) extras.push(`${g.rbi}打点`);
         if (g.bb  > 0) extras.push(`${g.bb}四球`);
         if (g.sb  > 0) extras.push(`${g.sb}盗塁`);
-        if (g.so  > 0) extras.push(`${g.so}三振`);
+        const doublesAndTriples = (g.double || 0) + (g.triple || 0);
+        if (doublesAndTriples > 0) extras.push(`${doublesAndTriples}長打`);
         return `<div class="game-card">
           <div class="game-header">
             <div>
