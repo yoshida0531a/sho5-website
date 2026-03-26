@@ -1998,5 +1998,21 @@
     "publishedAt": "March 20, 2026 at 07:09AM",
     "description": "春季教育リーグのオリックス戦で、阪神タイガースファームが13得点の圧勝劇を見せました！ルーキー谷端将伍の4打点の大暴れ ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍選手 応援曲 #阪神タイガース #谷端将伍 #25 #応援歌 #reeel",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=MrQPcYT-DP0",
+    "publishedAt": "March 26, 2026 at 06:55PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【2026.3.17】ファーム阪神vsオリックスルーキー谷端将伍選手肩にデッドボールを受ける#まちこりーたボイス #阪神タイガース #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_u1Qnf8xu00",
+    "publishedAt": "March 26, 2026 at 06:57PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
