@@ -2022,5 +2022,13 @@
     "publishedAt": "March 27, 2026 at 08:48PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "期待のドラ2【バックスクリーン映像】谷端登場演出1Trust（Bigfumi） 阪神タイガース 登場演出 2026年 登場曲  #SGLスタジアム #阪神タイガース  #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QgcnD68jmcw",
+    "publishedAt": "March 29, 2026 at 08:00AM",
+    "description": "baseballhighlights #Trust #Bigfumi #プロ野球 #baseball #hanshintigers.",
+    "keyword": "谷端 阪神"
   }
 ]
