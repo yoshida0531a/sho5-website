@@ -2030,5 +2030,21 @@
     "publishedAt": "March 29, 2026 at 08:00AM",
     "description": "baseballhighlights #Trust #Bigfumi #プロ野球 #baseball #hanshintigers.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026 ドラフト2位  谷端将伍選手 登場曲「Trust/Bigfumi」  #shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2-ECOPz64IY",
+    "publishedAt": "March 30, 2026 at 03:58PM",
+    "description": "2026 ドラフト2位 谷端将伍選手 登場曲 「Trust/Bigfumi」 #阪神タイガース #谷端将伍 #登場曲 #Trust #Bigfumi #ゼロカーボン ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【SGLスタジアム尼崎】2026 ドラフト2位 谷端将伍選手  ネクストバッターズサークルでのルーティン　　　　　　　　「2026.3.27  阪神vs広島」  #shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=SqykfkdmAv0",
+    "publishedAt": "March 31, 2026 at 06:18AM",
+    "description": "【SGLスタジアム尼崎】 2026 ドラフト2位 谷端将伍選手 ネクストバッターズサークルでのルーティン 「2026.3.27 阪神vs広島」 ...",
+    "keyword": "谷端 阪神"
   }
 ]
