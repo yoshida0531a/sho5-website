@@ -6796,5 +6796,149 @@
     "userName": "rakuru_55",
     "tweetUrl": "https://twitter.com/rakuru_55/status/2039056634656477336",
     "createdAt": "April 1, 2026 at 04:06AM"
+  },
+  {
+    "text": "ジャガユニ似合ってるね🐆\n\n2026.3.28📍SGL\n#谷端将伍 選手 https://t.co/lth604iI7n",
+    "userName": "nytgt",
+    "tweetUrl": "https://twitter.com/nytgt/status/2039241722618847735",
+    "createdAt": "April 1, 2026 at 04:21PM"
+  },
+  {
+    "text": "個人的に谷端くんの目が好き\n\n2026.3.28📍SGL\n#谷端将伍 選手 https://t.co/JNKd3QtIpl",
+    "userName": "nytgt",
+    "tweetUrl": "https://twitter.com/nytgt/status/2039270881747435660",
+    "createdAt": "April 1, 2026 at 06:17PM"
+  },
+  {
+    "text": "谷端、大好きだし取ってよかったって心から思ってるけど上位で即戦力の先発ピッチャー1人欲しかったな。\n西純矢を野手にしたしデュプランティエ抜けたしね",
+    "userName": "mihi_tora",
+    "tweetUrl": "https://twitter.com/mihi_tora/status/2039280383532118421",
+    "createdAt": "April 1, 2026 at 06:55PM"
+  },
+  {
+    "text": "@r_mark3 まあいないんだろうなぁ\n立石谷端が上がれば変わるんだが",
+    "userName": "Hanshinfunda",
+    "tweetUrl": "https://twitter.com/Hanshinfunda/status/2039291717757837322",
+    "createdAt": "April 1, 2026 at 07:40PM"
+  },
+  {
+    "text": "谷端に罪ないけどマジで上位で先発取りに行かなかったの謎。\n\n下村に目処ついたと思ったら全然投げへんし西も野手にするし編成どんだけ無能やねん。",
+    "userName": "Wc4dAqi74417351",
+    "tweetUrl": "https://twitter.com/Wc4dAqi74417351/status/2039292876971286605",
+    "createdAt": "April 1, 2026 at 07:44PM"
+  },
+  {
+    "text": "@mimi_xxx337 立石谷端岡城と補充するくらいには右野手足んないなぁ",
+    "userName": "Hanshinfunda",
+    "tweetUrl": "https://twitter.com/Hanshinfunda/status/2039301984327762274",
+    "createdAt": "April 1, 2026 at 08:20PM"
+  },
+  {
+    "text": "モレッタ東京Dと別人やないか\n\n近本と糸原は同一人物やないか\n\n中川はちょっと3球ストライク取られるまでになんとか当たれ！ではプロでは厳しくないか？？\n立石か谷端はよ来てくれ\n\n現有戦力だけではしんどいしんどい\n\n#阪神タイガース",
+    "userName": "Ken3cnN",
+    "tweetUrl": "https://twitter.com/Ken3cnN/status/2039311257791287621",
+    "createdAt": "April 1, 2026 at 08:57PM"
+  },
+  {
+    "text": "本屋さんでBBMをREを3パック購入\n欲しかった立石選手、やっと当たってくれた\nドラ2の谷端選手も\nそして、金サインのヤクルトドラ1の松下選手も出現\nいい引きでした https://t.co/4YzsEV7nlT",
+    "userName": "sosokusahenkou",
+    "tweetUrl": "https://twitter.com/sosokusahenkou/status/2039312789685285086",
+    "createdAt": "April 1, 2026 at 09:03PM"
+  },
+  {
+    "text": "タイガース、助っ人外人除くドラフトのルーキー達が試合出てないんだから負けたら余計にクソつまらん。現状は補強してないのと一緒だからな。早よ立石と谷端あがってきて",
+    "userName": "adarutomansei",
+    "tweetUrl": "https://twitter.com/adarutomansei/status/2039313709416538528",
+    "createdAt": "April 1, 2026 at 09:07PM"
+  },
+  {
+    "text": "@AIKOMTX 对啊对啊，希望s2中期能把樱之谷端上来吧，这么经典的老图啊🥹🥹🥹",
+    "userName": "HaoYeZhang53838",
+    "tweetUrl": "https://twitter.com/HaoYeZhang53838/status/2039314584054427749",
+    "createdAt": "April 1, 2026 at 09:11PM"
+  },
+  {
+    "text": "@eeNnEcOHlZ18242 @tigerschannel72 いや控えてるのが高寺、前川、立石、岡城、谷端やからなぁ、、、、",
+    "userName": "yanosuns",
+    "tweetUrl": "https://twitter.com/yanosuns/status/2039317878173057089",
+    "createdAt": "April 1, 2026 at 09:24PM"
+  },
+  {
+    "text": "近本　中野　を解体するとして\n代わりの選手もおらんよな\n\n岡城　谷端　立石の台頭に期待",
+    "userName": "777ultimetYYY",
+    "tweetUrl": "https://twitter.com/777ultimetYYY/status/2039318335083704543",
+    "createdAt": "April 1, 2026 at 09:25PM"
+  },
+  {
+    "text": "25年オフ〜26年\n\nドラフト　立石谷端岡城早瀬能登神宮山崎\n外国人　ルーカス　ラグズデール　モレッタ　ディベイニー\nトレード　島本←→伏見\n現役ドラフト　濱田\n戦力外　元山",
+    "userName": "hanshin_ken",
+    "tweetUrl": "https://twitter.com/hanshin_ken/status/2039318462632530258",
+    "createdAt": "April 1, 2026 at 09:26PM"
+  },
+  {
+    "text": "@tantantan1010 @tigerschannel72 じゃあ逆にどう判断するのかおせーてくれよw\n今のレフト候補には高寺、前川、立石、岡城、谷端、ケインとイキの良い若手がひかえとんのよ。\n13打席で良いからチャンスくれってやつらがな",
+    "userName": "yanosuns",
+    "tweetUrl": "https://twitter.com/yanosuns/status/2039318713665733051",
+    "createdAt": "April 1, 2026 at 09:27PM"
+  },
+  {
+    "text": "@tigerschannel72 打席数じゃないんよな、内容が悪すぎやねん。\n高寺の方が凡打になってもボールの見極めや芯で捉えるとか全然内容がちゃうねん。\nほんまに典型的な一軍レベルに到達してないってだけの選手。\n高寺だけじゃなく前川や立石、岡城、谷端、ケインと同世代の若手控えてるし全然見切って良いレベル",
+    "userName": "yanosuns",
+    "tweetUrl": "https://twitter.com/yanosuns/status/2039319541218755066",
+    "createdAt": "April 1, 2026 at 09:30PM"
+  },
+  {
+    "text": "糸原と谷端入れ替えても面白そう",
+    "userName": "ryuu_hanshin",
+    "tweetUrl": "https://twitter.com/ryuu_hanshin/status/2039325761577054340",
+    "createdAt": "April 1, 2026 at 09:55PM"
+  },
+  {
+    "text": "@max_orix その通り\n今日のファインプレー凄かった\n立石か谷端獲っておきたかったな\nセカンド守れたのに",
+    "userName": "braves1936",
+    "tweetUrl": "https://twitter.com/braves1936/status/2039325846780199358",
+    "createdAt": "April 1, 2026 at 09:55PM"
+  },
+  {
+    "text": "#阪神タイガース\n個人的理想スタメン\n一番 一 岡城 快生 選手\n二番 左 谷端 将伍 選手\n三番 中 森下翔太 選手\n四番 三 佐藤輝明 選手\n五番 二 立石 正広 選手\n六番 右 濱田太貴選手\n七番 遊 ディベイニー選手\n八番 捕 坂本誠志郎選手\n九番 投 高橋遥人選手",
+    "userName": "samatumakoto",
+    "tweetUrl": "https://twitter.com/samatumakoto/status/2039328966742507634",
+    "createdAt": "April 1, 2026 at 10:08PM"
+  },
+  {
+    "text": "#阪神タイガース\n個人的理想スタメン\n一番 一 岡城快生 選手\n二番 左 谷端将伍 選手\n三番 中 森下翔太 選手\n四番 三 佐藤輝明 選手\n五番 二 立石正広 選手\n六番 右 濱田太貴 選手\n七番 遊 高寺望夢 選手\n八番 捕 坂本誠志郎 選手\n九番 投 高橋遥人 選手",
+    "userName": "samatumakoto",
+    "tweetUrl": "https://twitter.com/samatumakoto/status/2039330708142150113",
+    "createdAt": "April 1, 2026 at 10:15PM"
+  },
+  {
+    "text": "@Stephen_donsama 最終的にはどちらかだけが1軍の代打枠になって2軍にどちらか行きそう。立石や前川や谷端とかいずれ１軍に上がるやろうからその時にどういうメンバー選考するのか。\n植田、熊谷、福島、岡城って基本代走か守備固めの選手やからなぁ",
+    "userName": "reizaburo",
+    "tweetUrl": "https://twitter.com/reizaburo/status/2039358912475111493",
+    "createdAt": "April 2, 2026 at 12:07AM"
+  },
+  {
+    "text": "ちょっと負けたぐらいで言うのもアレだけど、阪神のメンバー去年とあんま代わり映えしないから、立石か谷端あたりが出てきてレギュラーに危機感持たせてもらわないと見てるほうも盛り上がってこないんだよな。一応中川は出してもらってるけどずっとガチガチの気合いで万振りしてるし",
+    "userName": "woodstock0130",
+    "tweetUrl": "https://twitter.com/woodstock0130/status/2039363792338075983",
+    "createdAt": "April 2, 2026 at 12:26AM"
+  },
+  {
+    "text": "#プロ野球 #阪神タイガース #谷端将伍 1日 上達を実感しつつある二塁守備の背景に #中野拓夢 からの金言がある事を明かし ここまでファーム公式戦9試合に二塁でスタメン出場し1失策\n#谷端「入団した頃に比べると自信を持ってできている」と表情は力強い #宜野座 での #春季キャンプ では正二塁手 https://t.co/nNWm3WcN9J",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2039441625081127017",
+    "createdAt": "April 2, 2026 at 05:35AM"
+  },
+  {
+    "text": "#中野拓夢 から『顔とグラブ(の距離)が遠い」と指摘を受け\n#谷端将伍「#中野 さんは(捕球時に)下に入り込むイメージでやられていた」と間近で見た一流の守備が何よりの財産\nこの日 #ファーム #中日 戦 #ナゴヤ は試合開始の約1時間前 雨天中止が発表 雨が強まる前のグラウンドで #山崎2軍内野守備走塁 https://t.co/XGTbREmelL",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2039441630454038974",
+    "createdAt": "April 2, 2026 at 05:35AM"
+  },
+  {
+    "text": "コーチと入念に守備を確認\n#谷端将伍「まだまだ下手くそもっと上を目指したい」と雨でぬれ泥で汚れたユニホーム姿で語った\n#プロ野球 #野球 #阪神 #タイガース #阪神タイガース #Tigers #谷 https://t.co/wH7toqCf8h",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2039441637559144731",
+    "createdAt": "April 2, 2026 at 05:35AM"
   }
 ]
