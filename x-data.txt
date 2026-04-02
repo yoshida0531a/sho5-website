@@ -6940,5 +6940,149 @@
     "userName": "reo_naniwa",
     "tweetUrl": "https://twitter.com/reo_naniwa/status/2039441637559144731",
     "createdAt": "April 2, 2026 at 05:35AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　中野から守備助言で「自信」も「まだまだ下手くそ」雨中で守備練習（デイリースポーツ）\n#Yahooニュース\n https://t.co/loqozQNAgG",
+    "userName": "kabunomikoto24",
+    "tweetUrl": "https://twitter.com/kabunomikoto24/status/2039474880354402558",
+    "createdAt": "April 2, 2026 at 07:47AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　中野から守備助言で「自信」も「まだまだ下手くそ」雨中で守備練習(デイリースポーツ)\n#Yahooニュース\n#阪神タイガース #谷端将伍\nhttps://t.co/epdInKhdTS",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2039499473093833057",
+    "createdAt": "April 2, 2026 at 09:25AM"
+  },
+  {
+    "text": "ドラ２谷端　中野から守備助言で「自信」も「まだまだ下手くそ」雨中で守備練習\n\nhttps://t.co/n1OFKYGbj4",
+    "userName": "dailytigers2026",
+    "tweetUrl": "https://twitter.com/dailytigers2026/status/2039519971643122061",
+    "createdAt": "April 2, 2026 at 10:47AM"
+  },
+  {
+    "text": "谷端全然試合に出れなくて鬱\n岡城もベンチに幽閉するなら下で打席立たせよう。ルーキーなのに打席数足りんすぎる",
+    "userName": "kyan_kyan_16",
+    "tweetUrl": "https://twitter.com/kyan_kyan_16/status/2039538749269536776",
+    "createdAt": "April 2, 2026 at 12:01PM"
+  },
+  {
+    "text": "阪神・ドラ２谷端　中野から守備助言で「自信」も「まだまだ下手くそ」雨中で守備練習/阪神タイガース/デイリースポーツ online https://t.co/Ukv8dJUeWd # @Daily_Onlineより\n\n＞上達を実感しつつある二塁守備の背景に中野からの金言があることを明かした。",
+    "userName": "nami3_9",
+    "tweetUrl": "https://twitter.com/nami3_9/status/2039542483647119654",
+    "createdAt": "April 2, 2026 at 12:16PM"
+  },
+  {
+    "text": "たくむがお休みの日のセカンド谷端とか出来たら最高やね…🥺🥺",
+    "userName": "nami3_9",
+    "tweetUrl": "https://twitter.com/nami3_9/status/2039543178785939641",
+    "createdAt": "April 2, 2026 at 12:19PM"
+  },
+  {
+    "text": "谷端出せ出せ言ったって当てることに必死になりすぎて一生ゴロしか打たなくなり始めてるのに実戦ばっかやらせても変に感覚狂うだけでしょ。能力は疑ってないがここ最近はちと酷い",
+    "userName": "L1571566",
+    "tweetUrl": "https://twitter.com/L1571566/status/2039546169693806680",
+    "createdAt": "April 2, 2026 at 12:31PM"
+  },
+  {
+    "text": "2軍のポジション📝\n\n捕…梅野/榮枝/長坂/町田/藤田が等分に\n\n一…前川/戸井が中心も基本は空いてる野手が\n\nニ…谷端が最多で山田/百﨑/佐野など\n\n三…佐野が最多も、出れる野手がランダムで\n\n遊…ほぼディベイニーと山田\n\n外…コン/井坪/西純矢/福島/小野寺で主に",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2039546362522693994",
+    "createdAt": "April 2, 2026 at 12:32PM"
+  },
+  {
+    "text": "９回表　投手：齋藤綱記\n山田　三ゴ　●\n代：谷端　遊ゴ　●●\n前川　四球　●●①\n戸井　左❷ＨＲ💕🎉　●●\n西純　見三振　●●●\n\n阪神６－０中日",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2039586962626286079",
+    "createdAt": "April 2, 2026 at 03:13PM"
+  },
+  {
+    "text": "中日の終わってる人たちからきっちり点取れてるのはいいけどヒット出てないディベと併殺かましてる(当然ノーヒット)井坪は気にしてください\n代打で出てる谷端は1打席なのでとりあえず不問",
+    "userName": "sgsbonjin",
+    "tweetUrl": "https://twitter.com/sgsbonjin/status/2039587880897826936",
+    "createdAt": "April 2, 2026 at 03:16PM"
+  },
+  {
+    "text": "９回裏　投手：津田淳哉　一：戸井\n　　　　三：谷端　左：小野寺\n花田　ニゴ（ナイス👍）　●\n津田　遊ゴ（ナイス👍）　●●\n新保　空三振　●●●\n\n阪神６－０中日\n\n１１安打６得点の快勝‼️戸井の今シーズン第一号ホームランも飛び出した💕投手陣は７被安打２与四死球無失点と粘った👍",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2039589157841051742",
+    "createdAt": "April 2, 2026 at 03:22PM"
+  },
+  {
+    "text": "阪神2軍って二遊間残れずにコーナー目指しましょうみたいな奴そこそこいてな…\n谷端には本当に頑張ってほしい",
+    "userName": "uraraurara_612",
+    "tweetUrl": "https://twitter.com/uraraurara_612/status/2039590617039400989",
+    "createdAt": "April 2, 2026 at 03:27PM"
+  },
+  {
+    "text": "＃京セラドーム大阪 に来ています🐯⚾️\nファンクラブ応援デーで、湯浅投手のピンバッジが貰えました😀\n入場特典でカードゲームのカードが貰えたけど、興味はないです😅\n\n座席は、ライト上段の最前列です😆\n\n＃阪神タイガース\n＃谷端将伍ユニ\n＃谷端将伍 選手は出場しません😥 https://t.co/iMFLwYUU50",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2039607771906380074",
+    "createdAt": "April 2, 2026 at 04:36PM"
+  },
+  {
+    "text": "てか、谷端ショート行けない？",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2039611729781662102",
+    "createdAt": "April 2, 2026 at 04:51PM"
+  },
+  {
+    "text": "２軍戦 6-0 中日。なんか２軍も層が厚くなってきた感じがするな。３割打ってる選手はもう１軍レベルだよね。その中で１割台の選手が３人、、、。谷端選手は新人だけど、梅野捕手とディベイニー選手。ディベイニー選手は慣れもあるだろうけど。投手陣は２軍も盤石だなー #阪神タイガース",
+    "userName": "rikehan69032",
+    "tweetUrl": "https://twitter.com/rikehan69032/status/2039612108560871511",
+    "createdAt": "April 2, 2026 at 04:53PM"
+  },
+  {
+    "text": "みんな山田に期待してるけど自分は佐野の方が今期待してる…木浪ですら守れてんやし\n\n佐野も行けるやろ。なんなら谷端も行けちゃわない？",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2039613516022452290",
+    "createdAt": "April 2, 2026 at 04:58PM"
+  },
+  {
+    "text": "大学の実績やUT起用できる可能性も含めてドラ2に残った谷端指名は評価したいけど\n\nそれはそれとしてSS崩れとして2B/3B(1B/LF)として打撃で何とか生き残ろうって内野は阪神二軍が既に何人も抱えてるタイプで、\n\n谷端も他の選手も悪くないけど、やっぱり二軍編成への解像度は低いんじゃないかと思ったり https://t.co/Oo6XOH4ALz",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2039626271089705357",
+    "createdAt": "April 2, 2026 at 05:49PM"
+  },
+  {
+    "text": "@fumi_tgpk 将来的に1Bは前川か谷端に任せたいよなってのはあるし、前川木浪大山全員の調子見つつやね\n色々変えるにはまだ時期尚早かな",
+    "userName": "guera00351",
+    "tweetUrl": "https://twitter.com/guera00351/status/2039657782144860384",
+    "createdAt": "April 2, 2026 at 07:54PM"
+  },
+  {
+    "text": "谷端 実 ／ KAIJIN40   [BOOK] \nhttps://t.co/bRW7TdZlPp\n\nバラエティに富んだ怪人40体の作品集。スリーブ式で、ケースを外すと怪人の仮面の下からほがらか男性が！ https://t.co/p9fGojyrEz",
+    "userName": "kaibutsushop",
+    "tweetUrl": "https://twitter.com/kaibutsushop/status/2039666745242231129",
+    "createdAt": "April 2, 2026 at 08:30PM"
+  },
+  {
+    "text": "@tigerschannel72 立石君に震えて待て👎谷端君も必ず来るわ👎👎",
+    "userName": "dai43233111",
+    "tweetUrl": "https://twitter.com/dai43233111/status/2039688897157124253",
+    "createdAt": "April 2, 2026 at 09:58PM"
+  },
+  {
+    "text": "@minori___ironim 早く中川覚醒して欲しい\n早く立石と谷端を1軍で見たい",
+    "userName": "cheeza_col",
+    "tweetUrl": "https://twitter.com/cheeza_col/status/2039702901367640324",
+    "createdAt": "April 2, 2026 at 10:54PM"
+  },
+  {
+    "text": "@gironnashisaku1 谷端くんも　楽しみ😊",
+    "userName": "01HARU2025",
+    "tweetUrl": "https://twitter.com/01HARU2025/status/2039724664738742622",
+    "createdAt": "April 3, 2026 at 12:20AM"
+  },
+  {
+    "text": "@tigerschannel72 ホンマは\nここに立石やったんやろな\nそれか\nギリ谷端\n(暗黒時代なら､全員レギュラーですが…)\nそれが予想以上に､機能していない\n岡田の高卒全振りドラフトのように\n野手全振りドラフトすると\n嵌れば良いけど\n機能しなくなると\n少し投手が欲しくなるね",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2039780981096448171",
+    "createdAt": "April 3, 2026 at 04:04AM"
+  },
+  {
+    "text": "@marimomirumousa ショート候補には百崎山田もいる\nドラフトではショートも守れる谷端くんを獲っている\nここでキャムが台頭したら、一番に切られるのは自分\nまさに「後がなくなった」きなみん、相当燃えているはず",
+    "userName": "keiko_tigers",
+    "tweetUrl": "https://twitter.com/keiko_tigers/status/2039798756183511061",
+    "createdAt": "April 3, 2026 at 05:14AM"
   }
 ]
