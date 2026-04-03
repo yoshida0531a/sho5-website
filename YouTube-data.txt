@@ -2054,5 +2054,13 @@
     "publishedAt": "April 2, 2026 at 04:06PM",
     "description": "2026年4月1日、ナゴヤ球場。 雨天中止のグラウンドで、一人黙々と守備を磨くドラフト2位・谷端将伍選手の姿がありました。",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【SGLスタジアム尼崎】2026 ドラフト2位 谷端将伍選手  山崎憲晴コーチからノックを受ける！「2026.3.27  阪神vs広島」　#shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=foOFkEWh3Vc",
+    "publishedAt": "April 3, 2026 at 05:34PM",
+    "description": "【SGLスタジアム尼崎】 2026 ドラフト2位 谷端将伍選手 山崎憲晴コーチからノックを受ける！ 「2026.3.27 阪神vs広島」 #阪神 ...",
+    "keyword": "谷端 阪神"
   }
 ]
