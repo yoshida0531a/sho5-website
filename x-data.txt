@@ -7516,5 +7516,197 @@
     "userName": "hwH3D2XM9NHPkGt",
     "tweetUrl": "https://twitter.com/hwH3D2XM9NHPkGt/status/2040142293664223305",
     "createdAt": "April 4, 2026 at 04:00AM"
+  },
+  {
+    "text": "@w83648 @tigerschannel72 セカンド、中野or谷端or立石\nセンター、岡城or圭音\nレフト、西純矢\nDH、前川\nショート、百崎or山田\nかな…\n球児監督の間は、前川守備は出番なさそう",
+    "userName": "_duck",
+    "tweetUrl": "https://twitter.com/_duck/status/2040219020532802030",
+    "createdAt": "April 4, 2026 at 09:04AM"
+  },
+  {
+    "text": "@w83648 8岡城\n4谷端\nD前川\n9立石\n7中川\n2嶋村\n3佐野\n5百崎\n6山田",
+    "userName": "1US1D",
+    "tweetUrl": "https://twitter.com/1US1D/status/2040260161898758360",
+    "createdAt": "April 4, 2026 at 11:48AM"
+  },
+  {
+    "text": "谷端のユニ届いてハピハピ https://t.co/JbV5TzkuzB",
+    "userName": "sinjiteruzo",
+    "tweetUrl": "https://twitter.com/sinjiteruzo/status/2040281549359468660",
+    "createdAt": "April 4, 2026 at 01:13PM"
+  },
+  {
+    "text": "谷端今ファースト空いてるぞ\n早よ上がってこい",
+    "userName": "keita_sanos",
+    "tweetUrl": "https://twitter.com/keita_sanos/status/2040305063105909095",
+    "createdAt": "April 4, 2026 at 02:46PM"
+  },
+  {
+    "text": "中野くん谷端くん期待してくれているの嬉しい\n谷端くんやってやろうな！！！",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2040305093254463765",
+    "createdAt": "April 4, 2026 at 02:46PM"
+  },
+  {
+    "text": "ガチでDH専門の打者に手を出すかどうかっていうのは気になるところ。立石谷端を保有した上で、どうするか。",
+    "userName": "takoball221",
+    "tweetUrl": "https://twitter.com/takoball221/status/2040305217271681109",
+    "createdAt": "April 4, 2026 at 02:47PM"
+  },
+  {
+    "text": "今日も圭音スタメンか。結果残して定着して欲しいが、立石・谷端も早く見たい",
+    "userName": "2_have_guts",
+    "tweetUrl": "https://twitter.com/2_have_guts/status/2040310595334135815",
+    "createdAt": "April 4, 2026 at 03:08PM"
+  },
+  {
+    "text": "アメブロを投稿しました。🆕\n『西勇輝5回2失点（4月3日・尼崎）』\n#西勇輝 #SGLスタジアム \n#濱田太貴 #コンスエグラ #谷端将伍 \n#ファーム・リーグ交流戦  https://t.co/OcFl4gM94M",
+    "userName": "Okami_Chikara",
+    "tweetUrl": "https://twitter.com/Okami_Chikara/status/2040315077027602433",
+    "createdAt": "April 4, 2026 at 03:26PM"
+  },
+  {
+    "text": "谷端、ファーストの練習しようか",
+    "userName": "mikan19081",
+    "tweetUrl": "https://twitter.com/mikan19081/status/2040323387520876990",
+    "createdAt": "April 4, 2026 at 03:59PM"
+  },
+  {
+    "text": "谷端ファースト練習してた方がいいんじゃないか？セカンドよりファーストの方がチャンスあるで。",
+    "userName": "hk_tigers",
+    "tweetUrl": "https://twitter.com/hk_tigers/status/2040325276945854480",
+    "createdAt": "April 4, 2026 at 04:07PM"
+  },
+  {
+    "text": "大山に関してはどうしても衰え見え始める時だし前川立石谷端にがんばってもらうしかないってくらい",
+    "userName": "staka_11",
+    "tweetUrl": "https://twitter.com/staka_11/status/2040328897619992792",
+    "createdAt": "April 4, 2026 at 04:21PM"
+  },
+  {
+    "text": "@Hyoncho_carp 立石とか谷端とか嶋村とか福島、粒ぞろいやな。羨ましい",
+    "userName": "kyaoraina",
+    "tweetUrl": "https://twitter.com/kyaoraina/status/2040329941401915453",
+    "createdAt": "April 4, 2026 at 04:25PM"
+  },
+  {
+    "text": "@hanshin3232 ファーストは立石がいいかなあ\nテルがもし居なくなったらサードへ\n若しくはそれまでに谷端くんがものになったらサードでもいいかも",
+    "userName": "deep8940",
+    "tweetUrl": "https://twitter.com/deep8940/status/2040339226693406953",
+    "createdAt": "April 4, 2026 at 05:02PM"
+  },
+  {
+    "text": "大山の代わりとしたら\n右京しかいなくね？\nディベイニーは言うて変わらん気がするし\n佐野、谷端辺りを一回で良いから試して欲しい",
+    "userName": "Nichijo_sano",
+    "tweetUrl": "https://twitter.com/Nichijo_sano/status/2040340642258375072",
+    "createdAt": "April 4, 2026 at 05:08PM"
+  },
+  {
+    "text": "谷端はもうちょい打撃通用すると思ってたけど案外苦しんでるんだよなぁ",
+    "userName": "hal1071538",
+    "tweetUrl": "https://twitter.com/hal1071538/status/2040343882375090505",
+    "createdAt": "April 4, 2026 at 05:21PM"
+  },
+  {
+    "text": "@deep8940 ファースト立石もありますよね\nめちゃくちゃわかります\n\n谷端は…頑張れですね",
+    "userName": "hanshin3232",
+    "tweetUrl": "https://twitter.com/hanshin3232/status/2040343954458366281",
+    "createdAt": "April 4, 2026 at 05:21PM"
+  },
+  {
+    "text": "立石も谷端もレフトサードセカンドより先にファースト練習してもらった方が良さそう\nアホみたいに全員でレフト競ってる場合じゃない",
+    "userName": "kkkkkkk99chika",
+    "tweetUrl": "https://twitter.com/kkkkkkk99chika/status/2040345840611725610",
+    "createdAt": "April 4, 2026 at 05:28PM"
+  },
+  {
+    "text": "立石と谷端はいっそいでファースト練習してくれ頼むほんまに",
+    "userName": "yamapiaa",
+    "tweetUrl": "https://twitter.com/yamapiaa/status/2040350756877005059",
+    "createdAt": "April 4, 2026 at 05:48PM"
+  },
+  {
+    "text": "二軍OPS \n花田　.904\n小田　.517\n谷端　.469 https://t.co/DWtapJdYFD",
+    "userName": "LoveIshii9",
+    "tweetUrl": "https://twitter.com/LoveIshii9/status/2040352820894068966",
+    "createdAt": "April 4, 2026 at 05:56PM"
+  },
+  {
+    "text": "立石は論外だとして、谷端ファーストなんてよっぽど守備が良くないとなんのプラスも生み出せないけど https://t.co/3A8EwWrzxV",
+    "userName": "maeken_nanodeha",
+    "tweetUrl": "https://twitter.com/maeken_nanodeha/status/2040356549483474973",
+    "createdAt": "April 4, 2026 at 06:11PM"
+  },
+  {
+    "text": "@0225_masami 左手首になんかあったのと肉離れやからね〜\nこの辺は高確率で繰り返すぞ…\n個人的にルーキーなら谷端になるかもしれんね\n立石のスペ場所がなかなか致命的なとこは予想つかんかったわ自分も",
+    "userName": "somasomaimpact",
+    "tweetUrl": "https://twitter.com/somasomaimpact/status/2040369092151124314",
+    "createdAt": "April 4, 2026 at 07:01PM"
+  },
+  {
+    "text": "しかし右の代打やいうて控え捕手が出てくるこちらの層もあかんな\n立石谷端は新人やから代打起用はないとしても、濱田とかまだまだチャンスあるで",
+    "userName": "shin72826",
+    "tweetUrl": "https://twitter.com/shin72826/status/2040372317315101014",
+    "createdAt": "April 4, 2026 at 07:14PM"
+  },
+  {
+    "text": "大山自体はシーズン通したらは見れるとは思うんだけど、スタメン確約は辛いのも事実。谷端バックアップで呼べん？",
+    "userName": "29Tr9NTI8O72325",
+    "tweetUrl": "https://twitter.com/29Tr9NTI8O72325/status/2040383766091477331",
+    "createdAt": "April 4, 2026 at 07:59PM"
+  },
+  {
+    "text": "大山があまりにも状態悪いし前川谷端あたりを本格的に完成させないとまずいことになる",
+    "userName": "yamazaki__sho",
+    "tweetUrl": "https://twitter.com/yamazaki__sho/status/2040387128853758298",
+    "createdAt": "April 4, 2026 at 08:12PM"
+  },
+  {
+    "text": "@ryu_tayan 代打で糸原に打席与えるなら\n今日こそ嶋村出して欲しかった。\n\nそして糸原に変わって\n谷端とか佐野一軍呼んでいいやろ",
+    "userName": "H_58_Tora",
+    "tweetUrl": "https://twitter.com/H_58_Tora/status/2040390819572818133",
+    "createdAt": "April 4, 2026 at 08:27PM"
+  },
+  {
+    "text": "「大山いらん」なんて絶対言わないが、不調時の代わりは必要だと思うぜ？\n佐野か谷端あたりどうよ？それよか木浪ファーストで髙寺ショートとか？\n#阪神タイガース #大山悠輔",
+    "userName": "i_am_yosutebito",
+    "tweetUrl": "https://twitter.com/i_am_yosutebito/status/2040405193746223476",
+    "createdAt": "April 4, 2026 at 09:24PM"
+  },
+  {
+    "text": "サトテル外野化のデメリットってなんなん。\n岡城福島中川あたりの出番くらい？\n\nサード守れる人って、木浪高寺立石ディベイニー谷端…でサード競争枠にしても良いくらいの期待値はあると思うし。現状木浪ドエグいし。かつ、ショートの守備についてのヤジがなくなって完璧では。",
+    "userName": "qSLdRhWNlJ60404",
+    "tweetUrl": "https://twitter.com/qSLdRhWNlJ60404/status/2040413180116275266",
+    "createdAt": "April 4, 2026 at 09:56PM"
+  },
+  {
+    "text": "森下もサトテルもメジャー行っても\n立石と谷端が控えてるという\n\n藤川のあと新井が阪神の監督やれや！\n\n#carp",
+    "userName": "ryokucha33",
+    "tweetUrl": "https://twitter.com/ryokucha33/status/2040413241462198736",
+    "createdAt": "April 4, 2026 at 09:56PM"
+  },
+  {
+    "text": "小田康一郎谷端将伍\n一年目の4月に判断するなんて早すぎる。\n二軍でも打ててないけど関係ないから。\n重度の花粉症かもしれへんし。\n全然長打出てないけど関係ないから。",
+    "userName": "showa_official",
+    "tweetUrl": "https://twitter.com/showa_official/status/2040416354701062615",
+    "createdAt": "April 4, 2026 at 10:09PM"
+  },
+  {
+    "text": "@PSno_kocchigawa 期待の若手は誰や？うちの立石、谷端とか岡城みたいな。ケインみたいな育成上がりでもええけど",
+    "userName": "null37646400",
+    "tweetUrl": "https://twitter.com/null37646400/status/2040437574767173920",
+    "createdAt": "April 4, 2026 at 11:33PM"
+  },
+  {
+    "text": "超遅いセリーグ順位予想で高橋由伸が阪神の若手が思うように伸びていない間に巨人にはダルベックがいると熱く語っている。ウルフはそれでいい。福島くんも嶋村くんもまだ一軍では未知の立石くんも谷端くんも育成の西純矢もいる私は、そもそも入団時も引退時もウルフという愛称にも同情的である",
+    "userName": "kj_8meets",
+    "tweetUrl": "https://twitter.com/kj_8meets/status/2040455589164425680",
+    "createdAt": "April 5, 2026 at 12:44AM"
+  },
+  {
+    "text": "大山に関しては2年前からあんな感じだから単純に動体視力だろうな\n立石谷端前川に一塁オプ付けて出さないとキツいぞ",
+    "userName": "kutame9725",
+    "tweetUrl": "https://twitter.com/kutame9725/status/2040488882941333555",
+    "createdAt": "April 5, 2026 at 02:57AM"
   }
 ]
