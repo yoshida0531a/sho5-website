@@ -1,4 +1,4 @@
-# Shogo Fun Site - 谷端将伍応援サイト
+# Shogo Fan Site - 谷端将伍応援サイト
 
 谷端将伍（阪神タイガース2024年ドラフト2位）のファンサイトです。
 GitHub Pages と Cloudflare Workers を使って、シンプルにホームページを公開するためのリポジトリです。
