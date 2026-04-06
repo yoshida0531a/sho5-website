@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Fan Meter - 谷端将伍</title>
-  <meta name="description" content="谷端将伍の応援ファンメーター。1日1回タップして今月の応援メーターを上げられます。">
+  <meta name="description" content="谷端将伍の応援ファンメーター。何回でもタップして今月の応援メーターを上げられます。">
   <link rel="canonical" href="https://sho5.org/fan-meter.html">
   <link rel="preload" as="image" href="assets/images/fan-meter-top5.jpg" type="image/jpeg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -320,8 +320,7 @@
       background: linear-gradient(90deg, #111 0%, #555 100%);
     }
 
-    .history-value,
-    .history-fans {
+    .history-value {
       font-size: 12px;
       color: #666;
       white-space: nowrap;
@@ -390,7 +389,7 @@
       <div class="hero-content">
         <div class="eyebrow">Monthly Support</div>
         <h1>Fan Meter</h1>
-        <p>1日1回だけ押せる応援ボタン。今月のクリック数がそのままメーターになって、月ごとの応援熱量も下に残ります。</p>
+        <p>好きなだけ押せる応援ボタン。今月のクリック数がそのままメーターになって、月ごとの応援熱量も下に残ります。</p>
       </div>
     </section>
 
@@ -410,12 +409,12 @@
 
         <div class="tap-card">
           <div>
-            <div class="meter-title">One Tap Per Day</div>
+            <div class="meter-title">Tap Freely</div>
             <button class="tap-button" id="tap-button" type="button">今日の応援を送る</button>
             <div class="status" id="status-text">読み込み中…</div>
           </div>
           <div class="tap-note">
-            毎日 0:00 JST に再タップ可能。
+            何回でもタップできます。
             <br>
             メーター自体は毎月 1 日にリセットされます。
           </div>
@@ -426,12 +425,12 @@
     <section class="panel">
       <div class="stats-grid">
         <div class="stat-card">
-          <div class="stat-label">This Month</div>
-          <div class="stat-value" id="month-fans">0</div>
+          <div class="stat-label">Month Taps</div>
+          <div class="stat-value" id="month-taps-stat">0</div>
         </div>
         <div class="stat-card">
-          <div class="stat-label">Today</div>
-          <div class="stat-value" id="today-fans">0</div>
+          <div class="stat-label">Today Taps</div>
+          <div class="stat-value" id="today-taps">0</div>
         </div>
         <div class="stat-card">
           <div class="stat-label">All Time</div>
@@ -450,13 +449,12 @@
     </section>
 
     <div class="foot-note">
-      ※ 再タップ防止はブラウザとサーバーの両方で判定しています。
+      ※ タップ数はリアルタイムで加算され、月初にリセットされます。
     </div>
   </div>
 
   <script>
     const API_URL = 'https://sho5-fan-meter.chjqnfv62h.workers.dev/api/fan-meter';
-    const STORAGE_KEY = 'sho5-fan-meter:last-tap-date';
     const SPEECHES = [
       '趣味は睡眠です',
       '対戦したい相手は奥川さんです',
@@ -464,8 +462,8 @@
     ];
 
     const monthCountEl = document.getElementById('month-count');
-    const monthFansEl = document.getElementById('month-fans');
-    const todayFansEl = document.getElementById('today-fans');
+    const monthTapsStatEl = document.getElementById('month-taps-stat');
+    const todayTapsEl = document.getElementById('today-taps');
     const allTimeCountEl = document.getElementById('all-time-count');
     const monthLabelEl = document.getElementById('month-label');
     const meterFillEl = document.getElementById('meter-fill');
@@ -525,17 +523,21 @@
             <div class="history-month">${formatMonth(item.month)}</div>
             <div class="history-bar"><div class="history-bar-fill" style="width:${width}%"></div></div>
             <div class="history-value">${formatNumber(item.tapCount)} taps</div>
-            <div class="history-fans">${formatNumber(item.uniqueFans)} fans</div>
           </div>
         `;
       }).join('');
     }
 
+    function setReadyState() {
+      setButtonState(false, '応援を送る');
+      setStatus('何回でもタップできます。');
+    }
+
     function updateMeter(data) {
       currentDate = data.date;
       monthCountEl.textContent = formatNumber(data.monthTapCount);
-      monthFansEl.textContent = formatNumber(data.monthFanCount);
-      todayFansEl.textContent = formatNumber(data.todayFanCount);
+      monthTapsStatEl.textContent = formatNumber(data.monthTapCount);
+      todayTapsEl.textContent = formatNumber(data.todayTapCount);
       allTimeCountEl.textContent = formatNumber(data.allTimeTapCount);
       monthLabelEl.textContent = formatMonth(data.month);
       meterFillEl.style.width = `${Math.max(2, data.progressPercent || 0)}%`;
@@ -549,15 +551,7 @@
       }
 
       renderHistory(data.history || []);
-
-      const localTapDate = localStorage.getItem(STORAGE_KEY);
-      if (localTapDate === data.date) {
-        setButtonState(true, '今日はタップ済み');
-        setStatus('今日はもう応援済みです。明日また押せます。');
-      } else {
-        setButtonState(false, '今日の応援を送る');
-        setStatus('1日1回だけタップできます。');
-      }
+      setReadyState();
     }
 
     async function loadMeter() {
@@ -577,13 +571,6 @@
       pulseButton();
       showSpeech();
 
-      if (!currentDate) return;
-      if (localStorage.getItem(STORAGE_KEY) === currentDate) {
-        setButtonState(true, '今日はタップ済み');
-        setStatus('今日はもう応援済みです。');
-        return;
-      }
-
       setButtonState(true, '送信中…');
       setStatus('応援を送っています…');
 
@@ -598,10 +585,8 @@
         if (!response.ok) throw new Error('tap failed');
         const data = await response.json();
         updateMeter(data);
-        if (data.accepted || data.alreadyTapped) {
-          localStorage.setItem(STORAGE_KEY, data.date);
-        }
         setStatus(data.message || '応援を受け付けました。');
+        setButtonState(false, 'もう一度応援する');
       } catch (error) {
         console.error(error);
         setButtonState(false, '今日の応援を送る');
