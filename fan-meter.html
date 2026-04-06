@@ -44,33 +44,19 @@
     }
 
     .hero {
-      position: relative;
-      min-height: 280px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) 220px;
+      gap: 14px;
+      align-items: end;
       border-radius: 10px;
-      overflow: hidden;
       margin-bottom: 14px;
       background: linear-gradient(180deg, #fafafa 0%, #f0f0f0 100%);
       border: 1px solid rgba(0, 0, 0, 0.06);
-    }
-
-    .hero-visual {
-      position: absolute;
-      right: -36px;
-      bottom: -10px;
-      width: min(56vw, 420px);
-      opacity: 0.34;
-      filter: grayscale(0.04) contrast(0.96) saturate(0.88);
-      transform: scale(0.88);
-      transform-origin: bottom right;
-      pointer-events: none;
-      user-select: none;
+      padding: 18px;
     }
 
     .hero-content {
-      position: relative;
-      z-index: 2;
-      padding: 24px 20px;
-      max-width: 420px;
+      min-width: 0;
     }
 
     .eyebrow {
@@ -91,28 +77,46 @@
 
     .hero p {
       margin: 0;
-      font-size: 14px;
+      font-size: 15px;
       color: #555;
-      line-height: 1.7;
+      line-height: 1.65;
+    }
+
+    .hero-media {
+      position: relative;
+      align-self: stretch;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+      min-height: 200px;
+    }
+
+    .hero-visual {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      object-fit: cover;
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
     }
 
     .speech-bubble {
       position: absolute;
-      top: 34px;
-      right: 138px;
+      top: 10px;
+      right: 10px;
       z-index: 3;
-      max-width: 220px;
-      padding: 12px 14px;
-      border-radius: 16px;
+      max-width: 180px;
+      padding: 10px 12px;
+      border-radius: 14px;
       background: rgba(255, 255, 255, 0.94);
       border: 1px solid rgba(0, 0, 0, 0.08);
       box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
-      font-size: 13px;
+      font-size: 12px;
       line-height: 1.5;
       color: #222;
       opacity: 0;
-      transform: translateY(8px) scale(0.96);
-      transform-origin: bottom right;
+      transform: translateY(6px) scale(0.96);
+      transform-origin: top right;
       transition: opacity 0.24s ease, transform 0.24s ease;
       pointer-events: none;
     }
@@ -126,9 +130,9 @@
       content: "";
       position: absolute;
       right: 18px;
-      bottom: -10px;
-      width: 18px;
-      height: 18px;
+      bottom: -8px;
+      width: 14px;
+      height: 14px;
       background: rgba(255, 255, 255, 0.94);
       border-right: 1px solid rgba(0, 0, 0, 0.08);
       border-bottom: 1px solid rgba(0, 0, 0, 0.08);
@@ -341,6 +345,11 @@
     }
 
     @media (max-width: 720px) {
+      .hero {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
       .meter-row {
         grid-template-columns: 1fr;
       }
@@ -349,26 +358,48 @@
         grid-template-columns: repeat(2, 1fr);
       }
 
+      .hero-media {
+        min-height: 0;
+      }
+
+      .hero h1 {
+        font-size: clamp(28px, 15vw, 52px);
+      }
+
+      .hero p {
+        font-size: 14px;
+      }
+
       .speech-bubble {
-        top: 128px;
-        right: 22px;
-        max-width: 180px;
+        top: 8px;
+        right: 8px;
       }
     }
 
     @media (max-width: 560px) {
+      header {
+        font-size: 24px;
+      }
+
+      .container {
+        width: calc(100% - 16px);
+      }
+
       .hero {
-        min-height: 360px;
+        padding: 14px;
+      }
+
+      .hero h1 {
+        font-size: 48px;
+        line-height: 0.98;
+      }
+
+      .hero p {
+        font-size: 13px;
       }
 
       .hero-visual {
-        width: 290px;
-        right: -52px;
-        bottom: -8px;
-      }
-
-      .hero-content {
-        max-width: none;
+        border-radius: 10px;
       }
 
       .history-item {
@@ -384,12 +415,14 @@
 
   <div class="container">
     <section class="hero">
-      <img class="hero-visual" src="assets/images/fan-meter-top5.jpg" alt="谷端将伍">
-      <div class="speech-bubble" id="speech-bubble" aria-live="polite"></div>
       <div class="hero-content">
         <div class="eyebrow">Monthly Support</div>
         <h1>Fan Meter</h1>
         <p>好きなだけ押せる応援ボタン。今月のクリック数がそのままメーターになって、月ごとの応援熱量も下に残ります。</p>
+      </div>
+      <div class="hero-media">
+        <img class="hero-visual" src="assets/images/fan-meter-top5.jpg" alt="谷端将伍">
+        <div class="speech-bubble" id="speech-bubble" aria-live="polite"></div>
       </div>
     </section>
 
