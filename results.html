@@ -95,6 +95,10 @@
       text-align: center;
     }
 
+    .stats-card.with-heatmap {
+      background: linear-gradient(180deg, #f8f8f8 0%, #f4f1ea 100%);
+    }
+
     .stat-label {
       font-size: 10px;
       color: #777;
@@ -174,13 +178,21 @@
 
     /* ── Heatmap ── */
     .heatmap-section {
-      margin-top: 24px;
+      margin-top: 16px;
+      padding-top: 14px;
+      border-top: 1px solid rgba(0,0,0,0.06);
     }
 
     .heatmap-title {
       font-size: 14px;
       font-weight: 600;
-      text-align: center;
+      text-align: left;
+      margin-bottom: 4px;
+    }
+
+    .heatmap-subtitle {
+      font-size: 11px;
+      color: #777;
       margin-bottom: 10px;
     }
 
@@ -188,8 +200,8 @@
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 6px;
-      max-width: 270px;
-      margin: 0 auto 10px;
+      max-width: 320px;
+      margin: 0 auto 12px;
     }
 
     .heatmap-cell {
@@ -201,6 +213,13 @@
       align-items: center;
       justify-content: center;
       padding: 4px;
+    }
+
+    .cell-zone {
+      font-size: 9px;
+      color: #666;
+      line-height: 1.2;
+      margin-bottom: 4px;
     }
 
     .cell-avg {
@@ -244,6 +263,13 @@
       border-radius: 3px;
       border: 1px solid rgba(0,0,0,0.1);
       display: inline-block;
+    }
+
+    .heatmap-empty {
+      text-align: center;
+      color: #999;
+      font-size: 12px;
+      padding: 12px 0 0;
     }
 
     /* ── Season avg hero ── */
@@ -324,15 +350,12 @@
           <div class="season-avg-label">シーズン打率</div>
           <div class="season-avg-value" id="regular-avg-hero" aria-label="公式戦シーズン打率" role="status">--</div>
         </div>
-        <div class="stats-card">
+        <div class="stats-card with-heatmap">
           <div class="stats-card-title">シーズン成績</div>
           <div class="stats-row" id="regular-summary"></div>
-        </div>
-        <div class="section-title">試合結果</div>
-        <div id="regular-games"></div>
-
-        <div class="heatmap-section" id="heatmap-section" style="display:none;">
+          <div class="heatmap-section" id="heatmap-section" style="display:none;">
           <div class="heatmap-title">コース別打率</div>
+          <div class="heatmap-subtitle">各ゾーンの打率と、安打-打数・四死球を表示</div>
           <div class="heatmap-grid" id="heatmap"></div>
           <div class="legend">
             <div class="legend-box" style="background:#ffffff;"></div>
@@ -342,6 +365,9 @@
             <span>.400+</span>
           </div>
         </div>
+        </div>
+        <div class="section-title">試合結果</div>
+        <div id="regular-games"></div>
       </div>
 
       <div class="last-updated" id="last-updated"></div>
@@ -396,8 +422,8 @@
         { label: '打点',   key: 'rbi' },
         { label: '打席',   value: pa },
         { label: '安打',   key: 'h' },
-        { label: '四球',   key: 'bb' },
         { label: '長打',   value: extraBaseHits },
+        { label: '四球',   key: 'bb' },
       ];
       document.getElementById(id).innerHTML = fields.map(f =>
         `<div class="stat-item">
@@ -460,8 +486,14 @@
     /* Render heatmap */
     function renderHeatmap(cells) {
       if (!cells || cells.length === 0) return;
+      const hasMeaningfulData = cells.some(c => {
+        const avg = parseFloat(c.avg);
+        return (c.ab || 0) > 0 || (c.bb_hbp || 0) > 0 || avg > 0;
+      });
+      if (!hasMeaningfulData) return;
       document.getElementById('heatmap').innerHTML = cells.map(c =>
         `<div class="heatmap-cell ${avgClass(c.avg)}">
+           <div class="cell-zone">${c.zone}</div>
            <div class="cell-avg">${c.avg}</div>
            <div class="cell-detail">${c.h}-${c.ab}${c.bb_hbp > 0 ? '<br>四死球' + c.bb_hbp : ''}</div>
          </div>`
