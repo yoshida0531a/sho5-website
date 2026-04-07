@@ -8290,5 +8290,149 @@
     "userName": "AtushiM29054",
     "tweetUrl": "https://twitter.com/AtushiM29054/status/2041245556618711433",
     "createdAt": "April 7, 2026 at 05:03AM"
+  },
+  {
+    "text": "まだ打席数少ないとは言え、立石くんの三振率0%ってなかなか凄いな。谷端くんはそこそこ打席数あるのに10%切ってる。 https://t.co/dABOxhz7l7",
+    "userName": "XthAOY8mBf8356",
+    "tweetUrl": "https://twitter.com/XthAOY8mBf8356/status/2041278046855119015",
+    "createdAt": "April 7, 2026 at 07:13AM"
+  },
+  {
+    "text": "@satsuki_toraco 女ってバカなのかな\n谷端の２軍の成績知らないの？",
+    "userName": "haSnM7UlcX80646",
+    "tweetUrl": "https://twitter.com/haSnM7UlcX80646/status/2041285823715590455",
+    "createdAt": "April 7, 2026 at 07:44AM"
+  },
+  {
+    "text": "@satsuki_toraco 谷端くんは打率１割台だからねぇ\n今は\n１軍のベンチに居るより\nSGLで試合出て欲しいかな",
+    "userName": "5001coffee",
+    "tweetUrl": "https://twitter.com/5001coffee/status/2041296925295772112",
+    "createdAt": "April 7, 2026 at 08:28AM"
+  },
+  {
+    "text": "中川岡城が出てるしこれだけで昇格当てるのは厳しそうだけど昇格あり得るメンバーで試合出てないのは小野寺、（谷端）くらいかな https://t.co/NkUNSEk803",
+    "userName": "th29_id69",
+    "tweetUrl": "https://twitter.com/th29_id69/status/2041339778768232801",
+    "createdAt": "April 7, 2026 at 11:18AM"
+  },
+  {
+    "text": "中川嶋村岡城→親子\n右京佐野→2軍で試合でてる\n小野寺谷端→本日2軍出場なし",
+    "userName": "th29_id69",
+    "tweetUrl": "https://twitter.com/th29_id69/status/2041340239508287549",
+    "createdAt": "April 7, 2026 at 11:20AM"
+  },
+  {
+    "text": "岡城、中川、嶋村が親子で\n糸原の代わりは小野寺？さすがに谷端はまだ早いよな https://t.co/RAdWOm6eAA",
+    "userName": "syun_nara3995",
+    "tweetUrl": "https://twitter.com/syun_nara3995/status/2041349436476211599",
+    "createdAt": "April 7, 2026 at 11:56AM"
+  },
+  {
+    "text": "無事谷端くん、伏見さんタオルゲット！！！",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2041359485042925827",
+    "createdAt": "April 7, 2026 at 12:36PM"
+  },
+  {
+    "text": "た、た、た、谷端さんどこいった",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2041362219674538054",
+    "createdAt": "April 7, 2026 at 12:47PM"
+  },
+  {
+    "text": "阪神スタメン\n1右.岡城2二.戸井3一.前川4左.中川5捕.嶋村6DH.濱田7三.ディベ8中.井坪9遊.山田 \n昇格は小野寺",
+    "userName": "nandeyanen_pon",
+    "tweetUrl": "https://twitter.com/nandeyanen_pon/status/2041362956479520939",
+    "createdAt": "April 7, 2026 at 12:50PM"
+  },
+  {
+    "text": "@Hamakyo_Ori_Ars こんにちは💫\n甲子園のショップです！谷端くんのはフックに吊るす感じで販売されていていました！在庫はまだ大丈夫そうでした！おそらくなんですがダグアウトショップにも販売していると思います😆🎶",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2041366690475524367",
+    "createdAt": "April 7, 2026 at 01:05PM"
+  },
+  {
+    "text": "@_kanchan_dayoo なる　\n谷端と同じ感じか…\nまあ東都の野手はやれる確率最近高いから打席数立たせたらいけるかもな",
+    "userName": "yasuraoka777",
+    "tweetUrl": "https://twitter.com/yasuraoka777/status/2041414252641354108",
+    "createdAt": "April 7, 2026 at 04:14PM"
+  },
+  {
+    "text": "山里はなんかいろいろ谷端と被るな",
+    "userName": "ajiiiiiiii_o",
+    "tweetUrl": "https://twitter.com/ajiiiiiiii_o/status/2041440874798923946",
+    "createdAt": "April 7, 2026 at 06:00PM"
+  },
+  {
+    "text": "谷端、ファースト出来るか？",
+    "userName": "O2KOEJ",
+    "tweetUrl": "https://twitter.com/O2KOEJ/status/2041455947558842373",
+    "createdAt": "April 7, 2026 at 07:00PM"
+  },
+  {
+    "text": "マンホール幅の暗渠\n#暗渠 #谷端川 #路地 https://t.co/GagX0bPTQO",
+    "userName": "KazMiyamo",
+    "tweetUrl": "https://twitter.com/KazMiyamo/status/2041460997551223180",
+    "createdAt": "April 7, 2026 at 07:20PM"
+  },
+  {
+    "text": "まさか新人王が立石でも谷端でも中川でも岡城でもなくて福島なのアツい(予祝)",
+    "userName": "EnjoyEnkai",
+    "tweetUrl": "https://twitter.com/EnjoyEnkai/status/2041462533383651765",
+    "createdAt": "April 7, 2026 at 07:26PM"
+  },
+  {
+    "text": "今の調子『だけ』見たら\n\n7福島\n4中野\n9森下\n5佐藤\n6木浪\n3大山\n8近本\n2捕手\n\nで並べるのが1番打順回るのかもね\n\n実際は木浪、福島が元気なうちに近本、大山が復調して小幡しかり前川しかり立石、岡城、谷端辺りがこの中に食い込む勢いが欲しいね",
+    "userName": "kinamin_aiai",
+    "tweetUrl": "https://twitter.com/kinamin_aiai/status/2041486824762458334",
+    "createdAt": "April 7, 2026 at 09:02PM"
+  },
+  {
+    "text": "@ki__ri__2ki 発表されてんのか笑じゃあスルーでいい思ったんやな笑\nそれはそうwつきちゃんユニ持ちすぎやからww\n私もユニは年一しか買わないって決めたから❣️せいしろーさんユニ買う😍ただ妹が誕プレにユニ買ってくれる言うからそっちは中川くんか谷端くんかどうしよって悩んでる笑",
+    "userName": "seira_HT",
+    "tweetUrl": "https://twitter.com/seira_HT/status/2041491411439370443",
+    "createdAt": "April 7, 2026 at 09:20PM"
+  },
+  {
+    "text": "どうせ優勝してウェイバー的にどうせ実質3位しか残ってへんのやしな\n\n去年の谷端がおかしいねん",
+    "userName": "culemandao",
+    "tweetUrl": "https://twitter.com/culemandao/status/2041496920192098354",
+    "createdAt": "April 7, 2026 at 09:42PM"
+  },
+  {
+    "text": "@toratoumatohito @nappapec @wasshi_tigers 村上、岡本がいない中でセリーグ6番目、しかもファースト専。\nそして佐藤、森下に大きく劣後したチーム3番手。\n谷端岡城レベルのポテンシャルならともかく、佐藤、森下レベルのポテンシャルの立石をおいてファースト固定って何寝ぼけたこといっとんねん。\n冗談は大山の年俸だけにしとけ🐙",
+    "userName": "yanosuns",
+    "tweetUrl": "https://twitter.com/yanosuns/status/2041503162293682602",
+    "createdAt": "April 7, 2026 at 10:07PM"
+  },
+  {
+    "text": "@664____ 立石、谷端、岡城、渡部海のデビュー",
+    "userName": "bonjiri51",
+    "tweetUrl": "https://twitter.com/bonjiri51/status/2041535744972652564",
+    "createdAt": "April 8, 2026 at 12:17AM"
+  },
+  {
+    "text": "2坂本(嶋村、中川)\n3大山(前川、谷端)\n4中野(高寺、谷端)\n5立石(百崎、木浪)\n6小幡(山田、ドラフト)\n7近本\n8福島(岡城、井坪)\n9森下\n\nレフトで使ってもしゃあないので中川高寺は戻すとしてやはりファーストできる外人が欲しい",
+    "userName": "guera00351",
+    "tweetUrl": "https://twitter.com/guera00351/status/2041540093203329296",
+    "createdAt": "April 8, 2026 at 12:34AM"
+  },
+  {
+    "text": "1番近本光司(左)(ゴリラフォルム)\n2番佐藤輝明(三)(トリプルスリー)\n3番森下翔太(右)(三冠王)\n4番立石正広(一)(2025佐藤輝明)\n5番大山悠輔(指)(2020フォルム)\n6番谷端将伍(二)(牧秀吾)\n7番中川勇斗(捕)(城島健司)\n8番山田脩也(遊)(アスリート型遊撃手)\n9番福島圭音(中)(赤星憲弘)\n\nこれ見れないですか",
+    "userName": "guera00351",
+    "tweetUrl": "https://twitter.com/guera00351/status/2041542159514661170",
+    "createdAt": "April 8, 2026 at 12:42AM"
+  },
+  {
+    "text": "REPORT: 個体群は野球選手の署名カードに非効率な価値を付与。\n\n阪神タイガース 立石正広 谷端将伍 ルーキーカードセット 75シリ\nhttps://t.co/ksgeWcAGbE",
+    "userName": "fRLLFrlXXUXIj2",
+    "tweetUrl": "https://twitter.com/fRLLFrlXXUXIj2/status/2041582180032291270",
+    "createdAt": "April 8, 2026 at 03:21AM"
+  },
+  {
+    "text": "みなさん\nおはとらほー🐯\n\n三男才木無双16奪三振🥳\n4男輝明初ホームラン🥳\nこんな時に📺中継ないとは😭\n\n今日勝って首位奪還🤭✌️\nやっぱ1番上の定位置が落ち着く😌\nがんばれルーカス🥳👴\n\n末っ子谷端くんもがんばれ🥳\n\n輝明ヒーインもっとおもろいこと言えよ🤣\n\n今日もよろしくお願いします😊 https://t.co/bMjJeqXkb5",
+    "userName": "Z8imzfxwDU25531",
+    "tweetUrl": "https://twitter.com/Z8imzfxwDU25531/status/2041611944101343481",
+    "createdAt": "April 8, 2026 at 05:19AM"
   }
 ]
