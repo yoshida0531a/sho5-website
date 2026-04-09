@@ -8800,5 +8800,155 @@
     "userName": "kyoukatan115",
     "tweetUrl": "https://twitter.com/kyoukatan115/status/2041919050402689440",
     "createdAt": "April 9, 2026 at 01:40AM"
+  },
+  {
+    "text": "立石　\n\n谷端　　\n\n勝田　　\n\n岡城　　\n\n早瀬\n\n能登　　\n\n高木(今オフ育成)",
+    "userName": "green8068",
+    "tweetUrl": "https://twitter.com/green8068/status/2042049857964405049",
+    "createdAt": "April 9, 2026 at 10:20AM"
+  },
+  {
+    "text": "@_Head_Coach 今の近本や大山みとったらそりゃあドラフトで立石や谷端や岡城とるわな定期。",
+    "userName": "3mYwe2srJTupr74",
+    "tweetUrl": "https://twitter.com/3mYwe2srJTupr74/status/2042066824754528322",
+    "createdAt": "April 9, 2026 at 11:27AM"
+  },
+  {
+    "text": "@nurnurmagomedov @_Head_Coach 谷端の二軍成績みてます？\n今年は、二軍で育てないと駄目ですね。\nそれなら、立石が使えるなら大山と変えて立石でも良いかなってことです。\n今年これからを大山と共にとは思ってないファンです。",
+    "userName": "TO31968562",
+    "tweetUrl": "https://twitter.com/TO31968562/status/2042072376935088514",
+    "createdAt": "April 9, 2026 at 11:49AM"
+  },
+  {
+    "text": "@IfaniTe48739 @_Head_Coach となると、大山の後釜は谷端となり。\n二軍の成績からして谷端は今年は難しいので、大山と共に過ごしましょってことになるので、私は嫌だなと思っています。",
+    "userName": "TO31968562",
+    "tweetUrl": "https://twitter.com/TO31968562/status/2042073133549809765",
+    "createdAt": "April 9, 2026 at 11:52AM"
+  },
+  {
+    "text": "@TO31968562 @_Head_Coach いやだから将来的になんでファースト立石、サード谷端って発想が出てくるの笑\nバカすぎでしょ笑",
+    "userName": "nurnurmagomedov",
+    "tweetUrl": "https://twitter.com/nurnurmagomedov/status/2042075929183449353",
+    "createdAt": "April 9, 2026 at 12:03PM"
+  },
+  {
+    "text": "阪神の弱点は内野ですよ、レフトなんかどうとでもなる。ファーストセカンドの世代交代が至上命題なのにも関わらず谷端を使わず、サードも佐藤がアメリカ行くのが見えてるのに立石レフトで遊んでる",
+    "userName": "yuurei_71kz",
+    "tweetUrl": "https://twitter.com/yuurei_71kz/status/2042078060242202799",
+    "createdAt": "April 9, 2026 at 12:12PM"
+  },
+  {
+    "text": "二軍のメンツだけでもつよそう\n1 中 岡城\n2 捕 嶋村\n3 二 谷端\n4 三 立石\n5 右 西\n6 左 中川勇\n7 一 小野寺\n8 遊 山田脩\n9 投 だれか",
+    "userName": "yuurei_71kz",
+    "tweetUrl": "https://twitter.com/yuurei_71kz/status/2042079415585403147",
+    "createdAt": "April 9, 2026 at 12:17PM"
+  },
+  {
+    "text": "茨木、前川、谷端あたり間違えやす過ぎる https://t.co/vSC49HI9kC",
+    "userName": "COTTON_BK_ROD",
+    "tweetUrl": "https://twitter.com/COTTON_BK_ROD/status/2042080191439409236",
+    "createdAt": "April 9, 2026 at 12:20PM"
+  },
+  {
+    "text": "谷端またﾊﾞｯｯｯに頭部付近死球喰らったのか",
+    "userName": "shanespenceriri",
+    "tweetUrl": "https://twitter.com/shanespenceriri/status/2042085745947766964",
+    "createdAt": "April 9, 2026 at 12:42PM"
+  },
+  {
+    "text": "今日も元気に谷端にぶつけたらしくて怒気怒気 https://t.co/UINMBed7d4",
+    "userName": "thankyouzizii",
+    "tweetUrl": "https://twitter.com/thankyouzizii/status/2042093062147780611",
+    "createdAt": "April 9, 2026 at 01:11PM"
+  },
+  {
+    "text": "珍二軍\n3B 佐野\nSS 山田\n2B 百崎\n1B 谷端\n\n1Bと3B逆でもいいけど、将来見据えたらこの布陣メインで組んだ方がいいと思うんだが",
+    "userName": "awaykit3159",
+    "tweetUrl": "https://twitter.com/awaykit3159/status/2042100189268517308",
+    "createdAt": "April 9, 2026 at 01:40PM"
+  },
+  {
+    "text": "オリックス→ 阪神　死球\n\n片山 → 小野寺 (3/17)\n権田 → 谷端\n川瀬 → 小野寺 (3/19)\n九里 → 大山 (3/21)\n曽谷 → 伏見\n阿部 → 西純 (3/25)\n片山 → 谷端 (4/8)\n川瀬 → 濱田 (4/9)\n\n本日3回まで(12試合96イニング)\n8死球，与死球率0.75\n\n参考)\n高梨(巨)の0.90、高橋(ヤ)の0.66に近い\n異常なペース",
+    "userName": "Taiko_Torahou",
+    "tweetUrl": "https://twitter.com/Taiko_Torahou/status/2042101021892350192",
+    "createdAt": "April 9, 2026 at 01:43PM"
+  },
+  {
+    "text": "@thankyouzizii 濱田っすね谷端じゃないっす",
+    "userName": "osukect",
+    "tweetUrl": "https://twitter.com/osukect/status/2042127627264327841",
+    "createdAt": "April 9, 2026 at 03:29PM"
+  },
+  {
+    "text": "@Tigersnet_com 今年はドラ2の谷端選手に期待してます!!",
+    "userName": "ko2_nszk",
+    "tweetUrl": "https://twitter.com/ko2_nszk/status/2042134258832306336",
+    "createdAt": "April 9, 2026 at 03:55PM"
+  },
+  {
+    "text": "@Tigersnet_com 谷端選手に期待",
+    "userName": "murakawakentetu",
+    "tweetUrl": "https://twitter.com/murakawakentetu/status/2042145843437039741",
+    "createdAt": "April 9, 2026 at 04:41PM"
+  },
+  {
+    "text": "5番大山に文句言ってもなぁ。\n\n今5番に誰置くんや…ファースト枠は谷端やったり木浪回したり行けるけど5番の人が…今年は大山の復活待ちしかないかもね\n\n大山が不調の間に次世代のファーストと5番育成したいけど…💦",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2042157017306165373",
+    "createdAt": "April 9, 2026 at 05:25PM"
+  },
+  {
+    "text": "GW~交流戦に上がってくるの信じて2軍調整させながら…ファースト谷端or前川試すしかないんちゃうか？",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2042157254951203296",
+    "createdAt": "April 9, 2026 at 05:26PM"
+  },
+  {
+    "text": "■オーベル池袋立教通り(豊島区)\n⇒防災力[４]\n\n【対地震】４(大きなリスクなし)\n[地盤]概ね良好\n〇地盤ハザードエリア:該当なし\n〇表層地盤増幅率:優良レベル\n〇ボーリング調査:浅いうちに固い地層\n[建物]大きなリスクなし\n〇どっしりとした形状\n\n【対水害】３(浸水リスク有)\n×暗渠である谷端川沿い",
+    "userName": "bosaimansion",
+    "tweetUrl": "https://twitter.com/bosaimansion/status/2042178743285043397",
+    "createdAt": "April 9, 2026 at 06:52PM"
+  },
+  {
+    "text": "中野忘れてないか？立石と谷端が下にいるんですよ？悠長に見逃ししてる場合ちゃうよ",
+    "userName": "adarutomansei",
+    "tweetUrl": "https://twitter.com/adarutomansei/status/2042180383836602868",
+    "createdAt": "April 9, 2026 at 06:58PM"
+  },
+  {
+    "text": "@teruaki_Tigers8 だからドラフトで立石と谷端と岡城獲って、福島ケインを支配下登録しとるんやで。\nあと西純矢も支配下登録しそう。",
+    "userName": "3mYwe2srJTupr74",
+    "tweetUrl": "https://twitter.com/3mYwe2srJTupr74/status/2042201213102612756",
+    "createdAt": "April 9, 2026 at 08:21PM"
+  },
+  {
+    "text": "なんか試合には勝ってるけど結局未だに打席立ってない嶋村、岡城を考えたらモヤモヤする。\n岡城なんか下ではバリバリ試合谷端とか見てるから余計もったいなく感じる",
+    "userName": "waniwani0730",
+    "tweetUrl": "https://twitter.com/waniwani0730/status/2042202520274248057",
+    "createdAt": "April 9, 2026 at 08:26PM"
+  },
+  {
+    "text": "立石･谷端5番の大山6番に置けたら強いよなぁ\n\nその流れでショートを守備重視にしたいよなぁ。7番小幡なら多少打てなくても許されるやろ",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2042244428283490537",
+    "createdAt": "April 9, 2026 at 11:13PM"
+  },
+  {
+    "text": "そのための立石、谷端。 https://t.co/QZgmIyETKU",
+    "userName": "marunoi33",
+    "tweetUrl": "https://twitter.com/marunoi33/status/2042256809759846609",
+    "createdAt": "April 10, 2026 at 12:02AM"
+  },
+  {
+    "text": "阪神D2位・谷端将伍、22歳誕生日での〝早瀬ショート〟のサプライズ　4歳下の同期は「たぶん友達だと思っている（笑）」（サンケイスポーツ）\n#Yahooニュース\n https://t.co/5KiW0wGEal",
+    "userName": "yasuhiro19691",
+    "tweetUrl": "https://twitter.com/yasuhiro19691/status/2042258397073138115",
+    "createdAt": "April 10, 2026 at 12:08AM"
+  },
+  {
+    "text": "@urabi00 2025ドラフトで野手に全振り。した結果\n投手が欠けている\n去年3-1の辛勝\n今年､その全振りした分5-3の勝ち。を目指してたはずなんですが\n立石・谷端…\nなので木浪いなければ6~8ヤバい",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2042271894121095517",
+    "createdAt": "April 10, 2026 at 01:02AM"
   }
 ]
