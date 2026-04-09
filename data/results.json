@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08",
+  "last_updated": "2026-04-09",
   "spring_training": {
     "summary": {
       "games": 6,
@@ -9,7 +9,7 @@
       "double": 0,
       "triple": 1,
       "hr": 0,
-      "rbi": 1,
+      "rbi": 0,
       "runs": 0,
       "sb": 0,
       "bb": 3,
@@ -31,7 +31,7 @@
         "h": 1,
         "xbh": 0,
         "hr": 0,
-        "rbi": 1,
+        "rbi": 0,
         "bb": 0,
         "sb": 0,
         "result": null,
@@ -124,7 +124,7 @@
       "double": 0,
       "triple": 1,
       "hr": 0,
-      "rbi": 1,
+      "rbi": 0,
       "runs": 0,
       "sb": 0,
       "bb": 3,
@@ -148,7 +148,7 @@
         "h": 1,
         "xbh": 0,
         "hr": 0,
-        "rbi": 1,
+        "rbi": 0,
         "bb": 0,
         "sb": 0,
         "result": null,
