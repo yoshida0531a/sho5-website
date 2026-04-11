@@ -9220,5 +9220,179 @@
     "userName": "QmwpFlF0gcNcJq3",
     "tweetUrl": "https://twitter.com/QmwpFlF0gcNcJq3/status/2042648147667931300",
     "createdAt": "April 11, 2026 at 01:57AM"
+  },
+  {
+    "text": "キャンプ入る前めっちゃ期待してた、谷端とディベイニーがどツボにハマってるのきつい",
+    "userName": "seikoudoku_tora",
+    "tweetUrl": "https://twitter.com/seikoudoku_tora/status/2042765411960394110",
+    "createdAt": "April 11, 2026 at 09:43AM"
+  },
+  {
+    "text": "@fujikawaouen 立石や谷端、西純をなんとかしなきゃいけないのと\n清宮とかFA補強もしないとね。そーやって強さを維持してほしい",
+    "userName": "WeGvyfKxBUYWs8b",
+    "tweetUrl": "https://twitter.com/WeGvyfKxBUYWs8b/status/2042791230602645700",
+    "createdAt": "April 11, 2026 at 11:25AM"
+  },
+  {
+    "text": "ファームマツダ\n\n阪神シート\n\nキャッチャー　梅野、町田、長坂、藤田\nファースト　ディベイニー\nセカンド　谷端，百崎\nサード　糸原、佐野\nショート　山田\n外野　不明(入った時終わってました＿|￣|○\n\nノックアシスト　なし\n\nと思われます",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2042795235114455357",
+    "createdAt": "April 11, 2026 at 11:41AM"
+  },
+  {
+    "text": "🏟️着いた～\n若鯉ちゃん観に来た🎏✨\n\nめっちゃ良い天気過ぎて暑い🥵\nきっと日焼けする💦\n\n両チームとも今日はベテラン捕手がスタメン✨\n(🐯ドラ２谷端くん今日は居なかった😢)\n\n今日の先発は玉ちゃん🎏\nここにいるべき投手じゃないと思うので、良い投球続けて是非ともまた１軍のマウンドで会いたいな😊 https://t.co/A2iibqeKH8",
+    "userName": "chie131_c1831",
+    "tweetUrl": "https://twitter.com/chie131_c1831/status/2042804237206458378",
+    "createdAt": "April 11, 2026 at 12:17PM"
+  },
+  {
+    "text": "( ｣ﾟДﾟ)｣谷端スタメン見たいよ〜",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2042805210972893458",
+    "createdAt": "April 11, 2026 at 12:21PM"
+  },
+  {
+    "text": "@chie131_c1831 ちいさん🤗✨✨🫶\n楽しいご観戦になります様に❤️‍🔥\nファーム戦もいいですね\nハマスタもマツダも勝ってほしい🙏\n谷端くん要✅選手なんですね\n日焼けお気をつけて❤️❤️🥰",
+    "userName": "tjrk09140727",
+    "tweetUrl": "https://twitter.com/tjrk09140727/status/2042821503906124194",
+    "createdAt": "April 11, 2026 at 01:26PM"
+  },
+  {
+    "text": "@tjrk09140727 順子さん😊💕\nありがとうございます🍀😌🍀\nとりあえず座ってる場所は日陰になったので、快適に観てます⚾️\n毎年マツダでは２回ほど２軍の試合開催があるので、由宇までは行けない民の私なので時間の許す限り来るようにしてます🤗\n🐯谷端くんは大学野球の応援チームで✅\nほんと今日は🎏親子勝利で🙏✨",
+    "userName": "chie131_c1831",
+    "tweetUrl": "https://twitter.com/chie131_c1831/status/2042827833630953627",
+    "createdAt": "April 11, 2026 at 01:51PM"
+  },
+  {
+    "text": "酔っ払いが、ただ黙読するだけの放送!!予定→茶の歴史（谷端昭夫）、日本人【作法】（浜崎洋介）、春の雪（三島由紀夫） https://t.co/Nn3jY7daPb @YouTubeより",
+    "userName": "la_tea_time1",
+    "tweetUrl": "https://twitter.com/la_tea_time1/status/2042840814653706259",
+    "createdAt": "April 11, 2026 at 02:42PM"
+  },
+  {
+    "text": "【Tigers COLLECTION】\n\n／ \n SGLスタジアム来場者限定トレカ ✨\n＼  \n\n4月14日（火）～19日（日）のSGLスタジアム来場者限定トレカは #谷端将伍 選手！🐯\nこの6連戦でしか手に入らない限定カードをぜひ手に入れてください！皆様のご来場お待ちしております！ https://t.co/gzNixdZmds",
+    "userName": "Tigers_farm",
+    "tweetUrl": "https://twitter.com/Tigers_farm/status/2042845098820669570",
+    "createdAt": "April 11, 2026 at 03:00PM"
+  },
+  {
+    "text": "まさか立石や谷端より先に岡城くんが一軍打席に立つとは、ドラフト時には予想もせんかったわ\n＃阪神タイガース",
+    "userName": "68Mitu",
+    "tweetUrl": "https://twitter.com/68Mitu/status/2042868522326593556",
+    "createdAt": "April 11, 2026 at 04:33PM"
+  },
+  {
+    "text": "立石も谷端もまだなので",
+    "userName": "akatsukayama",
+    "tweetUrl": "https://twitter.com/akatsukayama/status/2042868646830313570",
+    "createdAt": "April 11, 2026 at 04:33PM"
+  },
+  {
+    "text": "おぉ！\n谷端くんのトレカ貰えるのね！ https://t.co/rGJ1nyrcbu",
+    "userName": "tigerslotte",
+    "tweetUrl": "https://twitter.com/tigerslotte/status/2042871225945591850",
+    "createdAt": "April 11, 2026 at 04:43PM"
+  },
+  {
+    "text": "立石、谷端、下村が出て来て、石井も復活したらホンマにすごいことになるな",
+    "userName": "Butterfly6220",
+    "tweetUrl": "https://twitter.com/Butterfly6220/status/2042876984976642258",
+    "createdAt": "April 11, 2026 at 05:06PM"
+  },
+  {
+    "text": "阪神の後継者一覧\n\n中 近本→福島\n二 中野→百崎\n右 森下→しばらく安泰\n三 佐藤→立石\n一 大山→外人\n左 ？？→高寺、前川、中川\n遊 木浪→不在\n捕 坂本→嶋村\nDH ？？→谷端、西純、外人\n\nガチで助っ人打者とショート問題は強いうちに解決しておかないと偉い目にあうぞ。",
+    "userName": "tigerstoraoo",
+    "tweetUrl": "https://twitter.com/tigerstoraoo/status/2042887631173030001",
+    "createdAt": "April 11, 2026 at 05:49PM"
+  },
+  {
+    "text": "2枚目肩周りの筋肉えぐくないですか？どんどんガタイが良くなってとってもかっこよなのですが🫠あとビジュも良すぎてる。\n\n2026.4.9   舞洲\n#谷端将伍 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/kyI0IIODGa",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2042911363522269533",
+    "createdAt": "April 11, 2026 at 07:23PM"
+  },
+  {
+    "text": "こちら1枚目本日のベストショットショーゴ📸守備の練習も沢山していると聞いております。いいプレー沢山できますように！！\n\n2026.4.9   舞洲\n#谷端将伍 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/IYhJmVYtR4",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2042912114042683556",
+    "createdAt": "April 11, 2026 at 07:26PM"
+  },
+  {
+    "text": "笑顔溢れる阪神ベンチ！！\n\n2026.4.9   舞洲\n#谷端将伍 選手\n#町田隼乙 選手\n#戸井零士 選手\n#西純矢 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/1vFB5rx3mR",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2042913679830847755",
+    "createdAt": "April 11, 2026 at 07:32PM"
+  },
+  {
+    "text": "キャチボ誰としてんのかと思ったら町田くんでした！ベンチでも仲良さげな同級生コンビでした🥰\n\n2026.4.8   舞洲\n#谷端将伍 選手\n#町田隼乙 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/byT2ESIAdg",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2042914026242609255",
+    "createdAt": "April 11, 2026 at 07:33PM"
+  },
+  {
+    "text": "いたずらっ子な谷端さん😜🤭\n間の町田くんジワるwww\n\n2026.4.8   舞洲\n#谷端将伍 選手\n#町田隼乙 選手\n#スタンリー・コンスエグラ 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/VB8ZisGKrM",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2042914600656736325",
+    "createdAt": "April 11, 2026 at 07:36PM"
+  },
+  {
+    "text": "コアファイブが揃ってるうちにコアファイブのレギュラーを脅かすほどの選手が出てこないと黄金時代は維持出来ない！！！\n高寺、中川、前川、立石、西純矢、小幡、福島、谷端、山田、百崎、岡城、嶋村頼むで！！他にもおるけど（笑）",
+    "userName": "3116Moumou",
+    "tweetUrl": "https://twitter.com/3116Moumou/status/2042915961163149801",
+    "createdAt": "April 11, 2026 at 07:41PM"
+  },
+  {
+    "text": "@Hamakyo_Ori_Ars わーーーーありがとうございます😭！！！！このコンビいつもニコニコで一緒にいるのでめちゃくちゃ元気出ます…！\n私も谷端くん撮る時浜狂丑子さんにお見せせねば！！てなってました笑",
+    "userName": "nytgt",
+    "tweetUrl": "https://twitter.com/nytgt/status/2042917014201864230",
+    "createdAt": "April 11, 2026 at 07:45PM"
+  },
+  {
+    "text": "ちょうど行く時やん😳\n谷端個人的に期待してる選手だし嬉しい☺️ https://t.co/kObzEzUYRF",
+    "userName": "toratora_takeru",
+    "tweetUrl": "https://twitter.com/toratora_takeru/status/2042919296100372850",
+    "createdAt": "April 11, 2026 at 07:54PM"
+  },
+  {
+    "text": "2026.04.05 ゼロボン\n#谷端将伍 選手 https://t.co/cxlntQHOf1",
+    "userName": "poyo___39",
+    "tweetUrl": "https://twitter.com/poyo___39/status/2042937348711911928",
+    "createdAt": "April 11, 2026 at 09:06PM"
+  },
+  {
+    "text": "阪神今でも十分楽しいのにこっから立石谷端西純下村今朝丸など楽しみな戦力試していけるのほぼ確定してるのヤバい https://t.co/1xA7Ky0H8x",
+    "userName": "mononohu1109",
+    "tweetUrl": "https://twitter.com/mononohu1109/status/2042941599290978701",
+    "createdAt": "April 11, 2026 at 09:23PM"
+  },
+  {
+    "text": "石井…怪我\n梅野…ファーム\n立石…ファーム\n及川…ファーム\n小野寺…ファーム\n谷端…ファーム\nディベイニー…ファーム\nこれだけ誤算があった上で強いわけやからね",
+    "userName": "may525t",
+    "tweetUrl": "https://twitter.com/may525t/status/2042953161477099925",
+    "createdAt": "April 11, 2026 at 10:09PM"
+  },
+  {
+    "text": "そして田和が予想以上に頑張ってるのは収穫やな。\n谷端がだいぶ苦しんでるのを見ると、あの段階では意外と正解やったのかも。\nちなみに櫻井・毛利・齋藤をドラ2で取れたのは、まじで羨ましい。",
+    "userName": "TTK141014",
+    "tweetUrl": "https://twitter.com/TTK141014/status/2042953612540940722",
+    "createdAt": "April 11, 2026 at 10:11PM"
+  },
+  {
+    "text": "@wasshi_tigers 今年気付いたら2軍で終わってそうやな\nそれより立石昇格まで岡城と谷端も1軍でアピールしてほしいとこやけど今のとこチャンスすらないね",
+    "userName": "arigatakiiii",
+    "tweetUrl": "https://twitter.com/arigatakiiii/status/2042972523957227992",
+    "createdAt": "April 11, 2026 at 11:26PM"
+  },
+  {
+    "text": "@kid__dragons 大丈夫です。２人が阪神を巣立つ頃には立石谷端岡城とバックアップが揃ってますので。",
+    "userName": "SHINKOH4",
+    "tweetUrl": "https://twitter.com/SHINKOH4/status/2042985272879780042",
+    "createdAt": "April 12, 2026 at 12:17AM"
+  },
+  {
+    "text": "西純、今朝丸、立石、谷端…阪神は2軍もヤバいな\n\n阪神・平田２軍監督　公式戦初打点のディベイニーに「今日ぐらいアグレッシブにやってくれれば」\n#Yahooニュース\nhttps://t.co/GgnBsbeGDX",
+    "userName": "godsavethepj",
+    "tweetUrl": "https://twitter.com/godsavethepj/status/2042991024507900291",
+    "createdAt": "April 12, 2026 at 12:39AM"
   }
 ]
