@@ -2094,5 +2094,13 @@
     "publishedAt": "April 10, 2026 at 01:12PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神タイガースファーム残留組 2026.04.08",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=TCJTvgakz5I",
+    "publishedAt": "April 13, 2026 at 06:30PM",
+    "description": "2026年3月8日(水)阪神タイガースファーム残留組 ※クイズはありません。 #阪神タイガース #ファーム #門別啓人 #下村海翔 #糸原 ...",
+    "keyword": "谷端 阪神"
   }
 ]
