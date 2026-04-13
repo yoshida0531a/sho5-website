@@ -9808,5 +9808,65 @@
     "userName": "okami_2019",
     "tweetUrl": "https://twitter.com/okami_2019/status/2043385497800843525",
     "createdAt": "April 13, 2026 at 02:47AM"
+  },
+  {
+    "text": "#ファーム・リーグ 西地区\n主なルーキーの成績（4/13迄）\n高橋隆慶 ソフトバンク5 .259(58-15)7点\n谷端将伍 阪神2 .170(53-9)7点\n岸本大希 広島育2 .234(47-11)3点2盗\n三方陽登 オリックス育1 .227(22-5)\n小林結太 広島育1 .100(20-2)1点\n西川篤夢 広島6 .118(17-2)1盗\n立石正広 阪神1",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2043493777302790391",
+    "createdAt": "April 13, 2026 at 09:57AM"
+  },
+  {
+    "text": "近本は出塁率が落ちて来たらフル出場は減るかな\n佐藤森下のMLB挑戦、大山の衰え(最近打ち始めたけど🤣)いずれと言う意味で)で立石、谷端、西純を始めとして若手へのチャンスは増える\n\n阪神じゃなければ…他球団なら主力となり得る選手タイガースの“超有望株”\n#Yahooニュース\nhttps://t.co/59YEkUVLHO",
+    "userName": "godsavethepj",
+    "tweetUrl": "https://twitter.com/godsavethepj/status/2043505486264402002",
+    "createdAt": "April 13, 2026 at 10:44AM"
+  },
+  {
+    "text": "谷端があたりは笑うわ https://t.co/WSSth3ydHt",
+    "userName": "apwJ573",
+    "tweetUrl": "https://twitter.com/apwJ573/status/2043544122959786162",
+    "createdAt": "April 13, 2026 at 01:17PM"
+  },
+  {
+    "text": "捕手：嶋村・榮枝・藤田（坂本・伏見の後釜）\n１塁：前川・西純・濱田（大山の後釜）\n２塁：高寺・百崎・谷端（中野の後釜）\nショート：山田・佐野（木浪・小幡の後釜）\n３塁：立石（佐藤の後釜）\nセンター：福島・岡城・井坪（近本の後釜）\n両翼：森下＋群雄割拠の若手の登竜門\n\n大体こんな感じよな。",
+    "userName": "patipati289218",
+    "tweetUrl": "https://twitter.com/patipati289218/status/2043547877298090421",
+    "createdAt": "April 13, 2026 at 01:32PM"
+  },
+  {
+    "text": "明日、04.14(Tue) #かつしかFM\n《のりあのVIVA Tuesday》3\n13:00〜14:30生放送 #VIVA789 \n23:30〜0:55再放送 #夜VIVA \n\n【りかのりあラジオドラマの小部屋】📻\n 「四月一日の花嫁」\nシナリオ:鍵谷端哉様@kagitani_motoya\n主演:波白りか @RNamishiro \n\n#VIVA789 \nhttps://t.co/OFuCCkWqMM https://t.co/i55MIhPCxr",
+    "userName": "someya_noria",
+    "tweetUrl": "https://twitter.com/someya_noria/status/2043616880469094751",
+    "createdAt": "April 13, 2026 at 06:06PM"
+  },
+  {
+    "text": "谷端とか小田もそうだけど、今年の大卒ルーキー三振率低くて凄いな。谷端は打率だけで見たら案外だけど、指標みたら上げてきそうな気もする\n\nまあ、阪神には似たタイプの選手が多いってのがネックか",
+    "userName": "s1Fl6r8G6S89811",
+    "tweetUrl": "https://twitter.com/s1Fl6r8G6S89811/status/2043618829608304725",
+    "createdAt": "April 13, 2026 at 06:14PM"
+  },
+  {
+    "text": "20260310  ＳＧＬ\n\n谷端くん！！！ヒットーーー！！！！ https://t.co/pbb2Bef0tP",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2043690044146495675",
+    "createdAt": "April 13, 2026 at 10:57PM"
+  },
+  {
+    "text": "20260310  ＳＧＬ\n\n谷端くん頑張れーー！！ https://t.co/w7sFpbLEw5",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2043690396220608668",
+    "createdAt": "April 13, 2026 at 10:58PM"
+  },
+  {
+    "text": "大阪産業大が入部予定選手を発表。開幕から2試合連続先発の大阪桐蔭DF石川、長崎総科大附FW市川、高川学園DF沖藤、大阪産大附MF谷端らが加入へ\n\nhttps://t.co/aK9IaUsfKm\n\n#大学サッカー #ゲキサカ",
+    "userName": "gekisaka",
+    "tweetUrl": "https://twitter.com/gekisaka/status/2043692188215996659",
+    "createdAt": "April 13, 2026 at 11:06PM"
+  },
+  {
+    "text": "@hina_dora315 岡田の下手くそ高卒全振りドラフト\n2025大卒野手全振りドラフト\n⇨しかし､立石・谷端転ける\nこの弊害で投手余裕ないです\nもちろん\nわかってて全振りドラフトしたので\n5点取られる代わりに7点取る野球にしようと。\nけど　\nその頼みの綱の立石・谷端…",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2043793632608825659",
+    "createdAt": "April 14, 2026 at 05:49AM"
   }
 ]
