@@ -10444,5 +10444,77 @@
     "userName": "fantakazuhiro",
     "tweetUrl": "https://twitter.com/fantakazuhiro/status/2044147952353194259",
     "createdAt": "April 15, 2026 at 05:17AM"
+  },
+  {
+    "text": "🆕追記\n伏見寅威さん ENTJ（指揮官）\n榮枝裕貴さん ENTJ（指揮官）\n村上頌樹さん ESFJ（領事）\n谷端将伍さん ESFJ（領事）\n元山飛優さん ENTP（討論者）\n佐藤輝明さん ISTP（巨匠）\n熊谷敬宥さん ISFP（冒険家）\n町田隼乙さん ISFP（冒険家）\n立石正広さん INTJ（建築家）",
+    "userName": "mrstsik",
+    "tweetUrl": "https://twitter.com/mrstsik/status/2044230896560287834",
+    "createdAt": "April 15, 2026 at 10:46AM"
+  },
+  {
+    "text": "アメブロを投稿しました。🆕\n『ラグズデール6回1失点（4月14日・尼崎）』\n#ラグズデール #SGLスタジアム \n#谷端将伍 #ディベイニー \n#ファーム・リーグ西地区 #糸原健斗  https://t.co/4MmNfCkRfY",
+    "userName": "Okami_Chikara",
+    "tweetUrl": "https://twitter.com/Okami_Chikara/status/2044235157511778530",
+    "createdAt": "April 15, 2026 at 11:03AM"
+  },
+  {
+    "text": "@ID53Fr4xQk83119 @kkkkkkk99chika 今年取れるなら相羽、来年に緒方を取って欲しい\n\nてか去年3位で勝田指名して欲しかったわ　\n\n立石\n谷端\n勝田\n岡城\n早瀬\n能登\n高木\n\nこの最強ドラフト見たかった",
+    "userName": "green8068",
+    "tweetUrl": "https://twitter.com/green8068/status/2044242643132264591",
+    "createdAt": "April 15, 2026 at 11:33AM"
+  },
+  {
+    "text": "@aaacha_t51 あーそうや！新背番号のユニは必要よね💕︎\n分かるー‼️ピッチャーのユニ誰も持ってないしアリやなぁ思いながら笑\nでも今は中川くんか谷端くんのユニを優先するんだぁぁぁあ！でもどのユニにするか問題もあってマジで買うの決めれないww\nポケモン再販ワンチャンないかなぁ❓まぁでも遥人ユニは良き🫶笑",
+    "userName": "seira_HT",
+    "tweetUrl": "https://twitter.com/seira_HT/status/2044261996833714639",
+    "createdAt": "April 15, 2026 at 12:50PM"
+  },
+  {
+    "text": "ファームベンチ入りメンバーに、立石岡城谷端嶋村福島がいて、流石に見たかったな。",
+    "userName": "vwvwkk",
+    "tweetUrl": "https://twitter.com/vwvwkk/status/2044273325195833679",
+    "createdAt": "April 15, 2026 at 01:35PM"
+  },
+  {
+    "text": "SGL｜2026.04.14\n\nもちもち濱ちゃんと谷端くん退勤\n\n#濱田太貴 選手\n#谷端将伍 選手 https://t.co/wc8PsvtKWk",
+    "userName": "tigers_59_",
+    "tweetUrl": "https://twitter.com/tigers_59_/status/2044293220742639631",
+    "createdAt": "April 15, 2026 at 02:54PM"
+  },
+  {
+    "text": "@aaacha_t51 そうなのよね！ピッチャーなら中継ぎの方がーってキリちゃん買おう思ってたけど優先順位が下がってしまい買えてない笑\nそうなのー🫶谷端くんは地元の子だから頑張って欲しくて🥰中川くんは単純に好き笑\n\nえーそうなんや🤣それなら良き🙆‍♀️私逆に手に入れられなかったらめっちゃ欲しくなるタイプ笑",
+    "userName": "seira_HT",
+    "tweetUrl": "https://twitter.com/seira_HT/status/2044297010732511589",
+    "createdAt": "April 15, 2026 at 03:09PM"
+  },
+  {
+    "text": "近本中野→谷端岡城\n佐藤→立石\n大山→前川西純\nって感じなんかな\n森下の後釜とか生えてくる気がしない\n一生阪神にいてくれよ",
+    "userName": "m31239839",
+    "tweetUrl": "https://twitter.com/m31239839/status/2044298518391816420",
+    "createdAt": "April 15, 2026 at 03:15PM"
+  },
+  {
+    "text": "我也是真的没想到当时只因为本着都磕cp了还是要好好端水的心理给相方抽了6 5，约稿买谷端水的结果就是嬷嬷演都不演光明正大扇我推是吧？好感就是这样败完的，贱人一群被糊逼Faker蹭上也是我推的不幸😅端水姐加油哈祝你们好运",
+    "userName": "NonCake496",
+    "tweetUrl": "https://twitter.com/NonCake496/status/2044309073466929493",
+    "createdAt": "April 15, 2026 at 03:57PM"
+  },
+  {
+    "text": "ふりふり〜が流行りなの？🙌👋🙌👋\n谷端くんときゃむのタイムリー.ᐟ.ᐟ\n2026.04.14\n#阪神タイガース https://t.co/FD0gPgnbzk",
+    "userName": "sukinanodake___",
+    "tweetUrl": "https://twitter.com/sukinanodake___/status/2044398545814569383",
+    "createdAt": "April 15, 2026 at 09:52PM"
+  },
+  {
+    "text": "@urabi00 あと\nやっぱり岡田はホンマにドラフト下手。で\n2022.2023は壊滅するかも？\nさらに\n2025は野手に全振りした結果\n＋石井ー断裂､及川不調で\n投手が足りない\nそれでも　\n立石・谷端が目論見通りならば\n5点取られても7点取って勝つチームなのに\n現況､立石・谷端…\n6番がいない　\n大山が6番なら適任なのに",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2044448503162978774",
+    "createdAt": "April 16, 2026 at 01:11AM"
+  },
+  {
+    "text": "それよりも谷端の二塁守備の方がマズいと思ってるので中野の後継者には髙寺を推したい",
+    "userName": "shuuu__jack",
+    "tweetUrl": "https://twitter.com/shuuu__jack/status/2044450871556342260",
+    "createdAt": "April 16, 2026 at 01:20AM"
   }
 ]
