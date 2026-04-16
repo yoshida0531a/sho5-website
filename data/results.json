@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-15",
+  "last_updated": "2026-04-16",
   "spring_training": {
     "summary": {
       "games": 6,
       "pa": 0,
-      "ab": 19,
+      "ab": 18,
       "h": 4,
       "double": 0,
       "triple": 1,
@@ -17,12 +17,27 @@
       "xbh": 1,
       "sh": 0,
       "sf": 0,
-      "avg": ".211",
+      "avg": ".222",
       "obp": ".000",
       "slg": ".000",
       "ops": ".000"
     },
     "games": [
+      {
+        "date": "2026-04-16",
+        "opponent": "ソフトバンク",
+        "pa": 0,
+        "ab": 2,
+        "h": 1,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 1,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
       {
         "date": "2026-04-14",
         "opponent": "ソフトバンク",
@@ -89,21 +104,6 @@
         "pa": 0,
         "ab": 2,
         "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 1,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-04-03",
-        "opponent": "楽天",
-        "pa": 0,
-        "ab": 3,
-        "h": 1,
         "xbh": 0,
         "hr": 0,
         "rbi": 0,
@@ -119,7 +119,7 @@
     "summary": {
       "games": 6,
       "pa": 0,
-      "ab": 19,
+      "ab": 18,
       "h": 4,
       "double": 0,
       "triple": 1,
@@ -132,7 +132,7 @@
       "xbh": 1,
       "sh": 0,
       "sf": 0,
-      "avg": ".211",
+      "avg": ".222",
       "obp": ".000",
       "slg": ".000",
       "ops": ".000",
@@ -140,6 +140,21 @@
       "gidp": 0
     },
     "games": [
+      {
+        "date": "2026-04-16",
+        "opponent": "ソフトバンク",
+        "pa": 0,
+        "ab": 2,
+        "h": 1,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 1,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
       {
         "date": "2026-04-14",
         "opponent": "ソフトバンク",
@@ -206,21 +221,6 @@
         "pa": 0,
         "ab": 2,
         "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 1,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-04-03",
-        "opponent": "楽天",
-        "pa": 0,
-        "ab": 3,
-        "h": 1,
         "xbh": 0,
         "hr": 0,
         "rbi": 0,
