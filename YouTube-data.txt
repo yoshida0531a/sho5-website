@@ -2110,5 +2110,13 @@
     "publishedAt": "April 16, 2026 at 07:03PM",
     "description": "阪神ファン震撼...二軍で起きた「前代未聞」の惨劇を徹底解説。ソフトバンク・東浜巨投手の前に、ドラフト2位ルーキー・谷端 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.4.18 試合前練習の時の戸井零士選手 谷端将伍選手 川﨑俊哲選手  #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=BXgJTZBuAm4",
+    "publishedAt": "April 18, 2026 at 07:18PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
