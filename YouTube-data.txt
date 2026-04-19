@@ -2118,5 +2118,29 @@
     "publishedAt": "April 18, 2026 at 07:18PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "河野佳と常廣羽也斗通信。阪神谷端と広島前川の激突についても解説します。",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=et9p_sRWicU",
+    "publishedAt": "April 19, 2026 at 11:04AM",
+    "description": "この動画では以下の内容が分かります： ・河野佳90点、辻大雅まずまず ・西勇輝80点。 ・阪神谷端と広島前川の接触プレー ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃アクシデント】谷端将伍＆前川が激突…二軍戦が大荒れ展開に⚾💥😱 阪神・西勇まさかの7失点も波乱続出！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=S60WAHScZ-w",
+    "publishedAt": "April 19, 2026 at 03:24PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.4.19 試合前練習 戸井零士選手 谷端将伍選手 チラッと百﨑蒼生選手  #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=FFm1nR8jwLI",
+    "publishedAt": "April 19, 2026 at 10:57PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
