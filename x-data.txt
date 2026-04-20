@@ -12028,5 +12028,101 @@
     "userName": "Caian4ever2",
     "tweetUrl": "https://twitter.com/Caian4ever2/status/2045934168467804376",
     "createdAt": "April 20, 2026 at 03:34AM"
+  },
+  {
+    "text": "阪神も数年後やばいからね\n\n近本･中野･大山の高齢化\n佐藤･森下のメジャー\n\nいちよ後継者候補はいたりするけどそこもどうなるかだし\n近本→福島･岡城(井坪)\n中野→いない💦\n佐藤輝明→立石\n森下→西純矢･前川･中川等\n坂本→渡辺海ドラ1で行く予定\n大山→谷端\n\nこんなとこ？",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2046023916930613361",
+    "createdAt": "April 20, 2026 at 09:31AM"
+  },
+  {
+    "text": "阪神の今の黄金期が長く続くかは立石谷端岡城の数年後の出来はもちろんだけど2年以内に大山近本が安泰にならんくらいの対抗馬が出てるかどうかよなぁ。（岡城は近本と競う枠とは思うがそうすると森下渡米後が怖い）",
+    "userName": "s_aura_Reni",
+    "tweetUrl": "https://twitter.com/s_aura_Reni/status/2046064961617850472",
+    "createdAt": "April 20, 2026 at 12:14PM"
+  },
+  {
+    "text": "@botgaiaku これから立石、谷端、岡城やんか",
+    "userName": "7IfEkJadwB91281",
+    "tweetUrl": "https://twitter.com/7IfEkJadwB91281/status/2046094228401656148",
+    "createdAt": "April 20, 2026 at 02:10PM"
+  },
+  {
+    "text": "立石や谷端のブレイクに夢みる",
+    "userName": "araihanyu2",
+    "tweetUrl": "https://twitter.com/araihanyu2/status/2046123970421039366",
+    "createdAt": "April 20, 2026 at 04:09PM"
+  },
+  {
+    "text": "@henna_e_kakimas 立石くん、谷端くん、岡城くんがいる、下では将来のショート山田くん、百崎くんもおる。打てるキャッチャーになりつつある嶋村くんもおる、慌てずどっしり構えておこう。",
+    "userName": "donchan_speed",
+    "tweetUrl": "https://twitter.com/donchan_speed/status/2046124799358030030",
+    "createdAt": "April 20, 2026 at 04:12PM"
+  },
+  {
+    "text": "@henna_e_kakimas 数年後には、中川、谷端、立石が代わってくれてるさ。",
+    "userName": "coralseakushimo",
+    "tweetUrl": "https://twitter.com/coralseakushimo/status/2046137045375193383",
+    "createdAt": "April 20, 2026 at 05:01PM"
+  },
+  {
+    "text": "@henna_e_kakimas たぶん数年後は、\n7近本\n4中野\n8西純\n5立石\n3大山\n9谷端\nD前川\n2坂本\n6小幡\n\nこうなってると予想。笑",
+    "userName": "looser_98",
+    "tweetUrl": "https://twitter.com/looser_98/status/2046159885109481538",
+    "createdAt": "April 20, 2026 at 06:31PM"
+  },
+  {
+    "text": "無理。だけど立石なり谷端なり西純矢なり希望はあるからそこら辺がちゃんと主力として成長してくれれば戦えると思う https://t.co/kYcG2P6Jw0",
+    "userName": "aka44844509",
+    "tweetUrl": "https://twitter.com/aka44844509/status/2046169279222239459",
+    "createdAt": "April 20, 2026 at 07:09PM"
+  },
+  {
+    "text": "櫻井みたいなんが2位にのこってるならそれでいいけどさ、そんなんよくて13〜15番目で消えるやん\n24番目以降いって去年たまたま谷端残ってたけど、投手は村上みたいな故障で評価落としたタイプ、青柳みたいな一芸型が欠点埋めたタイプ以外、その辺の大卒投手でローテになったやつほぼおらんやろ https://t.co/7zwnOdwxON",
+    "userName": "KeijoTigers",
+    "tweetUrl": "https://twitter.com/KeijoTigers/status/2046181796392694253",
+    "createdAt": "April 20, 2026 at 07:58PM"
+  },
+  {
+    "text": "うち谷端くんのことばたやんって呼んでるけどいいのかしら。。。？",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2046186664750666039",
+    "createdAt": "April 20, 2026 at 08:18PM"
+  },
+  {
+    "text": "谷端岡城も近いうちに一軍定着してくれるはず。\nテルはこの勢いだと多分流出してしまいそうだから時間はない。",
+    "userName": "y3abi",
+    "tweetUrl": "https://twitter.com/y3abi/status/2046202326164398193",
+    "createdAt": "April 20, 2026 at 09:20PM"
+  },
+  {
+    "text": "@Toranshin_fam ですね！！\n見てきました😊\n自主練✌️\n参戦した日高確率で谷端くんの自主練見れて、今朝丸くんとかの自主練も見れちゃうんです🥹 https://t.co/nAuBJhWRfJ",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2046204715395174528",
+    "createdAt": "April 20, 2026 at 09:29PM"
+  },
+  {
+    "text": "@ayame_tsutsu 去年立石行った後に谷端いったのめちゃくちゃ大きくて\nそこに山田と百崎が絡んできたら内野はもう高卒しか取らなくて良くなったからあとは外野のアスリートを2年に1人取ってくのをやってればほとんどピッチャーに費やせるよね\n\n有馬行って沖縄の末吉も2位で行って左乱獲でも良いかな〜",
+    "userName": "momo46nagi",
+    "tweetUrl": "https://twitter.com/momo46nagi/status/2046220015054303601",
+    "createdAt": "April 20, 2026 at 10:30PM"
+  },
+  {
+    "text": "@momo46nagi 立石引けて谷端が残ってたのがほんまにびっくりやからいい方向にきてるよな！\n有馬に末吉両取りなんてできたらアツい！\n\n近年ドラフトがうまくいくようになったからスカウト陣には頭が下がるわ笑",
+    "userName": "ayame_tsutsu",
+    "tweetUrl": "https://twitter.com/ayame_tsutsu/status/2046222954019922227",
+    "createdAt": "April 20, 2026 at 10:42PM"
+  },
+  {
+    "text": "＜Amazon＞斉藤さん2 Blu-ray BOX - 日本のテレビドラマ\n\n＜キャスト＞観月ありさ/桐谷美玲/田辺誠一/瀬戸康史/猫背椿/音尾琢真/橋本涼/玉元風海人/谷端奏人/酒井若菜/松岡茉優/岡山智樹/早見あかり/勝村政信/南果歩\nhttps://t.co/rb3xlK7jJC",
+    "userName": "5_zoneiga_1",
+    "tweetUrl": "https://twitter.com/5_zoneiga_1/status/2046307411913298006",
+    "createdAt": "April 21, 2026 at 04:18AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々 - スポニチ Sponichi Annex 野球 https://t.co/cwOgGVOypN",
+    "userName": "mouko_in_fukui",
+    "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2046331258217836778",
+    "createdAt": "April 21, 2026 at 05:52AM"
   }
 ]
