@@ -12124,5 +12124,305 @@
     "userName": "mouko_in_fukui",
     "tweetUrl": "https://twitter.com/mouko_in_fukui/status/2046331258217836778",
     "createdAt": "April 21, 2026 at 05:52AM"
+  },
+  {
+    "text": "【2軍リポート】阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々 - スポニチ Sponichi Annex 野球 https://t.co/OWVEnUHVaJ",
+    "userName": "SponichiYagi",
+    "tweetUrl": "https://twitter.com/SponichiYagi/status/2046351468048093473",
+    "createdAt": "April 21, 2026 at 07:13AM"
+  },
+  {
+    "text": "正直打撃は思っていたほどではないし、守備も上手くない。でも期待したいのは練習の虫の部分。一年二年後にどれだけ成長できているか？練習の成果は嘘つかないと思う。\n\n阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々 https://t.co/2JuDLCK9wq",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2046357520512684053",
+    "createdAt": "April 21, 2026 at 07:37AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々（スポニチアネックス） https://t.co/zJYkZXgBEl",
+    "userName": "0627_maki",
+    "tweetUrl": "https://twitter.com/0627_maki/status/2046361259353030950",
+    "createdAt": "April 21, 2026 at 07:51AM"
+  },
+  {
+    "text": "人気球団だよなぁ、1番とクリーンナップが全員ドラ1、FAで他球団の主力を集めない、こういうチームって応援されるよな\n下にも「西純也」や「立石」「谷端」など、楽しみな選手がたくさんいるな https://t.co/tBDUjEuTkm",
+    "userName": "r32_skyline_m",
+    "tweetUrl": "https://twitter.com/r32_skyline_m/status/2046371304354492837",
+    "createdAt": "April 21, 2026 at 08:31AM"
+  },
+  {
+    "text": "まぁ小島取った以上、残ってるのが谷端高橋くらいだからねぇ\nまぁ岩城は悪くはないし堀越の所で高橋取れたら理想的だったよな https://t.co/yMIiovLxVn",
+    "userName": "TANEICHI16ATUKI",
+    "tweetUrl": "https://twitter.com/TANEICHI16ATUKI/status/2046374063623508060",
+    "createdAt": "April 21, 2026 at 08:42AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍 プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々 https://t.co/RYHhKNAJQC",
+    "userName": "W5jzsy47",
+    "tweetUrl": "https://twitter.com/W5jzsy47/status/2046397659888660971",
+    "createdAt": "April 21, 2026 at 10:16AM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々(スポニチアネックス)\n\n今は二軍で苦しんでるかもしれないが、「やる事はかわりません」的なコメントを吐く選手とは違いますわな。立派なコメントです、谷端。\nhttps://t.co/DgZPUjTPSk",
+    "userName": "geki_sen",
+    "tweetUrl": "https://twitter.com/geki_sen/status/2046412307027427573",
+    "createdAt": "April 21, 2026 at 11:14AM"
+  },
+  {
+    "text": "@0S0pXxWOnE81554 @tigerschannel72 岡城と谷端も追加してほしいですね｡",
+    "userName": "ishinobu3237",
+    "tweetUrl": "https://twitter.com/ishinobu3237/status/2046440786536149053",
+    "createdAt": "April 21, 2026 at 01:07PM"
+  },
+  {
+    "text": "@henna_e_kakimas 不純じゃないほうの西と\n立石、谷端に期待してます",
+    "userName": "gibbsorder",
+    "tweetUrl": "https://twitter.com/gibbsorder/status/2046450838126895457",
+    "createdAt": "April 21, 2026 at 01:47PM"
+  },
+  {
+    "text": "@v1or シンプルに谷端じゃなくて小田行ったのはびっくりしたな。宮下サードにして打撃に専念させるのもありだとは思うけど。松尾サードオプションもあったら嬉しいけど複数ポジやらせるのは負担的にどうかって話もあるし難しい",
+    "userName": "rody_baseball",
+    "tweetUrl": "https://twitter.com/rody_baseball/status/2046473333521465607",
+    "createdAt": "April 21, 2026 at 03:17PM"
+  },
+  {
+    "text": "立石谷端岡城…ドラフト失敗に終わるなよ、、",
+    "userName": "are35_NS_Tigers",
+    "tweetUrl": "https://twitter.com/are35_NS_Tigers/status/2046475947243974943",
+    "createdAt": "April 21, 2026 at 03:27PM"
+  },
+  {
+    "text": "一年で三回も故障するのは球団側としても想定外やろ。。下村の二の舞だけは勘弁。岡城や谷端は元気やからな。。\n\n【阪神】ドラフト１位・立石正広が再々離脱…「右ハムストリングスの筋損傷」で別メニュー…球団発表（スポーツ報知）\n#阪神タイガース\n#hanshin https://t.co/eqdkh6deJj",
+    "userName": "down_st_town",
+    "tweetUrl": "https://twitter.com/down_st_town/status/2046480290378641787",
+    "createdAt": "April 21, 2026 at 03:44PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々 - スポニチ Sponichi Annex 野球 https://t.co/WxbDEWpviR",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2046480548563226815",
+    "createdAt": "April 21, 2026 at 03:45PM"
+  },
+  {
+    "text": "これ2-3年は1軍期待せず下でみっちり体鍛えた方が良さげ\n\n逆に岡城谷端は上がってこいよ? https://t.co/tSx6XhBljY",
+    "userName": "Urban969",
+    "tweetUrl": "https://twitter.com/Urban969/status/2046481892510461984",
+    "createdAt": "April 21, 2026 at 03:51PM"
+  },
+  {
+    "text": "谷端が日々セカンドで、岡城が1軍帯同しつつファームでも頑張ってる上でこれなのでね。ドラ1がこれじゃあテクノブレイクには程遠いですよ",
+    "userName": "L1571566",
+    "tweetUrl": "https://twitter.com/L1571566/status/2046485206018990583",
+    "createdAt": "April 21, 2026 at 04:04PM"
+  },
+  {
+    "text": "今年は出てこなくていいから身体作りしてほしい、、、。岡城谷端で十分ポジポジできるので",
+    "userName": "run_oekaki",
+    "tweetUrl": "https://twitter.com/run_oekaki/status/2046487288549671174",
+    "createdAt": "April 21, 2026 at 04:12PM"
+  },
+  {
+    "text": "スペ体質すぎる\n今年はいないものと思った方がいいな\n谷端はいなくならないでね",
+    "userName": "yakisoba53",
+    "tweetUrl": "https://twitter.com/yakisoba53/status/2046488184431993008",
+    "createdAt": "April 21, 2026 at 04:16PM"
+  },
+  {
+    "text": "立石お大事に。でも今年即正二塁手外して立石谷端とはしゃいでた人達は反省してね\n岡田小久保がバカにしていい空気作ったからってなめすぎなんだよ\n分かってる人は分かってると思うけどご自慢の木浪小幡熊谷なんかよりずっと貢献してるしよそ事に首突っ込む他球団の人間も小深田には何も言わないくせに",
+    "userName": "q90286846",
+    "tweetUrl": "https://twitter.com/q90286846/status/2046489778947047797",
+    "createdAt": "April 21, 2026 at 04:22PM"
+  },
+  {
+    "text": "立石スッペスペで谷端は山田以下の打率で岡城はやっと試合に出はじめて早瀬くんは準備段階で能登は内容悪くてもイニング食うのが仕事になってて神宮は怪我明けで一度も投げてなくて山崎に関してはほぼ見てないが、25年ドラフトの話題ゼロすぎて泣ける。",
+    "userName": "upon_Tyen",
+    "tweetUrl": "https://twitter.com/upon_Tyen/status/2046490275007361234",
+    "createdAt": "April 21, 2026 at 04:24PM"
+  },
+  {
+    "text": "立石くん、同期の谷端くんや岡城くんが日々成長してる姿見てるから、焦っちゃうのかな。森下くんみたいに一年目から活躍したい気持ちが強いのかな。レギュラー押しのけて、スタメン入りするような強力ルーキー求めるファンもいるだろうけど、じっくりやって欲しい。",
+    "userName": "momongapyu6874",
+    "tweetUrl": "https://twitter.com/momongapyu6874/status/2046494013172437000",
+    "createdAt": "April 21, 2026 at 04:39PM"
+  },
+  {
+    "text": "@momotora3t ドラフト上位の立石くん谷端くんともにスタートから苦しんでいますね　焦らず前半戦は徐々に調整しましょう",
+    "userName": "hqdy9658",
+    "tweetUrl": "https://twitter.com/hqdy9658/status/2046495511876919683",
+    "createdAt": "April 21, 2026 at 04:45PM"
+  },
+  {
+    "text": "立石谷端サードでサトテル外野とか言ってた奴は息してんのかな？",
+    "userName": "J_brss",
+    "tweetUrl": "https://twitter.com/J_brss/status/2046495696413753346",
+    "createdAt": "April 21, 2026 at 04:46PM"
+  },
+  {
+    "text": "立石選手また離脱💦19年西純、井上。21年森木、鈴木、23年下村、椎葉、25年立石、谷端…こう書くと失礼かもやけど、隔年で、ドラフト１位２位が、ケガやら期待外れになってるようなリズムになってしまってますね⚾️💦💦奮起を願いたい↗️",
+    "userName": "torikura1997308",
+    "tweetUrl": "https://twitter.com/torikura1997308/status/2046498440197427483",
+    "createdAt": "April 21, 2026 at 04:57PM"
+  },
+  {
+    "text": "阪神ドラ2・谷端将伍　プロの壁痛感も焦らず自分らしく「1軍を目指したい」2軍の試合後も猛練習の日々(スポニチアネックス)\n\nhttps://t.co/4wwXl8CGIK",
+    "userName": "habamagoz",
+    "tweetUrl": "https://twitter.com/habamagoz/status/2046498661086240848",
+    "createdAt": "April 21, 2026 at 04:57PM"
+  },
+  {
+    "text": "まーたスペったんかよ\n今季はとりあえず身体作りか\n谷端の方が1軍早そうやな https://t.co/4767v9E7SL",
+    "userName": "a4xsqDbToMfWj0M",
+    "tweetUrl": "https://twitter.com/a4xsqDbToMfWj0M/status/2046500765465022887",
+    "createdAt": "April 21, 2026 at 05:06PM"
+  },
+  {
+    "text": "@yk07141013ks 焦ってんのやろな、\n岡城とか谷端が二軍で実践経験\n多くでてるから",
+    "userName": "FKtrW7grlL66210",
+    "tweetUrl": "https://twitter.com/FKtrW7grlL66210/status/2046506166407287214",
+    "createdAt": "April 21, 2026 at 05:27PM"
+  },
+  {
+    "text": "谷端取っておいて良かったよ",
+    "userName": "H8FuoA8h3GAWViy",
+    "tweetUrl": "https://twitter.com/H8FuoA8h3GAWViy/status/2046510306072174801",
+    "createdAt": "April 21, 2026 at 05:44PM"
+  },
+  {
+    "text": "なんだそりゃ\n超がつくほどスペ体質かい\n\nまぁ谷端おるしルーキーやから\nとりま2,3年は二軍で\n怪我しない体づくりからかねー。。。\n\n無事是名馬ってやつよ。\n怪我しないできちんと出る選手が一番よ。\n\nルーキーだからまだ許すけど\n中堅ベテランで塩見みたいなのは\nごめん被るからね？？？ https://t.co/PpfWdJCezF",
+    "userName": "maccha_52",
+    "tweetUrl": "https://twitter.com/maccha_52/status/2046514065686860217",
+    "createdAt": "April 21, 2026 at 05:59PM"
+  },
+  {
+    "text": "シーズンはまだ始まったばかり。立石くんも谷端くんも岡城くんも百崎くんも、若手たちは夏以降上がってくるかもしれんし、のんびり見守りましょうよ。のびのびコツコツ健やかに成長して、阪神の未来になって欲しいです。",
+    "userName": "momongapyu6874",
+    "tweetUrl": "https://twitter.com/momongapyu6874/status/2046516028264554669",
+    "createdAt": "April 21, 2026 at 06:06PM"
+  },
+  {
+    "text": "立石外してたら多分ドラ1谷端になってただろうしドラ2は岡城だったと思う\nなので今後立石がどうなろうと文句言っても大して変わらんぞ多分",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2046520716796023146",
+    "createdAt": "April 21, 2026 at 06:25PM"
+  },
+  {
+    "text": "スペ体質疑惑でドラフトのとき指名見送るかも？とも思ったんやけど、悪い予感が当たるものやな…\n谷端とれてて良かったな。",
+    "userName": "Ryo971027",
+    "tweetUrl": "https://twitter.com/Ryo971027/status/2046525426844205538",
+    "createdAt": "April 21, 2026 at 06:44PM"
+  },
+  {
+    "text": "@sponichi_endo ケガが多いですね。谷端さんや岡城さんに置いてきぼりを喰らっちゃいそう",
+    "userName": "IrukaNah",
+    "tweetUrl": "https://twitter.com/IrukaNah/status/2046525886854545452",
+    "createdAt": "April 21, 2026 at 06:46PM"
+  },
+  {
+    "text": "@Tigers_140609 この子ほんまのスペ体質？？\nもう谷端はよ来い",
+    "userName": "vCSrg94iItfSp7w",
+    "tweetUrl": "https://twitter.com/vCSrg94iItfSp7w/status/2046527339572662309",
+    "createdAt": "April 21, 2026 at 06:51PM"
+  },
+  {
+    "text": "立石は割とスペなんか？プロ入り前の事知らんニワカやけど\n\n今の阪神見てると｢(死球等除いて)怪我で離脱しない｣はすごく大事だからなあ\n谷端岡城のが先に上で出場しはじめる、十分あると思うよ\n活躍してくれるなら誰でも嬉しいけども",
+    "userName": "LwEqjvNbNFDDHzw",
+    "tweetUrl": "https://twitter.com/LwEqjvNbNFDDHzw/status/2046536851142721673",
+    "createdAt": "April 21, 2026 at 07:29PM"
+  },
+  {
+    "text": "@miyasantanyuta 立石、谷端、岡城はどうなのか",
+    "userName": "Hyoncho_carp",
+    "tweetUrl": "https://twitter.com/Hyoncho_carp/status/2046539346661245384",
+    "createdAt": "April 21, 2026 at 07:39PM"
+  },
+  {
+    "text": "@HT_tigers0622 よう谷端取ってたことよ",
+    "userName": "qwybv5",
+    "tweetUrl": "https://twitter.com/qwybv5/status/2046539825524949205",
+    "createdAt": "April 21, 2026 at 07:41PM"
+  },
+  {
+    "text": "@Hyoncho_carp 立石はスペり過ぎてて\nちょっと先が見えない\n岡城はとりあえず左翼な感じかな\n谷端は内野だし\nテルか大山の後釜かな",
+    "userName": "miyasantanyuta",
+    "tweetUrl": "https://twitter.com/miyasantanyuta/status/2046540832493441283",
+    "createdAt": "April 21, 2026 at 07:45PM"
+  },
+  {
+    "text": "異様に使われない岡城\nセカンドで使われ続ける谷端\n怪我明けで外野やらされる立石\nなにこれ",
+    "userName": "nifanchin",
+    "tweetUrl": "https://twitter.com/nifanchin/status/2046546910681739355",
+    "createdAt": "April 21, 2026 at 08:09PM"
+  },
+  {
+    "text": "@toshi_pato @sazan_tenhapi 立石ももう活躍できるどころか試合出てる未来が見えなくて悲しい 谷端もショボそうやし デュプランティエは阪神にとっては久しぶりの当たり枠やったな",
+    "userName": "1sEHD37wjo42770",
+    "tweetUrl": "https://twitter.com/1sEHD37wjo42770/status/2046552094950461598",
+    "createdAt": "April 21, 2026 at 08:30PM"
+  },
+  {
+    "text": "そうなると谷端を育ててサードにって形か。",
+    "userName": "niko_soratokui",
+    "tweetUrl": "https://twitter.com/niko_soratokui/status/2046572260140761556",
+    "createdAt": "April 21, 2026 at 09:50PM"
+  },
+  {
+    "text": "谷端ってショート守れたりする？？\n小幡じゃ不安なんですけど",
+    "userName": "ace1_100aniki06",
+    "tweetUrl": "https://twitter.com/ace1_100aniki06/status/2046581528793436360",
+    "createdAt": "April 21, 2026 at 10:27PM"
+  },
+  {
+    "text": "@wNzfdceE 岡田啓吾は左投手に弱いのとショートはきつそうかなぁってのをどう評価するかですね\n多分百﨑佐野谷端との比較になるのでその3人と比べて好みかどうか次第だと個人的には思います",
+    "userName": "zI0PnBSqPt96883",
+    "tweetUrl": "https://twitter.com/zI0PnBSqPt96883/status/2046581742920962080",
+    "createdAt": "April 21, 2026 at 10:28PM"
+  },
+  {
+    "text": "前川立石谷端森下佐藤輝伊原湯浅京己を一軍で見れる日はいつだろうか。楽しみにして今年1年仕事に慎もう✋たまには行くかもやけど甲子園とか🤔",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2046587266739683545",
+    "createdAt": "April 21, 2026 at 10:50PM"
+  },
+  {
+    "text": "局所的にみたら悲惨な結果かもしれんけど、大局的に見たら2024シーズンくらいから潜在的に出てた阪神の投手不足が顕在化してるだけで、ノープロブレムじゃないですか。\n25ドラフトが立石谷端岡城指名してる時点で、投手のデプス不足より輝明森下を失うことを重要視してるし、その認識は間違いではない",
+    "userName": "ToranokoV",
+    "tweetUrl": "https://twitter.com/ToranokoV/status/2046606911513268478",
+    "createdAt": "April 22, 2026 at 12:08AM"
+  },
+  {
+    "text": "@hanshintigersjp おーい\nまさか石井大智と及川2人がダメになる､とは阪神球団も予想してなかったやろうけど\n岡田さんの2022.2023ドラフト\n森下以外､誰が使えてるん？\nドラフト下手杉やろ\n2年続けて\n3.4位を高卒に全部り､するなんて\nそして\n2025思いっきり野手全振り､して\nその分､立石・谷端が活躍するならええけど",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046624936958337238",
+    "createdAt": "April 22, 2026 at 01:19AM"
+  },
+  {
+    "text": "@NNNT1318 「なべ〜！わたなべ〜！りょ、うわ新人(谷端)やんか！」\nそんなん(言うてたら)日付け変わってるやんか！もう1時やんか！2戦目勝つよカード(勝ち越しで)とったら大敗も笑い話よ！(寝るよ)お〜ん",
+    "userName": "babylistenerkun",
+    "tweetUrl": "https://twitter.com/babylistenerkun/status/2046625982673822145",
+    "createdAt": "April 22, 2026 at 01:23AM"
+  },
+  {
+    "text": "@maxpiiper ですね\nやっぱり\n勝ちが漏れッタ…\nけど\nモレッタしかいないのも事実\n工藤と木下は155.出せるので\nハマればNPB屈指のセットアッパーになれますが\n2人ともファーボール自滅する\nそうすると\nホンマに誰もいない\n2022.2023岡田高卒全部りドラフト\n2025野手全振りドラフトの弊害ですね\n立石・谷端…",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046640633109184901",
+    "createdAt": "April 22, 2026 at 02:22AM"
+  },
+  {
+    "text": "@Dorapeinet 2022.2023岡田高卒全部りドラフト\n2025野手全振りドラフト\nの弊害\n➕石井・及川\nで\n明らかに投手不足。ですね\nなので\n必然､こうなってしまうかと\n岡田の下手杉ドラフトは論外として\n2025はわかっていたので\n5点取られる代わりに7点取る野球を目指してたが\n肝心の立石・谷端………",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046641577670717941",
+    "createdAt": "April 22, 2026 at 02:25AM"
+  },
+  {
+    "text": "@kyabe_tiger 谷端はキャンプ完走してケガなく来てるのにこの子何でこんなケガ繰り返すの？",
+    "userName": "TORACO1171103",
+    "tweetUrl": "https://twitter.com/TORACO1171103/status/2046655391019446348",
+    "createdAt": "April 22, 2026 at 03:20AM"
+  },
+  {
+    "text": "暑いけど日除け対策はしっかりと　＃谷端川 https://t.co/bbzyPAzO4G",
+    "userName": "shindou_2016",
+    "tweetUrl": "https://twitter.com/shindou_2016/status/2046689126142062876",
+    "createdAt": "April 22, 2026 at 05:34AM"
   }
 ]
