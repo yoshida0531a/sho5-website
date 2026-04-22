@@ -12424,5 +12424,131 @@
     "userName": "shindou_2016",
     "tweetUrl": "https://twitter.com/shindou_2016/status/2046689126142062876",
     "createdAt": "April 22, 2026 at 05:34AM"
+  },
+  {
+    "text": "去年に劣る部分を嘆くより勝る部分を喜べばいい\nポジれるのは左の代打陣\n木浪福島髙寺前川に加え、嶋村にも初安打。守備からの出場だったけど小幡もライマルからヒット\n右打者は現状イマイチだけど下に佐野立石谷端岡城百崎西純が控えてるし、中川濱田も遅かれ早かれ一本出るはず",
+    "userName": "stasta646829",
+    "tweetUrl": "https://twitter.com/stasta646829/status/2046753404391964808",
+    "createdAt": "April 22, 2026 at 09:50AM"
+  },
+  {
+    "text": "今後どうなるかわからんけど三好はドラフト時の打撃力は泰谷端小田あたりより高い評価になってもおかしくない　しかもセンターだし",
+    "userName": "9_ya_555",
+    "tweetUrl": "https://twitter.com/9_ya_555/status/2046798314637824069",
+    "createdAt": "April 22, 2026 at 12:48PM"
+  },
+  {
+    "text": "谷端将伍　指標 数値 評価・プロ平均との比較\n三振率 (K%) 6.76% 一流（NPB平均：約18~20%）\n四球率 (BB%) 9.46% 優秀（NPB平均：約8%）\nBB/K 1.40 一流（1.0超で選球眼が極めて良いとされる）\n\n​谷端選手は骨組み（選球眼・コンタクト）は完璧だが、肉体（パワー）がまだ追いついていない状態です📑 https://t.co/iZqxfuBC6w",
+    "userName": "BpJbIeoJOELj5Kd",
+    "tweetUrl": "https://twitter.com/BpJbIeoJOELj5Kd/status/2046803232320847951",
+    "createdAt": "April 22, 2026 at 01:08PM"
+  },
+  {
+    "text": "西純見れるん楽しみすぎる！\n後はラグズデール、岡城、谷端あたりは初めて生で見るしこの辺も楽しみ\n\n取り敢えず、去年照明付かんくて途中で打ち切りなったん今年は9回までやれよ笑 https://t.co/FR2fppC2ib",
+    "userName": "kosaka_speed",
+    "tweetUrl": "https://twitter.com/kosaka_speed/status/2046804192753549389",
+    "createdAt": "April 22, 2026 at 01:12PM"
+  },
+  {
+    "text": "@Daily_Online 何かこの子だけケガ続くのおかしくない？\n谷端や岡城の方が期待できるわ😫",
+    "userName": "TORACO1171103",
+    "tweetUrl": "https://twitter.com/TORACO1171103/status/2046833238010978403",
+    "createdAt": "April 22, 2026 at 03:07PM"
+  },
+  {
+    "text": "@Saba_Tigers やっぱり\n2022.2023岡田高卒ドラフト\n2025野手全振りドラフト\n投手崩壊したな…\n2025まあ5点取られる代わりに7点取る野球を目指したんやけど\nその頼みの綱の立石・谷端…\n岡田の2年連続3.4位高校生はやらかしたな　\n木下・工藤は四球自滅するので\nこれが無ければNPB屈指のセットアッパーになれるけどね",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046841985974333492",
+    "createdAt": "April 22, 2026 at 03:42PM"
+  },
+  {
+    "text": "むつみ\n\n阪神シート\n\nキャッチャー　栄枝、町田、藤田\nファースト　アルナエス\nセカンド　谷端、川崎\nサード　戸井\nショート　山田、百崎\nレフト　(たぶん井坪)コンスエグラ\nセンター　岡城\nライト　西純\n\nノックアシスト　なし\n\nと思われます\n\n川崎選手、お久しぶりですd(^_^o)",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2046854378100068717",
+    "createdAt": "April 22, 2026 at 04:31PM"
+  },
+  {
+    "text": "@77m7777777 でも\n確実に\n2022.2023岡田ドラフト\nと\n2025野手全振りドラフト\nの弊害で投手崩壊はあるで\nまあ\n藤川監督はそこはわかって\n5点取られても7点取る野球目指してたけど\n頼みの立石・谷端…\n漏れっタでは勝ちが漏れるよ\n木下・工藤は155.あるけど\n四球自滅するしな\nそして\n岩貞は岩貞だった……",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046875136050200796",
+    "createdAt": "April 22, 2026 at 05:53PM"
+  },
+  {
+    "text": "@hanshintigersjp おーい\n2022.2023岡田ドラフトどうなってるんや？\nそもそも\n茨木投手を起用した藤川監督の責任でもあるけど\n立石・谷端､早く\nあと近本。めちゃくちゃ調子悪いぞ\nいくら何でもバットを前に倒し杉やろ",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046878409847103836",
+    "createdAt": "April 22, 2026 at 06:06PM"
+  },
+  {
+    "text": "阪神は立石谷端とかやってる場合ではなかったんよな。",
+    "userName": "naru36822566",
+    "tweetUrl": "https://twitter.com/naru36822566/status/2046880819155972171",
+    "createdAt": "April 22, 2026 at 06:16PM"
+  },
+  {
+    "text": "@toraco_neko 谷端も打率残せてないしな…\nやっぱり髙寺がショートやれ！w",
+    "userName": "ryuu_hanshin",
+    "tweetUrl": "https://twitter.com/ryuu_hanshin/status/2046883474607669615",
+    "createdAt": "April 22, 2026 at 06:27PM"
+  },
+  {
+    "text": "@_rip_off1003 木浪は来年サードやろね。\n立石も谷端ももう少し掛かりそうやし。",
+    "userName": "ZJ1QyB05Vzoe602",
+    "tweetUrl": "https://twitter.com/ZJ1QyB05Vzoe602/status/2046898868101743013",
+    "createdAt": "April 22, 2026 at 07:28PM"
+  },
+  {
+    "text": "岡城足はええな\n打球も普通に強いのがいいんだよな\n谷端の打球もどうにかならんか",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2046901131239145801",
+    "createdAt": "April 22, 2026 at 07:37PM"
+  },
+  {
+    "text": "谷端の当たりはホームランかと思ったが外野の頭すら越えず",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2046919228645900465",
+    "createdAt": "April 22, 2026 at 08:49PM"
+  },
+  {
+    "text": "権田翼と谷端は日大対決か。",
+    "userName": "koh_bbbb",
+    "tweetUrl": "https://twitter.com/koh_bbbb/status/2046919881053151392",
+    "createdAt": "April 22, 2026 at 08:51PM"
+  },
+  {
+    "text": "８回表　投手：権田翼　捕：関本\n\n代：谷端　左飛　●\n百﨑　空三振　●●\n川﨑　ニゴ　●●●\n\n阪神８－５徳島",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2046920042219270427",
+    "createdAt": "April 22, 2026 at 08:52PM"
+  },
+  {
+    "text": "このチームの6,7番の課題はいつ解決するんでしょうか　7番はまあいい　6番がいつまでも単打マンじゃきつい　立石、ディベイニーなあ　明日はルーキーの島田らしいから多分木浪、高寺だろうな　谷端もヤバいけど2位だからな、1位ならちょっとキレてた",
+    "userName": "Eanas_77",
+    "tweetUrl": "https://twitter.com/Eanas_77/status/2046930063653003565",
+    "createdAt": "April 22, 2026 at 09:32PM"
+  },
+  {
+    "text": "@hanshintigersjp 2022.20232025\nと野手全振り。した結果ヤバい事になったな\n今年は勝ちパがない…\n全振り､してその分があったらええけど\n門別・井坪・茨木・戸井\n山田・百崎\n立石・谷端\nうーん……\nまあ\n百崎は死球がなかったら\n今頃､左投手時のレフト､だったかも\nやけど\n門別・井坪・今朝丸\n期待には物足りない",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2046933677503025546",
+    "createdAt": "April 22, 2026 at 09:46PM"
+  },
+  {
+    "text": "平川蓮  \n竹丸和幸  \n中西聖輝  \n立石正広  \n小田康一郎  \n毛利海大  \n櫻井頼之介  \n齊藤汰直  \n勝田成  \n片山皓心  \n大川慈英  \n皆川岳飛  \n山城京平  \n谷端将伍  \n成瀬脩人  \n増居翔太  \n牧野憲伸  \n小島大河  \n藤川敦也  \n石垣元気\n\r#NPB #ルーキー",
+    "userName": "onering358",
+    "tweetUrl": "https://twitter.com/onering358/status/2046950920739836204",
+    "createdAt": "April 22, 2026 at 10:55PM"
+  },
+  {
+    "text": "谷端が下で結構打ってるとか、山田百崎が状態いいとかならまだしも\n今二軍で1番打ってるの梅ちゃんとコーナーアヘ単の佐野ですからね https://t.co/xH8Md4sm22",
+    "userName": "DEGUMANDO",
+    "tweetUrl": "https://twitter.com/DEGUMANDO/status/2046974401065922783",
+    "createdAt": "April 23, 2026 at 12:28AM"
+  },
+  {
+    "text": "谷端ショートやれへんかな\nあと佐野戸井山田百崎はどうなっとる？\n(立石はファーストと指名打者以外やんな)",
+    "userName": "chikajoh__oshi",
+    "tweetUrl": "https://twitter.com/chikajoh__oshi/status/2046986329259753780",
+    "createdAt": "April 23, 2026 at 01:15AM"
   }
 ]
