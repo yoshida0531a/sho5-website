@@ -12550,5 +12550,197 @@
     "userName": "chikajoh__oshi",
     "tweetUrl": "https://twitter.com/chikajoh__oshi/status/2046986329259753780",
     "createdAt": "April 23, 2026 at 01:15AM"
+  },
+  {
+    "text": "谷端外野いけ https://t.co/Y3EKY2CJc7",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2047108705297334311",
+    "createdAt": "April 23, 2026 at 09:22AM"
+  },
+  {
+    "text": "谷端の評価は高い身体の強度を武器にするために外野コンバート視野って評価です\n将来的に内野に戻ってくるのは全然ありなんだけど今二遊間に縛る必要はない https://t.co/6Tlce1Ya1k",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2047113080753287320",
+    "createdAt": "April 23, 2026 at 09:39AM"
+  },
+  {
+    "text": "普通に岡城が2軍の四国遠征行ったので嶋村下げるタイミングでまた2軍のプロスペクト上げて欲しいわね\nとりわけ内野、谷端とかショートできんのか",
+    "userName": "TerabaseA",
+    "tweetUrl": "https://twitter.com/TerabaseA/status/2047149888711053637",
+    "createdAt": "April 23, 2026 at 12:05PM"
+  },
+  {
+    "text": "打撃練習で階段降りるとき、下で選手と被りそうになったから止まったら谷端くんが来て『すみません！』って頭下げてくれた……好きになるやんそんなん…",
+    "userName": "Momo_Coco89",
+    "tweetUrl": "https://twitter.com/Momo_Coco89/status/2047218684826181945",
+    "createdAt": "April 23, 2026 at 04:39PM"
+  },
+  {
+    "text": "@misAwaitSLAYER え、そんなことが　\nショートの後継者の山田も伸び悩んでるしキャンプ期待の百崎も呼ばれないし\nちょっとコア５以降の若手の伸びが・・\n岡城・谷端・立石には期待してたけどうーん",
+    "userName": "nayu31564",
+    "tweetUrl": "https://twitter.com/nayu31564/status/2047226587855397127",
+    "createdAt": "April 23, 2026 at 05:10PM"
+  },
+  {
+    "text": "谷端ってやっぱポイント近すぎるよな\n今三振相当少ないしもうちょい前捌きしていいと思うんよな\n下振れ要素はあるにしろファームで1割程度の男ではないだろ",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2047252851588792356",
+    "createdAt": "April 23, 2026 at 06:54PM"
+  },
+  {
+    "text": "岡城谷端立石がファームで、そして一軍で大暴れするのを楽しみにしてます",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2047253367790174419",
+    "createdAt": "April 23, 2026 at 06:56PM"
+  },
+  {
+    "text": "@tigerschannel72 谷端育てるって選択肢ない？",
+    "userName": "tarku1969",
+    "tweetUrl": "https://twitter.com/tarku1969/status/2047264048853680636",
+    "createdAt": "April 23, 2026 at 07:39PM"
+  },
+  {
+    "text": "希由翔や泰、谷端小田が微妙となるとマジで打者のスカウティングはむずいよなあ　と考えると村松ってほんとにすごい",
+    "userName": "8_ya_444",
+    "tweetUrl": "https://twitter.com/8_ya_444/status/2047265283354837403",
+    "createdAt": "April 23, 2026 at 07:44PM"
+  },
+  {
+    "text": "でも手元にあるのは谷端くん。\n町田くん推しの方と交換しました。\nいらっしゃい谷端くん😚 https://t.co/dG3P8XHjWq",
+    "userName": "Momo_Coco89",
+    "tweetUrl": "https://twitter.com/Momo_Coco89/status/2047266727004962817",
+    "createdAt": "April 23, 2026 at 07:49PM"
+  },
+  {
+    "text": "今日1日と言うか半日？で谷端くんのファンになりました………",
+    "userName": "Momo_Coco89",
+    "tweetUrl": "https://twitter.com/Momo_Coco89/status/2047270891051254201",
+    "createdAt": "April 23, 2026 at 08:06PM"
+  },
+  {
+    "text": "@Nkd5Tj 着る✨️\nありがとうやでまじで😭♡♡\n\nやっぱこの立石くんの顔は嫉妬心もやしてる？\n\nうち一時期キャンプ中の時から谷端くんのこともポストしまくってたやん？\n突然現れてこのゴム持って首締めに行こうとするのもそーいうこと？\n私の事好きなんか？もしかして https://t.co/6DLrJ4G6LX",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2047272771479294405",
+    "createdAt": "April 23, 2026 at 08:13PM"
+  },
+  {
+    "text": "@Nkd5Tj やばない？この写真！\nなんでこういう写真撮らせてるのかもわからん😅\nこの満面の笑顔も謎すぎて\n連日谷端くんとかの事ポストしまくってたこのキャンプの時は特に💦\n\nそうすると対抗するようにめっちゃ写真載せてた時あったな🤔\n\nうちのポスト谷端くんだらけやったの覚えてる？",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2047275213814124857",
+    "createdAt": "April 23, 2026 at 08:23PM"
+  },
+  {
+    "text": "王子・柴崎聖人の視察に巨人スカウトが6人態勢でクロスチェックした様子ですが、巨人に限らず球場で目立つほど大人数のスカウトがチェックしてる時はカモフラージュ的な狙いも見え隠れします。実際去年巨人は冨士隼斗に8人、谷端将伍に7人、藤原聡大に4人態勢で視察してますが誰も指名しませんでした。",
+    "userName": "JOS_baseball",
+    "tweetUrl": "https://twitter.com/JOS_baseball/status/2047281101937463571",
+    "createdAt": "April 23, 2026 at 08:47PM"
+  },
+  {
+    "text": "立石くんいなくても？谷端くん達にも会えるのでまあ行って損はないなと思います🤔",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2047315903797436646",
+    "createdAt": "April 23, 2026 at 11:05PM"
+  },
+  {
+    "text": "@Nkd5Tj またこれされてるんかな谷端くん💦 https://t.co/P4qkSwdZYV",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2047326642616631704",
+    "createdAt": "April 23, 2026 at 11:48PM"
+  },
+  {
+    "text": "@Nkd5Tj やばない？\n普通な？ただの一般の私みたいなファンとの距離感ならな、谷端くんのこと話そうが岩貞さんのあの写真ポストしようが何しようが勝手やん？なのに見せた写真みたいなことするのって私に嫉妬してるしか思えへんくなってきたし私の事好きなんちゃうんって思えてきた🤔\n私何回見せるねんて思うね https://t.co/hEHvvJ8uIq",
+    "userName": "MT9_sn_nabe_ri_",
+    "tweetUrl": "https://twitter.com/MT9_sn_nabe_ri_/status/2047338972918296927",
+    "createdAt": "April 24, 2026 at 12:37AM"
+  },
+  {
+    "text": "大前提として谷端岡城は素晴らしい指名なんですけどね",
+    "userName": "KeijoTigers",
+    "tweetUrl": "https://twitter.com/KeijoTigers/status/2047357843364601996",
+    "createdAt": "April 24, 2026 at 01:52AM"
+  },
+  {
+    "text": "凄いんだろうけど実際ファームとかでも試合とか出て頑張ってる姿見る方が期待感はある、谷端くんとかの方が私的には気になってるもんな🙂‍↕️",
+    "userName": "mayu32727",
+    "tweetUrl": "https://twitter.com/mayu32727/status/2047411795472916750",
+    "createdAt": "April 24, 2026 at 05:26AM"
+  },
+  {
+    "text": "@N_0gino 二遊間で出てるのが全盛期中村奨吾、友杉、茶谷、UT版和田って考えたらもう1枚必要じゃない？あとは石垣一人で茶谷と代打で出てくる安田(ほんとに申し訳ないけど糸原)を外せるってなったら良いと思う\n結局この後のドラフトで立石と谷端取ったけど\n\nこのあと〜のくだり言わないで違うとこフォーカスして",
+    "userName": "chibalotte_8",
+    "tweetUrl": "https://twitter.com/chibalotte_8/status/2047448778471530725",
+    "createdAt": "April 24, 2026 at 07:53AM"
+  },
+  {
+    "text": "捕手→榮枝(伸悩)、嶋村(経験少)※要ドラフト\n一塁→大山の後は前川？\n二塁→中野の後は谷端？\n三塁→立石\n※B.up要員(熊の次)必要\n遊撃→小幡(2〜3年内に目玉ドラフト要)\n外野→左:いずれ近本\n中:強肩の人ドラフト\n右:森下(3年後いない→岡城、中川、福島…orドラフト)\nDH→とりま木浪(助っ人 https://t.co/beDhxQ3329",
+    "userName": "CBR_Hanachan",
+    "tweetUrl": "https://twitter.com/CBR_Hanachan/status/2047482570099871908",
+    "createdAt": "April 24, 2026 at 10:07AM"
+  },
+  {
+    "text": "2026.04.23（Thu）📍よさこいドーム\n試合は中止だったけど😭練習見学会参加したのでノックの動画🎥\nメンバーは谷端・戸井・川﨑選手です😌 https://t.co/1kFKNLIJ8v",
+    "userName": "_O_OcdVxV_",
+    "tweetUrl": "https://twitter.com/_O_OcdVxV_/status/2047521165426692452",
+    "createdAt": "April 24, 2026 at 12:41PM"
+  },
+  {
+    "text": "これなんかはさすがですね、谷端選手！",
+    "userName": "SW0777K",
+    "tweetUrl": "https://twitter.com/SW0777K/status/2047523577470279699",
+    "createdAt": "April 24, 2026 at 12:50PM"
+  },
+  {
+    "text": "😁\n\n2026.4.22📍むつみスタジアム\n#谷端将伍 https://t.co/ESS8EML6BZ",
+    "userName": "nytgt",
+    "tweetUrl": "https://twitter.com/nytgt/status/2047534497160421456",
+    "createdAt": "April 24, 2026 at 01:34PM"
+  },
+  {
+    "text": "@LoveIshii9 小田と谷端そんなにヤバいの？立石は怪我だからあれだけど",
+    "userName": "elon_ahogaiji",
+    "tweetUrl": "https://twitter.com/elon_ahogaiji/status/2047588595889029229",
+    "createdAt": "April 24, 2026 at 05:08PM"
+  },
+  {
+    "text": "今の所の2025年上位野手\n立石正広,松下歩叶,勝田成→前評判や実力通り強みを出せてる\n平川蓮,宮下朝陽→思った数倍1年目からやれてる\n岡城快生,松川玲央→打席数や怪我で未知数\n小田康一郎,谷端将伍→予想外の苦戦中",
+    "userName": "yudetama0525",
+    "tweetUrl": "https://twitter.com/yudetama0525/status/2047593278665888131",
+    "createdAt": "April 24, 2026 at 05:27PM"
+  },
+  {
+    "text": "https://t.co/wxHdazrstH\n\n2:59:10〜\nこの谷端見ると良くなってる感はある\nもう前捌きでガンガン引っ張って欲しいな",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2047626377533481252",
+    "createdAt": "April 24, 2026 at 07:39PM"
+  },
+  {
+    "text": "みんな荷物もりもり\n2026.04.22\n#山田脩也\n#西純矢\n#谷端将伍\n#戸井零士 https://t.co/7By46fUpUU",
+    "userName": "sukinanodake___",
+    "tweetUrl": "https://twitter.com/sukinanodake___/status/2047634539808469082",
+    "createdAt": "April 24, 2026 at 08:11PM"
+  },
+  {
+    "text": "小田は知らんけど谷端ドラフトの時に評価してたやつはちょっと「お察し」だろ https://t.co/VHP8tmYKJH",
+    "userName": "hooooooooonatsu",
+    "tweetUrl": "https://twitter.com/hooooooooonatsu/status/2047643528461996381",
+    "createdAt": "April 24, 2026 at 08:47PM"
+  },
+  {
+    "text": "1 二 中野\n2 右 佐藤輝\n3 左 森下\n4 三 大山(🤤🤤🤔😾😟🤤😎)\n5 一 前川\n6 遊 髙寺/小幡\n7 中 ケイン/近本\n8 捕 伏見/坂本/嶋村/梅野\n9 打 木浪/谷端/佐野\n\n前川の守備さえなんとかなればな〜！！！！😡",
+    "userName": "yuurei_71kz",
+    "tweetUrl": "https://twitter.com/yuurei_71kz/status/2047679414486614100",
+    "createdAt": "April 24, 2026 at 11:09PM"
+  },
+  {
+    "text": "【二軍リポート・ #谷端将伍選手】\n・四球は選べている\n・その上で三振がかなり少ないのは良い\n・まだ強い打球が少なく、当たりはするが捉えられていない模様\n・セカンドの守備がダメという訳ではなさそう\n・攻守ともに勉強中\n・長所を活かして成長していって欲しい\n\nhttps://t.co/2N2EaftPAd",
+    "userName": "hanshinbunseki",
+    "tweetUrl": "https://twitter.com/hanshinbunseki/status/2047685206594015611",
+    "createdAt": "April 24, 2026 at 11:32PM"
+  },
+  {
+    "text": "谷端くんのユニフォーム売り切れか〜残念。\n\n【即発送】 谷端将伍 25 阪神タイガース ホーム ユニフォーム Ｌ《受注品》\nhttps://t.co/j9rIOex7k0",
+    "userName": "Te3DyFbGx3oL",
+    "tweetUrl": "https://twitter.com/Te3DyFbGx3oL/status/2047766945685246007",
+    "createdAt": "April 25, 2026 at 04:57AM"
   }
 ]
