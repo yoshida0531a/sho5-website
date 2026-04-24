@@ -2142,5 +2142,13 @@
     "publishedAt": "April 19, 2026 at 10:57PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【二軍リポート・ 谷端 将伍 選手】昨年のドラフト2位ルーキー / 攻守ともに絶賛勉強中 / 他の選手と比べるのではなく、自分の長所を活かして成長していって欲しい",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_zJkTq9t8U0",
+    "publishedAt": "April 24, 2026 at 11:27PM",
+    "description": "阪神タイガースを分析し、よりプロ野球を楽しむことを目的としたチャンネルです。 hanshinbunsheki22@gmail.com.",
+    "keyword": "谷端 阪神"
   }
 ]
