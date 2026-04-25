@@ -2150,5 +2150,13 @@
     "publishedAt": "April 24, 2026 at 11:27PM",
     "description": "阪神タイガースを分析し、よりプロ野球を楽しむことを目的としたチャンネルです。 hanshinbunsheki22@gmail.com.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】4/25(土) 神2－7オ（安芸）| 谷端、ディベイニーベイにタイムリー！山田、岡城は猛打賞をマーク！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=JmrQKDZNKNw",
+    "publishedAt": "April 25, 2026 at 03:45PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
   }
 ]
