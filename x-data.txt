@@ -14692,5 +14692,587 @@
     "userName": "Tetsu37205103",
     "tweetUrl": "https://twitter.com/Tetsu37205103/status/2049587969095618611",
     "createdAt": "April 30, 2026 at 05:33AM"
+  },
+  {
+    "text": "#おはよう朝日です \n数年後の阪神タイガースの一二番やね\nあと西純とか立石とか谷端とか百崎とか山田とか目移りしますね",
+    "userName": "KmIAgGS7Vx22030",
+    "tweetUrl": "https://twitter.com/KmIAgGS7Vx22030/status/2049601860261363896",
+    "createdAt": "April 30, 2026 at 06:28AM"
+  },
+  {
+    "text": "竹丸はドラ１に相応しいというのは間違いないんだけどドラフト時点のコーナー要員のスカスカ具合見れば普通に立石行ってからハズレ１位で良かったんだよな。\n２位で取れそうだった谷端とか下位まで残っててソフバン行った髙橋とか取ってないんだからなおさら。 https://t.co/WbIisfcsld",
+    "userName": "uWYBTUTqoMdAXi8",
+    "tweetUrl": "https://twitter.com/uWYBTUTqoMdAXi8/status/2049648977767977109",
+    "createdAt": "April 30, 2026 at 09:36AM"
+  },
+  {
+    "text": "@makiyossy_x 大盛さんを一生分見た気がしますw\nマキさん、お疲れ様やで！\n\n岡城くん、立石、谷端の分まで頑張って欲しい🐯",
+    "userName": "so_kamille",
+    "tweetUrl": "https://twitter.com/so_kamille/status/2049656989446549642",
+    "createdAt": "April 30, 2026 at 10:08AM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍が現状打破へ試行錯誤　恩師の助言と「こけしバット」で再起へ - サンスポ https://t.co/vc6fzyUSAa @SANSPOCOMより \n#阪神タイガース",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2049659136909189588",
+    "createdAt": "April 30, 2026 at 10:16AM"
+  },
+  {
+    "text": "谷端選手、こけしバットで現状打破\nへ！こけしバット使ってる人、１人\n知ってるけど「も•ひ•と•つ」やで。\n#阪神タイガース",
+    "userName": "g9Jtkcy9IhOeUpZ",
+    "tweetUrl": "https://twitter.com/g9Jtkcy9IhOeUpZ/status/2049663787285004321",
+    "createdAt": "April 30, 2026 at 10:35AM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍が現状打破へ試行錯誤　恩師の助言と「こけしバット」で再起へ - サンスポ https://t.co/TbLa2dfUHR",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2049672559743172663",
+    "createdAt": "April 30, 2026 at 11:09AM"
+  },
+  {
+    "text": "@marine_swallow 投手陣と立石と谷端をまだ出せてないんだぜ..\n(ハズレ枠という訳ではない)",
+    "userName": "7wayshot",
+    "tweetUrl": "https://twitter.com/7wayshot/status/2049673188247015700",
+    "createdAt": "April 30, 2026 at 11:12AM"
+  },
+  {
+    "text": "谷端くん頑張れ！！！\n最近打点上げてるし経験積んで積んで積みまくれ📣✧٩(ˊᗜˋ*)و✧",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2049674296893829235",
+    "createdAt": "April 30, 2026 at 11:16AM"
+  },
+  {
+    "text": "谷端は大学時代から「練習の虫」らしいから。\n色々と取り組む中で、つかめればいいね。\nがんばれ。 https://t.co/E15pE7jbly",
+    "userName": "tsricr921",
+    "tweetUrl": "https://twitter.com/tsricr921/status/2049674455241408815",
+    "createdAt": "April 30, 2026 at 11:17AM"
+  },
+  {
+    "text": "こけしバットやん！\n榮枝選手も谷端選手も使ってるんや！\n谷端選手がんばれー！\n\n【阪神ファーム通信】D2位・谷端将伍が現状打破へ試行錯誤　恩師の助言と「こけしバット」で再起へ - サンスポ https://t.co/CGzoeUwgn6",
+    "userName": "vk3670",
+    "tweetUrl": "https://twitter.com/vk3670/status/2049699744407290035",
+    "createdAt": "April 30, 2026 at 12:57PM"
+  },
+  {
+    "text": "1B(3B)で打つしかない小田はともかく\n2Bをクビにして打てなくなったらバリューが一気に下がるから谷端もコーナー専任にさせたくないって声もあるのかな\n前川1B 谷端2B 立石3Bとかできる面白さもあるけど個人的には甲子園で守備が通用するか疑問なところはある\n\n小田が2B練習みたいな記事もあったけどね https://t.co/BBLeIjOvxX",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2049701980751470977",
+    "createdAt": "April 30, 2026 at 01:06PM"
+  },
+  {
+    "text": "谷端くんは応援したくなる選手。そして大山さんとのエピ。頑張りを見続けていきたくなる。 https://t.co/8tZXDU3rFf",
+    "userName": "ryu_shiro_ryu",
+    "tweetUrl": "https://twitter.com/ryu_shiro_ryu/status/2049708328960577592",
+    "createdAt": "April 30, 2026 at 01:32PM"
+  },
+  {
+    "text": "谷端ってコーナーじゃないん？",
+    "userName": "boy408789386",
+    "tweetUrl": "https://twitter.com/boy408789386/status/2049720938577768604",
+    "createdAt": "April 30, 2026 at 02:22PM"
+  },
+  {
+    "text": "珍の遊撃をネガることが目的になっていて百崎遊撃とか谷端遊撃とかなんならディベイニーでも良い！とかいう謎の人達",
+    "userName": "HT_keiba",
+    "tweetUrl": "https://twitter.com/HT_keiba/status/2049726776356880590",
+    "createdAt": "April 30, 2026 at 02:45PM"
+  },
+  {
+    "text": "立石、谷端よりも先に岡城がプロ初安打なんてドラフトの時には思いもしなかったな",
+    "userName": "nigitora2933",
+    "tweetUrl": "https://twitter.com/nigitora2933/status/2049748850324508918",
+    "createdAt": "April 30, 2026 at 04:13PM"
+  },
+  {
+    "text": "4月終了時点各ポジション最多出場選手【阪神二軍】\n\n先:ラグズデール\n\n継:椎葉剛\n\n捕:梅野隆太郎\n\n一:佐野大陽\n\n二:谷端将伍\n\n三:佐野大陽\n\n遊:山田脩也\n\n左:前川右京\n\n中:小野寺暖\n\n右:西純矢\n\n指:濱田太貴",
+    "userName": "baseball929292",
+    "tweetUrl": "https://twitter.com/baseball929292/status/2049761854533296321",
+    "createdAt": "April 30, 2026 at 05:04PM"
+  },
+  {
+    "text": "いつもの谷端選手、さすがです https://t.co/ZhfntfyKOI",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://twitter.com/yoshida0531a/status/2049762440309878977",
+    "createdAt": "April 30, 2026 at 05:07PM"
+  },
+  {
+    "text": "阪神ファーム軍\n現実見ると二遊間に残れそうな動きしてんの山田くらいじゃないの\n谷端はセカンドなんとかしてでも残れないか？長打ではじめたら全然見れる守備してる",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2049772177705316641",
+    "createdAt": "April 30, 2026 at 05:45PM"
+  },
+  {
+    "text": "立石、谷端よりも先に岡城がスタメン初安打等々するとは指名時点では想像つかないよな。",
+    "userName": "kayatan_deko",
+    "tweetUrl": "https://twitter.com/kayatan_deko/status/2049773929695445310",
+    "createdAt": "April 30, 2026 at 05:52PM"
+  },
+  {
+    "text": "福島選手と岡城選手頑張れ👍\n次の🐯の1.2番や！\n\n後ろに森下選手と佐藤選手がいるから\n好き放題暴れてくれ☺️\n\n谷端選手、嶋村選手、\nディベイニー、百崎選手\n早く上がってきてくれ☺️\n\n今日は津田投手も投げそうやし楽しみや😌",
+    "userName": "173942658agmt",
+    "tweetUrl": "https://twitter.com/173942658agmt/status/2049774266653253927",
+    "createdAt": "April 30, 2026 at 05:54PM"
+  },
+  {
+    "text": "@yoshihi15269913 ホンマですよねー😓\n\nなんか2軍も投手足りないっぽいですかね🤔\n谷端もいつの間にかおらんくなってますし…💧\n\n大丈夫か？って感じ😅",
+    "userName": "maeshin202109",
+    "tweetUrl": "https://twitter.com/maeshin202109/status/2049780059880493134",
+    "createdAt": "April 30, 2026 at 06:17PM"
+  },
+  {
+    "text": "谷端とか二軍成績が良ければ呼ばれていただろうに惜しいな\n#hanshin",
+    "userName": "fumitakeinada",
+    "tweetUrl": "https://twitter.com/fumitakeinada/status/2049780688057204915",
+    "createdAt": "April 30, 2026 at 06:19PM"
+  },
+  {
+    "text": "立石谷端は刺激にせえよ",
+    "userName": "yasutiger2939",
+    "tweetUrl": "https://twitter.com/yasutiger2939/status/2049783563479028217",
+    "createdAt": "April 30, 2026 at 06:30PM"
+  },
+  {
+    "text": "立石、谷端より岡城",
+    "userName": "Tiger_Amuron",
+    "tweetUrl": "https://twitter.com/Tiger_Amuron/status/2049783563533652287",
+    "createdAt": "April 30, 2026 at 06:30PM"
+  },
+  {
+    "text": "岡城まじでええやん\n立石谷端岡城で一番最初に出てくるのが岡城になるとは",
+    "userName": "Lucifer10032",
+    "tweetUrl": "https://twitter.com/Lucifer10032/status/2049783582743527671",
+    "createdAt": "April 30, 2026 at 06:31PM"
+  },
+  {
+    "text": "立石より谷端より岡城が先に出てくるｗ",
+    "userName": "mente1030",
+    "tweetUrl": "https://twitter.com/mente1030/status/2049783625147888061",
+    "createdAt": "April 30, 2026 at 06:31PM"
+  },
+  {
+    "text": "後は立石と谷端が出てくれば世代交代になるな",
+    "userName": "ikesotyo",
+    "tweetUrl": "https://twitter.com/ikesotyo/status/2049783649940427198",
+    "createdAt": "April 30, 2026 at 06:31PM"
+  },
+  {
+    "text": "オープン戦のとき明らかに実戦タイプで谷端よりよかったもんな。最初藤川が干してたんが意味不明すぎただけで。 #hanshin",
+    "userName": "yuki_hary",
+    "tweetUrl": "https://twitter.com/yuki_hary/status/2049783696883142869",
+    "createdAt": "April 30, 2026 at 06:31PM"
+  },
+  {
+    "text": "立石や谷端より先に岡城が活躍するとは思わんかったけど嬉しい誤算や",
+    "userName": "P_United_Tigers",
+    "tweetUrl": "https://twitter.com/P_United_Tigers/status/2049783822917722360",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "立石でも谷端でもなく岡城が即戦力なの驚きやな",
+    "userName": "Ra98dolis",
+    "tweetUrl": "https://twitter.com/Ra98dolis/status/2049783835622252906",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "ドラフト3位の岡城が今の時期から活躍するとは思わなかった。\n立石も谷端も後半戦では見たいなー",
+    "userName": "ABE_Sato",
+    "tweetUrl": "https://twitter.com/ABE_Sato/status/2049783854853144589",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "立石よりも谷端よりも、岡城が一番先に一軍で活躍するなんて、誰が予想できたよ！？\n素晴らしいな岡城。",
+    "userName": "KENZY_PRODUCTS",
+    "tweetUrl": "https://twitter.com/KENZY_PRODUCTS/status/2049783857302639042",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "岡城、右の意識あるの凄いええな。\nまさか立石でも谷端でもなく、岡城が最初に活躍するとはね…\nわからんもんや😎\n\n#阪神タイガース",
+    "userName": "jgagjgdg5gtgm",
+    "tweetUrl": "https://twitter.com/jgagjgdg5gtgm/status/2049783947203407920",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "岡城の活躍が2軍にいる立石と谷端にいい刺激になれば良いね。",
+    "userName": "ikachang_SCY",
+    "tweetUrl": "https://twitter.com/ikachang_SCY/status/2049784029260697828",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "立石、谷端より岡城が1番早く台頭するのは予想してなかった。",
+    "userName": "emo1119yasu",
+    "tweetUrl": "https://twitter.com/emo1119yasu/status/2049784053440905396",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "立石が化けモン、谷端も超BIGネームなだけで岡城も大概当たりだ",
+    "userName": "Torakichi6K",
+    "tweetUrl": "https://twitter.com/Torakichi6K/status/2049784067009524178",
+    "createdAt": "April 30, 2026 at 06:32PM"
+  },
+  {
+    "text": "カッコいいのが届いた\n#谷端将伍 https://t.co/pudsUaoXjx",
+    "userName": "chin_gisu_fan",
+    "tweetUrl": "https://twitter.com/chin_gisu_fan/status/2049784077570715785",
+    "createdAt": "April 30, 2026 at 06:33PM"
+  },
+  {
+    "text": "立石と谷端獲れたのデカイって言ってたけど岡城が1番打っとるやん",
+    "userName": "amelob2021",
+    "tweetUrl": "https://twitter.com/amelob2021/status/2049784099867615698",
+    "createdAt": "April 30, 2026 at 06:33PM"
+  },
+  {
+    "text": "これにまだ立石、谷端がおるんやろ\n #阪神タイガース",
+    "userName": "hSMkazGMvh11399",
+    "tweetUrl": "https://twitter.com/hSMkazGMvh11399/status/2049784371696345437",
+    "createdAt": "April 30, 2026 at 06:34PM"
+  },
+  {
+    "text": "立石、谷端より早く岡城がヒット打つと思わんかったな",
+    "userName": "yanoyamero334",
+    "tweetUrl": "https://twitter.com/yanoyamero334/status/2049784489795350984",
+    "createdAt": "April 30, 2026 at 06:34PM"
+  },
+  {
+    "text": "まさか岡城が最初に躍動するとはな\n立石谷端もいるし神ドラフトありえるか？",
+    "userName": "enka_hanshin0",
+    "tweetUrl": "https://twitter.com/enka_hanshin0/status/2049784578341249290",
+    "createdAt": "April 30, 2026 at 06:35PM"
+  },
+  {
+    "text": "立石と谷端以外にも素晴らしいルーキーがいるじゃない（ポジ",
+    "userName": "Loyalty_Violet",
+    "tweetUrl": "https://twitter.com/Loyalty_Violet/status/2049784587782639779",
+    "createdAt": "April 30, 2026 at 06:35PM"
+  },
+  {
+    "text": "岡城が良い滑り出しでニッコリ。立石は身体が万全なら当然やるだろうし、谷端も指標的には上がり目が期待出来るだけに、ドラフト上位指名野手は全員良さそう。",
+    "userName": "fiercetigerfang",
+    "tweetUrl": "https://twitter.com/fiercetigerfang/status/2049785513209700722",
+    "createdAt": "April 30, 2026 at 06:38PM"
+  },
+  {
+    "text": "1(中)岡城\n2(一)前川\n3(左)中川\n4(三)立石\n5(指)嶋村\n6(二)谷端\n7(捕)嶋村\n8(右)\n9(遊)\nP　   神宮",
+    "userName": "bw4loe",
+    "tweetUrl": "https://twitter.com/bw4loe/status/2049786327936471092",
+    "createdAt": "April 30, 2026 at 06:41PM"
+  },
+  {
+    "text": "中野帰ってきたら中野8番で良いわ\n\n福島岡城で1.2番組めたら\n森下立石前川谷端とか\n見込めるし",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2049789067685228715",
+    "createdAt": "April 30, 2026 at 06:52PM"
+  },
+  {
+    "text": "おう勝ってる。\n岡城今日もマルチなんやな。\n谷端はプロへの適応に苦労してる雰囲気だけど岡城は適応力あるな。\n立石はスペすぎて知らんけど。",
+    "userName": "patipati289218",
+    "tweetUrl": "https://twitter.com/patipati289218/status/2049791522762301664",
+    "createdAt": "April 30, 2026 at 07:02PM"
+  },
+  {
+    "text": "岡城が筆頭してきて谷端が2軍でも全くやとは思わんかったわな",
+    "userName": "_sh1zuru",
+    "tweetUrl": "https://twitter.com/_sh1zuru/status/2049791598335234121",
+    "createdAt": "April 30, 2026 at 07:02PM"
+  },
+  {
+    "text": "岡城気持ち良すぎだろ\n谷端も上がってきてくれ",
+    "userName": "riixxeve",
+    "tweetUrl": "https://twitter.com/riixxeve/status/2049793617854902656",
+    "createdAt": "April 30, 2026 at 07:10PM"
+  },
+  {
+    "text": "いややべぇな岡城\nワンチャンスをモノにした中野を彷彿とさせる\n立石谷端より先に活躍するとは",
+    "userName": "kkkkkkk99chika",
+    "tweetUrl": "https://twitter.com/kkkkkkk99chika/status/2049793714999210068",
+    "createdAt": "April 30, 2026 at 07:11PM"
+  },
+  {
+    "text": "岡城凄いな！\n立石谷端らよりも早くこんなに打つとは！\n#阪神タイガース",
+    "userName": "howlingwolf555",
+    "tweetUrl": "https://twitter.com/howlingwolf555/status/2049793724352467308",
+    "createdAt": "April 30, 2026 at 07:11PM"
+  },
+  {
+    "text": "岡城！3打数3安打の猛打賞∩(´∀｀)∩ﾜｧｲ♪\n\n立石も続けい！谷端も、刺激を受けていることでしょう",
+    "userName": "ripple0141",
+    "tweetUrl": "https://twitter.com/ripple0141/status/2049793993060549093",
+    "createdAt": "April 30, 2026 at 07:12PM"
+  },
+  {
+    "text": "今、活躍してるルーキーは立石でも谷端でもない、岡城です‼️猛打賞きたー(⁠≧⁠▽⁠≦⁠)",
+    "userName": "Akira1964253",
+    "tweetUrl": "https://twitter.com/Akira1964253/status/2049794404173672744",
+    "createdAt": "April 30, 2026 at 07:14PM"
+  },
+  {
+    "text": "立石谷端岡城という大卒野手トリオの中でまさか岡城が最初に出てくるとは思わなかったな",
+    "userName": "Torasox",
+    "tweetUrl": "https://twitter.com/Torasox/status/2049794544544473446",
+    "createdAt": "April 30, 2026 at 07:14PM"
+  },
+  {
+    "text": "@sugimodepon まさか\n初打点を上げるのが\n立石でも谷端でもなく岡城とは！\n素晴らしいです",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2049795874977636540",
+    "createdAt": "April 30, 2026 at 07:19PM"
+  },
+  {
+    "text": "立石より、谷端より岡城とはねえ〜\n野球って面白いよな",
+    "userName": "bram6les",
+    "tweetUrl": "https://twitter.com/bram6les/status/2049796203165200624",
+    "createdAt": "April 30, 2026 at 07:21PM"
+  },
+  {
+    "text": "しかしドラフト三人称の中で\n谷端が先に出て来ると思ってたんやけど\n素材型の岡城が先とはホンマに読めんね",
+    "userName": "3eqqYlvQG118625",
+    "tweetUrl": "https://twitter.com/3eqqYlvQG118625/status/2049796720373141570",
+    "createdAt": "April 30, 2026 at 07:23PM"
+  },
+  {
+    "text": "岡城くんの猛打賞を立石くんも谷端くんもきっと見てるやろうし奮起して早く上に上がってきて欲しいわね",
+    "userName": "naru972794",
+    "tweetUrl": "https://twitter.com/naru972794/status/2049796861553479800",
+    "createdAt": "April 30, 2026 at 07:23PM"
+  },
+  {
+    "text": "立石、谷端より先に来るとは、、 https://t.co/IfRrxSdt8Q",
+    "userName": "hoso_yakyu",
+    "tweetUrl": "https://twitter.com/hoso_yakyu/status/2049799008638603727",
+    "createdAt": "April 30, 2026 at 07:32PM"
+  },
+  {
+    "text": "1番岡城、2番福島、谷端、立石と来て、DH西純\n\nという未来、、、🐯!!",
+    "userName": "hoso_yakyu",
+    "tweetUrl": "https://twitter.com/hoso_yakyu/status/2049799550530158752",
+    "createdAt": "April 30, 2026 at 07:34PM"
+  },
+  {
+    "text": "谷端は時間かかるとして岡城と立石が来年からバリバリやってくれるとだいぶ将来が明るい",
+    "userName": "harbor_taso",
+    "tweetUrl": "https://twitter.com/harbor_taso/status/2049800965042413570",
+    "createdAt": "April 30, 2026 at 07:40PM"
+  },
+  {
+    "text": "阪神、ドラフトで立石谷端岡城と大学生野手指名して、流石に過剰じゃね？と思ってたけど、こう見ると良くマネジメント出来てると思わされる。",
+    "userName": "haisui_yakyu",
+    "tweetUrl": "https://twitter.com/haisui_yakyu/status/2049806345399046179",
+    "createdAt": "April 30, 2026 at 08:01PM"
+  },
+  {
+    "text": "立石でも谷端でもなく、岡城が最初にフィーバーするとは🎊🎉🎊🎉\n#阪神タイガース",
+    "userName": "takachan5080",
+    "tweetUrl": "https://twitter.com/takachan5080/status/2049809812691783825",
+    "createdAt": "April 30, 2026 at 08:15PM"
+  },
+  {
+    "text": "立石、谷端も奮起してくれー！",
+    "userName": "itoharaTigers",
+    "tweetUrl": "https://twitter.com/itoharaTigers/status/2049812213570183273",
+    "createdAt": "April 30, 2026 at 08:24PM"
+  },
+  {
+    "text": "立石でも谷端でもなく\n岡城が一番に活躍するとは正直思ってなかった\n\n岡城くんごめんなさい\n\n #阪神タイガース\n #Tigers",
+    "userName": "Dai230914",
+    "tweetUrl": "https://twitter.com/Dai230914/status/2049813307490795625",
+    "createdAt": "April 30, 2026 at 08:29PM"
+  },
+  {
+    "text": "素材型と思われていた岡城が立石谷端より先に躍動するとはね。",
+    "userName": "maximas",
+    "tweetUrl": "https://twitter.com/maximas/status/2049814585075757490",
+    "createdAt": "April 30, 2026 at 08:34PM"
+  },
+  {
+    "text": "まさか立石選手や谷端選手より先に岡城選手が一軍の舞台で猛打賞を達成するなんて",
+    "userName": "_hanninha_yasu",
+    "tweetUrl": "https://twitter.com/_hanninha_yasu/status/2049816637986263186",
+    "createdAt": "April 30, 2026 at 08:42PM"
+  },
+  {
+    "text": "@kkkkkkk99chika 岡城やばいな、少ないチャンスをしっかりモノにする感じが中野っぽいし、立石や谷端より先に出てくるのは普通に驚きだな。",
+    "userName": "Junkyubon12",
+    "tweetUrl": "https://twitter.com/Junkyubon12/status/2049820370530869583",
+    "createdAt": "April 30, 2026 at 08:57PM"
+  },
+  {
+    "text": "今出ている野手\n伏見\n大山\n熊谷\n小幡\n佐藤\n小野寺\n福島\n岡城\nチカナカいなくても頑張れるんやな。\nあと立石谷端が生えてくれば補完完成やん。",
+    "userName": "BandoRe10",
+    "tweetUrl": "https://twitter.com/BandoRe10/status/2049822312640524405",
+    "createdAt": "April 30, 2026 at 09:04PM"
+  },
+  {
+    "text": "岡城がこんなにヒット量産できる選手やったとは。谷端は完全にお株を奪われたな。",
+    "userName": "doriouji",
+    "tweetUrl": "https://twitter.com/doriouji/status/2049823558889836874",
+    "createdAt": "April 30, 2026 at 09:09PM"
+  },
+  {
+    "text": "@TigersDreamlink 救世主・岡城快生！プロ初猛打賞！\n\n立石谷端を差し置いて頭一つ抜け出した！\n\n183cmの恵まれた体格に国立・筑波大のクレバーな頭！風貌はまさに賢い江越！\n\n今季最多16安打のうち小幡・佐藤3人で計10安打を荒稼ぎ！\n\nチカナカ不在で連覇に暗雲立ち込める中、再び快晴に導け！岡城快生！期待してるで！",
+    "userName": "horu_tenkura",
+    "tweetUrl": "https://twitter.com/horu_tenkura/status/2049823761021755448",
+    "createdAt": "April 30, 2026 at 09:10PM"
+  },
+  {
+    "text": "岡城がすんなりプロに順応出来てアマでの実績が圧倒的に上の谷端が苦戦してるのを見ると、フィジカルの差って大きいんやなって思うわ",
+    "userName": "kenaka210",
+    "tweetUrl": "https://twitter.com/kenaka210/status/2049826373217423852",
+    "createdAt": "April 30, 2026 at 09:21PM"
+  },
+  {
+    "text": "まさか立石より谷端より先に岡城が結果出すとは思ってなかった。\n\nこのまま駆け上がるかな？",
+    "userName": "ZJ1QyB05Vzoe602",
+    "tweetUrl": "https://twitter.com/ZJ1QyB05Vzoe602/status/2049829901059100703",
+    "createdAt": "April 30, 2026 at 09:35PM"
+  },
+  {
+    "text": "立石谷端岡城が令和の井口松中柴原になる日は近い",
+    "userName": "RENO_0902",
+    "tweetUrl": "https://twitter.com/RENO_0902/status/2049830242488025363",
+    "createdAt": "April 30, 2026 at 09:36PM"
+  },
+  {
+    "text": "@___umi_t ですね😊けど我等の\n可愛い谷端君の奮起も期待しましょう笑\n(記事出てたけど頑張ってます❗️)\n\n先ずは岡城、圭音がバテだす夏に\n近本が帰ってくる、、そのドラマが待ってるはずです❗️",
+    "userName": "3eqqYlvQG118625",
+    "tweetUrl": "https://twitter.com/3eqqYlvQG118625/status/2049830814188453938",
+    "createdAt": "April 30, 2026 at 09:38PM"
+  },
+  {
+    "text": "そういえば里崎さんがご自身のYouTubeチャンネルで昨年の阪神タイガースのドラフトを振り返った時か何かの動画で\n\n「立石・谷端が注目されてるけど、いちばん早く出てくるのは岡城くんかもしれないしね」\n\nとおっしゃっていたのを思い出した",
+    "userName": "sacchy_music",
+    "tweetUrl": "https://twitter.com/sacchy_music/status/2049831537143898410",
+    "createdAt": "April 30, 2026 at 09:41PM"
+  },
+  {
+    "text": "立石谷端より先に出てくる岡城くんお見事やで\n一年怪我せず頑張ってくれ",
+    "userName": "yrnpo",
+    "tweetUrl": "https://twitter.com/yrnpo/status/2049833065573421362",
+    "createdAt": "April 30, 2026 at 09:47PM"
+  },
+  {
+    "text": "それにしても\n岡城　ドラフト３位でよくとれたよなぁ\n\n立石は故障続き\n谷端はプロの球に苦しんでる？\nドラフト１位２位が\nこれなのに\nドラフト３位の岡城は",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2049836527828738473",
+    "createdAt": "April 30, 2026 at 10:01PM"
+  },
+  {
+    "text": "立石谷端岡城と野手3人ドラフト上位で固めたけど岡城が最初から猛打賞やってくれるとはなあ　オープン戦でインコース上手く捌いてヒットにしたの見て西純矢のバッティングみたいやなと思ったけどここまでやるとは　近本や大山みたいに息長く主軸でやってくれる存在になれば最高やが",
+    "userName": "pereonAS",
+    "tweetUrl": "https://twitter.com/pereonAS/status/2049839268168970498",
+    "createdAt": "April 30, 2026 at 10:12PM"
+  },
+  {
+    "text": "「まさか立石や谷端より岡城が一番最初に結果を出すとは」ってポストを何個か見かけたんだけど、思い返せば岡城ってオープン戦でも結果出してたものね😉もちろんこれから壁にぶつかることはあるだろうけど、彼ならうまく乗り越えてくれると思いますわよ。なんせ学歴があるからな❣(学歴厨)",
+    "userName": "geheimnis____",
+    "tweetUrl": "https://twitter.com/geheimnis____/status/2049839730800681035",
+    "createdAt": "April 30, 2026 at 10:14PM"
+  },
+  {
+    "text": "立石くんも谷端もがんばれー❕みんなで切磋琢磨して成長していく姿を早く見たいっ🥺💫",
+    "userName": "geheimnis____",
+    "tweetUrl": "https://twitter.com/geheimnis____/status/2049840527512863157",
+    "createdAt": "April 30, 2026 at 10:17PM"
+  },
+  {
+    "text": "@munegod55 いやマジでそう\nなんでドラフトでショート取らんかね\n立石、谷端、岡城はまぁ補強ポイントやからわかるけど、5.6位あたりでも誰か居たやろーーーー",
+    "userName": "cr7abc17",
+    "tweetUrl": "https://twitter.com/cr7abc17/status/2049840872066597144",
+    "createdAt": "April 30, 2026 at 10:18PM"
+  },
+  {
+    "text": "岡城君はロマンの塊。\n明日も大活躍期待しています。\n今年の他球団は大卒ルーキーの当たり年。\n立石君と谷端君を今のうちに出し抜き、長くプロ野球人生を過ごしていただきたいです。\n母校の学び舎で応援し続けた阪神タイガースを明日もしっかりと応援します。\n#阪神タイガース #岡城快生 #岡山一宮高 https://t.co/3iIgr0UKVV",
+    "userName": "pinkojisandoc",
+    "tweetUrl": "https://twitter.com/pinkojisandoc/status/2049841492269863063",
+    "createdAt": "April 30, 2026 at 10:21PM"
+  },
+  {
+    "text": "岡城が、前評判の高かった立石と谷端よりも先に一軍で活躍するとは。",
+    "userName": "Yimdoic",
+    "tweetUrl": "https://twitter.com/Yimdoic/status/2049842967716962328",
+    "createdAt": "April 30, 2026 at 10:27PM"
+  },
+  {
+    "text": "立石でも谷端でもなく、岡城だったか。",
+    "userName": "GAM_SUGANUMAC13",
+    "tweetUrl": "https://twitter.com/GAM_SUGANUMAC13/status/2049844167095054599",
+    "createdAt": "April 30, 2026 at 10:31PM"
+  },
+  {
+    "text": "@tigerschannel72 まず岡城君が一歩リード。\n立石、谷端も負けるな！\n25年トリオ楽しみにしている。👍",
+    "userName": "norinori_fura",
+    "tweetUrl": "https://twitter.com/norinori_fura/status/2049845812860186881",
+    "createdAt": "April 30, 2026 at 10:38PM"
+  },
+  {
+    "text": "期待の若手、谷端くんだと思っていたけど、岡城選手になりそう\nいつコナミが決めてるかによるけど、これから決めるならきっとそう\n\n去年までは糸原選手のSほしかったけどもう諦めた\n高橋投手のSランクをはじめ、熊谷選手や福島選手、岡城選手、昨日見てていいなと思った石黒投手なんかのSがほちぃ",
+    "userName": "acrossnico",
+    "tweetUrl": "https://twitter.com/acrossnico/status/2049846205459714059",
+    "createdAt": "April 30, 2026 at 10:39PM"
+  },
+  {
+    "text": "ドラ1立石・故障×3\nドラ2谷端・2軍でもがき苦しんでる\nドラ3岡城・2試合連続スタメンで大活躍\nなんか産まれた星を感じるな",
+    "userName": "shino_yakyu",
+    "tweetUrl": "https://twitter.com/shino_yakyu/status/2049846324884049948",
+    "createdAt": "April 30, 2026 at 10:40PM"
+  },
+  {
+    "text": "数年後\n1番(中) 福島 圭音\n2番(左) 岡城 快生\n3番(二) 谷端 将伍\n4番(三) 立石 正広\n5番(捕) 中川 勇斗\nこんな感じの生え抜き上位打線になっててほしい笑\n #阪神タイガース https://t.co/i5YRmasXIP",
+    "userName": "soleil_withu_",
+    "tweetUrl": "https://twitter.com/soleil_withu_/status/2049847447397294254",
+    "createdAt": "April 30, 2026 at 10:44PM"
+  },
+  {
+    "text": "谷端ちゃんと努力できてるところはポジティブ\n今年は多分一軍の出番ないだろうから、自分のスイングを追究してトレーニングでパンパンになってほしい https://t.co/1OZv9sqFUv",
+    "userName": "vUB0MsrsKHoYwGm",
+    "tweetUrl": "https://twitter.com/vUB0MsrsKHoYwGm/status/2049856204126728450",
+    "createdAt": "April 30, 2026 at 11:19PM"
+  },
+  {
+    "text": "今季の阪神、層の薄さが大問題なっているが、まあなんやかんやリリーフは数字は出てるし、野手も岡城福島嶋村と出てきたのは面白い。ここに立石谷端が出てくれるといいんだが。個人的に去年のドラフト1-3位は2020年ドラフトに比肩してもらえると。",
+    "userName": "hstr0_",
+    "tweetUrl": "https://twitter.com/hstr0_/status/2049858171033075815",
+    "createdAt": "April 30, 2026 at 11:27PM"
+  },
+  {
+    "text": "岡城、前川、立石、谷端…全員レギュラーの打線がいつか見たいな",
+    "userName": "maegawafan58",
+    "tweetUrl": "https://twitter.com/maegawafan58/status/2049860100010197369",
+    "createdAt": "April 30, 2026 at 11:35PM"
+  },
+  {
+    "text": "立石・谷端・岡城の中で岡城が最初に結果だしたな 全員期待してる",
+    "userName": "larocca291",
+    "tweetUrl": "https://twitter.com/larocca291/status/2049865019547111824",
+    "createdAt": "April 30, 2026 at 11:54PM"
+  },
+  {
+    "text": "岡城マジで素晴らしい　立石、谷端も期待してるけど",
+    "userName": "servicearea33",
+    "tweetUrl": "https://twitter.com/servicearea33/status/2049872724689117528",
+    "createdAt": "May 1, 2026 at 12:25AM"
+  },
+  {
+    "text": "レフトは立石や谷端が、でもあいつら内野だしな、とかいってたの覚えてるか、岡城すげえや",
+    "userName": "nAzO_OnAkAItA_I",
+    "tweetUrl": "https://twitter.com/nAzO_OnAkAItA_I/status/2049879683001696684",
+    "createdAt": "May 1, 2026 at 12:52AM"
+  },
+  {
+    "text": "@kkkkkkk99chika 岡城選手、本当に凄かったですね！まさにチャンスを掴み取る勝負強さは中野選手を思い出させます。立石選手や谷端選手との切磋琢磨も楽しみで、期待が膨らみますね！",
+    "userName": "sorimasein",
+    "tweetUrl": "https://twitter.com/sorimasein/status/2049891114547884110",
+    "createdAt": "May 1, 2026 at 01:38AM"
+  },
+  {
+    "text": "@tigers_win2025 立石でも谷端でもなく、岡城が先に打つとは想像できなかった\n良い意味での期待を裏切ってくれた",
+    "userName": "I1whxYcm44AoE5H",
+    "tweetUrl": "https://twitter.com/I1whxYcm44AoE5H/status/2049898753843441845",
+    "createdAt": "May 1, 2026 at 02:08AM"
+  },
+  {
+    "text": "立石でもなく谷端でもなく岡城ルーキー無双。",
+    "userName": "kzo_38",
+    "tweetUrl": "https://twitter.com/kzo_38/status/2049902133563257156",
+    "createdAt": "May 1, 2026 at 02:22AM"
   }
 ]
