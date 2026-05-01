@@ -15274,5 +15274,89 @@
     "userName": "kzo_38",
     "tweetUrl": "https://twitter.com/kzo_38/status/2049902133563257156",
     "createdAt": "May 1, 2026 at 02:22AM"
+  },
+  {
+    "text": "@nyanchii625 岡城くん打ちまくっててほんと楽しみですね！しかしルーキーで騒がれた立石よりも谷端よりも先に岡城が出てきちゃうとは、ほんとうちのドラフト戦略凄すぎる！！",
+    "userName": "redstar_yamato",
+    "tweetUrl": "https://twitter.com/redstar_yamato/status/2049975219524423948",
+    "createdAt": "May 1, 2026 at 07:12AM"
+  },
+  {
+    "text": "@kkkkkkk99chika 谷端期待",
+    "userName": "mayuhiro_720",
+    "tweetUrl": "https://twitter.com/mayuhiro_720/status/2049989824166477828",
+    "createdAt": "May 1, 2026 at 08:10AM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍が現状打破へ試行錯誤　恩師の助言と「こけしバット」で再起へ - サンスポ https://t.co/Nqc3Jt3awo @SANSPOCOMより\nそういえば昨日の記事ですがぽよ要素",
+    "userName": "poyo___39",
+    "tweetUrl": "https://twitter.com/poyo___39/status/2050000188660699525",
+    "createdAt": "May 1, 2026 at 08:51AM"
+  },
+  {
+    "text": "立石くんと谷端くんより岡城くんが先に1軍で活躍するとは思わなかったけどめちゃくちゃ嬉しい誤算だったな！チャンス与えられてもなかなか結果出ないこと多いけどすぐに結果出すのは日々の努力と普段の行いの積み重ねなんだろうな。わいはなんか疲れたから仕事サボるわwなんぼやっても給料一緒やw",
+    "userName": "makuri4411",
+    "tweetUrl": "https://twitter.com/makuri4411/status/2050005258265628852",
+    "createdAt": "May 1, 2026 at 09:11AM"
+  },
+  {
+    "text": "立石正広でもなく谷端将伍でもなく\nプロ初安打、初打点、初猛打賞をやってのけたのが超絶阪神顔の岡城快生というのが野球って本当にオモロいね🐯\n#阪神タイガース #岡城快生 https://t.co/QrtEfKAcsx",
+    "userName": "Jailseiym",
+    "tweetUrl": "https://twitter.com/Jailseiym/status/2050090578663329824",
+    "createdAt": "May 1, 2026 at 02:50PM"
+  },
+  {
+    "text": "岡城は夏に新応援歌期待できそうやな\n\n立石谷端より早くできそう\n\n福島に関しては、育成上がりの選手にすぐ応援歌作られるイメージないけど早くて来年の春には期待できるかな\n\nディベイニー？\nそんなやつ応援歌いつ歌うねん",
+    "userName": "assy_twi",
+    "tweetUrl": "https://twitter.com/assy_twi/status/2050133328058306885",
+    "createdAt": "May 1, 2026 at 05:40PM"
+  },
+  {
+    "text": "ちょっと離れて眺める銭湯。火曜は滝野川のクアパレスゆうゆうさん。板橋駅から谷端川氾濫原を歩くと、左側のビルに湯の看板。奥行き深い浴室には豊富な浴槽、奥には露天風呂。井戸水から作った甘い匂いの湯が豊富。長湯してしまう風呂屋さん\n#離れて眺める銭湯\n#井戸水\n#滝野川\n#クァパレスゆうゆう https://t.co/yQBXDNpIUg",
+    "userName": "inuyamayuge",
+    "tweetUrl": "https://twitter.com/inuyamayuge/status/2050144934334988477",
+    "createdAt": "May 1, 2026 at 06:26PM"
+  },
+  {
+    "text": "#阪神タイガース　中野ベンチか‥。谷端、あげて欲しいな。",
+    "userName": "GGvTtXpGa3nSd4n",
+    "tweetUrl": "https://twitter.com/GGvTtXpGa3nSd4n/status/2050148657656484250",
+    "createdAt": "May 1, 2026 at 06:41PM"
+  },
+  {
+    "text": "BBM 2026 1st カートン開封⑤\n\n石垣元気　　/50   NEW ORDER\n谷端将伍　　/75   ホロブルー箔サイン\n工藤泰己　　/75   ピンク箔\n花田旭　　　/200 ホロブルー箔\n佐々木泰　　　　　ウルトラシークレット\n泉口友汰　　　　　銀箔サイン\n菊池涼介　　　　　銀箔サイン\nモイネロ　　　　　銀箔サイン https://t.co/LKQZ7z4plh",
+    "userName": "HK_yafuoku",
+    "tweetUrl": "https://twitter.com/HK_yafuoku/status/2050154314828832783",
+    "createdAt": "May 1, 2026 at 07:04PM"
+  },
+  {
+    "text": "田和廉がドラ2ってなんかやたら叩かれてたけど谷端とかいうグロ画像と比べたら相当マシやんな",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2050182755561140562",
+    "createdAt": "May 1, 2026 at 08:57PM"
+  },
+  {
+    "text": "@TRTY_RacingTeam ここに立石や谷端が一、三で守る姿を想像しただけでヨダレもんよ",
+    "userName": "ryonryon_FBKing",
+    "tweetUrl": "https://twitter.com/ryonryon_FBKing/status/2050182784694813056",
+    "createdAt": "May 1, 2026 at 08:57PM"
+  },
+  {
+    "text": "@sheldon_mieses_ さすがに早漏か\nでも谷端ってなんか由伸が監督やってた頃の読売にたくさん居た、右打ちの遊撃手モドキたちと同じような雰囲気ありません？\n三塁に置くには打撃がアレなのもなんか似てる",
+    "userName": "bat_nekaserudon",
+    "tweetUrl": "https://twitter.com/bat_nekaserudon/status/2050202706145575172",
+    "createdAt": "May 1, 2026 at 10:16PM"
+  },
+  {
+    "text": "@LoveIshii9 正直1位小田2位島田より1位毛利2位谷端のが好みではある。てか横浜のドラ1とドラ2ドラフト前に地雷と酷評してたからまじで2人ともきてなんとも言えない気持ちになった",
+    "userName": "UPgHZxTyMx48593",
+    "tweetUrl": "https://twitter.com/UPgHZxTyMx48593/status/2050237448454889485",
+    "createdAt": "May 2, 2026 at 12:34AM"
+  },
+  {
+    "text": "小濱ルーキーパラ300シリ\n谷端ルーキーパラ200シリ\n篠崎ルーキーパラ100シリ\n曽谷Japonism 100シリ\n村上ホロ箔サインパラ 50シリ\nでしたー。\n\n度会くんや宏斗とのトレード、お待ちしてまっす！ https://t.co/c4NF3hCazv",
+    "userName": "kota_DQ_darts",
+    "tweetUrl": "https://twitter.com/kota_DQ_darts/status/2050273561546498108",
+    "createdAt": "May 2, 2026 at 02:58AM"
   }
 ]
