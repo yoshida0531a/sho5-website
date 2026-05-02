@@ -2158,5 +2158,29 @@
     "publishedAt": "April 25, 2026 at 03:45PM",
     "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍　鋭いフリー打撃　ファーム(ヤクルト-阪神)　ヤクルト戸田球場　2026.5.2",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2X7tvKDVwXg",
+    "publishedAt": "May 2, 2026 at 09:17PM",
+    "description": "阪神優勝には立石正弘(ドラフト１位)と谷端将伍(ドラフト２位)の力が必要になるはず。それに備え、打撃に磨きをかけてください ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍(ドラフト２位)　軽快なグラブさばき　ファーム(ヤクルト-阪神)　ヤクルト戸田球場　2026.5.2",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=3LOTwgcwQvQ",
+    "publishedAt": "May 2, 2026 at 09:25PM",
+    "description": "軽快なグラブさばきは谷端将伍(ドラフト２位)。１軍昇格が待たれます。気に入ったら、チャンネル登録をお願いします。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "スターティングメンバー発表　ファーム(ヤクルト-阪神)　ヤクルト戸田球場　2026.5.2",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=cUNP9jIwJz8",
+    "publishedAt": "May 2, 2026 at 08:04PM",
+    "description": "注目の谷端将伍(阪神ドラフト２位)は７番セカンド、松下歩叶(ヤクルトドラフト１位)は３番サードでの出場です。気に入ったら、 ...",
+    "keyword": "谷端 阪神"
   }
 ]
