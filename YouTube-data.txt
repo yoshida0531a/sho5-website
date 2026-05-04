@@ -2182,5 +2182,21 @@
     "publishedAt": "May 2, 2026 at 08:04PM",
     "description": "注目の谷端将伍(阪神ドラフト２位)は７番セカンド、松下歩叶(ヤクルトドラフト１位)は３番サードでの出場です。気に入ったら、 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】5/4(月祝) 神4－4広（ＳＧＬ）| 初先発の木下が5回無失点の好投！谷端、嶋村、濱田にタイムリー！ディベイニー、島田は好守！延長で糸原がベテランの味！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ohtP5hBv99U",
+    "publishedAt": "May 4, 2026 at 04:51PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.5.4 元山飛優選手と谷端将伍選手  #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=uwJHSRfT5c8",
+    "publishedAt": "May 4, 2026 at 06:43PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
