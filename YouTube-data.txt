@@ -2198,5 +2198,13 @@
     "publishedAt": "May 4, 2026 at 06:43PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "野球教室に参加してた選手たち① 谷端将伍選手、元山飛優選手、早瀬朔選手、藤田健斗選手、津田淳哉選手、能登嵩都選手、小川一平選手、松原快選手  #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UAr2ncBmXHs",
+    "publishedAt": "May 5, 2026 at 09:07PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
