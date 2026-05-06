@@ -2206,5 +2206,13 @@
     "publishedAt": "May 5, 2026 at 09:07PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.5.6 ルーキー３人でなにしてんやろ思ったら…  立石正広選手、山﨑照英選手、谷端将伍選手  #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_VT35zkfpJ0",
+    "publishedAt": "May 6, 2026 at 05:27PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
