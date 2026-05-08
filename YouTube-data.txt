@@ -2214,5 +2214,21 @@
     "publishedAt": "May 6, 2026 at 05:27PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】5/8(金) 神2－6ソ（ＳＧＬ）| 谷端が好守＆タイムリー！能登は6回1失点！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=gvZkbG8j1H0",
+    "publishedAt": "May 8, 2026 at 09:24PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.5.8 阪神ソフトバンク 川﨑俊哲選手 谷端将伍選手  #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-5vCs-uOavY",
+    "publishedAt": "May 8, 2026 at 11:04PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
