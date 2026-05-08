@@ -35,12 +35,12 @@
       text-align: center;
       font-size: 28px;
       font-weight: bold;
-      margin: 20px 0;
+      margin: 14px 0 10px;
     }
 
     .container {
       width: min(760px, calc(100% - 20px));
-      margin: 0 auto 30px;
+      margin: 0 auto 24px;
     }
 
     .hero {
@@ -49,7 +49,7 @@
       gap: 14px;
       align-items: end;
       border-radius: 10px;
-      margin-bottom: 14px;
+      margin-bottom: 12px;
       background: linear-gradient(180deg, #fafafa 0%, #f0f0f0 100%);
       border: 1px solid rgba(0, 0, 0, 0.06);
       padding: 18px;
@@ -209,8 +209,9 @@
       padding: 14px;
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-      min-height: 220px;
+      justify-content: flex-start;
+      gap: 10px;
+      min-height: 190px;
     }
 
     .tap-button {
@@ -244,7 +245,7 @@
     }
 
     .tap-note {
-      margin-top: 10px;
+      margin-top: 6px;
       font-size: 12px;
       color: #777;
       line-height: 1.6;
@@ -411,14 +412,13 @@
 </head>
 <body>
   <a class="top-link" href="index.html">←</a>
-  <header>Sho5 Fan Site</header>
+  <header>Sho5 meter</header>
 
   <div class="container">
     <section class="hero">
       <div class="hero-content">
         <div class="eyebrow">Monthly Support</div>
-        <h1>Sho5 Meter</h1>
-        <p>好きなだけ押せる応援ボタン。今月のクリック数がそのまま Sho5 Meter になって、月ごとの応援熱量も下に残ります。</p>
+        <p>ボタンを押して押して押しまくって、皆様の応援の情熱を少しずつ集め、いつの日か本人に届けましょう！</p>
       </div>
       <div class="hero-media">
         <img class="hero-visual" src="assets/images/fan-meter-top5.jpg" alt="谷端将伍">
@@ -488,11 +488,9 @@
 
   <script>
     const API_URL = 'https://sho5-meter.chjqnfv62h.workers.dev/api/sho5-meter';
-    const SPEECHES = [
-      '趣味は睡眠です',
-      '対戦したい相手は奥川さんです',
-      '地元の自慢は大きな山があることです'
-    ];
+    const MESSAGES_URL = 'data/sho5-meter-messages.json';
+    let speechMessages = [];
+    let tapCount = 0;
 
     const monthCountEl = document.getElementById('month-count');
     const monthTapsStatEl = document.getElementById('month-taps-stat');
@@ -525,7 +523,8 @@
     }
 
     function showSpeech() {
-      const message = SPEECHES[Math.floor(Math.random() * SPEECHES.length)];
+      if (!speechMessages.length) return;
+      const message = speechMessages[Math.floor(Math.random() * speechMessages.length)];
       speechBubbleEl.textContent = message;
       speechBubbleEl.classList.add('visible');
       clearTimeout(showSpeech.timeoutId);
@@ -584,6 +583,19 @@
       setReadyState();
     }
 
+    async function loadMessages() {
+      try {
+        const response = await fetch(MESSAGES_URL, { method: 'GET' });
+        if (!response.ok) throw new Error('load messages failed');
+        const data = await response.json();
+        if (Array.isArray(data)) {
+          speechMessages = data.filter((item) => typeof item === 'string' && item.trim().length > 0);
+        }
+      } catch (error) {
+        console.error(error);
+      }
+    }
+
     async function loadMeter() {
       try {
         const response = await fetch(API_URL, { method: 'GET' });
@@ -599,7 +611,10 @@
 
     async function tapMeter() {
       pulseButton();
-      showSpeech();
+      tapCount += 1;
+      if (tapCount % 5 === 0) {
+        showSpeech();
+      }
 
       setButtonState(true, '送信中…');
       setStatus('応援を送っています…');
@@ -625,6 +640,7 @@
     }
 
     buttonEl.addEventListener('click', tapMeter);
+    loadMessages();
     loadMeter();
   </script>
 </body>
