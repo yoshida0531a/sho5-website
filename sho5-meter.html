@@ -45,8 +45,8 @@
 
     .hero {
       display: grid;
-      grid-template-columns: minmax(0, 1.1fr) 220px;
-      gap: 14px;
+      grid-template-columns: 1fr;
+      gap: 12px;
       align-items: end;
       border-radius: 10px;
       margin-bottom: 12px;
@@ -59,25 +59,9 @@
       min-width: 0;
     }
 
-    .eyebrow {
-      font-size: 11px;
-      font-weight: 600;
-      color: #777;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      margin-bottom: 8px;
-    }
-
-    .hero h1 {
-      margin: 0 0 10px;
-      font-size: clamp(34px, 10vw, 58px);
-      line-height: 0.95;
-      letter-spacing: -0.04em;
-    }
-
     .hero p {
       margin: 0;
-      font-size: 15px;
+      font-size: 14px;
       color: #555;
       line-height: 1.65;
     }
@@ -88,7 +72,7 @@
       display: flex;
       align-items: flex-end;
       justify-content: flex-end;
-      min-height: 200px;
+      min-height: 0;
     }
 
     .hero-visual {
@@ -148,7 +132,7 @@
 
     .meter-row {
       display: grid;
-      grid-template-columns: 1.2fr 0.8fr;
+      grid-template-columns: 1fr;
       gap: 14px;
       align-items: stretch;
     }
@@ -261,7 +245,7 @@
 
     .stats-grid {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 10px;
     }
 
@@ -346,31 +330,6 @@
     }
 
     @media (max-width: 720px) {
-      .hero {
-        grid-template-columns: 1fr;
-        gap: 12px;
-      }
-
-      .meter-row {
-        grid-template-columns: 1fr;
-      }
-
-      .stats-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-
-      .hero-media {
-        min-height: 0;
-      }
-
-      .hero h1 {
-        font-size: clamp(28px, 15vw, 52px);
-      }
-
-      .hero p {
-        font-size: 14px;
-      }
-
       .speech-bubble {
         top: 8px;
         right: 8px;
@@ -417,8 +376,7 @@
   <div class="container">
     <section class="hero">
       <div class="hero-content">
-        <div class="eyebrow">Monthly Support</div>
-        <p>ボタンを押して押して押しまくって、皆様の応援の情熱を少しずつ集め、いつの日か本人に届けましょう！</p>
+        <p>ボタンを押して押して押しまくって、皆様の応援の情熱を少しずつ集め、いつの日か本人に届けましょう！（５回タップすると…）</p>
       </div>
       <div class="hero-media">
         <img class="hero-visual" src="assets/images/fan-meter-top5.jpg" alt="谷端将伍">
@@ -442,7 +400,6 @@
 
         <div class="tap-card">
           <div>
-            <div class="meter-title">Tap Freely</div>
             <button class="tap-button" id="tap-button" type="button">Sho5 Meter を上げる</button>
             <div class="status" id="status-text">読み込み中…</div>
           </div>
