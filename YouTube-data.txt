@@ -2230,5 +2230,13 @@
     "publishedAt": "May 8, 2026 at 11:04PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端待機中 #阪神タイガース #阪神ファン #谷端将伍 #応援曲 #reeel music ent",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ESFqXuYM5D0",
+    "publishedAt": "May 9, 2026 at 06:51PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
