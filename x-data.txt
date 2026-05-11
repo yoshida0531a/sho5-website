@@ -2284,5 +2284,89 @@
     "userName": "_x2525x_",
     "tweetUrl": "https://twitter.com/_x2525x_/status/2053509797832782174",
     "createdAt": "May 11, 2026 at 01:17AM"
+  },
+  {
+    "text": "@undreadrider054 井上広大が使えると判断されていたなら、立石はともかく、谷端か岡城は指名しなかったかも知れませんね🤔\n\nただ「スタメンを漏らした疑惑」の件で、藤川監督の心象は相当悪かった様ですが💦",
+    "userName": "shin_no_ji_TAXI",
+    "tweetUrl": "https://twitter.com/shin_no_ji_TAXI/status/2053635266720715182",
+    "createdAt": "May 11, 2026 at 09:36AM"
+  },
+  {
+    "text": "良い写真すぎる\n#谷端将伍 #母の日 https://t.co/HTX5VbDoGq",
+    "userName": "1Tsu1ba0sa9",
+    "tweetUrl": "https://twitter.com/1Tsu1ba0sa9/status/2053644333757472772",
+    "createdAt": "May 11, 2026 at 10:12AM"
+  },
+  {
+    "text": "前にも言ったけど田和がいい選手かどうかとドラ2でいくのは田和じゃないは両立するとは思う。決して田和がいらないわけじゃない。下位なら全然ありだし\nコーナー野手や打力ある選手足りてない現状が事実としてあるし\nとはいえあのとき残ってた谷端とか今二軍やしなぁ",
+    "userName": "bb_luv2896",
+    "tweetUrl": "https://twitter.com/bb_luv2896/status/2053712331738362292",
+    "createdAt": "May 11, 2026 at 02:42PM"
+  },
+  {
+    "text": "渡部聖弥とか1年目からバリバリ出てたしそろそろ立石谷端どちらかはその路線乗って欲しいっすね〜",
+    "userName": "fuwafuwand_",
+    "tweetUrl": "https://twitter.com/fuwafuwand_/status/2053776341800255946",
+    "createdAt": "May 11, 2026 at 06:56PM"
+  },
+  {
+    "text": "谷端に当たりが出始めているのが救い。岡城も早く、直球を待ちながら変化球を打てるようになるといいね。直球を打つのが1番難しいわけだから、楽しみだよね。",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2053780312178757767",
+    "createdAt": "May 11, 2026 at 07:12PM"
+  },
+  {
+    "text": "谷端、開幕からなかなか数字が上がらなかったけどおとといは2安打1打点！\n\n#写真好きな人と繋がりたい \n#ファインダー越しの私の世界\n#hoshitabi\n#tigers https://t.co/mlugS9Bs2A",
+    "userName": "hoshi1105",
+    "tweetUrl": "https://twitter.com/hoshi1105/status/2053786966534271101",
+    "createdAt": "May 11, 2026 at 07:39PM"
+  },
+  {
+    "text": "かにタオル川﨑選手と谷端選手完売\nアクスタ川﨑選手完売、谷端選手残り2\n今後の入荷予定なしとの事です https://t.co/SF0oBJzREn",
+    "userName": "H5212494",
+    "tweetUrl": "https://twitter.com/H5212494/status/2053798915816960217",
+    "createdAt": "May 11, 2026 at 08:26PM"
+  },
+  {
+    "text": "虎ノ大三角:森下翔太,佐藤輝明,大山悠輔\n\n虎ノ三連華:伏見寅威,梅野隆太郎,坂本誠志郎\n\n虎ノ小三角:立石正広,谷端将伍,岡城快生",
+    "userName": "vetran_aqours",
+    "tweetUrl": "https://twitter.com/vetran_aqours/status/2053804066673996145",
+    "createdAt": "May 11, 2026 at 08:47PM"
+  },
+  {
+    "text": "⬇️この時のお話相手は谷端くんでした",
+    "userName": "tari_tg1",
+    "tweetUrl": "https://twitter.com/tari_tg1/status/2053834619674669256",
+    "createdAt": "May 11, 2026 at 10:48PM"
+  },
+  {
+    "text": "北信越大会遠征控えてるし、みにいけないからYouTubeでの配信はありがたい。\n\n谷端くんはくるんやろか。 https://t.co/OROxJfST1L",
+    "userName": "koushienmsms",
+    "tweetUrl": "https://twitter.com/koushienmsms/status/2053840445760024810",
+    "createdAt": "May 11, 2026 at 11:11PM"
+  },
+  {
+    "text": "2026.05.10 ウインク球場\nグラウンド整備を眺める同期2人\n#谷端将伍\n#岡城快生 https://t.co/HAz2M2m5l8",
+    "userName": "torimer",
+    "tweetUrl": "https://twitter.com/torimer/status/2053845609833287829",
+    "createdAt": "May 11, 2026 at 11:32PM"
+  },
+  {
+    "text": "2026.05.10 ウインク球場\nこちらもアピール？してアイピンクをつけてもらっていました\n#谷端将伍\n#戸井零士 https://t.co/xgpMly7652",
+    "userName": "torimer",
+    "tweetUrl": "https://twitter.com/torimer/status/2053849050705998228",
+    "createdAt": "May 11, 2026 at 11:45PM"
+  },
+  {
+    "text": "@yui7170 名前キーホルダーの買取をさせて頂きたいです！\n才木、前川、谷端 を希望なのですが可能でしょうか？ご検討よろしくお願いいたします🙇🏻‍♀️",
+    "userName": "tora_5ox",
+    "tweetUrl": "https://twitter.com/tora_5ox/status/2053888339808587841",
+    "createdAt": "May 12, 2026 at 02:21AM"
+  },
+  {
+    "text": "谷端将伍選手25\n東都大学リーグ1部通算成績\n60試合、打率.283本塁打6打点28、OPS.785\n2024年（春、秋）2季連続首位打者\n2季連続の首位打者タイトルは2006年長野久義（巨人）以来の快挙\nプロ野球1年目はバットの選択で少し遠回りしたが、ここから巻き返しを図る #谷端将伍 #阪神タイガース https://t.co/SgDhnJVyFs",
+    "userName": "Jailseiym",
+    "tweetUrl": "https://twitter.com/Jailseiym/status/2053943306598617403",
+    "createdAt": "May 12, 2026 at 06:00AM"
   }
 ]
