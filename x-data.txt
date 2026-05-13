@@ -3490,5 +3490,185 @@
     "userName": "skydiver_3",
     "tweetUrl": "https://twitter.com/skydiver_3/status/2054308474151203175",
     "createdAt": "May 13, 2026 at 06:11AM"
+  },
+  {
+    "text": "ミリスタ交流戦「阪神効果」小松に５５１２人　谷端４番、川﨑１番、立石５番(北國新聞社)\n#Yahooニュース\nhttps://t.co/VTvQCdkSSZ",
+    "userName": "_nishiokahiroki",
+    "tweetUrl": "https://twitter.com/_nishiokahiroki/status/2054321581867016259",
+    "createdAt": "May 13, 2026 at 07:03AM"
+  },
+  {
+    "text": "ミリスタ交流戦「阪神効果」小松に５５１２人　谷端４番、川﨑１番、立石５番（北國新聞社）\n一軍バリの料金とってもいいくらいの豪華なラインナップでした🐯楽しかったね！！\n https://t.co/FqrJkgBdqO",
+    "userName": "daifukumaru1233",
+    "tweetUrl": "https://twitter.com/daifukumaru1233/status/2054324236773462108",
+    "createdAt": "May 13, 2026 at 07:14AM"
+  },
+  {
+    "text": "石川ミリオンスターズと阪神タイガーズのファーム（２軍）との交流戦は１２日、小松市の弁慶スタジアムで行われ谷端将伍が４番で出場した\n輪島市出身の川﨑俊哲も１番を打ちて\nゆうたやんか\n北國新聞\n🐯お～ん\nhttps://t.co/M2yUHEsRKt\n#石川ミリオンスターズ \n#阪神タイガーズ \n#谷端将伍 \n#川﨑俊哲",
+    "userName": "Kobebay31st",
+    "tweetUrl": "https://twitter.com/Kobebay31st/status/2054336955434074312",
+    "createdAt": "May 13, 2026 at 08:04AM"
+  },
+  {
+    "text": "イオンモール白山で５月１８日まで\n阪神タイガースの\n🐯谷端将伍選手や\n🐯川﨑俊哲選手のグッズも\n売っているのですが\n阪神梅田本店「TEAM SHOP CLUBHOUSE（大阪)」よりも 先に売っているという話が\nお～ん・・・ \nhttps://t.co/xNfv06Ki6H\n#阪神タイガース \n#イオンモール白山 \n#谷端将伍 \n#川﨑俊哲",
+    "userName": "Kobebay31st",
+    "tweetUrl": "https://twitter.com/Kobebay31st/status/2054343116958929388",
+    "createdAt": "May 13, 2026 at 08:29AM"
+  },
+  {
+    "text": "ミリスタ交流戦「阪神効果」小松に５５１２人　谷端４番、川﨑１番、立石５番（北國新聞社）\n#Yahooニュース\n https://t.co/rfbDRxMujH",
+    "userName": "yasuhiro19691",
+    "tweetUrl": "https://twitter.com/yasuhiro19691/status/2054348074282320078",
+    "createdAt": "May 13, 2026 at 08:48AM"
+  },
+  {
+    "text": "1位はさんまさんです\n\nミリスタ交流戦「阪神効果」小松に５５１２人　谷端４番、川﨑１番、立石５番(北國新聞社)\n#Yahooニュース\nhttps://t.co/IBuLngKu4x",
+    "userName": "oku_ht6",
+    "tweetUrl": "https://twitter.com/oku_ht6/status/2054358964381573487",
+    "createdAt": "May 13, 2026 at 09:31AM"
+  },
+  {
+    "text": "5/12（火） 試合後のカツオさん語録要約📝\n\n・久々の実戦で2安打の立石正広はさすが\n・初の実戦の早瀬朔は投げっぷりが良かった\n・谷端将伍の4番起用は地元なので。遊撃守備は経験に\n\nhttps://t.co/4Y4P2meCoz",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2054365322405437848",
+    "createdAt": "May 13, 2026 at 09:57AM"
+  },
+  {
+    "text": "今の阪神でネガれるところがあるなら、立石谷端岡城のFA年が一緒なくらい",
+    "userName": "hanshinukyo",
+    "tweetUrl": "https://twitter.com/hanshinukyo/status/2054365592564674948",
+    "createdAt": "May 13, 2026 at 09:58AM"
+  },
+  {
+    "text": "・神宮くん　１回無失点\n７回２番手で登板、安定した内容\n・谷端くん　４番遊撃\n石川出身凱旋\n守備も無難にこなす\n\n立石くんについて監督は動きに問題ないと太鼓判！",
+    "userName": "nacchin_00ht",
+    "tweetUrl": "https://twitter.com/nacchin_00ht/status/2054393432597275067",
+    "createdAt": "May 13, 2026 at 11:48AM"
+  },
+  {
+    "text": "ミリスタ交流戦「阪神効果」小松に５５１２人　谷端４番、川﨑１番、立石５番(北國新聞社)\n#Yahooニュース\nhttps://t.co/8n7NxIX3aw",
+    "userName": "t_09084393",
+    "tweetUrl": "https://twitter.com/t_09084393/status/2054398885318275092",
+    "createdAt": "May 13, 2026 at 12:10PM"
+  },
+  {
+    "text": "イオンモール白山のタイガースポッアプストア行ってきたんですが例のカニタオル、谷端選手と川崎選手のものは売り切れてましたΣ('◉⌓◉’)",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2054398994856681569",
+    "createdAt": "May 13, 2026 at 12:11PM"
+  },
+  {
+    "text": "＞スタンドにはミリスタ史上２位の５５１２人が詰めかけ\n\n明石家さんま1日コーチに次ぐ数字ですか😮\n\n＞弁慶スタジアムでの試合は、星稜高２年の秋の県大会以来と懐かしんだ谷端だが\n\n3年春の智辯和歌山との招待試合忘れてますやん…😵\n#石川ミリオンスターズ\n#谷端将伍\n#阪神タイガース https://t.co/RzQRJclFsr https://t.co/MIHWsmH12Y",
+    "userName": "Scorer61529543",
+    "tweetUrl": "https://twitter.com/Scorer61529543/status/2054418084782559722",
+    "createdAt": "May 13, 2026 at 01:26PM"
+  },
+  {
+    "text": "【ファーム】\n今日は日本海L・富山戦です！\n試合前練習が始まってます！\n\n《帯同メンバー》\n●投手\n富田、木下、石黒、小川、松原、神宮\n\n●捕手\n榮枝、町田、藤田\n\n●内野手\n立石、谷端、山田、百﨑、戸井、川﨑\n\n●外野手\n岡城、井坪、西純、コンスエグラ\n\n#阪神タイガース https://t.co/wbrvY9WYiy",
+    "userName": "daily_fujimaru",
+    "tweetUrl": "https://twitter.com/daily_fujimaru/status/2054442988860998106",
+    "createdAt": "May 13, 2026 at 03:05PM"
+  },
+  {
+    "text": "アルペン\n\n阪神シート\n\nキャッチャー　栄枝、町田、藤田\nファースト　戸井\nセカンド　谷端、川崎\nサード　立石、百崎\nショート　山田\nレフト　西純\nセンター　岡城、井坪\nライト　コンスエグラ\n\nノックアシスト　なし\n\nと思われます",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2054463062091182339",
+    "createdAt": "May 13, 2026 at 04:25PM"
+  },
+  {
+    "text": "同年代の谷端や小田もスイング自体は洗練されてるけど、パワー感のなさは吉野より感じたかもしれない。スタンドにホームランをぶち込む姿が想像できなかった。その点立石は練習からして競合1位なのが頷ける打球だった。rawpowerで言えば金子と大坪は支配下選手より上なので200打席近くは投資したい。 https://t.co/bxjvkEm968",
+    "userName": "KMWaVzbgSfaSH0A",
+    "tweetUrl": "https://twitter.com/KMWaVzbgSfaSH0A/status/2054465823348228543",
+    "createdAt": "May 13, 2026 at 04:36PM"
+  },
+  {
+    "text": "見てないのによくそんなに言えるよな、谷端はずっとサードとかクソ嘘やん、別に安定感ないだけで守備も無難にやってるし、小幡みたいなもん https://t.co/aCf6dr1gS7",
+    "userName": "ibukiSofttennis",
+    "tweetUrl": "https://twitter.com/ibukiSofttennis/status/2054473660522811593",
+    "createdAt": "May 13, 2026 at 05:07PM"
+  },
+  {
+    "text": "今日のスタメンです\n谷端くん今日はスタメンならず\n富山はお馴染み\nザク選手とトキ（斗輝）選手笑\n#阪神タイガース\n#富山サンダーバーズ https://t.co/GlG2tdbdCu",
+    "userName": "aa19CmAjGLhjneA",
+    "tweetUrl": "https://twitter.com/aa19CmAjGLhjneA/status/2054483909010931863",
+    "createdAt": "May 13, 2026 at 05:48PM"
+  },
+  {
+    "text": "立石、谷端のヘルメットつけとるやん",
+    "userName": "CYaRon68",
+    "tweetUrl": "https://twitter.com/CYaRon68/status/2054491605533683856",
+    "createdAt": "May 13, 2026 at 06:19PM"
+  },
+  {
+    "text": "立石君、谷端君のヘルメット？🤔",
+    "userName": "_nishiokahiroki",
+    "tweetUrl": "https://twitter.com/_nishiokahiroki/status/2054500880830071283",
+    "createdAt": "May 13, 2026 at 06:55PM"
+  },
+  {
+    "text": "立石くん谷端くんのヘルメット使ってるの？？\nなんで？？忘れたんかな？？それとも験担ぎ的な？？ https://t.co/I26DjPI6qS",
+    "userName": "JACKANDKNIFE2",
+    "tweetUrl": "https://twitter.com/JACKANDKNIFE2/status/2054501558268915823",
+    "createdAt": "May 13, 2026 at 06:58PM"
+  },
+  {
+    "text": "１軍はですね\n大山選手・中野選手・佐藤選手・・・と\nショートを除けば\n野手がうまっておりまして\nしかも１軍は\n首位\n🐯お～ん\n小松に5512人が熱狂！阪神・谷端＆川崎が石川に凱旋\n石川テレビ\nhttps://t.co/VM88VxdnTQ\n#石川ミリオンスターズ\n#阪神タイガース \n#輪島市 \n#川崎俊哲 \n#白山市 \n#谷端将伍",
+    "userName": "Kobebay31st",
+    "tweetUrl": "https://twitter.com/Kobebay31st/status/2054525546714005794",
+    "createdAt": "May 13, 2026 at 08:33PM"
+  },
+  {
+    "text": "小野寺出すならまだ谷端岡城やろ\n2軍からあげてきてくれ",
+    "userName": "777ultimetYYY",
+    "tweetUrl": "https://twitter.com/777ultimetYYY/status/2054527132651635063",
+    "createdAt": "May 13, 2026 at 08:40PM"
+  },
+  {
+    "text": "@TGaytayt 岡城が変化球に対応できるようになったら、完全に使ってもらえなくなるやろね。\n立石も谷端も後半戦には出てくるだろし。",
+    "userName": "SuzushiAmaaji",
+    "tweetUrl": "https://twitter.com/SuzushiAmaaji/status/2054533383305499081",
+    "createdAt": "May 13, 2026 at 09:05PM"
+  },
+  {
+    "text": "やっぱり阪神は2025のドラフトは投手ドラフトすべきだったんだよ。立石はまだ理解できたが谷端はやりすぎだったな。当時は神ドラフトとか言われてたけど意味わからんかった。",
+    "userName": "naru36822566",
+    "tweetUrl": "https://twitter.com/naru36822566/status/2054535721818755374",
+    "createdAt": "May 13, 2026 at 09:14PM"
+  },
+  {
+    "text": "小松に5512人が熱狂！阪神・谷端＆川崎が石川に凱旋（石川テレビ） https://t.co/NOvAfFFDqR",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2054536322430451973",
+    "createdAt": "May 13, 2026 at 09:16PM"
+  },
+  {
+    "text": "小野寺桐敷 out\n谷端石黒 in",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/2054540887489929586",
+    "createdAt": "May 13, 2026 at 09:34PM"
+  },
+  {
+    "text": "小松に5512人が熱狂！阪神・谷端＆川崎が石川に凱旋(石川テレビ)\n#Yahooニュース\nhttps://t.co/2SV14xG5OV",
+    "userName": "chixxx94045980",
+    "tweetUrl": "https://twitter.com/chixxx94045980/status/2054547073626964380",
+    "createdAt": "May 13, 2026 at 09:59PM"
+  },
+  {
+    "text": "今年の阪神は例年になく投手陣が不安定ですが、夏になれば近本が戻ってきて立石、谷端、西純矢らが上で打ちまくって\n打ち勝つ野球が出来上がってると思うよ。\nしらんけど。",
+    "userName": "ibutoran",
+    "tweetUrl": "https://twitter.com/ibutoran/status/2054563866659664296",
+    "createdAt": "May 13, 2026 at 11:06PM"
+  },
+  {
+    "text": "小野寺は明後日の公示で良いので\n確実に不備なく抹消して下さい。\n\n2番手ファーストは木浪か元山で補えます。\n\n多分谷端の方が小野寺よりは使えます。\n3三振と邪飛なので爪楊枝が打席入りしてるのと同じです。\n\n高校の同級生の山本裕大が恋しいならトレード志願してパリーグ行って下さい",
+    "userName": "t20052023",
+    "tweetUrl": "https://twitter.com/t20052023/status/2054582635234787696",
+    "createdAt": "May 14, 2026 at 12:20AM"
+  },
+  {
+    "text": "個人的には新打順はさらに森下3番、サトテル2番の方が好みやなぁ\n\n髙寺 \nサトテル \n森下\n大山\n嶋村\n福島\n中野\n小幡\n\n左ばっかりやけど、現状一軍スタメンで見たい右がいなさすぎるので仕方ない\n\n岡城、立石、谷端、西純、山田、頼むで https://t.co/ApetXLeh4L",
+    "userName": "atsushi_htlove",
+    "tweetUrl": "https://twitter.com/atsushi_htlove/status/2054588280944123991",
+    "createdAt": "May 14, 2026 at 12:43AM"
   }
 ]
