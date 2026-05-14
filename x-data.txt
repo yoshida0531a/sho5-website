@@ -3670,5 +3670,167 @@
     "userName": "atsushi_htlove",
     "tweetUrl": "https://twitter.com/atsushi_htlove/status/2054588280944123991",
     "createdAt": "May 14, 2026 at 12:43AM"
+  },
+  {
+    "text": "谷端（阪神）選手は、ボールの見極めができるようになれば、ボールを捉える力はあるので打率は上がってくるように思う。あとは、捉えたような当たりが外野フライになっているのは勿体無いというか残念です。",
+    "userName": "LaNausee9",
+    "tweetUrl": "https://twitter.com/LaNausee9/status/2054693859716993212",
+    "createdAt": "May 14, 2026 at 07:42AM"
+  },
+  {
+    "text": "ボールの見極めができない打者は低打率になりがちです。軸足（谷端選手の場合は右足）1本でのバランス能力を鍛えれば、ボールを見極められるようになります。",
+    "userName": "LaNausee9",
+    "tweetUrl": "https://twitter.com/LaNausee9/status/2054694692055654467",
+    "createdAt": "May 14, 2026 at 07:46AM"
+  },
+  {
+    "text": "谷端（阪神）選手の当たりは捉えても外野フライになっていましたが、打者がパワーをつけるには、自動車や自動車じゃなくても重くて動くものをひたすら前方に押すということをすれば、股関節の伸展が鍛えられるので良いと思う。",
+    "userName": "LaNausee9",
+    "tweetUrl": "https://twitter.com/LaNausee9/status/2054695555839004858",
+    "createdAt": "May 14, 2026 at 07:49AM"
+  },
+  {
+    "text": "1 中 髙寺\n2 三 立石\n3 一 前川\n4 指 嶋村\n5 捕 中川\n6 二 谷端\n7 左 岡城\n8 遊 小幡 山田\n9 右 福島 \n03line組マジで頑張ってくれ コア5がおらんくても",
+    "userName": "umechan_ht",
+    "tweetUrl": "https://twitter.com/umechan_ht/status/2054698002263261692",
+    "createdAt": "May 14, 2026 at 07:59AM"
+  },
+  {
+    "text": "「『ミート",
+    "userName": "ssurahonda",
+    "tweetUrl": "https://twitter.com/ssurahonda/status/2054702657261162874",
+    "createdAt": "May 14, 2026 at 08:17AM"
+  },
+  {
+    "text": "十人十色\n台本作成者様:鍵谷 端哉 様\n素敵な台本読ませていただきました！\n声のバリエーションが少ない…！\n男声は出来ないので、自分のきもい地声になりました(´；ω；`) \n#フリー台本 #声劇 #鍵谷瑞哉 様　#鍵谷シナリオ https://t.co/qf85tuc2m5",
+    "userName": "Ren7eyrs",
+    "tweetUrl": "https://twitter.com/Ren7eyrs/status/2054712474189091297",
+    "createdAt": "May 14, 2026 at 08:56AM"
+  },
+  {
+    "text": "谷端ファイト！ https://t.co/0wcZsVfj2u",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://twitter.com/yoshida0531a/status/2054718976786313221",
+    "createdAt": "May 14, 2026 at 09:22AM"
+  },
+  {
+    "text": "まあそうだわ\n\n岡城くんか谷端でよいわ https://t.co/mGgPWu9cXQ",
+    "userName": "lingsig9220",
+    "tweetUrl": "https://twitter.com/lingsig9220/status/2054810988059541882",
+    "createdAt": "May 14, 2026 at 03:28PM"
+  },
+  {
+    "text": "まじでなーんで今年のドラフトでサード取らんかったんだろ。立石、谷端、櫻井めちゃくちゃ良いのいっぱいいたのにな",
+    "userName": "tadano0829",
+    "tweetUrl": "https://twitter.com/tadano0829/status/2054824727139770608",
+    "createdAt": "May 14, 2026 at 04:22PM"
+  },
+  {
+    "text": "@mayumi_torafan TORACOデーだから良いね。\n立石、谷端、岡城が並ぶから楽しいよ。\nバファローズ相手はデッドボールが怖いけど…",
+    "userName": "ABE_Sato",
+    "tweetUrl": "https://twitter.com/ABE_Sato/status/2054837045680648592",
+    "createdAt": "May 14, 2026 at 05:11PM"
+  },
+  {
+    "text": "小松に5512人が熱狂！阪神・谷端＆川崎が石川に凱旋(石川テレビ)\n#Yahooニュース\nhttps://t.co/EBoTnbwbWw",
+    "userName": "t_09084393",
+    "tweetUrl": "https://twitter.com/t_09084393/status/2054841354673586191",
+    "createdAt": "May 14, 2026 at 05:28PM"
+  },
+  {
+    "text": "佐藤外野？\n立石はまだだし谷端は二塁しかしてないし三塁は髙寺百﨑くらいしか…\nディベイニー？元山？木浪？そんなまさか",
+    "userName": "abnormalstadium",
+    "tweetUrl": "https://twitter.com/abnormalstadium/status/2054841429835546969",
+    "createdAt": "May 14, 2026 at 05:29PM"
+  },
+  {
+    "text": "金曜 大竹か\nテルも外野守備やってる感じなので\nディベイニーとか谷端が上がってくるかもね\nそうなれば個人的にはスタメンこうかな\n1(8)髙寺\n2(9)森下\n3(7)佐藤\n4(3)大山\n5(4)中野\n6(2)嶋村\n7(5)谷端orディベイニー\n8(6)元山\n9(1)大竹",
+    "userName": "p1y19ciwgg61650",
+    "tweetUrl": "https://twitter.com/p1y19ciwgg61650/status/2054848374835445839",
+    "createdAt": "May 14, 2026 at 05:56PM"
+  },
+  {
+    "text": "@dailytigers2026 いよいよ立石、谷端を上げるんやろ？",
+    "userName": "X2251347779147",
+    "tweetUrl": "https://twitter.com/X2251347779147/status/2054855328668467271",
+    "createdAt": "May 14, 2026 at 06:24PM"
+  },
+  {
+    "text": "LF佐藤輝明想定の3B候補\n\n勃起:佐野\n甘イキ:百崎\n寸止め:ディベイニー\nイクイクイクイクイク‼️‼️:立石or谷端\n玉ヒュン:熊谷",
+    "userName": "aratame_noodle",
+    "tweetUrl": "https://twitter.com/aratame_noodle/status/2054860338559127701",
+    "createdAt": "May 14, 2026 at 06:44PM"
+  },
+  {
+    "text": "@X2251347779147 @dailytigers2026 それ谷端の成績見て言ってる？",
+    "userName": "Wkp3pRZzKJBiFMj",
+    "tweetUrl": "https://twitter.com/Wkp3pRZzKJBiFMj/status/2054871653117751708",
+    "createdAt": "May 14, 2026 at 07:29PM"
+  },
+  {
+    "text": "小野寺も練習におるのはなんでなんやろね\nあと、谷端ショートで昇格したらめっちゃおもろいけどな笑笑",
+    "userName": "xa_cwm",
+    "tweetUrl": "https://twitter.com/xa_cwm/status/2054874929716396487",
+    "createdAt": "May 14, 2026 at 07:42PM"
+  },
+  {
+    "text": "@hanshintigersjp 谷端かな",
+    "userName": "TvQDToFcR669911",
+    "tweetUrl": "https://twitter.com/TvQDToFcR669911/status/2054880924106674516",
+    "createdAt": "May 14, 2026 at 08:06PM"
+  },
+  {
+    "text": "ミリスタ交流戦「阪神効果」小松に5512人　谷端4番、川﨑1番、立石5番 | NEWSjp https://t.co/I2uhyeFJ0D",
+    "userName": "VkGCOtmiqvo8X98",
+    "tweetUrl": "https://twitter.com/VkGCOtmiqvo8X98/status/2054890173809492479",
+    "createdAt": "May 14, 2026 at 08:42PM"
+  },
+  {
+    "text": "立石: 鬼のスペ\n松下: 普通にスペ\n小田: 苦労してる\n谷端: 苦労してる\n松川(ショート): 行方不明",
+    "userName": "11Nyarlathotep",
+    "tweetUrl": "https://twitter.com/11Nyarlathotep/status/2054894352464478362",
+    "createdAt": "May 14, 2026 at 08:59PM"
+  },
+  {
+    "text": "試合のない日の野球動画\n\n今日は北陸遠征から\n\n小松弁慶\nチャンスで回ってきた立石選手は谷端選手に投手情報を聞いて…と思ったら立石選手のところで投手交代\n全く初見(右サイド気味)の投手からタイムリー\nあまりベンチにガッツポーズしたところ見たことありませんでしたので…σ(^_^;) https://t.co/IyKrP0XxUV",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2054918672054141359",
+    "createdAt": "May 14, 2026 at 10:36PM"
+  },
+  {
+    "text": "流石に立石はまだ昇格せんのちゃうかな。\n上で見たい野手は井坪、岡城、谷端かな。",
+    "userName": "morisho_Tigers",
+    "tweetUrl": "https://twitter.com/morisho_Tigers/status/2054924538606235649",
+    "createdAt": "May 14, 2026 at 10:59PM"
+  },
+  {
+    "text": "明日は誰が上がってくるか楽しみや〜 右打者なのは確実やけど立石はまだ万全じゃないし谷端か？直近はいい数字やし\n\nでも願望はもも",
+    "userName": "madoka_nunu",
+    "tweetUrl": "https://twitter.com/madoka_nunu/status/2054924562811490394",
+    "createdAt": "May 14, 2026 at 10:59PM"
+  },
+  {
+    "text": "小松弁慶のこのスタメンは昔の平田監督(和田政権時)を彷彿とさせました\nショート谷端もそうですが\n『ファースト百崎、サード戸井』\nスローイングが乱れると前の時だと,\"ショート陽川\"とかをやって気分一新などさせていました\nこの日も途中から入れ替えて百崎選手、普通にサードゴロ捌いていましたし https://t.co/aze1S7AGmd",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2054926271705137473",
+    "createdAt": "May 14, 2026 at 11:06PM"
+  },
+  {
+    "text": "佐藤を外野に回すのは立石サードに据える時だけ(100歩譲って馴染んできたディベイニー百﨑谷端を起用する場合)と思ってるから例えば明日から佐藤外野みたいなことにはならないはず。立石復帰後を見据えて外野守備の再調整始めたくらいかな",
+    "userName": "mm92010214",
+    "tweetUrl": "https://twitter.com/mm92010214/status/2054927501697380762",
+    "createdAt": "May 14, 2026 at 11:11PM"
+  },
+  {
+    "text": "あ、もしかして立石くんや谷端くんが上がってくるのかな。セカンド空けるの？マジで？",
+    "userName": "momongapyu6874",
+    "tweetUrl": "https://twitter.com/momongapyu6874/status/2054929588690813269",
+    "createdAt": "May 14, 2026 at 11:19PM"
+  },
+  {
+    "text": "セガサミー活動終了なら星稜の黒川弟はドラフト指名どうだろう\n内山寺西の1期下、谷端の同期",
+    "userName": "twiswallow283",
+    "tweetUrl": "https://twitter.com/twiswallow283/status/2054935090078392466",
+    "createdAt": "May 14, 2026 at 11:41PM"
   }
 ]
