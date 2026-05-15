@@ -3832,5 +3832,101 @@
     "userName": "twiswallow283",
     "tweetUrl": "https://twitter.com/twiswallow283/status/2054935090078392466",
     "createdAt": "May 14, 2026 at 11:41PM"
+  },
+  {
+    "text": "昨年のドラフトで即戦力ピッチャーなんで取らんかってんと思う反面、打てる野手が少なく、かつサトテルが来年いなくなると考えると立石、谷端は欲しかったから、間違いとも言えない。\nだけど現状では、立石は怪我、谷端も不調、投手陣はボロボロ\n即戦力ピッチャー取らず、モレッタは打たれまくり",
+    "userName": "ikliiiim",
+    "tweetUrl": "https://twitter.com/ikliiiim/status/2055039759857090776",
+    "createdAt": "May 15, 2026 at 06:37AM"
+  },
+  {
+    "text": "@Schwindel23 言うて所詮、今時の即戦力内野手なんて松下とか谷端とか大塚とかあんなんですからね\nあんなのを去年は即戦力と勘違いしてた\nオリックスなら野口とかいつまでたってもパッとしないし\n内野手は素材型の高卒を取って育てるに越したことはないと思います",
+    "userName": "tairaginonigiri",
+    "tweetUrl": "https://twitter.com/tairaginonigiri/status/2055067252303741306",
+    "createdAt": "May 15, 2026 at 08:26AM"
+  },
+  {
+    "text": "中1 髙寺\n右2 岡城\n一3 前川\n三4 立石\n指5 中川\n捕6 嶋村\n遊7 百崎\n二8 谷端\n左9 福島\n\n森下とテルがメジャー行ったとしても将来性はあるチームだと思う\n鍵を握るのは前川と中川の高卒コンビ\nここが育たんとなるとしんどい",
+    "userName": "yuzuki2_1012",
+    "tweetUrl": "https://twitter.com/yuzuki2_1012/status/2055075671207195041",
+    "createdAt": "May 15, 2026 at 08:59AM"
+  },
+  {
+    "text": "地名読み方文化の違い\n谷は私の中では「たに」と読むので\n(だって名谷、谷上、箕谷、櫨谷、、、、)\n谷端がやばたなんて読めません。\nたにばし？って読んでました。\n\n谷端＝やばた\nと思ってないので\nやばた公園いこー！→ググる→どこ？！ってなってた。",
+    "userName": "Yuki820",
+    "tweetUrl": "https://twitter.com/Yuki820/status/2055095837823586608",
+    "createdAt": "May 15, 2026 at 10:20AM"
+  },
+  {
+    "text": "三振少なめの谷端とか井坪であれと願うのみ https://t.co/upwUpejGke",
+    "userName": "Heracross_No214",
+    "tweetUrl": "https://twitter.com/Heracross_No214/status/2055127334144078002",
+    "createdAt": "May 15, 2026 at 12:25PM"
+  },
+  {
+    "text": "立石谷端を超えて第一線で活躍するルーキー https://t.co/54vtfGsfvY",
+    "userName": "Yuji_tigers",
+    "tweetUrl": "https://twitter.com/Yuji_tigers/status/2055153150081048749",
+    "createdAt": "May 15, 2026 at 02:07PM"
+  },
+  {
+    "text": "@tairaginonigiri いやその松下谷端大塚、ここには出てないけど勝田とかも欲しかった…",
+    "userName": "Schwindel23",
+    "tweetUrl": "https://twitter.com/Schwindel23/status/2055159680222261682",
+    "createdAt": "May 15, 2026 at 02:33PM"
+  },
+  {
+    "text": "谷端は結構じっくりファームで育成するんだね\n岡城は上げ下げ繰り返してるけど肝心の変化球への対応はよくなったのかな",
+    "userName": "nayu31564",
+    "tweetUrl": "https://twitter.com/nayu31564/status/2055182805190262889",
+    "createdAt": "May 15, 2026 at 04:05PM"
+  },
+  {
+    "text": "川崎と谷端と立石と。　\n\n行けてよかったですえー\n\n#ダフ屋レベルにチケット持ち歩くオッ https://t.co/1FFxNHoWyZ",
+    "userName": "itameshi10",
+    "tweetUrl": "https://twitter.com/itameshi10/status/2055182978796683495",
+    "createdAt": "May 15, 2026 at 04:06PM"
+  },
+  {
+    "text": "日本海リーグの石川ミリオンスターズ⚾️阪神タイガース２軍との対戦は盛り上がりましたね🔥 星稜高ＯＢのルーキー谷端将伍選手が４番、輪島高ＯＢの川﨑俊哲選手も１番を打って、観客は大喜び😊 小松の球場に5000人集まるってすごいですよね!!",
+    "userName": "nsk_ad_jp",
+    "tweetUrl": "https://twitter.com/nsk_ad_jp/status/2055186018446582025",
+    "createdAt": "May 15, 2026 at 04:18PM"
+  },
+  {
+    "text": "今日も御縁があって来ています🐯⚾️\n銀傘の下で、風もあって快適です😊\n\n＃阪神タイガース\n＃阪神甲子園球場\n＃谷端将伍 ユニ https://t.co/YFxjl13FKB",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2055206497660104981",
+    "createdAt": "May 15, 2026 at 05:39PM"
+  },
+  {
+    "text": "オタク会社員、毎日3時間歩いて帰ることを目標にしてて、今日は池袋から旧都道441号、谷端川の暗渠道、目白通りを経て落合南長崎へ。\n旧都道441号の看板、ヘクトポスト、いい感じのガードパイプ(？)、新宿区の白看板すべて現存。満足したのでまだ帰らない(？？？ https://t.co/KcCN5woUch",
+    "userName": "absol_359",
+    "tweetUrl": "https://twitter.com/absol_359/status/2055242938318569484",
+    "createdAt": "May 15, 2026 at 08:04PM"
+  },
+  {
+    "text": "幻の川と銭湯を追う春の椎名町散歩の記録でしゅ！\n千早フラワー公園でバラがもりもり咲いてまちた ᐢ-ˬ-ᐢ₎꜆🌹.*˚\n\n椎名町の北側をぐるっと一周！早朝の長崎･千早･要町を歩く！：TOKYO WALKING MAP - みなみちゃん’s blog https://t.co/9ZCPZ0lLZg\n\n#東京散歩 #谷端川 #椎名町",
+    "userName": "okanemochiPchan",
+    "tweetUrl": "https://twitter.com/okanemochiPchan/status/2055246081097936963",
+    "createdAt": "May 15, 2026 at 08:17PM"
+  },
+  {
+    "text": "称号「谷端 将伍コレクター(ブロンズ)」をゲット！！ https://t.co/P5VuNF8yFB #Tコレ #阪神タイガース",
+    "userName": "takekichi061019",
+    "tweetUrl": "https://twitter.com/takekichi061019/status/2055254226461397021",
+    "createdAt": "May 15, 2026 at 08:49PM"
+  },
+  {
+    "text": "谷端の二軍成績に涙\n二軍レベルは簡単にクリアするとを信じて疑わなかったのに。",
+    "userName": "yama_shoichi",
+    "tweetUrl": "https://twitter.com/yama_shoichi/status/2055298332503982361",
+    "createdAt": "May 15, 2026 at 11:44PM"
+  },
+  {
+    "text": "@MLB_comment さすがに今シーズン限りやろなぁ、あれだけギリギリで交渉してたからこれ以上は残らないやろ、立石育てて谷端育ててサトテルの穴埋めるしかない、今シーズンは優勝無理っぽいから早めに立石谷端一軍で起用するしかない",
+    "userName": "odQaOaIaVw73999",
+    "tweetUrl": "https://twitter.com/odQaOaIaVw73999/status/2055360534493696298",
+    "createdAt": "May 16, 2026 at 03:51AM"
   }
 ]
