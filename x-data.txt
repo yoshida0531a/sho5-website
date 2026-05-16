@@ -3928,5 +3928,1091 @@
     "userName": "odQaOaIaVw73999",
     "tweetUrl": "https://twitter.com/odQaOaIaVw73999/status/2055360534493696298",
     "createdAt": "May 16, 2026 at 03:51AM"
+  },
+  {
+    "text": "谷端くんはまだかな？\nファームで調子よく打ってたのにな。 https://t.co/2UCPFpFrMd",
+    "userName": "YGBpKbzwrTBpWgP",
+    "tweetUrl": "https://twitter.com/YGBpKbzwrTBpWgP/status/2055423176029725080",
+    "createdAt": "May 16, 2026 at 08:00AM"
+  },
+  {
+    "text": "ファーム広島戦メンバー@米子\n\n【投手】\n門別、ラグズデール、富田、能登、津田、小川、松原\n【捕手】\n栄枝、町田、長坂、藤田\n【内野手】\n立石、ディベイニー、谷端、糸原、山田、アルナエス\n【外野手】\n浜田、井坪、島田、小野寺、コンスエグラ\n\n※敬称略 https://t.co/rXf4EenoKX",
+    "userName": "daily_kasai",
+    "tweetUrl": "https://twitter.com/daily_kasai/status/2055463368811753837",
+    "createdAt": "May 16, 2026 at 10:40AM"
+  },
+  {
+    "text": "［アマゾン］斉藤さん2 DVD BOX - 日本のTVドラマ\n\n【キャスト】観月ありさ/桐谷美玲/田辺誠一/瀬戸康史/猫背椿/音尾琢真/橋本涼/玉元風海人/谷端奏人/酒井若菜/松岡茉優/岡山智樹/早見あかり/勝村政信/南果歩\nhttps://t.co/PCBq3c65Cg",
+    "userName": "5zodvd04",
+    "tweetUrl": "https://twitter.com/5zodvd04/status/2055465003549876350",
+    "createdAt": "May 16, 2026 at 10:47AM"
+  },
+  {
+    "text": "米子\n\n阪神シート\n\nキャッチャー　栄枝、町田、長坂、藤田\nファースト　ディベイニー\nセカンド　谷端、アルナエス\nサード　糸原、百崎\nショート　山田\nレフト　立石、濱田、小野寺\nセンター　島田\nライト　井坪、コンスエグラ\n\nノックアシスト　なし\n\nと思われます\n小野寺選手，確認できました",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2055476250140143661",
+    "createdAt": "May 16, 2026 at 11:31AM"
+  },
+  {
+    "text": "#阪神タイガース2軍 スタメン\n中 島田海吏 31歳 上武大\n二 谷端将伍 23歳 日大\nDH 濱田太貴 26歳 ヤクルト\n左 立石正広 23歳 創価大\n一 ディベイニー 29歳 PIT\n捕 榮枝裕貴 28歳 立命大\n三 百崎蒼生 21歳 東海大熊本星翔\n右 コンスエグラ 26歳 \n遊 山田脩也 21歳 仙台育英\n投 ラグズデール 28歳 BAL https://t.co/G1pUBhAfoc",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2055485420444827972",
+    "createdAt": "May 16, 2026 at 12:08PM"
+  },
+  {
+    "text": "5/16（土）鳥取・米子市民球場\n阪神タイガースvs 広島東洋カープ 2軍戦\nスタメン\n\n8⃣島田海吏\n4⃣谷端将伍\n🈯️濱田太貴\n7⃣立石正広\n3⃣ディベイニー\n2⃣榮枝裕貴\n5⃣百﨑蒼生\n9⃣コンスエグラ\n6⃣山田脩也\n\n先発投手1️⃣はラグズデール👍️",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2055487002490048790",
+    "createdAt": "May 16, 2026 at 12:14PM"
+  },
+  {
+    "text": "阪神二軍\n島田\n谷端\n濱田\n立石\nディベイニー\n榮枝\n百崎\nコンスエグラ\n山田\n\n投手　　ラグズデール\n\n広島カープ\n佐々木\n岸本\n中村奨\nラミレス\n佐藤啓介\nファビアン\n清水\n仲田\n佐藤柳\n\n投手　　佐藤柳",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://twitter.com/400216Susumu/status/2055488520282865794",
+    "createdAt": "May 16, 2026 at 12:20PM"
+  },
+  {
+    "text": "５／１６\n　ファームリーグVS広島\n\n先発：ラグズデール\n\n１　島田（中）\n２　谷端（二）\n３　濱田（DH）\n４　立石（左）\n５　ディベイニー（一）\n６　榮枝（捕）\n７　百﨑（三）\n８　コンスエグラ（右）\n９　山田（遊）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2055490211493413025",
+    "createdAt": "May 16, 2026 at 12:27PM"
+  },
+  {
+    "text": "谷端が逝ってしまった",
+    "userName": "JulioTrev4410",
+    "tweetUrl": "https://twitter.com/JulioTrev4410/status/2055492357559296142",
+    "createdAt": "May 16, 2026 at 12:35PM"
+  },
+  {
+    "text": "谷端負傷交代は辛い",
+    "userName": "mutsuo_3456",
+    "tweetUrl": "https://twitter.com/mutsuo_3456/status/2055492494759190910",
+    "createdAt": "May 16, 2026 at 12:36PM"
+  },
+  {
+    "text": "谷端自打球で交代とか呪われてるわ\n\n軽傷であってくれ",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2055492508541751477",
+    "createdAt": "May 16, 2026 at 12:36PM"
+  },
+  {
+    "text": "あーー谷端……",
+    "userName": "torakorin_",
+    "tweetUrl": "https://twitter.com/torakorin_/status/2055492528363958767",
+    "createdAt": "May 16, 2026 at 12:36PM"
+  },
+  {
+    "text": "谷端まで…\n今年はそういう年なのかな",
+    "userName": "akaoni_bd",
+    "tweetUrl": "https://twitter.com/akaoni_bd/status/2055492601781088657",
+    "createdAt": "May 16, 2026 at 12:36PM"
+  },
+  {
+    "text": "中川も谷端もいなくなって誰を応援すれば良いんだよ",
+    "userName": "wm86j0",
+    "tweetUrl": "https://twitter.com/wm86j0/status/2055492655409402145",
+    "createdAt": "May 16, 2026 at 12:36PM"
+  },
+  {
+    "text": "谷端負傷交代はまずい",
+    "userName": "ukyooooooooo58",
+    "tweetUrl": "https://twitter.com/ukyooooooooo58/status/2055492683305779593",
+    "createdAt": "May 16, 2026 at 12:36PM"
+  },
+  {
+    "text": "ん？谷端何があった？",
+    "userName": "anpontan_sun",
+    "tweetUrl": "https://twitter.com/anpontan_sun/status/2055492686266937371",
+    "createdAt": "May 16, 2026 at 12:37PM"
+  },
+  {
+    "text": "谷端自打球が左膝直撃で交代\n全く歩けてなかったし長期離脱なりそう、、",
+    "userName": "SD0hJo08Mu46887",
+    "tweetUrl": "https://twitter.com/SD0hJo08Mu46887/status/2055492690184421582",
+    "createdAt": "May 16, 2026 at 12:37PM"
+  },
+  {
+    "text": "谷端😭",
+    "userName": "trnz_6189",
+    "tweetUrl": "https://twitter.com/trnz_6189/status/2055492740075700581",
+    "createdAt": "May 16, 2026 at 12:37PM"
+  },
+  {
+    "text": "谷端いきなり負傷交代は悲しい…😭 https://t.co/CubxF4e31w",
+    "userName": "ZERO_hirako",
+    "tweetUrl": "https://twitter.com/ZERO_hirako/status/2055493414645543237",
+    "createdAt": "May 16, 2026 at 12:39PM"
+  },
+  {
+    "text": "え谷端...",
+    "userName": "y3abi",
+    "tweetUrl": "https://twitter.com/y3abi/status/2055493423592079809",
+    "createdAt": "May 16, 2026 at 12:39PM"
+  },
+  {
+    "text": "谷端自打球交代か",
+    "userName": "pantssports",
+    "tweetUrl": "https://twitter.com/pantssports/status/2055493515141173595",
+    "createdAt": "May 16, 2026 at 12:40PM"
+  },
+  {
+    "text": "谷端大丈夫かい",
+    "userName": "TKONTHEWAVE",
+    "tweetUrl": "https://twitter.com/TKONTHEWAVE/status/2055493522816680337",
+    "createdAt": "May 16, 2026 at 12:40PM"
+  },
+  {
+    "text": "谷端怪我したくせえな…",
+    "userName": "toyonakan",
+    "tweetUrl": "https://twitter.com/toyonakan/status/2055493588205875256",
+    "createdAt": "May 16, 2026 at 12:40PM"
+  },
+  {
+    "text": "谷端どうした？",
+    "userName": "rUhaSfST1x94650",
+    "tweetUrl": "https://twitter.com/rUhaSfST1x94650/status/2055493628215411037",
+    "createdAt": "May 16, 2026 at 12:40PM"
+  },
+  {
+    "text": "今度は谷端が自打球で交代かよ\n勘弁してくれよほんま",
+    "userName": "yutora_24",
+    "tweetUrl": "https://twitter.com/yutora_24/status/2055493776668491841",
+    "createdAt": "May 16, 2026 at 12:41PM"
+  },
+  {
+    "text": "谷端自打球で交代かー",
+    "userName": "boinsensou",
+    "tweetUrl": "https://twitter.com/boinsensou/status/2055493854003167652",
+    "createdAt": "May 16, 2026 at 12:41PM"
+  },
+  {
+    "text": "ファームもカープせんなんよね…それにしても谷端くんが大丈夫か気になりすぎる…",
+    "userName": "sorako39",
+    "tweetUrl": "https://twitter.com/sorako39/status/2055493867735294406",
+    "createdAt": "May 16, 2026 at 12:41PM"
+  },
+  {
+    "text": "谷端守備に就く前に代打で何があった？？？？",
+    "userName": "showent_30",
+    "tweetUrl": "https://twitter.com/showent_30/status/2055493882784444724",
+    "createdAt": "May 16, 2026 at 12:41PM"
+  },
+  {
+    "text": "立石が戻ってきたと思ったら谷端スぺって…\nうまくいかないね",
+    "userName": "seijunhayaruo",
+    "tweetUrl": "https://twitter.com/seijunhayaruo/status/2055494265158189136",
+    "createdAt": "May 16, 2026 at 12:43PM"
+  },
+  {
+    "text": "谷端の左膝への自打球って普通有り得んよね😮‍💨キャンプからずっと気になってたんやけどミートポイントめちゃめちゃ体に近いよね🤔だからあり得んような詰まり方するし、スイング終わった後右手一本でフォロースルーしたりいずれこうなるんじゃないかと思ってた🤔やっぱ悪い予感は的中するね😮‍💨",
+    "userName": "Tora89T15305",
+    "tweetUrl": "https://twitter.com/Tora89T15305/status/2055494426001285193",
+    "createdAt": "May 16, 2026 at 12:43PM"
+  },
+  {
+    "text": "谷端大丈夫か",
+    "userName": "aRiO_so69",
+    "tweetUrl": "https://twitter.com/aRiO_so69/status/2055494443181252897",
+    "createdAt": "May 16, 2026 at 12:43PM"
+  },
+  {
+    "text": "谷端選手、初回に自打球で途中交代となりました。\n非常に心配です…。 https://t.co/i6JMUSYrlB",
+    "userName": "daily_kasai",
+    "tweetUrl": "https://twitter.com/daily_kasai/status/2055494810941952147",
+    "createdAt": "May 16, 2026 at 12:45PM"
+  },
+  {
+    "text": "ん？\n２軍谷端くんなんで変わったの？",
+    "userName": "vZpwJiLh9360889",
+    "tweetUrl": "https://twitter.com/vZpwJiLh9360889/status/2055494990785286224",
+    "createdAt": "May 16, 2026 at 12:46PM"
+  },
+  {
+    "text": "わあああ…\n谷端くん大丈夫かな…",
+    "userName": "dailyplanet73",
+    "tweetUrl": "https://twitter.com/dailyplanet73/status/2055495060284989841",
+    "createdAt": "May 16, 2026 at 12:46PM"
+  },
+  {
+    "text": "谷端大丈夫…？",
+    "userName": "y_torayama",
+    "tweetUrl": "https://twitter.com/y_torayama/status/2055495062394753164",
+    "createdAt": "May 16, 2026 at 12:46PM"
+  },
+  {
+    "text": "なんか谷端即こうたいしててやばい",
+    "userName": "umi_sheep",
+    "tweetUrl": "https://twitter.com/umi_sheep/status/2055495071152369912",
+    "createdAt": "May 16, 2026 at 12:46PM"
+  },
+  {
+    "text": "ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代\n\nhttps://t.co/5c50piFIA2",
+    "userName": "daily_kasai",
+    "tweetUrl": "https://twitter.com/daily_kasai/status/2055495131005141205",
+    "createdAt": "May 16, 2026 at 12:46PM"
+  },
+  {
+    "text": "谷端自打球で交代は可哀想だ",
+    "userName": "Hanshinfunda",
+    "tweetUrl": "https://twitter.com/Hanshinfunda/status/2055495200475410623",
+    "createdAt": "May 16, 2026 at 12:46PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代/阪神タイガース/デイリースポーツ online https://t.co/sJtoUMz81k",
+    "userName": "dailytigers2026",
+    "tweetUrl": "https://twitter.com/dailytigers2026/status/2055495540046278680",
+    "createdAt": "May 16, 2026 at 12:48PM"
+  },
+  {
+    "text": "ﾔﾊﾀさんからもらった写真。地形話になると饒舌になる。尾根道の旧中山道南側は谷端川の谷で〜、とか何とか。しかし、稲荷湯さんの玄関鏡は綺麗\n#湯上がり\n#滝野川稲荷湯\n#地形 https://t.co/ITJlD0VKze",
+    "userName": "inuyamayuge",
+    "tweetUrl": "https://twitter.com/inuyamayuge/status/2055495673630597134",
+    "createdAt": "May 16, 2026 at 12:48PM"
+  },
+  {
+    "text": "谷端自打球で負傷交代怖すぎる",
+    "userName": "mitski_hanshin",
+    "tweetUrl": "https://twitter.com/mitski_hanshin/status/2055495825133125663",
+    "createdAt": "May 16, 2026 at 12:49PM"
+  },
+  {
+    "text": "谷端さん無事でいてくれ😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2055495917944574331",
+    "createdAt": "May 16, 2026 at 12:49PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代\nhttps://t.co/Ri1ZOB0SJs #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2055495924122784247",
+    "createdAt": "May 16, 2026 at 12:49PM"
+  },
+  {
+    "text": "谷端大丈夫なのかな...",
+    "userName": "tigersfight111",
+    "tweetUrl": "https://twitter.com/tigersfight111/status/2055496204218495377",
+    "createdAt": "May 16, 2026 at 12:50PM"
+  },
+  {
+    "text": "谷端まじかよ、心配すぎる",
+    "userName": "musasabi6go",
+    "tweetUrl": "https://twitter.com/musasabi6go/status/2055496274737233987",
+    "createdAt": "May 16, 2026 at 12:51PM"
+  },
+  {
+    "text": "谷端くん🫣\n大丈夫かな⁉️\n#阪神タイガース\n#ファームリーグ https://t.co/XThPfwute8",
+    "userName": "yusasakyun7221",
+    "tweetUrl": "https://twitter.com/yusasakyun7221/status/2055496443839029372",
+    "createdAt": "May 16, 2026 at 12:51PM"
+  },
+  {
+    "text": "え？谷端どうしたの？？",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2055496470418374657",
+    "createdAt": "May 16, 2026 at 12:52PM"
+  },
+  {
+    "text": "谷端怪我したっぽくて鬱\nそしてラグズデール一向に改善しなくて大鬱",
+    "userName": "rarorgh",
+    "tweetUrl": "https://twitter.com/rarorgh/status/2055496484586733597",
+    "createdAt": "May 16, 2026 at 12:52PM"
+  },
+  {
+    "text": "谷端の期待外れの烙印を押されてから活躍しそう感",
+    "userName": "Hantuna9",
+    "tweetUrl": "https://twitter.com/Hantuna9/status/2055497031620378744",
+    "createdAt": "May 16, 2026 at 12:54PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/ezHW644NSI",
+    "userName": "dm1205",
+    "tweetUrl": "https://twitter.com/dm1205/status/2055497137958563858",
+    "createdAt": "May 16, 2026 at 12:54PM"
+  },
+  {
+    "text": "谷端くん大丈夫かなぁ⁉︎",
+    "userName": "QmsowKOOnU90189",
+    "tweetUrl": "https://twitter.com/QmsowKOOnU90189/status/2055497221454647699",
+    "createdAt": "May 16, 2026 at 12:55PM"
+  },
+  {
+    "text": "谷端は自打球、膝に当ててリタイアっぽいし\nラグズデールは初回から押し出しやし\nファームの試合もつらいもんがある🥺️",
+    "userName": "HanzoToshi",
+    "tweetUrl": "https://twitter.com/HanzoToshi/status/2055497250277904560",
+    "createdAt": "May 16, 2026 at 12:55PM"
+  },
+  {
+    "text": "谷端くん大丈夫か…",
+    "userName": "hskkkedge",
+    "tweetUrl": "https://twitter.com/hskkkedge/status/2055497324223508672",
+    "createdAt": "May 16, 2026 at 12:55PM"
+  },
+  {
+    "text": "谷端まじか…",
+    "userName": "madoka_nunu",
+    "tweetUrl": "https://twitter.com/madoka_nunu/status/2055497480029307171",
+    "createdAt": "May 16, 2026 at 12:56PM"
+  },
+  {
+    "text": "谷端が自打球で交代らしくて鬱",
+    "userName": "qh2suw",
+    "tweetUrl": "https://twitter.com/qh2suw/status/2055497578607992981",
+    "createdAt": "May 16, 2026 at 12:56PM"
+  },
+  {
+    "text": "谷端くんがつらすぎる",
+    "userName": "mayu32727",
+    "tweetUrl": "https://twitter.com/mayu32727/status/2055497911040151845",
+    "createdAt": "May 16, 2026 at 12:57PM"
+  },
+  {
+    "text": "濱田　　　5\n今朝丸　　4\n糸原　　　3\nラグズデ　3\nコンスエ　3\n立石　　　2\n西純　　　2\n中川　　　2\n西勇　　　2\n能登　　　2\n茨木　　　2\n梅野　　　1\n谷端　　　1\n嶋村　　　1\n前川　　　1\n戸井　　　1\nルーカス　1\nディベイ　1\n大竹　　　1\n富田　　　1\n門別　　　1\n榮枝　　　1\n木下　　　1 https://t.co/YXfV8TJa4N",
+    "userName": "homurakinokami",
+    "tweetUrl": "https://twitter.com/homurakinokami/status/2055497940928770332",
+    "createdAt": "May 16, 2026 at 12:57PM"
+  },
+  {
+    "text": "谷端なんか怪我したな",
+    "userName": "Eanas_77",
+    "tweetUrl": "https://twitter.com/Eanas_77/status/2055498039276732506",
+    "createdAt": "May 16, 2026 at 12:58PM"
+  },
+  {
+    "text": "いつの間に谷端スペってたん…\n野手ドラフト組がなかなか上手くいかず",
+    "userName": "are35_NS_Tigers",
+    "tweetUrl": "https://twitter.com/are35_NS_Tigers/status/2055498258710229388",
+    "createdAt": "May 16, 2026 at 12:59PM"
+  },
+  {
+    "text": "期待のルーキーが…🫠\n\n阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代（デイリースポーツ） https://t.co/zXc3cXUp4J",
+    "userName": "tigers19850305",
+    "tweetUrl": "https://twitter.com/tigers19850305/status/2055498472418426936",
+    "createdAt": "May 16, 2026 at 12:59PM"
+  },
+  {
+    "text": "谷端くん…自打球やと？",
+    "userName": "hokuto_taisuke",
+    "tweetUrl": "https://twitter.com/hokuto_taisuke/status/2055498503523279061",
+    "createdAt": "May 16, 2026 at 01:00PM"
+  },
+  {
+    "text": "谷端自力で歩けてなかったってことは骨折確定なんか、、？2軍も怪我人多いなぁ",
+    "userName": "WZAH86e8S29H6yL",
+    "tweetUrl": "https://twitter.com/WZAH86e8S29H6yL/status/2055498921540284662",
+    "createdAt": "May 16, 2026 at 01:01PM"
+  },
+  {
+    "text": "なんか谷端逝ってるやん",
+    "userName": "yakisoba53",
+    "tweetUrl": "https://twitter.com/yakisoba53/status/2055499752511549577",
+    "createdAt": "May 16, 2026 at 01:05PM"
+  },
+  {
+    "text": "谷端自打球交代マジか",
+    "userName": "yokashin722",
+    "tweetUrl": "https://twitter.com/yokashin722/status/2055499755086889337",
+    "createdAt": "May 16, 2026 at 01:05PM"
+  },
+  {
+    "text": "#プロ野球 #ファーム 16日 #米子\n#阪神-#広島\n【@Tigers_farm】\n1中島田\n2二谷端\n3指濱田\n4左立石\n5一ディベイニー\n6捕榮枝\n7三百﨑\n8右コンスエグラ\n9遊山田\n#先発 #ラグズデール\n【@CARP_koho】 \n1右佐々木\n2遊岸本\n3中中村\n4三ラミレス\n5二佐藤\n6左ファビアン\n7捕清水\n8一仲田\n9指 先発 #佐藤 https://t.co/6JqncZtBU5",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2055499946351292523",
+    "createdAt": "May 16, 2026 at 01:05PM"
+  },
+  {
+    "text": "谷端くん！？！？？\n無事であれ",
+    "userName": "mt110937",
+    "tweetUrl": "https://twitter.com/mt110937/status/2055500022469542294",
+    "createdAt": "May 16, 2026 at 01:06PM"
+  },
+  {
+    "text": "立石が復帰したと思ったら谷端が消えてるやん",
+    "userName": "KK_Gold_ego",
+    "tweetUrl": "https://twitter.com/KK_Gold_ego/status/2055501171050332165",
+    "createdAt": "May 16, 2026 at 01:10PM"
+  },
+  {
+    "text": "おいー谷端自打球負傷交代しとるやないかーい",
+    "userName": "riri_22r",
+    "tweetUrl": "https://twitter.com/riri_22r/status/2055501445517246824",
+    "createdAt": "May 16, 2026 at 01:11PM"
+  },
+  {
+    "text": "谷端大丈夫か？",
+    "userName": "Masami_0215",
+    "tweetUrl": "https://twitter.com/Masami_0215/status/2055501561955303448",
+    "createdAt": "May 16, 2026 at 01:12PM"
+  },
+  {
+    "text": "谷端くん自力で歩けず🥲",
+    "userName": "oku_ht6",
+    "tweetUrl": "https://twitter.com/oku_ht6/status/2055501782680514829",
+    "createdAt": "May 16, 2026 at 01:13PM"
+  },
+  {
+    "text": "谷端将伍選手端 自打球が右足を直撃して自力で立てなくて交代したんやって…\n大丈夫かな…",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2055501800271405111",
+    "createdAt": "May 16, 2026 at 01:13PM"
+  },
+  {
+    "text": "た、谷端...？😢",
+    "userName": "Qlv8Js",
+    "tweetUrl": "https://twitter.com/Qlv8Js/status/2055502096791916747",
+    "createdAt": "May 16, 2026 at 01:14PM"
+  },
+  {
+    "text": "俺から谷端を奪うな",
+    "userName": "aratame_noodle",
+    "tweetUrl": "https://twitter.com/aratame_noodle/status/2055502229390651868",
+    "createdAt": "May 16, 2026 at 01:14PM"
+  },
+  {
+    "text": "🐯谷端くん　心配だな😥 https://t.co/Ab782mOe7S",
+    "userName": "01HARU2025",
+    "tweetUrl": "https://twitter.com/01HARU2025/status/2055502460291301739",
+    "createdAt": "May 16, 2026 at 01:15PM"
+  },
+  {
+    "text": "谷端大丈夫なのかな",
+    "userName": "tu_ma54",
+    "tweetUrl": "https://twitter.com/tu_ma54/status/2055502725455192173",
+    "createdAt": "May 16, 2026 at 01:16PM"
+  },
+  {
+    "text": "谷端くんまじ、、、、😭",
+    "userName": "asarisea",
+    "tweetUrl": "https://twitter.com/asarisea/status/2055503285738762513",
+    "createdAt": "May 16, 2026 at 01:19PM"
+  },
+  {
+    "text": "谷端まじか",
+    "userName": "sen_kao0722",
+    "tweetUrl": "https://twitter.com/sen_kao0722/status/2055503404437549230",
+    "createdAt": "May 16, 2026 at 01:19PM"
+  },
+  {
+    "text": "頑丈さが取り柄の谷端まで故障って\nマジで心配なんだけど阪神二軍 https://t.co/xvQYkiYryZ",
+    "userName": "s8zbf",
+    "tweetUrl": "https://twitter.com/s8zbf/status/2055503438465941526",
+    "createdAt": "May 16, 2026 at 01:19PM"
+  },
+  {
+    "text": "谷端？！",
+    "userName": "hiyoko041220",
+    "tweetUrl": "https://twitter.com/hiyoko041220/status/2055504065279455306",
+    "createdAt": "May 16, 2026 at 01:22PM"
+  },
+  {
+    "text": "谷端くんしんぱい",
+    "userName": "murakami_41_",
+    "tweetUrl": "https://twitter.com/murakami_41_/status/2055504142135873565",
+    "createdAt": "May 16, 2026 at 01:22PM"
+  },
+  {
+    "text": "壁には当たるも怪我なく来てるのが谷端くん強みだったのにここで食らうとかわいそうやな",
+    "userName": "la3",
+    "tweetUrl": "https://twitter.com/la3/status/2055504844354724337",
+    "createdAt": "May 16, 2026 at 01:25PM"
+  },
+  {
+    "text": "谷端くんケガか、残念だな。ファームで打ってたから交流戦から立石くんと一緒に一軍上がってくると思ってたんだけどな。\nそれにしても今年はケガ人続出、何とかならんかな。\n\n#阪神タイガース \n#デイリースポーツ online https://t.co/cSmvBnCS77 @Daily_Onlineより",
+    "userName": "YGBpKbzwrTBpWgP",
+    "tweetUrl": "https://twitter.com/YGBpKbzwrTBpWgP/status/2055505674868764861",
+    "createdAt": "May 16, 2026 at 01:28PM"
+  },
+  {
+    "text": "【阪神 ドラ２谷端にアクシデント 自力で立てず】\n\n阪神のドラフト２位・谷端将伍内野手\n自打球を受けるアクシデントで途中交代\n\nその場でうずくまり、トレーナーと梵２軍打撃コーチが駆けつけ、肩を抱えられ、グラウンドを後にした。\nhttps://t.co/LzYX23nzAD https://t.co/3Dl8TXzAT1",
+    "userName": "Saba_Tigers",
+    "tweetUrl": "https://twitter.com/Saba_Tigers/status/2055506013550526468",
+    "createdAt": "May 16, 2026 at 01:29PM"
+  },
+  {
+    "text": "谷端って25つけてたんか。新井さんの背番号やん",
+    "userName": "orangepiece4912",
+    "tweetUrl": "https://twitter.com/orangepiece4912/status/2055506394292629864",
+    "createdAt": "May 16, 2026 at 01:31PM"
+  },
+  {
+    "text": "今度は谷端が怪我……？",
+    "userName": "sukesankaku46",
+    "tweetUrl": "https://twitter.com/sukesankaku46/status/2055506450580140070",
+    "createdAt": "May 16, 2026 at 01:31PM"
+  },
+  {
+    "text": "@Saba_Tigers さばかんさん　谷端くん　心配だな😟",
+    "userName": "01HARU2025",
+    "tweetUrl": "https://twitter.com/01HARU2025/status/2055506606608285820",
+    "createdAt": "May 16, 2026 at 01:32PM"
+  },
+  {
+    "text": "谷端くん大丈夫かな😭",
+    "userName": "seira_HT",
+    "tweetUrl": "https://twitter.com/seira_HT/status/2055506699679936646",
+    "createdAt": "May 16, 2026 at 01:32PM"
+  },
+  {
+    "text": "自打球ばっかりはどうしょうもないが\n今季多すぎるし、よりによって谷端かよ https://t.co/tPmqpvNkMQ",
+    "userName": "OHsuna_green",
+    "tweetUrl": "https://twitter.com/OHsuna_green/status/2055507173292339237",
+    "createdAt": "May 16, 2026 at 01:34PM"
+  },
+  {
+    "text": "谷端くん 心配やな、、",
+    "userName": "1101yp",
+    "tweetUrl": "https://twitter.com/1101yp/status/2055507709026578739",
+    "createdAt": "May 16, 2026 at 01:36PM"
+  },
+  {
+    "text": "またケガ人か\nまぁ谷端はスタートから乗れず実力発揮出来ない流れできてるし少し休んでリセットもアリかと思うね\n\n阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代\nhttps://t.co/yAtS9zkYnG",
+    "userName": "tigre_taketo",
+    "tweetUrl": "https://twitter.com/tigre_taketo/status/2055508465716723935",
+    "createdAt": "May 16, 2026 at 01:39PM"
+  },
+  {
+    "text": "谷端大丈夫かな",
+    "userName": "torimer",
+    "tweetUrl": "https://twitter.com/torimer/status/2055508728406032394",
+    "createdAt": "May 16, 2026 at 01:40PM"
+  },
+  {
+    "text": "谷端くん自打球で、、、、、\n大丈夫かな、、、めっちゃ心配、、、",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2055508801495949783",
+    "createdAt": "May 16, 2026 at 01:41PM"
+  },
+  {
+    "text": "谷端自打球マジか",
+    "userName": "PINE_Baseball_",
+    "tweetUrl": "https://twitter.com/PINE_Baseball_/status/2055508888229978234",
+    "createdAt": "May 16, 2026 at 01:41PM"
+  },
+  {
+    "text": "うぇ谷端大丈夫なん？！",
+    "userName": "norinoirnori",
+    "tweetUrl": "https://twitter.com/norinoirnori/status/2055508898266968223",
+    "createdAt": "May 16, 2026 at 01:41PM"
+  },
+  {
+    "text": "虎の25番谷端どうか軽傷でありますように",
+    "userName": "E037GO",
+    "tweetUrl": "https://twitter.com/E037GO/status/2055509036511244404",
+    "createdAt": "May 16, 2026 at 01:41PM"
+  },
+  {
+    "text": "谷端も自打球離脱とか、阪神なんか悪いことしましたか…？",
+    "userName": "makimaki2329",
+    "tweetUrl": "https://twitter.com/makimaki2329/status/2055509327759470933",
+    "createdAt": "May 16, 2026 at 01:43PM"
+  },
+  {
+    "text": "谷端大丈夫だといいんだけど",
+    "userName": "on8606956769736",
+    "tweetUrl": "https://twitter.com/on8606956769736/status/2055509872830271776",
+    "createdAt": "May 16, 2026 at 01:45PM"
+  },
+  {
+    "text": "@daily_kasai @yukapyon0724 大丈夫か谷端くん？😳",
+    "userName": "gC4ICogApt8DEeW",
+    "tweetUrl": "https://twitter.com/gC4ICogApt8DEeW/status/2055509910549626929",
+    "createdAt": "May 16, 2026 at 01:45PM"
+  },
+  {
+    "text": "谷端までか……無事であってくれ",
+    "userName": "karukosoma",
+    "tweetUrl": "https://twitter.com/karukosoma/status/2055510902024360423",
+    "createdAt": "May 16, 2026 at 01:49PM"
+  },
+  {
+    "text": "えっ谷端さん大丈夫なん？？？",
+    "userName": "ahirurun_241",
+    "tweetUrl": "https://twitter.com/ahirurun_241/status/2055510933838168118",
+    "createdAt": "May 16, 2026 at 01:49PM"
+  },
+  {
+    "text": "自打球禍多過ぎないか⁉️#阪神タイガース　#hanshin\n\n阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代（デイリースポーツ） https://t.co/K8gwog921o",
+    "userName": "jonku_njp",
+    "tweetUrl": "https://twitter.com/jonku_njp/status/2055511208477053412",
+    "createdAt": "May 16, 2026 at 01:50PM"
+  },
+  {
+    "text": "谷端怪我？まあ今年の一軍厳しいやろから、まずはしっかり治すことやな。",
+    "userName": "ekodrum",
+    "tweetUrl": "https://twitter.com/ekodrum/status/2055511924566298728",
+    "createdAt": "May 16, 2026 at 01:53PM"
+  },
+  {
+    "text": "谷端負傷交代って大丈夫なんか・・・❓",
+    "userName": "2023_tigers",
+    "tweetUrl": "https://twitter.com/2023_tigers/status/2055511940815093852",
+    "createdAt": "May 16, 2026 at 01:53PM"
+  },
+  {
+    "text": "@wcyi6 谷端逝ってて爆笑",
+    "userName": "pojihame21",
+    "tweetUrl": "https://twitter.com/pojihame21/status/2055512078308503894",
+    "createdAt": "May 16, 2026 at 01:54PM"
+  },
+  {
+    "text": "阪神タイガース大物軍\n谷端さんは何をしたんや？\n長引かなければいいが。\nラグズデールさんは予定通りで\n2イニング降板なら来週木曜日\nあたり先発な気もするが大竹さん\n抹消してないんよなあ。\nどうするつもりなのか。\n立石さん4番は期待しかない。\n一本打って欲しい。\n\n#阪神タイガース",
+    "userName": "nisshan0512",
+    "tweetUrl": "https://twitter.com/nisshan0512/status/2055512098214719721",
+    "createdAt": "May 16, 2026 at 01:54PM"
+  },
+  {
+    "text": "谷端ァ😭\nどうか無事で...！",
+    "userName": "DLhensyucyou",
+    "tweetUrl": "https://twitter.com/DLhensyucyou/status/2055512310115102994",
+    "createdAt": "May 16, 2026 at 01:54PM"
+  },
+  {
+    "text": "谷端はデッドボールじゃなくて自打球だった🙇",
+    "userName": "9dz8YZpyYVmbZvs",
+    "tweetUrl": "https://twitter.com/9dz8YZpyYVmbZvs/status/2055512869387878653",
+    "createdAt": "May 16, 2026 at 01:57PM"
+  },
+  {
+    "text": "谷端は自打球心配な選手よな…\n内角好きそうやしけっこうパワーあるから",
+    "userName": "nq0rw7f0c",
+    "tweetUrl": "https://twitter.com/nq0rw7f0c/status/2055512914795417957",
+    "createdAt": "May 16, 2026 at 01:57PM"
+  },
+  {
+    "text": "谷端さん自打球か😨\nせっかく上向いてきたのに。\n立てないとなると骨やったかも。\nほんまに盛り塩か厄払いせな\nあかんやつやぞ。\n\n#阪神タイガース https://t.co/6VcSCirWDj",
+    "userName": "nisshan0512",
+    "tweetUrl": "https://twitter.com/nisshan0512/status/2055513258380140684",
+    "createdAt": "May 16, 2026 at 01:58PM"
+  },
+  {
+    "text": "谷端選手、自打球で交代？大事に至らなければ良いんだけども。",
+    "userName": "narandoh99kara",
+    "tweetUrl": "https://twitter.com/narandoh99kara/status/2055513325170246126",
+    "createdAt": "May 16, 2026 at 01:59PM"
+  },
+  {
+    "text": "谷端オレの足あげるから離脱はマジで…",
+    "userName": "tanihataaaa2525",
+    "tweetUrl": "https://twitter.com/tanihataaaa2525/status/2055513740565786674",
+    "createdAt": "May 16, 2026 at 02:00PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代（デイリースポーツ） https://t.co/fFqFFgkcJO",
+    "userName": "SVictory82",
+    "tweetUrl": "https://twitter.com/SVictory82/status/2055514346273550652",
+    "createdAt": "May 16, 2026 at 02:03PM"
+  },
+  {
+    "text": "嘘だ...\n谷端が自分の住んでいる県で...\nお大事にしてほしい\n#阪神タイガース https://t.co/TErS778eC0",
+    "userName": "J3478631238762",
+    "tweetUrl": "https://twitter.com/J3478631238762/status/2055514940996452520",
+    "createdAt": "May 16, 2026 at 02:05PM"
+  },
+  {
+    "text": "ええ谷端くん大丈夫なの🥺",
+    "userName": "msdn7019644",
+    "tweetUrl": "https://twitter.com/msdn7019644/status/2055515111058739496",
+    "createdAt": "May 16, 2026 at 02:06PM"
+  },
+  {
+    "text": "大丈夫かな、谷端くん...\n\nほんと今シーズン、自打球多いなぁ... https://t.co/jyPVCUyLjO",
+    "userName": "nacchin_00ht",
+    "tweetUrl": "https://twitter.com/nacchin_00ht/status/2055516754705846582",
+    "createdAt": "May 16, 2026 at 02:12PM"
+  },
+  {
+    "text": "谷端怪我したら痛いな\n二軍でほぼ二塁レギュラーで出してもらえてたのに😢\n打撃成績も打率は悪いけど、四球選べてて三振も少ないから期待できそうで良かったんだけどね〜",
+    "userName": "bakutoraGames",
+    "tweetUrl": "https://twitter.com/bakutoraGames/status/2055517984542822507",
+    "createdAt": "May 16, 2026 at 02:17PM"
+  },
+  {
+    "text": "谷端負傷ドカ鬱すぎる",
+    "userName": "sinjiteruzo",
+    "tweetUrl": "https://twitter.com/sinjiteruzo/status/2055518178395165091",
+    "createdAt": "May 16, 2026 at 02:18PM"
+  },
+  {
+    "text": "谷端大丈夫か😭😭",
+    "userName": "tigers35_37",
+    "tweetUrl": "https://twitter.com/tigers35_37/status/2055519502918619260",
+    "createdAt": "May 16, 2026 at 02:23PM"
+  },
+  {
+    "text": "谷端くん🥲阪神、盛り塩しよう",
+    "userName": "fp_cn_mtrz",
+    "tweetUrl": "https://twitter.com/fp_cn_mtrz/status/2055519994516275395",
+    "createdAt": "May 16, 2026 at 02:25PM"
+  },
+  {
+    "text": "【ファーム】 #阪神タイガース ドラ2 #谷端将伍 にアクシデント\n初回いきなり自打球が右足を直撃　自力で立てず交代\n https://t.co/Y9o07xYyy1",
+    "userName": "GojiOkiRanshi5",
+    "tweetUrl": "https://twitter.com/GojiOkiRanshi5/status/2055520153245524347",
+    "createdAt": "May 16, 2026 at 02:26PM"
+  },
+  {
+    "text": "@Saba_Tigers 谷端選手のアクシデントは本当に心配ですが、梵コーチやトレーナーがすぐに駆けつけて支える姿に、チームの温かさと強い結束力を感じます。\n今はとにかく焦らず、しっかり治療に専念してほしいですね。ファンの熱い声援を力に変えて、さらに強くなってグラウンドに戻ってくる日を信じて待っています！",
+    "userName": "Mshiro40end",
+    "tweetUrl": "https://twitter.com/Mshiro40end/status/2055521494617174331",
+    "createdAt": "May 16, 2026 at 02:31PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代（デイリースポーツ） https://t.co/7Ib9pSD3Ht\n\n大丈夫か谷端😓\n\nもう怪我人ごめんや😭😭😭",
+    "userName": "oceans05_ysk",
+    "tweetUrl": "https://twitter.com/oceans05_ysk/status/2055522210253881718",
+    "createdAt": "May 16, 2026 at 02:34PM"
+  },
+  {
+    "text": "@Saba_Tigers 谷端、お大事に。",
+    "userName": "akubi178",
+    "tweetUrl": "https://twitter.com/akubi178/status/2055523269844066733",
+    "createdAt": "May 16, 2026 at 02:38PM"
+  },
+  {
+    "text": "なんてこった。軽傷でありますように\n阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代/阪神タイガース/デイリースポーツ online https://t.co/2S0m68dd6A @Daily_Onlineより",
+    "userName": "basbollmoyashi1",
+    "tweetUrl": "https://twitter.com/basbollmoyashi1/status/2055523412764975293",
+    "createdAt": "May 16, 2026 at 02:39PM"
+  },
+  {
+    "text": "谷端くんベンチにいた\n一安心",
+    "userName": "tomo_tigers33",
+    "tweetUrl": "https://twitter.com/tomo_tigers33/status/2055524842888425616",
+    "createdAt": "May 16, 2026 at 02:44PM"
+  },
+  {
+    "text": "谷端のアクシデントで萎え\n高寺の躍動で興奮する\n忙しいわぁ",
+    "userName": "2Gsl8CSVP429409",
+    "tweetUrl": "https://twitter.com/2Gsl8CSVP429409/status/2055525155326382083",
+    "createdAt": "May 16, 2026 at 02:46PM"
+  },
+  {
+    "text": "@daily_kasai 立石くんが上がってきたと思てたら\n今度は谷端くんが…🥺\n当たり所とか\n負傷がひどくないとええんやけど😵",
+    "userName": "u_km_laugh",
+    "tweetUrl": "https://twitter.com/u_km_laugh/status/2055525239162114519",
+    "createdAt": "May 16, 2026 at 02:46PM"
+  },
+  {
+    "text": "#プロ野球 #阪神タイガース 2番二塁 で出場 #谷端将伍 が自打球を受けるアクシデントで途中交代  初回1死5球目自打球 #谷端 の右足を直撃 その場でうずくまりトレーナーと梵 #2軍 軍打撃コーチが駆けつけ肩を抱えられグラウンドを後にした代打には #アルナエス が告げられそのまま交代となった\n#野球 https://t.co/HvNtZlnAIK https://t.co/oTh6A2xTN2",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2055525432938967184",
+    "createdAt": "May 16, 2026 at 02:47PM"
+  },
+  {
+    "text": "えええええ谷端大丈夫？？？",
+    "userName": "redstar_yamato",
+    "tweetUrl": "https://twitter.com/redstar_yamato/status/2055530694433276376",
+    "createdAt": "May 16, 2026 at 03:08PM"
+  },
+  {
+    "text": "谷端くん8裏開始前のキャッチボール出てきた https://t.co/eeKJxnA481",
+    "userName": "tomo_tigers33",
+    "tweetUrl": "https://twitter.com/tomo_tigers33/status/2055533313784443014",
+    "createdAt": "May 16, 2026 at 03:18PM"
+  },
+  {
+    "text": "自打球で交代した谷端くん\nイニング間の外野手とのキャッチボールに出てきてたので大丈夫そうです",
+    "userName": "Attyon_YKG",
+    "tweetUrl": "https://twitter.com/Attyon_YKG/status/2055533402473025586",
+    "createdAt": "May 16, 2026 at 03:18PM"
+  },
+  {
+    "text": "ファームでは谷端くんが自打球で途中交代😵💥\nこれ以上怪我人増えないで…😢 https://t.co/oWa3JUArBu",
+    "userName": "JtsRnVmZcPPHpgD",
+    "tweetUrl": "https://twitter.com/JtsRnVmZcPPHpgD/status/2055533647881793937",
+    "createdAt": "May 16, 2026 at 03:19PM"
+  },
+  {
+    "text": "谷端くんが無事そうで安心しました😿",
+    "userName": "osono_chiru",
+    "tweetUrl": "https://twitter.com/osono_chiru/status/2055537517504692501",
+    "createdAt": "May 16, 2026 at 03:35PM"
+  },
+  {
+    "text": "米子\n\n試合後のミーティングでベンチに谷端選手確認できましたのでそんなに酷い怪我ではない…と思いたいですね https://t.co/UXlHuHVkgs",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2055537625210274225",
+    "createdAt": "May 16, 2026 at 03:35PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代（デイリースポーツ） https://t.co/D1kpg6vFC2",
+    "userName": "mikirun14",
+    "tweetUrl": "https://twitter.com/mikirun14/status/2055537995445608618",
+    "createdAt": "May 16, 2026 at 03:37PM"
+  },
+  {
+    "text": "◇谷端選手の状態について\n\n平田2軍監督「骨折でもしてんのかなと思ったけど、大事に至らなくてよかった。明日は様子見ないといけないんけど大丈夫ですっていう話はしてたんで、大事に至らないことをもう願うだけ。明日になってみないとね｣ https://t.co/EmAVI5kKRl https://t.co/1vhGyh9qYk",
+    "userName": "daily_kasai",
+    "tweetUrl": "https://twitter.com/daily_kasai/status/2055544117585928506",
+    "createdAt": "May 16, 2026 at 04:01PM"
+  },
+  {
+    "text": "谷端さん無事そうでめちゃ安心した😭😭😭😭😭良かった、、",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2055544216647061583",
+    "createdAt": "May 16, 2026 at 04:01PM"
+  },
+  {
+    "text": "谷端くんご無事だったのか！！！よかた😭\n最近調子いいからここは焦らずに少し安静にしてほしい\nまだまだ先は長いからね！！",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2055547516553408814",
+    "createdAt": "May 16, 2026 at 04:14PM"
+  },
+  {
+    "text": "最近yahooトップに採用されるようになったAI要約記事\n結構ガバいからやめといたほうがいいんじゃないかなぁ\n\nこの画像は阪神谷端 https://t.co/TQZiME2qY0",
+    "userName": "CC_jabberwock",
+    "tweetUrl": "https://twitter.com/CC_jabberwock/status/2055547546534281644",
+    "createdAt": "May 16, 2026 at 04:14PM"
+  },
+  {
+    "text": "【ファームハイライト】2026/5/16(土)阪神 0-5 広島（米子）\n【スコア詳細】\n阪神｜000｜010｜100｜2\n広島｜100｜000｜20X｜3\n本塁打：ラミレス 2号(7回裏2ラン)\n「谷端、初回いきなり自打球が右足を直撃　自力で立てず交代」https://t.co/Erqwc95Fup\n【本日の主な打者の成績】\n島田海吏(4打数 0安打",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2055549430515069208",
+    "createdAt": "May 16, 2026 at 04:22PM"
+  },
+  {
+    "text": "「谷端、初回いきなり自打球が右足を直撃　自力で立てず交代」\nhttps://t.co/KAdHig9Hw6",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2055550075850662132",
+    "createdAt": "May 16, 2026 at 04:25PM"
+  },
+  {
+    "text": "阪神 ドラ２谷端にアクシデント　\n初回いきなり自打球が右足を直撃 https://t.co/yeetWgmDgW",
+    "userName": "harunakazuyuki",
+    "tweetUrl": "https://twitter.com/harunakazuyuki/status/2055550228313579990",
+    "createdAt": "May 16, 2026 at 04:25PM"
+  },
+  {
+    "text": "能登もよく粘りはしたけどラミレスの一発に泣いたなぁって試合\n谷端が心配\n\n負けはしたけど楽しかった\nやっぱり地方球場しか勝たん https://t.co/oIDSmXNiFX",
+    "userName": "373_932",
+    "tweetUrl": "https://twitter.com/373_932/status/2055551375879311383",
+    "createdAt": "May 16, 2026 at 04:30PM"
+  },
+  {
+    "text": "@Saba_Tigers 1軍合流って話をすると怪我をする谷端",
+    "userName": "2023Hachi",
+    "tweetUrl": "https://twitter.com/2023Hachi/status/2055552903113580761",
+    "createdAt": "May 16, 2026 at 04:36PM"
+  },
+  {
+    "text": "谷端心配 https://t.co/YIOvYQeOaV",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://twitter.com/yoshida0531a/status/2055555003943911528",
+    "createdAt": "May 16, 2026 at 04:44PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代\n#yahooニュース\n#阪神タイガース\n#熱覇\nhttps://t.co/0POg3bsUlc",
+    "userName": "oogatanoriai",
+    "tweetUrl": "https://twitter.com/oogatanoriai/status/2055556658663993406",
+    "createdAt": "May 16, 2026 at 04:51PM"
+  },
+  {
+    "text": "谷端が一軍で活躍したら前川、浅野に並んで昭和初期の色褪せた写真画像作られそう",
+    "userName": "palette_iroiro",
+    "tweetUrl": "https://twitter.com/palette_iroiro/status/2055560107694625207",
+    "createdAt": "May 16, 2026 at 05:04PM"
+  },
+  {
+    "text": "今度は谷端かよ.... https://t.co/ExIiUXDMzn",
+    "userName": "Urban969",
+    "tweetUrl": "https://twitter.com/Urban969/status/2055562713540215292",
+    "createdAt": "May 16, 2026 at 05:15PM"
+  },
+  {
+    "text": "こらあかん！\nヤバそうやんけ？\n谷端か…\n立石といい、ルーキー厄年やな…\n\nhttps://t.co/sguQPLGtCD\n\n #阪神タイガース",
+    "userName": "udauda_jii",
+    "tweetUrl": "https://twitter.com/udauda_jii/status/2055566199363457486",
+    "createdAt": "May 16, 2026 at 05:29PM"
+  },
+  {
+    "text": "谷端、ひとまず大丈夫そうで安心したわ😭　RP",
+    "userName": "geheimnis____",
+    "tweetUrl": "https://twitter.com/geheimnis____/status/2055567570657505644",
+    "createdAt": "May 16, 2026 at 05:34PM"
+  },
+  {
+    "text": "谷端自打球で途中交代か。\n大事に至らないことを祈りつつも、少し休んでリフレッシュしてほしいね。\n谷端は絶対こんなもんじゃないから。",
+    "userName": "tigers726",
+    "tweetUrl": "https://twitter.com/tigers726/status/2055572346128551992",
+    "createdAt": "May 16, 2026 at 05:53PM"
+  },
+  {
+    "text": "谷端大丈夫そうなら良かった",
+    "userName": "torimer",
+    "tweetUrl": "https://twitter.com/torimer/status/2055574441648869383",
+    "createdAt": "May 16, 2026 at 06:01PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代(デイリースポーツ)\n将伍焦らずゆっくり療養してな\n軽症でありますように\nhttps://t.co/XMt29s6Q3R",
+    "userName": "barmursu",
+    "tweetUrl": "https://twitter.com/barmursu/status/2055579708537164187",
+    "createdAt": "May 16, 2026 at 06:22PM"
+  },
+  {
+    "text": "谷端、骨折はしてなかったんか、、、ほっ、、",
+    "userName": "acco1984",
+    "tweetUrl": "https://twitter.com/acco1984/status/2055580646911987773",
+    "createdAt": "May 16, 2026 at 06:26PM"
+  },
+  {
+    "text": "谷端は故障しない\n時間はかかっても必ずレギュラー掴む選手 https://t.co/RWz2aCViL6",
+    "userName": "345adeuk2",
+    "tweetUrl": "https://twitter.com/345adeuk2/status/2055580702721368117",
+    "createdAt": "May 16, 2026 at 06:26PM"
+  },
+  {
+    "text": "ほんまにこれ。野手で次世代主軸確定は髙寺くらいやろうなあ。小幡立石嶋村谷端中川右京岡城…やっぱいまのBIG5は奇跡やな。 https://t.co/9js8cpYLI4",
+    "userName": "Kazu_A_LiSA_UM",
+    "tweetUrl": "https://twitter.com/Kazu_A_LiSA_UM/status/2055580841745727873",
+    "createdAt": "May 16, 2026 at 06:27PM"
+  },
+  {
+    "text": "缶バッジやシールを乱獲した娘(マジ。最初はサンリオコラボのグッズとクリアファイルだけのつもりだった)🐯\n\nシークレット巾着で、石川出身の谷端選手引き当てたのやはり引き強い…！\n谷端(と育成の川崎選手)グッズは完売してた https://t.co/SzAsEjEtoI https://t.co/blCohqx7zX",
+    "userName": "makimyon316",
+    "tweetUrl": "https://twitter.com/makimyon316/status/2055598046168465655",
+    "createdAt": "May 16, 2026 at 07:35PM"
+  },
+  {
+    "text": "谷端、ほんと大事に至らなくて良かったよ https://t.co/kWuVi7Nx0U",
+    "userName": "Tigers_Tossy",
+    "tweetUrl": "https://twitter.com/Tigers_Tossy/status/2055606774590541885",
+    "createdAt": "May 16, 2026 at 08:10PM"
+  },
+  {
+    "text": "谷端くんに変わって出てきたアルナエスがサードで結構いい守備してたの良かった",
+    "userName": "mayu32727",
+    "tweetUrl": "https://twitter.com/mayu32727/status/2055610693735579784",
+    "createdAt": "May 16, 2026 at 08:25PM"
+  },
+  {
+    "text": "阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】\nhttps://t.co/mTssjXpj07 #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2055613640007680084",
+    "createdAt": "May 16, 2026 at 08:37PM"
+  },
+  {
+    "text": "阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】（デイリースポーツ） https://t.co/ModaTjfV6T",
+    "userName": "SVictory82",
+    "tweetUrl": "https://twitter.com/SVictory82/status/2055614876849238493",
+    "createdAt": "May 16, 2026 at 08:42PM"
+  },
+  {
+    "text": "阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】/阪神タイガース/デイリースポーツ online https://t.co/SvY35lROkd @Daily_Online\n能登のことボロカスで草\nその通り",
+    "userName": "u_111111",
+    "tweetUrl": "https://twitter.com/u_111111/status/2055619400804545019",
+    "createdAt": "May 16, 2026 at 09:00PM"
+  },
+  {
+    "text": "阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/oFQTr8Sl1L",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2055620219931066834",
+    "createdAt": "May 16, 2026 at 09:03PM"
+  },
+  {
+    "text": "・谷端さん大事には至らなそうでよかった\n・疑問点、2軍ローテ足りなくなりそうなのにラグズデール能登門別を同じ日に投げさせたのはなんでだろう？誰かそろそろ復帰する？(5/22金先発が分からない)\n・ちなみにラグズデール2イニングは予定どおりなのかな？\n\n・能登投手ボロボロに言われてる(泣)↓ https://t.co/6CYQCM395f",
+    "userName": "___umi_t",
+    "tweetUrl": "https://twitter.com/___umi_t/status/2055624449832243424",
+    "createdAt": "May 16, 2026 at 09:20PM"
+  },
+  {
+    "text": "今いるメンツだけで3年後を考えた時\n\n捕手　嶋村\n一塁　佐野\n二塁　髙寺or百崎or谷端\n遊撃　山田（or髙寺）\n三塁　立石\n\n外野3人\n髙寺　岡城　ケイン\n\nDH     右京\n\nこの辺りがものになってないと\n一気に暗黒に突入よね\n\nとなると、ドラフトではこのメンツで不満なところになるかな",
+    "userName": "matsu_masa118",
+    "tweetUrl": "https://twitter.com/matsu_masa118/status/2055626569209798804",
+    "createdAt": "May 16, 2026 at 09:29PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代（デイリースポーツ） https://t.co/HKevHZWlAK",
+    "userName": "junji_nakano06",
+    "tweetUrl": "https://twitter.com/junji_nakano06/status/2055626743185354846",
+    "createdAt": "May 16, 2026 at 09:29PM"
+  },
+  {
+    "text": "@KoheiGiants0708 それを期待して獲得した立石・谷端・岡城は大成するか…",
+    "userName": "hinotama_st",
+    "tweetUrl": "https://twitter.com/hinotama_st/status/2055628146960138588",
+    "createdAt": "May 16, 2026 at 09:35PM"
+  },
+  {
+    "text": "谷端も岡城も、身体つくらないとやろし、\nどちらかというとこのオフが大事な気がしてる",
+    "userName": "lingsig9220",
+    "tweetUrl": "https://twitter.com/lingsig9220/status/2055629645413032117",
+    "createdAt": "May 16, 2026 at 09:41PM"
+  },
+  {
+    "text": "ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】\n\nhttps://t.co/Hq67prIgK6",
+    "userName": "daily_kasai",
+    "tweetUrl": "https://twitter.com/daily_kasai/status/2055630353352872299",
+    "createdAt": "May 16, 2026 at 09:44PM"
+  },
+  {
+    "text": "ラグズデール2回はなんだったの\n\n阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】/阪神タイガース/デイリースポーツ online https://t.co/xNQWxEFG8f",
+    "userName": "abnormalstadium",
+    "tweetUrl": "https://twitter.com/abnormalstadium/status/2055635005083365784",
+    "createdAt": "May 16, 2026 at 10:02PM"
+  },
+  {
+    "text": "阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/IdP2DfVnOC",
+    "userName": "KK90347520",
+    "tweetUrl": "https://twitter.com/KK90347520/status/2055638168544985299",
+    "createdAt": "May 16, 2026 at 10:15PM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/96n1gKmbCT",
+    "userName": "KK90347520",
+    "tweetUrl": "https://twitter.com/KK90347520/status/2055638365731746298",
+    "createdAt": "May 16, 2026 at 10:15PM"
+  },
+  {
+    "text": "平田さんえらいおかんむりやな。能登そんなに？\n\n阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/BqJgRIhdTb",
+    "userName": "dosvoksn",
+    "tweetUrl": "https://twitter.com/dosvoksn/status/2055640499592274087",
+    "createdAt": "May 16, 2026 at 10:24PM"
+  },
+  {
+    "text": "中野の代わりはそろそろちゃんと探さなあかんと思う\n中野から守備は弱くなるのはしゃあないから割り切って百崎谷端使わないと",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/2055650927248630193",
+    "createdAt": "May 16, 2026 at 11:05PM"
+  },
+  {
+    "text": "制限かかってるのでここに\n\n阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】/阪神タイガース/デイリースポーツ online https://t.co/ynpjyd2WZ2 # @Daily_Onlineより",
+    "userName": "poyo___39",
+    "tweetUrl": "https://twitter.com/poyo___39/status/2055651673700503605",
+    "createdAt": "May 16, 2026 at 11:08PM"
+  },
+  {
+    "text": "@wabirohanzawa @gironnashisaku1 阪神🐯も何だかんだで選手層厚いですよね。\nただ高寺君も成長してきたので首脳陣も悩みどころですよね。\nそれと立石君ももうすぐ上がって来そうですし。\n個人的に谷端君も気になりますが今日自打球でケガしたのが心配です。",
+    "userName": "chorio0815",
+    "tweetUrl": "https://twitter.com/chorio0815/status/2055653268060319992",
+    "createdAt": "May 16, 2026 at 11:15PM"
+  },
+  {
+    "text": "谷端、選球眼と三振数は悪くないから多分伸びてくるよ https://t.co/pX9uW52AdU",
+    "userName": "vemab22481",
+    "tweetUrl": "https://twitter.com/vemab22481/status/2055664556329091081",
+    "createdAt": "May 16, 2026 at 11:59PM"
+  },
+  {
+    "text": "近本の離脱が結果として高寺の開花に繋がったのは良い誤算だったね\n近本復帰後もショートなりレフトなりスタメンで使いたいって内容なのよね\n怖いのは近本が復帰後急激に劣化すること……\n立石来シーズンまでに仕上がるか……？\n谷端でも岡城でも誰か近本中野の後釜を担ってくれる人材が望まれるわね",
+    "userName": "EkO_08138",
+    "tweetUrl": "https://twitter.com/EkO_08138/status/2055688906839056764",
+    "createdAt": "May 17, 2026 at 01:36AM"
+  },
+  {
+    "text": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代/阪神タイガース/デイリースポーツ online https://t.co/l7EW2FHXJQ",
+    "userName": "h19580429",
+    "tweetUrl": "https://twitter.com/h19580429/status/2055697203973542294",
+    "createdAt": "May 17, 2026 at 02:09AM"
+  },
+  {
+    "text": "阪神　ドラ１の立石が離脱後初の実戦守備　バットでも安打を放ち「雰囲気持っとるよ」と平田２軍監督激賞　自打球で交代のドラ２谷端は「大事に至らなくてよかった」【一問一答】/阪神タイガース/デイリースポーツ online\n立石、谷端はまだ時間かかりそうだけど急いでないから https://t.co/xNCN6gsOCi",
+    "userName": "sho_0112",
+    "tweetUrl": "https://twitter.com/sho_0112/status/2055723139074814313",
+    "createdAt": "May 17, 2026 at 03:52AM"
+  },
+  {
+    "text": "鉄人谷端 https://t.co/N7p9ljS219",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://twitter.com/yoshida0531a/status/2055753193196560403",
+    "createdAt": "May 17, 2026 at 05:52AM"
   }
 ]
