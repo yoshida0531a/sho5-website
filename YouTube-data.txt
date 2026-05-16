@@ -2238,5 +2238,85 @@
     "publishedAt": "May 9, 2026 at 06:51PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=qMgbKXal1Gs",
+    "publishedAt": "May 16, 2026 at 12:56PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2谷端に緊急事態！初回の自打球で負傷交代…虎党騒然",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KQrsA_dPvuU",
+    "publishedAt": "May 16, 2026 at 01:15PM",
+    "description": "阪神タイガースのドラフト2位・谷端選手に衝撃アクシデント発生。初回の打席で放った打球が右足を直撃し、その場に倒れ込む ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端が負傷…初回にまさかの自打球直撃で緊急交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=a3QgeKfzoh4",
+    "publishedAt": "May 16, 2026 at 01:16PM",
+    "description": "阪神期待のドラフト2位・谷端選手にアクシデント発生！初回から起きた衝撃の自打球シーンとは？右足を押さえて倒れ込み、自力 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2谷端に悲劇…右足へ強烈自打球で途中交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Pl3GdQE69L8",
+    "publishedAt": "May 16, 2026 at 01:17PM",
+    "description": "阪神タイガースに衝撃…。ドラフト2位ルーキー谷端選手が初回の打席で強烈な自打球を右足に受け、そのまま途中交代となりまし ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "😱阪神に激震…ドラ2谷端が“悶絶KO”💥 初",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=1kCV1NYxLDg",
+    "publishedAt": "May 16, 2026 at 01:58PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=y3CPl_AqsFA",
+    "publishedAt": "May 16, 2026 at 02:15PM",
+    "description": "阪神 ドラ２谷端にアクシデント 初回いきなり自打球が右足を直撃 自力で立てず交代.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　ドラ２谷端にアクシデント　初回いきなり自打球が右足を直撃　自力で立てず交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=GZSufOUWrl4",
+    "publishedAt": "May 16, 2026 at 03:08PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神・緊急】2軍米子戦で大アクシデント発生！ドラ2谷端が激しい自打球で負傷退場……自力歩行不可で肩を抱えられグラウンド去る。",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=W4fWvUXCEpQ",
+    "publishedAt": "May 16, 2026 at 03:11PM",
+    "description": "2026年5月16日、米子市民球場で行われたウエスタン・リーグの広島対阪神戦で、タイガースファンにとって非常に心配な ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚠️🐯阪神に激震！ドラ２谷端将伍が初回に自打球直撃…右足負傷で無念の途中交代😱⚾",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ghTDEAz07Qg",
+    "publishedAt": "May 16, 2026 at 03:18PM",
+    "description": "阪神タイガースに大きな衝撃が走った。期待のドラフト２位ルーキー・谷端将伍が、試合初回の第１打席で放った打球を自身の ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "&quot;【阪神激震】谷畑翔吾に突如起きた“異変”とは！？球場が凍りついた衝撃シーンの裏側…隠されていた真実がついに判明！！&quot;",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=taXjHTMVt6k",
+    "publishedAt": "May 16, 2026 at 05:22PM",
+    "description": "阪神タイガースの期待のドラフト2位ルーキー、谷端将伍選手を襲った衝撃のアクシデント。5月16日の広島戦、初回わずか5球目 ...",
+    "keyword": "谷端 阪神"
   }
 ]
