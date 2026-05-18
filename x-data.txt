@@ -5506,5 +5506,89 @@
     "userName": "Scorer61529543",
     "tweetUrl": "https://twitter.com/Scorer61529543/status/2056029529261625523",
     "createdAt": "May 18, 2026 at 12:10AM"
+  },
+  {
+    "text": "右京ハピバ\n立石谷端岡城に絶対に負けるんじゃねえぞ\n俺はお前が4番を背負えると信じているんだからな",
+    "userName": "Methoxy_226",
+    "tweetUrl": "https://twitter.com/Methoxy_226/status/2056151352590663917",
+    "createdAt": "May 18, 2026 at 08:14AM"
+  },
+  {
+    "text": "【ファーム・リーグ打撃成績（１８日）】\n\n◇打率（西地区）\n①山中稜真(オ)　.282\n②佐野大陽(神)　.271\n③ラミレス(広)　.261\n④髙橋隆慶(ソ)　.254\n⑤内藤鵬(オ)　.222\n⑥横山聖哉(オ)　.220\n⑦末包昇大(広)　.209\n⑧ディベイニー(神)　.205\n⑨池田陵真(オ)　.193\n⑩谷端将伍(神)　.176\n\n#スポニチ",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2056234144284413973",
+    "createdAt": "May 18, 2026 at 01:43PM"
+  },
+  {
+    "text": "野手は立石山田百崎岡城谷端がどんぐり化しなければ大丈夫だと思う https://t.co/rR82MWrIPh",
+    "userName": "mirei25ry",
+    "tweetUrl": "https://twitter.com/mirei25ry/status/2056238748090925227",
+    "createdAt": "May 18, 2026 at 02:01PM"
+  },
+  {
+    "text": "谷端は心配だけど三振少ないのがなんか期待できる",
+    "userName": "yankeestigers",
+    "tweetUrl": "https://twitter.com/yankeestigers/status/2056255666919293026",
+    "createdAt": "May 18, 2026 at 03:08PM"
+  },
+  {
+    "text": "立石立石立石\n百崎百崎百崎\n谷端谷端谷端\n\nショート高寺のオプションもうないのか？ https://t.co/RvecLwo2kn",
+    "userName": "t20052023",
+    "tweetUrl": "https://twitter.com/t20052023/status/2056271364169015460",
+    "createdAt": "May 18, 2026 at 04:11PM"
+  },
+  {
+    "text": "右京は交流戦で指名打者であるかな？と思っていたけど…。\n\nそうなると、早いけど立石が来るのかな？\n谷端は自打球あったから、しばらくはなさそうだし…。 https://t.co/rcnjrK1BHL",
+    "userName": "ykun_ARE",
+    "tweetUrl": "https://twitter.com/ykun_ARE/status/2056277039687291143",
+    "createdAt": "May 18, 2026 at 04:33PM"
+  },
+  {
+    "text": "@Daily_Online 右京はん抹消するとしたら\n昇格するとしても、まだ島田 豊田は無理やから\n百崎が一軍？或いは谷端？",
+    "userName": "1231roruto",
+    "tweetUrl": "https://twitter.com/1231roruto/status/2056282521399366012",
+    "createdAt": "May 18, 2026 at 04:55PM"
+  },
+  {
+    "text": "中野も守備だけの人に落ちたから、百崎、山田、谷端辺りが二遊間ではまったら最高！",
+    "userName": "yasui_0206",
+    "tweetUrl": "https://twitter.com/yasui_0206/status/2056319330749718954",
+    "createdAt": "May 18, 2026 at 07:21PM"
+  },
+  {
+    "text": "立石なんかはコアになることはもちろん、谷端岡城をコアにできるかが課題。",
+    "userName": "tigers_tg400",
+    "tweetUrl": "https://twitter.com/tigers_tg400/status/2056324264618590400",
+    "createdAt": "May 18, 2026 at 07:41PM"
+  },
+  {
+    "text": "正直まだ不満がある。ドラフト2位の谷端はずっとスランプやし，3位の岡城はベンチ漬け，既存戦力の福島・前川も高寺ほど突き抜けられてないからね。ここら辺が暴れ始めたら安心して寝られるんだけど...(欲張りすぎ) https://t.co/LeywMiOxH6",
+    "userName": "Ukrscrimea",
+    "tweetUrl": "https://twitter.com/Ukrscrimea/status/2056331098595250411",
+    "createdAt": "May 18, 2026 at 08:08PM"
+  },
+  {
+    "text": "そのために、立石、谷端、岡城指名してるんじゃないですか？\n希望通り育つかは別として対策はしてると思います。 https://t.co/WlYpXdDLjt",
+    "userName": "Niko_yasuniko",
+    "tweetUrl": "https://twitter.com/Niko_yasuniko/status/2056334898462654801",
+    "createdAt": "May 18, 2026 at 08:23PM"
+  },
+  {
+    "text": "立石が岡山駅にいたのなら登録確定やね\n後は谷端が上がれば完璧なドラフトになるな",
+    "userName": "ikesotyo",
+    "tweetUrl": "https://twitter.com/ikesotyo/status/2056340803451277802",
+    "createdAt": "May 18, 2026 at 08:47PM"
+  },
+  {
+    "text": "@ElDiabloRojo66 スペ体質治ったらセンターラインでの起用も見てみたいわな\nとはいえセカンドは谷端が結構やれそうやし送球の安定感とか考えると立石はサードのままでセカンドは谷端でええんちゃうかな",
+    "userName": "Manchestigers",
+    "tweetUrl": "https://twitter.com/Manchestigers/status/2056386314522808787",
+    "createdAt": "May 18, 2026 at 11:47PM"
+  },
+  {
+    "text": "阪神ルーキー10/10、熱いな。\n\n阪神タイガース 谷端将伍 ルーキーカード 10シリ(ラストナンバー)\nhttps://t.co/Dmel2AmMNI",
+    "userName": "SwallowsVibe92",
+    "tweetUrl": "https://twitter.com/SwallowsVibe92/status/2056445972389970059",
+    "createdAt": "May 19, 2026 at 03:45AM"
   }
 ]
