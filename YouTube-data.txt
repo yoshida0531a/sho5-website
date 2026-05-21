@@ -2318,5 +2318,21 @@
     "publishedAt": "May 16, 2026 at 05:22PM",
     "description": "阪神タイガースの期待のドラフト2位ルーキー、谷端将伍選手を襲った衝撃のアクシデント。5月16日の広島戦、初回わずか5球目 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【先輩と打ち合わせ】スタメン組の選手と会話を交わしレフトの守備につく立石正広 今日が甲子園デビュー戦",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=YU1R-0P4xnk",
+    "publishedAt": "May 20, 2026 at 10:40PM",
+    "description": "NPB #プロ野球 #阪神タイガース #阪神 #タイガース #hanshin #tigers #甲子園 #阪神甲子園球場 #SGL #SGLスタジアム #熱覇 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026年5月12日　阪神タイガース　谷端将伍選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6mivzZQzbMw",
+    "publishedAt": "May 21, 2026 at 08:32PM",
+    "description": "弁慶スタジアムにて撮影。 日本海リーグNPB交流戦 石川VS阪神より。",
+    "keyword": "谷端 阪神"
   }
 ]
