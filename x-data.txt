@@ -7546,5 +7546,533 @@
     "userName": "402129_7",
     "tweetUrl": "https://twitter.com/402129_7/status/2058226503884976407",
     "createdAt": "May 24, 2026 at 01:40AM"
+  },
+  {
+    "text": "数字的にはあかんけどキャンプ完走した谷端も上で一回みたいよな。",
+    "userName": "tigers_tg400",
+    "tweetUrl": "https://twitter.com/tigers_tg400/status/2058322430859653505",
+    "createdAt": "May 24, 2026 at 08:01AM"
+  },
+  {
+    "text": "竹丸は先発足りてないしあながち間違いではないね\n田和は谷端じゃダメだったかとは思うけど、田和も今のところは悪くないんよな https://t.co/qdvxbCISUm",
+    "userName": "viva_giants0625",
+    "tweetUrl": "https://twitter.com/viva_giants0625/status/2058353009294504098",
+    "createdAt": "May 24, 2026 at 10:02AM"
+  },
+  {
+    "text": "同郷の谷端くんには、ホンマに頑張って欲しい！ https://t.co/3K9cKZX3DX",
+    "userName": "jippirasan",
+    "tweetUrl": "https://twitter.com/jippirasan/status/2058358949364347217",
+    "createdAt": "May 24, 2026 at 10:26AM"
+  },
+  {
+    "text": "@racko0127 ショートしか空きなし。\nと言っても、近本戻ってきて高寺ショート使える目処立ったら、木浪、小幡両選手も詰みですな。下に百崎君や谷端君、山田君もいてますし、木浪、小幡にまだ伸び代が充分残っているとは､､､",
+    "userName": "norinori_fura",
+    "tweetUrl": "https://twitter.com/norinori_fura/status/2058365938400207107",
+    "createdAt": "May 24, 2026 at 10:54AM"
+  },
+  {
+    "text": "【交換】ファームTORACOデー　うちわ　　シークレット交換　\n\n譲：うちわ→谷端\n         アクスタ→門別、大山2(グルメ)\n　　缶バッチ→立石\n        オーロラキーホルダー→下村\n        \n求：うちわ→立石\n　山田→缶バッチ、オーロラキーホルダー\n　　☆異種交換可　☆定価\n\n　　本日SGLいます",
+    "userName": "sakuranboa_a",
+    "tweetUrl": "https://twitter.com/sakuranboa_a/status/2058367601450140155",
+    "createdAt": "May 24, 2026 at 11:00AM"
+  },
+  {
+    "text": "@racko0127 一　大山　31\n二　中野　29\n三　立石　22\n遊　\n\n左　近本　31\n中　高寺　23\n右　森下　25\n\n遊撃に小幡がはまれば綺麗なんだけどな\n谷端ってショートできんのか？\n\n外野は岡城、福島が使われてるし\n現ドラで井上に続いて前川あたりが\n出されそう。",
+    "userName": "CTiffany12472",
+    "tweetUrl": "https://twitter.com/CTiffany12472/status/2058368487773577233",
+    "createdAt": "May 24, 2026 at 11:04AM"
+  },
+  {
+    "text": "【交換】阪神タイガース　TORACO\n\n譲:オーロラキーホルダー→下村\nタオルキーホルダー→谷端・町田\n\n求:山田、早瀬 \n\n本日手渡しできる方\n条件が合う方がいらっしゃいましたらお声掛けください\n\n(町田くんはただいまお声掛け中ですのでお返事にお時間いただきます)",
+    "userName": "c4co19",
+    "tweetUrl": "https://twitter.com/c4co19/status/2058368956990374102",
+    "createdAt": "May 24, 2026 at 11:06AM"
+  },
+  {
+    "text": "【交換】阪神タイガース　TORACO\n\n譲:オーロラキーホルダー→下村\nタオルキーホルダー→谷端\n\n求:オーロラキーホルダー→山田,立石\nタオルキーホルダー→立石,早瀬,岡城\n\n本日手渡しできる方\n条件が合う方がいらっしゃいましたらお声掛けください",
+    "userName": "c4co19",
+    "tweetUrl": "https://twitter.com/c4co19/status/2058370539652268516",
+    "createdAt": "May 24, 2026 at 11:12AM"
+  },
+  {
+    "text": "ファームTORACO シークレット グッズ\n\n・選手ミニタオル\n譲 谷端 岡城 早瀬×2 町田×2\n\n・オーロラキーホルダー\n譲 岡城 町田×3 能登×2\n\n・ワイヤーキーホルダー、アクスタ\n譲 早瀬\n\n求 下村(特にミニタオル、オーロラキーホルダー 異種交換も可能)、定価\n\n5/24 SGLで交換可能。ご連絡お待ちしてます！",
+    "userName": "yuuuu68xx",
+    "tweetUrl": "https://twitter.com/yuuuu68xx/status/2058373000576258263",
+    "createdAt": "May 24, 2026 at 11:22AM"
+  },
+  {
+    "text": "【交換】阪神タイガース　TORACO\n\n譲:オーロラキーホルダー→下村\nタオルキーホルダー→谷端\n缶バッジ→門別\n\n求:オーロラキーホルダー→山田,立石\nタオルキーホルダー→立石,早瀬,岡城\n缶バッジ→山田\n\n本日手渡しできる方\n条件が合う方がいらっしゃいましたらお声掛けください",
+    "userName": "c4co19",
+    "tweetUrl": "https://twitter.com/c4co19/status/2058374145059229748",
+    "createdAt": "May 24, 2026 at 11:26AM"
+  },
+  {
+    "text": "阪神タイガース ファームTORACO DAY2026グッズ 交換 買取\n\nシークレットアクスタ\n【譲】今朝丸・早瀬\n【求】同種山田>買取\n\nガチャ\n【求】同異種なんでも検討(優先有)>買取\n①プチタオル\n【譲】能登・井坪×2・谷端・岡城・早瀬\n②アクスタ\n【譲】早瀬\n\n5/24SGL現地取引or郵送希望です！ https://t.co/HQbz6SkxiO",
+    "userName": "402129_7",
+    "tweetUrl": "https://twitter.com/402129_7/status/2058375281514357119",
+    "createdAt": "May 24, 2026 at 11:31AM"
+  },
+  {
+    "text": "阪神タイガース TORACO 交換 シークレット SGL\n\n【譲】シークレット選手ミニタオル\n門別、立石、今朝丸、岡城、谷端\n【求】町田 or 定価（町田との交換優先）\n\n本日（24日）SGLにて交換希望\nお心当たりある方はリプおねがいします😭💕 https://t.co/mw814D6TOp",
+    "userName": "o_r_tigers38",
+    "tweetUrl": "https://twitter.com/o_r_tigers38/status/2058376829527040263",
+    "createdAt": "May 24, 2026 at 11:37AM"
+  },
+  {
+    "text": "@nytgt あ、ありがとうございます😭😭😭😭\n谷端くん可愛い😭😭😭😭",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2058377418822611340",
+    "createdAt": "May 24, 2026 at 11:39AM"
+  },
+  {
+    "text": "@a\n阪神タイガース TORACOデー うちわ 交換\n\n譲：谷端・平田\n求：立石＞能登\n\n現在SGLおります！\n検索からでもお声がけください！ https://t.co/0KD9bLqBsE",
+    "userName": "mnt_tg_814",
+    "tweetUrl": "https://twitter.com/mnt_tg_814/status/2058377588826108230",
+    "createdAt": "May 24, 2026 at 11:40AM"
+  },
+  {
+    "text": "阪神タイガースSGL ファーム TORACO\n交換\n\n(求)早瀬 ＞ 門別\n\n(譲) オーロラキーホルダー \n        下村2 能登 百﨑\n\n        アクスタ\n        谷端 \n\n        タオル \n        百﨑\n\n交換、買取で探しています。\n本日SGLにてお取引希望です。",
+    "userName": "R71654620",
+    "tweetUrl": "https://twitter.com/R71654620/status/2058378393192903103",
+    "createdAt": "May 24, 2026 at 11:43AM"
+  },
+  {
+    "text": "TORACOファームうちわ\n\n【譲】谷端\n【求】能登.谷端　以外\n\n被ったため交換いただける方を探しています。\n本日SGL.内野にて交換可能。\n試合後も少しはSGLにいます。\n\n検索からもお気軽にお声掛けください。 https://t.co/1qdFLzxS25",
+    "userName": "51241605m",
+    "tweetUrl": "https://twitter.com/51241605m/status/2058378514349572585",
+    "createdAt": "May 24, 2026 at 11:44AM"
+  },
+  {
+    "text": "阪神タイガースSGLファームTORACOデー\nグッズ交換（※敬称略）\n\n【譲】オーロラキーホルダー 谷端\n        ワイヤー2連キーホルダー 門別\n【求】早瀬\n\n本日SGLいないため、後日SGL甲子園（または梅田or三宮）にて。リプｄｍお願いします。\n\n#阪神タイガース交換 #TORACOデー交換 #TORACOデー",
+    "userName": "B8N8dhZ4rgE70ia",
+    "tweetUrl": "https://twitter.com/B8N8dhZ4rgE70ia/status/2058381965112561910",
+    "createdAt": "May 24, 2026 at 11:57AM"
+  },
+  {
+    "text": "ファーム TORACO SGL 入場特典 うちわ\n\n(譲) 岡城 谷端 平田\n\n(求) 早瀬 立石\n\n本日SGL現地にて交換希望です。\nよろしくお願いいたします。",
+    "userName": "R71654620",
+    "tweetUrl": "https://twitter.com/R71654620/status/2058382263646368203",
+    "createdAt": "May 24, 2026 at 11:59AM"
+  },
+  {
+    "text": "SGL\n\n阪神シート\n\nキャッチャー　栄枝、町田、長坂、藤田\nファースト　糸原、佐野\nセカンド　谷端、戸井、川崎\nサード　百崎、アルナエス谷端\nショート　元山、山田\nレフト　島田、前川、西純\nセンター　小野寺\nライト　濱田、井坪、コンスエグラ\n\nノックアシスト　山崎\n\nと思われます",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2058385504908018137",
+    "createdAt": "May 24, 2026 at 12:12PM"
+  },
+  {
+    "text": "sgl  TORACOシークレットうちわ　入場特典\n交換探しております\n\n譲　25 谷端\n求　9 立石　44  早瀬　55 能登\n#sgl #阪神タイガース　#阪神 https://t.co/PLtHoDOzKm",
+    "userName": "yui7170",
+    "tweetUrl": "https://twitter.com/yui7170/status/2058387226581696884",
+    "createdAt": "May 24, 2026 at 12:18PM"
+  },
+  {
+    "text": "速報‼️阪神vsオリックス【スタメン⚾発表】\n2軍公式戦 5月24日13時SGLスタジアム\n6番セカンド谷端将伍\n先発投手は今朝丸裕喜\n#阪神タイガース #スタメン https://t.co/mZf63aELaU",
+    "userName": "tora_mx13",
+    "tweetUrl": "https://twitter.com/tora_mx13/status/2058389712776339727",
+    "createdAt": "May 24, 2026 at 12:28PM"
+  },
+  {
+    "text": "【2軍スタメン】\n5月24日・オリックス戦（SGL）\n\n１番・三塁　百崎\n２番・右翼　井坪\n３番・一塁　佐野\n４番・左翼　前川\n５番・中堅　小野寺\n６番・二塁　谷端\n７番・遊撃　山田\n８番・捕手　長坂\n９番・ＤＨ　今朝丸\n　　　投手　今朝丸\n\n#阪神タイガース",
+    "userName": "daily_fujimaru",
+    "tweetUrl": "https://twitter.com/daily_fujimaru/status/2058390321831268448",
+    "createdAt": "May 24, 2026 at 12:31PM"
+  },
+  {
+    "text": "阪神タイガース TORACO 交換 シークレット SGL\n\n【譲】シークレット選手ミニタオル\n門別、立石、今朝丸、岡城×2、谷端、能登\n【求】町田 or 定価\n\n本日（24日）SGLにて交換希望\nお心当たりある方はリプおねがいします😭💕",
+    "userName": "o_r_tigers38",
+    "tweetUrl": "https://twitter.com/o_r_tigers38/status/2058390398981345482",
+    "createdAt": "May 24, 2026 at 12:31PM"
+  },
+  {
+    "text": "5/24（日）尼崎SGL\n阪神タイガースvs オリックス・バファローズ 2軍戦\nスタメン\n\n5⃣百﨑蒼生\n9⃣井坪陽生\n3⃣佐野大陽\n7⃣前川右京\n8⃣小野寺暖\n4⃣谷端将伍\n6⃣山田脩也\n2⃣長坂拳弥\n🈯️今朝丸裕喜\n\n先発投手1️⃣は今朝丸裕喜👍️",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2058390401997009334",
+    "createdAt": "May 24, 2026 at 12:31PM"
+  },
+  {
+    "text": "オリックス\n麦谷\n寺本\n横山\n杉本\n三方\n福永\n窪田\n河野\n中西\n\n投手　　東松\n\n阪神二軍\n百崎\n井坪\n佐野\n前川\n小野寺\n谷端\n山田\n長坂\n今朝丸\n\n投手　　今朝丸",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://twitter.com/400216Susumu/status/2058390998380880253",
+    "createdAt": "May 24, 2026 at 12:33PM"
+  },
+  {
+    "text": "①23年のリーグV\n②創価大時代の立石正広 選手\n③日大時代の谷端将伍 選手\n④筑波大時代の岡城快生 選手だけ自分のフォルダにはプレー写真がなく…全力プレーを物語る1枚でお許しください🙇‍♀️",
+    "userName": "daily_mmy",
+    "tweetUrl": "https://twitter.com/daily_mmy/status/2058391218976153972",
+    "createdAt": "May 24, 2026 at 12:34PM"
+  },
+  {
+    "text": "阪神タイガース TORACOデー うちわ 交換\n\n譲：谷端×2️⃣\n求：立石・岡城・早瀬\n\n本日5/24 SGLおります！\nお心当たりのある方はお手数おかけしますがリプ又はDMまでお願いいたします。 https://t.co/br3gSWCJxu",
+    "userName": "88338d",
+    "tweetUrl": "https://twitter.com/88338d/status/2058391441794339295",
+    "createdAt": "May 24, 2026 at 12:35PM"
+  },
+  {
+    "text": "阪神 交換 ファーム TORACO シークレット グッズ オーロラキーホルダー\n\n譲：谷端\n求：町田or定価\n\n本日5/24 SGLにおります！\nお心当たりのある方はお手数おかけしますがリプ又はDMまでお願いいたします。 https://t.co/3hGv5xlPf8",
+    "userName": "88338d",
+    "tweetUrl": "https://twitter.com/88338d/status/2058391877192417285",
+    "createdAt": "May 24, 2026 at 12:37PM"
+  },
+  {
+    "text": "５／２４\n　ファームリーグVSオリックス\n\n先発：今朝丸裕喜\n\n１　百﨑（三）\n２　井坪（右）\n３　佐野（一）\n４　前川（左）\n５　小野寺（中）\n６　谷端（二）\n７　山田（遊）\n８　長坂（捕）\n９　今朝丸（DH）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2058391879730020433",
+    "createdAt": "May 24, 2026 at 12:37PM"
+  },
+  {
+    "text": "【ファーム】 \n【阪神】\n1百﨑(三)\n2井坪(右)\n3佐野(一)\n4前川(左)\n5小野寺(中)\n6谷端(二)\n7山田(遊)\n8長坂(捕)\n9今朝丸(指)\nP今朝丸\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2058391889209077866",
+    "createdAt": "May 24, 2026 at 12:37PM"
+  },
+  {
+    "text": "@88338d 検索より失礼いたします。\n早瀬選手のうちわ所持しております。谷端選手との交換可能でしょうか？\n本日現地です。",
+    "userName": "_x2525x_",
+    "tweetUrl": "https://twitter.com/_x2525x_/status/2058391917885563252",
+    "createdAt": "May 24, 2026 at 12:37PM"
+  },
+  {
+    "text": "#阪神タイガース2軍 スタメン\n三 百崎蒼生 21歳 東海大熊本星翔\n右 井坪陽生 22歳 関東一\n一 佐野大陽 25歳 富山\n左 前川右京 23歳 智弁学園\n中 小野寺暖 29歳 大商大\n二 谷端将伍 23歳 日大\n遊 山田脩也 21歳 仙台育英\n捕 長坂拳弥 32歳 東北福祉大\n投 今朝丸裕喜 20歳 報徳学園\n※26年度満年齢 https://t.co/DEIO1SKnZT",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2058392168348447131",
+    "createdAt": "May 24, 2026 at 12:38PM"
+  },
+  {
+    "text": "なんで山田よりも打てない谷端が６番なんだろうか… https://t.co/ddfN77OF5y",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2058393092211024369",
+    "createdAt": "May 24, 2026 at 12:42PM"
+  },
+  {
+    "text": "SGLスタジアム尼崎からファーム・リーグ「オリックス・バファローズ」戦のライブ配信を開始しました。\nスタメンは1番3B百﨑、2番RF井坪、3番1B佐野、4番LF前川、5番CF小野寺、6番2B谷端、7番SS山田、8番C長坂、9番DHは先発の今朝丸投手です。\n\n#hanshin #虎テレ #阪神タイガース",
+    "userName": "toratele",
+    "tweetUrl": "https://twitter.com/toratele/status/2058396570312130975",
+    "createdAt": "May 24, 2026 at 12:56PM"
+  },
+  {
+    "text": "谷端と中川が入らないことを喜ぶべきなのか、悲しむべきなのか。この感情をどう処理したら良いのかわからない。 https://t.co/SQnP8SLHNY",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2058400629228445800",
+    "createdAt": "May 24, 2026 at 01:12PM"
+  },
+  {
+    "text": "【交換】ファームTORACOデー　うちわ　　シークレット交換　\n\n譲：うちわ→谷端、早瀬\n         アクスタ→門別、大山2(グルメ)\n         オーロラキーホルダー→下村\n        \n求：うちわ→立石\n         山田なんでも可\n　　☆定価　大山無償お譲り可\n\n　　本日SGLいます",
+    "userName": "sakuranboa_a",
+    "tweetUrl": "https://twitter.com/sakuranboa_a/status/2058404416181752045",
+    "createdAt": "May 24, 2026 at 01:27PM"
+  },
+  {
+    "text": "谷端惜しい",
+    "userName": "worldend0112",
+    "tweetUrl": "https://twitter.com/worldend0112/status/2058405029061738709",
+    "createdAt": "May 24, 2026 at 01:29PM"
+  },
+  {
+    "text": "２回裏\n\n前川　空三振　●\n小野寺　ニゴ　●●\n谷端　左飛　●●●\n\n阪神０－０オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2058405104064331799",
+    "createdAt": "May 24, 2026 at 01:29PM"
+  },
+  {
+    "text": "ファーム TORACO うちわ 入場特典 交換\n\n【譲】谷端\n\n【求】岡城 平田監督\n\n本日SGLにて交換希望です\n検索からでもお気軽にお声掛けください",
+    "userName": "tigerkotone0313",
+    "tweetUrl": "https://twitter.com/tigerkotone0313/status/2058406642090397827",
+    "createdAt": "May 24, 2026 at 01:36PM"
+  },
+  {
+    "text": "ファーム TORACO 入場限定 うちわ\n\n譲 平田\n求 谷端＞立石\n\nただいまSGLにいます。\nお気軽にお声掛けください！！",
+    "userName": "yn_tk_51m",
+    "tweetUrl": "https://twitter.com/yn_tk_51m/status/2058410246037733661",
+    "createdAt": "May 24, 2026 at 01:50PM"
+  },
+  {
+    "text": "暖ナイスバッティング！！\n谷端くんいけええええええええ",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2058413162584736060",
+    "createdAt": "May 24, 2026 at 02:01PM"
+  },
+  {
+    "text": "３回裏\n\n山田　遊ゴ　●\n長坂　四球　●①\n今朝丸　三　バ三振💦　●●①\n百﨑　左安👍　●●①②\n井坪　中❷適２安💕　●●②\n佐野　中適安💕　●●①\n前川　右安👍　●●①③\n小野寺　左適安💕　●●①②\n谷端　三ゴ　●●●\n\n阪神４－２オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2058413168217805093",
+    "createdAt": "May 24, 2026 at 02:01PM"
+  },
+  {
+    "text": "@yn_tk_51m 検索から失礼します\n谷端と交換希望です\n\n私もSGLにいます",
+    "userName": "risa0731risa",
+    "tweetUrl": "https://twitter.com/risa0731risa/status/2058414035373379842",
+    "createdAt": "May 24, 2026 at 02:05PM"
+  },
+  {
+    "text": "【交換】SGL タイガース TORACO シークレット\n【譲】\nタオルキーホルダー:谷端、早瀬、岡城、百崎\nオイル缶バッジ:岡城、能登\n【求】\n全て山田\n\nタオルキーホルダー買取可能です。\n※敬称略。\n※本日SGL参戦です。\n※甲子園でも交換可\n\n検索からでもお声かけください。 https://t.co/FIwNUY3RhB",
+    "userName": "yuzukumakoko_4",
+    "tweetUrl": "https://twitter.com/yuzukumakoko_4/status/2058414203820736582",
+    "createdAt": "May 24, 2026 at 02:06PM"
+  },
+  {
+    "text": "ファームTORACO シークレット グッズ\n\n・選手ミニタオル\n譲 谷端 岡城 早瀬\n\n・オーロラキーホルダー\n譲 岡城 町田×3 能登×2\n\n・ワイヤーキーホルダー、アクスタ\n譲 早瀬\n\n・タオルキーホルダー\n譲 能登\n\n求 下村(異種可能)、定価\n\n5/24 SGLで交換可能。ご連絡お待ちしてます！",
+    "userName": "yuuuu68xx",
+    "tweetUrl": "https://twitter.com/yuuuu68xx/status/2058415486199902293",
+    "createdAt": "May 24, 2026 at 02:11PM"
+  },
+  {
+    "text": "5️⃣の谷端さん懐かしすぎる🥹\n日大ユニ姿が恋しいよ、、今もめちゃかっこええけど！ https://t.co/wYG9zYgi6p",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2058415786457542819",
+    "createdAt": "May 24, 2026 at 02:12PM"
+  },
+  {
+    "text": "５回裏\n\n佐野　ニ飛　●\n前川　三邪飛　●●\n小野寺　中安👍　●●①\n谷端　左飛　●●●\n\n阪神５－３オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2058422462376010179",
+    "createdAt": "May 24, 2026 at 02:38PM"
+  },
+  {
+    "text": "ここに名前を書いてる谷端将伍はうちの谷端くんか https://t.co/ZP8gaXKW0m",
+    "userName": "Accel0512",
+    "tweetUrl": "https://twitter.com/Accel0512/status/2058423557349351662",
+    "createdAt": "May 24, 2026 at 02:43PM"
+  },
+  {
+    "text": "阪神タイガース\nファームTORACOグッズ交換\nアクリルスタンド\n\n【譲】谷端\n\n【求】定価買取\n\n本日、SGLでのお取引希望。",
+    "userName": "5trhki___",
+    "tweetUrl": "https://twitter.com/5trhki___/status/2058425611631440058",
+    "createdAt": "May 24, 2026 at 02:51PM"
+  },
+  {
+    "text": "阪神タイガースSGLファームTORACOデー\nグッズ交換（※敬称略）\n\n【譲】オーロラキーホルダー 谷端\n        ワイヤー2連キーホルダー 門別\n【求】早瀬\n\n本日SGLいないため、後日SGL甲子園（または梅田or三宮）にてリプまたはｄｍお願いします。\n\n#阪神タイガース交換 #TORACOデー交換 #TORACOデー",
+    "userName": "B8N8dhZ4rgE70ia",
+    "tweetUrl": "https://twitter.com/B8N8dhZ4rgE70ia/status/2058427666529964254",
+    "createdAt": "May 24, 2026 at 02:59PM"
+  },
+  {
+    "text": "@tigerkotone0313 はじめまして！岡城くん所持しているのですが谷端くんと交換可能でしょうか？",
+    "userName": "ydhn_mmng",
+    "tweetUrl": "https://twitter.com/ydhn_mmng/status/2058429967713853912",
+    "createdAt": "May 24, 2026 at 03:08PM"
+  },
+  {
+    "text": "ファーム TORACO うちわ 入場特典 交換\n\n【譲】能登、谷端\n\n【求】平田監督\n\n本日SGLにて交換希望です。\n検索からでもお気軽にお声掛けください",
+    "userName": "5trhki___",
+    "tweetUrl": "https://twitter.com/5trhki___/status/2058430370752901557",
+    "createdAt": "May 24, 2026 at 03:10PM"
+  },
+  {
+    "text": "谷端くんのゴロで\n７点目！！！！！！！！！！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2058432997578457473",
+    "createdAt": "May 24, 2026 at 03:20PM"
+  },
+  {
+    "text": "谷端くん！！！！\n盗塁成功！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2058433088112541916",
+    "createdAt": "May 24, 2026 at 03:21PM"
+  },
+  {
+    "text": "谷端ライトゴロ？不運やねぇ\n映像見たいな",
+    "userName": "ss263127",
+    "tweetUrl": "https://twitter.com/ss263127/status/2058433255494615205",
+    "createdAt": "May 24, 2026 at 03:21PM"
+  },
+  {
+    "text": "【ファーム】阪神7-3オリックス\n7回裏　追加点を積み上げてるで！\n投手:高谷\n打者:谷端\n結果:ライトゴロ、佐野はホームイン！\n【公式モバイルサイトで実況速報中!】\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2058433371882377410",
+    "createdAt": "May 24, 2026 at 03:22PM"
+  },
+  {
+    "text": "谷端ライトゴロ草",
+    "userName": "TKONTHEWAVE",
+    "tweetUrl": "https://twitter.com/TKONTHEWAVE/status/2058433574169378901",
+    "createdAt": "May 24, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端はヒット1本損したってこと？",
+    "userName": "wm86j0",
+    "tweetUrl": "https://twitter.com/wm86j0/status/2058433588203594152",
+    "createdAt": "May 24, 2026 at 03:23PM"
+  },
+  {
+    "text": "７回裏　捕：堀\n\n佐野　遊内安👍　①\n前川　右飛　●①\n小野寺　中安👍　●①③\n谷端　右ゴ❶💕　●●①\n山田　谷端盗塁成功　●●②\n　　　一邪飛　●●●\n\n阪神７－３オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2058433729073418719",
+    "createdAt": "May 24, 2026 at 03:23PM"
+  },
+  {
+    "text": "谷端最低限わず",
+    "userName": "him1413",
+    "tweetUrl": "https://twitter.com/him1413/status/2058434113636565388",
+    "createdAt": "May 24, 2026 at 03:25PM"
+  },
+  {
+    "text": "谷端ライトゴロの間に阪神1点をあげる。\n\nライトゴロ！？",
+    "userName": "bonbonnakabon",
+    "tweetUrl": "https://twitter.com/bonbonnakabon/status/2058434381044412824",
+    "createdAt": "May 24, 2026 at 03:26PM"
+  },
+  {
+    "text": "2軍で谷端がタイムリーライトゴロ打ってて草",
+    "userName": "homurasubkami",
+    "tweetUrl": "https://twitter.com/homurasubkami/status/2058434426397438252",
+    "createdAt": "May 24, 2026 at 03:26PM"
+  },
+  {
+    "text": "阪神タイガース ファーム TORACO うちわ 交換してください\n譲：岡城　早瀬\n求：立石　谷端　平田監督\n試合後ショップ近くにいますので\nお気軽にお声掛けください https://t.co/qAay6KRsc0",
+    "userName": "moominalone",
+    "tweetUrl": "https://twitter.com/moominalone/status/2058434854153511387",
+    "createdAt": "May 24, 2026 at 03:28PM"
+  },
+  {
+    "text": "@sasami_Chirifu 谷端だった",
+    "userName": "summer_beat",
+    "tweetUrl": "https://twitter.com/summer_beat/status/2058436261212525002",
+    "createdAt": "May 24, 2026 at 03:33PM"
+  },
+  {
+    "text": "阪神は谷端、岡城、山田脩也もいるからな",
+    "userName": "giants64385",
+    "tweetUrl": "https://twitter.com/giants64385/status/2058437484359680331",
+    "createdAt": "May 24, 2026 at 03:38PM"
+  },
+  {
+    "text": "立石正広がホームラン打った頃、二軍で谷端将伍は外野ゴロで打点１を記録していた",
+    "userName": "aknmraoinsk",
+    "tweetUrl": "https://twitter.com/aknmraoinsk/status/2058443330950939105",
+    "createdAt": "May 24, 2026 at 04:01PM"
+  },
+  {
+    "text": "ディベイニーは二軍の内野手で谷端の次に打ってないのにスタメンなんてあるわけがない\n木浪は一軍で平均くらい打ってるんだから比較するのも烏滸がましい",
+    "userName": "BPSchYSFbtMDnlz",
+    "tweetUrl": "https://twitter.com/BPSchYSFbtMDnlz/status/2058445170178420975",
+    "createdAt": "May 24, 2026 at 04:09PM"
+  },
+  {
+    "text": "@ydhn_mmng 検索より失礼いたします\n当方谷端選手を所持しているのですが岡城選手との交換可能でしょうか？",
+    "userName": "tigerkotone0313",
+    "tweetUrl": "https://twitter.com/tigerkotone0313/status/2058447867896029469",
+    "createdAt": "May 24, 2026 at 04:19PM"
+  },
+  {
+    "text": "@moominalone 検索より失礼いたします\n当方谷端選手所持しているのですが、岡城選手との交換可能でしょうか？",
+    "userName": "tigerkotone0313",
+    "tweetUrl": "https://twitter.com/tigerkotone0313/status/2058450310923006079",
+    "createdAt": "May 24, 2026 at 04:29PM"
+  },
+  {
+    "text": "セカンドとして使う場合なら\n現時点でも\n山田脩也＞＞＞＞＞＞＞＞＞＞＞＞谷端だろう",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2058459909310779569",
+    "createdAt": "May 24, 2026 at 05:07PM"
+  },
+  {
+    "text": "それにしても\n谷端も大誤算だな",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2058460417228501220",
+    "createdAt": "May 24, 2026 at 05:09PM"
+  },
+  {
+    "text": "@asarisea 岡城の初ヒットに続いてでまじで嬉しい\n\nあとは谷端と別枠で椎葉工藤の初勝利",
+    "userName": "gudedora",
+    "tweetUrl": "https://twitter.com/gudedora/status/2058469799970402811",
+    "createdAt": "May 24, 2026 at 05:46PM"
+  },
+  {
+    "text": "@nWoCnESN4O53765 あーぁおわったな\n谷端とかほしかった",
+    "userName": "bs165767912",
+    "tweetUrl": "https://twitter.com/bs165767912/status/2058478877639676383",
+    "createdAt": "May 24, 2026 at 06:23PM"
+  },
+  {
+    "text": "立石選手すごいね。\nなんなら谷端選手のほうが先に出てくるとまで思ってました。ジジイの眼はダメだ😇",
+    "userName": "831poo",
+    "tweetUrl": "https://twitter.com/831poo/status/2058481949011059057",
+    "createdAt": "May 24, 2026 at 06:35PM"
+  },
+  {
+    "text": "谷端くんがbigfumiさんのTrust使ってて嬉しかった、涙",
+    "userName": "nattu_kanayan",
+    "tweetUrl": "https://twitter.com/nattu_kanayan/status/2058488921156468753",
+    "createdAt": "May 24, 2026 at 07:02PM"
+  },
+  {
+    "text": "1位竹丸の何がそんなに嫌なのかわからんのよなあ\n1位使わないとそうそう埋まらない補強ポイントであることに変わりはないし\n\n1位　竹丸\n2位　谷端or髙橋\n3位　山城\n4位　皆川\n5位　小濱\n6位　藤井\n\nこれで普通にファン大満足のドラフトだと思うんだけど #giants https://t.co/T5FPkiOP56",
+    "userName": "alexandro_nara",
+    "tweetUrl": "https://twitter.com/alexandro_nara/status/2058490387271188798",
+    "createdAt": "May 24, 2026 at 07:08PM"
+  },
+  {
+    "text": "ファームTORACO\nうちわは私も娘も谷端くんやったんですが今日グッズ交換した方に岡城くんと交換していただきました😊ありがとうございます！\nそしてTORACOグルメのアクスタはきなみんでした😆 https://t.co/LfwUiHnKJW",
+    "userName": "torato_neco",
+    "tweetUrl": "https://twitter.com/torato_neco/status/2058499537984278947",
+    "createdAt": "May 24, 2026 at 07:45PM"
+  },
+  {
+    "text": "岩崎岩貞西伊原下村椎葉伊藤今朝丸髙橋門別才木畠及川村上ルーカス早瀬ラグズデール桐敷茨木工藤富田早川木下能登石黒岡留湯浅津田石井ドリスモレッタ小川松原伊藤神宮マルティネス梅野坂本伏見榮枝町田長坂藤田中川嶋村元山木浪大山熊谷中野佐藤立石ディベイニー谷端糸原小ワイお前ら「大竹すげえ…」 https://t.co/CZ98VzZeX1",
+    "userName": "s_omaenandayo",
+    "tweetUrl": "https://twitter.com/s_omaenandayo/status/2058502504481247571",
+    "createdAt": "May 24, 2026 at 07:56PM"
+  },
+  {
+    "text": "阪神ファンの皆様、谷端将伍のことももう少し思い出してあげてください・・・",
+    "userName": "nirubed",
+    "tweetUrl": "https://twitter.com/nirubed/status/2058515816703049873",
+    "createdAt": "May 24, 2026 at 08:49PM"
+  },
+  {
+    "text": "阪神タイガース　TORACO シークレットワイヤー2連キーホルダー　交換　買取\n\n【譲】　谷端将伍選手、岡城快生選手\n\n【求】　百﨑蒼生選手　or 買取\n\n郵送での交換可能な方\nもしくはSGL.甲子園で取引可能な方いらっしゃいましたらご連絡ください。 https://t.co/y7CB7SGMdH",
+    "userName": "6mxg_tigers",
+    "tweetUrl": "https://twitter.com/6mxg_tigers/status/2058517260810207717",
+    "createdAt": "May 24, 2026 at 08:55PM"
+  },
+  {
+    "text": "【交換】SGL タイガース TORACO シークレット\n【譲】\nタオルキーホルダー:谷端、早瀬、岡城、百崎\nオイル缶バッジ:岡城、能登\n【求】\n定価\n\n※敬称略。\n※甲子園やSGL参戦時交換可\n\n検索からでもお声かけください。 https://t.co/Sfqk6IfZbv",
+    "userName": "yuzukumakoko_4",
+    "tweetUrl": "https://twitter.com/yuzukumakoko_4/status/2058527445289185738",
+    "createdAt": "May 24, 2026 at 09:36PM"
+  },
+  {
+    "text": "1、３塁については兼任みたい感じが多い\n大山の後が前川であとは内野あふれた戸井や佐野、育成外国人が守っていたりする\n３塁は佐藤輝の次が外野兼任立石、二塁兼任谷端、二塁兼任百崎と他のポジションも見据えた選手が多い\n特に１塁はDHと佐藤輝メジャーを見据えたら長打専1人いてもよいと思うが",
+    "userName": "15draft",
+    "tweetUrl": "https://twitter.com/15draft/status/2058530316185395365",
+    "createdAt": "May 24, 2026 at 09:47PM"
+  },
+  {
+    "text": "下で悩める谷端くん\nもしかしたら上にあげて先輩方から教わったらなにかコツ掴むかもしれんと思ってる！",
+    "userName": "Hanshintaiki8",
+    "tweetUrl": "https://twitter.com/Hanshintaiki8/status/2058532924744732894",
+    "createdAt": "May 24, 2026 at 09:57PM"
+  },
+  {
+    "text": "竹丸は理解できるし竹丸取ったことで5個勝ちが増えたとも言える\nただ、2位以降が話にならない、谷端や岡城がいたにも関わらず田和と山城を取ってきた\n皆川が残ってたのは奇跡でいなかったらどうなってたか\n中山の覚醒があったから？\n俺ならサードに戻しても良いとまで思ってる\nどちらにせよ今年は野手",
+    "userName": "norichanfromja2",
+    "tweetUrl": "https://twitter.com/norichanfromja2/status/2058538310889550275",
+    "createdAt": "May 24, 2026 at 10:19PM"
+  },
+  {
+    "text": "次回の甲子園で立石のユニ買おかな……あと03世代全員のタオルもか笑\n立石、谷端、岡城、神宮\n（右京）、中川、嶋村、（町田）",
+    "userName": "Tg_ken15",
+    "tweetUrl": "https://twitter.com/Tg_ken15/status/2058545410495697317",
+    "createdAt": "May 24, 2026 at 10:47PM"
+  },
+  {
+    "text": "谷端はもう少し時間かかりそうなのかな",
+    "userName": "okapool",
+    "tweetUrl": "https://twitter.com/okapool/status/2058552923878203800",
+    "createdAt": "May 24, 2026 at 11:17PM"
+  },
+  {
+    "text": "てか立石の裏で谷端が掠りもしてないのグロいな\nまあまだ100打席ちょいだけど",
+    "userName": "14yua29",
+    "tweetUrl": "https://twitter.com/14yua29/status/2058558797892014338",
+    "createdAt": "May 24, 2026 at 11:40PM"
+  },
+  {
+    "text": "５／２４　ゼロカーボン\n試合入り\n＃百﨑蒼生\n＃山崎憲晴\n＃平田勝男\n＃谷端将伍 https://t.co/MoW71oJYRT",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://twitter.com/057JKotf55lrGVv/status/2058570235712827646",
+    "createdAt": "May 25, 2026 at 12:26AM"
   }
 ]
