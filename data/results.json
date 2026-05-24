@@ -1,300 +1,159 @@
 {
-  "last_updated": "2026-05-24",
-  "spring_training": {
-    "summary": {
-      "games": 6,
-      "pa": 2,
-      "ab": 17,
-      "h": 2,
-      "double": 0,
-      "triple": 2,
-      "hr": 0,
-      "rbi": 1,
-      "runs": 0,
-      "sb": 0,
-      "bb": 0,
-      "hbp": 0,
-      "xbh": 4,
-      "sh": 0,
-      "sf": 0,
-      "avg": ".118",
-      "obp": ".000",
-      "slg": ".000",
-      "ops": ".000"
+  "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
+  "fetchedAt": "2026-05-24T16:11:27.746Z",
+  "lastUpdated": "2026-05-25",
+  "farmSummary": {
+    "raw": {
+      "打率": ".182",
+      "試合": "36",
+      "打席": "125",
+      "打数": "110",
+      "安打": "20",
+      "二塁打": "6",
+      "三塁打": "0",
+      "本塁打": "0",
+      "塁打": "26",
+      "打点": "13",
+      "得点": "10",
+      "三振": "16",
+      "四球": "9",
+      "死球": "3",
+      "犠打": "2",
+      "犠飛": "1",
+      "盗塁": "1",
+      "盗塁死": "0",
+      "併殺打": "2",
+      "出塁率": ".260",
+      "長打率": ".236",
+      "OPS": ".497",
+      "得点圏": ".290",
+      "失策": "3"
     },
-    "games": [
+    "display": [
       {
-        "date": "2026-05-24",
-        "opponent": "オリックス",
-        "pa": 0,
-        "ab": 4,
-        "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 1,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
+        "label": "打率",
+        "value": ".182"
       },
       {
-        "date": "2026-05-22",
-        "opponent": "オリックス",
-        "pa": 0,
-        "ab": 3,
-        "h": 0,
-        "xbh": 3,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
+        "label": "安打数",
+        "value": "20"
       },
       {
-        "date": "2026-05-21",
-        "opponent": "ソフトバンク",
-        "pa": 0,
-        "ab": 4,
-        "h": 2,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
+        "label": "打点",
+        "value": "13"
       },
       {
-        "date": "2026-05-20",
-        "opponent": "ソフトバンク",
-        "pa": 0,
-        "ab": 0,
-        "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
+        "label": "長打",
+        "value": "6"
       },
       {
-        "date": "2026-05-19",
-        "opponent": "ソフトバンク",
-        "pa": 0,
-        "ab": 1,
-        "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
+        "label": "四球",
+        "value": "9"
       },
       {
-        "date": "2026-05-17",
-        "opponent": "広島",
-        "pa": 0,
-        "ab": 5,
-        "h": 0,
-        "xbh": 1,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
+        "label": "盗塁",
+        "value": "1"
+      },
+      {
+        "label": "出塁率",
+        "value": ".260"
+      },
+      {
+        "label": "得点圏",
+        "value": ".290"
       }
     ]
   },
-  "regular_season": {
-    "summary": {
-      "games": 6,
-      "pa": 2,
-      "ab": 17,
-      "h": 2,
-      "double": 0,
-      "triple": 2,
-      "hr": 0,
-      "rbi": 1,
-      "runs": 0,
-      "sb": 0,
-      "bb": 0,
-      "hbp": 0,
-      "xbh": 4,
-      "sh": 0,
-      "sf": 0,
-      "avg": ".118",
-      "obp": ".000",
-      "slg": ".000",
-      "ops": ".000",
-      "risp": ".000",
-      "gidp": 0
+  "recentGames": [
+    {
+      "date": "5/24",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "オリックス",
+      "atBats": "4",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "1",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "中飛、三ゴロ、左飛、右ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040540/top"
     },
-    "games": [
-      {
-        "date": "2026-05-24",
-        "opponent": "オリックス",
-        "pa": 0,
-        "ab": 4,
-        "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 1,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-05-22",
-        "opponent": "オリックス",
-        "pa": 0,
-        "ab": 3,
-        "h": 0,
-        "xbh": 3,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-05-21",
-        "opponent": "ソフトバンク",
-        "pa": 0,
-        "ab": 4,
-        "h": 2,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-05-20",
-        "opponent": "ソフトバンク",
-        "pa": 0,
-        "ab": 0,
-        "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-05-19",
-        "opponent": "ソフトバンク",
-        "pa": 0,
-        "ab": 1,
-        "h": 0,
-        "xbh": 0,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      },
-      {
-        "date": "2026-05-17",
-        "opponent": "広島",
-        "pa": 0,
-        "ab": 5,
-        "h": 0,
-        "xbh": 1,
-        "hr": 0,
-        "rbi": 0,
-        "bb": 0,
-        "sb": 0,
-        "result": null,
-        "score_us": null,
-        "score_them": null
-      }
-    ],
-    "heatmap": [
-      {
-        "zone": "高め内角",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "高め中",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "高め外角",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "中内角",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "中",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "中外角",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "低め内角",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "低め中",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      },
-      {
-        "zone": "低め外角",
-        "avg": ".000",
-        "h": 0,
-        "ab": 0,
-        "bb_hbp": 0
-      }
-    ]
-  }
+    {
+      "date": "5/22",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "オリックス",
+      "atBats": "3",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "3",
+      "walks": "0",
+      "hitByPitch": "1",
+      "battingResults": "死球、空三振、空三振、空三振",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040526/top"
+    },
+    {
+      "date": "5/21",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "4",
+      "hits": "2",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "1",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "左飛、左安、中２、一ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040520/top"
+    },
+    {
+      "date": "5/20",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040518/top"
+    },
+    {
+      "date": "5/19",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "1",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "三ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040516/top"
+    },
+    {
+      "date": "5/17",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "広島",
+      "atBats": "5",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "1",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "右飛、遊ゴロ、遊失、右飛、空三振",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040514/top"
+    }
+  ]
 }
