@@ -8188,5 +8188,53 @@
     "userName": "akishima_y_P",
     "tweetUrl": "https://twitter.com/akishima_y_P/status/2058944565558776055",
     "createdAt": "May 26, 2026 at 01:13AM"
+  },
+  {
+    "text": "阪神タイガースSGLファームTORACOデー\nグッズ交換（※敬称略）\n\n【譲】オーロラキーホルダー 谷端\n        ワイヤー2連キーホルダー 門別\n【求】早瀬\n\n本日SGL現地でのお取引、または後日甲子園にて。リプまたはｄｍお願いします。\n\n#阪神タイガース交換 #TORACOデー交換 #TORACOデー",
+    "userName": "B8N8dhZ4rgE70ia",
+    "tweetUrl": "https://twitter.com/B8N8dhZ4rgE70ia/status/2059070413091819728",
+    "createdAt": "May 26, 2026 at 09:33AM"
+  },
+  {
+    "text": "SGL｜2026.05.23\n\n無理やり座りに行く🍑\nちょっと詰めてあげて😂\n\n#百﨑蒼生 選手\n#山田脩也 選手\n#戸井零士 選手\n#谷端将伍 選手 https://t.co/KI0uRvmrMa",
+    "userName": "tigers_59_",
+    "tweetUrl": "https://twitter.com/tigers_59_/status/2059155110606098659",
+    "createdAt": "May 26, 2026 at 03:10PM"
+  },
+  {
+    "text": "水も滴る良いパンダ🐼 (大洪水)\n#登板前のアップ\n#阪神園芸さん整備中\n\nこれは…熱血タイガース党のことですよね？\n\n谷端選手(犯人断定)\n一体ナニしたんですか💧\n\n#早瀬朔 投手\n2026.05.24 @ SGL https://t.co/7J4469xNhn",
+    "userName": "vertical_st",
+    "tweetUrl": "https://twitter.com/vertical_st/status/2059159672364703923",
+    "createdAt": "May 26, 2026 at 03:28PM"
+  },
+  {
+    "text": "SGLファームTORACOデーグッズ交換\n\n【譲】ミニタオル門別/タオルキーホルダー百﨑\n　　アクリルスタンド立石/缶バッジ谷端\n　　オーロラキーホルダー百﨑\n　　ワイヤー2連キーホルダー今朝丸\n【求】早瀬\n\n本日SGLでお取引、後日甲子園にて\nリプｄｍお願いします\n\n#阪神タイガース交換 #TORACOデー交換",
+    "userName": "B8N8dhZ4rgE70ia",
+    "tweetUrl": "https://twitter.com/B8N8dhZ4rgE70ia/status/2059187671151607990",
+    "createdAt": "May 26, 2026 at 05:19PM"
+  },
+  {
+    "text": "@ SGLファームTORACOデーグッズ交換\n\n【譲】ミニタオル門別/タオルキーホルダー百﨑\n　　アクリルスタンド立石/缶バッジ谷端\n　　オーロラキーホルダー百﨑\n　　ワイヤー2連キーホルダー今朝丸\n【求】早瀬\n\n本日SGLでお取引、後日甲子園\nリプｄｍお願いします。\n\n#阪神タイガース交換 #TORACOデー交換",
+    "userName": "B8N8dhZ4rgE70ia",
+    "tweetUrl": "https://twitter.com/B8N8dhZ4rgE70ia/status/2059204049011106019",
+    "createdAt": "May 26, 2026 at 06:24PM"
+  },
+  {
+    "text": "現存だと神田川ですけど、暗渠だと谷端川があったはずです。 https://t.co/91Av9J66GQ",
+    "userName": "gejimayuoyaji",
+    "tweetUrl": "https://twitter.com/gejimayuoyaji/status/2059275076185600270",
+    "createdAt": "May 26, 2026 at 11:06PM"
+  },
+  {
+    "text": "@rtepn_7136 阪神では現役なら近本と大学の先輩なので谷端とか！\nOBなら藤川と赤星、鳥谷かな！",
+    "userName": "UM32964",
+    "tweetUrl": "https://twitter.com/UM32964/status/2059288641416147155",
+    "createdAt": "May 27, 2026 at 12:00AM"
+  },
+  {
+    "text": "阪神グッズ交換　\nSGL限定ガチャ　アクリルスタンド\n\n譲：岡城・井坪\n求：立石・谷端・下村\n\n#阪神タイガース\n#阪神グッズ交換\n#SGL\n#グッズ交換 https://t.co/ry7xcVGcT5",
+    "userName": "R41jVO2Szb2128",
+    "tweetUrl": "https://twitter.com/R41jVO2Szb2128/status/2059304353589280770",
+    "createdAt": "May 27, 2026 at 01:03AM"
   }
 ]
