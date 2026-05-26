@@ -2350,5 +2350,13 @@
     "publishedAt": "May 24, 2026 at 10:53PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "グランド整備中のキャッチボール 西純矢選手 谷端将伍選手 町田隼乙選手 アルナエス選手 島田海吏選手  #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-rFiI3obW9M",
+    "publishedAt": "May 26, 2026 at 11:09PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
