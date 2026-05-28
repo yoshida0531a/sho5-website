@@ -8410,5 +8410,107 @@
     "userName": "kslypntsws9",
     "tweetUrl": "https://twitter.com/kslypntsws9/status/2059654114745958708",
     "createdAt": "May 28, 2026 at 12:13AM"
+  },
+  {
+    "text": "5/27（水）試合後のカツオさん語録要約📝\n\n・マルティネスはここの所ずっと粘って頑張ってる\n・親子ゲームの4選手は実戦勘を養えた\n・榮枝裕貴はリードも工夫してた\n・2失策の谷端将伍は次に活かしてくれれば\n・菅井信也は西地区にいない投手。攻略には工夫していかなきゃ\n\nhttps://t.co/fAy4RSK9KF",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2059740854450012433",
+    "createdAt": "May 28, 2026 at 05:57AM"
+  },
+  {
+    "text": "立石谷端岡城 https://t.co/PIVHdErLvr",
+    "userName": "kkkkkaa00",
+    "tweetUrl": "https://twitter.com/kkkkkaa00/status/2059783443924591010",
+    "createdAt": "May 28, 2026 at 08:46AM"
+  },
+  {
+    "text": "📝茨木、津田、町田、谷端、佐野、岡城📝\n\n【記事全文】阪神からは6選手が推薦名簿入り!7月27日新潟開催のフレッシュオールスター - スポニチ Sponichi Annex 野球 https://t.co/EJrRWP3ASL",
+    "userName": "yucari103",
+    "tweetUrl": "https://twitter.com/yucari103/status/2059794833448046977",
+    "createdAt": "May 28, 2026 at 09:32AM"
+  },
+  {
+    "text": "フレオル谷端さん出るなら絶対行く！\n絶対行きたい😤💨しかも思い出のエコスタだもん！！！！！",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2059814378661412970",
+    "createdAt": "May 28, 2026 at 10:49AM"
+  },
+  {
+    "text": "最近谷端さんスタメン少なくない？\n明日から帯同するよね？？？",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2059838580462428588",
+    "createdAt": "May 28, 2026 at 12:26PM"
+  },
+  {
+    "text": "＞阪神からは新潟・帝京長岡出身の茨木を筆頭に、津田、町田、谷端、佐野、岡城の6選手が推薦名簿に入った。\n#阪神タイガース\n【記事全文】阪神からは6選手が推薦名簿入り!7月27日新潟開催のフレッシュオールスター - スポニチ Sponichi Annex 野球 https://t.co/cgiWykARv3",
+    "userName": "asayanee",
+    "tweetUrl": "https://twitter.com/asayanee/status/2059880173546402102",
+    "createdAt": "May 28, 2026 at 03:11PM"
+  },
+  {
+    "text": "あ、やっぱり中川くん一打席だけやった💦\nでも代わりは榮枝くんじゃなくて谷端くんだ🤔",
+    "userName": "sio_seseri",
+    "tweetUrl": "https://twitter.com/sio_seseri/status/2059887128373608515",
+    "createdAt": "May 28, 2026 at 03:38PM"
+  },
+  {
+    "text": "７回裏\n\n代：谷端　左飛　●\n岡城　三ゴ　●●\n元山　左飛　●●●\n\n阪神１－５西武",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2059888159471931429",
+    "createdAt": "May 28, 2026 at 03:43PM"
+  },
+  {
+    "text": "あの2軍戦で\n川崎、島田、糸原がスタメンフルで出て\n中川、谷端が1打席だけなんですけど\nなんですかそれ？\nその5人で一軍戦力なりそうなのも下の2人やし、未来のこと考えても2人の育成、復調の方が大事じゃないか？",
+    "userName": "t20052023",
+    "tweetUrl": "https://twitter.com/t20052023/status/2059888856242245818",
+    "createdAt": "May 28, 2026 at 03:45PM"
+  },
+  {
+    "text": "阪神タイガース 二軍 TORACO グッズ交換\nシークレット ワイヤー2連キーホルダー\n\n譲  山田、谷端\n\n求 今朝丸 >下村 > 現金（1100）\n\n郵送になります。 現金交換の場合送料も込になります。\n\nお気軽にコメントください😊 https://t.co/nEn26dHMgH",
+    "userName": "Ryo______0325",
+    "tweetUrl": "https://twitter.com/Ryo______0325/status/2059894137860899123",
+    "createdAt": "May 28, 2026 at 04:06PM"
+  },
+  {
+    "text": "９回裏　投手：三浦大輝\n　　　　三：仲田　右：川田\n\n代：百﨑　左飛　●\n谷端　ニゴ　●●\n岡城　右飛　●●●\n\n阪神１－５西武\n\n試合終了\n\n早川がまた四球から崩れ５失点💦後に投げた小川と松原は良かった👍打撃陣は相変わらず後一本が出なかった💦",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2059898259292946616",
+    "createdAt": "May 28, 2026 at 04:23PM"
+  },
+  {
+    "text": "そういや谷端くんはどうしてるんだい？？？出てた？？？",
+    "userName": "naru972794",
+    "tweetUrl": "https://twitter.com/naru972794/status/2059898447738933364",
+    "createdAt": "May 28, 2026 at 04:23PM"
+  },
+  {
+    "text": "@hanshintigersjp ダーハマ（濱田）君、ファーム成績が良くなくてどした😅　谷端も、どした！",
+    "userName": "Vl3J71hF8o63006",
+    "tweetUrl": "https://twitter.com/Vl3J71hF8o63006/status/2059901547912613905",
+    "createdAt": "May 28, 2026 at 04:36PM"
+  },
+  {
+    "text": "外観を撮り忘れましたが、ご縁ごあって来ています🐯⚾️\n今日は3塁アルプス席で、レフトポールと日ハムのリリーフカーが出てくる場所のすぐ近くです\n今日は、日ハムファンの方と来ています🦊\n\n今は曇ってて過ごしやすいですが、雨☔が心配です😥\n\n＃阪神タイガース\n＃阪神甲子園球場\n＃谷端将伍 ユニ https://t.co/MnzZTdiQpj",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2059906596952846590",
+    "createdAt": "May 28, 2026 at 04:56PM"
+  },
+  {
+    "text": "今日食べに行ったお店に‼️\n谷端のサイン付きユニフォームあった😳 https://t.co/U0hTaNVGDz",
+    "userName": "nacchap_g",
+    "tweetUrl": "https://twitter.com/nacchap_g/status/2059978487570874809",
+    "createdAt": "May 28, 2026 at 09:41PM"
+  },
+  {
+    "text": "谷端くんとまちはいつも仲良しさん😺🫶🏻♥️ https://t.co/Xdu5PE5CSx",
+    "userName": "__h__tg",
+    "tweetUrl": "https://twitter.com/__h__tg/status/2059995752974450708",
+    "createdAt": "May 28, 2026 at 10:50PM"
+  },
+  {
+    "text": "もうちょい説明したい\nSS失格になった内野は打撃でコーナー狙うか走力/守備範囲でCF狙う(めっちゃ打てば両翼もあるかも)になるんだけど\n大概は守れなければ打ちも走りもしないし立石谷端や福島岡城が来てコンバートする道もほぼ塞がれた\n\n残念ながらほとんど二軍の内野を埋めてるだけのタイミーです https://t.co/YKqyWa85VV",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2059998409931772030",
+    "createdAt": "May 28, 2026 at 11:01PM"
   }
 ]
