@@ -2358,5 +2358,37 @@
     "publishedAt": "May 26, 2026 at 11:09PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【監督モード】阪神に現れた新戦力…谷端の初スタメンがヤバい #10【パワプロ2024-2025】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=lYXCWkzMtE8",
+    "publishedAt": "May 30, 2026 at 05:05PM",
+    "description": "阪神タイガースでペナントレース開幕！ 監督モードで日本一を目指します！ 阪神ファン・パワプロ好きの方は ぜひチャンネル ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍　１軍昇格は近い　ファーム(巨人-阪神)　ジャイアンツタウンスタジアム　2026.5.29",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=cZSQQyObUZ8",
+    "publishedAt": "May 30, 2026 at 10:20PM",
+    "description": "この日も好機でヒットを放つなど、ドラフト２位の谷端将伍は今すぐ１軍に昇格しても活躍するでしょう。気に入ったら、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍　近い将来 阪神の中心選手か　ファーム(巨人-阪神)　ジャイアンツタウンスタジアム　2026.5.29",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UwGB6K-256w",
+    "publishedAt": "May 30, 2026 at 10:29PM",
+    "description": "ドラフト１位立石正弘、ドラフト２位谷端将伍。近い将来、阪神の中心選手になるでしょう。気に入ったら、チャンネル登録を ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神対巨人　4回表　佐野大陽タイムリーヒット",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=BZLFkg_YMdY",
+    "publishedAt": "May 30, 2026 at 07:59PM",
+    "description": "2026/05/30 ジャイアンツタウンスタジアム 阪神対巨人 4回表 3番 谷端将伍 ツーベース 4番 前川右京 デッドボール 5番 糸原健斗 ...",
+    "keyword": "谷端 阪神"
   }
 ]
