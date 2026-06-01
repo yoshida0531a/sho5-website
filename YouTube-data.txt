@@ -2390,5 +2390,13 @@
     "publishedAt": "May 30, 2026 at 07:59PM",
     "description": "2026/05/30 ジャイアンツタウンスタジアム 阪神対巨人 4回表 3番 谷端将伍 ツーベース 4番 前川右京 デッドボール 5番 糸原健斗 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【TIGERS】 #谷端将伍 選手25のバッティング練習 #阪神 #タイガース #tigers #プロ野球 ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=fLkr0Sh2LXo",
+    "publishedAt": "June 1, 2026 at 10:10AM",
+    "description": "2026/5/29 #ジャイアンツタウンスタジアム #ファーム交流戦 巨人対阪神 #阪神タイガース #バッティング練習.",
+    "keyword": "谷端 阪神"
   }
 ]
