@@ -9316,5 +9316,197 @@
     "userName": "nakina_ya",
     "tweetUrl": "https://twitter.com/nakina_ya/status/2061167715361124478",
     "createdAt": "June 1, 2026 at 04:27AM"
+  },
+  {
+    "text": "ドラ1の小田 康一郎、ドラ2の谷端がops600切ってて、ホームランもゼロなのが意外すぎたな。どれだけメカニクスが洗練されていても　圧倒的なフィジカルがなければファームレベルでも長打打てない時代なのかもな。",
+    "userName": "KMWaVzbgSfaSH0A",
+    "tweetUrl": "https://twitter.com/KMWaVzbgSfaSH0A/status/2061220525633106004",
+    "createdAt": "June 1, 2026 at 07:57AM"
+  },
+  {
+    "text": "今朝丸も谷端も使命順位はわかるけど運用の仕方がなあ",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2061247373062586722",
+    "createdAt": "June 1, 2026 at 09:44AM"
+  },
+  {
+    "text": "谷端に関しては阪神入団してから好調な時期が存在したのでそこまでネガティブに捉える必要ないんじゃないかと思います https://t.co/DY9SMvYwR3",
+    "userName": "Koma_Report",
+    "tweetUrl": "https://twitter.com/Koma_Report/status/2061272576941539797",
+    "createdAt": "June 1, 2026 at 11:24AM"
+  },
+  {
+    "text": "2026.5.31   Gタウン\n#谷端将伍 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/27w56BJ0RV",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2061276843395985699",
+    "createdAt": "June 1, 2026 at 11:41AM"
+  },
+  {
+    "text": "チーム東都、塁上の再会はあったけどこうやって話してるのはこの3日間で初めて見た👀\n\n2026.5.31   Gタウン\n#谷端将伍 選手\n#阪神タイガース\n#皆川岳飛 選手\n#読売ジャイアンツ\n※本人以外の無断転載・使用禁止 https://t.co/UN9JpfJImk",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2061278145152684262",
+    "createdAt": "June 1, 2026 at 11:46AM"
+  },
+  {
+    "text": "本日の翔吾と将伍\n\n2026.5.31   Gタウン\n#谷端将伍 選手\n#阪神タイガース\n#浅野翔吾 選手\n#読売ジャイアンツ\n※本人以外の無断転載・使用禁止 https://t.co/jNTufIsrSW",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2061278804384104632",
+    "createdAt": "June 1, 2026 at 11:48AM"
+  },
+  {
+    "text": "惜しくもヒットにはならなかったけど、久々ミートの瞬間撮れたから記念に残しておこうかな笑\n\n2026.5.31   Gタウン\n#谷端将伍 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/agaaxx84bh",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2061279065894732129",
+    "createdAt": "June 1, 2026 at 11:50AM"
+  },
+  {
+    "text": "3試合連続でチーム星稜見せてくれてありがとう😭︎ ︎💫\n\n2026.5.31   Gタウン\n#谷端将伍 選手\n#阪神タイガース\n#山瀬慎之助 選手\n#読売ジャイアンツ\n#星稜\n※本人以外の無断転載・使用禁止 https://t.co/uy9V0Q55gS",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2061279805975515357",
+    "createdAt": "June 1, 2026 at 11:52AM"
+  },
+  {
+    "text": "3日間たくさんの幸せをありがとうございました！！また応援行きます❤️‍🔥\nはぁ〜ほんっとかっこよかった🥹💕\n\n2026.5.31   Gタウン\n#谷端将伍 選手\n#阪神タイガース\n※本人以外の無断転載・使用禁止 https://t.co/SLVxBQULtx",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2061280564829917219",
+    "createdAt": "June 1, 2026 at 11:55AM"
+  },
+  {
+    "text": "想像以上に谷端がやれてなくてヤバい https://t.co/uWNa6GUmwB",
+    "userName": "kanichi40",
+    "tweetUrl": "https://twitter.com/kanichi40/status/2061284943129645179",
+    "createdAt": "June 1, 2026 at 12:13PM"
+  },
+  {
+    "text": "谷端忘れてたごめんなチャイナ",
+    "userName": "A01157350A",
+    "tweetUrl": "https://twitter.com/A01157350A/status/2061288915500449879",
+    "createdAt": "June 1, 2026 at 12:29PM"
+  },
+  {
+    "text": "岡城、谷端、あと西純あたりはまあまだまだこれからやからいいよ\n百崎、前川、山田、佐野、井坪あたりのていたらくはなんなん https://t.co/Pf0SBV5QJx",
+    "userName": "eisyun_k",
+    "tweetUrl": "https://twitter.com/eisyun_k/status/2061291360016343359",
+    "createdAt": "June 1, 2026 at 12:38PM"
+  },
+  {
+    "text": "現状の谷端を見ると上がってきてはいるらしいけど数字としては厳しいよな\n立石外してたら多分小田、それも外したら1位が谷端だっただろうしそれを思うと怖い",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2061309865776329180",
+    "createdAt": "June 1, 2026 at 01:52PM"
+  },
+  {
+    "text": "2025年佐野の二軍出場数は\n2Bが329イニング、SSが179 2/3、次いで3Bが147 2/3\n山田と二軍のSS出場機会を分け合ってた、3B主戦になったのは今年からッスよ\n\n確かに阪神の3Bは渋かったが、前年に指名を決めていた立石に谷端を重ね、百崎も3Bメインになるチームで\n元から3Bにするつもりでしたは無理がある https://t.co/YsnedigXTa",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2061314923108729263",
+    "createdAt": "June 1, 2026 at 02:12PM"
+  },
+  {
+    "text": "@Og0238_0521 経緯わかってないねえ\nSS守ってた時期調べてみようねー\n\n指名決めていた笑\nだから立石、谷端取れる確証あるの？\n谷端ってあなたが言う棚ぼただよね？\nそこのリスクヘッジでしょ\n百崎の1年目見てた？かなり伸びたけど18.19に糸原の後釜背負わせるの？",
+    "userName": "basarakabuki",
+    "tweetUrl": "https://twitter.com/basarakabuki/status/2061315872401338775",
+    "createdAt": "June 1, 2026 at 02:16PM"
+  },
+  {
+    "text": "まぁ取れる確証はなかったし立石外したら1位が谷端になってたのかもわからない\n佐野の3Bがなにかの備えになってたというのも確かに正しいと思う\nただ百崎はチームトップの3B出場数なのが26年時点での序列では\n\n自分らで評価したのにチームの大穴のSSを失格にされた佐野がどうなってるかという話でして https://t.co/ovSIOvVnIS",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2061318333535023493",
+    "createdAt": "June 1, 2026 at 02:26PM"
+  },
+  {
+    "text": "@hamanokanata 1位2位野手もアリですね\n去年の立石、谷端重ねたノリに近い\n先発も竹田の良し悪し抜きにしても展望悪くない\nただ小田、度会には無い40本の可能性を考えると来年は真鍋かなと\n\nドラフトなんて半年前くらいまではわからないけど、真鍋は一つアマでも抜けてると思います。\n指名前の金丸、宗山クラス",
+    "userName": "Yokohama45De",
+    "tweetUrl": "https://twitter.com/Yokohama45De/status/2061326568396571060",
+    "createdAt": "June 1, 2026 at 02:58PM"
+  },
+  {
+    "text": "阪神ってドラフト1位を立石で\n取れたけど、もし外れてたら\nハズレ1位候補って誰やったん？\n谷端を1位で取ってたら確実に詰んでたよな https://t.co/49aBevF9jw",
+    "userName": "ROCK__WA917",
+    "tweetUrl": "https://twitter.com/ROCK__WA917/status/2061347009429373363",
+    "createdAt": "June 1, 2026 at 04:19PM"
+  },
+  {
+    "text": "要するに体を鍛えろってことだよ谷端くん https://t.co/ymSgP6KFZp",
+    "userName": "trashin334",
+    "tweetUrl": "https://twitter.com/trashin334/status/2061347534241780058",
+    "createdAt": "June 1, 2026 at 04:22PM"
+  },
+  {
+    "text": "@KMWaVzbgSfaSH0A 谷端はタイミングを取るのが遅いんでずっと慌てて打ってますね。アマのピッチャーみたいに同じリズムで投げてくれないんで",
+    "userName": "zetuyuru7",
+    "tweetUrl": "https://twitter.com/zetuyuru7/status/2061348228868796679",
+    "createdAt": "June 1, 2026 at 04:24PM"
+  },
+  {
+    "text": "体鍛えようか谷端くん https://t.co/KFBSlMY7KV",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2061359463656009930",
+    "createdAt": "June 1, 2026 at 05:09PM"
+  },
+  {
+    "text": "花田もいい選手だと思うけど流石に打撃で花田>谷端は結論急ぎすぎや\nまだ5月やぞ",
+    "userName": "6Mn6e6",
+    "tweetUrl": "https://twitter.com/6Mn6e6/status/2061365800880283734",
+    "createdAt": "June 1, 2026 at 05:34PM"
+  },
+  {
+    "text": "@TKONTHEWAVE 個人的には、中川が復帰すればだいぶ見るモチベ上がります\n岡城谷端中川前川あたりの03野手がもっと上がってくれば面白いんですがね〜\n(あとスタメン見てDH投手だとかなり萎える)",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2061387208049983656",
+    "createdAt": "June 1, 2026 at 06:59PM"
+  },
+  {
+    "text": "@wNzfdceE 中川はそろそろでしょうね、しばらく下でも打撃崩れてたのでコン不だったんでしょうか\n谷端もめちゃ期待してるんで一軍の景色見るフェーズまで到達して欲しいです\n\nこの前の長坂の併殺とかもすげえ萎えました…DHに若手野手使って欲しい…",
+    "userName": "TKONTHEWAVE",
+    "tweetUrl": "https://twitter.com/TKONTHEWAVE/status/2061388721140932674",
+    "createdAt": "June 1, 2026 at 07:05PM"
+  },
+  {
+    "text": "｢嵐解散か〜小学生くらいから色んな生活の場面で嵐の歌があったな。｣\nってしみじみ思い出してたら、\n谷端がHappiness歌いながら脳内を横切って一瞬で萎えた。\n谷端許さん。",
+    "userName": "Y_ryo_K",
+    "tweetUrl": "https://twitter.com/Y_ryo_K/status/2061404532459130951",
+    "createdAt": "June 1, 2026 at 08:08PM"
+  },
+  {
+    "text": "谷端もRebase行こうぜ\n#阪神タイガース",
+    "userName": "bb_torajapan",
+    "tweetUrl": "https://twitter.com/bb_torajapan/status/2061406315201904706",
+    "createdAt": "June 1, 2026 at 08:15PM"
+  },
+  {
+    "text": "@akane__1118 あぁ……やってたね……\nとりあえず谷端次会ったらしばきで✋🏻",
+    "userName": "Y_ryo_K",
+    "tweetUrl": "https://twitter.com/Y_ryo_K/status/2061435792355189099",
+    "createdAt": "June 1, 2026 at 10:12PM"
+  },
+  {
+    "text": "@Wtkolove_18 あ、谷端くんみっけ(๑╹ω╹๑ )",
+    "userName": "Nkd5Tj",
+    "tweetUrl": "https://twitter.com/Nkd5Tj/status/2061449534136553962",
+    "createdAt": "June 1, 2026 at 11:07PM"
+  },
+  {
+    "text": "中途半端なプロスペクトにもならん一軍半以下とトレードオフでFA選手が取れるから移籍が発生するのであって\n贔屓で見れば谷端、岡城、今朝丸、木下、門別、桐敷、イトマサクラスの獲得諦めろってことやろ？ドラフト下手なチームが更に老化して弱体化するだけじゃね？ https://t.co/zLYO0VFTf4",
+    "userName": "Bleu_765p",
+    "tweetUrl": "https://twitter.com/Bleu_765p/status/2061457151546257688",
+    "createdAt": "June 1, 2026 at 11:37PM"
+  },
+  {
+    "text": "中野が下振れたら谷端になりうる",
+    "userName": "Petadrone",
+    "tweetUrl": "https://twitter.com/Petadrone/status/2061464414700884073",
+    "createdAt": "June 2, 2026 at 12:06AM"
+  },
+  {
+    "text": "谷端が想定外すぎるんだよなぁ",
+    "userName": "jakui317",
+    "tweetUrl": "https://twitter.com/jakui317/status/2061473092455829558",
+    "createdAt": "June 2, 2026 at 12:41AM"
+  },
+  {
+    "text": "谷端将伍には悪いけどドラ2は絶対に投手を取るべきだったよな\nhttps://t.co/SKt3sxK2hg",
+    "userName": "muchi_73",
+    "tweetUrl": "https://twitter.com/muchi_73/status/2061477370851115378",
+    "createdAt": "June 2, 2026 at 12:58AM"
   }
 ]
