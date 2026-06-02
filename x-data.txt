@@ -9508,5 +9508,77 @@
     "userName": "muchi_73",
     "tweetUrl": "https://twitter.com/muchi_73/status/2061477370851115378",
     "createdAt": "June 2, 2026 at 12:58AM"
+  },
+  {
+    "text": "正直立石より谷端の方が一軍で活躍するの早いと思ってたからまさか2軍でここまで苦戦するのは完全に想定外だった",
+    "userName": "yakisoba53",
+    "tweetUrl": "https://twitter.com/yakisoba53/status/2061587487504695316",
+    "createdAt": "June 2, 2026 at 08:15AM"
+  },
+  {
+    "text": "谷端将伍には悪いけどドラ2は絶対に投手を取るべきだったよな",
+    "userName": "maspf22",
+    "tweetUrl": "https://twitter.com/maspf22/status/2061636489474396548",
+    "createdAt": "June 2, 2026 at 11:30AM"
+  },
+  {
+    "text": "登場曲リスト初めてちゃんと見たけど元山と榮枝は音楽の趣味合いそう\n俺の谷端くんもいいね",
+    "userName": "1Tsu1ba0sa9",
+    "tweetUrl": "https://twitter.com/1Tsu1ba0sa9/status/2061647496166961196",
+    "createdAt": "June 2, 2026 at 12:14PM"
+  },
+  {
+    "text": "Rebaseとかもそうだけど最近のトレンドスイングは体幹ぶん回しの回旋スイングなんだろうけど、やっぱカテゴリが上がると速球やらインサイドの対応に苦戦しそうやね、谷端とか\n\n軌道がどうしても直線より曲線気味に回ってくる以上それは避けられないんかなぁ\n森下も基本外張ってるし",
+    "userName": "shuuu__jack",
+    "tweetUrl": "https://twitter.com/shuuu__jack/status/2061657778121572484",
+    "createdAt": "June 2, 2026 at 12:54PM"
+  },
+  {
+    "text": "ランチは蒸籠御膳🐯\n腸とお肌に良いヘルシーランチ\n\n谷端選手の寮の部屋にも飾られてる大森さんのカレンダー📅と共に\n\n#阪神タイガース https://t.co/fFfaHCdjuL",
+    "userName": "oldkai31",
+    "tweetUrl": "https://twitter.com/oldkai31/status/2061672930963280130",
+    "createdAt": "June 2, 2026 at 01:55PM"
+  },
+  {
+    "text": "もしもここ10年のドラ1が\nいなかった場合の阪神打線🐯\n\n1/中/高寺\n2/二/中野\n3/三/谷端\n4/左/濱田\n5/捕/坂本\n6/右/中川\n7/一/木浪\n8/遊/熊谷\n9/投/村上\n〔控え〕\n梅野・嶋村・佐野・山田・島田・福島\n\nなんだこの暗黒打線\n#プロ野球\n#阪神",
+    "userName": "sekiknlove",
+    "tweetUrl": "https://twitter.com/sekiknlove/status/2061706502604501379",
+    "createdAt": "June 2, 2026 at 04:08PM"
+  },
+  {
+    "text": "新戦力　5月末総評\n\n👑Sランク\nなし\n\n🥇Aランク\n立石\n嶋村\n\n🥈Bランク\n伏見\n福島\n\n🥉Cランク\nなし\n\n🙅がんばりましょう\nディベイニー\nモレッタ\nルーカス\nラグズデール\n濱田\n元山\n\n🔰期待\n谷端\n早瀬\n岡城\n能登\n\n異論ある？",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2061738984397791586",
+    "createdAt": "June 2, 2026 at 06:17PM"
+  },
+  {
+    "text": "2000年以降の阪神が指名した2位以下の大学生野手で規定到達したの上本博紀だけなんよな\nこうしてみると阪神の育成力的に谷端も岡城も期待出来ないかもしれない",
+    "userName": "tigers19852010",
+    "tweetUrl": "https://twitter.com/tigers19852010/status/2061762795893669898",
+    "createdAt": "June 2, 2026 at 07:52PM"
+  },
+  {
+    "text": "@punks_xxx めちゃ期待しますよね！\nももは糸井がスイングスピードはもう1軍レベル言うてますし、短い期間でしたが岡城は既に1軍でちょっとだけ結果残しましたしね。\nあとは谷端ですね😥\nいくらアマとはいえ2季連続首位打者はまぐれじゃ取れん思いますし。",
+    "userName": "_rip_off1003",
+    "tweetUrl": "https://twitter.com/_rip_off1003/status/2061765952149344268",
+    "createdAt": "June 2, 2026 at 08:04PM"
+  },
+  {
+    "text": "@_rip_off1003 谷端の鋭い眼光もまだまだ光ってませんね！アマ記録はホンマ参考程度でプロは入ってからが勝負！chance来るまで気を緩めるな！",
+    "userName": "punks_xxx",
+    "tweetUrl": "https://twitter.com/punks_xxx/status/2061767159584530610",
+    "createdAt": "June 2, 2026 at 08:09PM"
+  },
+  {
+    "text": "@punks_xxx 実は僕3人の中で一番早く1軍に対応するの谷端やと持ってたんですよ笑\n見る目ないというかわからんもんやなと。",
+    "userName": "_rip_off1003",
+    "tweetUrl": "https://twitter.com/_rip_off1003/status/2061768060512739787",
+    "createdAt": "June 2, 2026 at 08:13PM"
+  },
+  {
+    "text": "@dailytigers2026 振りっぷり。は二軍の選手の中で\n一番良いですからね♪♪\n\nこれで良い成績を残してくれたら\n岡田ドラフトは少しはマシになります\n\n予言。\n後は\n谷端選手が来年くらいから\n出てくるかなぁ⁈\nちなみに\n百崎選手も出てくる。と予想してましたが\nシーズン中頃だと予言してたので\n少し早くて嬉しいです",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2061895203867521151",
+    "createdAt": "June 3, 2026 at 04:38AM"
   }
 ]
