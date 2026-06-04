@@ -9874,5 +9874,305 @@
     "userName": "hamakazeshine",
     "tweetUrl": "https://twitter.com/hamakazeshine/status/2062196645681627150",
     "createdAt": "June 4, 2026 at 12:36AM"
+  },
+  {
+    "text": "@urabi00 代打の層が薄いのは今に始まったことではない。シーズン始まって濱田が使えなくなった時点で分かってたよ。小幡落としてでも代打の層を増やすべきや。小野寺 井坪 谷端 前川あたりを上げとこ",
+    "userName": "mseeohturr3492",
+    "tweetUrl": "https://twitter.com/mseeohturr3492/status/2062308595379879994",
+    "createdAt": "June 4, 2026 at 08:00AM"
+  },
+  {
+    "text": "ドラフトで即戦力ショートいきたいところだけど\n阪神いまショート候補何人おんねん\n小幡、熊谷、木浪、ディベイニー、元山、山田、百崎、佐野、、、\n一応植田、谷端も候補かな\n\nもし仮にドラ1で攻めるなら3、4人は減らさな",
+    "userName": "2IFm5Nss6X5227",
+    "tweetUrl": "https://twitter.com/2IFm5Nss6X5227/status/2062352704501158139",
+    "createdAt": "June 4, 2026 at 10:56AM"
+  },
+  {
+    "text": "1位立石 \n2位谷端\n3位岡城\n4位早瀬\n5位能登\nとサードと外野を上位で指名したおかげで1軍2軍ともにショートをまともに守れる選手が熊谷だけという歪すぎる編成となっている\n早瀬はいいとしても5位の能登は二軍回し要員になってなく、ここでショートを守れている石井をとらなかったのが痛すぎたわな https://t.co/74IfVfrnq5",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2062364750265385310",
+    "createdAt": "June 4, 2026 at 11:44AM"
+  },
+  {
+    "text": "6/4（木）尼崎SGL\n阪神タイガースvs福岡ソフトバンクホークス 2軍戦\nスタメン\n\n7⃣中川勇斗\n6⃣百﨑蒼生\n8⃣小野寺暖\n3⃣前川右京\n4⃣谷端将伍\n9⃣井坪陽生\n5⃣戸井零士\n2⃣藤田健斗\n🈯️ラグズデール\n\n先発投手1️⃣はラグズデール👍️",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2062373316959289594",
+    "createdAt": "June 4, 2026 at 12:18PM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-06-04\nvs福岡ソフトバンクホークス\n左 中川勇斗 23歳 京都国際\n遊 百崎蒼生 21歳 東海大熊本星翔\n中 小野寺暖 29歳 大商大\n一 前川右京 23歳 智弁学園\n二 谷端将伍 23歳 日大\n右 井坪陽生 22歳 関東一\n三 戸井零士 22歳 天理\n捕 藤田健斗 25歳 中京\n投 ラグズデール https://t.co/wVOALPfIn8",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2062376151390331175",
+    "createdAt": "June 4, 2026 at 12:29PM"
+  },
+  {
+    "text": "ソフトバンク\n石見\nダウンズ\n秋広\n山川穂高\n大泉\n嶺井\n笹川\n藤野\n西尾\n\n投手　　アルメンタ\n\n阪神二軍\n中川\n百崎\n小野寺\n前川\n谷端\n井坪\n戸井\n藤田\nラグズデール\n\n投手　　ラグズデール",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://twitter.com/400216Susumu/status/2062376784180761074",
+    "createdAt": "June 4, 2026 at 12:31PM"
+  },
+  {
+    "text": "これガチでやるとしたら佐藤森下才木髙橋村上の中の誰かか中川谷端の2:1レベルよ https://t.co/65o4tAhatU",
+    "userName": "giants_chacha",
+    "tweetUrl": "https://twitter.com/giants_chacha/status/2062376994973884905",
+    "createdAt": "June 4, 2026 at 12:32PM"
+  },
+  {
+    "text": "⚾️#ファーム・リーグ \n\n阪神 スタメン\n1番(左) #中川勇斗\n2番(遊) #百﨑蒼生\n3番(中) #小野寺暖\n4番(一) #前川右京\n5番(二) #谷端将伍\n6番(右) #井坪陽生\n7番(三) #戸井零士\n8番(捕) #藤田健斗\n9番(DH) #ラグズデール\n先発 #ラグズデール\n\n⏰12:55\n🆚#阪神 vs #ソフトバンク\nhttps://t.co/BuxgK854Lm",
+    "userName": "easysportsjp",
+    "tweetUrl": "https://twitter.com/easysportsjp/status/2062377128226877475",
+    "createdAt": "June 4, 2026 at 12:33PM"
+  },
+  {
+    "text": "【ファーム】\n【阪神】\n1 中川 (左)\n2 百﨑 (遊)\n3 小野寺 (中)\n4 前川 (一)\n5 谷端 (二)\n6 井坪 (右)\n7 戸井 (三)\n8 藤田 (捕)\n9 ラグズデール (指)\nP ラグズデール\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2062378365030748609",
+    "createdAt": "June 4, 2026 at 12:38PM"
+  },
+  {
+    "text": "2026.05.24.\n日鉄鋼板SGLスタジアム尼崎\n\n試合前みんな小走り🏃💨\n監督はゆっくり〜♩⟡\n\n#谷端将伍 選手\n#山田脩也 選手\n#前川右京 選手\n#平田勝男 監督\n#阪神タイガース https://t.co/Rpccp5gPnJ",
+    "userName": "lPPAlTABERUNCHU",
+    "tweetUrl": "https://twitter.com/lPPAlTABERUNCHU/status/2062378385385619734",
+    "createdAt": "June 4, 2026 at 12:38PM"
+  },
+  {
+    "text": "【2軍スタメン】\n6月4日・ソフトバンク戦（SGL）\n\n◆ #中川勇斗 選手がスタメン出場\n◆ #岡留英貴 #早瀬朔 両投手がベンチ入り\n\n1番・左翼　中川\n2番・遊撃　百崎\n3番・中堅　小野寺\n4番・一塁　前川\n5番・二塁　谷端\n6番・右翼　井坪\n7番・三塁　戸井\n8番・捕手　藤田\n9番・DH　ラグズデール https://t.co/ePpDBltpz2",
+    "userName": "daily_fujimaru",
+    "tweetUrl": "https://twitter.com/daily_fujimaru/status/2062379354739580987",
+    "createdAt": "June 4, 2026 at 12:42PM"
+  },
+  {
+    "text": "今日はこちらへ🐯⚾️\n曇りてすけど、なんやかんやで暑いです🥵\n推しの ＃谷端将伍 選手はスタメンです😆\n\n＃阪神タイガース\n＃阪神タイガースファーム\n＃阪神タイガース2軍\n＃谷端将伍 ユニ\n＃日鉄鋼板SGLスタジアム尼崎 https://t.co/5h6Eehl3CB",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2062379547698553149",
+    "createdAt": "June 4, 2026 at 12:42PM"
+  },
+  {
+    "text": "SGLスタジアム尼崎からファーム・リーグ「福岡ソフトバンクホークス」戦のライブ配信を開始しました。\nスタメンは1番LF中川、2番SS百﨑、3番CF小野寺、4番1B前川、5番2B谷端\n6番RF井坪、7番3B戸井、8番C藤田、9番DHは先発のラグズデール投手です。\n\n#hanshin #虎テレ #阪神タイガース",
+    "userName": "toratele",
+    "tweetUrl": "https://twitter.com/toratele/status/2062382960834441433",
+    "createdAt": "June 4, 2026 at 12:56PM"
+  },
+  {
+    "text": "@toratele SGLスタジアム尼崎からファーム・リーグ「福岡ソフトバンクホークス」戦のライブ配信を開始しました。\nスタメンは1番LF中川、2番SS百﨑、3番CF小野寺、4番1B前川、5番2B谷端\n6番RF井坪、7番3B戸井、8番C藤田、9番DHは先発のラグズデール投手です。\n\n#hanshin #虎テレ #阪神タイガース",
+    "userName": "amithaldher14",
+    "tweetUrl": "https://twitter.com/amithaldher14/status/2062383121803493748",
+    "createdAt": "June 4, 2026 at 12:57PM"
+  },
+  {
+    "text": "@toratele スタメンは1番LF中川、2番SS百﨑、3番CF小野寺、4番1B前川、5番2B谷端\n6番RF井坪、7番3B戸井、8番C藤田、9番DHは先発のラグズデール投手です。\n\n#hanshin #虎テレ #阪神タイガース",
+    "userName": "amithaldher14",
+    "tweetUrl": "https://twitter.com/amithaldher14/status/2062383164501450884",
+    "createdAt": "June 4, 2026 at 12:57PM"
+  },
+  {
+    "text": "５／４\n　ファームリーグVSソフトバンク\n\n先発：ラグズデール\n\n１　中川（左）\n２　百﨑（遊）\n３　小野寺（中）\n４　前川（一）\n５　谷端（二）\n６　井坪（右）\n７　戸井（三）\n８　藤田（捕）\n９　ラグズデール（DH）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2062383623567995057",
+    "createdAt": "June 4, 2026 at 12:59PM"
+  },
+  {
+    "text": "谷端も藤田も打席内容終わっとる\nこれ本当にプロなんか",
+    "userName": "shogeko_pad",
+    "tweetUrl": "https://twitter.com/shogeko_pad/status/2062392876278153658",
+    "createdAt": "June 4, 2026 at 01:35PM"
+  },
+  {
+    "text": "２回裏\n\n前川　中安👍　①\n谷端　空三振　●①\n井坪　右飛　●●①\n戸井　四球　●●①②\n藤田　見三振　●●●\n\n阪神０－１ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2062394714033361089",
+    "createdAt": "June 4, 2026 at 01:43PM"
+  },
+  {
+    "text": "谷端の登場曲、やっぱり中谷将大のイメージ",
+    "userName": "88_naughty_bgm",
+    "tweetUrl": "https://twitter.com/88_naughty_bgm/status/2062399828752253135",
+    "createdAt": "June 4, 2026 at 02:03PM"
+  },
+  {
+    "text": "谷端くん、フォアボール！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2062400354566971400",
+    "createdAt": "June 4, 2026 at 02:05PM"
+  },
+  {
+    "text": "今の谷端のサイン見逃しじゃねぇの？",
+    "userName": "centralyakyu",
+    "tweetUrl": "https://twitter.com/centralyakyu/status/2062402500515549537",
+    "createdAt": "June 4, 2026 at 02:14PM"
+  },
+  {
+    "text": "４回裏　投手：岡田皓一朗\n\n前川　死球　①\n谷端　四球　①②\n井坪　投犠打　●②③\n戸井　遊適安💕　●①③\n藤田　投内安👍　●満塁\n糸原　左適安💕　●満塁\n中川　見三振💦　●●満塁\n百﨑　押出四球💕　●●満塁\n小野寺　押出四球💕　●●満塁\n前川　三飛　●●●\n\n阪神４－１ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2062406133105766735",
+    "createdAt": "June 4, 2026 at 02:28PM"
+  },
+  {
+    "text": "谷端長打出てるんかな。昨日も一二塁間抜けるヒットやったし状態は普通そうに見える",
+    "userName": "showshow12346",
+    "tweetUrl": "https://twitter.com/showshow12346/status/2062409162651492616",
+    "createdAt": "June 4, 2026 at 02:40PM"
+  },
+  {
+    "text": "５回裏　投手：大山凌\n\n谷端　右飛　●\n井坪　三ゴ　●●\n戸井　四球　●●①\n藤田　三ゴ　●●●\n\n阪神４－１ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2062410271663284348",
+    "createdAt": "June 4, 2026 at 02:45PM"
+  },
+  {
+    "text": "谷端いい動き",
+    "userName": "aUlaAqXTVB40231",
+    "tweetUrl": "https://twitter.com/aUlaAqXTVB40231/status/2062413763115131286",
+    "createdAt": "June 4, 2026 at 02:58PM"
+  },
+  {
+    "text": "大塚瑠晏は流石に3位妥当。\nわんちゃんハズレ1位〜2位は前評判的にもありえたレベルなんで、立石大塚岡城でもよかったんかなあと。。。\n谷端が打撃能力開花させて2Bで残れたらそれはそれで美味しいんだけども。 https://t.co/9pRCC6Jv3Z",
+    "userName": "kanmrrr",
+    "tweetUrl": "https://twitter.com/kanmrrr/status/2062421012533358839",
+    "createdAt": "June 4, 2026 at 03:27PM"
+  },
+  {
+    "text": "谷端とか井坪にバントさせんのやめようや",
+    "userName": "TKONTHEWAVE",
+    "tweetUrl": "https://twitter.com/TKONTHEWAVE/status/2062422435606180274",
+    "createdAt": "June 4, 2026 at 03:33PM"
+  },
+  {
+    "text": "谷端井坪にバントさせるのほんまやめろ\nなんで2軍首脳陣と井上一樹はこんな誰彼構わずバントさせようとするん？",
+    "userName": "rookiekrsk0620",
+    "tweetUrl": "https://twitter.com/rookiekrsk0620/status/2062422722324598931",
+    "createdAt": "June 4, 2026 at 03:34PM"
+  },
+  {
+    "text": "谷端くん、\nストレートのフォアボール！\n満塁！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2062423131827110109",
+    "createdAt": "June 4, 2026 at 03:36PM"
+  },
+  {
+    "text": "７回裏　投手：大江竜聖\n\n小野寺　右安👍　①\n前川　右安👍　①②\n谷端　四球　満塁\n井坪　一邪飛💦　●満塁\n戸井　右犠飛❶💕　●●①②→川﨑\n藤田　見三振　●●●\n\n阪神５－４ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2062425131734253726",
+    "createdAt": "June 4, 2026 at 03:44PM"
+  },
+  {
+    "text": "谷端くんはもうちょい時間かかるかなー",
+    "userName": "ka_i_tyo",
+    "tweetUrl": "https://twitter.com/ka_i_tyo/status/2062433112739688545",
+    "createdAt": "June 4, 2026 at 04:15PM"
+  },
+  {
+    "text": "谷端くんがなかなかなぁ……\nがんばれ～！",
+    "userName": "aji_kana",
+    "tweetUrl": "https://twitter.com/aji_kana/status/2062433209112273082",
+    "createdAt": "June 4, 2026 at 04:16PM"
+  },
+  {
+    "text": "８回裏\n\n代：アルナエス　三ゴ　●\n岡城　四球　●①\n山田　四球　●①②\n小野寺　岡城牽制死💦　●●①\n　　　山田盗塁成功　●●②\n　　　四球　●●①②\n　投手：大竹風雅\n代：佐野　四球　●●満塁\n谷端　三邪飛　●●●\n\n阪神５－４ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2062433309305733268",
+    "createdAt": "June 4, 2026 at 04:16PM"
+  },
+  {
+    "text": "小田初ホームランか〜って色々見てみたら5.6月は結構打ってんだな\n谷端も頑張れ〜！",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2062440286698315935",
+    "createdAt": "June 4, 2026 at 04:44PM"
+  },
+  {
+    "text": "谷端くんのアイドルタオルって普通に売ってるよね？ネットじゃなくて甲子園行ったとき買おうと思ってるんだけど",
+    "userName": "mayu32727",
+    "tweetUrl": "https://twitter.com/mayu32727/status/2062442356234977542",
+    "createdAt": "June 4, 2026 at 04:52PM"
+  },
+  {
+    "text": "ことらほーからこちらへ🐯⚾️\n雨☔降るって知らなんだ😥\nピンバッジは中野くんでした😀\n\n＃阪神タイガース\n＃阪神甲子園球場\n＃谷端将伍 ユニ https://t.co/X6BQRMjpoP",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2062448459198915036",
+    "createdAt": "June 4, 2026 at 05:16PM"
+  },
+  {
+    "text": "谷端にバントさせるのやめてください",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2062452101419331644",
+    "createdAt": "June 4, 2026 at 05:31PM"
+  },
+  {
+    "text": "しかし岡城谷端が2軍ですら全然ダメなのはどういうことなんだろうね",
+    "userName": "OmA_2desu",
+    "tweetUrl": "https://twitter.com/OmA_2desu/status/2062457194453557732",
+    "createdAt": "June 4, 2026 at 05:51PM"
+  },
+  {
+    "text": "【ファームハイライト】2026/6/4(木)阪神 5-4 ソフトバンク（ＳＧＬ）\n【スコア詳細】\nソフトバンク｜100｜003｜000｜4\n阪神　　　　｜000｜400｜10X｜5\n本塁打： 山川 1号(6回表3ラン)\n\n【今日の投手の成績】\nラグズデール(5回 82球 被安打5 本塁打1 奪三振3 四死球4 自責点4)\n石黒佑弥(1回 12球",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2062466739984814591",
+    "createdAt": "June 4, 2026 at 06:29PM"
+  },
+  {
+    "text": "立石も大した選手じゃなさそうやね現状谷端と変わらん",
+    "userName": "basbollmoyashi1",
+    "tweetUrl": "https://twitter.com/basbollmoyashi1/status/2062476151998779525",
+    "createdAt": "June 4, 2026 at 07:06PM"
+  },
+  {
+    "text": "@uZY4qnQI2481946 糸原ももういいでしょうよ。それだったら佐野くんか谷端くんと交代でしょ。",
+    "userName": "noy0610",
+    "tweetUrl": "https://twitter.com/noy0610/status/2062491006344581218",
+    "createdAt": "June 4, 2026 at 08:05PM"
+  },
+  {
+    "text": "梅野か伏見落として右京か井坪か岡城か谷端上げればいいのに。二軍にいる投資価値ある若手この4人くらいだろうし。",
+    "userName": "aka44844509",
+    "tweetUrl": "https://twitter.com/aka44844509/status/2062495566500888736",
+    "createdAt": "June 4, 2026 at 08:23PM"
+  },
+  {
+    "text": "地味に、阪神の谷端2軍で結果出せてないの地味に嬉しいすまんな☺",
+    "userName": "yutaro2282",
+    "tweetUrl": "https://twitter.com/yutaro2282/status/2062510930894995904",
+    "createdAt": "June 4, 2026 at 09:25PM"
+  },
+  {
+    "text": "まあどうせ谷端も2年目にはなんか打ってっから大丈夫やろ",
+    "userName": "IKRJctJCXl97850",
+    "tweetUrl": "https://twitter.com/IKRJctJCXl97850/status/2062528439815692552",
+    "createdAt": "June 4, 2026 at 10:34PM"
+  },
+  {
+    "text": "阪神は立石獲得出来た以上スリップ気味で残ってた谷端に飛びつくんじゃなくて大塚行った方が良かったかもな",
+    "userName": "evaneunwolbt",
+    "tweetUrl": "https://twitter.com/evaneunwolbt/status/2062535373184757864",
+    "createdAt": "June 4, 2026 at 11:02PM"
+  },
+  {
+    "text": "そろそろ打順、守備\n戻そうよ‼️\n8谷端 将伍\n4中野拓夢\n9森下 翔太  \n3大山悠輔\n7立石 正広で\n良いと思います",
+    "userName": "maido_claderi",
+    "tweetUrl": "https://twitter.com/maido_claderi/status/2062550592350998682",
+    "createdAt": "June 5, 2026 at 12:02AM"
+  },
+  {
+    "text": "@kKISKA4 谷端や小田、1年目吉納でもそこまでops残せてない中で、育成で普通に打ててる金子、大坪はすごいですよね。",
+    "userName": "KMWaVzbgSfaSH0A",
+    "tweetUrl": "https://twitter.com/KMWaVzbgSfaSH0A/status/2062554177965039777",
+    "createdAt": "June 5, 2026 at 12:16AM"
+  },
+  {
+    "text": "五位はショート、能登を取るのは五位じゃなくて、六位(当年当球団には存在しない順位)。って思考の時点でおわおわり。\nはい、おわり。\n\n仮に五位でショートって話なら、立石谷端岡城誰かを、見送って投手をってしないとダメなんだけど、誰がいらないの？？谷端とか珍カス絶頂射◯してたやん笑",
+    "userName": "Hotaru_kei_SS",
+    "tweetUrl": "https://twitter.com/Hotaru_kei_SS/status/2062565257839776236",
+    "createdAt": "June 5, 2026 at 01:00AM"
+  },
+  {
+    "text": "そろそろ打順、守備\n戻そうよ‼️\n8谷端 将伍\n4中野拓夢\n9森下 翔太  \n5佐藤輝明\n3大山悠輔\n7立石 正広で\n良いと思います",
+    "userName": "maido_claderi",
+    "tweetUrl": "https://twitter.com/maido_claderi/status/2062565694227808396",
+    "createdAt": "June 5, 2026 at 01:02AM"
+  },
+  {
+    "text": "今年の阪神で一軍成績が無いのは\n怪我(下村 岡留 石井 豊田)\n高卒すぐ組(今朝丸 早瀬 山田 百崎)以外\n\n榮枝 町田 長坂 藤田 佐野 (ラグズ)\nであって\n例外は非高卒ルーキーの谷端と能登\n\n能登は年齢的に一軍で試し投げしてほしいし佐野藤田あたりはかなり厳しい\n\n榮枝は普通に使ってあげてほしいけど",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2062566099154239518",
+    "createdAt": "June 5, 2026 at 01:04AM"
   }
 ]
