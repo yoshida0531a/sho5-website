@@ -10174,5 +10174,83 @@
     "userName": "Og0238_0521",
     "tweetUrl": "https://twitter.com/Og0238_0521/status/2062566099154239518",
     "createdAt": "June 5, 2026 at 01:04AM"
+  },
+  {
+    "text": "谷端川の上からおはようございます https://t.co/U42ureEAbs",
+    "userName": "thronefallosusu",
+    "tweetUrl": "https://twitter.com/thronefallosusu/status/2062648455131283794",
+    "createdAt": "June 5, 2026 at 06:31AM"
+  },
+  {
+    "text": "今日も\nご縁があって来ています🐯⚾️\n今日はレフトスタンドで、知人と来ています\nまたまた外観を撮り忘れました💦\n\n今日こそは勝って欲しいです\n\n＃阪神タイガース\n＃阪神甲子園球場\n＃谷端将伍 ユニ https://t.co/i3ZGWrH44Y",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2062797716577775966",
+    "createdAt": "June 5, 2026 at 04:24PM"
+  },
+  {
+    "text": "スクスク育ってますね！\n僕はずっと早瀬君を推して待ってます👍\n谷端君も頼むで🙏🙏🙏 https://t.co/H7SLjfI6Hy",
+    "userName": "teachersato44",
+    "tweetUrl": "https://twitter.com/teachersato44/status/2062818759115735331",
+    "createdAt": "June 5, 2026 at 05:48PM"
+  },
+  {
+    "text": "@Ryui__kukn 阪神ですとサトテル・谷端選手が２枚・小幡選手・能登選手・ルーカス選手・近本選手・中野選手持ってます。欲しいのは鈴木選手・田中正義選手・マチャド選手・櫻井ユ選手が欲しいです。",
+    "userName": "eiOpFHrudRv7JGB",
+    "tweetUrl": "https://twitter.com/eiOpFHrudRv7JGB/status/2062829944175247439",
+    "createdAt": "June 5, 2026 at 06:32PM"
+  },
+  {
+    "text": "2026.06.04 @ 𝑺𝑮𝑳スタジアム\n⁡\n昨日の𝑯𝒆𝒓𝒐戸井くん💫\n試合前に谷端雑学を受けていた。\n⁡\n#戸井零士 選手\n#阪神タイガース https://t.co/vbGcg5uEXo",
+    "userName": "_000814_",
+    "tweetUrl": "https://twitter.com/_000814_/status/2062840837462241515",
+    "createdAt": "June 5, 2026 at 07:15PM"
+  },
+  {
+    "text": "そろそろ立石休ませたら、いいんじゃないかな?岡城、谷端もそうやけど未だそのレベルじゃないよね!",
+    "userName": "PCzmFPpR6UXc8Ib",
+    "tweetUrl": "https://twitter.com/PCzmFPpR6UXc8Ib/status/2062852254349308339",
+    "createdAt": "June 5, 2026 at 08:01PM"
+  },
+  {
+    "text": "@V0nNSzeJfo43773 本来なら佐野や谷端が出てこないといけないところなんですよね",
+    "userName": "yutaid49",
+    "tweetUrl": "https://twitter.com/yutaid49/status/2062870111271387573",
+    "createdAt": "June 5, 2026 at 09:12PM"
+  },
+  {
+    "text": "元山選手と立石選手は怪我中とリハビリ中、SGLでずっと一緒にいたんですよね☺️\nお互い、怪我が治って2軍で一緒にいた時は元山選手が立石選手と谷端選手をご飯に連れて行ったりしてたんですよね🙂 https://t.co/pfuVzhZkdb",
+    "userName": "donchandesuyo1",
+    "tweetUrl": "https://twitter.com/donchandesuyo1/status/2062878226633101346",
+    "createdAt": "June 5, 2026 at 09:44PM"
+  },
+  {
+    "text": "阪神タイガースの2軍の主な野手の成績(6/4時点)\n3割超えが福島のみ。\nルーキーの岡城・谷端が1割台。高卒3年目の百﨑・山田もやや成績が伸びていない。\n全体的に若手野手の成長が伸び悩んでいる。 https://t.co/SsjrbgGf6H",
+    "userName": "kousatsuyakyu",
+    "tweetUrl": "https://twitter.com/kousatsuyakyu/status/2062885838179197363",
+    "createdAt": "June 5, 2026 at 10:14PM"
+  },
+  {
+    "text": "阪神タイガースの2軍の主な野手の成績(6/4時点)\n3割超えが福島のみ。\nルーキーの岡城・谷端が1割台。高卒3年目の百﨑・山田もやや成績が伸びていない。\n全体的に若手野手が伸び悩んでいる。 https://t.co/abFXKk2I8B",
+    "userName": "kousatsuyakyu",
+    "tweetUrl": "https://twitter.com/kousatsuyakyu/status/2062885879237279981",
+    "createdAt": "June 5, 2026 at 10:14PM"
+  },
+  {
+    "text": "大号泣😭😭😭😭😭😭😭\n飛優さんベンチから\"マサー‼️\"って叫んでてた😭♥️\n谷端くんの事もすごくかわいがっていて、ご自身も慣れない環境の中で毎日全力で頑張ってらっしゃいますよ~‼️自分の事以上に後輩ちゃんの事を大切にしてる。 https://t.co/wJ09JBGc82",
+    "userName": "bubu___81",
+    "tweetUrl": "https://twitter.com/bubu___81/status/2062912394356228597",
+    "createdAt": "June 6, 2026 at 12:00AM"
+  },
+  {
+    "text": "小田島田か毛利谷端のパターンの2択だったです。すごい難しい順番で島田がいたのが結構奇跡で、小田を推してたんで良かったと思ってます",
+    "userName": "DB_Shion_Ryuki",
+    "tweetUrl": "https://twitter.com/DB_Shion_Ryuki/status/2062919577445818598",
+    "createdAt": "June 6, 2026 at 12:28AM"
+  },
+  {
+    "text": "元山選手と立石選手は2人とも怪我でリハビリ中の時にSGLでずっと一緒にいたんです。\nリハビリ中にSGLで元山選手が立石選手に内野(サード？)の守備を教えた事もあるそうです。\n怪我が治って2軍にいた時に元山選手が立石選手と谷端選手をご飯に連れて行ったりした事もあったそうです。 https://t.co/6ss150Pghz",
+    "userName": "donchandesuyo1",
+    "tweetUrl": "https://twitter.com/donchandesuyo1/status/2062948893198024921",
+    "createdAt": "June 6, 2026 at 02:25AM"
   }
 ]
