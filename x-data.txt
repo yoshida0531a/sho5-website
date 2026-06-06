@@ -10252,5 +10252,173 @@
     "userName": "donchandesuyo1",
     "tweetUrl": "https://twitter.com/donchandesuyo1/status/2062948893198024921",
     "createdAt": "June 6, 2026 at 02:25AM"
+  },
+  {
+    "text": "頑張れ✨03世代ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ ⌒＊｡*ﾟ\n2026.06.05\n#町田隼乙\n#谷端将伍\n#岡城快生 https://t.co/RU4Cpmak1J",
+    "userName": "sukinanodake___",
+    "tweetUrl": "https://twitter.com/sukinanodake___/status/2063051449521848600",
+    "createdAt": "June 6, 2026 at 09:12AM"
+  },
+  {
+    "text": "今週ずっとまちだのボールを奪うブーム🤭\n23歳の君たち、やることがかわいいんだよꔛ♡\n2026.06.05\n#町田隼乙\n#岡城快生\n#谷端将伍 https://t.co/9rGaOsjBUe",
+    "userName": "sukinanodake___",
+    "tweetUrl": "https://twitter.com/sukinanodake___/status/2063069958524023104",
+    "createdAt": "June 6, 2026 at 10:26AM"
+  },
+  {
+    "text": "【2軍スタメン】\n6月6日・オリックス戦（SGL）\n\n１番・右翼　福島\n２番・遊撃　佐野\n３番・中堅　小野寺\n４番・一塁　糸原\n５番・ＤＨ　濱田\n６番・左翼　中川\n７番・二塁　谷端\n８番・三塁　戸井\n９番・捕手　町田\n　　　投手　マルティネス\n#阪神タイガース https://t.co/IVCRuCcQ1T",
+    "userName": "daily_fujimaru",
+    "tweetUrl": "https://twitter.com/daily_fujimaru/status/2063098203151679862",
+    "createdAt": "June 6, 2026 at 12:18PM"
+  },
+  {
+    "text": "@masa_jps_1213 谷端くん実は推してるんですよ🤭同じ北陸出身の選手なので😄",
+    "userName": "redstar53ARENPA",
+    "tweetUrl": "https://twitter.com/redstar53ARENPA/status/2063098316632805886",
+    "createdAt": "June 6, 2026 at 12:19PM"
+  },
+  {
+    "text": "6/6（土）尼崎SGL\n阪神タイガースvsオリックス・バファローズ 2軍戦\nスタメン\n\n9⃣福島圭音\n6⃣佐野大陽\n8⃣小野寺暖\n3⃣糸原健斗\n🈯️濱田太貴\n7⃣中川勇斗\n4⃣谷端将伍\n5⃣戸井零士\n2⃣町田隼乙\n\n先発投手1️⃣はマルティネス👍️",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2063099299131695321",
+    "createdAt": "June 6, 2026 at 12:22PM"
+  },
+  {
+    "text": "2位今朝丸は間違いなく会心の指名だったから浦田に関しては縁がなかったと思うしかないけど、大塚スルーして谷端取りに行く動きは普通にバカだからね\nなんか同ポジの違うタイプ重ねるの好きらしいけど",
+    "userName": "RRR_le_ng",
+    "tweetUrl": "https://twitter.com/RRR_le_ng/status/2063100521414856985",
+    "createdAt": "June 6, 2026 at 12:27PM"
+  },
+  {
+    "text": "オリックス\n河野\n寺本\nシーモア\n内藤\n横山\n香月\n池田\n田島\n杉澤\n\n投手　　齋藤\n\n阪神二軍\n福島\n佐野\n小野寺\n糸原\n濱田\n中川\n谷端\n戸井\n町田\n\n投手　　マルティネス",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://twitter.com/400216Susumu/status/2063102934448300361",
+    "createdAt": "June 6, 2026 at 12:37PM"
+  },
+  {
+    "text": "@tetoradotoxin 二軍で守備やりまくらせるのは賛成ですね、二軍がまともなら。実際立石のサード守備が想像以上にいい感じなんで山田脩也と百﨑と谷端で二遊間独占するのが育成的にはベストだと思ってます、二軍がまともなら。",
+    "userName": "centralyakyu",
+    "tweetUrl": "https://twitter.com/centralyakyu/status/2063103156113084440",
+    "createdAt": "June 6, 2026 at 12:38PM"
+  },
+  {
+    "text": "【ファーム】\n【阪神】\n1 福島 (右)\n2 佐野 (遊)\n3 小野寺 (中)\n4 糸原 (一)\n5 濱田 (指)\n6 中川 (左)\n7 谷端 (二)\n8 戸井 (三)\n9 町田 (捕)\nP マルティネス\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2063103257837445492",
+    "createdAt": "June 6, 2026 at 12:38PM"
+  },
+  {
+    "text": "@hanshintigersjp ところで谷端はどんな感じなんや\n壁ぶち当たって以降良くも悪くも聞かへん\n\n（追えてないだけ）",
+    "userName": "todoroki00025",
+    "tweetUrl": "https://twitter.com/todoroki00025/status/2063104596051128670",
+    "createdAt": "June 6, 2026 at 12:44PM"
+  },
+  {
+    "text": "６／６\n　ファームリーグVSオリックス\n\n先発：マルティネス\n\n１　福島（右）\n２　佐野（遊）\n３　小野寺（中）\n４　糸原（一）\n５　濱田（DH）\n６　中川（左）\n７　谷端（二）\n８　戸井（三）\n９　町田（捕）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2063106262792069315",
+    "createdAt": "June 6, 2026 at 12:50PM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-06-06\nvsオリックス・バファローズ\n右 福島圭音 25歳 白鴎大\n遊 佐野大陽 25歳 富山\n中 小野寺暖 29歳 大阪商業大\n一 糸原健斗 34歳 ENEOS\nDH 濱田太貴 26歳 ヤクルト\n左 中川勇斗 23歳 京都国際\n二 谷端将伍 23歳 日本大\n三 戸井零士 22歳 天理\n捕 町田隼乙 23歳 https://t.co/cHVRC3bimp",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2063106917195804939",
+    "createdAt": "June 6, 2026 at 12:53PM"
+  },
+  {
+    "text": "ファースト糸原セカンド谷端ショート佐野サード戸井←内野守備耐えてるのか？",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2063107680957497821",
+    "createdAt": "June 6, 2026 at 12:56PM"
+  },
+  {
+    "text": "２回裏\n\n濱田　空三振　●\n中川　右安👍　●①\n谷端　遊併殺💦　●●●\n\n阪神０－０オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2063117100248670237",
+    "createdAt": "June 6, 2026 at 01:33PM"
+  },
+  {
+    "text": "二回裏、中川ライト前ヒットで出塁も\n谷端ゲッツー💧\n #阪神タイガース\n#日鉄鋼板SGLスタジアム尼崎",
+    "userName": "pokomax",
+    "tweetUrl": "https://twitter.com/pokomax/status/2063117157370908904",
+    "createdAt": "June 6, 2026 at 01:33PM"
+  },
+  {
+    "text": "SGLスタジアム尼崎からファーム・リーグ「オリックス・バファローズ」戦のライブ配信を開始しました。\nスタメンは1番RF福島、2番SS佐野、3番CF小野寺、4番1B糸原、5番DH濱田、6番LF中川、7番2B谷端、8番3B戸井、9番C町田、先発はマルティネス投手です。\n\n#hanshin #虎テレ #阪神タイガース",
+    "userName": "toratele",
+    "tweetUrl": "https://twitter.com/toratele/status/2063122712189436028",
+    "createdAt": "June 6, 2026 at 01:56PM"
+  },
+  {
+    "text": "４回裏　右：遠藤　中：寺本\n\n佐野　三ゴ　●\n小野寺　右安👍　●①\n糸原　四球　●①②\n濱田　四球　●満塁\n中川　左❷適安💕　●①②\n谷端　中飛　●●①②\n戸井　見三振　●●●\n\n阪神２－２オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2063131927075496177",
+    "createdAt": "June 6, 2026 at 02:32PM"
+  },
+  {
+    "text": "６回裏　投手：高島泰都　遊：中西\n\n中川　空三振　●\n谷端　遊ゴ　●●\n戸井　遊ゴ　●●●\n\n阪神３－２オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2063143160738611200",
+    "createdAt": "June 6, 2026 at 03:17PM"
+  },
+  {
+    "text": "谷端くんに神宮くんに岡城くんに能登くん……。山﨑くんも出たいよなぁ😭",
+    "userName": "IshidukaYumi",
+    "tweetUrl": "https://twitter.com/IshidukaYumi/status/2063143942942814398",
+    "createdAt": "June 6, 2026 at 03:20PM"
+  },
+  {
+    "text": "早川は2軍で浜田や谷端も打ってた\n７回くらいが狙い目や",
+    "userName": "0024to",
+    "tweetUrl": "https://twitter.com/0024to/status/2063145493748932913",
+    "createdAt": "June 6, 2026 at 03:26PM"
+  },
+  {
+    "text": "谷端くんとおば https://t.co/42TFrHDw1b",
+    "userName": "omaoma38",
+    "tweetUrl": "https://twitter.com/omaoma38/status/2063158451581448679",
+    "createdAt": "June 6, 2026 at 04:18PM"
+  },
+  {
+    "text": "【ファームハイライト】2026/6/6(土)阪神 3-2 オリックス（ＳＧＬ）\n【スコア詳細】\nオリックス｜002｜000｜000｜2\n阪神　　　｜000｜210｜00X｜3\n『中川同点打＆糸原決勝打でオリックスを逆転撃破！投手陣は5四球2死球も粘りの2失点で繋ぐ執念のリレー』\n\n【本日の主な打者の成績】",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2063164089149292824",
+    "createdAt": "June 6, 2026 at 04:40PM"
+  },
+  {
+    "text": "仲良しさん\n#早瀬朔 投手 #谷端将伍 選手 https://t.co/hcYk4gcyrU",
+    "userName": "chichi1818usj",
+    "tweetUrl": "https://twitter.com/chichi1818usj/status/2063164850587758938",
+    "createdAt": "June 6, 2026 at 04:43PM"
+  },
+  {
+    "text": "谷端くんうちわと岡城くんうちわ\n交換してくださりありがとうございました♥ https://t.co/VNkGQ6CqKX",
+    "userName": "Nkd5Tj",
+    "tweetUrl": "https://twitter.com/Nkd5Tj/status/2063208631647211836",
+    "createdAt": "June 6, 2026 at 07:37PM"
+  },
+  {
+    "text": "@lang_tai21931 20年の秋の北信越準決勝で中田世代が対戦して負けていました。\n🐯谷端や野口、黒川らがいたチームで、将来、プロやアマに行く選手が多くいましたね。",
+    "userName": "TM94500358",
+    "tweetUrl": "https://twitter.com/TM94500358/status/2063211500123410449",
+    "createdAt": "June 6, 2026 at 07:48PM"
+  },
+  {
+    "text": "たーしーとリンシロスの仲良いお写真や動画が流れて来るけど、同い年なんですよね。\n\n2003年生まれは、たーしー、谷端、岡城、神宮、まっち、リンシロス、中川、右京かな？🤔",
+    "userName": "yucari103",
+    "tweetUrl": "https://twitter.com/yucari103/status/2063244862342984150",
+    "createdAt": "June 6, 2026 at 10:01PM"
+  },
+  {
+    "text": "2026.6.6   SGLスタジアム\n\n#中川勇斗 #谷端将伍 https://t.co/xkCKYRFHHY",
+    "userName": "kmhspkl",
+    "tweetUrl": "https://twitter.com/kmhspkl/status/2063247351112958260",
+    "createdAt": "June 6, 2026 at 10:11PM"
+  },
+  {
+    "text": "じゃんけんが弱い谷端将伍選手 https://t.co/kpKerRLLG4",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2063292906350465141",
+    "createdAt": "June 7, 2026 at 01:12AM"
   }
 ]
