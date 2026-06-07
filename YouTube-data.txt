@@ -2398,5 +2398,21 @@
     "publishedAt": "June 1, 2026 at 10:10AM",
     "description": "2026/5/29 #ジャイアンツタウンスタジアム #ファーム交流戦 巨人対阪神 #阪神タイガース #バッティング練習.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.6.6 小幡竜平選手のキャッチボール 相手はルーキー谷端将伍選手 #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=z3yKe-_SVNo",
+    "publishedAt": "June 7, 2026 at 11:31AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.6.6 福島圭音選手 中川勇斗選手 戸井零士選手 糸原健斗選手 神宮僚介選手 小幡竜平選手 谷端将伍選手  #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=T_0Hk7mRXnM",
+    "publishedAt": "June 7, 2026 at 07:16PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
