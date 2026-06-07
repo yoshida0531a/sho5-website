@@ -10420,5 +10420,47 @@
     "userName": "0701TOMO",
     "tweetUrl": "https://twitter.com/0701TOMO/status/2063292906350465141",
     "createdAt": "June 7, 2026 at 01:12AM"
+  },
+  {
+    "text": "小幡竜平選手のキャッチボール\n相手は谷端将伍選手 https://t.co/JMRFwlU4Sg",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2063449093247222224",
+    "createdAt": "June 7, 2026 at 11:32AM"
+  },
+  {
+    "text": "✨暇つぶしネタ\n✨阪神現役日本人選手出身地分布\n　　まさかの北海道2位\n\n北海道：門別、茨木、早川、能登、伏見\n青森：木浪\n秋田：工藤、石井\n山形：中野\n岩手\n宮城：熊谷、山田\n福島：\n茨城：大山\n栃木：\n群馬：神宮、長坂\n埼玉：桐敷、福島\n千葉：伊藤将、及川\n東京：井坪",
+    "userName": "kazunatumi",
+    "tweetUrl": "https://twitter.com/kazunatumi/status/2063460338323042665",
+    "createdAt": "June 7, 2026 at 12:17PM"
+  },
+  {
+    "text": "大卒社卒SSガチャしてSS守備厳しい場合の対応は考えたいですね\n基本2Bに移すか外野も試すか\n(ここ渋滞してる球団もあると思ってます)\n\n二軍の2Bは谷端メインですが果たして一軍で守るのか\nポスト中野の2Bは髙寺が有力(または今後獲得するSSが移る)と思ってるんですが\n編成の考えとは違いそうで https://t.co/9XnUvhaN6Y",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2063467953258160283",
+    "createdAt": "June 7, 2026 at 12:47PM"
+  },
+  {
+    "text": "６／４　SGL\n＃谷端将伍\n＃井坪陽生\n＃戸井零士\n＃前川右京 https://t.co/OSw5s1tNQL",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://twitter.com/057JKotf55lrGVv/status/2063531568602509571",
+    "createdAt": "June 7, 2026 at 05:00PM"
+  },
+  {
+    "text": "谷端 実 ／ KAIJIN40   [BOOK] \nhttps://t.co/bRW7TdZlPp\n\nバラエティに富んだ怪人40体の作品集。スリーブ式で、ケースを外すと怪人の仮面の下からほがらか男性が！ https://t.co/T16XW8OwI7",
+    "userName": "kaibutsushop",
+    "tweetUrl": "https://twitter.com/kaibutsushop/status/2063561765984649487",
+    "createdAt": "June 7, 2026 at 07:00PM"
+  },
+  {
+    "text": "今さら昨日の１分\n福島圭音選手 中川勇斗選手 戸井零士選手 糸原健斗選手 神宮僚介選手 小幡竜平選手 谷端将伍選手 https://t.co/hMYHWxQbjx",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2063566112563024049",
+    "createdAt": "June 7, 2026 at 07:17PM"
+  },
+  {
+    "text": "阪神の直近4年分のドラフト見てたらやけに24年の名前をよく聞く気がする。現状気になってるのは下村、今朝丸、谷端、早瀬なんだけどいつごろになったら見れそうなんすかね。それにしてもケインと嶋村は育成からよく頑張ってるし粗削りな部分がまだ多い中活躍してるように見えるから頑張ってほしい https://t.co/bvLW8X8Mw4",
+    "userName": "shooter3110",
+    "tweetUrl": "https://twitter.com/shooter3110/status/2063622707594637806",
+    "createdAt": "June 7, 2026 at 11:02PM"
   }
 ]
