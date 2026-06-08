@@ -1,159 +1,300 @@
 {
-  "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-06-07T16:41:44.280Z",
-  "lastUpdated": "2026-06-08",
-  "farmSummary": {
-    "raw": {
-      "打率": ".180",
-      "試合": "45",
-      "打席": "157",
-      "打数": "139",
-      "安打": "25",
-      "二塁打": "8",
-      "三塁打": "0",
-      "本塁打": "0",
-      "塁打": "33",
-      "打点": "14",
-      "得点": "12",
-      "三振": "19",
-      "四球": "12",
-      "死球": "3",
-      "犠打": "2",
-      "犠飛": "1",
-      "盗塁": "2",
-      "盗塁死": "0",
-      "併殺打": "5",
-      "出塁率": ".258",
-      "長打率": ".237",
-      "OPS": ".495",
-      "得点圏": ".257",
-      "失策": "5"
+  "last_updated": "2026-06-08",
+  "spring_training": {
+    "summary": {
+      "games": 6,
+      "pa": 2,
+      "ab": 22,
+      "h": 4,
+      "double": 0,
+      "triple": 5,
+      "hr": 0,
+      "rbi": 0,
+      "runs": 0,
+      "sb": 0,
+      "bb": 3,
+      "hbp": 0,
+      "xbh": 3,
+      "sh": 0,
+      "sf": 0,
+      "avg": ".182",
+      "obp": ".000",
+      "slg": ".000",
+      "ops": ".000"
     },
-    "display": [
+    "games": [
       {
-        "label": "打率",
-        "value": ".180"
+        "date": "2026-06-06",
+        "opponent": "オリックス",
+        "pa": 0,
+        "ab": 3,
+        "h": 0,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
       },
       {
-        "label": "安打数",
-        "value": "25"
+        "date": "2026-06-04",
+        "opponent": "ソフトバンク",
+        "pa": 0,
+        "ab": 3,
+        "h": 0,
+        "xbh": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 2,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
       },
       {
-        "label": "打点",
-        "value": "14"
+        "date": "2026-06-03",
+        "opponent": "ソフトバンク",
+        "pa": 0,
+        "ab": 4,
+        "h": 1,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
       },
       {
-        "label": "長打",
-        "value": "8"
+        "date": "2026-05-31",
+        "opponent": "巨人",
+        "pa": 0,
+        "ab": 3,
+        "h": 0,
+        "xbh": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 1,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
       },
       {
-        "label": "四球",
-        "value": "12"
+        "date": "2026-05-30",
+        "opponent": "巨人",
+        "pa": 0,
+        "ab": 5,
+        "h": 1,
+        "xbh": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
       },
       {
-        "label": "盗塁",
-        "value": "2"
-      },
-      {
-        "label": "出塁率",
-        "value": ".258"
-      },
-      {
-        "label": "得点圏",
-        "value": ".257"
+        "date": "2026-05-29",
+        "opponent": "巨人",
+        "pa": 0,
+        "ab": 4,
+        "h": 2,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
       }
     ]
   },
-  "recentGames": [
-    {
-      "date": "6/6",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "オリックス",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "遊併打、中飛、遊ゴロ",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040613/top"
+  "regular_season": {
+    "summary": {
+      "games": 6,
+      "pa": 2,
+      "ab": 22,
+      "h": 4,
+      "double": 0,
+      "triple": 5,
+      "hr": 0,
+      "rbi": 0,
+      "runs": 0,
+      "sb": 0,
+      "bb": 3,
+      "hbp": 0,
+      "xbh": 3,
+      "sh": 0,
+      "sf": 0,
+      "avg": ".182",
+      "obp": ".000",
+      "slg": ".000",
+      "ops": ".000",
+      "risp": ".000",
+      "gidp": 0
     },
-    {
-      "date": "6/4",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "ソフトバンク",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "1",
-      "walks": "2",
-      "hitByPitch": "0",
-      "battingResults": "空三振、四球、右飛、四球、三邪飛",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040601/top"
-    },
-    {
-      "date": "6/3",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "ソフトバンク",
-      "atBats": "4",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "右安、三併打、右飛、一ゴロ",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040594/top"
-    },
-    {
-      "date": "5/31",
-      "gameKind": "ファーム交流戦",
-      "opponent": "巨人",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "1",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "四球、遊ゴロ、空三振、投ゴロ",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040578/top"
-    },
-    {
-      "date": "5/30",
-      "gameKind": "ファーム交流戦",
-      "opponent": "巨人",
-      "atBats": "5",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "1",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "投ゴロ、右２、見三振、遊ゴロ、右飛",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040571/top"
-    },
-    {
-      "date": "5/29",
-      "gameKind": "ファーム交流戦",
-      "opponent": "巨人",
-      "atBats": "4",
-      "hits": "2",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "二ゴロ、左２、中安、遊併打",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040564/top"
-    }
-  ]
+    "games": [
+      {
+        "date": "2026-06-06",
+        "opponent": "オリックス",
+        "pa": 0,
+        "ab": 3,
+        "h": 0,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
+      {
+        "date": "2026-06-04",
+        "opponent": "ソフトバンク",
+        "pa": 0,
+        "ab": 3,
+        "h": 0,
+        "xbh": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 2,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
+      {
+        "date": "2026-06-03",
+        "opponent": "ソフトバンク",
+        "pa": 0,
+        "ab": 4,
+        "h": 1,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
+      {
+        "date": "2026-05-31",
+        "opponent": "巨人",
+        "pa": 0,
+        "ab": 3,
+        "h": 0,
+        "xbh": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 1,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
+      {
+        "date": "2026-05-30",
+        "opponent": "巨人",
+        "pa": 0,
+        "ab": 5,
+        "h": 1,
+        "xbh": 1,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      },
+      {
+        "date": "2026-05-29",
+        "opponent": "巨人",
+        "pa": 0,
+        "ab": 4,
+        "h": 2,
+        "xbh": 0,
+        "hr": 0,
+        "rbi": 0,
+        "bb": 0,
+        "sb": 0,
+        "result": null,
+        "score_us": null,
+        "score_them": null
+      }
+    ],
+    "heatmap": [
+      {
+        "zone": "高め内角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "高め中",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "高め外角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "中内角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "中",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "中外角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "低め内角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "低め中",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      },
+      {
+        "zone": "低め外角",
+        "avg": ".000",
+        "h": 0,
+        "ab": 0,
+        "bb_hbp": 0
+      }
+    ]
+  }
 }
