@@ -10462,5 +10462,71 @@
     "userName": "shooter3110",
     "tweetUrl": "https://twitter.com/shooter3110/status/2063622707594637806",
     "createdAt": "June 7, 2026 at 11:02PM"
+  },
+  {
+    "text": "伊冴が阪神で始球式する（？）時用に柳、谷、伊、冴が名前に付く人達のタオルを持っておこうと思ってるんだけど、\n\n柳：青柳\n谷：谷端\n伊：伊原\n\nまでは良いのに“冴”がマジでおらん",
+    "userName": "4hys4",
+    "tweetUrl": "https://twitter.com/4hys4/status/2063753934955839508",
+    "createdAt": "June 8, 2026 at 07:44AM"
+  },
+  {
+    "text": "心配症だから谷端くんのタオルやっぱネットで買う\n甲子園行ったときそんなゆっくりまわれるかわかんないし\n最悪漢字タオルでもいいかなって思ったけど\nやっぱりアイドルタオルがいいし",
+    "userName": "mayu32727",
+    "tweetUrl": "https://twitter.com/mayu32727/status/2063761872676118780",
+    "createdAt": "June 8, 2026 at 08:15AM"
+  },
+  {
+    "text": "阪神の二遊間観は巨人の外野観以上に下まで壊滅的だから高掴みもノータッチもどちらもありうると思う\n山田修全ベット、谷端セカンドに意地でも固定とか何がしたいのかまるでわからん\n独立高卒を支配下指名で終了とかも可能性としてはある",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2063932933115977847",
+    "createdAt": "June 8, 2026 at 07:35PM"
+  },
+  {
+    "text": "山田より谷端の起用のがよっぽど文句あるんだけど",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2063933066842873910",
+    "createdAt": "June 8, 2026 at 07:36PM"
+  },
+  {
+    "text": "これはぜひ意見を聞きたいですな\n谷端の守備位置の話ですかね\n\n脳死2B固定に懐疑的なところはありますがじゃあどこを守らせるべきかといえば編成的に薄い1Bとかになっちゃうわけで、住所が定まりきらない感じがします https://t.co/B7Kk9unRBQ",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2063934132259102740",
+    "createdAt": "June 8, 2026 at 07:40PM"
+  },
+  {
+    "text": "@Og0238_0521 そもそも谷端はコンバートで外野に持っていきたいってのがドラフト前の個人的な想定だったので\n身体が強いだけで内野手としては微妙だしフットワークも下手って評価\nバットマンやりながら守備で起用機会減らさないためにもスポットでセカンドに入らせるとかなら理解できるけど、固定は意味不明すね",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2063936945982763109",
+    "createdAt": "June 8, 2026 at 07:51PM"
+  },
+  {
+    "text": "@Og0238_0521 谷端に糸原を追いかけさせるのは流石に渋すぎる",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2063937157606277426",
+    "createdAt": "June 8, 2026 at 07:52PM"
+  },
+  {
+    "text": "まぁ谷端の打撃を見て重ね気味に指名した歪みは結構感じますね\nそりゃ佐藤が渡米すれば外野1枠空いてLFも狙える可能性がありますが二軍でも全く仕込んでないし、1Bもやってない\n\n中野をどかす前提で牧のように打てる2Bにしたいっていう固定観念を感じることさえあります https://t.co/rFDZWbHiNs",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2063939448644251750",
+    "createdAt": "June 8, 2026 at 08:01PM"
+  },
+  {
+    "text": "そもそも谷端ってポジション不問にして早くから打者としてのリターンを取りにいくべき選手だけど、セカンド固定するくらいなら素直に二遊取れよとしか思わん",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2063939960903008338",
+    "createdAt": "June 8, 2026 at 08:03PM"
+  },
+  {
+    "text": "@Og0238_0521 アマで内野経験あれば出来なくはないと思うけど無いと仕込むのに時間かかるしあんまかなぁ\n身長に関しては谷端とか小田が思ったよりパワー面で苦戦してるのと楽天の得体組の大坪金子阪上が2軍でちゃんとパワー組ツール発揮できている点ですかね",
+    "userName": "mru_mori",
+    "tweetUrl": "https://twitter.com/mru_mori/status/2063998396101537975",
+    "createdAt": "June 8, 2026 at 11:55PM"
+  },
+  {
+    "text": "谷端将伍の10/10ラストナンバー…阪神ルーキーやのに初期傷あるんか。まあそういう意図で最後取っとくのもアリか🤣\n\n阪神タイガース 谷端将伍 ルーキーカード 10シリ(ラストナンバー)\nhttps://t.co/TS7BTbGqcy",
+    "userName": "washiJefu1978",
+    "tweetUrl": "https://twitter.com/washiJefu1978/status/2064059808928723407",
+    "createdAt": "June 9, 2026 at 03:59AM"
   }
 ]
