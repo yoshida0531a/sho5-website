@@ -2414,5 +2414,21 @@
     "publishedAt": "June 7, 2026 at 07:16PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "20260517　打席に向かう！#谷端将伍　#打撃フォーム　1回表　#shorts　阪神ﾀｲｶﾞｰｽ2軍@鳥取･どらﾄﾞﾗﾊﾟｰｸ米子市民球場［ﾌｧｰﾑ･ﾘｰｸﾞ 西地区 2軍戦］",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=o5ClgaV_XYI",
+    "publishedAt": "June 9, 2026 at 07:30AM",
+    "description": "阪神タイガース #阪神 #タイガース #hanshintigers #hanshin #tigers #ファームリーグ #farmleague #ファーム #farm #2軍戦 #二軍 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ２ルーキー谷端将伍へ岡田彰布顧問と鳥谷敬が放ったある助言が的確すぎると話題に【阪神タイガース プロ野球】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=9KcHLL7J_-0",
+    "publishedAt": "June 9, 2026 at 06:00PM",
+    "description": "プロ野球ファン必見！当チャンネル『球界の真実【OBの本音】』では、表向きのニュースや大手スポーツ紙では語られない、プロ ...",
+    "keyword": "谷端 阪神"
   }
 ]
