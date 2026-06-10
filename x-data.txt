@@ -10822,5 +10822,173 @@
     "userName": "URU95816392",
     "tweetUrl": "https://twitter.com/URU95816392/status/2064347975015600420",
     "createdAt": "June 9, 2026 at 11:04PM"
+  },
+  {
+    "text": "今日のスタメン\n立石\n前川\nモリシ\nテル\n大山\n谷端\n山田\n坂本\n高寺\nで頼む\n入れ替えやw",
+    "userName": "yasuraoka777",
+    "tweetUrl": "https://twitter.com/yasuraoka777/status/2064516137346617508",
+    "createdAt": "June 10, 2026 at 10:12AM"
+  },
+  {
+    "text": "1髙寺　ニ\n2立石　三\n3佐藤　右\n4森下　左\n5前川　指\n6大山　一\n7嶋村　捕\n8岡城or福島　中\n9熊谷　遊\n\nこれや\n\n大山も谷端とかであって欲しかったけど\nまだ早いのかね",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2064516726298235299",
+    "createdAt": "June 10, 2026 at 10:15AM"
+  },
+  {
+    "text": "アメブロを投稿しました。🆕\n『今朝丸4失点（6月9日・由宇）』\n#今朝丸裕喜 #由宇球場 #能登嵩都 \n#ファーム・リーグ西地区 \n#岡城快生 #福島圭音 #谷端将伍  https://t.co/MswKMjqqk5",
+    "userName": "Okami_Chikara",
+    "tweetUrl": "https://twitter.com/Okami_Chikara/status/2064517500977713251",
+    "createdAt": "June 10, 2026 at 10:18AM"
+  },
+  {
+    "text": "エドポロ良いねぇ\n谷端、頑張って欲しいなあ",
+    "userName": "tomokuwa1216",
+    "tweetUrl": "https://twitter.com/tomokuwa1216/status/2064526295594311957",
+    "createdAt": "June 10, 2026 at 10:53AM"
+  },
+  {
+    "text": "二軍でめちゃくちゃ投資されてても一軍に呼ばれないのって基本高卒すぐの選手か、\n谷端のようにルーキーで壁にぶつかってて鍛えてる選手であって\n\n行けると思ったら一軍に役割作って試してほしい、で二軍でも起用序列が落ちる選手なんてずっと抱えてもどうにもならんし https://t.co/YtH1bWjgIq",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2064568107138777514",
+    "createdAt": "June 10, 2026 at 01:39PM"
+  },
+  {
+    "text": "岡城、結構上がったり下がったりしとんな\n出場機会あったらええね、活躍してTポーズの宣伝するんやw\nあと谷端も待っとるで\n\n才木下げないなら次も先発あるんやろけどどっかで嶋村にスタマスチャンスあげてくれホンマ",
+    "userName": "LwEqjvNbNFDDHzw",
+    "tweetUrl": "https://twitter.com/LwEqjvNbNFDDHzw/status/2064616484257812497",
+    "createdAt": "June 10, 2026 at 04:51PM"
+  },
+  {
+    "text": "@Torakichi_1001 @mikawanouma ﾌｧｰﾑで上げられそうな選手が少ないんよね。\n谷端くんは苦しんじゃってるし。\n山田くんも打撃は全然やし。\n交流戦、明けあたりにﾄﾚｰﾄﾞありそうだな。",
+    "userName": "daichimajin69",
+    "tweetUrl": "https://twitter.com/daichimajin69/status/2064617223352984020",
+    "createdAt": "June 10, 2026 at 04:54PM"
+  },
+  {
+    "text": "あとは谷端が中野を脅かしてくれないと困る",
+    "userName": "mockey134",
+    "tweetUrl": "https://twitter.com/mockey134/status/2064625593212428622",
+    "createdAt": "June 10, 2026 at 05:27PM"
+  },
+  {
+    "text": "谷端ってどう見てもパワーレスで打率が低いんだけど、コーチが谷端は打率低いからコンタクト率が悪いんだ！当てるバッティングしないと！ってやりそうな予感しかしない",
+    "userName": "K_namename",
+    "tweetUrl": "https://twitter.com/K_namename/status/2064641815131963559",
+    "createdAt": "June 10, 2026 at 06:32PM"
+  },
+  {
+    "text": "@daily_fujimaru 谷端を少し試合から離すのは大賛成。\n一度じっくりと肉体強化の期間を与え、その中でメカニクスのチェックをさせた方がいい。\nパリーグみたいに「速い球にいかに対応するか？」を二軍の間から求めないと。",
+    "userName": "geki_sen",
+    "tweetUrl": "https://twitter.com/geki_sen/status/2064649251171512824",
+    "createdAt": "June 10, 2026 at 07:01PM"
+  },
+  {
+    "text": "結構谷端も一軍で見てみたさはある https://t.co/iJf2fk6OMw",
+    "userName": "kagamitaiga1996",
+    "tweetUrl": "https://twitter.com/kagamitaiga1996/status/2064653137374589277",
+    "createdAt": "June 10, 2026 at 07:17PM"
+  },
+  {
+    "text": "@Alector1 谷端が牧ぐらいやってくれる予定やったんやけどなー",
+    "userName": "kgmjwyjdcm",
+    "tweetUrl": "https://twitter.com/kgmjwyjdcm/status/2064653295604687357",
+    "createdAt": "June 10, 2026 at 07:17PM"
+  },
+  {
+    "text": "中野一回休めもう\nなんかいつもの中野じゃないわ\n谷端とか上げようや",
+    "userName": "URU95816392",
+    "tweetUrl": "https://twitter.com/URU95816392/status/2064653471203410365",
+    "createdAt": "June 10, 2026 at 07:18PM"
+  },
+  {
+    "text": "とはいえ中野の守備に慣れたあとの谷端の守備なんてとんでもないっすからね。今のうちから覚悟が必要。\n\n個人的には髙寺セカンド派だけど",
+    "userName": "shuuu__jack",
+    "tweetUrl": "https://twitter.com/shuuu__jack/status/2064654010985156689",
+    "createdAt": "June 10, 2026 at 07:20PM"
+  },
+  {
+    "text": "谷端が牧くらいになってればな、中野に拘る理由もないんだけどまだ時間かかるよな流石に2軍のあの感じだと",
+    "userName": "konjoyaki0925",
+    "tweetUrl": "https://twitter.com/konjoyaki0925/status/2064654223598612545",
+    "createdAt": "June 10, 2026 at 07:21PM"
+  },
+  {
+    "text": "中野の後のセカンドって誰になるんだろ。谷端？百崎？",
+    "userName": "utsuminow",
+    "tweetUrl": "https://twitter.com/utsuminow/status/2064654238656115138",
+    "createdAt": "June 10, 2026 at 07:21PM"
+  },
+  {
+    "text": "あんま言わない方がいいことだけど、このチーム中野を積極的に2Bから外せるようになればチームが健全化するよな\n少なくとも異常固定はもうやめないとダメ\n\nドラフトで二遊間足していってSS厳しい奴は2Bにしてもいいし、そこに髙寺も含めていけば二遊間が柔軟になる\n谷端の2Bは知らね",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2064654282499248514",
+    "createdAt": "June 10, 2026 at 07:21PM"
+  },
+  {
+    "text": "中野マジでやめてくれないかな\n同じ打てないなら谷端とか百崎とか使おうよ\n守備だって変わらないよ",
+    "userName": "77adpr",
+    "tweetUrl": "https://twitter.com/77adpr/status/2064656200659345497",
+    "createdAt": "June 10, 2026 at 07:29PM"
+  },
+  {
+    "text": "「名エッセイが教えてくれる、人間の懊悩やユーモア、そして、物悲しさ。ぜひ読んで確かめて」（宮崎智之／文芸評論家、エッセイスト） https://t.co/oLBzmo9XpU",
+    "userName": "kurashinotecho",
+    "tweetUrl": "https://twitter.com/kurashinotecho/status/2064656317802013036",
+    "createdAt": "June 10, 2026 at 07:30PM"
+  },
+  {
+    "text": "中野を下ろしても谷端を2Bで出せるようにあれだけ二軍で練習させてる説もあるが、\nそこを考えるチームがショートに対してはなぜ異常に危機感がなかったのか https://t.co/EON2ovktBX",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2064656318506651662",
+    "createdAt": "June 10, 2026 at 07:30PM"
+  },
+  {
+    "text": "谷端さえまともなら直ぐにでも追い出せるものを\n二軍の野手がまともなら",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://twitter.com/shio_arakajime/status/2064660011280933033",
+    "createdAt": "June 10, 2026 at 07:44PM"
+  },
+  {
+    "text": "岡城キツイて、育成レベルやんけ、谷端といいこれで大塚逃したんほんまアホやろw",
+    "userName": "y5_ky7",
+    "tweetUrl": "https://twitter.com/y5_ky7/status/2064661719830638901",
+    "createdAt": "June 10, 2026 at 07:51PM"
+  },
+  {
+    "text": "谷端くんは2軍で打率1割なのに🥲︎ https://t.co/xYBgUml9p0",
+    "userName": "DpmaU5P0VS25116",
+    "tweetUrl": "https://twitter.com/DpmaU5P0VS25116/status/2064670995701768340",
+    "createdAt": "June 10, 2026 at 08:28PM"
+  },
+  {
+    "text": "岡城を1軍で使うなら谷端も使ってみろと言いたくなる\n現状、2軍におけるゾーン管理は両者とも同じレベル\nフォームは間違いなく良い分だけ谷端のほうがマシ\nこんな状態なのに、由宇から急遽呼び寄せてまでなぜ使ったのか\n誰の推薦だったんだろう",
+    "userName": "345adeuk2",
+    "tweetUrl": "https://twitter.com/345adeuk2/status/2064681525317439740",
+    "createdAt": "June 10, 2026 at 09:10PM"
+  },
+  {
+    "text": "谷端も悪くないけど、大塚取るべきやろと思ってたけどどうやら正しかったようだ。\n谷端とかマジで活躍する未来見えんて。なんなら伊藤隼太にしか見えん。",
+    "userName": "K67ol",
+    "tweetUrl": "https://twitter.com/K67ol/status/2064685035220013413",
+    "createdAt": "June 10, 2026 at 09:24PM"
+  },
+  {
+    "text": "大塚無視して谷端行ったの理解できなかったけど案の定取っときゃよかったなあと\n掌返しさせてほしいぞ谷端よ",
+    "userName": "HT_Alexander",
+    "tweetUrl": "https://twitter.com/HT_Alexander/status/2064728143995523481",
+    "createdAt": "June 11, 2026 at 12:15AM"
+  },
+  {
+    "text": "瑠晏を見逃して取った谷端が２軍で苦しんでるのも余計悔しいポイント",
+    "userName": "ait_1551",
+    "tweetUrl": "https://twitter.com/ait_1551/status/2064731868541632636",
+    "createdAt": "June 11, 2026 at 12:30AM"
+  },
+  {
+    "text": "阪神新人・新入団パワプロ能力\n立石\n今回の大目玉\nペナントでも対戦でも強い\n\n谷端\n打つほう全振りって感じ\n\n岡城\n間違ってなければパワプロ内1位タイの走力\n\n早瀬\n何故か中継ぎ設定かつ中継ぎ能力多め\n\n能登\nコレも既出だがまあまあ",
+    "userName": "MK_BADMINTON",
+    "tweetUrl": "https://twitter.com/MK_BADMINTON/status/2064750044683935940",
+    "createdAt": "June 11, 2026 at 01:42AM"
   }
 ]
