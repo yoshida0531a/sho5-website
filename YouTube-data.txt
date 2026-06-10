@@ -2430,5 +2430,13 @@
     "publishedAt": "June 9, 2026 at 06:00PM",
     "description": "プロ野球ファン必見！当チャンネル『球界の真実【OBの本音】』では、表向きのニュースや大手スポーツ紙では語られない、プロ ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【盛大にお出迎え】2号ツーランを放った立石正広を迎える阪神ナイン ルーキーが反撃の狼煙をあげる",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=9EDLW7BycgM",
+    "publishedAt": "June 9, 2026 at 11:21PM",
+    "description": "NPB #プロ野球 #阪神タイガース #阪神 #タイガース #hanshin #tigers #甲子園 #阪神甲子園球場 #SGL #SGLスタジアム #熱覇 ...",
+    "keyword": "谷端 阪神"
   }
 ]
