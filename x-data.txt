@@ -10990,5 +10990,173 @@
     "userName": "MK_BADMINTON",
     "tweetUrl": "https://twitter.com/MK_BADMINTON/status/2064750044683935940",
     "createdAt": "June 11, 2026 at 01:42AM"
+  },
+  {
+    "text": "セカンドだと谷端になりそうだけど\n２軍でも苦労している現状\n\nセカンドなら山田もエラーも少ない\nショートになると極端に増えるというのも\nどういう状況なの？なんだが https://t.co/FMmFmSxJvO",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2064860972226162740",
+    "createdAt": "June 11, 2026 at 09:03AM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-06-11\nvs広島東洋カープ\n中 福島圭音 25歳 白鴎大\n右 井坪陽生 22歳 関東一\n二 谷端将伍 23歳 日本大\n遊 小幡竜平 26歳 延岡学園\n三 アルナエス 24歳 \n一 元山飛優 28歳 埼玉西武ライオンズ\n左 濱田太貴 26歳 ヤクルト\n捕 藤田健斗 25歳 中京\n投 ラグズデール 28歳 https://t.co/zj8zVaCiiz",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2064907724501229936",
+    "createdAt": "June 11, 2026 at 12:09PM"
+  },
+  {
+    "text": "阪神二軍\n福島\n井坪\n谷端\n小幡\nアルナエス\n元山\n濱田\n藤田\nラグズデール\n\n投手　　ラグズデール\n\n広島カープ\n佐藤啓介\n岸本\n中村奨\n仲田\n田村\n中村貴　\n會澤\n渡邊\n西川\n\n投手　　アドゥワ",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://twitter.com/400216Susumu/status/2064908966950518815",
+    "createdAt": "June 11, 2026 at 12:13PM"
+  },
+  {
+    "text": "６／１１\n　ファームリーグVS広島\n\n先発：ラグズデール\n\n１　福島（中）\n２　井坪（右）\n３　谷端（二）\n４　小幡（遊）\n５　アルナエス（三）\n６　元山（一）\n７　濱田（左）\n８　藤田（捕）\n９　ラグズデール（DH）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2064909588806471834",
+    "createdAt": "June 11, 2026 at 12:16PM"
+  },
+  {
+    "text": "6/11（木）山口・由宇練習場\n阪神タイガースvs広島東洋カープ\n2軍戦スタメン\n\n8⃣福島圭音\n9⃣井坪陽生\n4⃣谷端将伍\n6⃣小幡竜平\n5⃣アルナエス\n3⃣元山飛優\n7⃣濱田太貴\n2⃣藤田健斗\n🈯️ラグズデール\n\n先発投手1️⃣はラグズデール👍️",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2064911880108540014",
+    "createdAt": "June 11, 2026 at 12:25PM"
+  },
+  {
+    "text": "１回表\n\n福島　ニゴ　●\n井坪　中安👍　●①\n谷端　見三振　●●①\n小幡　遊失　●●①③\nアルナエス　右適安👍　●●①③\n元山　ニゴ　●●●\n\n阪神１－０広島",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2064915598136819862",
+    "createdAt": "June 11, 2026 at 12:40PM"
+  },
+  {
+    "text": "３回表\n\n福島　ニゴ　●\n井坪　中安👍　●①\n谷端　中飛　●●①\n小幡　空三振　●●●\n\n阪神１－１広島",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2064924097243685096",
+    "createdAt": "June 11, 2026 at 01:14PM"
+  },
+  {
+    "text": "浦田も大塚もリストに入ってましたからね\n谷端本人に非はないとして、\n弱点無視の重ね気味指名からの谷端異常2B固定には懐疑的です\n\n今朝丸優先して浦田逃しはまぁ納得も強いですが、谷端を重ねてSSに大穴が空くのはいけ好かない\n大塚の件は過去にも再三言及してますし\n\nhttps://t.co/CGx0WFRXp4 https://t.co/DRleBSJ9Lb",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2064934262546329734",
+    "createdAt": "June 11, 2026 at 01:54PM"
+  },
+  {
+    "text": "谷端くん！！！ヒットーーー！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2064937347477840141",
+    "createdAt": "June 11, 2026 at 02:06PM"
+  },
+  {
+    "text": "６回表\n\n谷端　左安👍　①\n小幡　左飛　●①\nアルナエス　捕邪飛　●●①\n元山　一ゴ　●●●\n\n阪神１－４広島",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2064939009949028605",
+    "createdAt": "June 11, 2026 at 02:13PM"
+  },
+  {
+    "text": "昼寝できない（泣）\n残りのオープン戦オーダー\n\n１、しまだ\n２、谷端\n３、たていし、\n４、しまむら\n５、いとはら\n６、前川\n７、坂本\n８、くまがい\n９、たかでら\nが、ベスト🦺やと☘️",
+    "userName": "yaji6231",
+    "tweetUrl": "https://twitter.com/yaji6231/status/2064943188150985042",
+    "createdAt": "June 11, 2026 at 02:29PM"
+  },
+  {
+    "text": "谷端くんナイス！！！",
+    "userName": "sio_seseri",
+    "tweetUrl": "https://twitter.com/sio_seseri/status/2064945294983483703",
+    "createdAt": "June 11, 2026 at 02:38PM"
+  },
+  {
+    "text": "谷端くん！！！！！！\nマルチヒットーーー！！！！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://twitter.com/mashiatu_2765/status/2064947799205257482",
+    "createdAt": "June 11, 2026 at 02:48PM"
+  },
+  {
+    "text": "谷端も続いた！\n谷端マルチ！",
+    "userName": "vk3670",
+    "tweetUrl": "https://twitter.com/vk3670/status/2064947928100384791",
+    "createdAt": "June 11, 2026 at 02:48PM"
+  },
+  {
+    "text": "８回表　投手：松本竜也\n\n福島　投ゴ　●\n井坪　右安👍　●①\n谷端　右安👍　●①②\n小幡　中安👍　●満塁\nアルナエス　投ゴ→守備妨害💦　●●●\n\n阪神１－５広島",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2064949785866715414",
+    "createdAt": "June 11, 2026 at 02:56PM"
+  },
+  {
+    "text": "谷端はWhiffが15.4% K%が12.3%と空振りが少なくボール球の見極めも出来ててBABIPも.208程度なんで打率は.260くらいまでは上げるんちゃいます\n問題は長打が少ないことですわな https://t.co/TNkATeLnOt",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2064953489445544427",
+    "createdAt": "June 11, 2026 at 03:10PM"
+  },
+  {
+    "text": "９回表　投手：齊藤汰直\n\n元山　空三振　●\n濱田　空三振　●●\n藤田　一ゴ　●●●\n\n阪神１－５広島\n\n試合終了\n\n９安打１得点とチャンスに弱い打線💦一軍も投打共イマイチだが、２軍はそれ以上に深刻な状況😭我らが井坪の猛打賞、谷端のマルチは期待したい💕",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2064956439207293348",
+    "createdAt": "June 11, 2026 at 03:22PM"
+  },
+  {
+    "text": "谷端さんマルチヒットいいねぇ〜",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2064959778791764055",
+    "createdAt": "June 11, 2026 at 03:35PM"
+  },
+  {
+    "text": "【ファームハイライト】2026/6/11(木)広島 - 阪神（由宇） \n【スコア詳細】\n阪神｜100｜000｜000｜1 \n広島｜100｜301｜00X｜5 \n本塁打：中村貴 1号(4回裏2ラン) \n『今日も、あと一本！8回一死満塁の絶好機で痛恨の守備妨害ダブルプレー😭』 https://t.co/6SV3FM9zFx",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2064967794656248058",
+    "createdAt": "June 11, 2026 at 04:07PM"
+  },
+  {
+    "text": "#谷端\nファームでヒット打っているようで、いつまでたっても2割を越さない打率。でも期待しているので、早く一軍で初ヒットをみせてほしい。",
+    "userName": "tashinji",
+    "tweetUrl": "https://twitter.com/tashinji/status/2064994309552930955",
+    "createdAt": "June 11, 2026 at 05:53PM"
+  },
+  {
+    "text": "谷端が不甲斐ないばかりに二塁に居座る3億",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://twitter.com/shio_arakajime/status/2065001471964483756",
+    "createdAt": "June 11, 2026 at 06:21PM"
+  },
+  {
+    "text": "谷端も早く打撃をあげて中野駆逐してくれ",
+    "userName": "Ukrscrimea",
+    "tweetUrl": "https://twitter.com/Ukrscrimea/status/2065016276389622133",
+    "createdAt": "June 11, 2026 at 07:20PM"
+  },
+  {
+    "text": "中野がコレなら谷端上げてくれ\nまだその方が見てて期待出来るぞ",
+    "userName": "adarutomansei",
+    "tweetUrl": "https://twitter.com/adarutomansei/status/2065017124909990114",
+    "createdAt": "June 11, 2026 at 07:23PM"
+  },
+  {
+    "text": "谷端さえまともになれば3億様はベンチやからな",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://twitter.com/shio_arakajime/status/2065023876170645615",
+    "createdAt": "June 11, 2026 at 07:50PM"
+  },
+  {
+    "text": "谷端マルチ打ってるやん",
+    "userName": "kagamitaiga1996",
+    "tweetUrl": "https://twitter.com/kagamitaiga1996/status/2065072344285298918",
+    "createdAt": "June 11, 2026 at 11:03PM"
+  },
+  {
+    "text": "谷端マルチね〜^_^^_^",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2065073667948888116",
+    "createdAt": "June 11, 2026 at 11:08PM"
+  },
+  {
+    "text": "@NUuu52554336 本来は、谷端にその役目を期待してたかもですが、プロの壁に苦労してます(^_^;)\n\nまー、後は外国人ですよね〜\n\n守備はイマイチでも、かつてのゴメスくらい打てる選手が欲しいところです(^_^;)",
+    "userName": "PainAndGain320",
+    "tweetUrl": "https://twitter.com/PainAndGain320/status/2065076240407740742",
+    "createdAt": "June 11, 2026 at 11:18PM"
+  },
+  {
+    "text": "まぁこれが柔軟にできないのがDHなしの激ヤバポイントではあったよな\n1B前川DH大山とか早くやりたかった\n\n仮に1B前川DH谷端とかを試そうもんならベンチに年俸4億円の代打が待機することになっちゃうのがグロいんだけど。 https://t.co/s9j1o567fV",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2065080484888256967",
+    "createdAt": "June 11, 2026 at 11:35PM"
   }
 ]
