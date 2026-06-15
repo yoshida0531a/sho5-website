@@ -12286,5 +12286,227 @@
     "userName": "yj_4nn",
     "tweetUrl": "https://twitter.com/yj_4nn/status/2066254389535539473",
     "createdAt": "June 15, 2026 at 05:20AM"
+  },
+  {
+    "text": "6/14（日）試合後のカツオさん語録要約📝\n\n・四球→被弾の能登嵩都はいつものパターン。改善していかないと\n・3安打の谷端将伍はいい兆し\n・3塁打の小幡竜平はある程度積極的に行ってた\n・他のチームとやるとスイングの差を感じる\nhttps://t.co/ctdMVBPLBk",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2066272742987686107",
+    "createdAt": "June 15, 2026 at 06:33AM"
+  },
+  {
+    "text": "【mizonokuchi neonera】neonera session【6/15】 – ゆいねっと川崎\nhttps://t.co/4pQPZoHgYk \n#mizonokuchi #neonera #Shogo #吉田正史 #谷端奏人 #Bandy #岡添由太奏 #長友克樹",
+    "userName": "yuiincunet",
+    "tweetUrl": "https://twitter.com/yuiincunet/status/2066295730701238342",
+    "createdAt": "June 15, 2026 at 08:04AM"
+  },
+  {
+    "text": "アメブロを投稿しました。🆕\n『能登6失点（6月14日・筑後）』\n#能登嵩都 #タマスタ筑後 #椎葉剛 \n#ファーム・リーグ西地区 #谷端将伍  https://t.co/OzPkGBUxeQ",
+    "userName": "Okami_Chikara",
+    "tweetUrl": "https://twitter.com/Okami_Chikara/status/2066313243883434413",
+    "createdAt": "June 15, 2026 at 09:14AM"
+  },
+  {
+    "text": "谷端早くきてくれ",
+    "userName": "0tomenakanemoto",
+    "tweetUrl": "https://twitter.com/0tomenakanemoto/status/2066362463134925060",
+    "createdAt": "June 15, 2026 at 12:29PM"
+  },
+  {
+    "text": "佐藤輝と森下は、いわば岡田時代に育った人材（岡田が育てたとは敢えて言わないでおく）。立石や岡城、谷端らはいよいよ球児の人材育成の手腕が問われる素材。",
+    "userName": "QpZrqBZoJg94697",
+    "tweetUrl": "https://twitter.com/QpZrqBZoJg94697/status/2066365180032991655",
+    "createdAt": "June 15, 2026 at 12:40PM"
+  },
+  {
+    "text": "谷端にはちゃんと戦力になってくれないと困る。打撃の兆しは見えてる",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2066383490430693462",
+    "createdAt": "June 15, 2026 at 01:53PM"
+  },
+  {
+    "text": "大塚瑠晏は3位で指名出来たら無難、2位指名だともったいないイメージだった\nでも日ハムに先に3位で指名されて、2位の谷端の現状みると、阪神は2位で指名しないといけなかったんだなと思う\nドラフト難しい",
+    "userName": "tigers19852010",
+    "tweetUrl": "https://twitter.com/tigers19852010/status/2066391635118928011",
+    "createdAt": "June 15, 2026 at 02:25PM"
+  },
+  {
+    "text": "つ、ついに寒い時期に買った【谷端ユニ】が届くのねぇ〜🥹🩷🩷🩷 https://t.co/fytHQlgG8v",
+    "userName": "Tigers_queen12",
+    "tweetUrl": "https://twitter.com/Tigers_queen12/status/2066402012804341985",
+    "createdAt": "June 15, 2026 at 03:06PM"
+  },
+  {
+    "text": "谷端さん、今の起用法から考えるに甲子園でも2B守備が耐えて最低限ops.700以上を目指すバッターにしようとしてるのか\n\n果たしていけそうか？2Bしか練習させないことが正しいとはやっぱり思い難いが\n大塚を優先しろと思った俺の声をぜひ雑音にしてくれ",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2066406925785608200",
+    "createdAt": "June 15, 2026 at 03:26PM"
+  },
+  {
+    "text": "消化試合になって谷端の打撃が形になってたらナカタク下ろして2Bでスタメンにしてね、甲子園で試してみたい\n\nこれ仮に一軍呼んだタイミングで唐突に1B練習させてたりしたら🈲🈲🈲🈲 https://t.co/1rMwzpfhJq",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2066407832958971972",
+    "createdAt": "June 15, 2026 at 03:29PM"
+  },
+  {
+    "text": "阪神タイガース チーム状況(6/15)\n\n支配下登録選手で今季昇格なし\n・投手\n下村、今朝丸、早瀬、能登、岡留、石井\n・捕手\n町田、長坂、藤田\n・内野手\n谷端、佐野、山田\n・外野手\n豊田 https://t.co/WfE6dLEGxL",
+    "userName": "shin72826",
+    "tweetUrl": "https://twitter.com/shin72826/status/2066410589610729750",
+    "createdAt": "June 15, 2026 at 03:40PM"
+  },
+  {
+    "text": "個人的にも木浪は打撃を戻せば必要戦力なので二軍調整させるべきだと思うけども、内野(特に遊、三)の控えも兼ねてると思うと代わりが確かにいない\n小幡は調整中で中途半端に上げたくないし谷端はポジション違い、山田は二軍でも守れてなくて強いて言うなら佐野くらい\n他はまず再登録不可という状況",
+    "userName": "shin72826",
+    "tweetUrl": "https://twitter.com/shin72826/status/2066411705828311318",
+    "createdAt": "June 15, 2026 at 03:45PM"
+  },
+  {
+    "text": "阪神二軍野手成績(〜6/14)\n\nドラ2新人の谷端が少しずつ状態を上げ、ついに打率2割を突破。ここまで長打をあまり出せていないが、三振の率も低め。また、降格後のディベイニーも少ない打席数ながら快音を響かせている。一方、捕手陣が揃って1割5分以下の成績であり、非常に苦しい\n#阪神ファーム2026野手 https://t.co/rkNimbNvY8",
+    "userName": "shin72826",
+    "tweetUrl": "https://twitter.com/shin72826/status/2066414036300988685",
+    "createdAt": "June 15, 2026 at 03:54PM"
+  },
+  {
+    "text": "木浪落とせ落とせ言うてもね、代わりに上げられる内野手皆無だからしゃーない\n\n谷端百崎は正直甘めに見ても上げたところで岡城同様かなり厳しいし元山は日数的にまだ上げられない、ディベも木浪と変わらんし小幡はマシになってきたがまだ上げたくないフェーズ",
+    "userName": "HT_keiba",
+    "tweetUrl": "https://twitter.com/HT_keiba/status/2066415349994807738",
+    "createdAt": "June 15, 2026 at 03:59PM"
+  },
+  {
+    "text": "@Tigers_Tossy 谷端と立石の併用で良くねって思ったけど\nなぜかずっとセカンドやらされてて草\nマジで2軍機能してない",
+    "userName": "shiro_masa_",
+    "tweetUrl": "https://twitter.com/shiro_masa_/status/2066420363144425714",
+    "createdAt": "June 15, 2026 at 04:19PM"
+  },
+  {
+    "text": "#プロ野球 #ファーム #西地区 14日 #筑後\n★#阪神 2-8 ☆#ソフトバンク\n#先発 #能登嵩都 2本の本塁打を浴び2回0/3 4安打6失点で降板\n対し4回2/3を投げた上沢から7安打をマークも2得点にとどまり また #谷端将伍 はこの日3安打を放ちこれで5試合連続安打をマーク\n#野球 #阪神タイガース #2軍 #タマスタ https://t.co/dA41xV0Yyn",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2066429305513812354",
+    "createdAt": "June 15, 2026 at 04:55PM"
+  },
+  {
+    "text": "てか谷端を二塁で育成しているのが1番意外だったかもしれない\nなんとか牧にしような",
+    "userName": "baseballman_rx",
+    "tweetUrl": "https://twitter.com/baseballman_rx/status/2066433097764331933",
+    "createdAt": "June 15, 2026 at 05:10PM"
+  },
+  {
+    "text": "【ファーム・リーグ打撃成績（１５日）】\n\n◇打率（西地区）\n①山中稜真(オ)　.276\n②髙橋隆慶(ソ)　.271\n③石見颯真(ソ)　.254\n④河野聡太(オ)　.228\n⑤内藤鵬(オ)　.215\n⑥谷端将伍(神)　.213\n⑦池田陵真(オ)　.210\n⑧秋広優人(ソ)　.208\n\n#スポニチ #ファーム情報",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2066441727683281261",
+    "createdAt": "June 15, 2026 at 05:44PM"
+  },
+  {
+    "text": "立石と谷端のレプリカユニとどっちにしよう… https://t.co/4tOE9wWGir",
+    "userName": "JFK_2007",
+    "tweetUrl": "https://twitter.com/JFK_2007/status/2066445758203900350",
+    "createdAt": "June 15, 2026 at 06:00PM"
+  },
+  {
+    "text": "谷端上げるのは流石に早いやろ……",
+    "userName": "poisonous_knk",
+    "tweetUrl": "https://twitter.com/poisonous_knk/status/2066457181910937831",
+    "createdAt": "June 15, 2026 at 06:45PM"
+  },
+  {
+    "text": "谷端百崎がまだまだだろうが、どのみちチームの勝利に貢献できないなら若い方がマシなんですけど。\nチームの勝利に貢献できないおっさんとか1番いらないんですが。",
+    "userName": "5cl4BiFofIU5yaX",
+    "tweetUrl": "https://twitter.com/5cl4BiFofIU5yaX/status/2066461667408724176",
+    "createdAt": "June 15, 2026 at 07:03PM"
+  },
+  {
+    "text": "木浪を仮に下げるなら谷端上げてほしい",
+    "userName": "nagisa_wao",
+    "tweetUrl": "https://twitter.com/nagisa_wao/status/2066465989626380630",
+    "createdAt": "June 15, 2026 at 07:20PM"
+  },
+  {
+    "text": "@muchi_73 谷端ってまだ上がって来れんの？",
+    "userName": "huhutit",
+    "tweetUrl": "https://twitter.com/huhutit/status/2066467765339455958",
+    "createdAt": "June 15, 2026 at 07:28PM"
+  },
+  {
+    "text": "むしろ阪神ほど近年打撃に振り切ったドラフトしてるチームないやろ\n去年の1位2位立石谷端やぞ",
+    "userName": "KeijoTigers",
+    "tweetUrl": "https://twitter.com/KeijoTigers/status/2066468558356480464",
+    "createdAt": "June 15, 2026 at 07:31PM"
+  },
+  {
+    "text": "阪神タイガース 交換 シークレット toracoデー 石川 かに スタジアムヒーローズデー 缶バッジ トレーディングカード キーホルダー\n\n求 才木 谷端\n\n譲 森下 大山 熊谷 中野 坂本 伊藤 及川 村上\n\n郵送での交換です。お声がけお待ちしております。 https://t.co/EqrrhAIWzT",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2066470789965300089",
+    "createdAt": "June 15, 2026 at 07:40PM"
+  },
+  {
+    "text": "谷端くんは自力で伸びて来てるあたりが、如何にも阪神の大卒上位って感じする\n他の打者が伸び悩んでる中ようやっとる https://t.co/7GS36Qao4c",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://twitter.com/shio_arakajime/status/2066470866867859650",
+    "createdAt": "June 15, 2026 at 07:40PM"
+  },
+  {
+    "text": "阪神はドラ2で井上選んでみたり、前川とか百崎とか佐野とか谷端とか、ドラフト前から“打てなきゃお前に用ないよ”って選手は結構取ってんだよ\nむしろ守備型の選手こそ不足してる https://t.co/HInDphKMzN",
+    "userName": "KeijoTigers",
+    "tweetUrl": "https://twitter.com/KeijoTigers/status/2066473759067054556",
+    "createdAt": "June 15, 2026 at 07:51PM"
+  },
+  {
+    "text": "にしても他の球団の抹消昇格を見てると\n阪神って投手の入れ替えは激しいけど野手の入れ替えが希すぎる\nあんまりファーム追えてないんだけど今年もう２か月そろそろ頭角を現す選手が出てもいいはず\n谷端とかはどうなんだろうか",
+    "userName": "nayu31564",
+    "tweetUrl": "https://twitter.com/nayu31564/status/2066477581906669778",
+    "createdAt": "June 15, 2026 at 08:07PM"
+  },
+  {
+    "text": "@Llq7bV6rHj55339 う〜ちゃんさん\n🐯お疲れ様です\n２軍で気になる選手は3、4、5月は全然打たなかったんですけど最近打ちまくってる谷端将伍選手が気になります。",
+    "userName": "tora_mx13",
+    "tweetUrl": "https://twitter.com/tora_mx13/status/2066480962138251581",
+    "createdAt": "June 15, 2026 at 08:20PM"
+  },
+  {
+    "text": "@Llq7bV6rHj55339 1学年上のパ・リーグOPS4位の西川史礁選手と同じ東都大学リーグに所属してました。東都大学リーグ2024年春、秋の成績を見ると谷端選手OPS1.067・西川選手.853と谷端選手が上回っています。西川選手もプロ1年目の3〜5月の成績は率.145本塁打0本と苦戦しましたので谷端選手も全然これからだと思います。",
+    "userName": "tora_mx13",
+    "tweetUrl": "https://twitter.com/tora_mx13/status/2066482400092475480",
+    "createdAt": "June 15, 2026 at 08:26PM"
+  },
+  {
+    "text": "木浪の代わりがおらん派の奴はは、百崎やら谷端がモノになるまでゴミクズの木浪を使い続けるつもりなの？\nこれから伸びる可能性がある若手より、ろくに守備もできない終わったベテランを使うのが本当に正解だと思ってんの？\nベースは立石、休ませたいなら百崎でええやん。",
+    "userName": "5cl4BiFofIU5yaX",
+    "tweetUrl": "https://twitter.com/5cl4BiFofIU5yaX/status/2066486665284378807",
+    "createdAt": "June 15, 2026 at 08:43PM"
+  },
+  {
+    "text": "木浪落としても上げたい人いないししゃーなくないか\nまさか谷端上げてベンチ漬け？",
+    "userName": "pinboke02",
+    "tweetUrl": "https://twitter.com/pinboke02/status/2066499945449038312",
+    "createdAt": "June 15, 2026 at 09:35PM"
+  },
+  {
+    "text": "木浪下げたとしてもあげる人おらんよな谷端あげて欲しいけどベンチ漬けは地獄やからダメ",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2066515427161985450",
+    "createdAt": "June 15, 2026 at 10:37PM"
+  },
+  {
+    "text": "4日目レビュー\n\nリオハス(Texas)とアダムス(Alabama)の最高クラス先発の投げ合い！\n\nレブロンのスイングは日大みを感じますね！谷端みたいな？\n\n安打打ってあっさり走ると！やっぱりすげぇや",
+    "userName": "0420ShuN54",
+    "tweetUrl": "https://twitter.com/0420ShuN54/status/2066590681263645126",
+    "createdAt": "June 16, 2026 at 03:36AM"
+  },
+  {
+    "text": "散歩記録。令和8年6月15日(月)の朝は谷端川緑道、谷川端児童遊園等を歩きました。22,623歩。写真は朝の谷端川緑道で見かけた花。#1万歩クラブ https://t.co/DGfNV5Acig",
+    "userName": "animesama",
+    "tweetUrl": "https://twitter.com/animesama/status/2066593287646179512",
+    "createdAt": "June 16, 2026 at 03:46AM"
+  },
+  {
+    "text": "谷端くん、二軍でも苦しみまくって\n打率1割台が続いてたけど\n最近調子上げてきて2割超えてきたな",
+    "userName": "Jijii1623",
+    "tweetUrl": "https://twitter.com/Jijii1623/status/2066613483383500834",
+    "createdAt": "June 16, 2026 at 05:07AM"
+  },
+  {
+    "text": "おはようございます♪ \n昨日の朝は、サッカー⚽️日本代表の奮闘に感動させられました🥹阪神にも感動したいので、今日の🆚西武戦に先発する才木浩人投手の奮起に期待したいですね🤗阪神の他の選手たちも、今日明日の聖地決戦でファンに良いところを見せてください🙏下村海翔投手や谷端将伍選手にも期待😉 https://t.co/kcLBimPCM3",
+    "userName": "shintoraho",
+    "tweetUrl": "https://twitter.com/shintoraho/status/2066616937996788198",
+    "createdAt": "June 16, 2026 at 05:20AM"
   }
 ]
