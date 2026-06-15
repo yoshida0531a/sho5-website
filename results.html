@@ -96,36 +96,6 @@
       font-weight: 700;
       line-height: 1.2;
     }
-    .game-card {
-      background: #fff;
-      border-radius: 8px;
-      border: 1px solid #ececec;
-      padding: 10px 12px;
-      margin-bottom: 8px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 12px;
-    }
-    .game-date {
-      font-size: 12px;
-      color: #666;
-      margin-bottom: 2px;
-    }
-    .game-opponent {
-      font-size: 14px;
-      font-weight: 600;
-    }
-    .game-rbi {
-      font-size: 16px;
-      font-weight: 700;
-      white-space: nowrap;
-    }
-    .section-title {
-      font-size: 15px;
-      font-weight: 600;
-      margin: 2px 0 10px;
-    }
     .source-note {
       font-size: 11px;
       color: #888;
@@ -181,13 +151,6 @@
         <div class="source-note">引用元: <a href="https://baseball.yahoo.co.jp/npb/player/2118999/top" target="_blank" rel="noopener noreferrer">Yahoo!スポーツナビ</a></div>
       </div>
 
-      <div class="stats-card">
-        <div class="stats-card-title">試合結果</div>
-        <div class="section-title">直近3試合（打点のみ）</div>
-        <div id="recent-games"></div>
-        <div class="source-note">引用元: <a href="https://baseball.yahoo.co.jp/npb/player/2118999/top" target="_blank" rel="noopener noreferrer">Yahoo!スポーツナビ</a></div>
-      </div>
-
       <div class="last-updated" id="last-updated"></div>
     </div>
   </div>
@@ -202,28 +165,13 @@
       ).join('');
     }
 
-    function renderGames(games) {
-      const el = document.getElementById('recent-games');
-      if (!games.length) {
-        el.innerHTML = '<div class="no-data">試合データはまだありません</div>';
-        return;
-      }
-      el.innerHTML = games.map(g =>
-        `<div class="game-card"><div><div class="game-date">${g.date}</div><div class="game-opponent">vs ${g.opponent}</div></div><div class="game-rbi">打点 ${g.rbi}</div></div>`
-      ).join('');
-    }
-
     async function loadData() {
       try {
         const res = await fetch(RESULTS_DATA_URL, { cache: 'no-store' });
         if (!res.ok) throw new Error('結果データの取得に失敗しました');
         const data = await res.json();
 
-        const farmStats = data.farmSummary?.display || [];
-        const recentGames = (data.recentGames || []).slice(0, 3);
-
-        renderFarmStats(farmStats);
-        renderGames(recentGames);
+        renderFarmStats(data.farmSummary?.display || []);
 
         document.getElementById('last-updated').textContent =
           `最終更新: ${(data.lastUpdated || '').replaceAll('-', '/')}`;
