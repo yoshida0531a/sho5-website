@@ -110,5 +110,243 @@
     "displayName": "pomemaruwinter.bsky.social",
     "postUrl": "https://bsky.app/profile/pomemaruwinter.bsky.social/post/3mlika4erw22w",
     "createdAt": "2026-05-10T10:25:22.096Z"
+  },
+  {
+    "text": "暗渠になる前の谷端川！",
+    "handle": "yusura.nikkori.cafe",
+    "displayName": "花咲桜桃 (Yusura)",
+    "postUrl": "https://bsky.app/profile/yusura.nikkori.cafe/post/3mlhuuk2dek2v",
+    "createdAt": "2026-05-10T04:03:05.203Z"
+  },
+  {
+    "text": "谷端さんしっかり打点カウントしておりさすがです",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mlg22n6dbt2h",
+    "createdAt": "2026-05-09T10:30:39.002Z"
+  },
+  {
+    "text": "【阪神タイガース Youtube】【ハイライト】5/9(土) 神5-0ソ(SGL)| 茨木が7回無失点!谷端、岡城のルーキーコンビが活躍!濱田、ディベイニーが適時打で上昇気配! (2026-05-09) #阪神タイガース #tigers",
+    "handle": "bbinfo.bsky.social",
+    "displayName": "bbinfo__",
+    "postUrl": "https://bsky.app/profile/bbinfo.bsky.social/post/3mlfpy4nhfd26",
+    "createdAt": "2026-05-09T07:30:17.103570+00:00"
+  },
+  {
+    "text": "谷端のミート力",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mlfgiw3jhr2u",
+    "createdAt": "2026-05-09T04:40:43.274Z"
+  },
+  {
+    "text": "谷端打点素晴らしいです https://t.co/usv6V8Bm7s",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mlekttkwgs2h",
+    "createdAt": "2026-05-08T20:25:44.955Z"
+  },
+  {
+    "text": "Hanshin-Tigers: 【ハイライト】5/8(金) 神2－6ソ（ＳＧＬ）| 谷端が好守＆タイムリー！元山は2安打！先発能登は6回1失点の粘投！\n\nhttps://www.npbhub.com/868839/\n\n【ハイライト】5/8(金) 神2－6ソ（ＳＧＬ）| 谷端が好守＆タイムリー！元山は2安打！先発能登は6回1失点の粘投！ 阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします [...]",
+    "handle": "npbhub.bsky.social",
+    "displayName": "NPB HUB - Nippon Professional Baseball",
+    "postUrl": "https://bsky.app/profile/npbhub.bsky.social/post/3mldr44ukxa26",
+    "createdAt": "2026-05-08T12:45:02+00:00"
+  },
+  {
+    "text": "【阪神タイガース Youtube】【ハイライト】5/8(金) 神2-6ソ(SGL)| 谷端が好守&タイムリー!元山は2安打!先発能登は6回1失点の粘投! (2026-05-08) #阪神タイガース #tigers",
+    "handle": "bbinfo.bsky.social",
+    "displayName": "bbinfo__",
+    "postUrl": "https://bsky.app/profile/bbinfo.bsky.social/post/3mldqcap7po2d",
+    "createdAt": "2026-05-08T12:30:37.422988+00:00"
+  },
+  {
+    "text": "楽しそうでいい映像です\n\n2026.5.6 ルーキー３人でなにしてんやろ思ったら…  立石正広選手、山﨑照英選手、谷端将伍選手  #阪神タイガース  #sglスタジアム https://t.co/J00HPDs7WS @YouTubeより",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mlcmjpcpe22a",
+    "createdAt": "2026-05-08T01:50:32.944Z"
+  },
+  {
+    "text": "谷端はチーム打点トップだった",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3ml7wiezgei2o",
+    "createdAt": "2026-05-07T00:10:46.802Z"
+  },
+  {
+    "text": "谷端チーム打率首位キープ\nhttps://t.co/scQiwD2U01",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3ml5h5g5hph2a",
+    "createdAt": "2026-05-06T00:30:53.299Z"
+  },
+  {
+    "text": "谷端ナイス！！",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mkzf6yyleh2n",
+    "createdAt": "2026-05-04T09:45:20.176Z"
+  },
+  {
+    "text": "【阪神タイガース Youtube】【ハイライト】5/4(月祝) 神4-4広(SGL)| 初先発の木下が5回無失点の好投!谷端、嶋村、濱田にタイムリー!ディベイニー、島田は好守!延長で糸原がベテランの味! (2026-05-04) #阪神タイガース #tigers",
+    "handle": "bbinfo.bsky.social",
+    "displayName": "bbinfo__",
+    "postUrl": "https://bsky.app/profile/bbinfo.bsky.social/post/3mkzayy7l6e2d",
+    "createdAt": "2026-05-04T08:30:23.020627+00:00"
+  },
+  {
+    "text": "戸田の河川敷に咲く阪神タイガースファン。ディベイニーが頑張ってた！　嶋村くんも、神宮くんも、中川くんも、谷端くんも、かっこよかったです🐯🐯🐯🐯",
+    "handle": "new-mukomaru.bsky.social",
+    "displayName": "武庫川マル",
+    "postUrl": "https://bsky.app/profile/new-mukomaru.bsky.social/post/3mkwwscagr22r",
+    "createdAt": "2026-05-03T10:22:21.836Z"
+  },
+  {
+    "text": "戸田軍、2回表から石原勇輝さんが3イニング、佐藤琢磨さんが1イニング、阪口皓亮さんが2イニング、沼田翔平さんが1イニングを無失点で繋ぐ。4点リードの9回表は6番手の大道温貴さんがディベイニーの適時打などで2点を返されたが、最後はルーキー谷端将伍を遊ゴロに仕留めて逃げ切った。",
+    "handle": "tokyoondrusek.bsky.social",
+    "displayName": "椎名マオ",
+    "postUrl": "https://bsky.app/profile/tokyoondrusek.bsky.social/post/3mkwj6vdwicc5",
+    "createdAt": "2026-05-03T06:18:52.141Z"
+  },
+  {
+    "text": "いつもの谷端選手、さすがです https://t.co/ZhfntfyKOI",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mkp5zapkif2x",
+    "createdAt": "2026-04-30T08:10:13.359Z"
+  },
+  {
+    "text": "こう見るとセカンド要員いないんやな\nスーパーサブ的な熊谷を稼働せざるを得ないんやもんな\n谷端を何とか鍛えないと\n谷端は身体作りしたら化けそうなんやけどなぁ",
+    "handle": "pomemaruwinter.bsky.social",
+    "displayName": "pomemaruwinter.bsky.social",
+    "postUrl": "https://bsky.app/profile/pomemaruwinter.bsky.social/post/3mkmbnrxtcc2i",
+    "createdAt": "2026-04-29T04:37:24.598Z"
+  },
+  {
+    "text": "谷端は身体作りからさせた方がええと思うけどな\n正直線細かった印象あるし",
+    "handle": "pomemaruwinter.bsky.social",
+    "displayName": "pomemaruwinter.bsky.social",
+    "postUrl": "https://bsky.app/profile/pomemaruwinter.bsky.social/post/3mkkrw2bs522a",
+    "createdAt": "2026-04-28T14:23:02.141Z"
+  },
+  {
+    "text": "よし谷端ファームでは打点トップ",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mkgrj6m4ct2f",
+    "createdAt": "2026-04-27T00:05:11.480Z"
+  },
+  {
+    "text": "【阪神タイガース Youtube】【ハイライト】4/25(土) 神2-7オ(安芸)| 谷端、ディベイニーにタイムリー!山田、岡城は猛打賞をマーク! (2026-04-25) #阪神タイガース #tigers",
+    "handle": "bbinfo.bsky.social",
+    "displayName": "bbinfo__",
+    "postUrl": "https://bsky.app/profile/bbinfo.bsky.social/post/3mkchrs6hgi23",
+    "createdAt": "2026-04-25T07:00:24.023650+00:00"
+  },
+  {
+    "text": "谷端はファームで苦戦してるみたいやけど、彼は早生まれってのが影響してると思う\nキャンプ時で対応力に関しては中々高いものがあったが、伸びきらない感じやった\n谷端は身体作りしたら化けると思う\n打撃センスはあるけど出力が追いついていないタイプなんやないかな",
+    "handle": "pomemaruwinter.bsky.social",
+    "displayName": "pomemaruwinter.bsky.social",
+    "postUrl": "https://bsky.app/profile/pomemaruwinter.bsky.social/post/3mkcha2ekp22d",
+    "createdAt": "2026-04-25T06:50:28.708Z"
+  },
+  {
+    "text": "よし！谷端ナイス！",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mkcaststpi2t",
+    "createdAt": "2026-04-25T04:55:42.948Z"
+  },
+  {
+    "text": "正直、岡城君を代走からでしか使わないのものすごく勿体ない気もするけど阪神のチーム事情、層の厚さ的に現状はなぁ…。実際、岡城君達がバリッバリに活躍して欲しいのは２、3年後やろうしなぁ。まぁ今シーズンで見れば夏場、ぼつぼつ調子落とした選手が出た時に元気いっぱいで入れ替わってくれたらって感じよな。谷端君や、大本命立石とか。投手陣はなんとか今年こそ門別が形になって欲しいけど。今朝丸もどっかで上がってきて欲しいけど、焦る必要もないしな",
+    "handle": "mell-mk4.bsky.social",
+    "displayName": "mell",
+    "postUrl": "https://bsky.app/profile/mell-mk4.bsky.social/post/3miocealock24",
+    "createdAt": "2026-04-04T13:04:54.347Z"
+  },
+  {
+    "text": "阪神は代打の切り札がおらんと去年から言われてるが、嶋村か西か谷端あたりがなんとかなってくれんかいな。",
+    "handle": "shimojo1985.bsky.social",
+    "displayName": "おおざけ飲酒の会",
+    "postUrl": "https://bsky.app/profile/shimojo1985.bsky.social/post/3mijehbonds25",
+    "createdAt": "2026-04-02T13:59:04.947Z"
+  },
+  {
+    "text": "【2021年3月10日(水)21:33、ツイッターに投稿】\n板橋駅のホーム下を横切る連絡道は谷端川の旧河道を転用したものだ。谷端川は1960年代の初頭に暗渠になったが、板橋駅の下だけは整備が遅れ、1980年ごろまで川の流れが見られた。連絡道を歩いたとき、白蛇の息づかいを感じたような気がした。",
+    "handle": "masaharu-sugano.bsky.social",
+    "displayName": "菅野政治",
+    "postUrl": "https://bsky.app/profile/masaharu-sugano.bsky.social/post/3mijam45kic2u",
+    "createdAt": "2026-04-02T12:50:11.947Z"
+  },
+  {
+    "text": "【2021年3月10日(水)21:31、ツイッターに投稿】\nむかし、下板橋駅の近くに沼があり「お多福弁天沼」と呼ばれた。弁天様の使いに白蛇がいて、その白蛇を見た人はたくさんの幸福が授けられたという。やがて沼が埋められると白蛇は谷端川に住みかを移し、暗渠となってからは白蛇を見た人は誰もいない。",
+    "handle": "masaharu-sugano.bsky.social",
+    "displayName": "菅野政治",
+    "postUrl": "https://bsky.app/profile/masaharu-sugano.bsky.social/post/3mijakuryt22u",
+    "createdAt": "2026-04-02T12:49:30.672Z"
+  },
+  {
+    "text": "／サタケシュンスケ／信濃八太郎／四宮愛／JUN OSON／スージー甘金／TAO／高杉千明／高橋キンタロー／高橋将貴／竹井千佳／舘野鴻／谷端実／田渕正敏／丹下京子／チカツタケオ／土谷尚武／都築潤／デハラユキノリ／寺田順三／とんぼせんせい／中島花野／nakaban／中村隆／中村佑介／なつめさんち／Naffy／西村ツチカ／西山寛紀／二宮由希子／橋賢亀／彦坂木版工房／日菜乃／100%ORANGE／平井利和　（続く→）",
+    "handle": "illustration-mg.bsky.social",
+    "displayName": "illustration",
+    "postUrl": "https://bsky.app/profile/illustration-mg.bsky.social/post/3miivgtosnc2n",
+    "createdAt": "2026-04-02T09:30:24.146Z"
+  },
+  {
+    "text": "中川勇斗さんか谷端さんか石黒さんか工藤泰成さんのユニ欲しい",
+    "handle": "osayu.bsky.social",
+    "displayName": "osayu",
+    "postUrl": "https://bsky.app/profile/osayu.bsky.social/post/3mi7c3lkn6c2r",
+    "createdAt": "2026-03-29T13:50:07.782Z"
+  },
+  {
+    "text": "谷端さんナイスプレー！さすがですね",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mhznvg3lti22",
+    "createdAt": "2026-03-27T08:05:27.110Z"
+  },
+  {
+    "text": "百﨑素晴らしいな\n西純矢も谷端もよく打った\n前川は腐らずやってれば必ず出番は来るよ\n何か若手ほんまに育っとるな",
+    "handle": "pomemaruwinter.bsky.social",
+    "displayName": "pomemaruwinter.bsky.social",
+    "postUrl": "https://bsky.app/profile/pomemaruwinter.bsky.social/post/3mhxedu7jek26",
+    "createdAt": "2026-03-26T10:09:14.867Z"
+  },
+  {
+    "text": "ナイス谷端！",
+    "handle": "yoshida0531a.bsky.social",
+    "displayName": "ya",
+    "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mhwqc5lhwm2n",
+    "createdAt": "2026-03-26T04:10:22.732Z"
+  },
+  {
+    "text": "立石にも中川にも岡城にも嶋村にも谷端にも期待してるけど、俺はなんだかんだ前川はやってくれると信じとる\n2024の特に交流戦あたりの孤軍奮闘ぶりはほんま凄かった\n打撃に関しては天才的なセンスがあると思ってる",
+    "handle": "pomemaruwinter.bsky.social",
+    "displayName": "pomemaruwinter.bsky.social",
+    "postUrl": "https://bsky.app/profile/pomemaruwinter.bsky.social/post/3mhtobdpb622c",
+    "createdAt": "2026-03-24T22:56:08.913Z"
+  },
+  {
+    "text": "『 ■■■を殺すのは 』\n\nKP / あおのわたばね\n\nPC/PL\n谷端 藍 / 灯火 さん\n\nEND-D 生還\n┈┈┈┈┈┈┈┈┈┈┈┈┈\n快刀乱魔 自陣HO4月に回させてもらいました！！\n谷端さんに来てもらえて良かった…😭💕✨\nたくさん谷端さんについて知れました🙌\npoipiku.com/7434289/1288...",
+    "handle": "aono1315794.bsky.social",
+    "displayName": "あおのわたばね",
+    "postUrl": "https://bsky.app/profile/aono1315794.bsky.social/post/3mhqexcboys2x",
+    "createdAt": "2026-03-23T15:31:28.984Z"
+  },
+  {
+    "text": "近本選手の代わりは岡城くん\n中野選手の代わりは谷端くん\n佐藤選手の代わりは立石くん\nって感じ今のところはベンチの薄さは解消された感ある",
+    "handle": "furofukidaikondeco.bsky.social",
+    "displayName": "ジェフリー",
+    "postUrl": "https://bsky.app/profile/furofukidaikondeco.bsky.social/post/3mhlqvioy5s2h",
+    "createdAt": "2026-03-21T19:21:54.812Z"
+  },
+  {
+    "text": "立石くん、試合の後の挨拶もとても良くて。立石くんのホームランをとても喜ぶ谷端くんの表情もすごく良くて。\n\n今年のドラフト、大当たり🎯ですね。",
+    "handle": "new-mukomaru.bsky.social",
+    "displayName": "武庫川マル",
+    "postUrl": "https://bsky.app/profile/new-mukomaru.bsky.social/post/3mhibc6ieo22j",
+    "createdAt": "2026-03-20T10:04:41.233Z"
   }
 ]
