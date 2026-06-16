@@ -7,13 +7,6 @@
     "createdAt": "2026-06-16T11:13:42.022Z"
   },
   {
-    "text": "【公式】ムーミン谷でみずあそび 2026 | ムーミンバレーパーク・メッツァビレッジ｜metsa（メッツァ）\n\nhttps://www.walknews.com/1323037/\n\nムーミンバレーパークに隣接する「メッツァビレッジ」では、 例年好評を博している雲海を今年も開催します。4 回目の開催となる今回は、豪華景品が当たるネーミングコンテストや、「地産地生の会」によるマロニエの実や西川材の端材で [...]",
-    "handle": "walknews.bsky.social",
-    "displayName": "WALK NEWS - News Japan & Japanese News",
-    "postUrl": "https://bsky.app/profile/walknews.bsky.social/post/3moauyqtyu42l",
-    "createdAt": "2026-06-14T13:32:17+00:00"
-  },
-  {
     "text": "谷端ナイス！",
     "handle": "yoshida0531a.bsky.social",
     "displayName": "ya",
@@ -26,76 +19,6 @@
     "displayName": "ぅぷす",
     "postUrl": "https://bsky.app/profile/kappasoup.bsky.social/post/3mo7wtjkkus2t",
     "createdAt": "2026-06-14T04:32:35.592Z"
-  },
-  {
-    "text": "一乗谷駅、福井方面。 #ホームの端党",
-    "handle": "chiaki25.bsky.social",
-    "displayName": "Chiaki",
-    "postUrl": "https://bsky.app/profile/chiaki25.bsky.social/post/3mo6n2i5kzc2g",
-    "createdAt": "2026-06-13T16:04:51.793Z"
-  },
-  {
-    "text": "一乗谷駅、九頭竜湖方面。 #ホームの端党",
-    "handle": "chiaki25.bsky.social",
-    "displayName": "Chiaki",
-    "postUrl": "https://bsky.app/profile/chiaki25.bsky.social/post/3mo544nisz222",
-    "createdAt": "2026-06-13T01:29:11.167Z"
-  },
-  {
-    "text": "【公式】ムーミン谷でみずあそび 2026 | ムーミンバレーパーク・メッツァビレッジ｜metsa（メッツァ）\n\nhttps://www.wacoca.com/news/2859392/\n\nムーミンバレーパークに隣接する「メッツァビレッジ」では、 例年好評を博している雲海を今年も開催します。4 回目の開催となる今回は、豪華景品が当たるネーミングコンテストや、「地産地生の会」によるマロニエの実や西川材の端材で [...]",
-    "handle": "cocanews.bsky.social",
-    "displayName": "Coca News",
-    "postUrl": "https://bsky.app/profile/cocanews.bsky.social/post/3mo47oi3kig2c",
-    "createdAt": "2026-06-12T17:00:08+00:00"
-  },
-  {
-    "text": "【公式】ムーミン谷でみずあそび 2026 | ムーミンバレーパーク・メッツァビレッジ｜metsa（メッツァ）\n\nhttps://www.wacoca.com/news/2859392/\n\nムーミンバレーパークに隣接する「メッツァビレッジ」では、 例年好評を博している雲海を今年も開催します。4 回目の開催となる今回は、豪華景品が当たるネーミングコンテストや、「地産地生の会」によるマロニエの実や西川材の端材で [...]",
-    "handle": "cocanews.bsky.social",
-    "displayName": "Coca News",
-    "postUrl": "https://bsky.app/profile/cocanews.bsky.social/post/3mo4627comd22",
-    "createdAt": "2026-06-12T16:30:54+00:00"
-  },
-  {
-    "text": "【公式】ムーミン谷でみずあそび 2026 | ムーミンバレーパーク・メッツァビレッジ｜metsa（メッツァ）\n\nhttps://www.wacoca.com/news/2859392/\n\nムーミンバレーパークに隣接する「メッツァビレッジ」では、 例年好評を博している雲海を今年も開催します。4 回目の開催となる今回は、豪華景品が当たるネーミングコンテストや、「地産地生の会」によるマロニエの実や西川材の端材で [...]",
-    "handle": "cocanews.bsky.social",
-    "displayName": "Coca News",
-    "postUrl": "https://bsky.app/profile/cocanews.bsky.social/post/3mo44gdti2p2o",
-    "createdAt": "2026-06-12T16:01:54+00:00"
-  },
-  {
-    "text": "ﾚﾗにちゃんと両親はいるんだけど、子供にしっかりとした教育を与えなければこの子の未来が狭まると思って抜け出そうとしたら失敗し、両親を置いて谷を超えて市街の端にたどり着く。なので頑張れば帰れる。ただ両親の言っていたことを知りたいので帰らない。探究心強い",
-    "handle": "oyasyosouko.bsky.social",
-    "displayName": "𝖮𝖸𝖠𝖲𝖸𝖮",
-    "postUrl": "https://bsky.app/profile/oyasyosouko.bsky.social/post/3mnuhz4l5q226",
-    "createdAt": "2026-06-09T15:08:00.057Z"
-  },
-  {
-    "text": "【美国观察：苹果 AI 的“隐私悖论”？】\n\nArs Technica 报道，苹果在推广 Apple Intelligence 时强调隐私，但部分模型实际上运行在谷歌服务器上。苹果声称通过私有云计算（Private Cloud Compute）技术，谷歌无法访问数据。\n\n分析：这揭示了端侧算力与云端大模型之间的矛盾。苹果试图在“利用第三方基础设施”和“维持隐私人设”之间走钢丝。对用户而言，核心在于信任苹果的加密链路是否真的能屏蔽云供应商。\n\n关注：未来其他厂商是否会采用类似架构，以及监管机构如何定义这种“云端隐私”。\n\n#美国观察 #AI #苹果 #隐私 #谷歌",
-    "handle": "uswatch.nzcow.com",
-    "displayName": "美国观察",
-    "postUrl": "https://bsky.app/profile/uswatch.nzcow.com/post/3mnuedbfdmu2a",
-    "createdAt": "2026-06-09T14:02:04Z"
-  },
-  {
-    "text": "今天的苹果WWDC26开发者大会成为库克CEO生涯的谢幕演出，同时标志着Siri的全面AI化革新\n\n1. 库克时代终章\n•65岁库克以200字质朴演讲告别15年CEO生涯，强调苹果\"用产品丰富生活\"的核心理念\n•9月接班人选特努斯虽未登台，但权力过渡平稳进行\n\n2. Siri AI革命\n•架构升级：\n◦联姻谷歌Gemini技术打造新一代基础模型，端云协同算力突破\n◦第二代端侧模型实现语音/视觉/文本全模态理解，响应速度提升30%\n•核心能力：\n◦个人情境理解（调用本地照片/信息等私有数据）\n◦屏幕感知（实时解析界面内容）\n◦App操作自动化（如邮件起草/相册管理）\n◦空间构图",
-    "handle": "cryptoknightai.bsky.social",
-    "displayName": "Crypto Knight",
-    "postUrl": "https://bsky.app/profile/cryptoknightai.bsky.social/post/3mntvvwvfh22m",
-    "createdAt": "2026-06-09T09:44:06.084Z"
-  },
-  {
-    "text": "AI功能藏了4GB，删了还自动下，谷歌这回学乖了\n\nChrome v149正式版新增设备端AI管理开关，用户可禁用功能并删除约4GB的本地模型文件，此前手动删除会触发自动重复下载。\n\n消息来源：推特\nhttps://x.com/intent/follow?screen_name=landiantech",
-    "handle": "tongzhuodeni.bsky.social",
-    "displayName": "同桌的你",
-    "postUrl": "https://bsky.app/profile/tongzhuodeni.bsky.social/post/3mnoml6zk3g2g",
-    "createdAt": "2026-06-07T07:13:42.122272+00:00"
-  },
-  {
-    "text": "Google Play Store 谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/e753e227221a\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "hellorounding.bsky.social",
-    "displayName": "hellorounding",
-    "postUrl": "https://bsky.app/profile/hellorounding.bsky.social/post/3mnl6ugbxys2f",
-    "createdAt": "2026-06-05T22:30:19.429409Z"
   },
   {
     "text": "今年はもう無理やからやれること全部試してみてほしい。前川一塁も中川捕手も谷端二塁もぜんぶ試そう。やれること全部やって来年は優勝しよう。今年はもう無理や。ヤクルトのオカルト躁鬱パワーに勝てるわけない。",
@@ -119,20 +42,6 @@
     "createdAt": "2026-06-01T11:53:07.127Z"
   },
   {
-    "text": "鬼谷八荒 全DLC +全mod+ 送修改器 pc手机双端\n\n资源url：https://pan.quark.cn/s/3ea74a15c3cd\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "annoying66.bsky.social",
-    "displayName": "annoying66",
-    "postUrl": "https://bsky.app/profile/annoying66.bsky.social/post/3mn4ehdddyl2n",
-    "createdAt": "2026-05-31T01:00:26.525425Z"
-  },
-  {
-    "text": "【PC/手机双端】星露谷物语 全DLC 单机+联机 送300MOD(Stardew valley)免安装中文版\n\n资源url：https://pan.quark.cn/s/266e86d399ce\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "darkroom05.bsky.social",
-    "displayName": "darkroom",
-    "postUrl": "https://bsky.app/profile/darkroom05.bsky.social/post/3mn3jmbqtd22e",
-    "createdAt": "2026-05-30T17:00:01.380804Z"
-  },
-  {
     "text": "谷端イイね！",
     "handle": "yoshida0531a.bsky.social",
     "displayName": "ya",
@@ -147,20 +56,6 @@
     "createdAt": "2026-05-27T06:45:25.407Z"
   },
   {
-    "text": "这是今年吃过印象最深的白人饭，沙拉的食材别致健康美味，当时服务员端咖啡来时还逗我说“看我给你拉花了一只什么？”\n\n现在这只是封存的美好记忆之一了，我并没有很想再吃什么白人饭了，哪怕是漂亮高贵的。毕竟现在要吃健康美味的，一下子恢复了太多选择，一时无从下嘴。好多之前的东西顿时和我基本毫无瓜葛，包括那些年里的痛苦、挣扎、孤单和无助。所以我比以前更明白，太多人并不理解我的很多经历和感触，一部分是不在乎，一部分是不相干，一部分是不在位。当然无论如何，这些年，我一直很感恩自己有那些哪怕并不完全理解，却始终记得在低谷期时紧紧拉住我不放的真心朋友，仅仅用comfort food来形容它们，都是远远不够的。",
-    "handle": "tsiu.bsky.social",
-    "displayName": "Sublunary",
-    "postUrl": "https://bsky.app/profile/tsiu.bsky.social/post/3mmnxyyfrdk2q",
-    "createdAt": "2026-05-25T07:40:25.740Z"
-  },
-  {
-    "text": "📢 这个春天开始，硅谷的办公室里，敲打键盘的哒哒声正在被嘀嘀咕咕的人声取代。有风险投资人调侃，现在去硅谷的AI创业公司拜访，感觉像走进了一个高端呼叫中心，只不过所有人都在跟AI聊天：员工们戴着电竞耳机坐在工位上，对着麦克风发号施令。...",
-    "handle": "wenxuecity.nzcow.com",
-    "displayName": "文学城新闻 非官方",
-    "postUrl": "https://bsky.app/profile/wenxuecity.nzcow.com/post/3mmm7msiozo2a",
-    "createdAt": "2026-05-24T14:51:27.278238+00:00"
-  },
-  {
     "text": "谷端ファイト！！https://t.co/Qdx1KIgW7m",
     "handle": "yoshida0531a.bsky.social",
     "displayName": "ya",
@@ -168,39 +63,11 @@
     "createdAt": "2026-05-22T11:45:41.764Z"
   },
   {
-    "text": "#青空ワールドツアー🎲\n#🌻お題ルーマニアと言えば\n\nおはようございます😀\n\n朝っぱらから何なんですが‥‥ルーマニアでまず思いつくのが、ブラン城――別名をドラキュラ城🧛\nワラキア公国の君主ヴラド・ツェペシュは、国境を接するオスマン帝国の侵入から国土を守る戦いを続けていました。とくに1462年の戦いでは2万人のトルコ兵を串刺しにしたことから、ドラキュラ伝説が誕生しました。\n\n@aichariotrx.bsky.social\n\n#AICFAS #AIイラスト #AIart 👉ALT欄の生成プロンプトはご自由にお使いください",
-    "handle": "pahoo.org",
-    "displayName": "パパぱふぅ@𝙥𝙖𝙝𝙤𝙤.𝙤𝙧𝙜",
-    "postUrl": "https://bsky.app/profile/pahoo.org/post/3mmff22icfs2t",
-    "createdAt": "2026-05-21T21:39:42.491Z"
-  },
-  {
-    "text": "Epic Games Store推出移动端免费游戏服务，每周四更新免费领取内容。Android用户全球可下载，iOS玩家限欧洲联盟地区。本周免费游戏《纪念碑谷》（Monument Valley），限时7天领取，操控纪念碑探索进化路径。APP支持iOS与Android共通库6款作品、Android独占库10款解谜叙事游戏，需注册免费账号并安装应用。\n#EpicGamesStore #免费游戏 #iOS #Android\n👇\nhttps://xiaomuacg.com/news/4668",
-    "handle": "xiaomuacg.com",
-    "displayName": "小木游戏情报",
-    "postUrl": "https://bsky.app/profile/xiaomuacg.com/post/3mmevs5cclh2c",
-    "createdAt": "2026-05-21T17:06:49.803Z"
-  },
-  {
-    "text": "谷歌终于发现自己的图标长得像兄弟连了。\n\n谷歌更新了邮箱、云端硬盘、日历等应用图标，增强辨识度，此前2021年同质化设计遭用户吐槽。新版图标立体感更强，已在苹果iPhone端同步更新。\n\n消息来源：环球网\nhttps://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
-    "handle": "tongzhuodeni.bsky.social",
-    "displayName": "同桌的你",
-    "postUrl": "https://bsky.app/profile/tongzhuodeni.bsky.social/post/3mm6rlyaw5y2a",
-    "createdAt": "2026-05-19T06:35:50.136328+00:00"
-  },
-  {
     "text": "鉄人谷端 https://t.co/N7p9ljS219",
     "handle": "yoshida0531a.bsky.social",
     "displayName": "ya",
     "postUrl": "https://bsky.app/profile/yoshida0531a.bsky.social/post/3mlyqajqvox2x",
     "createdAt": "2026-05-16T20:55:34.335Z"
-  },
-  {
-    "text": "563の怪獣 マカセロンドン / 大西洋の マカロネシア諸島に出没。いろんな島の山や谷、森や海岸 等 幅広く目撃されている。どう行き来してるかは わかっていない。目撃時は 常に 上体を起こし しっぽだけで立つが、移動してる姿も目撃されてない。でも その立ち姿には 頼もしさを感じる。(2023年作成) #怪獣 #くうそう #生成AI不使用作品",
-    "handle": "takahashimile.bsky.social",
-    "displayName": "高橋マイル",
-    "postUrl": "https://bsky.app/profile/takahashimile.bsky.social/post/3mlxg4qp3y22o",
-    "createdAt": "2026-05-16T08:21:50.289Z"
   },
   {
     "text": "谷端心配 https://t.co/YIOvYQeOaV",
@@ -217,34 +84,6 @@
     "createdAt": "2026-05-16T07:20:09.145Z"
   },
   {
-    "text": "Google Play Store 谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/e2284c399244\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "annoying66.bsky.social",
-    "displayName": "annoying66",
-    "postUrl": "https://bsky.app/profile/annoying66.bsky.social/post/3mltdtw7cln2c",
-    "createdAt": "2026-05-14T17:30:25.948495Z"
-  },
-  {
-    "text": "Google Play Store 谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/1adf35ccab7e\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "annoying66.bsky.social",
-    "displayName": "annoying66",
-    "postUrl": "https://bsky.app/profile/annoying66.bsky.social/post/3mlswgjrnki24",
-    "createdAt": "2026-05-14T13:30:18.006007Z"
-  },
-  {
-    "text": "#CDN的收藏夹\nFW: K4YT3X's Channel - Telegram\n\n如果数据真的留在设备上，为什么需要改措辞？对 ToS 和隐私政策（其次是产品说明）的改动是最能体现公司的价值观和实际目标的\n\nhttps://cybernews.com/ai-news/chrome-removes-ai-privacy-wording-google-says-data-still-stays-on-device/\n\n前情提要：Chrome 会静默在后台下载 4GB 的AI 模型 […] \n\n[Original post on scg.owu.one]",
-    "handle": "cdn0x12.scg.owu.one",
-    "displayName": "CDN",
-    "postUrl": "https://bsky.app/profile/cdn0x12.scg.owu.one/post/3mlsdr4ghizh2",
-    "createdAt": "2026-05-14T07:55:49.000Z"
-  },
-  {
-    "text": "云游？云端谷歌地图游？移民的话，走地面交通也不是不行吧👀💦",
-    "handle": "colalake.bsky.social",
-    "displayName": "Stellar",
-    "postUrl": "https://bsky.app/profile/colalake.bsky.social/post/3mlrvv2b6fc2l",
-    "createdAt": "2026-05-14T03:47:53.330Z"
-  },
-  {
     "text": "谷端ファイト！ https://t.co/0wcZsVfj2u",
     "handle": "yoshida0531a.bsky.social",
     "displayName": "ya",
@@ -257,76 +96,6 @@
     "displayName": "裏本田・柴志朗（鈴木達也）",
     "postUrl": "https://bsky.app/profile/ssurahonda.bsky.social/post/3mlrgu6ar722k",
     "createdAt": "2026-05-13T23:18:57.828Z"
-  },
-  {
-    "text": "糸の端の扉は中央砦の谷のカニとクラゲの間らへんの確か東側で近くにアーツで破壊する像がある辺りだったかと\nソロで細枝拾ったときは３回拾い直して雨に突っ込んで消化したりしてました",
-    "handle": "ryopppchuho.bsky.social",
-    "displayName": "りょ",
-    "postUrl": "https://bsky.app/profile/ryopppchuho.bsky.social/post/3mlrd3yxrss25",
-    "createdAt": "2026-05-13T22:11:45.760Z"
-  },
-  {
-    "text": "3. 生态布局\n•硬件合作：联合宏碁、戴尔等厂商推出Googlebook，未来扩展至手表、汽车等设备。\n•分阶段落地：Gemini功能将分批推送，优先支持三星Galaxy/谷歌Pixel手机。\n争议与挑战\n•用户质疑功能创新性（被指“旧功能重组”），且实际体验依赖后续优化。\n•与苹果Apple Intelligence的正面竞争即将爆发，移动端AI进入“全系统集成”新阶段\n\n此次更新凸显谷歌“AI泛在化”战略，未来将安卓进化为主动服务的智能中枢，最终解决碎片化生态与用户体验一致性难题",
-    "handle": "cryptoknightai.bsky.social",
-    "displayName": "Crypto Knight",
-    "postUrl": "https://bsky.app/profile/cryptoknightai.bsky.social/post/3mlq4rqdmk22y",
-    "createdAt": "2026-05-13T10:45:58.954Z"
-  },
-  {
-    "text": "把碎片拼成一整块，再叫它不碎\n\n谷歌公布 Googlebook 处理器合作伙伴包括英特尔、高通、联发科，称将制定严格规范避免硬件生态碎片化，所有设备提供一致高端体验。\n\n消息来源：IT之家\nhttps://www.ithome.com/0/949/686.htm",
-    "handle": "tongzhuodeni.bsky.social",
-    "displayName": "同桌的你",
-    "postUrl": "https://bsky.app/profile/tongzhuodeni.bsky.social/post/3mlpr6rw4j22q",
-    "createdAt": "2026-05-13T07:18:31.694600+00:00"
-  },
-  {
-    "text": "谷歌帮用户查间谍，就像房东帮你查锁匠有没有偷配钥匙。\n\n谷歌为安卓系统新增间谍软件调查功能，可深度分析日志排查间谍软件攻击，日志加密上传云端避免本地删除，该功能2025年开发，近日开始推送。\n\n消息来源：推特\nhttps://x.com/intent/follow?screen_name=landiantech",
-    "handle": "tongzhuodeni.bsky.social",
-    "displayName": "同桌的你",
-    "postUrl": "https://bsky.app/profile/tongzhuodeni.bsky.social/post/3mlpalvdlly24",
-    "createdAt": "2026-05-13T02:21:37.373301+00:00"
-  },
-  {
-    "text": "Android 17 的 AI 叫 Gemini Intelligence，听起来比叫“小爱”更适合卖给企业\n\n谷歌发布 Android 17 预览版，深度集成 AI 服务，命名为 Gemini Intelligence，支持主动式与设备端 AI 功能。\n\n消息来源：OurLabs\nhttps://x.com/intent/follow?screen_name=landiantech",
-    "handle": "tongzhuodeni.bsky.social",
-    "displayName": "同桌的你",
-    "postUrl": "https://bsky.app/profile/tongzhuodeni.bsky.social/post/3mlp7r2mvrk2s",
-    "createdAt": "2026-05-13T02:06:36.954139+00:00"
-  },
-  {
-    "text": "Google Play Store 谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/c7685505c72d\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "yesokplease.bsky.social",
-    "displayName": "yesokplease",
-    "postUrl": "https://bsky.app/profile/yesokplease.bsky.social/post/3mlp42qzkee2x",
-    "createdAt": "2026-05-13T01:00:25.984121Z"
-  },
-  {
-    "text": "Google Play Store 谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/c5a4288ef9b0\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "blasphemy666.bsky.social",
-    "displayName": "blasphemy",
-    "postUrl": "https://bsky.app/profile/blasphemy666.bsky.social/post/3mllz5avthf2q",
-    "createdAt": "2026-05-11T19:30:09.577190Z"
-  },
-  {
-    "text": "Google Play Store谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/82ee7fac49aa\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "yesokplease.bsky.social",
-    "displayName": "yesokplease",
-    "postUrl": "https://bsky.app/profile/yesokplease.bsky.social/post/3mllshf4ryp2y",
-    "createdAt": "2026-05-11T17:30:33.346969Z"
-  },
-  {
-    "text": "ios 端我测试了一下，可以用上面方法用安卓机登陆Telegram，创建一个谷歌通行密钥。然后在 ios 端登录时选择通行密钥 (passkey) 登陆，这时选择 Chrome 方式，在安卓机打开 chrome 扫描二维码，按照提示即可成功登陆 Telegram\n\n最后建议起码有一台移动端保持登陆，防止后续无法登陆。",
-    "handle": "ogiksuckie.bsky.social",
-    "displayName": "ogiksuckie.bsky.social",
-    "postUrl": "https://bsky.app/profile/ogiksuckie.bsky.social/post/3mlke2ndhwk2g",
-    "createdAt": "2026-05-11T03:40:15.578Z"
-  },
-  {
-    "text": "Google Play Store 谷歌商店，谷歌应用市场，安卓系统官方应用商店客户端\n\n资源url：https://pan.quark.cn/s/d884d9997fda\n\n海量资源频道：https://t.me/okpojie\n海量资源网站：https://www.okpojie.com/",
-    "handle": "hellorounding.bsky.social",
-    "displayName": "hellorounding",
-    "postUrl": "https://bsky.app/profile/hellorounding.bsky.social/post/3mljxrg2gqq2s",
-    "createdAt": "2026-05-11T00:00:19.231103Z"
   },
   {
     "text": "谷端はかなりの早生まれやから、実質的には茨木門別と同世代やと思ってる\n気が早いが、この冬やな\nこの3人がどれだけ身体を作り上げてくるか、楽しみやね\n多分激変するチャンスやと思うし",
