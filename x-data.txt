@@ -12508,5 +12508,323 @@
     "userName": "shintoraho",
     "tweetUrl": "https://twitter.com/shintoraho/status/2066616937996788198",
     "createdAt": "June 16, 2026 at 05:20AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/DsLlq1VbcH",
+    "userName": "wxmx07589",
+    "tweetUrl": "https://twitter.com/wxmx07589/status/2066635810481512760",
+    "createdAt": "June 16, 2026 at 06:35AM"
+  },
+  {
+    "text": "２軍の注目選手を取り上げる企画「飛び出せ大物」。今回は #谷端将伍内 野手（２２）＝日大＝を取り上げる。谷端はシーズン開幕からプロの壁にぶつかり、一時は打率も落ち込んだが、現在５試合連続安打中と好調をキープ。１軍初昇格を目指し、研さんを積む若虎の現在地に迫る。#阪神タイガース https://t.co/xW16u8GvSK",
+    "userName": "nnm20190423",
+    "tweetUrl": "https://twitter.com/nnm20190423/status/2066637016423670137",
+    "createdAt": "June 16, 2026 at 06:40AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」/阪神タイガース/デイリースポーツ online https://t.co/abi5PwiXpj @Daily_Onlineより \n\n#hanshin",
+    "userName": "thomas_kz",
+    "tweetUrl": "https://twitter.com/thomas_kz/status/2066650499349442695",
+    "createdAt": "June 16, 2026 at 07:34AM"
+  },
+  {
+    "text": "@Tigers_queen12 谷端渋いですね！見かけたらお声掛けさせていただきます😆",
+    "userName": "chaula_shaula",
+    "tweetUrl": "https://twitter.com/chaula_shaula/status/2066653256596812221",
+    "createdAt": "June 16, 2026 at 07:45AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」（デイリースポーツ）\n#Yahooニュース\n https://t.co/mI5EjI3xvA",
+    "userName": "kabunomikoto24",
+    "tweetUrl": "https://twitter.com/kabunomikoto24/status/2066656390123540494",
+    "createdAt": "June 16, 2026 at 07:57AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」\nhttps://t.co/QXyOAblAla #阪神 #tigers #阪神タイガース #大谷翔平 #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2066663829321511216",
+    "createdAt": "June 16, 2026 at 08:27AM"
+  },
+  {
+    "text": "\"阪神・ドラ2谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」\" https://t.co/B4kSqYoR1v",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://twitter.com/a2Clgr2kMDUEQBN/status/2066679868784595425",
+    "createdAt": "June 16, 2026 at 09:30AM"
+  },
+  {
+    "text": "\"阪神・ドラ2谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」\" https://t.co/B4kSqYoR1v",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://twitter.com/a2Clgr2kMDUEQBN/status/2066679969863049585",
+    "createdAt": "June 16, 2026 at 09:31AM"
+  },
+  {
+    "text": "\"阪神・ドラ2谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」\" https://t.co/B4kSqYoR1v",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://twitter.com/a2Clgr2kMDUEQBN/status/2066679992596189527",
+    "createdAt": "June 16, 2026 at 09:31AM"
+  },
+  {
+    "text": "阪神・ドラ２谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」/阪神タイガース/デイリースポーツ online https://t.co/oVwyzT354K",
+    "userName": "dailytigers2026",
+    "tweetUrl": "https://twitter.com/dailytigers2026/status/2066682888045879564",
+    "createdAt": "June 16, 2026 at 09:42AM"
+  },
+  {
+    "text": "ドラ２谷端“らしさ”戻った精神面の成長「切り替え甘かった」立石＆岡城を「追い越せるように」(阪神Vデイリー) https://t.co/BZjvcSSFYa",
+    "userName": "OTA34__Miyo26_",
+    "tweetUrl": "https://twitter.com/OTA34__Miyo26_/status/2066688812949160070",
+    "createdAt": "June 16, 2026 at 10:06AM"
+  },
+  {
+    "text": "称号「谷端 将伍コレクター(ブロンズ)」をゲット！！ https://t.co/byIR9Sm4e3 #Tコレ #阪神タイガース",
+    "userName": "RNdieoqvi",
+    "tweetUrl": "https://twitter.com/RNdieoqvi/status/2066691499883143245",
+    "createdAt": "June 16, 2026 at 10:17AM"
+  },
+  {
+    "text": "取材を受けながら帰る #谷端将伍 選手 https://t.co/0YKjdGMeBo",
+    "userName": "tamae_sport",
+    "tweetUrl": "https://twitter.com/tamae_sport/status/2066718645448057296",
+    "createdAt": "June 16, 2026 at 12:04PM"
+  },
+  {
+    "text": "スーツ谷端くんありがてぇ",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2066719013619847419",
+    "createdAt": "June 16, 2026 at 12:06PM"
+  },
+  {
+    "text": "谷端キーエンス営業顔すぎる",
+    "userName": "chanchakachaa",
+    "tweetUrl": "https://twitter.com/chanchakachaa/status/2066719435369631879",
+    "createdAt": "June 16, 2026 at 12:08PM"
+  },
+  {
+    "text": "神宮くん全く追えてないけど反応見た感じ支配下近そうな感じなのね、早瀬くん成長して谷端が完成すればとんでもない当たりドラフトになりそうで嬉しい",
+    "userName": "R_tigers_8",
+    "tweetUrl": "https://twitter.com/R_tigers_8/status/2066750516064125036",
+    "createdAt": "June 16, 2026 at 02:11PM"
+  },
+  {
+    "text": "自分がSGLに見に行った時だから5月の初旬ころ、結構いい感じで打ってたからすぐに一軍上がってくるかと思ってた。ポジションがセカンドだからなのかな。\nまあそのうち上がってくるだろうし、活躍を期待してます。\n#谷端将伍選手 https://t.co/dXQDPVYlc1",
+    "userName": "YGBpKbzwrTBpWgP",
+    "tweetUrl": "https://twitter.com/YGBpKbzwrTBpWgP/status/2066764993614487656",
+    "createdAt": "June 16, 2026 at 03:09PM"
+  },
+  {
+    "text": "阪神タイガース\nシークレットかに2連アクリルキーホルダー\n\n【譲】佐藤、谷端\n\n【求】森下\n\n#阪神タイガース交換",
+    "userName": "msom_137",
+    "tweetUrl": "https://twitter.com/msom_137/status/2066767212984299995",
+    "createdAt": "June 16, 2026 at 03:17PM"
+  },
+  {
+    "text": "ダークネス山本さんの大ファンではないですがファンなのでシャイニング谷端に改名します",
+    "userName": "Zing99112",
+    "tweetUrl": "https://twitter.com/Zing99112/status/2066796144580345966",
+    "createdAt": "June 16, 2026 at 05:12PM"
+  },
+  {
+    "text": "こんばんは🌙五番大山が打たないから佐藤が敬遠され大量得点が入らない（泣）大山の打順を下げるかディベイニーを使う、栄田使わないなら谷端を上げる🎳糸原を下げ井坪ぐらいみたい🐯今日こそ勝つばい🐯",
+    "userName": "yotchan_8",
+    "tweetUrl": "https://twitter.com/yotchan_8/status/2066805096458191358",
+    "createdAt": "June 16, 2026 at 05:48PM"
+  },
+  {
+    "text": "これは結局LF中川がどれだけ首脳陣の想定に入ってるかで、去年0から外野仕込んで一軍に居させつつ捕手と並行は難しいよなと\n\n本来は立石(谷端)が加入した昨オフに佐藤の外野構想をメインにして中川の捕手練習を再開させれば良かったと思う\n今の布陣になってLF専の中川の使いづらさに気づいたんかね https://t.co/eXKyYfUYWn",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2066809183887139165",
+    "createdAt": "June 16, 2026 at 06:04PM"
+  },
+  {
+    "text": "立石は少々打てなくても出すか、谷端あたりの内野手と争わせんとアカンだろうな。\n#hanshin",
+    "userName": "fumitakeinada",
+    "tweetUrl": "https://twitter.com/fumitakeinada/status/2066817555306828111",
+    "createdAt": "June 16, 2026 at 06:37PM"
+  },
+  {
+    "text": "「本来は中川の打撃成績云々抜きに立石谷端が入団した昨オフの時点でちゃんと捕手練させとけ」と\n「それはそれとして今捕手復帰させることにアドはある」は全然両立するんだけど？",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2066823058103623803",
+    "createdAt": "June 16, 2026 at 06:59PM"
+  },
+  {
+    "text": "ダークネス山本⇆シャイニング谷端",
+    "userName": "Zing99112",
+    "tweetUrl": "https://twitter.com/Zing99112/status/2066823601287012562",
+    "createdAt": "June 16, 2026 at 07:02PM"
+  },
+  {
+    "text": "立石だいぶ苦しいけど、テルや森下だって2年目くらいまでは苦しい時期がちょくちょくあったので、どうにか頑張って。\n\nなんなら谷端そろそろ来いや",
+    "userName": "olg3y",
+    "tweetUrl": "https://twitter.com/olg3y/status/2066830430020788335",
+    "createdAt": "June 16, 2026 at 07:29PM"
+  },
+  {
+    "text": "やっぱボール球スイング・三振が低めの谷端が適応して長打が出始めるのを待つよ\n立石と谷端の三塁起用を待つ",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2066832692491255857",
+    "createdAt": "June 16, 2026 at 07:38PM"
+  },
+  {
+    "text": "阪神タイガース　グッズ　譲\n\n譲　谷端将俉\n\n求　定価〜\n\n郵送も可能ですが甲子園、SGL日程が合えば手渡し希望\n\nお気軽にお声掛けください\n\n#阪神タイガースグッズ交換 #阪神タイガースグッズ譲　#谷端将俉 https://t.co/SGY9QYvH4M",
+    "userName": "R_1127_ri",
+    "tweetUrl": "https://twitter.com/R_1127_ri/status/2066832910049812837",
+    "createdAt": "June 16, 2026 at 07:39PM"
+  },
+  {
+    "text": "立石正広は一旦抹消して再調整した方がいいのかな💦\n\nディベイニーなら次のハマスタのDeNA戦から再登録可能ですが、\n\n谷端将伍を好調な今のうちに上で見たい🤭\n\n2軍ではほぼ二塁専従でしたが、元々は三塁が主戦でしたから👍",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2066846331503858060",
+    "createdAt": "June 16, 2026 at 08:32PM"
+  },
+  {
+    "text": "@wasshi_tigers サトテルや清原、牧が異質なだけであって立石、谷端、岡本、筒香が模範例やからな",
+    "userName": "kick8675",
+    "tweetUrl": "https://twitter.com/kick8675/status/2066850000014024717",
+    "createdAt": "June 16, 2026 at 08:46PM"
+  },
+  {
+    "text": "まぁ佐藤も森下も\nずっと三振してましたよ\n\nでも立石のサードは諦めたらあかんでしょ\n\n代わりに競わせるのが谷端なら\nまだ良いですが木浪使うような\n首脳陣なんでセンス無いんでね\n\n立石は佐藤森下居る時に\nプロ1年目迎えられたのは幸運やろ\n\n悔しさ乗り越えて偉大な選手になってください",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2066850621119181179",
+    "createdAt": "June 16, 2026 at 08:49PM"
+  },
+  {
+    "text": "@2yaNtabe シャイニング谷端、たにばたともうします",
+    "userName": "Zing99112",
+    "tweetUrl": "https://twitter.com/Zing99112/status/2066856507464208885",
+    "createdAt": "June 16, 2026 at 09:12PM"
+  },
+  {
+    "text": "連覇なんか無理なんやから立石も谷端も岡城も全員上で使えよゴミが",
+    "userName": "mwkjmtjmwpttm",
+    "tweetUrl": "https://twitter.com/mwkjmtjmwpttm/status/2066859549559242925",
+    "createdAt": "June 16, 2026 at 09:24PM"
+  },
+  {
+    "text": "糸原のクソ凡打見るくらいなら立石の三振を見ていたいですよ\nてことで平田は谷端を3B起用しときなさい",
+    "userName": "hskajtj",
+    "tweetUrl": "https://twitter.com/hskajtj/status/2066860694595854830",
+    "createdAt": "June 16, 2026 at 09:29PM"
+  },
+  {
+    "text": "谷端を昇格させよう（提案）",
+    "userName": "prospi6x",
+    "tweetUrl": "https://twitter.com/prospi6x/status/2066862987298922657",
+    "createdAt": "June 16, 2026 at 09:38PM"
+  },
+  {
+    "text": "@Alector1 というか別に二軍戦でやる事ない程の成績で上がって来たわけでもないし、ルーキーイヤー森下も二軍行ったやろ\n本物なら自分から上がって来るやろ\n別に木浪のミス見せられるくらいなら谷端サードでエラーしても良いわ",
+    "userName": "wbtYiPLfdZvwh6p",
+    "tweetUrl": "https://twitter.com/wbtYiPLfdZvwh6p/status/2066864195304563036",
+    "createdAt": "June 16, 2026 at 09:43PM"
+  },
+  {
+    "text": "たぶんテル三塁は交流戦おわるまでやらんやろうから\n明日藤川はするのは変わらず立石するか木浪やろな\nそこで結果出なければ抹消になりそう\n立石はまだ早すぎた思うけどね。\n今だけでいうならまだ谷端の方がうってる",
+    "userName": "basbollmoyashi1",
+    "tweetUrl": "https://twitter.com/basbollmoyashi1/status/2066864201881280637",
+    "createdAt": "June 16, 2026 at 09:43PM"
+  },
+  {
+    "text": "@wbtYiPLfdZvwh6p 上げてすぐは活躍したから時期尚早ではなかったが、普通にやれることはあるし、本物なら這い上がれるね\nその時に木浪出すぐらいなら谷端出すか、佐藤サードにして外野の面子出すかどっちか",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2066864808134328562",
+    "createdAt": "June 16, 2026 at 09:45PM"
+  },
+  {
+    "text": "@hk_tigers 今日、ヒット打ってるけど、肝心なところで凡退してるからかなり重症ぽいんよなぁ大山。元山はショート、セカンド、ファースト守れるし、2軍の中やと谷端と同じぐらい打てると思うから、試しにスタメンで使って欲しいんよなぁ。というかなんで元山を抹消したし？",
+    "userName": "ShinMas007",
+    "tweetUrl": "https://twitter.com/ShinMas007/status/2066868279478779913",
+    "createdAt": "June 16, 2026 at 09:59PM"
+  },
+  {
+    "text": "明日立石結果出んかったら谷端と入れ替えかもね #hanshin #tigers",
+    "userName": "shuhey334",
+    "tweetUrl": "https://twitter.com/shuhey334/status/2066869799549071723",
+    "createdAt": "June 16, 2026 at 10:05PM"
+  },
+  {
+    "text": "交流戦明けには\n榮枝　元山\n木浪→小野寺\n岡城　井坪\nとかになってくるのかな\n後は立石落として谷端とかもありだと思う",
+    "userName": "Gkingmm",
+    "tweetUrl": "https://twitter.com/Gkingmm/status/2066870950839431505",
+    "createdAt": "June 16, 2026 at 10:10PM"
+  },
+  {
+    "text": "@kkkkkkk99chika 相手がセ・リーグになると打ち出すかもしれんからもう暫くは我慢でいいと思う。\nその間に谷端、百崎辺りが調子を上げてくれたら立石が悪くても若手で代用できるのは強い",
+    "userName": "Vspotteiina",
+    "tweetUrl": "https://twitter.com/Vspotteiina/status/2066873257693999249",
+    "createdAt": "June 16, 2026 at 10:19PM"
+  },
+  {
+    "text": "谷端なんとかサードできない...? https://t.co/7dc1ExGVtj",
+    "userName": "Ukrscrimea",
+    "tweetUrl": "https://twitter.com/Ukrscrimea/status/2066873521155039659",
+    "createdAt": "June 16, 2026 at 10:20PM"
+  },
+  {
+    "text": "@takahirobei 同じルーキーの谷端とかは？",
+    "userName": "arata100314",
+    "tweetUrl": "https://twitter.com/arata100314/status/2066878876941488289",
+    "createdAt": "June 16, 2026 at 10:41PM"
+  },
+  {
+    "text": "さぁ、そろそろ谷端の逆襲はじまるかなぁ\n立石が苦しんでる今こそ一気にサードのポジション奪い取れ https://t.co/Az2FqMr24m",
+    "userName": "seikoudoku_tora",
+    "tweetUrl": "https://twitter.com/seikoudoku_tora/status/2066880761874243920",
+    "createdAt": "June 16, 2026 at 10:49PM"
+  },
+  {
+    "text": "ほんまにたらればだけど\n谷端が1B3B両方を均等に練習して二軍水準で打撃成績が通用してたらいま結構重要なピースになった気もするよなぁ、悔しいな\n\n2B専になってることはともかく打撃はもう少し時間がかかると見るしかない、2位指名を正解にしてくれ",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2066886745631945062",
+    "createdAt": "June 16, 2026 at 11:12PM"
+  },
+  {
+    "text": "@turnaboh_0529 @tigerschannel72 暗黒時代はしてたんだよなぁ……\n\n暗黒時代なら\n谷端ー3番\n立石ー4番\nだな……",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2066889876893769813",
+    "createdAt": "June 16, 2026 at 11:25PM"
+  },
+  {
+    "text": "基本ストレートにスイング掛けれてたのに変化振らされるすぎて見逃し三振くらったの見て流石にもう一度作り直さなまずそうに見えたけど、外しても択が福島入れて佐藤サードくらいしかないんよな。谷端、ディベイニーはここに入って来てくれるくらいにはいて欲しかった",
+    "userName": "JaIl92zlveWN7va",
+    "tweetUrl": "https://twitter.com/JaIl92zlveWN7va/status/2066900050668851304",
+    "createdAt": "June 17, 2026 at 12:05AM"
+  },
+  {
+    "text": "谷端とか直近で打ってるし、成績関係なく、直近で打ってたらすぐあげちゃう球児ならあるか？",
+    "userName": "pokopoko9419",
+    "tweetUrl": "https://twitter.com/pokopoko9419/status/2066920126331703697",
+    "createdAt": "June 17, 2026 at 01:25AM"
+  },
+  {
+    "text": "立石もそうやけど谷端も岡城もまず150キロの速球打つ練習させないと話にならないよ。\n新人だけに限った事ではなく阪神の野手全般的に速球派が出てくるとお手上げ状態。\nもっと速球を弾き返せる打撃を身につける事やね。\n#阪神タイガース",
+    "userName": "goronpa_X",
+    "tweetUrl": "https://twitter.com/goronpa_X/status/2066936604955152642",
+    "createdAt": "June 17, 2026 at 02:31AM"
+  },
+  {
+    "text": "称号「谷端 将伍コレクター(ブロンズ)」をゲット！！ https://t.co/VhDoCzqB9o #Tコレ #阪神タイガース",
+    "userName": "wild_i_george",
+    "tweetUrl": "https://twitter.com/wild_i_george/status/2066945044171632640",
+    "createdAt": "June 17, 2026 at 03:04AM"
+  },
+  {
+    "text": "つくづく谷端にセカンドだけやらせてるのがアホすぎる",
+    "userName": "nakina_ya",
+    "tweetUrl": "https://twitter.com/nakina_ya/status/2066949984709439987",
+    "createdAt": "June 17, 2026 at 03:24AM"
+  },
+  {
+    "text": "@Tigers_Tossy あと今すぐじゃないにしても谷端は期待してる。でも二塁やってんだよな…",
+    "userName": "bGSVBNUbFN35413",
+    "tweetUrl": "https://twitter.com/bGSVBNUbFN35413/status/2066950975701828067",
+    "createdAt": "June 17, 2026 at 03:28AM"
+  },
+  {
+    "text": "阪神ちゃん仮に後半戦盛り返しても、セカンドリーグでイキってるだけ扱いになるのしんどすぎますね…\n\n立石選手はしゃーない、.238 前後がスーパースターへの系譜だから一旦調整して戻ってきてくれたら。\n谷端選手上げてこないかな",
+    "userName": "makimyon316",
+    "tweetUrl": "https://twitter.com/makimyon316/status/2066966584430850452",
+    "createdAt": "June 17, 2026 at 04:30AM"
   }
 ]
