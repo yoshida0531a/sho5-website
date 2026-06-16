@@ -2454,5 +2454,13 @@
     "publishedAt": "June 15, 2026 at 07:41AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2軍で絶好調の選手#阪神タイガース #プロ野球 #甲子園 #交流戦 ＃野球＃谷端省吾＃阪神2軍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=mW-HmY63HNA",
+    "publishedAt": "June 16, 2026 at 12:01PM",
+    "description": "2軍で絶好調の選手.",
+    "keyword": "谷端 阪神"
   }
 ]
