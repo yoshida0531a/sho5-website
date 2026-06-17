@@ -12826,5 +12826,521 @@
     "userName": "makimyon316",
     "tweetUrl": "https://twitter.com/makimyon316/status/2066966584430850452",
     "createdAt": "June 17, 2026 at 04:30AM"
+  },
+  {
+    "text": "は、立石降格か\n\n谷端上げよ\n\n木浪はだめ",
+    "userName": "kagamitaiga1996",
+    "tweetUrl": "https://twitter.com/kagamitaiga1996/status/2066988312091558088",
+    "createdAt": "June 17, 2026 at 05:56AM"
+  },
+  {
+    "text": "谷端って言ってる人居るけど、彼2Bしかやってないんよね\n\nあんま打ててないし",
+    "userName": "Tigers_Tossy",
+    "tweetUrl": "https://twitter.com/Tigers_Tossy/status/2066989738729648514",
+    "createdAt": "June 17, 2026 at 06:02AM"
+  },
+  {
+    "text": "立石に関しては間違いなくネガティブな降格ではないので、しっかり二軍で調子上げてきてくれたらええわ\n代わりの昇格井坪やと嬉しいけどそうすると外野多くなり過ぎるんよなぁ\n岡城あたり一緒に落とすか、ワンチャン谷端昇格とか？",
+    "userName": "shojimurakani",
+    "tweetUrl": "https://twitter.com/shojimurakani/status/2066994469262750110",
+    "createdAt": "June 17, 2026 at 06:20AM"
+  },
+  {
+    "text": "ただ谷端も最近調子良いとはいえ現状一軍で戦えるイメージも湧かないので上げたとしてもホンマに空気吸わせるだけにはなりそうではある",
+    "userName": "shojimurakani",
+    "tweetUrl": "https://twitter.com/shojimurakani/status/2066994787266498575",
+    "createdAt": "June 17, 2026 at 06:22AM"
+  },
+  {
+    "text": "@Tigers_140609 代わりに谷端見たいなぁ",
+    "userName": "umakeiba55",
+    "tweetUrl": "https://twitter.com/umakeiba55/status/2066999426347127075",
+    "createdAt": "June 17, 2026 at 06:40AM"
+  },
+  {
+    "text": "最近、調子上げてる谷端を上げて欲しい。\n立石にとっても刺激になるはず。 https://t.co/hxX1a9L2zD",
+    "userName": "Sato8_Teru",
+    "tweetUrl": "https://twitter.com/Sato8_Teru/status/2067001360189645028",
+    "createdAt": "June 17, 2026 at 06:48AM"
+  },
+  {
+    "text": "@Tigers_Tossy 谷端はサードしてないから井坪ですかね。テルはサード戻すしかないかと。",
+    "userName": "WeGvyfKxBUYWs8b",
+    "tweetUrl": "https://twitter.com/WeGvyfKxBUYWs8b/status/2067002203320340979",
+    "createdAt": "June 17, 2026 at 06:51AM"
+  },
+  {
+    "text": "本来谷端も候補になるはずなんやけど\nなぜかセカンドしかやってないんですよね\n本当に平田はなにをしてるんやろか",
+    "userName": "shiro_masa_",
+    "tweetUrl": "https://twitter.com/shiro_masa_/status/2067015803938201845",
+    "createdAt": "June 17, 2026 at 07:45AM"
+  },
+  {
+    "text": "立石の代わりは\nトータルの打率悪いけど\n最近ちょっと温まってきた\n谷端な気がする… https://t.co/gnZkKKRF4o",
+    "userName": "Fo4PnhpJ8xLIEcN",
+    "tweetUrl": "https://twitter.com/Fo4PnhpJ8xLIEcN/status/2067017934602690898",
+    "createdAt": "June 17, 2026 at 07:54AM"
+  },
+  {
+    "text": "サード糸原で凌ぐか？\nあるいはようやく調子上がってきた谷端でいくか\nそれともサード佐藤輝に戻すか\nウルトラCでサード小野寺でいくか\nマジで難しい",
+    "userName": "baseballman_rx",
+    "tweetUrl": "https://twitter.com/baseballman_rx/status/2067019933855461797",
+    "createdAt": "June 17, 2026 at 08:02AM"
+  },
+  {
+    "text": "仕方ない、見つめ直してきてくれ\nここでCF福島3B髙寺ができるチームなら超強いんだろうけどそうならない気もする\nとはいえ佐藤は3Bに戻さんだろうし\n\nこれを想定して谷端が3B練習してて、かつ打撃もある程度仕上がってればアツかったんだけどねぇ\n早起き3Bはホンマにやめろよ？ https://t.co/qo0CJlLafH",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2067019939807199276",
+    "createdAt": "June 17, 2026 at 08:02AM"
+  },
+  {
+    "text": "@Tigers_140609 谷端サード説。流石にないか。",
+    "userName": "torae_mon",
+    "tweetUrl": "https://twitter.com/torae_mon/status/2067025651794890820",
+    "createdAt": "June 17, 2026 at 08:24AM"
+  },
+  {
+    "text": "まあ立石育てながら勝つには他の選手の頑張りが足りないってのが実情かな\nどうしても期待がかかるしファームで打席立って自信つける方が先かもね\n\n正直立石以外のサード候補もつらいが\n谷端もまだまだかかりそうだし佐野太陽上げてくるようには思えんし",
+    "userName": "NPBzuttomodayo",
+    "tweetUrl": "https://twitter.com/NPBzuttomodayo/status/2067030817050955950",
+    "createdAt": "June 17, 2026 at 08:45AM"
+  },
+  {
+    "text": "谷端に関しては本人がセカンドで勝負したいってのもあるし、中野がいつ衰えてもおかしくない状況でセカンド育てたい側面もあるやろうな\n立石が来年以降のサードのレギュラーとの想定でいくと首脳陣側がセカンドでってのも納得はできる",
+    "userName": "VaOG5pE7KI38313",
+    "tweetUrl": "https://twitter.com/VaOG5pE7KI38313/status/2067032821693403409",
+    "createdAt": "June 17, 2026 at 08:53AM"
+  },
+  {
+    "text": "谷端上げてもセカンドだけじゃん…って人\n正味今のセカンドは打撃にちょっと危険な匂いがあるので別に良いんじゃないかとか思ってはいる",
+    "userName": "TerabaseA",
+    "tweetUrl": "https://twitter.com/TerabaseA/status/2067036707065896970",
+    "createdAt": "June 17, 2026 at 09:08AM"
+  },
+  {
+    "text": "@shiro_masa_ 谷端についてはセカンドの後釜なので間違いではないのでは？？",
+    "userName": "1aiMHnK2kK46523",
+    "tweetUrl": "https://twitter.com/1aiMHnK2kK46523/status/2067038708499657033",
+    "createdAt": "June 17, 2026 at 09:16AM"
+  },
+  {
+    "text": "ここで立石落とすなら森下・佐藤輝の守備位置は戻すべきやね\n今更木浪や糸原のサード見たくないし\nファームから谷端上げてサードならまだ我慢出来るけど上げる程の要素は今の所無いしね\n今の時点で立石我慢出来んのならサード空けとく必要は無いから又レフトをチャレンジ枠に戻すのが得策やろね",
+    "userName": "tzZfF8DLgkgtkpm",
+    "tweetUrl": "https://twitter.com/tzZfF8DLgkgtkpm/status/2067047688311648629",
+    "createdAt": "June 17, 2026 at 09:52AM"
+  },
+  {
+    "text": "@Tigers_140609 今年はもうテルを外野から動かさないって決めてるんだったらサードは百崎なり谷端あげて使ってください\n木浪スタメンなら終わりです",
+    "userName": "OBqf5MJPlX55046",
+    "tweetUrl": "https://twitter.com/OBqf5MJPlX55046/status/2067048458058629140",
+    "createdAt": "June 17, 2026 at 09:55AM"
+  },
+  {
+    "text": "代わりに谷端昇格とかありそうよなぁ\nいい形だから崩れる前に二軍で定着させて欲しいけど",
+    "userName": "ChikaTigers",
+    "tweetUrl": "https://twitter.com/ChikaTigers/status/2067048781108195495",
+    "createdAt": "June 17, 2026 at 09:56AM"
+  },
+  {
+    "text": "立石より木浪のほうが悲惨なの藤川球児は分かってないんだろうか？\n\n立石は木浪と違って最低限のサード守備はできるんだよね。まぁ立石が2軍いったって事はサード佐藤のレフトに福島･前川などにしてくれるのかしら\n\n佐藤がメジャーに行った後の後釜は立石か谷端がやらないとやばいんですよ",
+    "userName": "kurusixe",
+    "tweetUrl": "https://twitter.com/kurusixe/status/2067049452821758130",
+    "createdAt": "June 17, 2026 at 09:59AM"
+  },
+  {
+    "text": "谷端君にもチャンスを！！！ https://t.co/It9CLSwZh5",
+    "userName": "katsuhito0227",
+    "tweetUrl": "https://twitter.com/katsuhito0227/status/2067049943626641733",
+    "createdAt": "June 17, 2026 at 10:01AM"
+  },
+  {
+    "text": "立石を落とすことは全然いい。\nしかし代わりがまったくいないとはいえ、0が延命してるの納得いかない。\n他の若手もっと奮起してくれよ。\nあと谷端をセカンドで使い続けてるのも。 https://t.co/vKNTtt6HKF",
+    "userName": "opaopasa",
+    "tweetUrl": "https://twitter.com/opaopasa/status/2067051949737050308",
+    "createdAt": "June 17, 2026 at 10:09AM"
+  },
+  {
+    "text": "谷端上げるんならなんの問題もない\n技術と自信つけ直して這い上がってきてくれ https://t.co/XFf0wH5FE9",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2067052310438846748",
+    "createdAt": "June 17, 2026 at 10:10AM"
+  },
+  {
+    "text": "立石二軍かぁ。\n誰上げるかねー。地味に直近しっかり打席に立って4割近くある谷端でいくかい？\n育成投手ではなく上沢からマルチ、大関から1本はかなり評価出来ると思うけど、ポジションがなぁ。\n\nとりあえず今日はサード糸原でいってみないか？\nサードの守備は安定してるで。",
+    "userName": "arakide11",
+    "tweetUrl": "https://twitter.com/arakide11/status/2067060892014174650",
+    "createdAt": "June 17, 2026 at 10:44AM"
+  },
+  {
+    "text": "立石二軍降格はやむなし\nちょっと自分のバッティングを見失ってる感があったので一旦強く振れる姿勢をまた思い出してほしい\n上がるとしたら今調子いいメンツで井坪辺り？谷端も調子よさげだけどやっと2割乗ったところだとまだ早いし\n\n#hanshin\n#阪神タイガース",
+    "userName": "Matsuno_mayor",
+    "tweetUrl": "https://twitter.com/Matsuno_mayor/status/2067078944797736974",
+    "createdAt": "June 17, 2026 at 11:56AM"
+  },
+  {
+    "text": "@TigersDreamlink 谷端選手のサイン色紙プレゼント、素敵な企画ですね！ファームの選手を応援できる機会に感謝です。頑張ってください！",
+    "userName": "MrKayslick",
+    "tweetUrl": "https://twitter.com/MrKayslick/status/2067080684892524895",
+    "createdAt": "June 17, 2026 at 12:03PM"
+  },
+  {
+    "text": "@TigersDreamlink 若手にスポット当てる企画いいね🔥\nこういうリアルな声聞けると応援したくなる…谷端選手ここから一気に伸びそう",
+    "userName": "TradeNexify",
+    "tweetUrl": "https://twitter.com/TradeNexify/status/2067082823492657441",
+    "createdAt": "June 17, 2026 at 12:12PM"
+  },
+  {
+    "text": "立石降格かー。まあ最近の打席の内容良くなかったから仕方ないかという感じ。\nてことはまたサードにテル戻してまたレフト蠱毒させるんかな。個人的には井坪とか気になるけども。\nあとは気になるので谷端とか？内野手だけど",
+    "userName": "tigers_fun_FUK",
+    "tweetUrl": "https://twitter.com/tigers_fun_FUK/status/2067084904081535133",
+    "createdAt": "June 17, 2026 at 12:20PM"
+  },
+  {
+    "text": "谷端、脩也、あと一人わからんだれかな https://t.co/f2Y7CUqQFQ",
+    "userName": "wak_omelet",
+    "tweetUrl": "https://twitter.com/wak_omelet/status/2067084923757072409",
+    "createdAt": "June 17, 2026 at 12:20PM"
+  },
+  {
+    "text": "立石下げるなら谷端上げろ！オラ！ https://t.co/xAPiffgT0G",
+    "userName": "may525t",
+    "tweetUrl": "https://twitter.com/may525t/status/2067085899863851066",
+    "createdAt": "June 17, 2026 at 12:24PM"
+  },
+  {
+    "text": "イケメン谷端早く上がってこい！ https://t.co/tdOIjRQUYc",
+    "userName": "silverhawk1986",
+    "tweetUrl": "https://twitter.com/silverhawk1986/status/2067086550371066188",
+    "createdAt": "June 17, 2026 at 12:26PM"
+  },
+  {
+    "text": "谷端の成績みると\n山田と変わらんよ？　あいつ",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2067090667336273942",
+    "createdAt": "June 17, 2026 at 12:43PM"
+  },
+  {
+    "text": "@shiro_masa_ 谷端これなのに可哀想だ https://t.co/pqwkTIQViV",
+    "userName": "kagamitaiga1996",
+    "tweetUrl": "https://twitter.com/kagamitaiga1996/status/2067099617595105383",
+    "createdAt": "June 17, 2026 at 01:18PM"
+  },
+  {
+    "text": "@kagamitaiga1996 谷端に関してはそもそもセカンドしかやらせてない平田がバカ\n\nサードもやらせてたら普通に上げてる\nアルナエス戸井とかで遊んでる暇はなかったのに",
+    "userName": "shiro_masa_",
+    "tweetUrl": "https://twitter.com/shiro_masa_/status/2067100266353316074",
+    "createdAt": "June 17, 2026 at 01:21PM"
+  },
+  {
+    "text": "立石4三振で涙か\n悔しいけど、どうしたらいいのかわからない状態かな？\nじっくりファームで現実に向き合ってレベルアップして戻ってきてほしいね❗️\n\nじゃ、誰を上げる？ってなったら、いま好調の谷端を上げてすぐスタメンで使ってくれないかな、ないか🐯",
+    "userName": "taiga_no_suke31",
+    "tweetUrl": "https://twitter.com/taiga_no_suke31/status/2067105916059865342",
+    "createdAt": "June 17, 2026 at 01:43PM"
+  },
+  {
+    "text": "谷端ってアマチュア時代サードよね なんでセカンドやっての早よ上げろ",
+    "userName": "Asagaya2004",
+    "tweetUrl": "https://twitter.com/Asagaya2004/status/2067106179080441901",
+    "createdAt": "June 17, 2026 at 01:44PM"
+  },
+  {
+    "text": "一瞬でも谷端を期待したおれが馬鹿やった https://t.co/cn5J7PxZNP",
+    "userName": "6AE0aRsMYn60885",
+    "tweetUrl": "https://twitter.com/6AE0aRsMYn60885/status/2067106603795681674",
+    "createdAt": "June 17, 2026 at 01:46PM"
+  },
+  {
+    "text": "立石が抹消になったことでスタメンはどう変わるのか。\n小幡、木浪、糸原で回していくのか\n輝をサードに戻して前川、福島、を起用していくのか\nそれとも百崎、谷端、佐野にチャンスを与えるのか見物ですね。\n #阪神タイガース  #hanshin",
+    "userName": "L9a12XlZNcNZdKz",
+    "tweetUrl": "https://twitter.com/L9a12XlZNcNZdKz/status/2067107502651736343",
+    "createdAt": "June 17, 2026 at 01:50PM"
+  },
+  {
+    "text": "二軍調整させるのは蕎麦屋だろうに\n下はファースト守る奴が育成しかいなくて(谷端にやらせてない)ちょうどいいでしょ",
+    "userName": "nakina_ya",
+    "tweetUrl": "https://twitter.com/nakina_ya/status/2067108600120828242",
+    "createdAt": "June 17, 2026 at 01:54PM"
+  },
+  {
+    "text": "個人的には谷端を上げてサードで使ってほしいところ",
+    "userName": "ark2539",
+    "tweetUrl": "https://twitter.com/ark2539/status/2067111329169850798",
+    "createdAt": "June 17, 2026 at 02:05PM"
+  },
+  {
+    "text": "木浪の選択肢あるならキャム試せよ\nそれか佐野百崎とか守らせたらいいのに\n谷端がもう少し打撃良くなれば見たいけど",
+    "userName": "kouya_tigers99",
+    "tweetUrl": "https://twitter.com/kouya_tigers99/status/2067114352373883343",
+    "createdAt": "June 17, 2026 at 02:17PM"
+  },
+  {
+    "text": "せめて谷端だろ上げるなら",
+    "userName": "himazinB18",
+    "tweetUrl": "https://twitter.com/himazinB18/status/2067117519870312670",
+    "createdAt": "June 17, 2026 at 02:29PM"
+  },
+  {
+    "text": "小野寺と小幡が一軍か\n最近打ててる井坪とか谷端じゃなかったんやな…",
+    "userName": "yasuraoka777",
+    "tweetUrl": "https://twitter.com/yasuraoka777/status/2067118083412836771",
+    "createdAt": "June 17, 2026 at 02:32PM"
+  },
+  {
+    "text": "小幡なら一回谷端試すなりモモ使うなりして欲しいよな",
+    "userName": "m_turbo69life",
+    "tweetUrl": "https://twitter.com/m_turbo69life/status/2067124355700789423",
+    "createdAt": "June 17, 2026 at 02:57PM"
+  },
+  {
+    "text": "立石↔︎谷端は流石になかったか",
+    "userName": "tigerspapi",
+    "tweetUrl": "https://twitter.com/tigerspapi/status/2067126564924567851",
+    "createdAt": "June 17, 2026 at 03:05PM"
+  },
+  {
+    "text": "@caschildren それなら結果は出てないが谷端の方が\n最近何か良さそうですし",
+    "userName": "mouko_33",
+    "tweetUrl": "https://twitter.com/mouko_33/status/2067129188566589780",
+    "createdAt": "June 17, 2026 at 03:16PM"
+  },
+  {
+    "text": "サード立石で見込むのは良いとして\nダメやった時にすぐベテランに逃げるの\nやめましょう\n\nそれで勝てるなら良いですが\nそれも一時的なものでしょ\n\nここで谷端とかチョイスできれば\n名将ポイント上がるんですけどね\n\nまぁ無理でしょ\n\nもう期待できるような采配は\n見せてもらってないし\nしんどいかな",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2067132866467868829",
+    "createdAt": "June 17, 2026 at 03:30PM"
+  },
+  {
+    "text": "レフトに井坪、サードに百﨑試してみる価値あると思うけどな。\n谷端も状態徐々に上がってるし使ってもいいと思うけど。",
+    "userName": "Red_rab1",
+    "tweetUrl": "https://twitter.com/Red_rab1/status/2067136614783152452",
+    "createdAt": "June 17, 2026 at 03:45PM"
+  },
+  {
+    "text": "立石だってそりゃ今よくない\nでもね。代わりに上げるのが小幡って話だけど、2軍で4-1とかは打ってるけど内容良く無いよ？\nなんなら今は谷端の方が内容ええで？\n更にサトテルをライトにしてまで使った立石だよ？\nそええならまだまだ使え\nというより采配に整合性がない",
+    "userName": "mlzoi7ghjJLY69z",
+    "tweetUrl": "https://twitter.com/mlzoi7ghjJLY69z/status/2067138005094248683",
+    "createdAt": "June 17, 2026 at 03:51PM"
+  },
+  {
+    "text": "首脳陣の頭にサードは佐藤立石木浪糸原ぐらいしか選択肢なさそうで鬱\nサード立石にするメリットの1つに立石があかんくても髙寺ディベイニー百崎谷端とかを試せるってとこがあるのに\nまぁ谷端はまだ厳しいけどディベイニーとか百崎とか中途半端に上げてすぐ落とすぐらいやったらこういう時に試せよ",
+    "userName": "Passion_5_t",
+    "tweetUrl": "https://twitter.com/Passion_5_t/status/2067140641457660051",
+    "createdAt": "June 17, 2026 at 04:01PM"
+  },
+  {
+    "text": "首脳陣は佐藤立石木浪糸原ぐらいしかサードの選択肢なさそうで鬱\nサード立石にするメリットの1つに立石があかんくても髙寺ディベイニー百崎谷端とかを試せるってとこがあるのに\nまぁ谷端はまだ厳しいけどディベイニーとか百崎とか中途半端に上げてすぐ落とすぐらいやったらこういう時に試せよ",
+    "userName": "Passion_5_t",
+    "tweetUrl": "https://twitter.com/Passion_5_t/status/2067140873880822137",
+    "createdAt": "June 17, 2026 at 04:02PM"
+  },
+  {
+    "text": "SGL\n\n阪神シート\n\nキャッチャー　町田、藤田\nファースト　川崎、アルナエス\nセカンド　佐野、山崎Σ('◉⌓◉’)\nサード　立石、戸井\nショート　谷端Σ('◉⌓◉’)、山田\nレフト　豊田Ｏ（≧∇≦）Ｏ西純\nセンター　岡城\nライト　井坪、コンスエグラ\n\nノックアシスト　なし\n\nと思われます\n\n色々驚きがd(^_^o",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2067147610151113195",
+    "createdAt": "June 17, 2026 at 04:29PM"
+  },
+  {
+    "text": "@kkkkkkk99chika 谷端か百崎使って欲しかった",
+    "userName": "saraasusran",
+    "tweetUrl": "https://twitter.com/saraasusran/status/2067147755747946555",
+    "createdAt": "June 17, 2026 at 04:30PM"
+  },
+  {
+    "text": "谷端にショートをさせるくらいならなんで大塚を指名しなかったのか？は言われ続けるだろう\n編成がおかしいわ",
+    "userName": "tatetanioka",
+    "tweetUrl": "https://twitter.com/tatetanioka/status/2067148045570248801",
+    "createdAt": "June 17, 2026 at 04:31PM"
+  },
+  {
+    "text": "谷端はまだ？",
+    "userName": "keihanujisen75",
+    "tweetUrl": "https://twitter.com/keihanujisen75/status/2067148856941531355",
+    "createdAt": "June 17, 2026 at 04:34PM"
+  },
+  {
+    "text": "独立交流試合になると\nショートに回される谷端はなんなんだろう https://t.co/FygKoA2uyp",
+    "userName": "S7KABOyZgv1B2qz",
+    "tweetUrl": "https://twitter.com/S7KABOyZgv1B2qz/status/2067149117093200172",
+    "createdAt": "June 17, 2026 at 04:35PM"
+  },
+  {
+    "text": "@nacchin_00ht 岡留くんはさておき\nしょうこりもなく小幡💢\n谷端くんとかあげてほしい\n💢",
+    "userName": "toraco3558",
+    "tweetUrl": "https://twitter.com/toraco3558/status/2067153736288686088",
+    "createdAt": "June 17, 2026 at 04:53PM"
+  },
+  {
+    "text": "岡留以外はまあそんなもんでしょ\n岡留は富田上げたほうがマシだし、谷端井坪見たいけど",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2067160626800238609",
+    "createdAt": "June 17, 2026 at 05:21PM"
+  },
+  {
+    "text": "来ています🐯⚾️\n今日は1塁アルプスの前方で、ライトポールが目の前にあるんで、ホームラン判定はお任せください😆\n\nチキンラーメンデーで、チキンラーメンが貰えました😀\n\n＃阪神タイガース\n＃阪神甲子園球場\n＃谷端将伍 ユニ https://t.co/dBLbpTnYYO",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://twitter.com/8rcfvyHiKZ2Nt8b/status/2067163852299768057",
+    "createdAt": "June 17, 2026 at 05:34PM"
+  },
+  {
+    "text": "阪神球団は谷端ではなく宮下や大塚を指名したと勘違いしている可能性がある\n谷端でショート埋めにかかるなよ https://t.co/l2DVzfWjYP",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2067167465277386905",
+    "createdAt": "June 17, 2026 at 05:48PM"
+  },
+  {
+    "text": "小幡上げるよりも谷端を試してほしかったね",
+    "userName": "yurimaple",
+    "tweetUrl": "https://twitter.com/yurimaple/status/2067168405401288775",
+    "createdAt": "June 17, 2026 at 05:52PM"
+  },
+  {
+    "text": "谷端普通にセカンドでもキツイだろって思ってんのにショートやってて横転 https://t.co/rdedGp0Kub",
+    "userName": "satoANCHIfack",
+    "tweetUrl": "https://twitter.com/satoANCHIfack/status/2067171998451847466",
+    "createdAt": "June 17, 2026 at 06:06PM"
+  },
+  {
+    "text": "@TigersDreamlink 立石ばかりにめとられてこの人忘れてたわ \n谷端君",
+    "userName": "suz3453",
+    "tweetUrl": "https://twitter.com/suz3453/status/2067172004034494507",
+    "createdAt": "June 17, 2026 at 06:06PM"
+  },
+  {
+    "text": "@fantakazuhiro 小谷野なにしてるんやろですよ😓\n立石と心中するくらいの気持ちでやってほしいもんですよ\nでもまぁ、森下も二軍落ちながら今なんで立石も調子上がってくるの期待するだけです\n谷端もだんだん打てるようになってますし",
+    "userName": "Toranshin_fam",
+    "tweetUrl": "https://twitter.com/Toranshin_fam/status/2067177522006278403",
+    "createdAt": "June 17, 2026 at 06:28PM"
+  },
+  {
+    "text": "なんか二軍で谷端がショート練習してるらしくて横転\n異常だよこの編成",
+    "userName": "aC1qtw7Ls083086",
+    "tweetUrl": "https://twitter.com/aC1qtw7Ls083086/status/2067178813616967722",
+    "createdAt": "June 17, 2026 at 06:33PM"
+  },
+  {
+    "text": "谷端ショートしてるってまじ？\n思考が神奈川の虎党と同じやけど大丈夫か首脳陣",
+    "userName": "shitaperohaakan",
+    "tweetUrl": "https://twitter.com/shitaperohaakan/status/2067179313104126408",
+    "createdAt": "June 17, 2026 at 06:35PM"
+  },
+  {
+    "text": "@TigersDreamlink 谷端くん激アツやん",
+    "userName": "0xHydar",
+    "tweetUrl": "https://twitter.com/0xHydar/status/2067179838838890521",
+    "createdAt": "June 17, 2026 at 06:37PM"
+  },
+  {
+    "text": "ならなんで大塚行かなかったんすかってなるけどね。谷端二遊間想定で取ってるなら相当バカじゃん",
+    "userName": "shitaperohaakan",
+    "tweetUrl": "https://twitter.com/shitaperohaakan/status/2067180147221147685",
+    "createdAt": "June 17, 2026 at 06:38PM"
+  },
+  {
+    "text": "谷端もSSチャレンジさせんのか…w\n\nなりふり構わずやな https://t.co/s2uFwSn2NH",
+    "userName": "Tigers_Tossy",
+    "tweetUrl": "https://twitter.com/Tigers_Tossy/status/2067180502248030563",
+    "createdAt": "June 17, 2026 at 06:40PM"
+  },
+  {
+    "text": "谷端SSノックでバカ笑ってる\n\nなんだこいつら。フロントと現場、現場と現場の連携どないなってんの",
+    "userName": "culemandao",
+    "tweetUrl": "https://twitter.com/culemandao/status/2067180778145165820",
+    "createdAt": "June 17, 2026 at 06:41PM"
+  },
+  {
+    "text": "谷端ショートノックって、そんなネット民の思いつきみたいなことしてんのかよ",
+    "userName": "HOME_RUN3755",
+    "tweetUrl": "https://twitter.com/HOME_RUN3755/status/2067181501255729323",
+    "createdAt": "June 17, 2026 at 06:44PM"
+  },
+  {
+    "text": "そういえば谷端ショートの試合1試合も見れて無いんだけど、やっぱりショートは無理そうな感じ？",
+    "userName": "tetetei_5329",
+    "tweetUrl": "https://twitter.com/tetetei_5329/status/2067183591751373180",
+    "createdAt": "June 17, 2026 at 06:52PM"
+  },
+  {
+    "text": "@_area_one 今の大学生のレベルでは、まだ1年間バリバリ活躍するのは難しいですね。\nシッカリ地力を固めてからでも遅くない(´-ω-)ｳﾑ\n\n谷端・岡城共々、中途半端な起用をして江越の二の舞にだけはならないように(-人-)",
+    "userName": "30benito14",
+    "tweetUrl": "https://twitter.com/30benito14/status/2067183860430086254",
+    "createdAt": "June 17, 2026 at 06:53PM"
+  },
+  {
+    "text": "谷端はもうないや全部やらせる気やろ\nてか普通にセカンドやらせるなら貫き通せよ https://t.co/DxDQnVqqk3",
+    "userName": "MERU5757",
+    "tweetUrl": "https://twitter.com/MERU5757/status/2067195911588253905",
+    "createdAt": "June 17, 2026 at 07:41PM"
+  },
+  {
+    "text": "谷端にはこれを感じている https://t.co/O90Wu0No7t",
+    "userName": "Hantuna9",
+    "tweetUrl": "https://twitter.com/Hantuna9/status/2067197918638211087",
+    "createdAt": "June 17, 2026 at 07:49PM"
+  },
+  {
+    "text": "やはり谷端と井坪を上げよう。\n最近二軍で打ってるから。\n#hanshin",
+    "userName": "fumitakeinada",
+    "tweetUrl": "https://twitter.com/fumitakeinada/status/2067204138715521520",
+    "createdAt": "June 17, 2026 at 08:14PM"
+  },
+  {
+    "text": "小幡を上げるなら、谷端を試しに上げろよ！\n小幡の力量はもうええやろ！\n#阪神タイガース",
+    "userName": "tensan531221",
+    "tweetUrl": "https://twitter.com/tensan531221/status/2067209695174263157",
+    "createdAt": "June 17, 2026 at 08:36PM"
+  },
+  {
+    "text": "谷端も頑張って欲しい、一軍で見られるの楽しみにしてる https://t.co/dKARV1SfjV",
+    "userName": "honjanmarinde",
+    "tweetUrl": "https://twitter.com/honjanmarinde/status/2067214599162843517",
+    "createdAt": "June 17, 2026 at 08:55PM"
+  },
+  {
+    "text": "@Hantuna9 谷端は顔面的に将来阪神のコアやってそう感が強い",
+    "userName": "bGSVBNUbFN35413",
+    "tweetUrl": "https://twitter.com/bGSVBNUbFN35413/status/2067221089525399688",
+    "createdAt": "June 17, 2026 at 09:21PM"
+  },
+  {
+    "text": "＜アマゾン＞斉藤さん2 Blu-ray BOX - 国内のTVドラマ\n\n＜出演者＞観月ありさ-桐谷美玲-田辺誠一-瀬戸康史-猫背椿-音尾琢真-橋本涼-玉元風海人-谷端奏人-酒井若菜-松岡茉優-岡山智樹-早見あかり-勝村政信-南果歩\nhttps://t.co/Ccq3g8TIFT",
+    "userName": "aeiga8_03",
+    "tweetUrl": "https://twitter.com/aeiga8_03/status/2067227258272579809",
+    "createdAt": "June 17, 2026 at 09:46PM"
+  },
+  {
+    "text": "@ilmin_HT ブルペン陣も確かに立て直せれば良くなりますし伊原とか今朝丸下村も1軍合流したので期待ですし後は打線ですね\n立石が良くなって欲しいですし、ファームから谷端とか百崎とか\n頑張って1軍に上がって欲しいです",
+    "userName": "tigers_eagles_",
+    "tweetUrl": "https://twitter.com/tigers_eagles_/status/2067230866942967891",
+    "createdAt": "June 17, 2026 at 10:00PM"
+  },
+  {
+    "text": "谷端ショートきたか、 https://t.co/IysVmmReHI",
+    "userName": "FKtrW7grlL66210",
+    "tweetUrl": "https://twitter.com/FKtrW7grlL66210/status/2067230965324534268",
+    "createdAt": "June 17, 2026 at 10:00PM"
+  },
+  {
+    "text": "谷端川の支流暗渠の最上流部へ。行きは静止画、帰りは動画。\n#暗渠 #湧水 はなかった https://t.co/ZFFUWVKUic",
+    "userName": "KazMiyamo",
+    "tweetUrl": "https://twitter.com/KazMiyamo/status/2067235029399605556",
+    "createdAt": "June 17, 2026 at 10:16PM"
+  },
+  {
+    "text": "@tmatunaga1 谷端とディベイニーが定期的に上がってるの草🤣\nディベイニーはもう少しチャンスあげたかったけど、今年の交流戦状態じゃそんな余裕もなかったか…",
+    "userName": "imMVZKAu2YaRjhH",
+    "tweetUrl": "https://twitter.com/imMVZKAu2YaRjhH/status/2067239237678948432",
+    "createdAt": "June 17, 2026 at 10:33PM"
+  },
+  {
+    "text": "ついに来たか谷端 https://t.co/qkpd5Tr1MQ",
+    "userName": "68catcher",
+    "tweetUrl": "https://twitter.com/68catcher/status/2067263232465895453",
+    "createdAt": "June 18, 2026 at 12:08AM"
+  },
+  {
+    "text": "大竹、大山の大コンビのお立台、非常に落ち着いた受け答えで頷きながら拍手\n立石はもう一度最初の頃の鋭く振切る積極性を取り戻して今度は岡城、谷端と共にトリオで１軍へ帰ってきて打ちまくろう\nあの森下もルーキーの時は2回2軍に差し戻しされてるからね、頑張れ\n#阪神タイガース#立石正弘\n#岡城快生 https://t.co/pmierUEHbQ",
+    "userName": "tigersfan5",
+    "tweetUrl": "https://twitter.com/tigersfan5/status/2067276861412192306",
+    "createdAt": "June 18, 2026 at 01:03AM"
   }
 ]
