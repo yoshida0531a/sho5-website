@@ -13342,5 +13342,215 @@
     "userName": "tigersfan5",
     "tweetUrl": "https://twitter.com/tigersfan5/status/2067276861412192306",
     "createdAt": "June 18, 2026 at 01:03AM"
+  },
+  {
+    "text": "そろそろ谷端井坪辺りを使ってみたいな https://t.co/l650mB5eZL",
+    "userName": "moonlight9355",
+    "tweetUrl": "https://twitter.com/moonlight9355/status/2067392607265943816",
+    "createdAt": "June 18, 2026 at 08:43AM"
+  },
+  {
+    "text": "@tmatunaga1 谷端は凄くいい傾向やし、井坪は毎年ある程度は打つから打撃センスがあるんやろうな。2軍マジでカス過ぎるから希望になる選手が少しでも出てくるとありがたいな",
+    "userName": "toratoumatohito",
+    "tweetUrl": "https://twitter.com/toratoumatohito/status/2067400858229502415",
+    "createdAt": "June 18, 2026 at 09:15AM"
+  },
+  {
+    "text": "@tmatunaga1 谷端本領発揮か",
+    "userName": "kanenashi222",
+    "tweetUrl": "https://twitter.com/kanenashi222/status/2067404877647736853",
+    "createdAt": "June 18, 2026 at 09:31AM"
+  },
+  {
+    "text": "谷端調子ええんやね https://t.co/9O7a1O7j8s",
+    "userName": "bonjiri51",
+    "tweetUrl": "https://twitter.com/bonjiri51/status/2067413853995184356",
+    "createdAt": "June 18, 2026 at 10:07AM"
+  },
+  {
+    "text": "谷端👏 https://t.co/cJamesHobi",
+    "userName": "MERU5757",
+    "tweetUrl": "https://twitter.com/MERU5757/status/2067416172237373790",
+    "createdAt": "June 18, 2026 at 10:16AM"
+  },
+  {
+    "text": "谷端井坪ディベが良さそうで何より https://t.co/EeGljp3Msr",
+    "userName": "sMkvNTZquGmpiJk",
+    "tweetUrl": "https://twitter.com/sMkvNTZquGmpiJk/status/2067418639981330822",
+    "createdAt": "June 18, 2026 at 10:26AM"
+  },
+  {
+    "text": "谷端に希望を感じる成績で良き https://t.co/PDFRs8LqbJ",
+    "userName": "Torassist_3",
+    "tweetUrl": "https://twitter.com/Torassist_3/status/2067418982391697890",
+    "createdAt": "June 18, 2026 at 10:27AM"
+  },
+  {
+    "text": "谷端選手を調子がいい時にどっかで使いたいな… https://t.co/oPMQ5u1qaT",
+    "userName": "Hanshin_Fan_ARE",
+    "tweetUrl": "https://twitter.com/Hanshin_Fan_ARE/status/2067420466151862634",
+    "createdAt": "June 18, 2026 at 10:33AM"
+  },
+  {
+    "text": "井坪と谷端が打ってていいね\nディベイニーも良くなってきた？\n一回一軍で見てみたいね https://t.co/BkZEQYs1PT",
+    "userName": "Torachu0025",
+    "tweetUrl": "https://twitter.com/Torachu0025/status/2067424387691843631",
+    "createdAt": "June 18, 2026 at 10:49AM"
+  },
+  {
+    "text": "谷端ようやく慣れてきたか..? https://t.co/ZnmHRpoMlV",
+    "userName": "baseballman_rx",
+    "tweetUrl": "https://twitter.com/baseballman_rx/status/2067424748779503822",
+    "createdAt": "June 18, 2026 at 10:50AM"
+  },
+  {
+    "text": "@tmatunaga1 ディベイニー谷端井坪そんな打ってたんか",
+    "userName": "XeHB40acbKnHDmW",
+    "tweetUrl": "https://twitter.com/XeHB40acbKnHDmW/status/2067425988171149561",
+    "createdAt": "June 18, 2026 at 10:55AM"
+  },
+  {
+    "text": "谷端がそろそろ見たい https://t.co/aDuyhs6KZe",
+    "userName": "sabasatsuki12bc",
+    "tweetUrl": "https://twitter.com/sabasatsuki12bc/status/2067432457948070267",
+    "createdAt": "June 18, 2026 at 11:21AM"
+  },
+  {
+    "text": "谷端はそこまで急いであげなくてもいい派。どうせ上げてもベンチで景色見るだけだし圧倒してからでいい https://t.co/5gaX6TYUpN",
+    "userName": "Tetete_tensai",
+    "tweetUrl": "https://twitter.com/Tetete_tensai/status/2067432701725204619",
+    "createdAt": "June 18, 2026 at 11:22AM"
+  },
+  {
+    "text": "井坪は3割打ってるけど谷端はこれでギリ2割だったわ https://t.co/cJ5hnrdFyz",
+    "userName": "hadzuki501",
+    "tweetUrl": "https://twitter.com/hadzuki501/status/2067439619344658879",
+    "createdAt": "June 18, 2026 at 11:49AM"
+  },
+  {
+    "text": "中野も守備怪しい部分あったし一回谷端見たいけどね〜",
+    "userName": "konjoyaki0925",
+    "tweetUrl": "https://twitter.com/konjoyaki0925/status/2067450437536801124",
+    "createdAt": "June 18, 2026 at 12:32PM"
+  },
+  {
+    "text": "井坪は守備がねぇ…\n谷端も守るとこないのがキツい https://t.co/NDuX3dhACD",
+    "userName": "tomotora1199219",
+    "tweetUrl": "https://twitter.com/tomotora1199219/status/2067450451201859788",
+    "createdAt": "June 18, 2026 at 12:32PM"
+  },
+  {
+    "text": "2015年以降の高校生ドラフトが今のところ不発。西純･及川･前川･門別に育たれるとヤバイ。チームが強い時にきちんと育成されると不味いが藤川球児にその気配があまり見られない。中川や嶋村の動向次第では渡部海指名もありうる。立石はまぁやれるとして谷端が大成すると他セは不味い https://t.co/HqTCzAN41o",
+    "userName": "hopegiantswin",
+    "tweetUrl": "https://twitter.com/hopegiantswin/status/2067451506803318999",
+    "createdAt": "June 18, 2026 at 12:37PM"
+  },
+  {
+    "text": "谷端頑張ってんな https://t.co/skIE6h5DIK",
+    "userName": "IloveNtilikina",
+    "tweetUrl": "https://twitter.com/IloveNtilikina/status/2067451697954509068",
+    "createdAt": "June 18, 2026 at 12:37PM"
+  },
+  {
+    "text": "谷端くんいいよーいい感じよー https://t.co/NFFacN6Oe5",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2067452978907455512",
+    "createdAt": "June 18, 2026 at 12:42PM"
+  },
+  {
+    "text": "@tmatunaga1 ディベイ本格化ｷﾀ━(ﾟ∀ﾟ)━!\n谷端あげようぜ！",
+    "userName": "MARVEL227416125",
+    "tweetUrl": "https://twitter.com/MARVEL227416125/status/2067458633747902592",
+    "createdAt": "June 18, 2026 at 01:05PM"
+  },
+  {
+    "text": "谷端ディベイニー井坪ええな\nあと元山もいい木浪植田辺り落として\nこの3人あげたい https://t.co/Ly6sZOGVQk",
+    "userName": "minimini0756",
+    "tweetUrl": "https://twitter.com/minimini0756/status/2067465597957603706",
+    "createdAt": "June 18, 2026 at 01:33PM"
+  },
+  {
+    "text": "@tmatunaga1 谷端あんま打ってない気してたけど気のせいだったのか？井田坪は上げてみたいねー\n元山はマジで一軍で打席与えてくれて良かったやろもっと",
+    "userName": "sancy0344",
+    "tweetUrl": "https://twitter.com/sancy0344/status/2067487044050501746",
+    "createdAt": "June 18, 2026 at 02:58PM"
+  },
+  {
+    "text": "阪神2軍はほぼ異常球場で指標破壊数の暴力極悪球団が存在するウエスタンであの頭数を考えるとむしろよーやっとるほうだと思うよ。アプローチとかが破綻してる選手は少ないし。ただ数が少ないのと1軍2軍編成の意思疎通全然できてないのが終わってるのよな。とりあえず谷端が上げてきたので楽しみ",
+    "userName": "0ta0taHatniki",
+    "tweetUrl": "https://twitter.com/0ta0taHatniki/status/2067488528033059019",
+    "createdAt": "June 18, 2026 at 03:04PM"
+  },
+  {
+    "text": "谷端ええやん https://t.co/iJf8q6OtC0",
+    "userName": "homurakinokami",
+    "tweetUrl": "https://twitter.com/homurakinokami/status/2067488836851224607",
+    "createdAt": "June 18, 2026 at 03:05PM"
+  },
+  {
+    "text": "谷端良くなってる🤩 https://t.co/JWgqK6yt2K",
+    "userName": "gboychan334",
+    "tweetUrl": "https://twitter.com/gboychan334/status/2067489675603071482",
+    "createdAt": "June 18, 2026 at 03:08PM"
+  },
+  {
+    "text": "谷端も近いうちに1軍で見れそう\n井坪もはよ打席与えんかい https://t.co/I81cbbbtuE",
+    "userName": "y3abi",
+    "tweetUrl": "https://twitter.com/y3abi/status/2067490325652996363",
+    "createdAt": "June 18, 2026 at 03:11PM"
+  },
+  {
+    "text": "谷端が徐々に調子上げてきてて嬉しい https://t.co/x3HKcoAJJd",
+    "userName": "honee_mn",
+    "tweetUrl": "https://twitter.com/honee_mn/status/2067502902063911254",
+    "createdAt": "June 18, 2026 at 04:01PM"
+  },
+  {
+    "text": "谷端❤️ https://t.co/LRg5SDDXjH",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2067520782641868969",
+    "createdAt": "June 18, 2026 at 05:12PM"
+  },
+  {
+    "text": "@tmatunaga1 なぜ、井坪、谷端、ディベイニーを上げずに小幡、小野寺の小小コンビを上げたのだ？",
+    "userName": "X2251347779147",
+    "tweetUrl": "https://twitter.com/X2251347779147/status/2067527792083009912",
+    "createdAt": "June 18, 2026 at 05:40PM"
+  },
+  {
+    "text": "複数ポジション守れることだけが正義ではない論、まさに百崎みたいなのに該当する気がする\nレフト守らせてみるのはありだけども守備範囲的に実践でプラスを稼ぐ見込みは全然ないし、ショートに残そうとするのもね\n\n浅村みたいにならない？谷端セカンド構想がまぁまぁあるみたいだしファーストか……？",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2067528503793430719",
+    "createdAt": "June 18, 2026 at 05:43PM"
+  },
+  {
+    "text": "@F1004fukubusen なるほどね！\n俺的には地元出身の谷端君を早くあげて欲しいけど彼も怪我してるしなぁ",
+    "userName": "nakattchi531",
+    "tweetUrl": "https://twitter.com/nakattchi531/status/2067550253730189710",
+    "createdAt": "June 18, 2026 at 07:09PM"
+  },
+  {
+    "text": "井坪と谷端ようやっとるね\nなんでこれで上がってきたの小野寺なんや...？ https://t.co/k1lltf5UM9",
+    "userName": "tigerspapi",
+    "tweetUrl": "https://twitter.com/tigerspapi/status/2067562349029195953",
+    "createdAt": "June 18, 2026 at 07:57PM"
+  },
+  {
+    "text": "谷端が2000本安打行った\n38歳なっても安定した成績残してベストナイン取ってるのやばい\n地味にユーティリティだから一生出番ある\n#パワプロ2026\n#オーペナ https://t.co/haIMNAWom5",
+    "userName": "Harutti_2937",
+    "tweetUrl": "https://twitter.com/Harutti_2937/status/2067586681453351211",
+    "createdAt": "June 18, 2026 at 09:34PM"
+  },
+  {
+    "text": "@68catcher 23歳にそんな冷淡なこと言うつもりはないが、福島の荒さが修正されたら外野が埋まるし、内野の方は谷端が気になる。平田のアホが二塁で使ってるから分からなくなってるが。",
+    "userName": "bGSVBNUbFN35413",
+    "tweetUrl": "https://twitter.com/bGSVBNUbFN35413/status/2067599860656959604",
+    "createdAt": "June 18, 2026 at 10:26PM"
+  },
+  {
+    "text": "若者達凄いね〜👍\nアーティスト\n#Shogo（Vo）\n#吉田正史（Vo）\n#谷端奏人（Gt）\n#Bandy（Ba）\n#岡添由太奏（Key）\n#長友克樹（Dr）\n他",
+    "userName": "MRGJP",
+    "tweetUrl": "https://twitter.com/MRGJP/status/2067646666019320178",
+    "createdAt": "June 19, 2026 at 01:32AM"
   }
 ]
