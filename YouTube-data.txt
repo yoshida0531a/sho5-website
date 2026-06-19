@@ -2462,5 +2462,13 @@
     "publishedAt": "June 16, 2026 at 12:01PM",
     "description": "2軍で絶好調の選手.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "20260317　#谷端将伍　#打撃フォーム　#shorts　阪神ﾀｲｶﾞｰｽ2軍@日鉄鋼板SGLｽﾀｼﾞｱﾑ尼崎［ﾌｧｰﾑ･ﾘｰｸﾞ 西地区 2軍戦］",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=5jMZrRugj34",
+    "publishedAt": "June 20, 2026 at 01:30AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
