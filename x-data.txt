@@ -13912,5 +13912,41 @@
     "userName": "PikaShowaTS",
     "tweetUrl": "https://twitter.com/PikaShowaTS/status/2068055700861849619",
     "createdAt": "June 20, 2026 at 04:37AM"
+  },
+  {
+    "text": "谷端さんはお元気ですか！",
+    "userName": "ahirurun_241",
+    "tweetUrl": "https://twitter.com/ahirurun_241/status/2068139159370510420",
+    "createdAt": "June 20, 2026 at 10:09AM"
+  },
+  {
+    "text": "6月20日　ファーム全体練習（SGL）\n\nルーキーたちの豊かな表情、4枚集めてみました。\n（撮影・西田忠信）\n\n#立石正広 #谷端将伍 #早瀬朔 #能登嵩都 https://t.co/Nn24MQNk3s",
+    "userName": "daily_fujimaru",
+    "tweetUrl": "https://twitter.com/daily_fujimaru/status/2068202545831686150",
+    "createdAt": "June 20, 2026 at 02:21PM"
+  },
+  {
+    "text": "東都リーグで最も恐れられた安打製造機#プロ野球#大学野球#高校野球#日本大学#谷端将伍 https://t.co/AF1RwQAhB3 @YouTubeより",
+    "userName": "FaceKensan",
+    "tweetUrl": "https://twitter.com/FaceKensan/status/2068264442065023148",
+    "createdAt": "June 20, 2026 at 06:27PM"
+  },
+  {
+    "text": "谷端と岡城は絶対負けんな https://t.co/44UuFM05Xh",
+    "userName": "hanshinnnnnnn03",
+    "tweetUrl": "https://twitter.com/hanshinnnnnnn03/status/2068284458164490401",
+    "createdAt": "June 20, 2026 at 07:46PM"
+  },
+  {
+    "text": "@panzofuk 推しってほどやないけどプロ壁に引っかかってる福島・前川・谷端・髙寺・井坪あたり頑張って欲しいなぁ",
+    "userName": "Ukrscrimea",
+    "tweetUrl": "https://twitter.com/Ukrscrimea/status/2068358893949055071",
+    "createdAt": "June 21, 2026 at 12:42AM"
+  },
+  {
+    "text": "今年の目標💫スタメン出場🤜🏽🤛🏽\nふぁいと‼️\n#阪神タイガース #谷端将伍  選手 https://t.co/84E1JqbZYR",
+    "userName": "bubu___81",
+    "tweetUrl": "https://twitter.com/bubu___81/status/2068415133555310720",
+    "createdAt": "June 21, 2026 at 04:26AM"
   }
 ]
