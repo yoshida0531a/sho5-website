@@ -7,6 +7,6 @@ compatibility_flags = ["nodejs_compat"]
 binding = "PHOTOS"
 bucket_name = "sho5-gallery-photos"
 
-[[kv_namespaces]]
-binding = "USAGE_STATS"
-id = "6c2fb2fa2b244ad69e06813c64213972"
+# USAGE_STATS KV は削除済み（コードが "KV統計は無視" と明記し一切書き込みなし）
+# binding = "USAGE_STATS"
+# id = "6c2fb2fa2b244ad69e06813c64213972"
