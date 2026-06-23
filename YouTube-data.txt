@@ -2470,5 +2470,13 @@
     "publishedAt": "June 20, 2026 at 01:30AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【パワプロ2026選手名鑑/NPB26Stats】阪神 25 谷端将伍選手 Tigers Shogo Tanihata",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=7q249EF8w08",
+    "publishedAt": "June 22, 2026 at 05:35AM",
+    "description": "出身地 石川県 経 歴 星稜−日大−阪神.",
+    "keyword": "谷端 阪神"
   }
 ]
