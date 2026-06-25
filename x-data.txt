@@ -14560,5 +14560,77 @@
     "userName": "denaoshi_kanan",
     "tweetUrl": "https://twitter.com/denaoshi_kanan/status/2069787555013525954",
     "createdAt": "June 24, 2026 at 11:19PM"
+  },
+  {
+    "text": "ファームの成績チラッと見たけど立石も谷端もなかなか苦労してるな",
+    "userName": "sonnyujapan",
+    "tweetUrl": "https://twitter.com/sonnyujapan/status/2069944435241316757",
+    "createdAt": "June 25, 2026 at 09:43AM"
+  },
+  {
+    "text": "谷端",
+    "userName": "o117ok",
+    "tweetUrl": "https://twitter.com/o117ok/status/2070002188185956526",
+    "createdAt": "June 25, 2026 at 01:32PM"
+  },
+  {
+    "text": "トリプルファイヤーのTシャツのデザインをやりました✌️谷端実さんのかわいいイラストたちを散りばめました🍀 https://t.co/FBJVyzaeHD",
+    "userName": "iraminaaaaaa",
+    "tweetUrl": "https://twitter.com/iraminaaaaaa/status/2070016031385702890",
+    "createdAt": "June 25, 2026 at 02:27PM"
+  },
+  {
+    "text": "今年投手中心のドラフトを行う布石が昨年度の野手中心ドラフトだったと思う。\n立石、岡城は一時期一軍でも片鱗を見せたので引き続き期待したい。\n心配なのは谷端。率、長打共に苦しんでいる様子。\n大学三年次のような打棒を取り戻して欲しい。",
+    "userName": "Torabaseoquk",
+    "tweetUrl": "https://twitter.com/Torabaseoquk/status/2070018477667319895",
+    "createdAt": "June 25, 2026 at 02:37PM"
+  },
+  {
+    "text": "［譲渡］舞台 gift チケット 千秋楽\n\n【譲】7/27 夜 A席1階 単番\n\n【求】〜定価＋手数料\n\n特典返却不要(和田or染谷)。端末貸出による譲渡の予定です。\nお求めの方はDMまでご連絡お願いいたします。",
+    "userName": "a63465397",
+    "tweetUrl": "https://twitter.com/a63465397/status/2070035656068522396",
+    "createdAt": "June 25, 2026 at 03:45PM"
+  },
+  {
+    "text": "BBM阪神タイガースベースボールカード2026\nYahoo!MINT店さんで購入した4箱のうち1箱目\n\n小幡竜平選手　直筆サイン/80ラスナン\n立石正広選手　ルーキー金紙箔押し/25\n森下翔太選手　銀紙/250\n谷端将伍選手　Gush Out \n\n小幡選手の直筆ラスナンと立石選手のルーキー特殊シリアル25シリ来ました‼️ https://t.co/QLT7N5tYi8",
+    "userName": "TOYMACHINE55",
+    "tweetUrl": "https://twitter.com/TOYMACHINE55/status/2070099319693435057",
+    "createdAt": "June 25, 2026 at 07:58PM"
+  },
+  {
+    "text": "ルーキーサイン引いた！\n谷端くんだった！\nちょっとドキドキした🤣\n#BBM開封 https://t.co/JThGmuozre",
+    "userName": "uv1gZubyvZlqTHE",
+    "tweetUrl": "https://twitter.com/uv1gZubyvZlqTHE/status/2070127602149568925",
+    "createdAt": "June 25, 2026 at 09:50PM"
+  },
+  {
+    "text": "@uv1gZubyvZlqTHE おめでとうございます‼️\n谷端君直筆いいですねー眼福です😆",
+    "userName": "TOYMACHINE55",
+    "tweetUrl": "https://twitter.com/TOYMACHINE55/status/2070129687599473080",
+    "createdAt": "June 25, 2026 at 09:59PM"
+  },
+  {
+    "text": "@TOYMACHINE55 ありがとうございます\n谷端くんにも期待してます!",
+    "userName": "uv1gZubyvZlqTHE",
+    "tweetUrl": "https://twitter.com/uv1gZubyvZlqTHE/status/2070139558596071577",
+    "createdAt": "June 25, 2026 at 10:38PM"
+  },
+  {
+    "text": "［譲渡］舞台 gift チケット 千秋楽\n\n【譲】7/27 夜 A席1階 単番\n\n【求】〜1.0\n\n特典返却不要(和田or染谷)。端末貸出による譲渡の予定です。\nお求めの方はDMまでご連絡お願いいたします。",
+    "userName": "a63465397",
+    "tweetUrl": "https://twitter.com/a63465397/status/2070152084440371306",
+    "createdAt": "June 25, 2026 at 11:28PM"
+  },
+  {
+    "text": "［譲渡］舞台 gift チケット 千秋楽 マチネ ソワレ\n\n【譲】\n7/27 昼 A席2階 1枚\n7/27 夜 A席1階/2階 各1枚\n\n【求】〜1.0\n\n全てキャスト先行、特典返却不要(和田または染谷)。端末貸出による譲渡の予定です。\nお求めの方はDMまでご連絡お願いいたします。",
+    "userName": "a63465397",
+    "tweetUrl": "https://twitter.com/a63465397/status/2070161656836157681",
+    "createdAt": "June 26, 2026 at 12:06AM"
+  },
+  {
+    "text": "谷端ルーキーカード250枚限定。新人楽しみ。\n\nBBM 2026 阪神 谷端将伍 ルーキーカード 250枚限定\nhttps://t.co/agatQkhbUB",
+    "userName": "ta59tora",
+    "tweetUrl": "https://twitter.com/ta59tora/status/2070231634956198142",
+    "createdAt": "June 26, 2026 at 04:44AM"
   }
 ]
