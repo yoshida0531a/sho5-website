@@ -2478,5 +2478,29 @@
     "publishedAt": "June 22, 2026 at 05:35AM",
     "description": "出身地 石川県 経 歴 星稜−日大−阪神.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　フレッシュ球宴に茨木、谷端、岡城が選出#阪神タイガース #フレッシュ球宴 #フレッシュオールスター #茨木秀俊 #谷端将伍 #岡城快斗 #プロ野球 #NPB #若虎 #期待の若手 #野球ニュース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jpUGqV_mKm0",
+    "publishedAt": "June 26, 2026 at 02:34PM",
+    "description": "阪神タイガースからフレッシュオールスターゲームに茨木秀俊、谷端将伍、岡城快斗の3選手が選出。若き虎戦士たちが夢舞台で ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "若虎覚醒へ！阪神3選手がフレッシュオールスター選出！未来のスター誕生の瞬間が始まる🔥#阪神タイガース #フレッシュオールスター #プロ野球 #茨木秀俊 #谷端将伍 #岡城快生 #平田勝男 #NPB ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=qj_NI29ddXQ",
+    "publishedAt": "June 26, 2026 at 03:45PM",
+    "description": "NPBが「フレッシュオールスターゲーム2026」の出場選手を発表し、阪神タイガースから茨木秀俊投手、ドラフト2位・谷端将伍 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥阪神の若虎3人が夢舞台へ 新潟で輝くフレッシュオールスター2026！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=3F6OlDjWwDc",
+    "publishedAt": "June 26, 2026 at 05:09PM",
+    "description": "日本野球機構が本日発表した「ナミックス フレッシュオールスターゲーム2026」の出場選手。その中で大きな注目を集めたのが、 ...",
+    "keyword": "谷端 阪神"
   }
 ]
