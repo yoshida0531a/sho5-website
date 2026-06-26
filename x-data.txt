@@ -14632,5 +14632,341 @@
     "userName": "ta59tora",
     "tweetUrl": "https://twitter.com/ta59tora/status/2070231634956198142",
     "createdAt": "June 26, 2026 at 04:44AM"
+  },
+  {
+    "text": "阪神からは茨木谷端岡城\nロッテからは石垣元岡村ユウヤ https://t.co/yto6ccfGE8",
+    "userName": "HayaToraMarines",
+    "tweetUrl": "https://twitter.com/HayaToraMarines/status/2070358688750313889",
+    "createdAt": "June 26, 2026 at 01:09PM"
+  },
+  {
+    "text": "本日、7/27(月)にHARD OFF ECOスタジアム新潟で開催される「ナミックス フレッシュオールスターゲーム2026」に出場する選手が発表され、セントラル・リーグ選抜として #茨木秀俊 選手、 #谷端将伍 選手、 #岡城快生 選手が選出されました。\n▼選手コメントはこちらから\nhttps://t.co/C1qach0I2F https://t.co/XroVJmUAlE",
+    "userName": "TigersDreamlink",
+    "tweetUrl": "https://twitter.com/TigersDreamlink/status/2070358907008983050",
+    "createdAt": "June 26, 2026 at 01:10PM"
+  },
+  {
+    "text": "プロ野球『フレッシュオールスターゲーム2026』の出場選手が発表される！！！ - ドラ要素＠のもとけ https://t.co/GSX5gmnOdk #中日ドラゴンズ\n\n★セ・リーグ選抜\n【監督】\n飯山 裕志（中日）\n\n【コーチ】\n石井 琢朗（巨人）\n平田 勝男（阪神）\n\n【投手】\n園田 純規（巨人）\n武田 陸玖（DeNA）\n牧野 https://t.co/dPRFCMBnF7",
+    "userName": "gnomotoke",
+    "tweetUrl": "https://twitter.com/gnomotoke/status/2070359363676680571",
+    "createdAt": "June 26, 2026 at 01:11PM"
+  },
+  {
+    "text": "ファームのフレッシュオールスター出場選手発表\n\n阪神からは\n\n平田２軍監督\n茨木\n谷端\n岡城　\n\nの４名\n\n#平田２軍監督\n#茨木\n#谷端\n#岡城",
+    "userName": "OJl9lz1Mzj2Cs4y",
+    "tweetUrl": "https://twitter.com/OJl9lz1Mzj2Cs4y/status/2070360023281373203",
+    "createdAt": "June 26, 2026 at 01:14PM"
+  },
+  {
+    "text": "おめでとう🐯\n谷端くんみられるの嬉しい🤍 https://t.co/7lWoTLXGLs",
+    "userName": "mau_infj",
+    "tweetUrl": "https://twitter.com/mau_infj/status/2070363445506232592",
+    "createdAt": "June 26, 2026 at 01:28PM"
+  },
+  {
+    "text": "3人とも頑張ってほしいけど、谷端くんに異様に期待してしまう https://t.co/huVbisaRpX",
+    "userName": "sakuran_doll",
+    "tweetUrl": "https://twitter.com/sakuran_doll/status/2070366041713295627",
+    "createdAt": "June 26, 2026 at 01:38PM"
+  },
+  {
+    "text": "谷端、岡城、茨木がんばれ！\nMVPも\n\nhttps://t.co/cjJEWWJaEX",
+    "userName": "mnarunarushin",
+    "tweetUrl": "https://twitter.com/mnarunarushin/status/2070369662119141532",
+    "createdAt": "June 26, 2026 at 01:52PM"
+  },
+  {
+    "text": "谷端？本人は2B志望ですよ(SSは知らん)\n本人がそれを明言した記事を失くしたのでソース持ってる人ください🙏🏻\n\n打撃の適応に時間を取ってるのと2B守備の負荷との相関は断言できないのと\n開幕から2Bで腰を据えて出場してる谷端と中継ぎ調整から雑に先発に回された早川が同列になる筋合いはないっす https://t.co/sSgvS1HOSc",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2070370077350961621",
+    "createdAt": "June 26, 2026 at 01:54PM"
+  },
+  {
+    "text": "そこ並べて指摘したいなら\n1Bと3Bメインで二軍に出場してた谷端がいきなり一軍に呼ばれて急造LFを任されるとか\n今後谷端に2Bは任せないからってコーナー用の身体作りを奨励してたのにチーム都合で2Bに戻すとか、\nそういうことが起きた場合でしょというのは2秒考えればわかると思うが",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2070370711622099362",
+    "createdAt": "June 26, 2026 at 01:56PM"
+  },
+  {
+    "text": "@Og0238_0521 今の記述で谷端が掠ってくるのは完全に頭になかったです😅\nすいませんでした💦",
+    "userName": "HELL04803995",
+    "tweetUrl": "https://twitter.com/HELL04803995/status/2070371613930033341",
+    "createdAt": "June 26, 2026 at 02:00PM"
+  },
+  {
+    "text": "谷端のユニ発注してるけど間に合うかな... https://t.co/ekIGcFtURP",
+    "userName": "teriyaki_tigers",
+    "tweetUrl": "https://twitter.com/teriyaki_tigers/status/2070372328039678416",
+    "createdAt": "June 26, 2026 at 02:03PM"
+  },
+  {
+    "text": "谷端くんフレッシュオールスターに選ばれたの！！おめでと〜✨✨✨",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2070373228124749868",
+    "createdAt": "June 26, 2026 at 02:06PM"
+  },
+  {
+    "text": "【阪神】７・27フレッシュ球宴に茨木秀俊、ドラ２谷端将伍、ドラ３岡城快生が選出 https://t.co/3cH5uEMSAZ",
+    "userName": "NikkanNaruohama",
+    "tweetUrl": "https://twitter.com/NikkanNaruohama/status/2070375305316036834",
+    "createdAt": "June 26, 2026 at 02:15PM"
+  },
+  {
+    "text": "そっか。\nもうイースタンとウエスタンという分け方じゃ無くなったのかw\n\n🐯からは平田さんがコーチ選出。\n茨木に谷端に岡城、頑張れ‼️ https://t.co/JWug90rRhT",
+    "userName": "tigers_hankiyo",
+    "tweetUrl": "https://twitter.com/tigers_hankiyo/status/2070375505791185391",
+    "createdAt": "June 26, 2026 at 02:16PM"
+  },
+  {
+    "text": "【記事全文】7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手 - スポニチ Sponichi Annex 野球 https://t.co/ric7qCxJrf",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2070376985101205900",
+    "createdAt": "June 26, 2026 at 02:21PM"
+  },
+  {
+    "text": "阪神　フレッシュ球宴に茨木、谷端、岡城が選出\nhttps://t.co/BkZ9RLj7f7 #阪神 #tigers #阪神タイガース #デイリースポーツ #DailySports",
+    "userName": "Daily_Online",
+    "tweetUrl": "https://twitter.com/Daily_Online/status/2070378024705654913",
+    "createdAt": "June 26, 2026 at 02:26PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】７・27フレッシュ球宴に茨木秀俊、ドラ２谷端将伍、ドラ３岡城快生が選出 https://t.co/gFvyf5XFio #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2070378438943289663",
+    "createdAt": "June 26, 2026 at 02:27PM"
+  },
+  {
+    "text": "【阪神】\n阪神 フレッシュ球宴選出\n茨木秀俊、ドラ2谷端将伍、ドラ3岡城快生\n\nhttps://t.co/fhh2jRw8lQ\n#阪神 #プロ野球",
+    "userName": "ash_studio_jp",
+    "tweetUrl": "https://twitter.com/ash_studio_jp/status/2070378768657518718",
+    "createdAt": "June 26, 2026 at 02:28PM"
+  },
+  {
+    "text": "【記事全文】7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手 - スポニチ Sponichi Annex 野球 https://t.co/ric7qCxbBH",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2070378814715121818",
+    "createdAt": "June 26, 2026 at 02:29PM"
+  },
+  {
+    "text": "@TigersDreamlink 谷端と岡城のバットに注目",
+    "userName": "0xHydar",
+    "tweetUrl": "https://twitter.com/0xHydar/status/2070380829071536222",
+    "createdAt": "June 26, 2026 at 02:37PM"
+  },
+  {
+    "text": "茨木谷端岡城おめでとう！ https://t.co/hiq2F95Vw8",
+    "userName": "hiya_yakyuu",
+    "tweetUrl": "https://twitter.com/hiya_yakyuu/status/2070381563381227967",
+    "createdAt": "June 26, 2026 at 02:40PM"
+  },
+  {
+    "text": "フレッシュオールスター、阪神からは茨木谷端岡城が選出\n頑張ってきてね",
+    "userName": "TKONTHEWAVE",
+    "tweetUrl": "https://twitter.com/TKONTHEWAVE/status/2070382543766204572",
+    "createdAt": "June 26, 2026 at 02:43PM"
+  },
+  {
+    "text": "\"7・27フレッシュ球宴の出場選手発表 阪神から茨木秀俊、谷端将伍、岡城快生の3選手\" https://t.co/v8qJUyeoVX",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://twitter.com/a2Clgr2kMDUEQBN/status/2070388494812500251",
+    "createdAt": "June 26, 2026 at 03:07PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/D0XqEXH3Tg",
+    "userName": "junji_nakano06",
+    "tweetUrl": "https://twitter.com/junji_nakano06/status/2070391733490499745",
+    "createdAt": "June 26, 2026 at 03:20PM"
+  },
+  {
+    "text": "フレッシュオールスター\n茨木\n岡城\n谷端\n\n野手のどっちか、森下みたいにMVP獲って後半一軍で暴れてみよか。",
+    "userName": "arakide11",
+    "tweetUrl": "https://twitter.com/arakide11/status/2070395633996116068",
+    "createdAt": "June 26, 2026 at 03:35PM"
+  },
+  {
+    "text": "フレッシュオールスターの推薦選手。\n\n阪神からは津田淳哉・町田隼乙・津田淳哉もエントリーされてましたが、選出は茨木秀俊・谷端将伍・岡城快生👍\n\n怪我による出場辞退とかで、漏れた選手が代替選出される場合も無くは無いですが(^^ゞ\n\nhttps://t.co/f3OG4RXWPv",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2070396062045704586",
+    "createdAt": "June 26, 2026 at 03:37PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手（スポニチアネックス） https://t.co/q4WDE5dSZg",
+    "userName": "SVictory82",
+    "tweetUrl": "https://twitter.com/SVictory82/status/2070396279067385898",
+    "createdAt": "June 26, 2026 at 03:38PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/3MxhaP0yJ1\n\n😀😀😀😀😀😀",
+    "userName": "T94307072",
+    "tweetUrl": "https://twitter.com/T94307072/status/2070396476359086257",
+    "createdAt": "June 26, 2026 at 03:39PM"
+  },
+  {
+    "text": "おっ、谷端くん、茨木くん、岡城くん選ばれたか😄がんばれよ〜！\n\n7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手(スポニチアネックス)\n#Yahooニュース https://t.co/glWPid5HFE",
+    "userName": "redstar53ARENPA",
+    "tweetUrl": "https://twitter.com/redstar53ARENPA/status/2070397028627263505",
+    "createdAt": "June 26, 2026 at 03:41PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/IXV8gNc3pe",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2070397962619125866",
+    "createdAt": "June 26, 2026 at 03:45PM"
+  },
+  {
+    "text": "フレッシュ球宴の出場者が発表　阪神からは谷端将伍、岡城快生のドラ2、3位コンビ、茨木秀俊が選出(サンケイスポーツ)\n#Yahooニュース\nhttps://t.co/Lt1SXYKBaS",
+    "userName": "yj_4nn",
+    "tweetUrl": "https://twitter.com/yj_4nn/status/2070398047394336841",
+    "createdAt": "June 26, 2026 at 03:45PM"
+  },
+  {
+    "text": "らぎくんフレッシュキターーー‼️🤩\nマジで新潟に行きたいよーーー‼️😅\n谷端くんと岡城くんも頑張ってね‼️🐯\n\n#フレッシュオールスターゲーム \n#茨木秀俊 #岡城快生 #谷端将伍 https://t.co/cJSnuXeygB",
+    "userName": "zatopekharuto",
+    "tweetUrl": "https://twitter.com/zatopekharuto/status/2070403136892850241",
+    "createdAt": "June 26, 2026 at 04:05PM"
+  },
+  {
+    "text": "阪神ちゃん🐯\n\n茨木秀俊、岡城快生、谷端将伍の3名がフレッシュオールスターに出場✍️",
+    "userName": "nekonosuke4649",
+    "tweetUrl": "https://twitter.com/nekonosuke4649/status/2070416771992174997",
+    "createdAt": "June 26, 2026 at 04:59PM"
+  },
+  {
+    "text": "\"フレッシュ球宴の出場者が発表 阪神からは谷端将伍、岡城快生のドラ2、3位コンビ、茨木秀俊が選出\" https://t.co/jjworA3ySw",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://twitter.com/a2Clgr2kMDUEQBN/status/2070416800681214263",
+    "createdAt": "June 26, 2026 at 05:00PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　\n阪神から茨木秀俊、谷端将伍、\n岡城快生の3選手（スポニチアネックス） https://t.co/o3h3xy76pf\n開催地/ HARD OFF ECOスタジアム新潟",
+    "userName": "harunakazuyuki",
+    "tweetUrl": "https://twitter.com/harunakazuyuki/status/2070416977433354413",
+    "createdAt": "June 26, 2026 at 05:00PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手（スポニチアネックス） - Yahoo!ニュース https://t.co/StlCptGZ29",
+    "userName": "fk1hisa",
+    "tweetUrl": "https://twitter.com/fk1hisa/status/2070419590291841466",
+    "createdAt": "June 26, 2026 at 05:11PM"
+  },
+  {
+    "text": "今年のフレッシュオールスター⚾️\n🐯からは茨木・谷端・岡城の3選手!!\n\n#フレッシュオールスターゲーム2026\n#阪神タイガース\n#熱覇\n#茨木秀俊\n#谷端将伍\n#岡城快生 https://t.co/aa04yzlzvQ",
+    "userName": "tsuyutoraco6116",
+    "tweetUrl": "https://twitter.com/tsuyutoraco6116/status/2070424154759901583",
+    "createdAt": "June 26, 2026 at 05:29PM"
+  },
+  {
+    "text": "7・27フレッシュ球宴の出場選手発表　阪神から茨木秀俊、谷端将伍、岡城快生の3選手(スポニチアネックス)\n#Yahooニュース\nhttps://t.co/Y822j4rSMe",
+    "userName": "JRenmei81921",
+    "tweetUrl": "https://twitter.com/JRenmei81921/status/2070425787065582020",
+    "createdAt": "June 26, 2026 at 05:35PM"
+  },
+  {
+    "text": "フレッシュ球宴の出場者が発表\n阪神からは谷端将伍、岡城快生のドラ2、3位コンビ、茨木秀俊が選出\n\nhttps://t.co/bL2O4EedZb",
+    "userName": "tktktktktigers",
+    "tweetUrl": "https://twitter.com/tktktktktigers/status/2070428695752474788",
+    "createdAt": "June 26, 2026 at 05:47PM"
+  },
+  {
+    "text": "【阪神】７・27フレッシュ球宴に茨木秀俊、ドラ２谷端将伍、ドラ３岡城快生が選出 https://t.co/vHvogq1ytS",
+    "userName": "fukudasun",
+    "tweetUrl": "https://twitter.com/fukudasun/status/2070430492084855286",
+    "createdAt": "June 26, 2026 at 05:54PM"
+  },
+  {
+    "text": "阪神　フレッシュ球宴に茨木、谷端、岡城が選出(デイリースポーツ)\n#Yahooニュース\nhttps://t.co/zgsbtSU2PH",
+    "userName": "dosvoksn",
+    "tweetUrl": "https://twitter.com/dosvoksn/status/2070437218041385011",
+    "createdAt": "June 26, 2026 at 06:21PM"
+  },
+  {
+    "text": "#プロ野球 #日本野球機構(#NPB)【#ナミックス #フレッシュオールスターゲーム 2026】(7月27日 #ハードオフ新潟)に出場する選手を発表\n#セ・リーグ 選抜とし #阪神タイガース から #茨木秀俊 #谷端将伍 #岡城快生 が選出 3選手は球団HPでコメントを発表\n#茨木「高校時代を過ごした #新潟県 での開催と https://t.co/WAzwdM0cnS",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2070441372025278579",
+    "createdAt": "June 26, 2026 at 06:37PM"
+  },
+  {
+    "text": "いう事で とても楽しみです ファンの皆さんの前でいいプレーができるよう全力で腕を振りたいと思います」\n#谷端将伍「選出して頂き素直に嬉しいです 全国の #野球 ファンの皆さんに名前を覚えて頂けるよう自分の持ち味を発揮し新人らしく全力プレーで頑張ります」\n#岡城快生 「#フレッシュオールスター https://t.co/mTrZkvAQ4w",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2070441378975268995",
+    "createdAt": "June 26, 2026 at 06:37PM"
+  },
+  {
+    "text": "に選出して頂き大変嬉しく思います 自分らしくハツラツとプレーしている姿を多くの方に見て頂きたいです 沢山のご声援 よろしくお願いいたします!」\n#プロ野球 #野球 #阪神 #タイガース #阪神タイガース #Tigers #フレッシュオールスター #茨木秀俊 #岡城快生 #谷端将伍  #ファーム #2軍 https://t.co/Gdw7zupWC2",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2070441389188395010",
+    "createdAt": "June 26, 2026 at 06:37PM"
+  },
+  {
+    "text": "7/27(月)にHARD OFF ECOスタジアム新潟で開催される「ナミックス フレッシュオールスターゲーム2026」に #谷端将伍 選手が選出されました！\n\n谷端選手コメント\n「選出していただき素直に嬉しいです。 https://t.co/myTXTxF2IE",
+    "userName": "Tigers_farm",
+    "tweetUrl": "https://twitter.com/Tigers_farm/status/2070441448630288853",
+    "createdAt": "June 26, 2026 at 06:38PM"
+  },
+  {
+    "text": "@go_south_osaka 良い辺りの犠牲フライでしたね！\nドラ1背番号9の後輩立石選手には、先輩高山選手がぶち当たった壁を乗り越えて欲しいです！\n谷端選手となべりょも新旧25の競演でしたが、やっぱドラ1同背番号の二人に目がいってしまいましたー！",
+    "userName": "torayoukan",
+    "tweetUrl": "https://twitter.com/torayoukan/status/2070441468981096466",
+    "createdAt": "June 26, 2026 at 06:38PM"
+  },
+  {
+    "text": "ホームラン1本打ったれ谷端⚾️\n#谷端将伍 https://t.co/QrIPN5dDV0",
+    "userName": "Toranshin_fam",
+    "tweetUrl": "https://twitter.com/Toranshin_fam/status/2070449273741688851",
+    "createdAt": "June 26, 2026 at 07:09PM"
+  },
+  {
+    "text": "@Tigers_farm 谷端選手、フレッシュオールスター選出、おめでとうございます！\n\nフレッシュオールスターで最優秀選手になった選手は一軍でも活躍するジンクス があるので\n谷端選手頑張って最優秀なって下さい！\n\n#谷端将伍 \n#阪神タイガース\n#フレッシュオールスターゲーム2026\n#熱覇",
+    "userName": "ILoveSIAMSHADE",
+    "tweetUrl": "https://twitter.com/ILoveSIAMSHADE/status/2070449357766402174",
+    "createdAt": "June 26, 2026 at 07:09PM"
+  },
+  {
+    "text": "@bozu_108 南谷端公園の先ってもう豊島区だったのか・・・\n確かにそうだな、、、",
+    "userName": "SazabyMKII",
+    "tweetUrl": "https://twitter.com/SazabyMKII/status/2070457731929321824",
+    "createdAt": "June 26, 2026 at 07:42PM"
+  },
+  {
+    "text": "@shun_Honkidesu 地味にピッチャーがドラフトで失敗してるので(特に左)左投手は欲しいところです。\n去年は立石くん、谷端くんと上位は野手だったので伊原くんに続く戦力が要りますね",
+    "userName": "redstar53ARENPA",
+    "tweetUrl": "https://twitter.com/redstar53ARENPA/status/2070457941225033958",
+    "createdAt": "June 26, 2026 at 07:43PM"
+  },
+  {
+    "text": "フレッシュオールスターに出場する選手が発表されました\n谷端将伍くん(星稜高校→日本大学→阪神タイガース)が選出 https://t.co/chmmEKg9c2",
+    "userName": "jikkyonomidori",
+    "tweetUrl": "https://twitter.com/jikkyonomidori/status/2070460271710388449",
+    "createdAt": "June 26, 2026 at 07:52PM"
+  },
+  {
+    "text": "タイガースチーリミ3はこの結果！\n岡留選手直筆と谷端選手TREASUREが主なところ。\n直筆は下振れ",
+    "userName": "oaaouue19688",
+    "tweetUrl": "https://twitter.com/oaaouue19688/status/2070460859474923589",
+    "createdAt": "June 26, 2026 at 07:55PM"
+  },
+  {
+    "text": "谷端将伍01/50ファーストナンバー直筆サイン。ルーキー良いわ。\n\n谷端将伍 直筆サイン 阪神タイガース BBM2026ファーストナンバー\nhttps://t.co/WH2P09CiEf",
+    "userName": "ta59tora",
+    "tweetUrl": "https://twitter.com/ta59tora/status/2070479830806565214",
+    "createdAt": "June 26, 2026 at 09:10PM"
+  },
+  {
+    "text": "The Three Robbers\n\n所沢市観光情報・物産館 YOT-TOKO\n\nピアンタ板橋駅前店\n北区立谷端小学校\n北区立北谷端公園\n\n東京ボンベイ 恵比寿本店\nミスタードーナツ 恵比寿西口ショップ\nSOOTHE",
+    "userName": "me_naoooo_mo",
+    "tweetUrl": "https://twitter.com/me_naoooo_mo/status/2070525903159931036",
+    "createdAt": "June 27, 2026 at 12:13AM"
+  },
+  {
+    "text": "2026 BBM 谷端 将伍…開封後スリーブ入りか綺麗そう🐯\n\nBBM 阪神タイガース 2026 谷端 将伍\nhttps://t.co/KzKqLRVRPg",
+    "userName": "toraguuummnq",
+    "tweetUrl": "https://twitter.com/toraguuummnq/status/2070531124330426724",
+    "createdAt": "June 27, 2026 at 12:34AM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】フレッシュ球宴に虎から３人選出　ドラ２谷端将伍「パンチ力のあるバッティングを見て」 https://t.co/RXqW8UXgAF #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2070603710854488257",
+    "createdAt": "June 27, 2026 at 05:22AM"
   }
 ]
