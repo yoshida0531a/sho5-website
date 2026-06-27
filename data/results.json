@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-06-26T17:05:29.000Z",
+  "fetchedAt": "2026-06-27T09:05:34.879Z",
   "lastUpdated": "2026-06-27",
   "farmSummary": {
     "raw": {
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "6/27",
+      "gameKind": "ファーム交流戦",
+      "opponent": "巨人",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040725/top"
+    },
     {
       "date": "6/23",
       "gameKind": "ファーム交流戦",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "見三振、遊ゴロ、遊安、四球",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040649/top"
-    },
-    {
-      "date": "6/12",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "ソフトバンク",
-      "atBats": "6",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "三ゴロ、投ゴロ、二直、中飛、遊安、三ゴロ",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040642/top"
     }
   ]
 }
