@@ -2502,5 +2502,37 @@
     "publishedAt": "June 26, 2026 at 05:09PM",
     "description": "日本野球機構が本日発表した「ナミックス フレッシュオールスターゲーム2026」の出場選手。その中で大きな注目を集めたのが、 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】フレッシュオールスターにドラ2谷端将伍選出！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vR9NbW6cQ14",
+    "publishedAt": "June 27, 2026 at 12:00PM",
+    "description": "【チャンネルについて】 当チャンネル「阪神タイガース応援速報」では、阪神タイガースに関する最新ニュース、試合結果、移籍 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.8 阪神タイガース新人合同自主トレ 立石正広選手 谷端将伍選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=PSqDA2eTlZ8",
+    "publishedAt": "June 28, 2026 at 03:05AM",
+    "description": "阪神タイガース、野球、NPB.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.8 阪神タイガース新人合同自主トレ 立石正広選手 谷端将伍選手 岡城快生選手 山﨑照英選手 能登嵩都選手 神宮僚介選手 早瀬朔選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hgyyPRle3D8",
+    "publishedAt": "June 28, 2026 at 03:23AM",
+    "description": "立石正広選手 谷端将伍選手 岡城快生選手 山﨑照英選手 能登嵩都選手 神宮僚介選手 早瀬朔選手 阪神タイガース 野球 NPB.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.1.8 阪神タイガース新人合同自主トレ 立石正広選手 谷端将伍選手 岡城快生選手 山﨑照英選手 能登嵩都選手 神宮僚介選手 早瀬朔選手",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=uxWhU8Tafko",
+    "publishedAt": "June 28, 2026 at 03:24AM",
+    "description": "立石正広選手 谷端将伍選手 岡城快生選手 山﨑照英選手 能登嵩都選手 神宮僚介選手 早瀬朔選手 阪神タイガース 野球 NPB.",
+    "keyword": "谷端 阪神"
   }
 ]
