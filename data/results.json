@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-06-27T11:03:34.596Z",
+  "fetchedAt": "2026-06-27T11:25:34.314Z",
   "lastUpdated": "2026-06-27",
   "farmSummary": {
     "raw": {
@@ -69,15 +69,15 @@
       "date": "6/27",
       "gameKind": "ファーム交流戦",
       "opponent": "巨人",
-      "atBats": "3",
+      "atBats": "4",
       "hits": "0",
       "homeRuns": "0",
       "rbi": "0",
       "runs": "0",
-      "strikeouts": "0",
+      "strikeouts": "1",
       "walks": "0",
       "hitByPitch": "0",
-      "battingResults": "遊ゴロ、投ゴロ、遊併打",
+      "battingResults": "遊ゴロ、投ゴロ、遊併打、空三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040725/top"
     },
     {
