@@ -2534,5 +2534,37 @@
     "publishedAt": "June 28, 2026 at 03:24AM",
     "description": "立石正広選手 谷端将伍選手 岡城快生選手 山﨑照英選手 能登嵩都選手 神宮僚介選手 早瀬朔選手 阪神タイガース 野球 NPB.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.6.28 セカンドでノックをうける百﨑蒼生選手 谷端将伍選手 山﨑照英選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=5XQ3Pd-0c_U",
+    "publishedAt": "June 28, 2026 at 05:28PM",
+    "description": "阪神タイガース 野球 NPB 百﨑蒼生選手 谷端将伍選手 山﨑照英選手.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.6.28 セカンドでノックをうける百﨑蒼生選手 谷端将伍選手 山﨑照英選手➁  #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XsYELcGOh9Y",
+    "publishedAt": "June 28, 2026 at 05:30PM",
+    "description": "阪神タイガース 野球 NPB 百﨑蒼生選手 谷端将伍選手 山﨑照英選手.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.6.28 セカンドでノックをうける谷端将伍選手 山﨑照英選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=CINjAHRPVNo",
+    "publishedAt": "June 28, 2026 at 06:43PM",
+    "description": "阪神タイガース 野球 NPB 谷端将伍選手 山﨑照英選手.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.6.28 セカンドでノックをうける百﨑蒼生選手 谷端将伍選手 山﨑照英選手③ #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=JuiAdfOmr3s",
+    "publishedAt": "June 28, 2026 at 10:38PM",
+    "description": "阪神タイガース 野球 NPB 百﨑蒼生選手 谷端将伍選手 山﨑照英選手.",
+    "keyword": "谷端 阪神"
   }
 ]
