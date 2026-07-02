@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-02T01:35:36.881Z",
+  "fetchedAt": "2026-07-02T02:00:35.313Z",
   "lastUpdated": "2026-07-02",
   "farmSummary": {
     "raw": {
@@ -69,7 +69,7 @@
       "date": "7/2",
       "gameKind": "ファーム・リーグ 西地区",
       "opponent": "広島",
-      "atBats": "1",
+      "atBats": "2",
       "hits": "0",
       "homeRuns": "0",
       "rbi": "0",
@@ -77,7 +77,7 @@
       "strikeouts": "0",
       "walks": "0",
       "hitByPitch": "0",
-      "battingResults": "遊ゴロ",
+      "battingResults": "遊ゴロ、遊ゴロ",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040748/top"
     },
     {
