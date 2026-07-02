@@ -2566,5 +2566,13 @@
     "publishedAt": "June 28, 2026 at 10:38PM",
     "description": "阪神タイガース 野球 NPB 百﨑蒼生選手 谷端将伍選手 山﨑照英選手.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ２ルーキー谷端将伍へ岡田彰布顧問と鳥谷敬が放ったある助言が的確すぎると話題に【阪神タイガース プロ野球】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=mCW_uOS2Ti0",
+    "publishedAt": "July 2, 2026 at 06:15AM",
+    "description": "プロ野球界のレジェンド（OB）たちが、メディアでは絶対に語れない「本音」をぶちまける！当チャンネル『プロ野球OBの ...",
+    "keyword": "谷端 阪神"
   }
 ]
