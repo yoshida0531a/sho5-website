@@ -2574,5 +2574,13 @@
     "publishedAt": "July 2, 2026 at 06:15AM",
     "description": "プロ野球界のレジェンド（OB）たちが、メディアでは絶対に語れない「本音」をぶちまける！当チャンネル『プロ野球OBの ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥ドラフト1位・立石正広が1軍キャンプ合流！✨未来の主砲へ大きな一歩⚾🌟",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=SwIV3uolzeE",
+    "publishedAt": "July 3, 2026 at 09:56AM",
+    "description": "阪神タイガースの未来を担うドラフト1位・立石正広選手が、ついに1軍キャンプへ合流しました！⚾  これまで2軍で積み重ね ...",
+    "keyword": "谷端 阪神"
   }
 ]
