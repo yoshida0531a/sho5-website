@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-04T09:05:51.712Z",
+  "fetchedAt": "2026-07-04T09:10:50.082Z",
   "lastUpdated": "2026-07-04",
   "farmSummary": {
     "raw": {
@@ -69,15 +69,15 @@
       "date": "7/4",
       "gameKind": "ファーム・リーグ 西地区",
       "opponent": "ソフトバンク",
-      "atBats": "0",
+      "atBats": "1",
       "hits": "0",
       "homeRuns": "0",
       "rbi": "0",
       "runs": "0",
-      "strikeouts": "0",
+      "strikeouts": "1",
       "walks": "0",
       "hitByPitch": "0",
-      "battingResults": "-",
+      "battingResults": "空三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040759/top"
     },
     {
