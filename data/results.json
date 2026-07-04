@@ -1,42 +1,42 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-03T16:42:55.746Z",
+  "fetchedAt": "2026-07-04T09:05:51.712Z",
   "lastUpdated": "2026-07-04",
   "farmSummary": {
     "raw": {
-      "打率": ".212",
-      "試合": "57",
-      "打席": "207",
-      "打数": "184",
-      "安打": "39",
-      "二塁打": "9",
+      "打率": ".218",
+      "試合": "58",
+      "打席": "211",
+      "打数": "188",
+      "安打": "41",
+      "二塁打": "10",
       "三塁打": "0",
       "本塁打": "0",
-      "塁打": "48",
+      "塁打": "51",
       "打点": "15",
-      "得点": "18",
+      "得点": "19",
       "三振": "26",
       "四球": "16",
       "死球": "3",
       "犠打": "3",
       "犠飛": "1",
-      "盗塁": "2",
+      "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "7",
-      "出塁率": ".284",
-      "長打率": ".261",
-      "OPS": ".545",
+      "出塁率": ".288",
+      "長打率": ".271",
+      "OPS": ".560",
       "得点圏": ".229",
       "失策": "5"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".212"
+        "value": ".218"
       },
       {
         "label": "安打数",
-        "value": "39"
+        "value": "41"
       },
       {
         "label": "打点",
@@ -44,7 +44,7 @@
       },
       {
         "label": "長打",
-        "value": "9"
+        "value": "10"
       },
       {
         "label": "四球",
@@ -52,11 +52,11 @@
       },
       {
         "label": "盗塁",
-        "value": "2"
+        "value": "3"
       },
       {
         "label": "出塁率",
-        "value": ".284"
+        "value": ".288"
       },
       {
         "label": "得点圏",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "7/4",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040759/top"
+    },
     {
       "date": "7/3",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "遊ゴロ、投ゴロ、遊併打、空三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040725/top"
-    },
-    {
-      "date": "6/23",
-      "gameKind": "ファーム交流戦",
-      "opponent": "オイシックス",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "1",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "空三振、四球、三ゴロ、二併打",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040700/top"
     }
   ]
 }
