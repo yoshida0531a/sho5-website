@@ -280,5 +280,143 @@
     "userName": "hiddenpathJP",
     "tweetUrl": "https://twitter.com/hiddenpathJP/status/2073856559323484506",
     "createdAt": "July 6, 2026 at 04:48AM"
+  },
+  {
+    "text": "谷端くんのルーキーカード50枚限定…レアだね🍋\n\nTopps NPB 谷端将伍 ルーキーカード 50枚限定 カラーマッチ\nhttps://t.co/d2X593wWvB",
+    "userName": "yuukatora08",
+    "tweetUrl": "https://twitter.com/yuukatora08/status/2073937989802070313",
+    "createdAt": "July 6, 2026 at 10:12AM"
+  },
+  {
+    "text": "谷端が時間かけながらも着実に打てるようになってきててうれしいよ",
+    "userName": "YlmZZDD",
+    "tweetUrl": "https://twitter.com/YlmZZDD/status/2073976062921331088",
+    "createdAt": "July 6, 2026 at 12:43PM"
+  },
+  {
+    "text": "🦀は谷端君、川﨑君\n🦌は暖君、伊原君、津田君\nうどんにおばちが入ってるのは何故？",
+    "userName": "H5212494",
+    "tweetUrl": "https://twitter.com/H5212494/status/2073977390171312199",
+    "createdAt": "July 6, 2026 at 12:48PM"
+  },
+  {
+    "text": "小野寺の名前がないって事は、\n記者の中では小野寺抹消は伝えられてるっぽいな。\n得意な東京ドームで復調して欲しいと思ってた立石は自打球の影響で見送りかな。\n\nそろそろ谷端上げても… https://t.co/qUANRIKS3E",
+    "userName": "t20052023",
+    "tweetUrl": "https://twitter.com/t20052023/status/2073983390546858288",
+    "createdAt": "July 6, 2026 at 01:12PM"
+  },
+  {
+    "text": "福島岡城前川山田百﨑谷端立石嶋村井坪戸井中川髙寺が打者指標TOP10独占するから黄金期来るけどな",
+    "userName": "NY_KISEI1",
+    "tweetUrl": "https://twitter.com/NY_KISEI1/status/2073989611945345228",
+    "createdAt": "July 6, 2026 at 01:37PM"
+  },
+  {
+    "text": "@thronefallosusu マニアじゃないからわからんけど\n谷端川暗渠？",
+    "userName": "yukipon_BB",
+    "tweetUrl": "https://twitter.com/yukipon_BB/status/2074026184283918556",
+    "createdAt": "July 6, 2026 at 04:02PM"
+  },
+  {
+    "text": "内野なら谷端、外野なら岡城おるもんな",
+    "userName": "racko0127",
+    "tweetUrl": "https://twitter.com/racko0127/status/2074028347752071371",
+    "createdAt": "July 6, 2026 at 04:11PM"
+  },
+  {
+    "text": "バンド関連で1番イラつくのは、二軍のスポナビ開いたら岡城や谷端にさせてた時かな！",
+    "userName": "rUhaSfST1x94650",
+    "tweetUrl": "https://twitter.com/rUhaSfST1x94650/status/2074033974410973590",
+    "createdAt": "July 6, 2026 at 04:33PM"
+  },
+  {
+    "text": "谷端、打撃はぼちぼち適応し始めたし一塁と外野練習しといて欲しいんだけども",
+    "userName": "krhvvgf",
+    "tweetUrl": "https://twitter.com/krhvvgf/status/2074044767642771885",
+    "createdAt": "July 6, 2026 at 05:16PM"
+  },
+  {
+    "text": "基本谷端がセカンドの阪神でも-1.7だから、プラスだからといって一軍でも通用するレベルとは限らない。\nもちろんマイナス吐いてるよりかはポジれるが。 https://t.co/cHCKhCrxJr",
+    "userName": "CarpGreat",
+    "tweetUrl": "https://twitter.com/CarpGreat/status/2074051114077688075",
+    "createdAt": "July 6, 2026 at 05:41PM"
+  },
+  {
+    "text": "【ファーム・リーグ打撃成績（６日）】\n\n◇打率（西地区）\n①髙橋隆慶(ソ)　.261\n②石見颯真(ソ)　.247\n③河野聡太(オ)　.230\n④内藤鵬(オ)　.226\n⑤谷端将伍(神)　.219\n⑥末包昇大(広)　.213\n⑦秋広優人(ソ)　.205\n\n#スポニチ #ファーム情報",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2074064331474616483",
+    "createdAt": "July 6, 2026 at 06:34PM"
+  },
+  {
+    "text": "@Og0238_0521 2029年の理想打線が\n\n近本　岡城\n緒方\n吉田正尚\n森下\n立石\n助っ人\n中野　谷端\n新人大砲　助っ人\n新人捕手　新人捕手\n投手\n\n下位打線にも一発打者を仕込ませる",
+    "userName": "kick8675",
+    "tweetUrl": "https://twitter.com/kick8675/status/2074068890804703538",
+    "createdAt": "July 6, 2026 at 06:52PM"
+  },
+  {
+    "text": "やっぱセカンド谷端思ってたより耐えてるんだ",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2074070665167352163",
+    "createdAt": "July 6, 2026 at 06:59PM"
+  },
+  {
+    "text": "谷端、岡城バントとかいうふざけたことしてるしな…\nさらに後ろのバッターが長坂や島田だったりね",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2074078516103315552",
+    "createdAt": "July 6, 2026 at 07:30PM"
+  },
+  {
+    "text": "@wNzfdceE まさかのショート挑戦\n独立交流戦でショート谷端とかやってたの思い出した",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2074079158372831640",
+    "createdAt": "July 6, 2026 at 07:33PM"
+  },
+  {
+    "text": "@tasche41102 てか守備超上達するとか以外で、将来上でもセカンド谷端になってたらおそらく二遊間補強上手くいってないなそれ()",
+    "userName": "wNzfdceE",
+    "tweetUrl": "https://twitter.com/wNzfdceE/status/2074079346411835760",
+    "createdAt": "July 6, 2026 at 07:33PM"
+  },
+  {
+    "text": "百﨑か谷端のセカンドってどっちがいいんだろう",
+    "userName": "bos_tigers",
+    "tweetUrl": "https://twitter.com/bos_tigers/status/2074086377592111578",
+    "createdAt": "July 6, 2026 at 08:01PM"
+  },
+  {
+    "text": "［譲渡］舞台 gift チケット 千秋楽 マチネ ソワレ\n\n【譲】\n7/27 昼 A席2階 1枚\n7/27 夜 A席1階 1枚\n\n【求】〜8000円/枚\n\n全てキャスト先行、特典返却不要(和田または染谷)。端末貸出による譲渡の予定です。\nお求めの方は、金額記載のうえ、DMまでご連絡お願いいたします。",
+    "userName": "a63465397",
+    "tweetUrl": "https://twitter.com/a63465397/status/2074095050263527664",
+    "createdAt": "July 6, 2026 at 08:36PM"
+  },
+  {
+    "text": "［譲渡］舞台 gift チケット 千秋楽 マチネ ソワレ\n\n【譲】\n7/27 昼 A席2階 1枚\n7/27 夜 A席1階 1枚\n\n【求】〜8000円/枚\n\n全てキャスト先行、特典返却不要(和田または染谷)。端末貸出による譲渡の予定です。\nお求めの方は、金額記載のうえ、DMまでご連絡お願いいたします。",
+    "userName": "1puz7t",
+    "tweetUrl": "https://twitter.com/1puz7t/status/2074095857113198929",
+    "createdAt": "July 6, 2026 at 08:39PM"
+  },
+  {
+    "text": "1.(中)岡城快生(27)\n2.(二)高寺望夢(28)\n3.(三)立石正広(27)\n4.(指)\n5.(一)前川右京 (27)or谷端\n6.(捕)渡部海(26)\n7.(右)井坪陽生(26)\n8.(左)\n9.(遊)山田修也(26)\n\nまぁ渡部か前嶋は獲得して欲しい\nあと井坪は一年目の長打力戻って欲しい\n個人的には痩せて欲しい",
+    "userName": "hanshinnnnnnn03",
+    "tweetUrl": "https://twitter.com/hanshinnnnnnn03/status/2074107705976098862",
+    "createdAt": "July 6, 2026 at 09:26PM"
+  },
+  {
+    "text": "阪神の内野手\n\n大山（神だが来季32歳）\n佐藤輝（神だが近年MLB？）\n中野（神だが来季31歳）\n小幡（たまにやらかしが）\n木浪（代打ならでも来季32歳）\n糸原（来季35歳）\n立石（期待値高いが怪我が多い）\n山田（伸び悩み中）\n熊谷（ユーティリティだが来季30歳）\n植田、百崎、谷端\n\nもう少し厚くしようよ https://t.co/dnOruy4nm8",
+    "userName": "aweoab9fto89578",
+    "tweetUrl": "https://twitter.com/aweoab9fto89578/status/2074109383685046725",
+    "createdAt": "July 6, 2026 at 09:33PM"
+  },
+  {
+    "text": "阪神二軍野手成績(〜7/5)\n\nディベイニー、谷端、岡城が週間4割を超える打撃成績。二軍でもなかなか当たりの出ていなかった3選手だが、ここに来て適応を示している。立石は本塁打を記録したものの自打球の影響で途中交代もあり、状態に不安も\n#阪神ファーム2026野手 https://t.co/K9izLbrJdJ",
+    "userName": "shin72826",
+    "tweetUrl": "https://twitter.com/shin72826/status/2074165238048653591",
+    "createdAt": "July 7, 2026 at 01:15AM"
+  },
+  {
+    "text": "@shin72826 谷端出てきたらアツいな。\n立石谷端の台頭で内野手の未来は明るい",
+    "userName": "aika_3150_",
+    "tweetUrl": "https://twitter.com/aika_3150_/status/2074166307466207495",
+    "createdAt": "July 7, 2026 at 01:19AM"
   }
 ]
