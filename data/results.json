@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-07T17:24:18.472Z",
+  "fetchedAt": "2026-07-08T09:06:05.278Z",
   "lastUpdated": "2026-07-08",
   "farmSummary": {
     "raw": {
-      "打率": ".219",
-      "試合": "59",
-      "打席": "215",
-      "打数": "192",
-      "安打": "42",
+      "打率": ".221",
+      "試合": "60",
+      "打席": "218",
+      "打数": "195",
+      "安打": "43",
       "二塁打": "10",
       "三塁打": "0",
       "本塁打": "0",
-      "塁打": "52",
+      "塁打": "53",
       "打点": "15",
       "得点": "19",
       "三振": "27",
@@ -24,19 +24,19 @@
       "盗塁死": "0",
       "併殺打": "7",
       "出塁率": ".288",
-      "長打率": ".271",
-      "OPS": ".559",
+      "長打率": ".272",
+      "OPS": ".560",
       "得点圏": ".224",
       "失策": "5"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".219"
+        "value": ".221"
       },
       {
         "label": "安打数",
-        "value": "42"
+        "value": "43"
       },
       {
         "label": "打点",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "7/8",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "広島",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040771/top"
+    },
     {
       "date": "7/7",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "左飛、左安、左安、投犠打、空三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040738/top"
-    },
-    {
-      "date": "6/28",
-      "gameKind": "ファーム交流戦",
-      "opponent": "巨人",
-      "atBats": "1",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "中安",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040732/top"
     }
   ]
 }
