@@ -976,5 +976,125 @@
     "userName": "aeiga8_02",
     "tweetUrl": "https://twitter.com/aeiga8_02/status/2074932781835001903",
     "createdAt": "July 9, 2026 at 04:05AM"
+  },
+  {
+    "text": "BBM2026 谷端将伍…新星期待してる🍑\n\nBBM2026 1st 阪神タイガース 谷端将伍\nhttps://t.co/28w6VAS2E8",
+    "userName": "yuukatora08",
+    "tweetUrl": "https://twitter.com/yuukatora08/status/2074981899076796535",
+    "createdAt": "July 9, 2026 at 07:20AM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍のバイブルは大山悠輔の著書　初の1軍へ常に前へ突き進む - サンスポ https://t.co/MmjwN1OGhi @SANSPOCOMより \n#阪神タイガース",
+    "userName": "SANSPOCOM",
+    "tweetUrl": "https://twitter.com/SANSPOCOM/status/2075032289403429128",
+    "createdAt": "July 9, 2026 at 10:40AM"
+  },
+  {
+    "text": "かわい子ちゃんたち🤲🏻\n\n2026.06.28 SGL\n#阪神タイガース\n#谷端将伍 #山田修也\n#百﨑蒼生 #岡城快生\n#キッズジャビット https://t.co/kElcfzbPmx",
+    "userName": "amanattuto",
+    "tweetUrl": "https://twitter.com/amanattuto/status/2075055575491395941",
+    "createdAt": "July 9, 2026 at 12:12PM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍のバイブルは大山悠輔の著書　初の1軍へ常に前へ突き進む - サンスポ https://t.co/0HQXHo2vap",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://twitter.com/sanspo_tigers/status/2075076247525474390",
+    "createdAt": "July 9, 2026 at 01:35PM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍のバイブルは大山悠輔の著書　初の1軍へ常に前へ突き進む - サンスポ https://t.co/xv91DcpBkU @SANSPOCOMより",
+    "userName": "sanspooskseiri",
+    "tweetUrl": "https://twitter.com/sanspooskseiri/status/2075087134378373483",
+    "createdAt": "July 9, 2026 at 02:18PM"
+  },
+  {
+    "text": "あなたは気づいてる？ すぐ後ろにある、その違和感に。\n#アルファポリス 「意味コワ！　気づいた瞬間、ゾッとする話」（鍵谷端哉）紙＆電子同時刊行！\nhttps://t.co/nDxdmh6AGM https://t.co/3aA4AdQYck",
+    "userName": "alpha_polis",
+    "tweetUrl": "https://twitter.com/alpha_polis/status/2075092146181619887",
+    "createdAt": "July 9, 2026 at 02:38PM"
+  },
+  {
+    "text": "谷端は最近、大山の著書『常に前へ』を購入。毎日20分ほど読んでいる。「昔から本を読むのが本当に嫌いで、一冊丸々読んだことなかったけど、ちゃんと読むと楽しい。たぶん、自分を知っている人は信じてもらえないと思う」と笑わせた。\nhttps://t.co/c66bbEvKty",
+    "userName": "JACKANDKNIFE",
+    "tweetUrl": "https://twitter.com/JACKANDKNIFE/status/2075097142767894718",
+    "createdAt": "July 9, 2026 at 02:58PM"
+  },
+  {
+    "text": "@tigerschannel72 1年目とはいえ森下や西川史礁は1年目から2軍では無双だったからねそれを見てるからつい比較しちゃうな。\n立石だけじゃなく谷端もそうだし",
+    "userName": "masaa3456",
+    "tweetUrl": "https://twitter.com/masaa3456/status/2075111301093998992",
+    "createdAt": "July 9, 2026 at 03:54PM"
+  },
+  {
+    "text": "YouTubeにボイスドラマをUPしました！\n\n『ヒーローのイメチェン』\n脚本:鍵谷端哉様\n\nアラフィフのヒーロー達のお話です🦸\n温かい耳でお聴きください✨✨\n\nhttps://t.co/jRIiMoqkVV\n\n#ボイスドラマ\n#ショートショート",
+    "userName": "ssvoicedrama",
+    "tweetUrl": "https://twitter.com/ssvoicedrama/status/2075125599514018253",
+    "createdAt": "July 9, 2026 at 04:51PM"
+  },
+  {
+    "text": "@Hanshinfunda じゃあ町田側の03世代ね\n嶋村前川中川立石谷端岡城は君と違うベクトルの03世代だから関わらないように",
+    "userName": "shitaperohaakan",
+    "tweetUrl": "https://twitter.com/shitaperohaakan/status/2075154567994708130",
+    "createdAt": "July 9, 2026 at 06:46PM"
+  },
+  {
+    "text": "@toyonakan 虎の03世代熱いっす。\n立石、右京、中川、岡城、谷端、神宮！",
+    "userName": "EITVTs3KoxLwlQ9",
+    "tweetUrl": "https://twitter.com/EITVTs3KoxLwlQ9/status/2075159789613768903",
+    "createdAt": "July 9, 2026 at 07:07PM"
+  },
+  {
+    "text": "@_Head_Coach まだこれに立石、谷端、岡城が控えている",
+    "userName": "Arakajime8",
+    "tweetUrl": "https://twitter.com/Arakajime8/status/2075173351983894674",
+    "createdAt": "July 9, 2026 at 08:00PM"
+  },
+  {
+    "text": "@DAZNJPNBaseball 右京\n立石君\n岡城\n谷端\n豊田　　の五段活用",
+    "userName": "louvre_ken",
+    "tweetUrl": "https://twitter.com/louvre_ken/status/2075173844642681125",
+    "createdAt": "July 9, 2026 at 08:02PM"
+  },
+  {
+    "text": "@Arakajime8 そう考えたら希望しかないな。谷端頑張って欲しいけど、一年目で昇降格を繰り返してる岡城って素晴らしいよな",
+    "userName": "_Head_Coach",
+    "tweetUrl": "https://twitter.com/_Head_Coach/status/2075173920177864806",
+    "createdAt": "July 9, 2026 at 08:03PM"
+  },
+  {
+    "text": "っで東京ドームのAS申し込みました。\n\n親父の故郷でもASやるけと祖父母に迷惑かけるし、直後に神宮あるから回避\n\nだけど、谷端くん出るから新潟のフレッシュAS行きたいんよな…",
+    "userName": "109tigers036_a",
+    "tweetUrl": "https://twitter.com/109tigers036_a/status/2075178037214335398",
+    "createdAt": "July 9, 2026 at 08:19PM"
+  },
+  {
+    "text": "谷端くんのバイブルは大山悠輔の著書だと…？",
+    "userName": "blau_luchs",
+    "tweetUrl": "https://twitter.com/blau_luchs/status/2075187574583480636",
+    "createdAt": "July 9, 2026 at 08:57PM"
+  },
+  {
+    "text": "@ultratorasoul ドラ１の立石君、谷端君岡城君達、皆んな同級生やけど『何くそ魂』で、頑張ってほしい↗️\n競い合う事がチーム力UPにもなるし、阪神タイガースの為にもなるという事に繋がってきますもんね📣",
+    "userName": "torikura1997308",
+    "tweetUrl": "https://twitter.com/torikura1997308/status/2075212769021083763",
+    "createdAt": "July 9, 2026 at 10:37PM"
+  },
+  {
+    "text": "伊原投手は久々の１軍登板だし十分かな。３四球がらしくないけどこれから修正されれば。しかし控えの打者に .250 打ってる人が１人もいない！どうせなら若手使おうよ！内野なら谷端選手や佐野選手がいるよ。そういや中川選手最近２軍でも見てないような、、、 #阪神タイガース",
+    "userName": "rikehan69032",
+    "tweetUrl": "https://twitter.com/rikehan69032/status/2075219393609666947",
+    "createdAt": "July 9, 2026 at 11:03PM"
+  },
+  {
+    "text": "@sky_subsub 二軍もショートばっかりだもんなぁ\n立石と谷端以外の若手はショートメインで入団してるし久しぶりの内野外国人はショートのディベイニー",
+    "userName": "saba_saba_ba",
+    "tweetUrl": "https://twitter.com/saba_saba_ba/status/2075233351225778207",
+    "createdAt": "July 9, 2026 at 11:59PM"
+  },
+  {
+    "text": "立石、前川、岡城、嶋村、谷端、中川が同じ代なのエグい",
+    "userName": "surounin_1",
+    "tweetUrl": "https://twitter.com/surounin_1/status/2075274190031392790",
+    "createdAt": "July 10, 2026 at 02:41AM"
   }
 ]
