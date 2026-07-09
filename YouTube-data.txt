@@ -2614,5 +2614,13 @@
     "publishedAt": "July 7, 2026 at 10:00PM",
     "description": "阪神【小幡竜平/谷端将伍】【ノック練習】守備力向上を目指し何度もノックを受ける！地道な練習が大きな舞台へ連れて行って ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【パワプロ2026打撃練習/NPB26FreeBatting】阪神 25 谷端将伍選手 Tigers Shogo Tanihata",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wRci7L-Dd8M",
+    "publishedAt": "July 9, 2026 at 07:27AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
