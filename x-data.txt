@@ -1438,5 +1438,95 @@
     "userName": "0ufeb",
     "tweetUrl": "https://twitter.com/0ufeb/status/2075676570807943607",
     "createdAt": "July 11, 2026 at 05:20AM"
+  },
+  {
+    "text": "【阪神ファーム通信】D2位・谷端将伍のバイブルは大山悠輔の著書　初の1軍へ常に前へ突き進む - サンスポ https://t.co/9dzqfyzqnC @SANSPOCOMより",
+    "userName": "besarumana011",
+    "tweetUrl": "https://twitter.com/besarumana011/status/2075711743603675556",
+    "createdAt": "July 11, 2026 at 07:40AM"
+  },
+  {
+    "text": "1962年まで谷端川（やばたがわ）だったところの緑道を抜けて朝ごはんを食べに行こう",
+    "userName": "tasakitakeharu",
+    "tweetUrl": "https://twitter.com/tasakitakeharu/status/2075742362010341870",
+    "createdAt": "July 11, 2026 at 09:41AM"
+  },
+  {
+    "text": "そろそろ調子上がってきたし谷端上げてあげてほしいと思ってるんだけど対抗馬が強すぎて。",
+    "userName": "dadadan_t",
+    "tweetUrl": "https://twitter.com/dadadan_t/status/2075769220995199020",
+    "createdAt": "July 11, 2026 at 11:28AM"
+  },
+  {
+    "text": "ディベ谷端井坪が外れてるのどっちや https://t.co/52wh4aoehm",
+    "userName": "mitski_hanshin",
+    "tweetUrl": "https://twitter.com/mitski_hanshin/status/2075776885326516669",
+    "createdAt": "July 11, 2026 at 11:59AM"
+  },
+  {
+    "text": "谷端もおらんやん https://t.co/Z1lMXadjFK",
+    "userName": "S7KABOyZgv1B2qz",
+    "tweetUrl": "https://twitter.com/S7KABOyZgv1B2qz/status/2075778609676227068",
+    "createdAt": "July 11, 2026 at 12:06PM"
+  },
+  {
+    "text": "え、谷端さんベンチ入りしてないのなんでどこいったねえ",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2075781238317781299",
+    "createdAt": "July 11, 2026 at 12:16PM"
+  },
+  {
+    "text": "中川谷端同行してないんか\nほかもなんでしてないんか分からんやつがちまちまいるけど、中川はガチ消えるかも知らんな https://t.co/kuUwh2zNwX",
+    "userName": "nekone9",
+    "tweetUrl": "https://twitter.com/nekone9/status/2075782743120830624",
+    "createdAt": "July 11, 2026 at 12:22PM"
+  },
+  {
+    "text": "今日はここから！\n2年連続の高槻萩谷！\n谷端メンバー外は最悪 https://t.co/GLVVBW2wcG",
+    "userName": "ryoHANSHIN_Love",
+    "tweetUrl": "https://twitter.com/ryoHANSHIN_Love/status/2075783686847611253",
+    "createdAt": "July 11, 2026 at 12:26PM"
+  },
+  {
+    "text": "谷端おらんなって思ったらメンバー外か。流石に昇格はなさそうよね。",
+    "userName": "centralyakyu",
+    "tweetUrl": "https://twitter.com/centralyakyu/status/2075787432470208559",
+    "createdAt": "July 11, 2026 at 12:41PM"
+  },
+  {
+    "text": "谷端も外れてるけど流石にないか",
+    "userName": "tigers_tg400",
+    "tweetUrl": "https://twitter.com/tigers_tg400/status/2075793661309379014",
+    "createdAt": "July 11, 2026 at 01:05PM"
+  },
+  {
+    "text": "@68catcher まあ来年からは打てたとしてもファーストかDHだろうな\n大山と前川で守備がマシな方をファースト、守備終わってる方をDHって感じで\n立石谷端岡城あたりは一刻も早く適応して欲しいね、ポテンシャルがあるのはみんなわかってるし",
+    "userName": "Ht_Phi_Ab",
+    "tweetUrl": "https://twitter.com/Ht_Phi_Ab/status/2075943348641341500",
+    "createdAt": "July 11, 2026 at 11:00PM"
+  },
+  {
+    "text": "みんな筋肉つけろ\n谷端も岡城も小幡も山田も百崎も今朝丸も早瀬もこれになれ https://t.co/2GePv8K4CS",
+    "userName": "toratamakinkin",
+    "tweetUrl": "https://twitter.com/toratamakinkin/status/2075951637689139207",
+    "createdAt": "July 11, 2026 at 11:33PM"
+  },
+  {
+    "text": "阪神タイガース　シークレット交換\n選手キーホルダー第二弾\n\n譲　写真　坂本　中野\n　　名前　前川　桐敷　谷端　早川\n　　　　　及川　富田　ラグズデール　\n　　　　　ディペイニー②　ルーカス\n　　　　　\n求　写真　近本　伏見　髙橋\n　　名前　近本　伊藤　髙橋\n\n現地　梅田　難波で手渡し希望",
+    "userName": "watoratora",
+    "tweetUrl": "https://twitter.com/watoratora/status/2075966572368470310",
+    "createdAt": "July 12, 2026 at 12:32AM"
+  },
+  {
+    "text": "野手よなぁ……\n強すんぎコア5\n中右三二一\n捕手(若手出てこない😢)\n3人\n嶋村\n遊(誰が、.250打って)\n熊、小、木\n左（.260は打って）\n前、高、福、ガルシア\n走れ\n植\n早よ成長ヨロ\n立石、百崎、岡城、榮枝、谷端、井坪\n尻に火\n濱田、元山、糸原、島田、豊田、暖、",
+    "userName": "Ikasumirate",
+    "tweetUrl": "https://twitter.com/Ikasumirate/status/2076015453584208151",
+    "createdAt": "July 12, 2026 at 03:47AM"
+  },
+  {
+    "text": "8 近本\n4 中野\n9 森下\n3 大山\nD 前川(木浪)\n5 立石\n2 嶋村坂本梅野伏見渡部\n7 中川谷端福島西純etc.\n6 高寺小幡\n\n高寺がショートやれたら、佐藤がメジャー行ってもギリ耐えれるか",
+    "userName": "Oh_King_ok",
+    "tweetUrl": "https://twitter.com/Oh_King_ok/status/2076035184068284676",
+    "createdAt": "July 12, 2026 at 05:05AM"
   }
 ]
