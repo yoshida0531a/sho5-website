@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-12T04:06:06.279Z",
+  "fetchedAt": "2026-07-12T04:46:07.851Z",
   "lastUpdated": "2026-07-12",
   "farmSummary": {
     "raw": {
@@ -69,15 +69,15 @@
       "date": "7/12",
       "gameKind": "ファーム・リーグ 西地区",
       "opponent": "オリックス",
-      "atBats": "1",
+      "atBats": "2",
       "hits": "1",
       "homeRuns": "0",
       "rbi": "0",
       "runs": "0",
-      "strikeouts": "0",
+      "strikeouts": "1",
       "walks": "0",
       "hitByPitch": "0",
-      "battingResults": "中安",
+      "battingResults": "中安、見三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040793/top"
     },
     {
