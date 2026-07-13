@@ -2622,5 +2622,13 @@
     "publishedAt": "July 9, 2026 at 07:27AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】谷端•西純矢ともに3安打猛打賞！ファームも活性化！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=AxHwc4EvUHU",
+    "publishedAt": "July 13, 2026 at 12:00PM",
+    "description": "阪神タイガース #ファーム #西純矢 #谷端.",
+    "keyword": "谷端 阪神"
   }
 ]
