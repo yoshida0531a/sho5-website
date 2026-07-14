@@ -2630,5 +2630,13 @@
     "publishedAt": "July 13, 2026 at 12:00PM",
     "description": "阪神タイガース #ファーム #西純矢 #谷端.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】7/14(火) 神5－9ソ（倉敷）| 初回に小野寺、榮枝、西純の3連続タイムリー！3番谷端、4番立石の新人コンビもバットでアピール！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=VmUUPcJ8UMw",
+    "publishedAt": "July 14, 2026 at 10:17PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
   }
 ]
