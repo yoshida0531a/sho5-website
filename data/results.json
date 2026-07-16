@@ -1,13 +1,13 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-15T16:41:40.006Z",
+  "fetchedAt": "2026-07-16T09:05:35.639Z",
   "lastUpdated": "2026-07-16",
   "farmSummary": {
     "raw": {
-      "打率": ".233",
-      "試合": "64",
-      "打席": "234",
-      "打数": "210",
+      "打率": ".230",
+      "試合": "65",
+      "打席": "238",
+      "打数": "213",
       "安打": "49",
       "二塁打": "10",
       "三塁打": "0",
@@ -15,24 +15,24 @@
       "塁打": "59",
       "打点": "16",
       "得点": "22",
-      "三振": "30",
-      "四球": "16",
+      "三振": "31",
+      "四球": "17",
       "死球": "4",
       "犠打": "3",
       "犠飛": "1",
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "7",
-      "出塁率": ".299",
-      "長打率": ".281",
-      "OPS": ".580",
-      "得点圏": ".250",
+      "出塁率": ".298",
+      "長打率": ".277",
+      "OPS": ".575",
+      "得点圏": ".245",
       "失策": "5"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".233"
+        "value": ".230"
       },
       {
         "label": "安打数",
@@ -48,7 +48,7 @@
       },
       {
         "label": "四球",
-        "value": "16"
+        "value": "17"
       },
       {
         "label": "盗塁",
@@ -56,15 +56,30 @@
       },
       {
         "label": "出塁率",
-        "value": ".299"
+        "value": ".298"
       },
       {
         "label": "得点圏",
-        "value": ".250"
+        "value": ".245"
       }
     ]
   },
   "recentGames": [
+    {
+      "date": "7/16",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040812/top"
+    },
     {
       "date": "7/15",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "右飛、一直、空三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040771/top"
-    },
-    {
-      "date": "7/7",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "広島",
-      "atBats": "3",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "中飛、三邪飛、右安",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040768/top"
     }
   ]
 }
