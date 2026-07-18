@@ -1,13 +1,13 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-17T16:23:03.899Z",
+  "fetchedAt": "2026-07-18T12:13:12.270Z",
   "lastUpdated": "2026-07-18",
   "farmSummary": {
     "raw": {
-      "打率": ".227",
-      "試合": "66",
-      "打席": "241",
-      "打数": "216",
+      "打率": ".225",
+      "試合": "67",
+      "打席": "243",
+      "打数": "218",
       "安打": "49",
       "二塁打": "10",
       "三塁打": "0",
@@ -22,17 +22,17 @@
       "犠飛": "1",
       "盗塁": "3",
       "盗塁死": "0",
-      "併殺打": "7",
-      "出塁率": ".294",
-      "長打率": ".273",
-      "OPS": ".567",
+      "併殺打": "8",
+      "出塁率": ".292",
+      "長打率": ".271",
+      "OPS": ".562",
       "得点圏": ".241",
       "失策": "6"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".227"
+        "value": ".225"
       },
       {
         "label": "安打数",
@@ -56,7 +56,7 @@
       },
       {
         "label": "出塁率",
-        "value": ".294"
+        "value": ".292"
       },
       {
         "label": "得点圏",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "7/18",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "オリックス",
+      "atBats": "1",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "二ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040819/top"
+    },
     {
       "date": "7/17",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "中安、見三振、中安、遊ゴロ、右安",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040793/top"
-    },
-    {
-      "date": "7/10",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "オリックス",
-      "atBats": "4",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "1",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "三ゴロ、左安、見三振、遊ゴロ",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040779/top"
     }
   ]
 }
