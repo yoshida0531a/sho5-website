@@ -760,5 +760,215 @@
     "userName": "0701TOMO",
     "tweetUrl": "https://twitter.com/0701TOMO/status/2078479991596359933",
     "createdAt": "July 18, 2026 at 11:00PM"
+  },
+  {
+    "text": "阪神タイガース ファーム戦\n× #オリックス \nきょう17:45～生中継🐯⚾️\n\n🌟 ナミックス フレッシュオールスターゲーム2026\n出場選手にも注目👀\n👇\n#茨木秀俊\n#谷端将伍\n#岡城快生\n\n#阪神タイガース\n#スカイA猛虎中継 https://t.co/x0HB21jGDC",
+    "userName": "skya_baseball",
+    "tweetUrl": "https://twitter.com/skya_baseball/status/2078630903933497348",
+    "createdAt": "July 19, 2026 at 09:00AM"
+  },
+  {
+    "text": "2026.07.18 SGL\n兄弟(違)で出勤\n#佐野大陽 選手\n#谷端将伍 選手 https://t.co/dYX1zZOXUM",
+    "userName": "poyo___39",
+    "tweetUrl": "https://twitter.com/poyo___39/status/2078631510085935504",
+    "createdAt": "July 19, 2026 at 09:02AM"
+  },
+  {
+    "text": "［譲渡］舞台 gift チケット 千秋楽 ソワレ\n\n【譲】7/27 夜 A席1階 1枚\n\n【求】〜8000円/枚\n\nキャスト先行、特典返却不要。(和田または染谷)\n端末貸出による譲渡の予定です。\nお求めの方は、金額記載のうえ、DMまでご連絡お願いいたします。",
+    "userName": "a63465397",
+    "tweetUrl": "https://twitter.com/a63465397/status/2078632321989918797",
+    "createdAt": "July 19, 2026 at 09:05AM"
+  },
+  {
+    "text": "７／１８　ＳＧＬ\n片付け\n＃藤田健斗\n＃谷端将伍\n＃豊田寛 https://t.co/leqOiM7uu6",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://twitter.com/057JKotf55lrGVv/status/2078651487702663535",
+    "createdAt": "July 19, 2026 at 10:21AM"
+  },
+  {
+    "text": "クソ首脳陣的には髙寺はセカンドなら合格ライン出してるから\n山田小幡ショート\n髙寺谷端セカンドを未来図として描いてるのかなとは思ったりもする\n谷端も適応してきたとはいえ現時点で中野が消えて明日からセカンド守れそうなの髙寺、海くんくらいしかクソ首脳陣は引き出しを用意してないわけだし https://t.co/DUmI5LVzjR",
+    "userName": "gastontimes4",
+    "tweetUrl": "https://twitter.com/gastontimes4/status/2078707869445403113",
+    "createdAt": "July 19, 2026 at 02:05PM"
+  },
+  {
+    "text": "船水選手は2019全日本社会人で船水中本でタイトルを取ったコートで決勝に臨み\n端山選手は東日本選手権3連覇をかけて決勝へ(2024矢野端山、2025幡谷端山)",
+    "userName": "st_takemon",
+    "tweetUrl": "https://twitter.com/st_takemon/status/2078713775843332198",
+    "createdAt": "July 19, 2026 at 02:29PM"
+  },
+  {
+    "text": "たしかにここで船水端山が優勝したら\n\n2024 矢野・端山\n2025 幡谷・端山\n2026 船水・端山\n\nで違うペアで三連覇になるのか、スゴすぎるな",
+    "userName": "E_K108",
+    "tweetUrl": "https://twitter.com/E_K108/status/2078725089567318416",
+    "createdAt": "July 19, 2026 at 03:14PM"
+  },
+  {
+    "text": "谷端ってまだ上げれんのかな?\n＃阪神タイガース https://t.co/epxZ12qXpE",
+    "userName": "0M4NoGTguM53113",
+    "tweetUrl": "https://twitter.com/0M4NoGTguM53113/status/2078738839254995432",
+    "createdAt": "July 19, 2026 at 04:08PM"
+  },
+  {
+    "text": "今日の２軍スタメン予想\nショート木浪だろ\nセカンド谷端\n山田はベンチ\n\nどうせこうだろ",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2078739624667873358",
+    "createdAt": "July 19, 2026 at 04:12PM"
+  },
+  {
+    "text": "糸原もいないのか🤔\n岡城、木浪、佐野、谷端、西純矢🤔",
+    "userName": "sakaki220",
+    "tweetUrl": "https://twitter.com/sakaki220/status/2078740394817564675",
+    "createdAt": "July 19, 2026 at 04:15PM"
+  },
+  {
+    "text": "阪神　阪神タイガース　交換　譲渡\n\n【求】同異種 0 木浪、54 木下、買取\n\nペットボトルカバー\n【譲】25 谷端　56 百崎\n\n名前キーホルダー\n【譲】名前 33 糸原　62 植田　68 中川\n写真 3 大山",
+    "userName": "fam_nohanashi",
+    "tweetUrl": "https://twitter.com/fam_nohanashi/status/2078750965382140062",
+    "createdAt": "July 19, 2026 at 04:57PM"
+  },
+  {
+    "text": "SGL\n\n阪神シート\n\nキャッチャー　町田、長坂、藤田\nファースト　佐野、アルナエス\nセカンド　谷端、川崎\nサード　木浪、戸井\nショート　山田、百崎\nレフト　栄枝、小野寺、豊田\nセンター　岡城、井坪、山崎\nライト　島田、西純、コンスエグラ\n\nノックアシスト　なし\n\nと思われます\n\nSGL着席ですm(_ _)m",
+    "userName": "rickeilfullue",
+    "tweetUrl": "https://twitter.com/rickeilfullue/status/2078754821491056844",
+    "createdAt": "July 19, 2026 at 05:12PM"
+  },
+  {
+    "text": "二軍の二遊間は山田、谷端、百崎、山﨑\n物足りないな\n支配下高卒ショートと育成二遊間独立リーガーでいいよ\n守れる選手ね",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2078758650580238449",
+    "createdAt": "July 19, 2026 at 05:27PM"
+  },
+  {
+    "text": "7/19（日）尼崎SGL\n阪神タイガース vs オリックス・バファローズ 2軍戦スタメン\n\n8️⃣岡城快生\n9️⃣島田海吏\n5️⃣木浪聖也\n7️⃣榮枝裕貴\n4️⃣谷端将伍\n3️⃣佐野大陽\n6️⃣山田脩也\n2️⃣長坂拳弥\n🈯️西勇輝\n\n先発投手1️⃣は西勇輝👍️",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2078761987681763587",
+    "createdAt": "July 19, 2026 at 05:40PM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-07-19\nvsオリックス・バファローズ\n中 岡城快生 23歳 筑波大\n右 島田海吏 31歳 上武大\n三 木浪聖也 32歳 Honda\n左 榮枝裕貴 28歳 立命館大\n二 谷端将伍 23歳 日本大\n一 佐野大陽 25歳 富山\n遊 山田脩也 21歳 仙台育英\n捕 長坂拳弥 32歳 東北福祉大\n投 西勇輝 36歳 https://t.co/RxJT1TZDTy",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2078762310752149755",
+    "createdAt": "July 19, 2026 at 05:42PM"
+  },
+  {
+    "text": "【ファーム】 \n【阪神】\n1岡城(中)\n2島田(右)\n3木浪(三)\n4榮枝(左)\n5谷端(二)\n6佐野(一)\n7山田(遊)\n8長坂(捕)\n9西勇(指)\nP西勇\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2078762577635787027",
+    "createdAt": "July 19, 2026 at 05:43PM"
+  },
+  {
+    "text": "７／１９\n　ファームリーグVSオリックス\n\n先発：西勇輝\n\n１　岡城（中）\n２　島田（右）\n３　木浪（三）\n４　榮枝（左）\n５　谷端（二）\n６　佐野（一）\n７　山田（遊）\n８　長坂（捕）\n９　西勇（DH）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2078763350239199629",
+    "createdAt": "July 19, 2026 at 05:46PM"
+  },
+  {
+    "text": "1番最悪なパターン\nショート木浪サードガルシアで\n百崎山田谷端の出場機会が減ること",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2078764148717224029",
+    "createdAt": "July 19, 2026 at 05:49PM"
+  },
+  {
+    "text": "SGLスタジアム尼崎からファーム・リーグ「オリックス・バファローズ」戦のライブ配信を開始しました。\nスタメンは1番CF岡城、2番RF島田、3番3B木浪、4番LF榮枝、5番2B谷端、6番1B佐野、7番SS山田、8番C長坂、9番DHは先発の西勇輝投手です。\n\n#hanshin #虎テレ #阪神タイガース",
+    "userName": "toratele",
+    "tweetUrl": "https://twitter.com/toratele/status/2078765687867355227",
+    "createdAt": "July 19, 2026 at 05:55PM"
+  },
+  {
+    "text": "#プロ野球 #ファーム #西地区 19日 #SGL\n#オリックス-#阪神\n【@Orix_Buffaloes】\n1二西野\n2左麦谷\n3一香月\n4右杉本\n5指シーモア\n6遊横山\n7三内藤\n8捕堀\n9中窪田\n#先発 #曽谷\n【@Tigers_farm】\n1中岡城\n2中島田\n3三木浪\n4左榮枝\n5二谷端\n6一佐野\n7遊山田\n8捕長坂\n先発  #西勇輝\n#リカちゃん #野球 #2軍 https://t.co/LsRJJsoNhv",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2078765940771266836",
+    "createdAt": "July 19, 2026 at 05:56PM"
+  },
+  {
+    "text": "遊撃が小幡熊谷木浪の球団が立石に谷端重ねてルアン取らなかったのまだ面白いな",
+    "userName": "yudetama0525",
+    "tweetUrl": "https://twitter.com/yudetama0525/status/2078771232368144844",
+    "createdAt": "July 19, 2026 at 06:17PM"
+  },
+  {
+    "text": "いつだって信じてるー\n\n#Bigfumi\n#Trust\n#谷端将伍\n#谷端くん覚えました",
+    "userName": "hiroyuki_orifan",
+    "tweetUrl": "https://twitter.com/hiroyuki_orifan/status/2078774868976529637",
+    "createdAt": "July 19, 2026 at 06:32PM"
+  },
+  {
+    "text": "松下はともかく谷端をしてサードのスラッガーとして1位指名すべき！みたいなのは流石に無理があったわね",
+    "userName": "ATL_G90",
+    "tweetUrl": "https://twitter.com/ATL_G90/status/2078776376581374151",
+    "createdAt": "July 19, 2026 at 06:38PM"
+  },
+  {
+    "text": "２回裏\n\n榮枝　中安👍　①\n谷端　見三振💦　●①\n佐野　中飛　●●①\n　投手：富山凌雅\n山田　中飛　●●●\n\n阪神０－０オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2078776796561215966",
+    "createdAt": "July 19, 2026 at 06:39PM"
+  },
+  {
+    "text": "阪神タイガース　シークレット交換\nダグアウト限定　ポスターデザイン\nキーホルダー\n\n【譲】中野 大山 谷端\n\n【求】才木 門別 or 定価買取\n\n※交換優先になりますので、買取希望の方は少々お時間頂きます。\n\ndmお待ちしております。 https://t.co/rNTCnQYdA1",
+    "userName": "torihiki__xx02",
+    "tweetUrl": "https://twitter.com/torihiki__xx02/status/2078781251054719341",
+    "createdAt": "July 19, 2026 at 06:57PM"
+  },
+  {
+    "text": "４回裏　投手：陳睦衡\n\n榮枝　三邪飛　●\n谷端　中飛　●●\n佐野　ニ邪飛　●●●\n\n阪神０－２オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2078785286570734017",
+    "createdAt": "July 19, 2026 at 07:13PM"
+  },
+  {
+    "text": "@Nkd5Tj 谷端くんも早く1軍で見たいです🤭",
+    "userName": "redstar53ARENPA",
+    "tweetUrl": "https://twitter.com/redstar53ARENPA/status/2078786915537760616",
+    "createdAt": "July 19, 2026 at 07:19PM"
+  },
+  {
+    "text": "あの2軍でさえ山田とか谷端とか百﨑とか山﨑とか日替わりでショート交代してテコ入れしてるのに、意地でも元山とか髙寺とかディベイニーとか試さないのが不思議で仕方ないんやが",
+    "userName": "__ngexxx__",
+    "tweetUrl": "https://twitter.com/__ngexxx__/status/2078792004885242158",
+    "createdAt": "July 19, 2026 at 07:40PM"
+  },
+  {
+    "text": "谷端そろそろ長打欲しいわ",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2078800708565086676",
+    "createdAt": "July 19, 2026 at 08:14PM"
+  },
+  {
+    "text": "７回裏　捕：田島\n\n谷端　右飛　●\n佐野　空三振　●●\n山田　遊ゴ　●●●\n\n阪神０－３オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2078801845544514043",
+    "createdAt": "July 19, 2026 at 08:19PM"
+  },
+  {
+    "text": "山田脩也選手 谷端将伍選手 佐野大陽選手の6-4-3のダブルプレーがめっちゃかっこいかった",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2078809324823216561",
+    "createdAt": "July 19, 2026 at 08:49PM"
+  },
+  {
+    "text": "９回裏　投手：古田島成龍　三：大城\n\n木浪　ニゴ　●\n榮枝　見三振　●●\n谷端　左飛　●●●\n\n阪神１－３オリックス\n\n試合終了\n\n３安打１得点とアルナエスのホームランのみと貧打が深刻💦これで５連敗と一軍へ昇格出来そうな人材がいないのが現状だわ😭",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2078812229617770660",
+    "createdAt": "July 19, 2026 at 09:00PM"
+  },
+  {
+    "text": "夢と希望のオーダー\n\n1番(遊)山田脩也\n2番(二)谷端\n3番(三)立石\n4番(DH)前川\n5番(捕)中川\n6番(右)福島\n7番(一)百崎\n8番(左)井坪\n9番(中)岡城\n\nP早瀬",
+    "userName": "sDvVek1cCe61952",
+    "tweetUrl": "https://twitter.com/sDvVek1cCe61952/status/2078819833215697142",
+    "createdAt": "July 19, 2026 at 09:30PM"
+  },
+  {
+    "text": "【ファームハイライト】2026/7/19(日)阪神 - オリックス（ＳＧＬ）\n【スコア詳細】\nオリックス｜000｜201｜000｜3\n阪神　　　｜000｜000｜010｜1  \n本塁打：内藤 7号(4回表2ラン) 杉本 4号(6回表ソロ) アルナエス 1号(8回裏ソロ)https://t.co/xzhSHmezYP",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2078826119697187232",
+    "createdAt": "July 19, 2026 at 09:55PM"
+  },
+  {
+    "text": "谷端〆",
+    "userName": "torihiki__xx02",
+    "tweetUrl": "https://twitter.com/torihiki__xx02/status/2078846612101808434",
+    "createdAt": "July 19, 2026 at 11:17PM"
   }
 ]
