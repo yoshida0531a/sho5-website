@@ -2638,5 +2638,13 @@
     "publishedAt": "July 14, 2026 at 10:17PM",
     "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.7.19 試合前の谷端将伍選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QMiqHo6h4pA",
+    "publishedAt": "July 20, 2026 at 02:01PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
