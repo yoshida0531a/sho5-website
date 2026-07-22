@@ -1,13 +1,13 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-21T16:38:24.348Z",
+  "fetchedAt": "2026-07-22T10:25:09.557Z",
   "lastUpdated": "2026-07-22",
   "farmSummary": {
     "raw": {
-      "打率": ".220",
-      "試合": "69",
-      "打席": "248",
-      "打数": "223",
+      "打率": ".217",
+      "試合": "70",
+      "打席": "251",
+      "打数": "226",
       "安打": "49",
       "二塁打": "10",
       "三塁打": "0",
@@ -23,16 +23,16 @@
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "8",
-      "出塁率": ".286",
-      "長打率": ".265",
-      "OPS": ".550",
+      "出塁率": ".282",
+      "長打率": ".261",
+      "OPS": ".543",
       "得点圏": ".241",
       "失策": "6"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".220"
+        "value": ".217"
       },
       {
         "label": "安打数",
@@ -56,7 +56,7 @@
       },
       {
         "label": "出塁率",
-        "value": ".286"
+        "value": ".282"
       },
       {
         "label": "得点圏",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "7/22",
+      "gameKind": "ファーム交流戦",
+      "opponent": "DeNA",
+      "atBats": "2",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "1",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "見三振、遊ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040844/top"
+    },
     {
       "date": "7/21",
       "gameKind": "ファーム交流戦",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "空三振、一ゴロ、二ゴロ",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040812/top"
-    },
-    {
-      "date": "7/15",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "ソフトバンク",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "1",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "四球、空三振、三邪飛、遊直",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040806/top"
     }
   ]
 }
