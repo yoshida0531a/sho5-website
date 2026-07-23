@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-07-23T10:32:48.990Z",
+  "fetchedAt": "2026-07-23T12:11:53.551Z",
   "lastUpdated": "2026-07-23",
   "farmSummary": {
     "raw": {
@@ -69,15 +69,15 @@
       "date": "7/23",
       "gameKind": "ファーム交流戦",
       "opponent": "DeNA",
-      "atBats": "2",
+      "atBats": "4",
       "hits": "0",
       "homeRuns": "0",
       "rbi": "0",
       "runs": "0",
-      "strikeouts": "0",
+      "strikeouts": "1",
       "walks": "0",
       "hitByPitch": "0",
-      "battingResults": "三ゴロ、遊直",
+      "battingResults": "三ゴロ、遊直、空三振、右飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040851/top"
     },
     {
