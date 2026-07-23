@@ -2646,5 +2646,13 @@
     "publishedAt": "July 20, 2026 at 02:01PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端 将伍くん‼️ #甲子園 #ベスプレ #マスプレ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XL7mBHpnOjo",
+    "publishedAt": "July 23, 2026 at 10:18PM",
+    "description": "谷端 将伍くん サードライナーとる   スゴ       岡留英貴さん救ってくれて ありがとう✨️ #阪神タイガース #谷端 将伍 #岡留 ...",
+    "keyword": "谷端 阪神"
   }
 ]
