@@ -2266,5 +2266,185 @@
     "userName": "htb_kuma",
     "tweetUrl": "https://twitter.com/htb_kuma/status/2080740349140693209",
     "createdAt": "July 25, 2026 at 04:42AM"
+  },
+  {
+    "text": "昨日の立石見た時に絶望した　何も変わって無い相手のルーキーはホームラン、同じルーキーでも立石はNo1の評価だったのに結局下でも修正出来ず　評価高かった谷端も開幕スタメンやった中川も山田百崎も一向に上向かない　ファームはホンマやばいよ https://t.co/DQhZdTOLaW",
+    "userName": "HJackle15",
+    "tweetUrl": "https://twitter.com/HJackle15/status/2080813916079509841",
+    "createdAt": "July 25, 2026 at 09:34AM"
+  },
+  {
+    "text": "阪神タイガース シークレット ビジョンタオル\n\n交換 譲渡\n\n【譲】百崎、谷端、岡城\n【求】門別、下村  定価でお譲りも可能です\n\nお取り引き方法等はDMにて！\n検索からも、お声がけ下さい (  . .)\"\n #阪神タイガースシークレット https://t.co/9kMVp3TZ23",
+    "userName": "tigers_umeno2",
+    "tweetUrl": "https://twitter.com/tigers_umeno2/status/2080845692344627439",
+    "createdAt": "July 25, 2026 at 11:40AM"
+  },
+  {
+    "text": "@star_cherry_pai 初めまして。検索より失礼いたします。\n谷端を定価での買取は可能でしょうか？郵送希望です。\n検討のほどよろしくお願いします🙇‍♀️",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2080861501271986191",
+    "createdAt": "July 25, 2026 at 12:43PM"
+  },
+  {
+    "text": "沖縄SGL甲子園ずっと見てて思うこと（批判覚悟）\n\n立石　\n覇気を感じない　怖さが全然な　　い　覚醒期待\n\n谷端岡城　\n中途半端　並　その他大勢に吸収されそう\n\nディベイニー　\n　論外　24が泣く",
+    "userName": "John04487647547",
+    "tweetUrl": "https://twitter.com/John04487647547/status/2080864049110323387",
+    "createdAt": "July 25, 2026 at 12:53PM"
+  },
+  {
+    "text": "@3mtdl 谷端将伍です🤲🏻",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2080925109527928901",
+    "createdAt": "July 25, 2026 at 04:56PM"
+  },
+  {
+    "text": "⚾️🎊🌾 ⚾️🎊🌾 ⚾️🎊🌾\nナミックス　フレッシュオールスターゲーム2026　出場選手紹介！\n⚾️🎊🌾 ⚾️🎊🌾 ⚾️🎊🌾\n\n6日目の今日は阪神タイガースからこの3選手‼️\n\n#茨木秀俊 選手\n#谷端将伍 選手\n#岡城快生 選手\n\n#プロスピAコラ画\n#プロスピA\n#悠然画　【4K読み込み可】 https://t.co/qP1eaYRlMF",
+    "userName": "yuuuuuzen_A",
+    "tweetUrl": "https://twitter.com/yuuuuuzen_A/status/2080928607405523167",
+    "createdAt": "July 25, 2026 at 05:10PM"
+  },
+  {
+    "text": "谷端川(千川駅→要町駅)\n谷端川_長崎2丁目支流\n谷端川_南長崎3丁目支流\n谷端川_目白5丁目支流\n\n#谷端川 #暗渠 \n#そうた散歩 #豊島区 https://t.co/rYphm7KZ84",
+    "userName": "TokyoAnkyo1117",
+    "tweetUrl": "https://twitter.com/TokyoAnkyo1117/status/2080933966060892271",
+    "createdAt": "July 25, 2026 at 05:31PM"
+  },
+  {
+    "text": "【阪神・平田2軍監督語録】7/24野手は終日室内練習「個の力をつけるということ」(スポニチアネックス)\n\n井坪陽生.298(121打数 36安打 7打点 13三振 4四死球 1本塁打)\n　近6試合.167(12打数-安打2)0打点 3三振 1四死球\n嶋村麟士朗.286(56打数 16安打 9打点 7三振 6四死球 3本塁打)",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2080934831148650585",
+    "createdAt": "July 25, 2026 at 05:35PM"
+  },
+  {
+    "text": "2軍の試合ないからこそ谷端とか上げてみてもおもろいなとは思ったけどないわな\n\nいうてもまずはベンチからやからね",
+    "userName": "kagamitaiga1996",
+    "tweetUrl": "https://twitter.com/kagamitaiga1996/status/2080955061237387372",
+    "createdAt": "July 25, 2026 at 06:55PM"
+  },
+  {
+    "text": "百崎、井坪、山田、嶋村、谷端\n怪我なら仕方ないが、どう考えてもこいつらを優先的に使いながら育てるべきでしょ\n\n中川どっかいったし。\n#tigers",
+    "userName": "tomokuwa1216",
+    "tweetUrl": "https://twitter.com/tomokuwa1216/status/2080983881692721443",
+    "createdAt": "July 25, 2026 at 08:49PM"
+  },
+  {
+    "text": "去年日シリ負けた後すぐに「来年は立石谷端デバニー！！！！」とか言ってたのになあ\nなんですかこの打力がないチームは",
+    "userName": "RKlUHsDaaxO3YOf",
+    "tweetUrl": "https://twitter.com/RKlUHsDaaxO3YOf/status/2080988004953583734",
+    "createdAt": "July 25, 2026 at 09:06PM"
+  },
+  {
+    "text": "@TigersDreamlink あと糸原なんかもう終わってる選手に代打でさえも使うな。頭使わないから何も出来ない選手になってんだろ。糸原上げるくらいなら、谷端を上げて一軍で育てろ。",
+    "userName": "geki_sen",
+    "tweetUrl": "https://twitter.com/geki_sen/status/2080991837578506244",
+    "createdAt": "July 25, 2026 at 09:21PM"
+  },
+  {
+    "text": "宗山はクジ引いても当たってるか分からんから置いておくとして直近2年で2位で取れたはずの浦田庄子大塚を見逃した以上阪神は今朝丸と谷端戦力化できなきゃ大問題だわな",
+    "userName": "ongrz86",
+    "tweetUrl": "https://twitter.com/ongrz86/status/2080993516512256051",
+    "createdAt": "July 25, 2026 at 09:28PM"
+  },
+  {
+    "text": "俺ずーーーーーっと言ってるけど高卒投手の中でも傑出(という前評判だった)今朝丸を優先して浦田いったのはチームのデプスの作り方として全然アリだと思ってるから\n\n前年これをやった上でチームの弱みになるポジションとは違う谷端を重ねて指名して大塚スルー、挙句谷端にSS挑戦はマジモンのバカ",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2080996320014488015",
+    "createdAt": "July 25, 2026 at 09:39PM"
+  },
+  {
+    "text": "7/25　SGL　グランド入り\n＃井坪陽生\n＃山﨑照英\n＃谷端将伍\n＃町田隼乙 https://t.co/zQ61xEKRCq",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://twitter.com/057JKotf55lrGVv/status/2080999373698486504",
+    "createdAt": "July 25, 2026 at 09:51PM"
+  },
+  {
+    "text": "７／２５　ＳＧＬ　サブグランド移動\n＃島田海吏\n＃岡城快生\n＃谷端将伍\n＃藤田健斗 https://t.co/VZDRqU1rdY",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://twitter.com/057JKotf55lrGVv/status/2081004073885794534",
+    "createdAt": "July 25, 2026 at 10:10PM"
+  },
+  {
+    "text": "ヨミジャイがドラ2、ドラ3で誰を指名するべきだったのか意見を聞きたい\n当時谷端行けと思ってたけどファームで微妙だし https://t.co/k0Q4xgJTC6",
+    "userName": "c_c_naoki",
+    "tweetUrl": "https://twitter.com/c_c_naoki/status/2081006658004922609",
+    "createdAt": "July 25, 2026 at 10:20PM"
+  },
+  {
+    "text": "阪神が谷端じゃなくて大塚行ってたらハムが宮下行ってただろうしマジでありがとうって感じだ",
+    "userName": "yumenoe_san",
+    "tweetUrl": "https://twitter.com/yumenoe_san/status/2081007349964419446",
+    "createdAt": "July 25, 2026 at 10:23PM"
+  },
+  {
+    "text": "そもそもその枠が渋いから1位で野手から逃げるなって言ってたのはそもそもあるんだけど\nその中でもドラ2ドラ3誰選ぶかって言われたら自分なら谷端 岡城 奧村 ユウヤ 大栄\n辺りかなぁ https://t.co/LC8ksS3NzE",
+    "userName": "ongrz86",
+    "tweetUrl": "https://twitter.com/ongrz86/status/2081008025880691033",
+    "createdAt": "July 25, 2026 at 10:25PM"
+  },
+  {
+    "text": "ま谷端がここまで渋いのは俺も想定外だよ",
+    "userName": "ongrz86",
+    "tweetUrl": "https://twitter.com/ongrz86/status/2081008097322283437",
+    "createdAt": "July 25, 2026 at 10:26PM"
+  },
+  {
+    "text": "谷端は好きだけど大塚欲しかったよな\n\n立石\n大塚\n岡城\n早瀬\n石井巧\nこれなら完璧だった\n\n能登は育成でも取れたし、育成だったら怪我せず投げてるの偉すぎるので",
+    "userName": "kouya_tigers99",
+    "tweetUrl": "https://twitter.com/kouya_tigers99/status/2081011387707654400",
+    "createdAt": "July 25, 2026 at 10:39PM"
+  },
+  {
+    "text": "2024ドラフトに関しては珍の傾向から考えると金丸→伊原は妥当\n妥当ってか当時の現場的に小幡→山田修也ラインを作ろうというのは理解できる\nでも仮に宗山特攻してたとしてその傾向に乗っ取るとハズレ1位浦田になるけど流石にそんな事あるんか？という",
+    "userName": "mone_fuma",
+    "tweetUrl": "https://twitter.com/mone_fuma/status/2081015910740226082",
+    "createdAt": "July 25, 2026 at 10:57PM"
+  },
+  {
+    "text": "阪神 タイガース ファーム 2軍\nグッズ 交換 譲渡 シークレット\n【譲】谷端　今朝丸　門別　山田　百﨑\n【求】ミニタオル　立石\nタオルだけ探しています\nアクキーは買取でも差額交換でも構いません\nSGL 7/31,8/1,(12,13,)21,22…\nよろしくお願いします🐯 https://t.co/Up3pDK1i6z",
+    "userName": "moominalone",
+    "tweetUrl": "https://twitter.com/moominalone/status/2081021919244308514",
+    "createdAt": "July 25, 2026 at 11:21PM"
+  },
+  {
+    "text": "666你万代叔叔看人气下菜碟。赶紧把死灭谷端上来啊",
+    "userName": "Levyetclo",
+    "tweetUrl": "https://twitter.com/Levyetclo/status/2081034081459122225",
+    "createdAt": "July 26, 2026 at 12:09AM"
+  },
+  {
+    "text": "阪神タイガース 交換 買取\nSGL TORACO\n\nワイヤー2連キーホルダー\n[求] 立石 > 定価\n[譲] 谷端 岡城 町田\n\nオーロラキーホルダー\n[求] 定価\n[譲] 下村 門別\n\n手渡しのみ\nお気軽にお声掛けください☆彡.",
+    "userName": "kslypntsws9",
+    "tweetUrl": "https://twitter.com/kslypntsws9/status/2081040830811554272",
+    "createdAt": "July 26, 2026 at 12:36AM"
+  },
+  {
+    "text": "@GIANTS24626 自分は、あまり一軍に出してもらえてないんですが。谷端ですね。\n\n立石はもうやってもらわないと困るというか。言い方悪いですが、やって当然と思ってるので。\n\nやっぱ、阪神はショートやと思うんですよ。今日も結局エラーから失点してますからね。\n\n谷端とか百崎が担ってくれるのが1番だと思います。",
+    "userName": "takumu_51_EXTP",
+    "tweetUrl": "https://twitter.com/takumu_51_EXTP/status/2081046630451884157",
+    "createdAt": "July 26, 2026 at 12:59AM"
+  },
+  {
+    "text": "そろそろ、一軍で、井坪とか百崎とか、谷端とか。将来ショート任せられそうな若虎に守らせてもええんやない？？\n\n正直同じエラーをされるなら、若虎の方が先に繋がると思うんよ。\n\nもうええ加減、ショート問題終わらせませんかね？？？\n\nいつまで、競走させるん？って話しなんよ。",
+    "userName": "takumu_51_EXTP",
+    "tweetUrl": "https://twitter.com/takumu_51_EXTP/status/2081047171496054978",
+    "createdAt": "July 26, 2026 at 01:01AM"
+  },
+  {
+    "text": "@takumu_51_EXTP 私も立石はモノが違うと思ってます。\nこれからまだまだプロの壁にぶつかると思いますが、使い続けてほしい選手ですね。\n谷端もいい選手ですね。\nでもショートは私は山田を推します。",
+    "userName": "GIANTS24626",
+    "tweetUrl": "https://twitter.com/GIANTS24626/status/2081050523114107077",
+    "createdAt": "July 26, 2026 at 01:14AM"
+  },
+  {
+    "text": "首脳陣が無能なことなんて岡城谷端とって高寺にss仕込まなかった時点で分かりきってるしそれでも自力の強さで優勝することなんて分かりきってるから",
+    "userName": "kuwasuraniki",
+    "tweetUrl": "https://twitter.com/kuwasuraniki/status/2081061318120063035",
+    "createdAt": "July 26, 2026 at 01:57AM"
+  },
+  {
+    "text": "3年後には\n\n高寺　6\n森下　9\n前川　7\n立石　5\n西純　D\n嶋村　2\n　　　3 \n百崎　4\n福島　8\n\nくらいは目指そな\n3が思いつかんけど\n坂倉FAで取るか\n\n山田、谷端、佐野、中川、岡城、井坪もおるしドラフトもあるしな",
+    "userName": "K0526Gz",
+    "tweetUrl": "https://twitter.com/K0526Gz/status/2081076004345565241",
+    "createdAt": "July 26, 2026 at 02:55AM"
   }
 ]
