@@ -2446,5 +2446,185 @@
     "userName": "K0526Gz",
     "tweetUrl": "https://twitter.com/K0526Gz/status/2081076004345565241",
     "createdAt": "July 26, 2026 at 02:55AM"
+  },
+  {
+    "text": "結果論抜きに谷端の上位指名には否定的だったから2位谷端行くくらいなら好きなの指名していいと思ってた\n岡城は欲しかったけど4位で皆川取れるなら別にいいやと言ったドラフト直後の感想",
+    "userName": "sabunosabu",
+    "tweetUrl": "https://twitter.com/sabunosabu/status/2081169030061429171",
+    "createdAt": "July 26, 2026 at 09:05AM"
+  },
+  {
+    "text": "2位谷端3位岡城と巨人の欲しがりそうなポジションを阪神に行かれたけどシーズン中の巨人コンプローテとか見てるとその辺の意向も入ってたんじゃないかと勘ぐってしまう\n素直に大塚で良かったように見えるけどどーなん？",
+    "userName": "sabunosabu",
+    "tweetUrl": "https://twitter.com/sabunosabu/status/2081171607834472524",
+    "createdAt": "July 26, 2026 at 09:15AM"
+  },
+  {
+    "text": "谷端のブラックダイナマイトや。Lサイズやん\n\n新品 阪神タイガース 谷端将伍 ブラックダイナマイト b-luck レプリカユニ\nhttps://t.co/hnsl3QfYgD",
+    "userName": "pyontaHS",
+    "tweetUrl": "https://twitter.com/pyontaHS/status/2081173831201566836",
+    "createdAt": "July 26, 2026 at 09:24AM"
+  },
+  {
+    "text": "谷端のブラックユニや🍑\nダイナマイトシリーズ新品\n\n新品 阪神タイガース 谷端将伍 ブラックダイナマイト b-luck レプリカユニ\nhttps://t.co/H5qc5TKcYy",
+    "userName": "yuukatora08",
+    "tweetUrl": "https://twitter.com/yuukatora08/status/2081175596634112483",
+    "createdAt": "July 26, 2026 at 09:31AM"
+  },
+  {
+    "text": "ワイが今朝丸全く買ってなかったのはあるけど、正直こちらも好みとは違うが最低限どんぐりくらいにはなりそうな浦田に行くべきだったと感じるな。ポジションなど違うが似たような感覚は今年の2位谷端の時もあった。",
+    "userName": "f_vbh86365",
+    "tweetUrl": "https://twitter.com/f_vbh86365/status/2081207957740720132",
+    "createdAt": "July 26, 2026 at 11:40AM"
+  },
+  {
+    "text": "7月26日｜ファーム情報 7/19〜7/23試合結果　4連敗、貧打に募る危機感 \n\n【動画４本】日曜版（ファーム号）です😱\n#阪神タイガース ブログ #猛虎日報 をよろしくお願い致します。\n#ディベイニー #出場なし #岡城快生 #谷端将伍\n※下記はリンク\nhttps://t.co/SmbH1ESghC",
+    "userName": "T291492411973",
+    "tweetUrl": "https://twitter.com/T291492411973/status/2081210818197418477",
+    "createdAt": "July 26, 2026 at 11:51AM"
+  },
+  {
+    "text": "@briankeIIer4 平田の悪行は力のない若手にわざわざ2軍でのスタメン機会を与えている事ですね。\n谷端や岡城といったルーキー勢はもちろん、山田に未だに遊撃を守らせている事がある時点でピックを間違えています。\n状態を早くあげてほしい木浪が控えているのに遊撃スタメン山田や谷端は一軍の意向を理解してない。",
+    "userName": "ryuchan54tigers",
+    "tweetUrl": "https://twitter.com/ryuchan54tigers/status/2081221827263865081",
+    "createdAt": "July 26, 2026 at 12:35PM"
+  },
+  {
+    "text": "@ryuchan54tigers 谷端や岡城といったルーキー勢はもちろん、山田に未だに遊撃を守らせている事がある時点でピックを間違えています。\n↑\nこれは応えられない選手が不甲斐ないってことにはならへんの？\n山田がUZR50くらい守って8割120本500打点やりゃええ話やん\nそしたら実績も実力もない木浪をクビにできて一石二鳥や",
+    "userName": "briankeIIer4",
+    "tweetUrl": "https://twitter.com/briankeIIer4/status/2081227037533171770",
+    "createdAt": "July 26, 2026 at 12:56PM"
+  },
+  {
+    "text": "↓\n\n結果的に阪神2位に浦田も庄司も残ってたことを考えると、金丸→伊原の戦略は特に間違ってはないと思う\n結局2位で浦田も庄司も獲らず、翌年の2位でも大塚スルーして谷端行ってる辺り、二遊要員の補強呑気こき過ぎというのは否定しないが #Tigers",
+    "userName": "alexandro_nara",
+    "tweetUrl": "https://twitter.com/alexandro_nara/status/2081264103642051025",
+    "createdAt": "July 26, 2026 at 03:23PM"
+  },
+  {
+    "text": "@_s22i_x \n検索から失礼します。\n谷端のキーホルダーがあるのですが買取されますか？？ご検討をよろしくお願いします。 https://t.co/THCU9UKFQR",
+    "userName": "TFNAZU0625",
+    "tweetUrl": "https://twitter.com/TFNAZU0625/status/2081295060042457285",
+    "createdAt": "July 26, 2026 at 05:26PM"
+  },
+  {
+    "text": "谷端の直筆サインカードや。1/5のファーストナンバーやん\n\n2026 EPOCH NPB 谷端将伍 1/5 直筆サインカード 阪神タイガース\nhttps://t.co/jFOhy9dpwR",
+    "userName": "pyontaHS",
+    "tweetUrl": "https://twitter.com/pyontaHS/status/2081305544850395491",
+    "createdAt": "July 26, 2026 at 06:08PM"
+  },
+  {
+    "text": "谷端さんスタメンじゃなくてガン萎え\n出てくるまでオリちゃんズと東都勢見るか https://t.co/5FWSyUMrXg",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2081307103940280661",
+    "createdAt": "July 26, 2026 at 06:14PM"
+  },
+  {
+    "text": "何度も言うが中川、山田百崎に佐野、谷端も豊田もか　どこ行った？\n\n#阪神タイガース",
+    "userName": "HJackle15",
+    "tweetUrl": "https://twitter.com/HJackle15/status/2081316959531221387",
+    "createdAt": "July 26, 2026 at 06:53PM"
+  },
+  {
+    "text": "谷端の直筆サインカードや。03/10のルーキーやん\n\n2026 EPOCH NPB 谷端将伍 03/10 直筆サインカード 阪神タイガ\nhttps://t.co/9w12goWCl0",
+    "userName": "pyontaHS",
+    "tweetUrl": "https://twitter.com/pyontaHS/status/2081316998756360358",
+    "createdAt": "July 26, 2026 at 06:53PM"
+  },
+  {
+    "text": "谷端将伍のRC直筆1/5だな。\n\n2026 EPOCH NPB 谷端将伍 1/5 直筆サインカード 阪神タイガース\nhttps://t.co/Z0dmWuW4ph",
+    "userName": "baseballmemojp",
+    "tweetUrl": "https://twitter.com/baseballmemojp/status/2081318829368508493",
+    "createdAt": "July 26, 2026 at 07:00PM"
+  },
+  {
+    "text": "谷端将伍のRC直筆03/10だな。\n\n2026 EPOCH NPB 谷端将伍 03/10 直筆サインカード 阪神タイガ\nhttps://t.co/rUcPCaCsih",
+    "userName": "baseballmemojp",
+    "tweetUrl": "https://twitter.com/baseballmemojp/status/2081326219807605147",
+    "createdAt": "July 26, 2026 at 07:30PM"
+  },
+  {
+    "text": "谷端は一軍での実績がないからまだなんとも",
+    "userName": "Red_rab1",
+    "tweetUrl": "https://twitter.com/Red_rab1/status/2081332292015067416",
+    "createdAt": "July 26, 2026 at 07:54PM"
+  },
+  {
+    "text": "谷端が今後やるべきスタイルやと思うね。",
+    "userName": "6AAJJZOiZCvkgTM",
+    "tweetUrl": "https://twitter.com/6AAJJZOiZCvkgTM/status/2081336125965447418",
+    "createdAt": "July 26, 2026 at 08:09PM"
+  },
+  {
+    "text": "@npb 谷端くんはスタメンじゃないんですか…?🥺",
+    "userName": "tanihataaaa2525",
+    "tweetUrl": "https://twitter.com/tanihataaaa2525/status/2081349032518283378",
+    "createdAt": "July 26, 2026 at 09:00PM"
+  },
+  {
+    "text": "明日、フレッシュオールスターで佐々木泰くん観れるの楽しみになったわ😅\n個人的には、🐯の谷端くんを今年もエコスタで観れるのを楽しみにしている\nもちろんうちの子達もだけど、1番会いたいのは姫🐧🎀\n明日一緒にお写真撮れるのは嬉しいなぁ(集合写真だけど)\nすわくろう特大も連れていこう\n雨だけど😓",
+    "userName": "baika_no_kahori",
+    "tweetUrl": "https://twitter.com/baika_no_kahori/status/2081361353634357630",
+    "createdAt": "July 26, 2026 at 09:49PM"
+  },
+  {
+    "text": "YouTubeチャンネル #そうた散歩 \nに #暗渠 動画を投稿しました！\n\n谷端川_目白5丁目支流 \n#谷端川 #豊島区 #南長崎 #目白\n↓\nhttps://t.co/Ea3xpH9wLh \n↑ https://t.co/4CVr67STZE",
+    "userName": "TokyoAnkyo1117",
+    "tweetUrl": "https://twitter.com/TokyoAnkyo1117/status/2081378523256864784",
+    "createdAt": "July 26, 2026 at 10:58PM"
+  },
+  {
+    "text": "オンサイトカード\n阪神タイガース\n\n【譲】\nN\n立石、坂本、畠、桐敷、高寺、松原、富田\nSR 直筆サイン\n小野寺、谷端\n\n【求】\nN\n才木、森下、定価\nSSR 才木(2枚共と1枚の交換でもOKです)\n\nサインは交換のみ。\n\n検索よりお気軽にお声がけくださいm(_ _)m\nよろしくお願いいたします😊 https://t.co/xc5JaEvZnQ",
+    "userName": "sep7m_1sm_35hs",
+    "tweetUrl": "https://twitter.com/sep7m_1sm_35hs/status/2081394348403650813",
+    "createdAt": "July 27, 2026 at 12:00AM"
+  },
+  {
+    "text": "谷端の50シリカードや。Toppsやん\n\nTopps NPB 谷端将伍 50シリ 阪神タイガース\nhttps://t.co/s9QzyCKWmL",
+    "userName": "pyontaHS",
+    "tweetUrl": "https://twitter.com/pyontaHS/status/2081403642289250812",
+    "createdAt": "July 27, 2026 at 12:37AM"
+  },
+  {
+    "text": "オンサイトカード\n阪神タイガース\n\n【譲】\nN\n立石、坂本、畠、桐敷、高寺、松原、富田\nSR 直筆サイン\n小野寺、谷端\n\n【求】\nN\n才木、森下、定価\nSSR 才木(2枚共と1枚の交換でもOKです)\n\nサインは交換のみ。\n\n検索よりお気軽にお声がけくださいm(_ _)m\nよろしくお願いいたします😊 https://t.co/BYj1FLC7SH",
+    "userName": "sep7m_1sm_35hs",
+    "tweetUrl": "https://twitter.com/sep7m_1sm_35hs/status/2081405612601246076",
+    "createdAt": "July 27, 2026 at 12:45AM"
+  },
+  {
+    "text": "谷端の50シリだな。\n\nTopps NPB 谷端将伍 50シリ 阪神タイガース\nhttps://t.co/gZur1619Jy",
+    "userName": "baseballmemojp",
+    "tweetUrl": "https://twitter.com/baseballmemojp/status/2081451233441620378",
+    "createdAt": "July 27, 2026 at 03:47AM"
+  },
+  {
+    "text": "キャッチャーが欲しいのに\n\n立石を選んで\n\n小島大河をスルーした愚行と\n\nもう１つ疑問が有る！\n\n-\n\nはんちんの長年の悩み\n\n遊撃手問題が有るのに！\n\n何故？\n\nホームランが打てる遊撃手\n\n大塚瑠晏をスルーしたんだ？\n\n-\n\nサードが本職のドラ３谷端を獲るより\n\n最優先で獲るべきだったろ？\n\n違うか？？ https://t.co/rnZ1UQzjhj",
+    "userName": "osaka1000japan1",
+    "tweetUrl": "https://twitter.com/osaka1000japan1/status/2081455994979393767",
+    "createdAt": "July 27, 2026 at 04:05AM"
+  },
+  {
+    "text": "谷端はドラ２だったな...\n\nドラ２😂👉グダグダな谷端\n\n大塚瑠晏はドラ３で日本ハム\n\nと言う事は？？\n\n阪神は余裕で\n\n大塚瑠晏を\n\n獲れたと言う事だよ？ https://t.co/nUAi8Ubsid",
+    "userName": "osaka1000japan1",
+    "tweetUrl": "https://twitter.com/osaka1000japan1/status/2081456858657898699",
+    "createdAt": "July 27, 2026 at 04:09AM"
+  },
+  {
+    "text": "右打ちに拘り過ぎて\n\nどうしようもない３人を選んで\n\nホクホクしていた訳だよ\n\n全く見込みも\n\n将来性も無い\n\nドラ１立石ドラ２谷端ドラ３岡城の\n\nポンコツ３兄弟を獲得した訳だよ\n\n-\n\n右打ち👈😂👉甲子園\n\nこれが最悪だった\n\nポンコツの右打ちばかり集めて\n\nホクホク喜んでいた訳だよお前らは((冷笑)) https://t.co/TvtqWWwtg6",
+    "userName": "osaka1000japan1",
+    "tweetUrl": "https://twitter.com/osaka1000japan1/status/2081458130408612198",
+    "createdAt": "July 27, 2026 at 04:14AM"
+  },
+  {
+    "text": "今になって立石イラネ\n\nよそのチームに放出して\n\n良い選手と入れ替えろ！\n\nトンでもない大失敗ドラフトだぞコレ\n\n絶対見込みは無いよ\n\n立石谷端岡城は...\n\n-\n\n思いっ切り\n\n当たりクジを引いて\n\n思いっ切り\n\n大ハズレだった\n\n-\n\n捕手問題＋遊撃手問題＝今季中ずっと続く\n\n深い悩みだよな？\n\nお前ら(笑) https://t.co/VXEuXzvznz",
+    "userName": "osaka1000japan1",
+    "tweetUrl": "https://twitter.com/osaka1000japan1/status/2081461970306511152",
+    "createdAt": "July 27, 2026 at 04:29AM"
+  },
+  {
+    "text": "【#ナミックスフレッシュオールスターゲーム2026】\nセ・リーグ選抜🆚パ・リーグ選抜(ハードオフ新潟・18時)\n【出場選手(阪神タイガース🐅)】\n#茨木秀俊(=セ・リーグ選抜の先発)\n#谷端将伍 #岡城快生 \n\n#夢の球宴\n#プロ野球ファンと繋がりたい https://t.co/qNlEQTdsfV",
+    "userName": "makotora0109",
+    "tweetUrl": "https://twitter.com/makotora0109/status/2081474032432771412",
+    "createdAt": "July 27, 2026 at 05:17AM"
   }
 ]
