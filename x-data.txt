@@ -3844,5 +3844,95 @@
     "userName": "rookiekrsk0620",
     "tweetUrl": "https://twitter.com/rookiekrsk0620/status/2082161102906179938",
     "createdAt": "July 29, 2026 at 02:47AM"
+  },
+  {
+    "text": "豊島区の谷端川南緑道は全長約1.7kmの緑道ビュン！西武池袋線椎名町駅や東京メトロ有楽線要町駅から行けるよ。川の跡地に整備されたから、川をイメージした舗装やバラのアーチが楽しめるビュン！子ども向け遊具もあって、夏の散歩にぴったりだね。\n\n#豊島区 #池袋 #まちビュー #練馬の散歩",
+    "userName": "machiview",
+    "tweetUrl": "https://twitter.com/machiview/status/2082232229779112161",
+    "createdAt": "July 29, 2026 at 07:30AM"
+  },
+  {
+    "text": "📎 参考リンクビュン\n\nhttps://t.co/NiaQhX09qE\n\n・谷端川南緑道 | 豊島区の公園/緑地・アクセス・地図 - NAVITIME\nhttps://t.co/eZLFA3vBDN\n\n・豊島区 『谷端川緑道』 全線完成 - ADEAC\nhttps://t.co/EOkGq3txpX\n\nhttps://t.co/vA2TK4eU3S",
+    "userName": "machiview",
+    "tweetUrl": "https://twitter.com/machiview/status/2082232231163216100",
+    "createdAt": "July 29, 2026 at 07:30AM"
+  },
+  {
+    "text": "豊島区の谷端川南緑道は全長約1.7kmの緑道ビュン！西武池袋線椎名町駅や東京メトロ有楽線要町駅から行けるよ。川の跡地に整備されたから、川をイメージした舗装やバラのアーチが楽しめるビュン！子ども向け遊具もあって、夏の散歩にぴったりだね。\n\n#豊島区 #池袋 #まちビュー #練馬の散歩",
+    "userName": "machiview",
+    "tweetUrl": "https://twitter.com/machiview/status/2082232229779112161",
+    "createdAt": "July 29, 2026 at 07:30AM"
+  },
+  {
+    "text": "📎 参考リンクビュン\n\nhttps://t.co/NiaQhX09qE\n\n・谷端川南緑道 | 豊島区の公園/緑地・アクセス・地図 - NAVITIME\nhttps://t.co/eZLFA3vBDN\n\n・豊島区 『谷端川緑道』 全線完成 - ADEAC\nhttps://t.co/EOkGq3txpX\n\nhttps://t.co/vA2TK4eU3S",
+    "userName": "machiview",
+    "tweetUrl": "https://twitter.com/machiview/status/2082232231163216100",
+    "createdAt": "July 29, 2026 at 07:30AM"
+  },
+  {
+    "text": "常谷は育成1位指名ながら、東都首位打者",
+    "userName": "nhfdraftpro2",
+    "tweetUrl": "https://twitter.com/nhfdraftpro2/status/2082244834161815866",
+    "createdAt": "July 29, 2026 at 08:20AM"
+  },
+  {
+    "text": "7/29（水）\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→31.5℃\n水温→29℃\n\nまた\n本日から谷端プールがOPENとなりました！\n谷端プールのその気温と水温\n\n天候→晴れ\n外気温→34℃\n水温29℃\n\n皆様のご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2082263498806149355",
+    "createdAt": "July 29, 2026 at 09:34AM"
+  },
+  {
+    "text": "あんま見えないから分かんないけどSS谷端試してる？",
+    "userName": "rebirthof3bass",
+    "tweetUrl": "https://twitter.com/rebirthof3bass/status/2082302793692676142",
+    "createdAt": "July 29, 2026 at 12:10PM"
+  },
+  {
+    "text": "紅白戦と聞きつけて虎テレ見てみたら\nちょうど山田脩也さん写ったけど今日はセカンド守備っぽい\nSSはダレ？と思ったら谷端くん\nへーそうなのかという感想\n対戦チームはSS木浪、セカンド百﨑くんとかかなぁ？",
+    "userName": "8hatiko",
+    "tweetUrl": "https://twitter.com/8hatiko/status/2082302958436508144",
+    "createdAt": "July 29, 2026 at 12:11PM"
+  },
+  {
+    "text": "それはそうとこのタイミングでモレッタ抹消ということは森下のバックアップ緊急昇格しないといけなくなったってことか\n右京はさすがにまだだろうし岡城かテルを動かす前提で木浪谷端あたりが候補か",
+    "userName": "Hojo_H_ojoH",
+    "tweetUrl": "https://twitter.com/Hojo_H_ojoH/status/2082393022793383980",
+    "createdAt": "July 29, 2026 at 06:09PM"
+  },
+  {
+    "text": "プロ野球選手になって1年ぶりに新潟に帰ってきた！東都仲良しコンビのおふたりです💞本当に感慨深い😭😭😭\n\n◀︎2026.7.27   2025.7.12▶  エコスタ\n#谷端将伍 選手 #阪神タイガース\n#小田康一郎 選手  #横浜DeNAベイスターズ\n※ご本人以外の無断転載・無断使用禁止 https://t.co/Pu5q3pKTtl",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2082450168847466828",
+    "createdAt": "July 29, 2026 at 09:56PM"
+  },
+  {
+    "text": "こちら小田康一郎さんによって生み出された谷端将伍さんの笑顔です😁✨\n小田くん感謝感謝🙏🙏🙏\n\n2026.7.27 エコスタ\n #谷端将伍 選手\n #阪神タイガース\n※ご本人以外の無断転載・無断使用禁止 https://t.co/pIlPyoAl9R",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2082450841466970444",
+    "createdAt": "July 29, 2026 at 09:59PM"
+  },
+  {
+    "text": "新潟にまた連れてきてくれて(？)ありがとう！！！そしておめでとう！！！次は上のオールスターで🙏\n\n2026.7.27 エコスタ\n #谷端将伍 選手\n #阪神タイガース\n※ご本人以外の無断転載・無断使用禁止 https://t.co/zZEeuYCf6O",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2082451495971348636",
+    "createdAt": "July 29, 2026 at 10:01PM"
+  },
+  {
+    "text": "2026.7.27＆2025.7.12   エコスタ\n #谷端将伍 選手\n #阪神タイガース\n※ご本人以外の無断転載・無断使用禁止\n\n1年で写真も上手くなったはず笑 https://t.co/vGQA5dCtsH",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2082451953381151180",
+    "createdAt": "July 29, 2026 at 10:03PM"
+  },
+  {
+    "text": "谷端のサインキーホルダー\n熱覇デザインやな\n\n阪神タイガース サインキーホルダー 谷端将伍\nhttps://t.co/HsDFswq3M2",
+    "userName": "YumeToraShin",
+    "tweetUrl": "https://twitter.com/YumeToraShin/status/2082479629928206726",
+    "createdAt": "July 29, 2026 at 11:53PM"
+  },
+  {
+    "text": "谷端のサインキーホルダー 熱覇デザインやな",
+    "userName": "YumeToraShin",
+    "tweetUrl": "https://twitter.com/YumeToraShin/status/2082504361117393216",
+    "createdAt": "July 30, 2026 at 01:31AM"
   }
 ]
