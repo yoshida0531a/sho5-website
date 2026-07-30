@@ -3934,5 +3934,65 @@
     "userName": "YumeToraShin",
     "tweetUrl": "https://twitter.com/YumeToraShin/status/2082504361117393216",
     "createdAt": "July 30, 2026 at 01:31AM"
+  },
+  {
+    "text": "おはようございます！\nボイスドラマ『ヒーローのイメチェン』(脚本:鍵谷端哉様)\n200再生ありがとうございます‼️\n10分でサクッと聴けますのでぜひお楽しみくださいね✨\nhttps://t.co/jRIiMoqkVV\n\n#ショートショート\n#ボイスドラマ\n#オーディオドラマ",
+    "userName": "ssvoicedrama",
+    "tweetUrl": "https://twitter.com/ssvoicedrama/status/2082599467778539958",
+    "createdAt": "July 30, 2026 at 07:49AM"
+  },
+  {
+    "text": "7/30（木）\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→32℃\n水温→29.5℃\n\n谷端プールの外気温と水温📷\n天候→晴れ\n外気温→33.5℃\n水温30℃\n\n皆様のご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2082616563539296270",
+    "createdAt": "July 30, 2026 at 08:57AM"
+  },
+  {
+    "text": "福岡 山本祐大\n西武 佐藤太陽\nハム 上川畑大悟\nオリ 西川龍馬\n千葉 西川史礁\n楽天 幌村黛汰\n阪神 谷端将悟\n巨人 竹下徠空\nヤク 山崎晃大朗(現コーチ)\n横浜 京田陽太\n広島 栗林良吏\n中日 柳裕也 https://t.co/ecw0aLIhrY",
+    "userName": "yoshi_ii_pokeke",
+    "tweetUrl": "https://twitter.com/yoshi_ii_pokeke/status/2082682897937691001",
+    "createdAt": "July 30, 2026 at 01:21PM"
+  },
+  {
+    "text": "@takoo_gllit 立石中川前川谷端が大成するはず",
+    "userName": "kpop_Love749",
+    "tweetUrl": "https://twitter.com/kpop_Love749/status/2082739704835797045",
+    "createdAt": "July 30, 2026 at 05:06PM"
+  },
+  {
+    "text": "続き🔍️実は私の先輩が富山で頑張られています。襖や壁と天井の間に出来る空間にはめ込んでいたのが欄間\n日本家屋と密閉や私的な空間、洋間が流行して消えかけた欄間を組らんまとして今も店舗や住宅で個性的でお洒落な空間を演出しています。\n後輩が勝手に宣伝🥰\n#組子らんま\n#谷端工芸 https://t.co/5UrpxVHmUR",
+    "userName": "color1010green",
+    "tweetUrl": "https://twitter.com/color1010green/status/2082759315468038578",
+    "createdAt": "July 30, 2026 at 06:24PM"
+  },
+  {
+    "text": "雹が降ってきました❄️\n\n谷端プールにて\n町会のナイトプール準備中…\n\nせっかく開設できた谷端プールですが\n待機中です… https://t.co/9J3816E1fM",
+    "userName": "kita_hiratarisa",
+    "tweetUrl": "https://twitter.com/kita_hiratarisa/status/2082763544886681941",
+    "createdAt": "July 30, 2026 at 06:41PM"
+  },
+  {
+    "text": "谷端の直筆サインボール出てる🍑\nドラフト2位ルーキーやな\n\n阪神タイガース 直筆サインボール 谷端選手 ドラフト2位ルーキー\nhttps://t.co/Rx78TglDIO",
+    "userName": "yuukatora08",
+    "tweetUrl": "https://twitter.com/yuukatora08/status/2082771676782002470",
+    "createdAt": "July 30, 2026 at 07:13PM"
+  },
+  {
+    "text": "阪神タイガース 交換 シークレット toracoデー 石川 かに スタジアムヒーローズデー 缶バッジ トレーディングカード キーホルダー\n\n求 才木 谷端\n\n譲 森下 大山 熊谷 中野 坂本 伊藤 及川 村上\n\n郵送での交換です。お声がけお待ちしております。 https://t.co/x5F60LjGYm",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://twitter.com/s2enanyan/status/2082787355669487832",
+    "createdAt": "July 30, 2026 at 08:16PM"
+  },
+  {
+    "text": "転生4人は久しぶりやね\n谷端選手と皆川選手がよく分からない https://t.co/qbI3caK9Ei",
+    "userName": "brainossan29",
+    "tweetUrl": "https://twitter.com/brainossan29/status/2082809758223094009",
+    "createdAt": "July 30, 2026 at 09:45PM"
+  },
+  {
+    "text": "@o6tek9gPJ24fh2K こんばんとらほ〜🐯\n\nキーマンは\n下村さん、門別さん、伊原さん\n立石さん、谷端さん、岡城さん\n\nノルマだよね\n拓夢さんの３割\n遥人さんの沢村賞・防御率・\n　　最高勝率\n村上さんの最多勝\n才木さんの最多三振",
+    "userName": "ZETTON_PONOJI",
+    "tweetUrl": "https://twitter.com/ZETTON_PONOJI/status/2082843758383820857",
+    "createdAt": "July 31, 2026 at 12:00AM"
   }
 ]
