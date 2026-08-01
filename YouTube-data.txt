@@ -2662,5 +2662,13 @@
     "publishedAt": "July 27, 2026 at 10:28PM",
     "description": "フレッシュオールスター 2026 谷端 将伍くん~‼️ 後半戦   1軍で待ってるよ🥺︎ #阪神タイガース #谷端 将伍.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.8.1 セカンドでノックをうける谷端将伍選手、山﨑照英選手、佐野大陽選手 #阪神タイガース  #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8BoSNJBqMPc",
+    "publishedAt": "August 2, 2026 at 01:48AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
