@@ -1,19 +1,19 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-08-01T16:10:12.302Z",
+  "fetchedAt": "2026-08-02T09:05:56.444Z",
   "lastUpdated": "2026-08-02",
   "farmSummary": {
     "raw": {
-      "打率": ".207",
-      "試合": "73",
-      "打席": "262",
-      "打数": "237",
-      "安打": "49",
+      "打率": ".210",
+      "試合": "74",
+      "打席": "263",
+      "打数": "238",
+      "安打": "50",
       "二塁打": "10",
       "三塁打": "0",
       "本塁打": "0",
-      "塁打": "59",
-      "打点": "16",
+      "塁打": "60",
+      "打点": "17",
       "得点": "22",
       "三振": "35",
       "四球": "17",
@@ -23,24 +23,24 @@
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "8",
-      "出塁率": ".270",
-      "長打率": ".249",
-      "OPS": ".519",
-      "得点圏": ".236",
+      "出塁率": ".273",
+      "長打率": ".252",
+      "OPS": ".525",
+      "得点圏": ".250",
       "失策": "6"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".207"
+        "value": ".210"
       },
       {
         "label": "安打数",
-        "value": "49"
+        "value": "50"
       },
       {
         "label": "打点",
-        "value": "16"
+        "value": "17"
       },
       {
         "label": "長打",
@@ -56,15 +56,30 @@
       },
       {
         "label": "出塁率",
-        "value": ".270"
+        "value": ".273"
       },
       {
         "label": "得点圏",
-        "value": ".236"
+        "value": ".250"
       }
     ]
   },
   "recentGames": [
+    {
+      "date": "8/2",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "広島",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040872/top"
+    },
     {
       "date": "8/1",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "見三振、遊ゴロ、中飛、右飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040844/top"
-    },
-    {
-      "date": "7/21",
-      "gameKind": "ファーム交流戦",
-      "opponent": "DeNA",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "右飛、中飛、遊直",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040838/top"
     }
   ]
 }
