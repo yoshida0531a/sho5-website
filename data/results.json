@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-08-04T09:50:59.678Z",
+  "fetchedAt": "2026-08-04T10:47:13.334Z",
   "lastUpdated": "2026-08-04",
   "farmSummary": {
     "raw": {
@@ -69,15 +69,15 @@
       "date": "8/4",
       "gameKind": "ファーム交流戦",
       "opponent": "西武",
-      "atBats": "2",
-      "hits": "0",
+      "atBats": "3",
+      "hits": "1",
       "homeRuns": "0",
       "rbi": "0",
       "runs": "0",
       "strikeouts": "1",
       "walks": "0",
       "hitByPitch": "0",
-      "battingResults": "投ゴロ、空三振",
+      "battingResults": "投ゴロ、空三振、左２",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040876/top"
     },
     {
