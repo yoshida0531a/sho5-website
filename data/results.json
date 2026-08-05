@@ -1,21 +1,21 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-08-04T16:59:59.898Z",
-  "lastUpdated": "2026-08-05",
+  "fetchedAt": "2026-08-05T15:01:08.628Z",
+  "lastUpdated": "2026-08-06",
   "farmSummary": {
     "raw": {
-      "打率": ".207",
-      "試合": "75",
-      "打席": "267",
-      "打数": "242",
-      "安打": "50",
-      "二塁打": "10",
+      "打率": ".211",
+      "試合": "76",
+      "打席": "271",
+      "打数": "246",
+      "安打": "52",
+      "二塁打": "11",
       "三塁打": "0",
       "本塁打": "0",
-      "塁打": "60",
+      "塁打": "63",
       "打点": "17",
       "得点": "22",
-      "三振": "35",
+      "三振": "36",
       "四球": "17",
       "死球": "4",
       "犠打": "3",
@@ -23,20 +23,20 @@
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "8",
-      "出塁率": ".269",
-      "長打率": ".248",
-      "OPS": ".517",
+      "出塁率": ".272",
+      "長打率": ".256",
+      "OPS": ".528",
       "得点圏": ".246",
       "失策": "6"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".207"
+        "value": ".211"
       },
       {
         "label": "安打数",
-        "value": "50"
+        "value": "52"
       },
       {
         "label": "打点",
@@ -44,7 +44,7 @@
       },
       {
         "label": "長打",
-        "value": "10"
+        "value": "11"
       },
       {
         "label": "四球",
@@ -56,7 +56,7 @@
       },
       {
         "label": "出塁率",
-        "value": ".269"
+        "value": ".272"
       },
       {
         "label": "得点圏",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "8/5",
+      "gameKind": "ファーム交流戦",
+      "opponent": "西武",
+      "atBats": "4",
+      "hits": "1",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "1",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "一ゴロ、二直、左２、二併打",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040883/top"
+    },
     {
       "date": "8/4",
       "gameKind": "ファーム交流戦",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "三ゴロ、一飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021048397/top"
-    },
-    {
-      "date": "7/23",
-      "gameKind": "ファーム交流戦",
-      "opponent": "DeNA",
-      "atBats": "4",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "1",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "三ゴロ、遊直、空三振、右飛",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040851/top"
     }
   ]
 }
