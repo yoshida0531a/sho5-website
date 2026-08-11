@@ -2678,5 +2678,13 @@
     "publishedAt": "August 2, 2026 at 06:18AM",
     "description": "出身地 石川県 経 歴 星稜−日大-阪神.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.8.11 ノックの時の谷端将伍選手 山﨑照英選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vZAVJ4uPjbg",
+    "publishedAt": "August 11, 2026 at 11:18PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
