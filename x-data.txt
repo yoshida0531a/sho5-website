@@ -7570,5 +7570,65 @@
     "userName": "wyth_orenomano",
     "tweetUrl": "https://twitter.com/wyth_orenomano/status/2087567955534164290",
     "createdAt": "August 13, 2026 at 12:52AM"
+  },
+  {
+    "text": "8/13(木)\n王子プールの外気温と水温📷\n天候→雨\n外気温→26℃\n水温→27℃\n\n谷端プールの外気温と水温📷\n天候→雨\n外気温→26℃\n水温27.5℃\n\n本日は雨ですが通常通り営業しております。\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2087691784441016801",
+    "createdAt": "August 13, 2026 at 09:04AM"
+  },
+  {
+    "text": "いやエドポロとか本来4位5位でもおかしくない素材だし、あとは巨人の順位で残ってる野手って谷端とかじゃん。2位の後半田和ならあんなもんだろ https://t.co/fVGi2VjYj9",
+    "userName": "8bit_404_found",
+    "tweetUrl": "https://twitter.com/8bit_404_found/status/2087774915902488943",
+    "createdAt": "August 13, 2026 at 02:35PM"
+  },
+  {
+    "text": "ハムのスカウトもエドポロは繰り上げ気味って言ってたし2位は賭けだったのかも、\n流石に4位5位より上だったとは思うが\n\nそれを踏まえても横投げリリーフが2位になる理由はないし、谷端は前評判だとあのくらいの位置だったかと思う\nあとは2位山城3位髙橋とかもできたわけだし https://t.co/Czocd20hMy",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2087776520274333936",
+    "createdAt": "August 13, 2026 at 02:41PM"
+  },
+  {
+    "text": "谷端のトレジャーカード。BBM2026やな\n\n谷端将伍 阪神タイガース BBM2026 tureasure\nhttps://t.co/a9o6fFMcwQ",
+    "userName": "YumeToraShin",
+    "tweetUrl": "https://twitter.com/YumeToraShin/status/2087793078501568706",
+    "createdAt": "August 13, 2026 at 03:47PM"
+  },
+  {
+    "text": "本日、大雨と雷に伴い、屋外王子プールと谷端プールの営業は15：30までとさせていただきます。\n※パノラマプールは営業いたします。\n\n状況によっては一時中断する場合がございます。\n\nご来場の方は、無理をなさらず、\n安全を優先にお越しください。\n\nご理解のほど、お願いいたします。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2087793566068421063",
+    "createdAt": "August 13, 2026 at 03:49PM"
+  },
+  {
+    "text": "山﨑照英選手は谷端将伍選手とキャッチボールしてる！",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://twitter.com/0701TOMO/status/2087813293595296119",
+    "createdAt": "August 13, 2026 at 05:07PM"
+  },
+  {
+    "text": "百﨑はコーナーだもんな…谷端がようやりすぎてるだけで…",
+    "userName": "htb_kuma",
+    "tweetUrl": "https://twitter.com/htb_kuma/status/2087835707092140478",
+    "createdAt": "August 13, 2026 at 06:36PM"
+  },
+  {
+    "text": "@Oracion2732 優勝したら山田脩也選手とディベイニー選手と谷端選手を見たいな\n中継ぎの人を1人先発させるとか色々してもいいと思うな",
+    "userName": "HANSHIN_Fan_ARE",
+    "tweetUrl": "https://twitter.com/HANSHIN_Fan_ARE/status/2087894579458769077",
+    "createdAt": "August 13, 2026 at 10:30PM"
+  },
+  {
+    "text": "阪神の高卒野手，大体大卒ルーキー〜2年目の年に定着していくのが髙寺・ウキョーを見てて思う。だからこそ大4の年の井坪なんかは，ファームで島田とかが食い潰してる外野の枠に全ツッパするくらいでええやろって。あと谷端2B山田SS固定も。",
+    "userName": "Ukrscrimea",
+    "tweetUrl": "https://twitter.com/Ukrscrimea/status/2087897837971681432",
+    "createdAt": "August 13, 2026 at 10:43PM"
+  },
+  {
+    "text": "8/13 SGL\nこれまた凛々しい\n谷端将伍くん https://t.co/rhvwqvPKm8",
+    "userName": "piano27426239",
+    "tweetUrl": "https://twitter.com/piano27426239/status/2087904073165242806",
+    "createdAt": "August 13, 2026 at 11:08PM"
   }
 ]
