@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-08-13T16:06:10.111Z",
-  "lastUpdated": "2026-08-14",
+  "fetchedAt": "2026-08-14T15:00:40.108Z",
+  "lastUpdated": "2026-08-15",
   "farmSummary": {
     "raw": {
       "打率": ".205",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "8/14",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "4",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "2",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "中飛、空三振、二直、空三振",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040937/top"
+    },
     {
       "date": "8/11",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "右飛、遊安、四球、二飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040889/top"
-    },
-    {
-      "date": "8/5",
-      "gameKind": "ファーム交流戦",
-      "opponent": "西武",
-      "atBats": "4",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "一ゴロ、二直、左２、二併打",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040883/top"
     }
   ]
 }
