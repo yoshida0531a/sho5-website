@@ -1,13 +1,13 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-08-14T16:01:18.189Z",
-  "lastUpdated": "2026-08-15",
+  "fetchedAt": "2026-08-15T15:00:40.930Z",
+  "lastUpdated": "2026-08-16",
   "farmSummary": {
     "raw": {
-      "打率": ".205",
-      "試合": "82",
-      "打席": "291",
-      "打数": "263",
+      "打率": ".202",
+      "試合": "83",
+      "打席": "295",
+      "打数": "267",
       "安打": "54",
       "二塁打": "12",
       "三塁打": "0",
@@ -15,7 +15,7 @@
       "塁打": "66",
       "打点": "19",
       "得点": "24",
-      "三振": "39",
+      "三振": "41",
       "四球": "19",
       "死球": "4",
       "犠打": "4",
@@ -23,16 +23,16 @@
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "9",
-      "出塁率": ".268",
-      "長打率": ".251",
-      "OPS": ".519",
-      "得点圏": ".231",
+      "出塁率": ".265",
+      "長打率": ".247",
+      "OPS": ".512",
+      "得点圏": ".227",
       "失策": "6"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".205"
+        "value": ".202"
       },
       {
         "label": "安打数",
@@ -56,15 +56,30 @@
       },
       {
         "label": "出塁率",
-        "value": ".268"
+        "value": ".265"
       },
       {
         "label": "得点圏",
-        "value": ".231"
+        "value": ".227"
       }
     ]
   },
   "recentGames": [
+    {
+      "date": "8/15",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "4",
+      "hits": "2",
+      "homeRuns": "0",
+      "rbi": "1",
+      "runs": "2",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "遊ゴロ、遊併打、右安、中３",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040944/top"
+    },
     {
       "date": "8/14",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "一ゴロ、空三振、二飛、二ゴロ",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040897/top"
-    },
-    {
-      "date": "8/6",
-      "gameKind": "ファーム交流戦",
-      "opponent": "西武",
-      "atBats": "3",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "1",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "右飛、遊安、四球、二飛",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040889/top"
     }
   ]
 }
