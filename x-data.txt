@@ -7972,5 +7972,155 @@
     "userName": "1mo1mokenp1",
     "tweetUrl": "https://twitter.com/1mo1mokenp1/status/2088625824568062069",
     "createdAt": "August 15, 2026 at 10:56PM"
+  },
+  {
+    "text": "8/16(日)\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→27℃\n水温→27.5℃\n\n谷端プールの外気温と水温📷\n天候→晴れ\n外気温→27℃\n水温27.5℃\n\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2088779636696379458",
+    "createdAt": "August 16, 2026 at 09:07AM"
+  },
+  {
+    "text": "ことらほう🐯🎈✨\n#プロ野球 #ファーム #西地区 15日 #タマスタ筑後\n☆#阪神 6-2 ★#ソフトバンク \n#タイガース 打線が小刻みに得点を重ね快勝 引き分けを挟み6連勝\n六回 無死二塁の好機 #立石正広 #2軍 降格後初安打 適時二塁打で勝ち越しに成功\n七回 #島田海吏 中前適時打で追加点 八回 #谷端将伍 https://t.co/642Ifu8n6o",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2088853893954543819",
+    "createdAt": "August 16, 2026 at 02:02PM"
+  },
+  {
+    "text": "【8月16日　ファーム・ソフトバンク戦】\n\n筑後遠征３連戦の最終日です❗️\n\n●ベンチ入りメンバー\n富田🆕（先発）\n岩貞、畠、石黒、岡留、津田、モレッタ、小川\n榮枝、長坂、藤田\n立石、ディベイニー、谷端、糸原、山田、百﨑\n浜田🆕、岡城、島田、豊田、山﨑\n#阪神タイガース https://t.co/rGZUQgIBhu",
+    "userName": "daily_fujimaru",
+    "tweetUrl": "https://twitter.com/daily_fujimaru/status/2088893216552796249",
+    "createdAt": "August 16, 2026 at 04:38PM"
+  },
+  {
+    "text": "今日、平田勝男にやらないでほしいこと3選\n・山田、谷端にバント\n・島田に盗塁の指示（どうせ失敗して打席の周りを悪くするため）\n・捕手梅ちゃん、遊撃小幡",
+    "userName": "smart_tiger2",
+    "tweetUrl": "https://twitter.com/smart_tiger2/status/2088903414482870591",
+    "createdAt": "August 16, 2026 at 05:19PM"
+  },
+  {
+    "text": "８／１６\n　ファームリーグVSソフトバンク\n\n先発：富田蓮\n\n１　岡城（左）\n２　島田（中）\n３　糸原（DH）\n４　ディベイニー（一）\n５　豊田（右）\n６　谷端（二）\n７　立石（三）\n８　山田（遊）\n９　長坂（捕）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2088908856390975672",
+    "createdAt": "August 16, 2026 at 05:40PM"
+  },
+  {
+    "text": "谷端立石山田を678に置けるセンス。",
+    "userName": "OQpFBGaXff20473",
+    "tweetUrl": "https://twitter.com/OQpFBGaXff20473/status/2088910150753300582",
+    "createdAt": "August 16, 2026 at 05:46PM"
+  },
+  {
+    "text": "#プロ野球 #ファーム #西地区 16日 #筑後\n#阪神-#ソフトバンク\n【@Tigers_farm】\n1左岡城\n2中島田\n3指糸原\n4一ディベイニー\n5右豊田\n6二谷端\n7三立石\n8遊山田\n9捕長坂\n#先発 #富田蓮 \n【@HAWKS_official】\n1指笹川\n2左緒方\n3三野村\n4一高橋\n5右秋広\n6二ダウンズ\n7遊江崎\n8捕藤田\n9中鈴木\n先発 #東浜 https://t.co/HWAn8DYTou",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://twitter.com/reo_naniwa/status/2088912011493294440",
+    "createdAt": "August 16, 2026 at 05:53PM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-08-16\nvs福岡ソフトバンクホークス\n左 岡城快生 23歳 筑波大\n中 島田海吏 31歳 上武大\nDH 糸原健斗 34歳 ENEOS\n一 ディベイニー 29歳 PIT\n右 豊田寛 29歳 日立製作所\n二 谷端将伍 23歳 日本大\n三 立石正広 23歳 創価大\n遊 山田脩也 21歳 仙台育英\n捕 長坂拳弥 32歳 https://t.co/PwgZE8C9OB",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://twitter.com/kyureki_com/status/2088914987746246673",
+    "createdAt": "August 16, 2026 at 06:05PM"
+  },
+  {
+    "text": "1岡城　中\n2谷端　二\n3立石　三\n4ディ　一\n5榮枝　捕\n6豊田　右\n7島田　左\n8山田　遊\n9糸原　指",
+    "userName": "noisemaker1945",
+    "tweetUrl": "https://twitter.com/noisemaker1945/status/2088917126375698573",
+    "createdAt": "August 16, 2026 at 06:13PM"
+  },
+  {
+    "text": "２回表\n\n豊田　遊ゴ　●\n谷端　ニゴ　●●\n立石　空三振　●●●\n\n阪神０－０ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2088918816524992547",
+    "createdAt": "August 16, 2026 at 06:20PM"
+  },
+  {
+    "text": "立石、谷端もこんなもんなんや\nまぁここまで当たられちゃ阪神強くなりすぎるもんな",
+    "userName": "sbhawks_52",
+    "tweetUrl": "https://twitter.com/sbhawks_52/status/2088921094053044340",
+    "createdAt": "August 16, 2026 at 06:29PM"
+  },
+  {
+    "text": "2軍チラ見したら2番島田3番糸原で草\n6.7.8に谷端立石山田って何考えてんの平田は",
+    "userName": "alicia22170216",
+    "tweetUrl": "https://twitter.com/alicia22170216/status/2088928019973021848",
+    "createdAt": "August 16, 2026 at 06:57PM"
+  },
+  {
+    "text": "谷端くん打ったー\nいくら応援してるとは言え見てられない数字なので\n.300打つか20本打つか選んでもらって良いすか？",
+    "userName": "wm86j0",
+    "tweetUrl": "https://twitter.com/wm86j0/status/2088929669001404543",
+    "createdAt": "August 16, 2026 at 07:03PM"
+  },
+  {
+    "text": "４回表　投手：村田賢一\n\n糸原　ニ飛　●\nディベイニー　左安👍　●①\n豊田　四球　●①②\n谷端　左安👍　●満塁\n立石　遊併殺💦　●●●\n\n阪神０－１ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2088929947402580236",
+    "createdAt": "August 16, 2026 at 07:04PM"
+  },
+  {
+    "text": "谷端くん偉くない？\nなんか毎試合打ってない？最近。",
+    "userName": "tataraba1020",
+    "tweetUrl": "https://twitter.com/tataraba1020/status/2088930154597007808",
+    "createdAt": "August 16, 2026 at 07:05PM"
+  },
+  {
+    "text": "#阪神 2軍の成績見たら期待されたドラフト1位 #立石正広 0.190、2位 #谷端将伍 0.206なんやな...3位 #岡城快生 0.258で1軍には厳しそう...\n\n#佐藤輝明 MLB挑戦となると厳しいな... #森下翔太 もいずれ行くだろうし。#前川右京 1軍できっかけ掴みたい所。",
+    "userName": "HourouWakayama",
+    "tweetUrl": "https://twitter.com/HourouWakayama/status/2088931753251733824",
+    "createdAt": "August 16, 2026 at 07:11PM"
+  },
+  {
+    "text": "谷端にバントさせてる監督ガチで危機感持った方がいい",
+    "userName": "tamaryu0113",
+    "tweetUrl": "https://twitter.com/tamaryu0113/status/2088941569646952597",
+    "createdAt": "August 16, 2026 at 07:50PM"
+  },
+  {
+    "text": "谷端に送りバントさせるな",
+    "userName": "castle_tlee",
+    "tweetUrl": "https://twitter.com/castle_tlee/status/2088941589955780671",
+    "createdAt": "August 16, 2026 at 07:51PM"
+  },
+  {
+    "text": "７回表　中：桑原　左：鈴木\n\n豊田　左安👍　①\n谷端　投失　①③\n立石　空三振💦　●①③\n代：濱田　遊併殺💦　●●●\n\n阪神０－１ソフトバンク",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2088942442217345198",
+    "createdAt": "August 16, 2026 at 07:54PM"
+  },
+  {
+    "text": "ファームの采配、なかなかやばいな\n打撃の調子のいい山田に代打とか\n谷端や立石などの若手を下位にして打席数少なくするとか、勝ちたいのか育成したいのか分からんな\n＃阪神タイガース",
+    "userName": "tatsuyagoodjob",
+    "tweetUrl": "https://twitter.com/tatsuyagoodjob/status/2088943272484028796",
+    "createdAt": "August 16, 2026 at 07:57PM"
+  },
+  {
+    "text": "ガルシアはもう来年のDH枠でええよ。\nディベイニー、谷端、百崎ら辺を使ってくれ。\n#阪神タイガース",
+    "userName": "hideki19890501",
+    "tweetUrl": "https://twitter.com/hideki19890501/status/2088952945601826929",
+    "createdAt": "August 16, 2026 at 08:36PM"
+  },
+  {
+    "text": "９回表　投手：大竹風雅\n\n豊田　見三振　●\n谷端　空三振　●●\n立石　右飛　●●●\n\n阪神０－１ソフトバンク\n\n試合終了\n\n７安打しながらタイムリーが出ず完封負け💦投手陣は２安打に抑えながら、四球とエラーにタイムリーと少ないチャンスをものにした💦",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://twitter.com/fwkv1965/status/2088954057667060097",
+    "createdAt": "August 16, 2026 at 08:40PM"
+  },
+  {
+    "text": "立石の二軍打率が2割わったな\n谷端もあまりかわらん\nそれなりに期待してたんだが\n#阪神タイガース",
+    "userName": "krag_baseball",
+    "tweetUrl": "https://twitter.com/krag_baseball/status/2088954906325717454",
+    "createdAt": "August 16, 2026 at 08:43PM"
+  },
+  {
+    "text": "個人メモツリー\n\n3年後30歳未満の戦力\n阪神\n\n1遊高寺27\n2右森下29\n3D前川26\n4一立石26\n5捕嶋村26\n6左福島28\n7三百崎24\n8中井坪25\n9二小幡29\n\n他野手\n岡城26、谷端26、山田24\n\nローテ\n下村28-今朝丸23-門別27\n伊原29-茨木27-早瀬22\n\n勝ちパ\n津田28-木下29-工藤27\n\n他投手\n石黒28、椎葉28、神宮26",
+    "userName": "harutsuki_spo",
+    "tweetUrl": "https://twitter.com/harutsuki_spo/status/2089022687452762282",
+    "createdAt": "August 17, 2026 at 01:13AM"
+  },
+  {
+    "text": "流行りに便乗してプロテクト予想作ってみた\n谷端、岡城、桐敷とかも守りたいんやけどな\n意外に守りたい人が多い https://t.co/tAdZVa0XQV",
+    "userName": "turinobuse_",
+    "tweetUrl": "https://twitter.com/turinobuse_/status/2089044088389882161",
+    "createdAt": "August 17, 2026 at 02:38AM"
   }
 ]
