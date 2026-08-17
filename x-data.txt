@@ -8122,5 +8122,89 @@
     "userName": "turinobuse_",
     "tweetUrl": "https://twitter.com/turinobuse_/status/2089044088389882161",
     "createdAt": "August 17, 2026 at 02:38AM"
+  },
+  {
+    "text": "8/17(月)\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→26℃\n水温→27℃\n\n谷端プールの外気温と水温📷\n天候→晴れ\n外気温→26℃\n水温27.5℃\n\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2089136914616201258",
+    "createdAt": "August 17, 2026 at 08:47AM"
+  },
+  {
+    "text": "打線は7安打だけど、チャンスは作れてもあと一本が出なかった\n7回8回連続してチャンスが作れたものの\nソフバンに抑え込まれた\n岡城立石ともに無安打\n谷端にはヒットが出ているけど\n糸原島田のベテラン陣に元気が出ているかも https://t.co/iyY1e4CZl4",
+    "userName": "sinoaki3",
+    "tweetUrl": "https://twitter.com/sinoaki3/status/2089145348090728596",
+    "createdAt": "August 17, 2026 at 09:20AM"
+  },
+  {
+    "text": "@hisyo3821 @sazan_tenhapi 谷端→高寺\n湯浅→門別\n個人的にはこれかな。",
+    "userName": "eDY5VRh2kc9133",
+    "tweetUrl": "https://twitter.com/eDY5VRh2kc9133/status/2089150469793051091",
+    "createdAt": "August 17, 2026 at 09:41AM"
+  },
+  {
+    "text": "@berryrryblue12 立石、谷端、福島、山田、岡城の成長に期待しています。",
+    "userName": "MetabouyaM39402",
+    "tweetUrl": "https://twitter.com/MetabouyaM39402/status/2089158827501666400",
+    "createdAt": "August 17, 2026 at 10:14AM"
+  },
+  {
+    "text": "谷端や茨木の過大評価やばすぎ。成績見てこい https://t.co/vqFxUq2bPP",
+    "userName": "Ts0kicJFYF98218",
+    "tweetUrl": "https://twitter.com/Ts0kicJFYF98218/status/2089191390450491653",
+    "createdAt": "August 17, 2026 at 12:23PM"
+  },
+  {
+    "text": "@sazan_tenhapi @hisyo3821 小幡外して高寺、谷端外して百崎、湯浅外して早瀬でどうでしょうか",
+    "userName": "OR7mgqxFLu56225",
+    "tweetUrl": "https://twitter.com/OR7mgqxFLu56225/status/2089213537419923812",
+    "createdAt": "August 17, 2026 at 01:51PM"
+  },
+  {
+    "text": "対広島前提。そもそも坂倉は要らない派だけど、床田FAが前提になると左の先発は狙われるので伊藤伊原大竹は外せるわけがない。(ここ獲られたらそもそも上積みがない)\n嶋村も迷ったが広島も捕手いないので狙われる。谷端山田は実績ないが編成的に獲られるとまずい。神宮はここから次第で福島と入れ替え https://t.co/74XgQYfWks",
+    "userName": "Captain_adachi",
+    "tweetUrl": "https://twitter.com/Captain_adachi/status/2089221823833768133",
+    "createdAt": "August 17, 2026 at 02:24PM"
+  },
+  {
+    "text": "@centralyakyu @JiuGui82908 立石、谷端、岡城は新人なので自動的にプロテクトされているのでは？(枠外プロテクト)",
+    "userName": "CBR_Hanachan",
+    "tweetUrl": "https://twitter.com/CBR_Hanachan/status/2089233540001194314",
+    "createdAt": "August 17, 2026 at 03:11PM"
+  },
+  {
+    "text": "谷端、岡城、百崎辺りもプロテクトしたかったがファームでOPS5〜6と苦戦、他球団が魅力的感じるかというとそうでもないこと、山田のパワーツールが成長してきていること、百崎がショートクビ",
+    "userName": "siy7cb",
+    "tweetUrl": "https://twitter.com/siy7cb/status/2089271473232072823",
+    "createdAt": "August 17, 2026 at 05:41PM"
+  },
+  {
+    "text": "@TKONTHEWAVE 2B谷端SS山田が組まれると二遊間としては出す場所がなくなるので(外野なら島田の枠でスタメンにできると思う)\n\n3B百崎佐野あたりの代走で盗塁チャレンジさせたら2Bの谷端を3Bに、山﨑は2Bにって使い方がいいかな？\n2B山﨑3B谷端のスタメンもありだけど\n\nあとは0が出るくらいなら山田休養日にSS試して",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://twitter.com/Og0238_0521/status/2089292385876578624",
+    "createdAt": "August 17, 2026 at 07:04PM"
+  },
+  {
+    "text": "【速報】阪神、ドラ2023vsドラ2025\n\nドラ2023\n山田　打率.216 本4 点15 OPS.628\n百崎　打率.211 本4 点17 OPS.606\n福島　打率.322 本0 点0 OPS.851 (一軍滞在中)\n\nドラ2025\n立石　打率.185 本4 点16 OPS.586\n谷端　打率.208 本0 点20 OPS.528\n岡城　打率.255 本0 点12 OPS.611\n\n※ファーム成績",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2089324482100134330",
+    "createdAt": "August 17, 2026 at 09:12PM"
+  },
+  {
+    "text": "能登と小野寺の代わりに上がってくるのは石黒は可能性高そう　あと1人は、ディベイニーでも上げんの？ルーカスか？森下が途中で下がったことが関係あるなら島田とか、小野寺落とすならサード上げたいのかな　立石も谷端も状態よくないが",
+    "userName": "Eanas_77",
+    "tweetUrl": "https://twitter.com/Eanas_77/status/2089331755727859983",
+    "createdAt": "August 17, 2026 at 09:41PM"
+  },
+  {
+    "text": "📍2026.08.14\n#山﨑照英 選手 #谷端将吾 選手 \n#Tigers https://t.co/XOmSVBb4YS",
+    "userName": "HtsnJp",
+    "tweetUrl": "https://twitter.com/HtsnJp/status/2089348929070792872",
+    "createdAt": "August 17, 2026 at 10:49PM"
+  },
+  {
+    "text": "まちだと同級生たち\n2026.08.09\n#町田隼乙\n#岡城快生\n#谷端将伍\n#嶋村麟士朗 https://t.co/ajfIsG40SY",
+    "userName": "sukinanodake___",
+    "tweetUrl": "https://twitter.com/sukinanodake___/status/2089359691126346039",
+    "createdAt": "August 17, 2026 at 11:32PM"
   }
 ]
