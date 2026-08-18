@@ -8206,5 +8206,95 @@
     "userName": "sukinanodake___",
     "tweetUrl": "https://twitter.com/sukinanodake___/status/2089359691126346039",
     "createdAt": "August 17, 2026 at 11:32PM"
+  },
+  {
+    "text": "8/18（火）\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→29℃\n水温→28℃\n\n谷端プールの外気温と水温📷\n天候→晴れ\n外気温→28.5℃\n水温28℃\n\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2089498725240709322",
+    "createdAt": "August 18, 2026 at 08:44AM"
+  },
+  {
+    "text": "立石もそうやけど谷端もびっくりするくらい成績出てへんよなぁ\n完全にプロの壁にぶち当たってる\n攻められ方とか配球面で色々考えてしまってるんやろうけど、しょうみ即戦力と思ってたから今のところ期待外れにはなってしまうけど覆してほしいな",
+    "userName": "arugamamaTigers",
+    "tweetUrl": "https://twitter.com/arugamamaTigers/status/2089534578981753109",
+    "createdAt": "August 18, 2026 at 11:07AM"
+  },
+  {
+    "text": "岡城谷端立石はファームで腰据えてスタメン張らせ続けるべきでしょうに",
+    "userName": "prospiA_dust",
+    "tweetUrl": "https://twitter.com/prospiA_dust/status/2089546143638401462",
+    "createdAt": "August 18, 2026 at 11:53AM"
+  },
+  {
+    "text": "谷端の直筆サインボールや。ルーキーのええの\n\n阪神タイガース 直筆サインボール 谷端選手 ドラフト2位ルーキー\nhttps://t.co/jrz0Z76pGY",
+    "userName": "YumeToraShin",
+    "tweetUrl": "https://twitter.com/YumeToraShin/status/2089560379471036757",
+    "createdAt": "August 18, 2026 at 12:49PM"
+  },
+  {
+    "text": "@muchi_73 谷端はまだ伸びしろあるかなと。ポスト中野としても。立石は、キャンプからやり直し。",
+    "userName": "Nyawanmarokona",
+    "tweetUrl": "https://twitter.com/Nyawanmarokona/status/2089562944304709850",
+    "createdAt": "August 18, 2026 at 01:00PM"
+  },
+  {
+    "text": "谷端も上で見られる機会あるかなぁと思ってたけど立石と岡城がルーキーとしてはそれなりの活躍してくれてとても嬉しい。来年がとても楽しみ",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2089577598280217054",
+    "createdAt": "August 18, 2026 at 01:58PM"
+  },
+  {
+    "text": "立石指名出来たのに大塚スルーして谷端指名したの今思い返してもアホすぎる",
+    "userName": "tigers19852010",
+    "tweetUrl": "https://twitter.com/tigers19852010/status/2089578746743607523",
+    "createdAt": "August 18, 2026 at 02:02PM"
+  },
+  {
+    "text": "@test157437 ロングリリーフ用の能登が下がってるんだから伊原も休ませろよとは思う\nでもファームでOPS.9あった頃の谷端上がらんかったからね...",
+    "userName": "Naoki_RockonKMR",
+    "tweetUrl": "https://twitter.com/Naoki_RockonKMR/status/2089638688682881326",
+    "createdAt": "August 18, 2026 at 06:01PM"
+  },
+  {
+    "text": "これはアレやな、抹消コースかも知らんな\n谷端ちょっと一軍で見たい気もするんよなぁ",
+    "userName": "DEGUMANDO",
+    "tweetUrl": "https://twitter.com/DEGUMANDO/status/2089693224847941985",
+    "createdAt": "August 18, 2026 at 09:37PM"
+  },
+  {
+    "text": "中野がもしダメなら、ワンチャン最近ファームで調子上げてる谷端くん初昇格あるかな",
+    "userName": "Espy_KinaKosuzu",
+    "tweetUrl": "https://twitter.com/Espy_KinaKosuzu/status/2089694689440260258",
+    "createdAt": "August 18, 2026 at 09:43PM"
+  },
+  {
+    "text": "中野選手抹消なら内野手補充で谷端一軍昇格あるんかな",
+    "userName": "omamori_1",
+    "tweetUrl": "https://twitter.com/omamori_1/status/2089695459439001779",
+    "createdAt": "August 18, 2026 at 09:46PM"
+  },
+  {
+    "text": "@Hanshinfunda 個人的に近本の後釜が岡城\n中野のが谷端？ただ、中野ほどの華麗守備は難しそう？",
+    "userName": "maria_LOVEonly",
+    "tweetUrl": "https://twitter.com/maria_LOVEonly/status/2089697283646587139",
+    "createdAt": "August 18, 2026 at 09:53PM"
+  },
+  {
+    "text": "1、2年前なら中野離脱は絶望的な状況だったが、今は高寺と熊谷がいる。\n余裕のある状況になってきたら、谷端を上げたっていい。 https://t.co/5pn3k9S9AC",
+    "userName": "TeraRhythm",
+    "tweetUrl": "https://twitter.com/TeraRhythm/status/2089711250465071162",
+    "createdAt": "August 18, 2026 at 10:49PM"
+  },
+  {
+    "text": "#これ見た人は12球団の好きな選手あげてけ \n福岡 上茶谷大河\n西武 桑原将志\nハム 柳川大晟\nオリ 寺西成騎\n千葉 角中勝也\n楽天 宗山塁\n阪神 谷端将伍\n巨人 山瀬慎之助\nヤク 奥川恭伸\n横浜 入江大生\n広島 鈴木健矢\n中日 細川成也",
+    "userName": "Wt7d7cX6yy10645",
+    "tweetUrl": "https://twitter.com/Wt7d7cX6yy10645/status/2089725546590802137",
+    "createdAt": "August 18, 2026 at 11:46PM"
+  },
+  {
+    "text": "大塚が残ってて谷端、岡城をピックした球団のショートデプスが終わっるのマジで許してはいけない",
+    "userName": "6Mn6e6",
+    "tweetUrl": "https://twitter.com/6Mn6e6/status/2089777865042936097",
+    "createdAt": "August 19, 2026 at 03:14AM"
   }
 ]
