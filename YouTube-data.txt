@@ -2686,5 +2686,13 @@
     "publishedAt": "August 11, 2026 at 11:18PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【プロスピ2026打撃練習/NPB26BattingTraining】阪神 25 谷端将伍選手 Tigers Shogo Tanihata",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6LaqxF-QFcw",
+    "publishedAt": "August 18, 2026 at 02:21PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
