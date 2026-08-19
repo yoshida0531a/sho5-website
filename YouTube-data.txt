@@ -2694,5 +2694,461 @@
     "publishedAt": "August 18, 2026 at 02:21PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥 阪神に新戦力！ルーキー谷端が1軍合流✨ 中野の負傷交代で初登録へ大注目⚾️👀",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XxxJSXktHrc",
+    "publishedAt": "August 19, 2026 at 12:29PM",
+    "description": "阪神ルーキー谷端が1軍合流！中野の負傷交代で初登録へ⚾️✨ 阪神タイガースに注目の動きがありました  ⚾️。期待の ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯【阪神】谷端将伍が1軍合流へ！ファーム打率・208から逆襲なるか⚾✨若手内野手に高まる期待！💪🌟",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KJJXBOcpI9Q",
+    "publishedAt": "August 19, 2026 at 12:36PM",
+    "description": "阪神・谷端将伍が1軍合流へ！  ⚾ ファーム打率・208からの飛躍に期待   阪神タイガースの若手内野手、谷端将伍選手が1軍に ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯【阪神タイガース】ルーキー谷端将伍がついに1軍合流！⚾️✨ 前夜に中野拓夢がまさかの負傷交代…😱　出場選手登録なら待望のプロ初舞台へ！🌟🔥若き内野手に巡ってきた最大のチャンス、その瞬間をファンが",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=NGS4jB_1umc",
+    "publishedAt": "August 19, 2026 at 12:50PM",
+    "description": "阪神ルーキー・谷端将伍が1軍合流！  ⚾️ 中野拓夢の負傷交代で巡ってきた大きなチャンス、待望のプロ初舞台なるか！",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】ルーキー谷端が一軍合流、出場選手登録されるとプロ入り初",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=weBEtHh73ig",
+    "publishedAt": "August 19, 2026 at 12:52PM",
+    "description": "１年目の谷端は１軍でキャンプをスタートさせ、オープン戦も４試合に出場。ただ８打数無安打と結果を残せず、開幕は２軍 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥⚾【阪神】谷端将伍が1軍初合流！✨ ドラ2ルーキーに巡ってきた大チャンス💪🐯 中野拓夢の負傷交代で期待高まる！🌟",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_0J8guSjlnM",
+    "publishedAt": "August 19, 2026 at 01:06PM",
+    "description": "阪神・谷端将伍が1軍初合流！  ⚾ ドラフト2位ルーキーに訪れた大きなチャンス   阪神タイガースのドラフト2位ルーキー・谷端 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神に新たな希望！谷端将伍、ついに1軍合流…このチャンスを掴めるか🔥#阪神タイガース #谷端将伍 #中野拓夢 #阪神 #プロ野球 #NPB #野球ニュース #阪神ファン #1軍合流 #野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=JFUtYySrKfg",
+    "publishedAt": "August 19, 2026 at 01:36PM",
+    "description": "阪神タイガースに、期待の若手がついに1軍合流です。ドラフト2位ルーキー・谷端将伍選手が、19日のヤクルト戦を前にプロ入り ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍、ついに1軍へ！突然巡ってきた「人生最大のチャンス」🔥#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #野球ニュース #阪神ファン #ドラフト2位 #1軍合流 #中野拓夢",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=RDh0WIOMrYM",
+    "publishedAt": "August 19, 2026 at 01:45PM",
+    "description": "阪神のドラフト2位ルーキー・谷端将伍に、ついに大きなチャンスが巡ってきました。8月19日、谷端が1軍に合流。昇格となれ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神の22歳ルーキー谷端将伍、ついに1軍合流！突然巡ってきた「運命のチャンス」🔥#阪神タイガース #谷端将伍 #中野拓夢 #阪神 #プロ野球 #NPB #野球ニュース #阪神ファン #若手選手 #甲子",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jk8480eeZnU",
+    "publishedAt": "August 19, 2026 at 01:52PM",
+    "description": "阪神タイガースに、注目の若手がついに1軍合流です。8月19日、京セラドーム大阪で行われた阪神－ヤクルト戦で、ドラフト2位 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯⚾【阪神】ドラ2・谷端将伍が初の1軍合流！🔥 負傷した中野拓夢のバックアップ要員として期待高まる✨💪",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eDVMO7bbj38",
+    "publishedAt": "August 19, 2026 at 02:13PM",
+    "description": "【阪神】ドラ2・谷端将伍が初の1軍合流！   負傷した中野拓夢のバックアップ要員として期待高まる✨ 阪神タイガースの ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥【阪神】ドラ2谷端将伍がついに1軍合流！中野拓夢の負傷で急浮上…“代役”から救世主へ！？⚾️🐯✨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=giION5PMvDQ",
+    "publishedAt": "August 19, 2026 at 02:39PM",
+    "description": "阪神・谷端将伍、ついに1軍合流！中野拓夢の負傷で生まれた大チャンス 阪神ファン必見の最新ニュースです！  ⚾️ ドラフト2 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯⚾【阪神】ドラ2・谷端将伍が初の1軍合流！🔥 負傷した中野拓夢のバックアップ要員として期待高まる✨💪",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=DMa3l8L8p0E",
+    "publishedAt": "August 19, 2026 at 03:30PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🇯🇵(字幕)谷端将伍選手一軍昇格(8/19) #25 #ドラフト #2位 #2025 #星稜高校 #日本大学 #石川県",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QOt1IMQz16I",
+    "publishedAt": "August 19, 2026 at 04:03PM",
+    "description": "(8/19)「初めて1軍に合流...ファーム・リーグでは打率2割8厘...開幕後は1度も1軍に呼ばれていなかったが中野拓夢内野手(30)が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯⚾【阪神】佐藤輝明が谷端選手に直接アドバイス！💪✨ メディシンボール練習で見せた先輩の優しさ🔥 「背中が大きい！」👏🌟",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eOttDoG5V64",
+    "publishedAt": "August 19, 2026 at 04:20PM",
+    "description": "【阪神】佐藤輝明が谷端選手に直接アドバイス！先輩の背中が大きい一日に⚾️   阪神の練習中に、心温まる一場面がありま ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神に新星誕生！谷端将伍＆岡城快生、ついに一軍へ🔥🐯",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zEZox8KWg7Q",
+    "publishedAt": "August 19, 2026 at 04:36PM",
+    "description": "2026年8月19日、阪神タイガースに新たな動きがありました。 日本野球機構の公示で、ドラフト2位ルーキー・谷端将伍内野手 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神に新星登場】谷端将伍、ついに初の1軍登録！中野拓夢の状態にも注目⚾🔥#阪神タイガース #阪神 #谷端将伍 #中野拓夢 #藤川球児 #プロ野球 #NPB #野球ニュース #京セラドーム ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=lI48dO2XN3U",
+    "publishedAt": "August 19, 2026 at 04:41PM",
+    "description": "阪神タイガースに大きな動きがありました。8月19日、京セラドーム大阪でのヤクルト戦を前に、ルーキーの谷端将伍選手と岡城 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🚨🐯【阪神】ドラフト2位・谷端将伍がプロ初1軍昇格！🔥 中野拓夢のスタメンが微妙な状況で大チャンス到来⚾️✨若虎の活躍に期待！🙌💥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=NSbZOcZkgfQ",
+    "publishedAt": "August 19, 2026 at 04:49PM",
+    "description": "阪神タイガースに、若き新戦力の大きなニュースが飛び込んできました⚾️✨ドラフト2位で入団した谷端将伍選手が、ついにプロ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神に激震！？若虎2人が一軍昇格！谷端＆岡城に大チャンス⚾🔥#阪神タイガース #阪神 #谷端将伍 #岡城快生 #中野拓夢 #プロ野球 #NPB #野球ニュース #阪神ニュース #若虎",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jKLDS83i1vE",
+    "publishedAt": "August 19, 2026 at 04:57PM",
+    "description": "阪神に激震！？若虎2人が一軍昇格！谷端＆岡城に大チャンス⚾   阪神タイガースに、注目の若手2人が一軍登録されまし ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "中野の負傷で急浮上！谷端将伍、ついに1軍へ⚾️ 岡城快生は5度目の昇格！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=z6DaoIzHCV8",
+    "publishedAt": "August 19, 2026 at 05:00PM",
+    "description": "阪神タイガースに、シーズン終盤の大きな動きがありました――。8月19日、京セラドーム大阪で行われる阪神―ヤクルト戦を前 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯期待の大砲・谷端将伍｜魂を揺さぶる新応援歌がついに登場！🐯📣",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=VDWvtXvw26M",
+    "publishedAt": "August 19, 2026 at 05:00PM",
+    "description": "期待の大砲・谷端将伍｜魂を揺さぶる新応援歌がついに登場！     【歌詞】 今 目指すべき場所 それこそ 希望がある 加賀百万石 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🚨【速報】阪神・谷端将伍がプロ初昇格！中野拓夢に代わり大チャンス🔥 #npb #プロ野球 #野球 #npbニュース #野球ニュース #shorts #vairal",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XSvuJAy7EuE",
+    "publishedAt": "August 19, 2026 at 05:02PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】ルーキー谷端が1軍合流！中野拓夢の負傷交代で急浮上⚾️✨ 若虎に訪れた大チャンス！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=IgUgp0PvKWg",
+    "publishedAt": "August 19, 2026 at 05:11PM",
+    "description": "阪神タイガースに大きな動きがありました。ルーキーの谷端竜平選手が1軍に合流し、若虎への期待が一気に高まっています  。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】ドラ2ルーキー谷端が初の出場選手登録！⚾️✨ 岡城も1軍登録、若虎2人に大チャンス！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=GFH3JMLPD1U",
+    "publishedAt": "August 19, 2026 at 05:28PM",
+    "description": "阪神タイガースに大きな動きがありました。ドラフト2位ルーキーの谷端竜平選手が、プロ入り後初めて出場選手登録されました   ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端将伍、ついに1軍登録！🔥 中野拓夢のアクシデントで訪れた「22歳の大チャンス」#阪神タイガース #阪神 #谷端将伍 #中野拓夢 #藤川球児 #プロ野球 #NPB #野球ニュース #若虎",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8h2_h6rPH4E",
+    "publishedAt": "August 19, 2026 at 05:29PM",
+    "description": "阪神に新たな若虎が加わりました。8月19日、ドラフト2位ルーキー・谷端将伍がついに初の1軍登録！春季キャンプでは新人で ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラフト2位・谷端将伍、運命のプロ初スタメン！22歳に突然訪れた最大のチャンス🔥#阪神タイガース #谷端将伍 #中野拓夢 #阪神 #プロ初スタメン #プロ初出場 #NPB #野球 #京セラドーム ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ALNbKHArYSI",
+    "publishedAt": "August 19, 2026 at 05:30PM",
+    "description": "阪神に新たなチャンスメーカーが現れました。2026年8月19日、京セラドーム大阪で行われるヤクルト戦で、ドラフト2位 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥阪神に衝撃！谷端将伍がついに1軍初合流！中野拓夢が負傷交代→病院直行…ドラ2ルーキーに突然訪れた「最大のチャンス」⚾️ 虎の未来が動き出す！🚨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=qNDYMSbV3i4",
+    "publishedAt": "August 19, 2026 at 05:31PM",
+    "description": "阪神タイガースに大きな動きがありました⚾️  2025年ドラフト2位で入団した期待のルーキー、谷端将伍選手がついに1軍へ初 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】ドラ2ルーキー谷端が初の出場選手登録！⚾️✨ 岡城も1軍登録、若虎2人に大チャンス！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XlllAmvYb-U",
+    "publishedAt": "August 19, 2026 at 05:39PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "中野拓夢がまさかのベンチスタート…22歳ルーキー谷端将伍がプロ初スタメン！阪神に新たなヒーロー誕生へ🔥#阪神タイガース #阪神 #中野拓夢 #谷端将伍 #佐藤輝明 #大山悠輔 #プロ野球 #NPB #",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=W48NmG0xmS4",
+    "publishedAt": "August 19, 2026 at 05:54PM",
+    "description": "阪神に大きな変化が起きました。19日のヤクルト戦で、正二塁手の中野拓夢が前日の左足負傷を受けてベンチスタート。重傷では ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【歌詞付き】🐯谷端将伍の応援歌｜聖地が震える興奮を歌詞のみVer.で！🐯📣",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_0umw90XPzg",
+    "publishedAt": "August 19, 2026 at 06:00PM",
+    "description": "【歌詞付き】  谷端将伍の応援歌｜聖地が震える興奮を歌詞のみVer.で！     【歌詞】 今 目指すべき場所 それこそ 希望がある ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍、ついに一軍スタメン！🔥 阪神の若虎に訪れた「人生最大のチャンス」#阪神タイガース #谷端将伍 #阪神 #阪神ファン #プロ野球 #NPB #岡城 #中野拓夢 #若虎 #京セラドーム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6SQmxyZvvBw",
+    "publishedAt": "August 19, 2026 at 06:07PM",
+    "description": "阪神に新たなスター候補が登場――。 8月19日、京セラドーム大阪で行われる阪神対ヤクルト戦で、2025年度ドラフト2位 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥 阪神・谷端、昇格即「7番・二塁」で先発！⚾ ドラ2ルーキーが中野の代役に抜てき✨ ドラ3岡城も「8番・左翼」でスタメン！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=7kS7891jq7Q",
+    "publishedAt": "August 19, 2026 at 06:20PM",
+    "description": "阪神・谷端が昇格即スタメン！ドラ2ルーキーが中野の代役として二塁へ⚾✨ ドラ3岡城も先発！ 阪神タイガースに大きな動きが ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯【阪神・谷端将伍】ついに1軍合流へ！⚾️✨ ファーム打率.208から大逆転のチャンス到来！💥 期待のドラフト2位がプロ初昇格で猛アピールへ！🚀🇯🇵",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jkoSn6z4ApU",
+    "publishedAt": "August 19, 2026 at 06:21PM",
+    "description": "阪神・谷端将伍、ついに1軍合流へ！  ⚾️✨ 阪神タイガースの期待の若手内野手、谷端将伍に大きなチャンスが巡ってきました ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「中野からの“肩ポン”…谷端将伍、涙の大抜擢！🔥若虎の運命が変わる一日」#阪神タイガース#谷端将伍#中野拓夢#阪神#プロ野球#NPB#阪神ファン#若虎#京セラドーム#野球ニュース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=7cu2hotFlcg",
+    "publishedAt": "August 19, 2026 at 06:24PM",
+    "description": "2026年8月19日、京セラドーム大阪で行われる阪神－ヤクルト戦で、阪神に大きな動きがありました。なんと2025年度ドラフト2 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神ドラフト2位谷端将伍がついにプロ初スタメン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jsjcPUixY9s",
+    "publishedAt": "August 19, 2026 at 07:27PM",
+    "description": "阪神タイガースのドラフト2位ルーキーである谷端将伍選手が、ヤクルト戦でプロ入り初となる先発出場を果たし一軍デビューを ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神の新星・谷端将伍、ついに1軍デビュー！初打席に待っていた“まさかの結果”⚾🔥#阪神タイガース #谷端将伍 #阪神 #プロ初打席 #プロ初スタメン #新人選手 #甲子園 #京セラドーム #NPB ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=A1FhZ_hcuhQ",
+    "publishedAt": "August 19, 2026 at 07:27PM",
+    "description": "阪神のドラフト2位ルーキー・谷端将伍選手が、ついに1軍の舞台へ！⚾ 8月19日のヤクルト戦で、この日に初昇格を果たした谷端 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯【阪神】谷端将伍が1軍初昇格！🎉✨ あいさつ回りに大忙し💪⚾ 若虎の新たな挑戦がスタート！🌟",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Qxwj72Y5OlY",
+    "publishedAt": "August 19, 2026 at 07:28PM",
+    "description": "阪神・谷端将伍が1軍初昇格！あいさつ回りに大忙し⚾   阪神タイガースの若手ルーキー、谷端将伍選手が待望の1軍初昇格を ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「プロ初打席はまさかの併殺…谷端将伍、ここから始まる物語⚾🔥」#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #野球 #ルーキー #プロ初打席 #甲子園 #野球ニュース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kpd_xZ27xsA",
+    "publishedAt": "August 19, 2026 at 07:31PM",
+    "description": "阪神タイガースのドラフト2位ルーキー・谷端将伍が、ついに1軍デビュー！ 2026年8月19日のヤクルト戦で「7番・二塁」として ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【初犠打】5回裏、プロ初出場初スタメンの#谷端将伍 選手がピッチャー前へプロ初犠打を記録！【2026/8/19 Ｔ－Ｓ】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UiygpkYMZCs",
+    "publishedAt": "August 19, 2026 at 07:37PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】谷端将伍、昇格即「7番・二塁」でプロ初スタメン！⚾✨ 中野は左足痛でベンチスタート💥期待のドラ2ルーキーが1軍デビュー！🌟👏",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KVwsgwVcIak",
+    "publishedAt": "August 19, 2026 at 07:39PM",
+    "description": "阪神・谷端将伍が昇格即「7番・二塁」でプロ初スタメン！⚾✨ 阪神タイガースのドラフト2位ルーキー、谷端将伍選手がついに1 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍、プロ初出場で魅せた！絶好機を作った渾身の犠打🔥#阪神タイガース #阪神 #谷端将伍 #大山悠輔 #坂本誠志郎 #プロ初出場 #甲子園 #京セラドーム #NPB #野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=p6Z0Rywl-is",
+    "publishedAt": "August 19, 2026 at 07:58PM",
+    "description": "セ・リーグ17回戦、阪神対ヤクルト。0－0で迎えた五回、阪神が先制点を奪う絶好のチャンスを作りました。先頭の大山悠輔が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】ドラ2・谷端将伍が1軍デビュー！⚾✨ 期待のルーキー7人の現在地に注目🌟💪 若虎たちの未来を背負う新戦力！👏🐯",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=EXwTnzhItV8",
+    "publishedAt": "August 19, 2026 at 07:59PM",
+    "description": "阪神・ドラ2谷端将伍が1軍デビュー！⚾✨ 期待のルーキー7人、それぞれの現在地に注目   阪神タイガースのドラフト2位 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍、ついにプロ初出場！初打席は悔しい結果…ここから始まる若虎の物語🔥🐯#阪神タイガース #谷端将伍 #阪神 #若虎 #プロ初出場 #プロ野球 #NPB #京セラドーム #ドラフト #野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=E8tKkaMNSiA",
+    "publishedAt": "August 19, 2026 at 08:02PM",
+    "description": "阪神タイガースに、またひとり新たな若虎がプロの舞台へ――。8月19日、京セラドーム大阪でドラフト2位・谷端将伍選手が待望 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】阪神ドラフト２位の谷端将伍がついに一軍初スタメン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=TqUlEc6Er60",
+    "publishedAt": "August 19, 2026 at 08:03PM",
+    "description": "阪神タイガースの未来を担うドラフト２位ルーキーである谷端将伍選手が、ついにファン待望の一軍初昇格を果たし、即スタメン ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍、ついに一軍デビュー！初打席は悔しい結果…ここから始まる22歳の物語⚾🔥#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #野球ニュース #若虎 #一軍デビュー #甲子園 ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=xfAREiBEtlE",
+    "publishedAt": "August 19, 2026 at 08:05PM",
+    "description": "8月19日、京セラドーム大阪で阪神のドラフト2位・谷端将伍選手が待望の一軍デビューを果たしました。日大時代には春夏連続で ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神激震】谷端が昇格即スタメン！中野の代役にドラ2ルーキー抜てき…さらにドラ3岡城も先発で虎党騒然！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=26oqZSlGmwQ",
+    "publishedAt": "August 19, 2026 at 08:08PM",
+    "description": "阪神タイガースに大きな注目が集まっています    今回の話題は、1軍昇格直後に「7番・二塁」でスタメンに抜てきされた ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍、ついに一軍デビュー！初打席に込めた22歳の覚悟🔥#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #ドラフト2位 #一軍デビュー #若手選手 #野球ニュース #甲子園",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=H-39XBlorJM",
+    "publishedAt": "August 19, 2026 at 08:14PM",
+    "description": "阪神のドラフト2位・谷端将伍が、ついにプロ野球一軍の舞台へ――。2025年ドラフトで阪神に入団した22歳の内野手は、大学 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥⚾【阪神】ドラ2・谷端将伍が初の1軍登録！中野負傷で急浮上、岡城快生も登録へ✨🐯",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=3ztafMJYIBw",
+    "publishedAt": "August 19, 2026 at 08:19PM",
+    "description": "阪神ドラ2・谷端将伍が初の1軍登録！中野拓夢の状態にも注目が集まる  ⚾ 阪神タイガースに新たな動きがありました  ⚾ 8月19 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神の新星・谷端将伍、一軍デビューで見せた「プロ初犠打」に感動！⚾🔥#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #野球 #若虎 #一軍デビュー #ドラフト2位 #阪神ファン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Oldy6jSgXfc",
+    "publishedAt": "August 19, 2026 at 08:26PM",
+    "description": "阪神に新たな若虎が誕生しました！   8月19日のヤクルト戦で、ドラフト2位ルーキー・谷端将伍選手が待望の一軍初昇格。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラ2谷端昇格！大学最高峰リーグで2季連続首位打者！　#タイガース #プロ野球 #阪神タイガース #谷端 #谷端将伍 #阪神 #伊原  #井坪 #フライデー #レバニラ #伊原陵人",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2XwUXcP2ZVk",
+    "publishedAt": "August 19, 2026 at 08:31PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】阪神７人指名の若虎から谷端将伍がついに一軍デビュー",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=De3mtMG5tOU",
+    "publishedAt": "August 19, 2026 at 08:37PM",
+    "description": "阪神タイガースの若き才能、ドラフト２位の谷端将伍選手が待望の一軍デビューを果たし、大きな注目を集めています。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾🔥 阪神・谷端将伍がついに1軍デビュー！🐯✨ 期待のルーキー7人が描く“未来のタイガース”🚀",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wFknymGQgZc",
+    "publishedAt": "August 19, 2026 at 08:40PM",
+    "description": "阪神・谷端将伍がついに1軍デビュー！  ✨ 期待のルーキー7人が描く“未来のタイガース”   説明文： 阪神の期待を背負う ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "⚾🔥【阪神】ドラフト2位・谷端将伍が待望の1軍デビュー！✨ ルーキー7人の現在地とこれからに注目👀🐯",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kARsddYKoKY",
+    "publishedAt": "August 19, 2026 at 09:32PM",
+    "description": "【阪神】ドラフト2位・谷端将伍が注目の実戦デビュー！  ✨ ルーキー7人の現在地を徹底チェック   阪神タイガースの2026年 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神ドラフト２位谷端がついに一軍初昇格でプロ初犠打",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eeife4xS2ag",
+    "publishedAt": "August 19, 2026 at 09:40PM",
+    "description": "阪神タイガースの期待のドラフト２位ルーキー、谷端将伍選手が一軍初昇格を果たし、スタメン出場で見事なプロ初犠打を記録 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【なんJ】阪神ドラ2谷端が昇格即スタメンｗ中野の穴を埋めろ #Shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=jFYa1qt3CM8",
+    "publishedAt": "August 19, 2026 at 10:59PM",
+    "description": "【デビュー】阪神ドラ2谷端 中野の負傷で回ってきた出番 #Shorts #阪神タイガース #なんJ #プロ野球 音声: VOICEVOX（ずんだ ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍、プロ初スタメンで堂々の一歩！⚾🔥 無安打でも光った犠打「冷静にプレーできた」👏✨",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=xTPQKiB4-yU",
+    "publishedAt": "August 19, 2026 at 11:59PM",
+    "description": "阪神タイガース #阪神 #谷端将伍 #プロ初スタメン #プロ初出場 #野球 #NPB #セリーグ #京セラドーム大阪 #ヤクルト戦 #犠打 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "大山悠輔が新人・谷端に伝えた言葉…阪神の強さはここにある🔥#阪神タイガース #大山悠輔 #谷端将伍 #阪神 #プロ野球 #NPB #甲子園 #野球 #阪神ファン #野球ニュース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=lU2pR9KOO2g",
+    "publishedAt": "August 20, 2026 at 12:30AM",
+    "description": "阪神がヤクルトを2対1で破った一戦。その勝利の裏側には、大山悠輔が新人・谷端に届けた“見えない支え”がありました。プロ初 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "大山悠輔が新人・谷端に送った言葉…阪神の強さはここにあった🔥🐯#阪神タイガース #大山悠輔 #谷端 #阪神 #プロ野球 #NPB #野球 #野球ニュース #甲子園 #阪神ファン",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=NZ56IKikItI",
+    "publishedAt": "August 20, 2026 at 12:37AM",
+    "description": "阪神がヤクルトを2対1で破った一戦。その勝利の裏側で、ファンの心を打つ“もう一つの物語”がありました。プロ初スタメンに ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": " 阪神ドラ2・谷端将伍、涙の1軍デビュー！初打席の悔しさをバネにプロ初犠打⚾🔥#阪神タイガース #谷端将伍 #阪神ドラフト #プロ初出場",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=nuvwwJBlIN4",
+    "publishedAt": "August 20, 2026 at 12:53AM",
+    "description": "2026年8月19日、京セラドーム大阪。阪神のドラフト2位ルーキー・谷端将伍が、待望の1軍デビューを果たしました！22歳で「7 ...",
+    "keyword": "谷端 阪神"
   }
 ]
