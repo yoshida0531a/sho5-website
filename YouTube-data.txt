@@ -3150,5 +3150,29 @@
     "publishedAt": "August 20, 2026 at 12:53AM",
     "description": "2026年8月19日、京セラドーム大阪。阪神のドラフト2位ルーキー・谷端将伍が、待望の1軍デビューを果たしました！22歳で「7 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2・谷端将伍が1軍デビュー！プロ初犠打で見せた「チーム優先」の熱いプレー🐯⚾️🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=amSNlZU-G8E",
+    "publishedAt": "August 20, 2026 at 06:00AM",
+    "description": "阪神・谷端将伍、待望の1軍デビュー！プロ初犠打で見せたチームプレー     阪神タイガースのドラフト2位ルーキー、谷端将伍 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神ドラ2谷端将伍、ついに1軍デビュー！初打席の悔しさをバントで返した22歳🔥⚾",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kAp2kIbIFLY",
+    "publishedAt": "August 20, 2026 at 11:58AM",
+    "description": "ショートタイトル 阪神ドラ2谷端将伍、ついに1軍デビュー！初打席の悔しさをバントで返した22歳  ⚾ 説明文 2026年8月19 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥阪神2夜連続サヨナラ！ドラ2谷端将伍の「勝負心」に藤川監督が絶賛🐯#阪神タイガース #阪神 #谷端将伍 #藤川球児 #プロ野球 #ヤクルト #サヨナラ勝ち #逆転勝利 #ドラフト2位 #連覇",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=q8es5zo2Lqw",
+    "publishedAt": "August 20, 2026 at 12:51PM",
+    "description": "阪神タイガースがヤクルト戦で、まさかの2夜連続となる劇的な逆転サヨナラ勝ち！     2位巨人とのゲーム差を4に広げ、貯金は ...",
+    "keyword": "谷端 阪神"
   }
 ]
