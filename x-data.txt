@@ -15316,5 +15316,389 @@
     "userName": "kamitukiya",
     "tweetUrl": "https://twitter.com/kamitukiya/status/2090475370722250797",
     "createdAt": "August 21, 2026 at 01:25AM"
+  },
+  {
+    "text": "神宮だけが収穫の試合でした\n昨日の谷端も次に期待！",
+    "userName": "U6c5C9TyUa71392",
+    "tweetUrl": "https://twitter.com/U6c5C9TyUa71392/status/2090564481395101805",
+    "createdAt": "August 21, 2026 at 07:19AM"
+  },
+  {
+    "text": "熊谷も去年よりつかえんし\nガルシア論外\n小野寺岡城バットに当たらん\nまだ谷端のほうがマシ\n三振する前に転がせることはできる\nまぁ出塁はむり",
+    "userName": "Ykdlsl",
+    "tweetUrl": "https://twitter.com/Ykdlsl/status/2090593201216422400",
+    "createdAt": "August 21, 2026 at 09:13AM"
+  },
+  {
+    "text": "8/21（金）\n王子プールの外気温と水温📷\n天候→くもり\n外気温→30℃\n水温→29℃\n\n谷端プールの外気温と水温📷\n天候→くもり\n外気温→30℃\n水温31℃\n\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2090594366532509845",
+    "createdAt": "August 21, 2026 at 09:18AM"
+  },
+  {
+    "text": "【野球】\n\n負けちゃったねぇ。\nでも、劇的なサヨナラが２つあっての2勝1敗。\nいいんじゃないかな。\n\nそれよりもこの時期に谷端選手、岡城選手、神宮投手を使ってきたのに驚きだ。\n来年度以降を見据えた投資だと思うわ。\n育てながら勝つ。\n難しいけど、それが出来る環境になってきたのかなぁ。 https://t.co/WaRZbUNXFC",
+    "userName": "m_totosan",
+    "tweetUrl": "https://twitter.com/m_totosan/status/2090599551292112983",
+    "createdAt": "August 21, 2026 at 09:39AM"
+  },
+  {
+    "text": "2026.8.21(金)\n季節の花めぐり　ルリマツリ\n\n　東武東上線下板橋駅近くの谷端川緑道を散策￼￼🍀🍀緑色の景色の中 爽やかな色合いの #ルリマツリ が満開￼￼💜￼ #ハツユキカズラ のピンクの新芽がまるで花のようで華やか🩷\n#TLを花でいっぱいにしよう https://t.co/5oqbu9QuJs",
+    "userName": "yuumin1313",
+    "tweetUrl": "https://twitter.com/yuumin1313/status/2090646035500839108",
+    "createdAt": "August 21, 2026 at 12:43PM"
+  },
+  {
+    "text": "木浪谷端湯浅out\nディベ津田石黒or岡留in",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2090680754015723728",
+    "createdAt": "August 21, 2026 at 03:01PM"
+  },
+  {
+    "text": "@OOnyp117 谷端でいいよーー、よろしく",
+    "userName": "Zing99112",
+    "tweetUrl": "https://twitter.com/Zing99112/status/2090683393537376390",
+    "createdAt": "August 21, 2026 at 03:12PM"
+  },
+  {
+    "text": "そっちかい\n谷端は引き続き一軍見学か？\n#阪神タイガース https://t.co/sBrt7JDXa6",
+    "userName": "bb_torajapan",
+    "tweetUrl": "https://twitter.com/bb_torajapan/status/2090689502717362517",
+    "createdAt": "August 21, 2026 at 03:36PM"
+  },
+  {
+    "text": "谷端はまだ1軍に残るのか\n谷端は立石や岡城と比べて明確な弱点がわからないから様子見なんやろうな",
+    "userName": "tig9bn",
+    "tweetUrl": "https://twitter.com/tig9bn/status/2090689973880299766",
+    "createdAt": "August 21, 2026 at 03:38PM"
+  },
+  {
+    "text": "岡城が行き谷端は残り。チャンスは一瞬！って感じですなあ　ポジションのあれこれはあれど",
+    "userName": "401265toi",
+    "tweetUrl": "https://twitter.com/401265toi/status/2090690866818216142",
+    "createdAt": "August 21, 2026 at 03:42PM"
+  },
+  {
+    "text": "@Saba_Tigers 谷端の引き立て役",
+    "userName": "X2251347779147",
+    "tweetUrl": "https://twitter.com/X2251347779147/status/2090693107130265702",
+    "createdAt": "August 21, 2026 at 03:50PM"
+  },
+  {
+    "text": "ボールの見極め課題の立石、岡城\nコンタクトはある程度できるがヒットにならない谷端\n\nやはり1年目の後半である程度モノになってた森下と大山は特別な存在やったんやな",
+    "userName": "tjgersfan123456",
+    "tweetUrl": "https://twitter.com/tjgersfan123456/status/2090693328853667937",
+    "createdAt": "August 21, 2026 at 03:51PM"
+  },
+  {
+    "text": "谷端には頑張ってもらいたいわね",
+    "userName": "TerabaseA",
+    "tweetUrl": "https://twitter.com/TerabaseA/status/2090697805979615711",
+    "createdAt": "August 21, 2026 at 04:09PM"
+  },
+  {
+    "text": "@hanshintigersjp 谷端、残して貰えて良かったな\n下に行くにしても、今のうちにプロ初ヒット打ちたいな",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://twitter.com/shio_arakajime/status/2090698680110125125",
+    "createdAt": "August 21, 2026 at 04:13PM"
+  },
+  {
+    "text": "谷端を頭数計上するくらいなら中野落としましょうよ\n代打として序列低い岡城落とすのはともかく",
+    "userName": "sgsbonjin",
+    "tweetUrl": "https://twitter.com/sgsbonjin/status/2090701251940151678",
+    "createdAt": "August 21, 2026 at 04:23PM"
+  },
+  {
+    "text": "なんで抹消岡城やねん\n谷端と木浪だろ",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2090703162735005789",
+    "createdAt": "August 21, 2026 at 04:30PM"
+  },
+  {
+    "text": "普通一軍にいない野手トリオ\n木浪 言うに及ばず\n中野 コン不、打つ方も当然不調\n谷端 そもそも上げる段階にない\n\n岡城は当然谷端よりは打つ可能性あるんだからディベイニーさえ上げてたら一軍に置くのもおかしくないのに何故か上三人より先に抹消",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2090704514399789184",
+    "createdAt": "August 21, 2026 at 04:36PM"
+  },
+  {
+    "text": "@hanshintigersjp 谷端さんは、横浜まで来たんですね",
+    "userName": "tigers_toma__ko",
+    "tweetUrl": "https://twitter.com/tigers_toma__ko/status/2090704654950969557",
+    "createdAt": "August 21, 2026 at 04:36PM"
+  },
+  {
+    "text": "一昨日現地だったけど谷端の方が期待感あったもんな\n中野コンディション不良だし、熊谷は打つ方がアレだし、谷端頑張ってもらいたい https://t.co/32Mh6PlMEA",
+    "userName": "443116_tigers",
+    "tweetUrl": "https://twitter.com/443116_tigers/status/2090705420944122163",
+    "createdAt": "August 21, 2026 at 04:39PM"
+  },
+  {
+    "text": "谷端くんタオル持ってきた！\n久々にタオル応援やろうかな。\n\nてか、初安打観れるかな https://t.co/uggyWYjloh",
+    "userName": "109tigers036_a",
+    "tweetUrl": "https://twitter.com/109tigers036_a/status/2090705744475889778",
+    "createdAt": "August 21, 2026 at 04:41PM"
+  },
+  {
+    "text": "あー岡城選手ファーム。山野投手相手に好相性のイメージをつけたかったが残念。谷端選手は1，2塁からのバントも決め、打球もいい打球を飛ばしてた。ライトフライも併殺打も悪くなかったね。\n津田投手１軍登録。前回は津田投手も石黒投手もしょーもない内容だった。あとは臆病な強気次第。掴みとろう",
+    "userName": "fumuhemu",
+    "tweetUrl": "https://twitter.com/fumuhemu/status/2090710725614621118",
+    "createdAt": "August 21, 2026 at 05:00PM"
+  },
+  {
+    "text": "@mitaaan661 谷端みたいなそもそも上にいるのは段階違うんじゃない？って選手なら見学兼ねてでわからんでもないんですが、岡城は既に十分見学してるし別に上がってもそこまでおかしくない成績なので本当に岡田",
+    "userName": "Alector1",
+    "tweetUrl": "https://twitter.com/Alector1/status/2090712057234788686",
+    "createdAt": "August 21, 2026 at 05:06PM"
+  },
+  {
+    "text": "岡城は一昨日の1死2、3塁であの三振は内容ゼロやし落とされても仕方ない。直前の谷端はバント決めてお膳立てしてくれたから余計にね\n\n「打ちたい打ちたい」の気持ちだけが先行してる状態やったし、また2軍で鍛え直しやな\n球児はちゃんとチャンス与えてる。けどそれを掴むのは自分自身の実力や。頑張れ https://t.co/1AJ5oY2YyP",
+    "userName": "2003Natu",
+    "tweetUrl": "https://twitter.com/2003Natu/status/2090714465885102491",
+    "createdAt": "August 21, 2026 at 05:15PM"
+  },
+  {
+    "text": "谷端くんは守備は悪くない選手\n二度とSGLの試合で見ることがないのが、野球人生で理想の姿\nずっと一軍で生き残ってほしい",
+    "userName": "omamori_1",
+    "tweetUrl": "https://twitter.com/omamori_1/status/2090714477629239510",
+    "createdAt": "August 21, 2026 at 05:15PM"
+  },
+  {
+    "text": "谷端くんベンチ外orz…",
+    "userName": "109tigers036_a",
+    "tweetUrl": "https://twitter.com/109tigers036_a/status/2090715826483798360",
+    "createdAt": "August 21, 2026 at 05:21PM"
+  },
+  {
+    "text": "中野1日休ませて谷端で良かったのでは🤔",
+    "userName": "sakaki220",
+    "tweetUrl": "https://twitter.com/sakaki220/status/2090716956106387960",
+    "createdAt": "August 21, 2026 at 05:25PM"
+  },
+  {
+    "text": "みぃちゃん残念😢\n誠志郎は立ち上がりに気をつけてリードしてね\n神宮はベンチ外で津田inのブルペン9枚\n谷端もベンチ外（横浜帯同してるんか？）\nテラは走者なしでも出塁率あげてw\nそしたらお前の方が中野より2番に向いてるよ https://t.co/VTawPpF4Sj",
+    "userName": "CuiCui20230309",
+    "tweetUrl": "https://twitter.com/CuiCui20230309/status/2090718133996958183",
+    "createdAt": "August 21, 2026 at 05:30PM"
+  },
+  {
+    "text": "@Alector1 谷端はコンディション不良の中野の代わりじゃないの？",
+    "userName": "ttyyukjf",
+    "tweetUrl": "https://twitter.com/ttyyukjf/status/2090718963869368512",
+    "createdAt": "August 21, 2026 at 05:33PM"
+  },
+  {
+    "text": "岡城下げたのね　谷端どこｗ？",
+    "userName": "tama0515tama",
+    "tweetUrl": "https://twitter.com/tama0515tama/status/2090721050665664746",
+    "createdAt": "August 21, 2026 at 05:41PM"
+  },
+  {
+    "text": "谷端ベンチ入れてバント要員でいいんやないの？上手いし。バントは大事な作戦やけど、その上で試合の流れ止めるならやらない方がマシ。元山が完璧なバント決めただけに余計思うわ。。",
+    "userName": "ekodrum",
+    "tweetUrl": "https://twitter.com/ekodrum/status/2090722756803641597",
+    "createdAt": "August 21, 2026 at 05:48PM"
+  },
+  {
+    "text": "@Saba_Tigers まだまだ全然お子ちゃまレベル。\n谷端はまだ兆しが見られるが岡城は選球眼からしっかり見直さないとダメ。\n身体能力だけではプロの1軍は通用しない。\nファームの育成・指導が行き届いていない証拠。\n来年はファームをもっと強化しないと先が無くなるよ。",
+    "userName": "goronpa_X",
+    "tweetUrl": "https://twitter.com/goronpa_X/status/2090722799505797180",
+    "createdAt": "August 21, 2026 at 05:48PM"
+  },
+  {
+    "text": "@77mekapi ファームとか関係なく一軍に高寺・熊谷・植田・谷端がいてノックすら出れないけが人を一軍に置いてる意味はないですよ\n別に1枠空けててもいいわけで二軍から絶対に誰か上げないといけないルールなんてないんですから",
+    "userName": "sadamu_photo",
+    "tweetUrl": "https://twitter.com/sadamu_photo/status/2090723436696129858",
+    "createdAt": "August 21, 2026 at 05:51PM"
+  },
+  {
+    "text": "谷端どこいんの？？？？一軍と2軍の狭間？？？？",
+    "userName": "2ndigunittion",
+    "tweetUrl": "https://twitter.com/2ndigunittion/status/2090723834811032009",
+    "createdAt": "August 21, 2026 at 05:53PM"
+  },
+  {
+    "text": "@sadamu_photo 髙寺や谷端も他のチームなら１軍に上がってるか疑問だね。\n阪神のファームに１軍で通用する選手いないです。中野の方がかなりマシ",
+    "userName": "77mekapi",
+    "tweetUrl": "https://twitter.com/77mekapi/status/2090724502779162933",
+    "createdAt": "August 21, 2026 at 05:55PM"
+  },
+  {
+    "text": "@chikamon1195 スライダーくるくる三振見てたら代打として使えない。谷端、岡城と共通だけど状況に応じたバッティングできないんだわ",
+    "userName": "77mekapi",
+    "tweetUrl": "https://twitter.com/77mekapi/status/2090725315521953929",
+    "createdAt": "August 21, 2026 at 05:58PM"
+  },
+  {
+    "text": "岡城も谷端も経験積ませるための起用だったんだろうな。",
+    "userName": "arutorahanashi",
+    "tweetUrl": "https://twitter.com/arutorahanashi/status/2090726495857832006",
+    "createdAt": "August 21, 2026 at 06:03PM"
+  },
+  {
+    "text": "まぁルーカスやし中継ぎ補充したかったよな\n一軍初出場の谷端の方が可能性ありそうな打席内容だったし… https://t.co/Xd8tVLU1kL",
+    "userName": "shuuu__jack",
+    "tweetUrl": "https://twitter.com/shuuu__jack/status/2090726500731367449",
+    "createdAt": "August 21, 2026 at 06:03PM"
+  },
+  {
+    "text": "なんで谷端とかとったんや\n宮下取っとけや糞スカウトが",
+    "userName": "windmyhair",
+    "tweetUrl": "https://twitter.com/windmyhair/status/2090732625040474395",
+    "createdAt": "August 21, 2026 at 06:27PM"
+  },
+  {
+    "text": "打撃重視で取った立石谷端が現状苦しんでるしわからんもんやな\n来年以降逆転しててもおかしくはないけど",
+    "userName": "AppleGumi_89",
+    "tweetUrl": "https://twitter.com/AppleGumi_89/status/2090733194954080367",
+    "createdAt": "August 21, 2026 at 06:30PM"
+  },
+  {
+    "text": "まあ阪神は2位で谷端獲ってる分、宮下には悔しいところはあるやろうなぁ。",
+    "userName": "yakyujinsan",
+    "tweetUrl": "https://twitter.com/yakyujinsan/status/2090733370951282994",
+    "createdAt": "August 21, 2026 at 06:30PM"
+  },
+  {
+    "text": "宮下に今季三本打たれてるんか\nしかも全部逆方向\n同じルーキーの\n立石谷端岡城も負けてほしくないが",
+    "userName": "hanshintomaru",
+    "tweetUrl": "https://twitter.com/hanshintomaru/status/2090733607317115064",
+    "createdAt": "August 21, 2026 at 06:31PM"
+  },
+  {
+    "text": "なんで谷端指名したかも聞きたい",
+    "userName": "Haru_4259",
+    "tweetUrl": "https://twitter.com/Haru_4259/status/2090734603770450421",
+    "createdAt": "August 21, 2026 at 06:35PM"
+  },
+  {
+    "text": "@hanshintigersjp 宮下が打つ度に\n岡城じゃなくて､\n宮下を指名🈯️するべきだったんじゃない⁈\nって思ってしまうのよなぁ…\nショートでも良いしセンターも守れるやろうし\n\n岡城も谷端も良い選手やけど\n未だファームですら\nホームランが無い\n現代ベースボールで長打が無いのはキツいな\n\nルーカスは右打者への対応やな",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://twitter.com/40Vtrd/status/2090737047850090662",
+    "createdAt": "August 21, 2026 at 06:45PM"
+  },
+  {
+    "text": "谷端、見た目だけは鳥谷の雰囲気あるんだがな…\n\n#阪神タイガース https://t.co/P8g1dI9dop",
+    "userName": "bGSVBNUbFN35413",
+    "tweetUrl": "https://twitter.com/bGSVBNUbFN35413/status/2090737331762552974",
+    "createdAt": "August 21, 2026 at 06:46PM"
+  },
+  {
+    "text": "今日は神宮選手がベンチ外なんですね\n連投だったから？もあるのでしょうか？\n谷端選手もベンチ外ですがそもそも帯同してるんでしょうか？\n\n#阪神タイガース\n#hanshin\n#tigers",
+    "userName": "donchandesuyo1",
+    "tweetUrl": "https://twitter.com/donchandesuyo1/status/2090739978393338013",
+    "createdAt": "August 21, 2026 at 06:57PM"
+  },
+  {
+    "text": "大卒ルーキー現状、タイガースの立石（創価）、岡城（筑波大）、谷端（日大）よりベイスターズの宮下（東洋大）の方が活躍してるね。",
+    "userName": "derorinmanz",
+    "tweetUrl": "https://twitter.com/derorinmanz/status/2090745389800677783",
+    "createdAt": "August 21, 2026 at 07:18PM"
+  },
+  {
+    "text": "立石谷端岡城と\n大卒の上位指名はもう少しやれると思ってたな。\n今までの大卒1位が輝や森下なのもあるが",
+    "userName": "wintersun_curry",
+    "tweetUrl": "https://twitter.com/wintersun_curry/status/2090746394432962575",
+    "createdAt": "August 21, 2026 at 07:22PM"
+  },
+  {
+    "text": "宮下って、ドラフト3位なの？\n立石、谷端、岡城より全然活躍してるやん",
+    "userName": "Jr10442408",
+    "tweetUrl": "https://twitter.com/Jr10442408/status/2090747541197631614",
+    "createdAt": "August 21, 2026 at 07:27PM"
+  },
+  {
+    "text": "@Saba_Tigers 立石と岡城は打てる気がせんから今年はもういいよ。\n谷端は惜しいファールもあったしバントもちゃんと決めたし守備も意外と悪くなかったからもう少し打席を与えてもいい気がする。",
+    "userName": "wintersun_curry",
+    "tweetUrl": "https://twitter.com/wintersun_curry/status/2090749245578227846",
+    "createdAt": "August 21, 2026 at 07:33PM"
+  },
+  {
+    "text": "宮下目の前で見せられるの死ぬほど羨ましい\n取ろうと思えばとれただけにな\nうちは谷端やし…",
+    "userName": "bleeeeed6111",
+    "tweetUrl": "https://twitter.com/bleeeeed6111/status/2090751871019594152",
+    "createdAt": "August 21, 2026 at 07:44PM"
+  },
+  {
+    "text": "岡城もまだまだ三振多いね\n立石谷端岡城誰が1番活躍できるのかね",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2090751936249397655",
+    "createdAt": "August 21, 2026 at 07:44PM"
+  },
+  {
+    "text": "立石谷端のルーキーコンビが二軍で仲良くOPS.500台を記録してる間に同じくルーキーでしかも本職ショートの宮下は一軍で7本塁打か、泣けてくるな\n蛭間と森下の差を嘆いてる西武ファンの気持ちを理解できてきた",
+    "userName": "Poison_0307",
+    "tweetUrl": "https://twitter.com/Poison_0307/status/2090757605262291266",
+    "createdAt": "August 21, 2026 at 08:07PM"
+  },
+  {
+    "text": "打ったからヨシ、じゃないですからね\n谷端をバックアップに置いておくつもりなら中野下に落とせって話だし出しても問題ないってなら谷端落とせやとしかならんのよ",
+    "userName": "sgsbonjin",
+    "tweetUrl": "https://twitter.com/sgsbonjin/status/2090759145372995865",
+    "createdAt": "August 21, 2026 at 08:13PM"
+  },
+  {
+    "text": "谷端やっぱり過大評価か https://t.co/rLITgNE6wp",
+    "userName": "uddin_____",
+    "tweetUrl": "https://twitter.com/uddin_____/status/2090761607748198448",
+    "createdAt": "August 21, 2026 at 08:23PM"
+  },
+  {
+    "text": "@yakyujinsan 阪神へ来たら宮下も谷端らと同じになってるよ。打撃コーチ教え方悪いのか真芯で捉え方教えずバットに当てるだけしか教えてないから",
+    "userName": "77mekapi",
+    "tweetUrl": "https://twitter.com/77mekapi/status/2090762162730054000",
+    "createdAt": "August 21, 2026 at 08:25PM"
+  },
+  {
+    "text": "谷端将伍を応援しています。",
+    "userName": "1Tsu1ba0sa9",
+    "tweetUrl": "https://twitter.com/1Tsu1ba0sa9/status/2090763063796625556",
+    "createdAt": "August 21, 2026 at 08:28PM"
+  },
+  {
+    "text": "宮下はほんまに悔しいよ\n谷端セカンドやるにしても中野に慣れた珍カス達に耐えられるのか",
+    "userName": "tasche41102",
+    "tweetUrl": "https://twitter.com/tasche41102/status/2090765113808781688",
+    "createdAt": "August 21, 2026 at 08:37PM"
+  },
+  {
+    "text": "谷端君岡城君には申し訳ないけど宮下君ドラ2か3で取れたよなぁ・・・という思いが頭をよぎってしまう\n今年が上位指名出来そうなショート不作と聞いてるだけに尚更\nこんなワイをスマンカッタと言わせるくらい谷端君と岡城君は活躍して欲しい\nあと宮下君は阪神戦以外で打ってくれｗ https://t.co/u55zECxFJK",
+    "userName": "Torad_2012",
+    "tweetUrl": "https://twitter.com/Torad_2012/status/2090785687675261185",
+    "createdAt": "August 21, 2026 at 09:58PM"
+  },
+  {
+    "text": "高寺をセカンドで使うなら6番セカンドで\n2番レフト福島でもええよな。\nもしくは2番セカンドは谷端でバントも出来るし\n前川と高寺でレフト争い",
+    "userName": "may525t",
+    "tweetUrl": "https://twitter.com/may525t/status/2090797345780994307",
+    "createdAt": "August 21, 2026 at 10:45PM"
+  },
+  {
+    "text": "@vwVoxDiXSWVRBCd この選手のおかげでこの数年ドラフトで指名する内野手が高校生ばかりになりチームとして大きく戦力を落とす事に繋がった\n２軍の野手は見るも無惨な焼け野原\n昨年は立石と谷端の大卒を指名したけど、まだまだ力不足でそもそもショートは埋まらない\n１選手のおかげで数年が無駄になった事は間違いない",
+    "userName": "L57ZBoRxkZ61699",
+    "tweetUrl": "https://twitter.com/L57ZBoRxkZ61699/status/2090810174231724043",
+    "createdAt": "August 21, 2026 at 11:36PM"
+  },
+  {
+    "text": "見据えながら強いチームを作り出してる感じがしてきて藤川監督が藤川神監督に見えてきた\nそらちょいちょい文句言いたくなることもあるけどそんなのどこの球団もあるだろうし\nあとは立石、岡城、谷端を育て上げて佐藤近本大山の後釜をしっかり育て上げて欲しい https://t.co/JHBGKoMjHu",
+    "userName": "55Ge6ba0",
+    "tweetUrl": "https://twitter.com/55Ge6ba0/status/2090819864458088898",
+    "createdAt": "August 22, 2026 at 12:14AM"
+  },
+  {
+    "text": "谷端奏人すぎる https://t.co/MrRvdDtR8h",
+    "userName": "amagumosab",
+    "tweetUrl": "https://twitter.com/amagumosab/status/2090839719882236275",
+    "createdAt": "August 22, 2026 at 01:33AM"
+  },
+  {
+    "text": "谷端もっかいスタメンでみたいな",
+    "userName": "DHxBi5WKS89HzuC",
+    "tweetUrl": "https://twitter.com/DHxBi5WKS89HzuC/status/2090843887250329769",
+    "createdAt": "August 22, 2026 at 01:50AM"
+  },
+  {
+    "text": "谷端のルーキー直筆19枚限定出てるな\n\nEPOCH 2026 谷端 ルーキー直筆サインカード 19枚限定\nhttps://t.co/wlUdZKmw2g",
+    "userName": "YakiToraObs",
+    "tweetUrl": "https://twitter.com/YakiToraObs/status/2090857578053919097",
+    "createdAt": "August 22, 2026 at 02:44AM"
   }
 ]
