@@ -15700,5 +15700,689 @@
     "userName": "YakiToraObs",
     "tweetUrl": "https://twitter.com/YakiToraObs/status/2090857578053919097",
     "createdAt": "August 22, 2026 at 02:44AM"
+  },
+  {
+    "text": "将司投げてる日に右京使わないで谷端岡城っていうルーキー並べて1点ももぎとれなかったの悔やまれる。右京だったら転がすか犠牲フライ打ってくれたよ。藤川本当さ〜😔 https://t.co/hA9ec3MLJa",
+    "userName": "082dai8",
+    "tweetUrl": "https://twitter.com/082dai8/status/2090915654811729964",
+    "createdAt": "August 22, 2026 at 06:35AM"
+  },
+  {
+    "text": "@A_love_Mk50 阪神の1、2軍行ったり来たりしてる選手使えないよね。谷端、岡城、嶋村など…\n現役時強打者じゃ無かった人が打撃コーチしても強く打てないと思う。",
+    "userName": "77mekapi",
+    "tweetUrl": "https://twitter.com/77mekapi/status/2090944374121316499",
+    "createdAt": "August 22, 2026 at 08:29AM"
+  },
+  {
+    "text": "8/22（土）\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→30℃\n水温→30℃\n\n谷端プールの外気温と水温📷\n天候→くもり\n外気温→30℃\n水温31℃\n\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2090952516624425405",
+    "createdAt": "August 22, 2026 at 09:01AM"
+  },
+  {
+    "text": "@_McQeen_ おはようございます\n自分の中では今年の推しは今朝丸と谷端\n頼むで今朝丸⚾\n今は先発枠開いてるからチャンス到来ですね",
+    "userName": "skyrising01",
+    "tweetUrl": "https://twitter.com/skyrising01/status/2090954820702409191",
+    "createdAt": "August 22, 2026 at 09:10AM"
+  },
+  {
+    "text": "好調な右京が6番に定着したら相手は息もつかれへん打線になるわ。\n6番問題の高卒生え抜き野手である右京による解決、それが何年も僕らが待ち望んでおったことやったが、この状況でこうなるんはほんまに心強いわ。\n立石や谷端を育てる余裕もできた。\n黄金時代やなぁ。 https://t.co/T1BHD9WgIq",
+    "userName": "akidongbeihu",
+    "tweetUrl": "https://twitter.com/akidongbeihu/status/2090969913330741652",
+    "createdAt": "August 22, 2026 at 10:10AM"
+  },
+  {
+    "text": "横浜スタジアムとかいう前方の席でも写真がまじで撮れない球場。私はこの一瞬しか谷端さんを見ることができませんでした。今日は試合出てくれ😭\n\n2026.8.21 ハマスタ\n#谷端将伍 選手\n#阪神タイガース\n※ご本人以外の無断転載・無断使用禁止 https://t.co/1ZDPdaMpWx",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://twitter.com/Hamakyo_Ori_Ars/status/2090993156649333132",
+    "createdAt": "August 22, 2026 at 11:43AM"
+  },
+  {
+    "text": "【交換】阪神 阪神タイガース オンサイトカード 2026 第1弾 SR\n\n譲）25 谷端　46 ラグズデール　56 百﨑　98 ドリス\n\n求）19 下村\n\n⭐︎郵送または現地手渡し\n求は買収もします。\nご不快でなければ2:1での交換⚪︎\n\nオンラインで購入、発送依頼済みです。\nお気軽にお声がけください🙇🏼‍♂️ https://t.co/SClPBSlS0x",
+    "userName": "satsumaimosuke_",
+    "tweetUrl": "https://twitter.com/satsumaimosuke_/status/2091005235640873357",
+    "createdAt": "August 22, 2026 at 12:31PM"
+  },
+  {
+    "text": "【交換】阪神 阪神タイガース オンサイトカード 2026 第1弾 SR\n\n譲）25 谷端　46 ラグズデール　56 百﨑　98 ドリス\n\n求）19 下村\n\n⭐︎郵送または現地手渡し\n求は買収もします。\nご不快でなければ2:1の交換⚪︎\n\nオンラインで購入、発送依頼済みです。\nお気軽にお声がけください🙇🏼‍♂️ https://t.co/mg1fs16NI4",
+    "userName": "satsumaimosuke_",
+    "tweetUrl": "https://twitter.com/satsumaimosuke_/status/2091014264060616836",
+    "createdAt": "August 22, 2026 at 01:07PM"
+  },
+  {
+    "text": "阪神タイガース　シークレット\nTORACO ミニタオル\nウル虎の夏 缶バッジ\n\n〈譲〉\nミニタオル　立石選手\n缶バッジ　谷端選手　山田選手\n\n〈求〉買取＞異種 今朝丸、町田グッズ\n\n8/22SGLでのお渡し優先(以後は甲子園や梅田も可)\n検索からでもお声掛けよろしくお願いします🙇 https://t.co/QlLwV91CzO",
+    "userName": "toxic_tig_5",
+    "tweetUrl": "https://twitter.com/toxic_tig_5/status/2091026354074780113",
+    "createdAt": "August 22, 2026 at 01:55PM"
+  },
+  {
+    "text": "今日はオーダーで遊ぶならば\n1番センター近本\n2番セカンド谷端\n3番ライト森下\n4番サード佐藤輝明\n5番ファースト大山\n6番レフト前川\n7番キャッチャー嶋村\n8番ショート木浪\n9番ピッチャー今朝丸\n\nとかやってもいい",
+    "userName": "may525t",
+    "tweetUrl": "https://twitter.com/may525t/status/2091029926610968942",
+    "createdAt": "August 22, 2026 at 02:09PM"
+  },
+  {
+    "text": "@uv1gZubyvZlqTHE まぁもうちょい下がると思いますよ！\n谷端岡城能登はお手頃、伏見もBBMよりは安く…\n工藤がなんなら1番大変かもしれません💦\n\n大谷に釣られたポケカ界隈の流れ者が、高卒！大型野手！って騒ぐからこうなるんです…",
+    "userName": "Charlie_0t0p",
+    "tweetUrl": "https://twitter.com/Charlie_0t0p/status/2091031442923082044",
+    "createdAt": "August 22, 2026 at 02:15PM"
+  },
+  {
+    "text": "「阪神の2軍が弱い」って言われてるけど\n規定の半分以上出てる選手が\n投手だと\n能登、今朝丸、ラグズデール、茨木、富田、マルティネス\n野手だと\n谷端、ディベイニー、岡城、山田、佐野、島田、小野寺、百崎、西純矢、井坪、榮枝\n\n年齢でいうと大学生\nプロ入り3年未満\nがほとんどなんだから強い訳ない",
+    "userName": "Dai230914",
+    "tweetUrl": "https://twitter.com/Dai230914/status/2091035185446097230",
+    "createdAt": "August 22, 2026 at 02:30PM"
+  },
+  {
+    "text": "@WCPXoks5v645532 いや、期待しているからこそなんですよ。\n\n私は特に立石には無茶苦茶期待しています。\nそれこそ森下と同じくらいに。\nそれと谷端もこの前のスタメン時の打席を観ましたが、内容がありましたよね。あれを観て印象はかなり変わりました。",
+    "userName": "f64V5vV45P57465",
+    "tweetUrl": "https://twitter.com/f64V5vV45P57465/status/2091055131114750003",
+    "createdAt": "August 22, 2026 at 03:49PM"
+  },
+  {
+    "text": "本日の公示\nＤｅＮＡ\n昇格 竹田祐\n降格 なし\n登録人数30名→31名\n阪神\n昇格 今朝丸裕喜\n降格 谷端将伍\n登録人数31名→31名\n#BAYSTARS #BAYSTARSに関する何か #hanshin",
+    "userName": "yokostardream",
+    "tweetUrl": "https://twitter.com/yokostardream/status/2091059072544153620",
+    "createdAt": "August 22, 2026 at 04:05PM"
+  },
+  {
+    "text": "【公示】2026年8月22日\n\n■出場選手登録\n投手 28 今朝丸裕喜\n\n■出場選手登録抹消\n内野手 25 谷端将伍\n\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://twitter.com/hanshintigersjp/status/2091059296603959664",
+    "createdAt": "August 22, 2026 at 04:06PM"
+  },
+  {
+    "text": "0よりはもう1打席見たかったけどな谷端。 https://t.co/Hc8W4on59O",
+    "userName": "centralyakyu",
+    "tweetUrl": "https://twitter.com/centralyakyu/status/2091059522165260372",
+    "createdAt": "August 22, 2026 at 04:06PM"
+  },
+  {
+    "text": "谷端くん抹消か😅\n\n今朝丸くん今日は頑張るやで👊 https://t.co/BnKQLIsgPX",
+    "userName": "torakko_tiger",
+    "tweetUrl": "https://twitter.com/torakko_tiger/status/2091059602519691497",
+    "createdAt": "August 22, 2026 at 04:07PM"
+  },
+  {
+    "text": "昨日　岡城\n今日　谷端\n\nやっぱりというかなんというか\n\nというか\n木浪も落として山田あげろ",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://twitter.com/KUNY_XXX_52/status/2091059713417138685",
+    "createdAt": "August 22, 2026 at 04:07PM"
+  },
+  {
+    "text": "谷端、意外と短かったな…… https://t.co/rGPx7s257s",
+    "userName": "mekoneko__dayo",
+    "tweetUrl": "https://twitter.com/mekoneko__dayo/status/2091059777111797908",
+    "createdAt": "August 22, 2026 at 04:07PM"
+  },
+  {
+    "text": "谷端くん1軍で見れて嬉しかった⭐ https://t.co/H8LDKvuzC8",
+    "userName": "saikouno_smiel",
+    "tweetUrl": "https://twitter.com/saikouno_smiel/status/2091060246185988418",
+    "createdAt": "August 22, 2026 at 04:09PM"
+  },
+  {
+    "text": "今日の公示\n\n今朝丸（今日の先発）　\n\nを登録\n\n谷端\n\nを抹消\n\n#阪神\n#タイガース\n#今朝丸\n#谷端",
+    "userName": "OJl9lz1Mzj2Cs4y",
+    "tweetUrl": "https://twitter.com/OJl9lz1Mzj2Cs4y/status/2091060433704890639",
+    "createdAt": "August 22, 2026 at 04:10PM"
+  },
+  {
+    "text": "谷端と岡城、何のために上げたのかわからんｗ",
+    "userName": "seijunhayaruo",
+    "tweetUrl": "https://twitter.com/seijunhayaruo/status/2091060476356813092",
+    "createdAt": "August 22, 2026 at 04:10PM"
+  },
+  {
+    "text": "@hanshintigersjp 岡城も谷端も１試合だけで使って抹消ですか\n\nそれよりも守備につけない中野を落として治療に専念させれば良くないか？",
+    "userName": "wakatora27",
+    "tweetUrl": "https://twitter.com/wakatora27/status/2091060902485479581",
+    "createdAt": "August 22, 2026 at 04:12PM"
+  },
+  {
+    "text": "谷端抹消はや笑",
+    "userName": "kuropi0118",
+    "tweetUrl": "https://twitter.com/kuropi0118/status/2091061527931727961",
+    "createdAt": "August 22, 2026 at 04:14PM"
+  },
+  {
+    "text": "谷端、この前は一軍初バント成功おめでとう\nお疲れ様",
+    "userName": "Rui_wrch_tigers",
+    "tweetUrl": "https://twitter.com/Rui_wrch_tigers/status/2091061666788381061",
+    "createdAt": "August 22, 2026 at 04:15PM"
+  },
+  {
+    "text": "谷端落とされたか。\nまあ試合に出してもらえただけでも",
+    "userName": "akatsukayama",
+    "tweetUrl": "https://twitter.com/akatsukayama/status/2091061695859110360",
+    "createdAt": "August 22, 2026 at 04:15PM"
+  },
+  {
+    "text": "谷端の一軍見学も終わりかー\n#阪神タイガース",
+    "userName": "bb_torajapan",
+    "tweetUrl": "https://twitter.com/bb_torajapan/status/2091061885504475211",
+    "createdAt": "August 22, 2026 at 04:16PM"
+  },
+  {
+    "text": "谷端抹消の今朝丸なのか🤔",
+    "userName": "sakaki220",
+    "tweetUrl": "https://twitter.com/sakaki220/status/2091062009882398918",
+    "createdAt": "August 22, 2026 at 04:16PM"
+  },
+  {
+    "text": "谷端抹消かぁ(´･_･`)",
+    "userName": "nipodeli_",
+    "tweetUrl": "https://twitter.com/nipodeli_/status/2091062179172946169",
+    "createdAt": "August 22, 2026 at 04:17PM"
+  },
+  {
+    "text": "谷端落ちちゃったか…打つ方も守る方も悪くはなかったしもう一度ぐらいスタメン見たかったんだけど。逆に言えば中野の状態はまたスタメンで出せるまでに戻ったって感じなのかな？",
+    "userName": "Mayo_0123942968",
+    "tweetUrl": "https://twitter.com/Mayo_0123942968/status/2091062204154151401",
+    "createdAt": "August 22, 2026 at 04:17PM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が出場登録抹消…プロ初昇格の１９日・ヤクルト戦で先発出場も２打数無安打　今朝丸裕喜を登録 - スポーツ報知 https://t.co/7Fzq96l0EI",
+    "userName": "yuta_nakano7",
+    "tweetUrl": "https://twitter.com/yuta_nakano7/status/2091062309829661142",
+    "createdAt": "August 22, 2026 at 04:17PM"
+  },
+  {
+    "text": "【阪神】ドラフト２位・谷端将伍が出場登録抹消…プロ初昇格の１９日・ヤクルト戦で先発出場も２打数無安打　今朝丸裕喜を登録 \n\n▼記事を読む▼\nhttps://t.co/RUnhcUPdi8",
+    "userName": "hochi_yakyu",
+    "tweetUrl": "https://twitter.com/hochi_yakyu/status/2091062957291532523",
+    "createdAt": "August 22, 2026 at 04:20PM"
+  },
+  {
+    "text": "2026年8月22日\n阪神タイガース公示\n\n■出場選手登録\n投手 28  今朝丸裕喜\n\n■出場選手登録抹消\n内野手 25  谷端将伍\n\n#阪神タイガース #熱覇",
+    "userName": "harunakazuyuki",
+    "tweetUrl": "https://twitter.com/harunakazuyuki/status/2091062965000937851",
+    "createdAt": "August 22, 2026 at 04:20PM"
+  },
+  {
+    "text": "今朝丸くんが登録も…まーた谷端くんを1試合出して抹消って他に落とすやつおるやろって🫩 https://t.co/39JGHtlxph",
+    "userName": "redstar53ARENPA",
+    "tweetUrl": "https://twitter.com/redstar53ARENPA/status/2091063109368840247",
+    "createdAt": "August 22, 2026 at 04:21PM"
+  },
+  {
+    "text": "これまた谷端くんは、１回しか出てないのにね。\n枠があるなら帯同だけでもええやんか。この扱い、変やわ。",
+    "userName": "kodetonjp",
+    "tweetUrl": "https://twitter.com/kodetonjp/status/2091063166528798964",
+    "createdAt": "August 22, 2026 at 04:21PM"
+  },
+  {
+    "text": "谷端将伍も抹消やて。\nルーキー2人を何であげたの？ｗ",
+    "userName": "TothinksWeb",
+    "tweetUrl": "https://twitter.com/TothinksWeb/status/2091063537317867610",
+    "createdAt": "August 22, 2026 at 04:22PM"
+  },
+  {
+    "text": "出場選手登録抹消\n阪神タイガース内野手25谷端　将伍\n読売ジャイアンツ内野手0増田　大輝\n読売ジャイアンツ外野手13Ｔ．キャベッジ\n東京ヤクルトスワローズ投手34田口　麗斗\n\n※9月1日以後でなければ出場選手の再登録はできません。",
+    "userName": "baronkojiropapa",
+    "tweetUrl": "https://twitter.com/baronkojiropapa/status/2091063652917088458",
+    "createdAt": "August 22, 2026 at 04:23PM"
+  },
+  {
+    "text": "8月22日(土)出場選手登録　水谷(日本ハム)　竹田(DeNA)　今朝丸(阪神)　選手登録抹消　五十幡(日本ハム)　谷端(阪神)",
+    "userName": "takashinkigeki2",
+    "tweetUrl": "https://twitter.com/takashinkigeki2/status/2091063685674598733",
+    "createdAt": "August 22, 2026 at 04:23PM"
+  },
+  {
+    "text": "谷端抹消か\n仕方ないとは言え、中野は大丈夫なの？",
+    "userName": "capkirk121212",
+    "tweetUrl": "https://twitter.com/capkirk121212/status/2091063736866115808",
+    "createdAt": "August 22, 2026 at 04:23PM"
+  },
+  {
+    "text": "【悲報】ドラ2位の谷端将伍、プロ初出場から3日後に登録抹消\n\n・打席内容は併殺打、バント、三ゴロ\n・たった1試合の出場\n・阪神はここ1週間で能登、岡城、谷端がわずか3日以内で登録抹消に",
+    "userName": "tigerschannel72",
+    "tweetUrl": "https://twitter.com/tigerschannel72/status/2091064030245122136",
+    "createdAt": "August 22, 2026 at 04:24PM"
+  },
+  {
+    "text": "谷端、また一軍で会おう。 https://t.co/ruMOUn3p9o",
+    "userName": "Madobe_zoku",
+    "tweetUrl": "https://twitter.com/Madobe_zoku/status/2091064176512995391",
+    "createdAt": "August 22, 2026 at 04:25PM"
+  },
+  {
+    "text": "谷端はここでお役御免か。\n二軍成績が全然な中、一年目で一軍経験できたのは良かったけど、まだまだ物足りなさすぎるから頑張って欲しいところ。",
+    "userName": "hasiruyoueda",
+    "tweetUrl": "https://twitter.com/hasiruyoueda/status/2091064488858706013",
+    "createdAt": "August 22, 2026 at 04:26PM"
+  },
+  {
+    "text": "谷端帰っちゃった…",
+    "userName": "yakisoba53",
+    "tweetUrl": "https://twitter.com/yakisoba53/status/2091064717930566035",
+    "createdAt": "August 22, 2026 at 04:27PM"
+  },
+  {
+    "text": "@hanshintigersjp 谷端気の毒やけど、今朝丸先発だと中継ぎ足らんからな……仕方ないな……",
+    "userName": "masudan",
+    "tweetUrl": "https://twitter.com/masudan/status/2091064727661334768",
+    "createdAt": "August 22, 2026 at 04:27PM"
+  },
+  {
+    "text": "@wakatora27 @hanshintigersjp 代打陣がしょぼいんでしゃーない。\nオールスター前なら落としてたかもね。\n谷端はもうちょい見たいねんけど…",
+    "userName": "htsnks28",
+    "tweetUrl": "https://twitter.com/htsnks28/status/2091064790970241381",
+    "createdAt": "August 22, 2026 at 04:27PM"
+  },
+  {
+    "text": "岡城はまだ一軍のレベルではないけど谷端くん内容良かったけどな…💦 https://t.co/kbmuJh3cjs",
+    "userName": "misa___sq",
+    "tweetUrl": "https://twitter.com/misa___sq/status/2091064930518913292",
+    "createdAt": "August 22, 2026 at 04:28PM"
+  },
+  {
+    "text": "谷端より落とすやつおると思うんやけどな。0とか。二軍で覚醒して戻ってこい https://t.co/42IjSXTF1b",
+    "userName": "ofq0yi",
+    "tweetUrl": "https://twitter.com/ofq0yi/status/2091065619978535167",
+    "createdAt": "August 22, 2026 at 04:31PM"
+  },
+  {
+    "text": "何故谷端選手を抹消？\nスタメンで見たかったなぁ…\nなんでルーカス投手を残す？\nルーカス投手を抹消してまた先発する時に昇格したら良いやん https://t.co/3lNO9geANC",
+    "userName": "HANSHIN_FAN_ARE",
+    "tweetUrl": "https://twitter.com/HANSHIN_FAN_ARE/status/2091066000842395684",
+    "createdAt": "August 22, 2026 at 04:32PM"
+  },
+  {
+    "text": "【阪神】今朝丸裕喜を登録　22日DeNA戦先発　ドラ2ルーキー谷端将伍を登録抹消　19日ヤクルト戦でスタメン出場もプロ初安打生まれず(日テレNEWS NNN)\n#Yahooニュース https://t.co/A7HqeGbAH9",
+    "userName": "naranotorao",
+    "tweetUrl": "https://twitter.com/naranotorao/status/2091066058694406544",
+    "createdAt": "August 22, 2026 at 04:32PM"
+  },
+  {
+    "text": "谷端一軍体験ツアー終了 https://t.co/ZBuz8D1Xm0",
+    "userName": "binsira",
+    "tweetUrl": "https://twitter.com/binsira/status/2091066323363090793",
+    "createdAt": "August 22, 2026 at 04:33PM"
+  },
+  {
+    "text": "お試しっちゅうか、谷端は経験を積ませる為の昇格やったんやね。\nルーキー年から活躍して一軍定着する選手っちゅうんは、やっぱり特別なんやな。 https://t.co/s8NmNrEP7Z",
+    "userName": "akidongbeihu",
+    "tweetUrl": "https://twitter.com/akidongbeihu/status/2091066411544436861",
+    "createdAt": "August 22, 2026 at 04:34PM"
+  },
+  {
+    "text": "谷端抹消早くね笑？",
+    "userName": "tigerslotte",
+    "tweetUrl": "https://twitter.com/tigerslotte/status/2091066534156206305",
+    "createdAt": "August 22, 2026 at 04:34PM"
+  },
+  {
+    "text": "谷端は抹消にはなったけど\nチームに帯同はしてるんやね",
+    "userName": "tigers_emon",
+    "tweetUrl": "https://twitter.com/tigers_emon/status/2091067091348750670",
+    "createdAt": "August 22, 2026 at 04:36PM"
+  },
+  {
+    "text": "谷端また上がってきてね",
+    "userName": "2pnrla",
+    "tweetUrl": "https://twitter.com/2pnrla/status/2091067304130076754",
+    "createdAt": "August 22, 2026 at 04:37PM"
+  },
+  {
+    "text": "谷端くん抹消？\n伊原くんが不測の事態で抹消されてるから今朝丸くんは抹消なしで上がるかしらと思ってたわ。\n谷端くんここ二試合ベンチ入ってなかったし。",
+    "userName": "sio_seseri",
+    "tweetUrl": "https://twitter.com/sio_seseri/status/2091067668057272331",
+    "createdAt": "August 22, 2026 at 04:39PM"
+  },
+  {
+    "text": "谷端じゃなく代打でも代走でも守備固めでも使えない0落としたら？\nまあファームにいられても邪魔だが",
+    "userName": "toratamakinkin",
+    "tweetUrl": "https://twitter.com/toratamakinkin/status/2091067737007345782",
+    "createdAt": "August 22, 2026 at 04:39PM"
+  },
+  {
+    "text": "谷端2軍でベンチの右打者\n伏見、熊谷、植田（両打ち）ガルシアしかいないんですけど…\n\n左、木浪、福島、嶋村、\n（髙寺、前川、元山、中野）←スタメン、ベンチ両方にらみ\n\n熊谷、植田は代打無理として伏見、ガルシアでどうするんすか\n伏見・嶋村出したら片方使えなくなるし、\n\n #阪神タイガース",
+    "userName": "ginshuka173",
+    "tweetUrl": "https://twitter.com/ginshuka173/status/2091067793370390748",
+    "createdAt": "August 22, 2026 at 04:39PM"
+  },
+  {
+    "text": "谷端くんを抹消するということは、むーさんのコンディションは上向きだと思って良いのかい？",
+    "userName": "sio_seseri",
+    "tweetUrl": "https://twitter.com/sio_seseri/status/2091067923985322061",
+    "createdAt": "August 22, 2026 at 04:40PM"
+  },
+  {
+    "text": "🐯今日先発の今朝丸が登録されて､谷端が登録を外れました‼️⚾️ https://t.co/Gcx7FNxuEV",
+    "userName": "masatora4345",
+    "tweetUrl": "https://twitter.com/masatora4345/status/2091068375296622599",
+    "createdAt": "August 22, 2026 at 04:42PM"
+  },
+  {
+    "text": "17時45分から阪神横浜同時視聴してます\n今朝丸がんば💛\n本日公示 \n 登録 投手 28 今朝丸裕喜  /抹消 内野手 25 谷端将伍\n\n【阪神横浜DeNA🔴LIVE】8/22(土)阪神タイガースVS横浜DeNAベイスターズ のプロ野球同時視聴ライブ【プロ野... https://t.co/r9elWdb0Te @YouTubeより",
+    "userName": "ticosmile",
+    "tweetUrl": "https://twitter.com/ticosmile/status/2091068690464915948",
+    "createdAt": "August 22, 2026 at 04:43PM"
+  },
+  {
+    "text": "谷端も抹消したか\nまあ対山野 ワンチャン高橋までの想定やったんかもね",
+    "userName": "topo_473",
+    "tweetUrl": "https://twitter.com/topo_473/status/2091068852826436079",
+    "createdAt": "August 22, 2026 at 04:43PM"
+  },
+  {
+    "text": "@wakatora27 @hanshintigersjp 昨夜も中野ツーベース打ってる。\n谷端は何故上げた？と思える程一軍レベルじゃない。",
+    "userName": "77mekapi",
+    "tweetUrl": "https://twitter.com/77mekapi/status/2091070292840112521",
+    "createdAt": "August 22, 2026 at 04:49PM"
+  },
+  {
+    "text": "柵越え何発もしてるの誰やと思ったら谷端だった",
+    "userName": "MikeMococha",
+    "tweetUrl": "https://twitter.com/MikeMococha/status/2091070803026833571",
+    "createdAt": "August 22, 2026 at 04:51PM"
+  },
+  {
+    "text": "谷端くん抹消かー\n惜しい当たり、ナイスバントでいいアピールはしたと思う",
+    "userName": "sunsunsun_th",
+    "tweetUrl": "https://twitter.com/sunsunsun_th/status/2091071615740379576",
+    "createdAt": "August 22, 2026 at 04:54PM"
+  },
+  {
+    "text": "谷端をフルネームでみるたびに五人兄弟なんかなあって想う",
+    "userName": "maronu",
+    "tweetUrl": "https://twitter.com/maronu/status/2091072682486038913",
+    "createdAt": "August 22, 2026 at 04:59PM"
+  },
+  {
+    "text": "谷端は他の2人より打席が少ないからもう少し見たかった。\nけど、立石、谷端、岡城、シーズンオフはウインターリーグ派遣だね。\n\n#阪神タイガースファンと繋がりたい\n\n【阪神】ドラフト２位・谷端将伍が出場登録抹消…プロ初昇格のも２打数無安打(スポーツ報知\n#Yahooニュース\nhttps://t.co/5ncgqSOHSt",
+    "userName": "jun_sky_walkers",
+    "tweetUrl": "https://twitter.com/jun_sky_walkers/status/2091072809724473560",
+    "createdAt": "August 22, 2026 at 04:59PM"
+  },
+  {
+    "text": "@hanshintigersjp 今朝丸くん　頑張れ！！　\n\n谷端くん　貴方の責じゃ無い\n監督が　遊んでるだけ\nモチベーション　保ッて\n\nいい加減にせいよ、藤川💢",
+    "userName": "1EBTL3UnILL83Q5",
+    "tweetUrl": "https://twitter.com/1EBTL3UnILL83Q5/status/2091073200772055307",
+    "createdAt": "August 22, 2026 at 05:01PM"
+  },
+  {
+    "text": "◇セ・リーグ公示（２２日）\n【出場選手登録】\n阪神・今朝丸裕喜投手\nDeNA・竹田祐投手\n巨人・増田陸内野手\n巨人・鈴木大和外野手\n広島・玉村昇悟投手\nヤクルト・山田哲人内野手\n【同抹消】\n阪神・谷端将伍内野手\n巨人・増田大輝内野手、Ｔ．キャベッジ外野手\nヤクルト・田口麗斗投手",
+    "userName": "SponichiYakyu",
+    "tweetUrl": "https://twitter.com/SponichiYakyu/status/2091073708970664183",
+    "createdAt": "August 22, 2026 at 05:03PM"
+  },
+  {
+    "text": "谷端くん抹消か🥲",
+    "userName": "mimimiiiK39an",
+    "tweetUrl": "https://twitter.com/mimimiiiK39an/status/2091074054287770055",
+    "createdAt": "August 22, 2026 at 05:04PM"
+  },
+  {
+    "text": "【セパ公示】（２２日）阪神が今朝丸裕喜を登録、谷端将伍を抹消　日本ハムは水谷瞬を登録、五十幡亮汰を抹消 \n\n▼記事を読む▼\nhttps://t.co/AHMEowQUwS",
+    "userName": "hochi_yakyu",
+    "tweetUrl": "https://twitter.com/hochi_yakyu/status/2091074307111653596",
+    "createdAt": "August 22, 2026 at 05:05PM"
+  },
+  {
+    "text": "【セパ公示】（２２日）阪神が今朝丸裕喜を登録、谷端将伍を抹消　日本ハムは水谷瞬を登録、五十幡亮汰を抹消 \n\n▼記事はこちら▼\nhttps://t.co/aDvZ48LNAq",
+    "userName": "hochi_npb",
+    "tweetUrl": "https://twitter.com/hochi_npb/status/2091074534392627259",
+    "createdAt": "August 22, 2026 at 05:06PM"
+  },
+  {
+    "text": "@yuta_nakano7 来シーズン以降大学生トリオ立石、谷端、岡城選手には期待ですね！😉",
+    "userName": "TFbox0527",
+    "tweetUrl": "https://twitter.com/TFbox0527/status/2091074919497134332",
+    "createdAt": "August 22, 2026 at 05:08PM"
+  },
+  {
+    "text": "谷端は一軍体験ツアーと表現したくない。\n本物の一軍体験ツアーはベンチから覗くだけあだし https://t.co/KgmJrT30F6",
+    "userName": "Vitamin_Tigers",
+    "tweetUrl": "https://twitter.com/Vitamin_Tigers/status/2091074979421159794",
+    "createdAt": "August 22, 2026 at 05:08PM"
+  },
+  {
+    "text": "谷端くん抹消かい…",
+    "userName": "mochi2winwin",
+    "tweetUrl": "https://twitter.com/mochi2winwin/status/2091075059305812108",
+    "createdAt": "August 22, 2026 at 05:08PM"
+  },
+  {
+    "text": "8/22　NPB公示\nあらら、谷端が落ちたのか。\nじゃあ　ルーカスはそのまま一軍か。 https://t.co/6Jh56KrGpm",
+    "userName": "gmmnyam0319",
+    "tweetUrl": "https://twitter.com/gmmnyam0319/status/2091076742073172410",
+    "createdAt": "August 22, 2026 at 05:15PM"
+  },
+  {
+    "text": "@Ultora_Daichi ＠keiba_misyouri ＠mikawanouma \n本日の🐯の一軍登録＆抹消\n登録:今朝丸\n抹消:谷端\n谷端と岡城は何の為に一軍登録されたのか？！",
+    "userName": "Torakichi_1001",
+    "tweetUrl": "https://twitter.com/Torakichi_1001/status/2091077006775681367",
+    "createdAt": "August 22, 2026 at 05:16PM"
+  },
+  {
+    "text": "谷端が下に行くのに文句言ってる人は誰を下げたら満足なんだろ？あげる人の枠が必要＆今朝丸だからリリーフ厚めに欲しいとかちょっと考えたら分かるけど",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2091078578557640748",
+    "createdAt": "August 22, 2026 at 05:22PM"
+  },
+  {
+    "text": "@hanshintigersjp ファーム西地区は極端に投高打低なんですね😨\n阪神で一番打っていたのが谷端選手🫢なるほどそれで一軍に😯 https://t.co/Us21IAQ0ra",
+    "userName": "TFbox0527",
+    "tweetUrl": "https://twitter.com/TFbox0527/status/2091078896909426991",
+    "createdAt": "August 22, 2026 at 05:23PM"
+  },
+  {
+    "text": "高寺頑張れ　高寺が塁に出れればもっと得点出来るんだ\n最近12打席くらいノーヒットが続いてるけどまだ2番で使ってもらえる、谷端より優先して貰えてるだけ期待されてるんだから頑張ってくれ",
+    "userName": "nayu31564",
+    "tweetUrl": "https://twitter.com/nayu31564/status/2091078990551556145",
+    "createdAt": "August 22, 2026 at 05:24PM"
+  },
+  {
+    "text": "阪神タイガース ビジョンアクリルキーホルダーC\n\n(譲)立石×2･谷端\n\n(求)門別･早瀬または定価\n\n本日SGL居てます。検索からもお気軽にお声掛け下さい。",
+    "userName": "babusan222",
+    "tweetUrl": "https://twitter.com/babusan222/status/2091080330409353556",
+    "createdAt": "August 22, 2026 at 05:29PM"
+  },
+  {
+    "text": "代打伏見やるぐらい右の野手終わってるんやから谷端残して木浪抹消でも良いと思ったんやけど",
+    "userName": "Tigers_area7",
+    "tweetUrl": "https://twitter.com/Tigers_area7/status/2091081264266875211",
+    "createdAt": "August 22, 2026 at 05:33PM"
+  },
+  {
+    "text": "えっ、谷端もう二軍に落とすの!?\nもうちょっと見つかったなあ。\nまた一軍昇格してな！ https://t.co/yuy5mvQ8ZB",
+    "userName": "moonlight0819",
+    "tweetUrl": "https://twitter.com/moonlight0819/status/2091081757319917640",
+    "createdAt": "August 22, 2026 at 05:35PM"
+  },
+  {
+    "text": "谷端くん抹消したんか💦\n\n打てない助っ人\nまだ一軍置いとくの？\n\n打率1割切るまで\n使う気かしら…\n\nディベイニーあげたれよ\n#阪神タイガース",
+    "userName": "toraco3558",
+    "tweetUrl": "https://twitter.com/toraco3558/status/2091081858750861382",
+    "createdAt": "August 22, 2026 at 05:35PM"
+  },
+  {
+    "text": "え？谷端くんファーム？\nもう少し我慢しても良くないかねぇ\n首脳陣の皆さん🐯💦",
+    "userName": "109zy1",
+    "tweetUrl": "https://twitter.com/109zy1/status/2091082043874754801",
+    "createdAt": "August 22, 2026 at 05:36PM"
+  },
+  {
+    "text": "この金土日にルーカスと今朝丸裕喜が昇格するので、岡城快生と谷端将伍はそれまでの一軍試用とは思うてましたが😅\n\nイケてた所・イケてなんだ所、改めて見つめ直して、また戻って来れるよう🙏",
+    "userName": "dgdg19852003",
+    "tweetUrl": "https://twitter.com/dgdg19852003/status/2091083155721932895",
+    "createdAt": "August 22, 2026 at 05:40PM"
+  },
+  {
+    "text": "谷端はなんでベンチ入りしてないの?",
+    "userName": "tanihataaaa2525",
+    "tweetUrl": "https://twitter.com/tanihataaaa2525/status/2091083427500220633",
+    "createdAt": "August 22, 2026 at 05:41PM"
+  },
+  {
+    "text": "【日刊スポ】【阪神】「勝負心持っている」藤川監督が素質見たドラ２谷端将伍が抹消　今朝丸裕喜が１軍登録 https://t.co/6pR45Fpl3q #hanshin #tigers #阪神タイガース",
+    "userName": "horai551horai",
+    "tweetUrl": "https://twitter.com/horai551horai/status/2091083569053495384",
+    "createdAt": "August 22, 2026 at 05:42PM"
+  },
+  {
+    "text": "岡城が即降格は仕方ないけど谷端はもう1回見たかったな\nディベイニーはいつ声かかるのか\nガルシアこそ調整させたいのに",
+    "userName": "rakusite_2012",
+    "tweetUrl": "https://twitter.com/rakusite_2012/status/2091085826633691439",
+    "createdAt": "August 22, 2026 at 05:51PM"
+  },
+  {
+    "text": "@tigerschannel72 これはさすがに厳しい…。\n1試合だけで登録抹消とは、谷端には悔しい判断ですね。ここからの巻き返しに期待したいです。🔥",
+    "userName": "DawarMRL",
+    "tweetUrl": "https://twitter.com/DawarMRL/status/2091088678412292189",
+    "createdAt": "August 22, 2026 at 06:02PM"
+  },
+  {
+    "text": "これはさすがに厳しい…。\n1試合だけで登録抹消とは、谷端には悔しい判断ですね。ここからの巻き返しに期待したいです。🔥 https://t.co/iXFeEgpsoc",
+    "userName": "DawarMRL",
+    "tweetUrl": "https://twitter.com/DawarMRL/status/2091088736972861771",
+    "createdAt": "August 22, 2026 at 06:03PM"
+  },
+  {
+    "text": "まあ結果出せんのが悪いけど谷端も岡城もすぐ落とされんのもな\n木浪ぐらい粘らせたれ",
+    "userName": "AppleGumi_89",
+    "tweetUrl": "https://twitter.com/AppleGumi_89/status/2091089396288426447",
+    "createdAt": "August 22, 2026 at 06:05PM"
+  },
+  {
+    "text": "今朝丸はほんま残念やったなあ、こうなるなら谷端は落とさんかったんやが、、、\n明日の遥人でちゃちゃっと勝って帰りましょ",
+    "userName": "5_Ohyama",
+    "tweetUrl": "https://twitter.com/5_Ohyama/status/2091092276667945353",
+    "createdAt": "August 22, 2026 at 06:17PM"
+  },
+  {
+    "text": "谷端はまだどーにかなりそうやったけどな\n岡城より",
+    "userName": "supibase",
+    "tweetUrl": "https://twitter.com/supibase/status/2091096868025725079",
+    "createdAt": "August 22, 2026 at 06:35PM"
+  },
+  {
+    "text": "一、二軍で黒ユニ着たのって岡城と谷端とあと誰かな\n梅野、ガルシア、ああ後は〇〇か",
+    "userName": "seijunhayaruo",
+    "tweetUrl": "https://twitter.com/seijunhayaruo/status/2091100293048287361",
+    "createdAt": "August 22, 2026 at 06:48PM"
+  },
+  {
+    "text": "ルーキーに2打席で結果出せというのは酷すぎる...\n1軍の雰囲気味わっとけというだけの昇格だったのなら仕方なし。\n\n【阪神】\nドラフト２位・谷端将伍が出場登録抹消…プロ初昇格の１９日・ヤクルト戦で先発出場も２打数無安打\nhttps://t.co/11sOo3HxqZ",
+    "userName": "EsyXtR5MrAeAf6F",
+    "tweetUrl": "https://twitter.com/EsyXtR5MrAeAf6F/status/2091101447559745757",
+    "createdAt": "August 22, 2026 at 06:53PM"
+  },
+  {
+    "text": "ありゃ谷端",
+    "userName": "TerabaseA",
+    "tweetUrl": "https://twitter.com/TerabaseA/status/2091102062516056195",
+    "createdAt": "August 22, 2026 at 06:55PM"
+  },
+  {
+    "text": "@babusan222 検索から失礼します。谷端買取希望です",
+    "userName": "_s22i_x",
+    "tweetUrl": "https://twitter.com/_s22i_x/status/2091104621154730406",
+    "createdAt": "August 22, 2026 at 07:06PM"
+  },
+  {
+    "text": "谷端選手抹消か。こういう選手の使い方は私はハッキリ嫌いやわ。岡城選手と同時に抹消できたけど、それをしなかったのは首脳陣も後ろめたさがあるのかな？　組織の中の一選手の動向は全体に影響する。なぜ昇格で、なぜ降格かが首脳陣の気分次第に見えてると言われてもしゃあないやろね\n#阪神タイガース",
+    "userName": "nneOTmrU0ejuswy",
+    "tweetUrl": "https://twitter.com/nneOTmrU0ejuswy/status/2091105809619198071",
+    "createdAt": "August 22, 2026 at 07:10PM"
+  },
+  {
+    "text": "今回の稚内＆宗谷端折り四点セット https://t.co/oUKrMYzsAx",
+    "userName": "sikisima",
+    "tweetUrl": "https://twitter.com/sikisima/status/2091106457697816677",
+    "createdAt": "August 22, 2026 at 07:13PM"
+  },
+  {
+    "text": "アレが決まったあとの試合、主力選手休ませて燻ってるメンツ(立石谷端岡城嶋村などなど)でスタメン組んで試合して欲しいわ～",
+    "userName": "naru972794",
+    "tweetUrl": "https://twitter.com/naru972794/status/2091114257203277880",
+    "createdAt": "August 22, 2026 at 07:44PM"
+  },
+  {
+    "text": "谷端くん抹消されてるの知らんかった！\n今日普通に練習してたわ",
+    "userName": "okura_baseball",
+    "tweetUrl": "https://twitter.com/okura_baseball/status/2091115845292572968",
+    "createdAt": "August 22, 2026 at 07:50PM"
+  },
+  {
+    "text": "📣live Information\n\n8/27(木)\n“Suddenly Express vol.25\"\n\n【出演】\n百々花/櫻井なつき/谷端奏人　and more… \n【日時】 2026年8月27日(木)\n\n【時間】 open 18:30/start 19:00\n\n【チャージ】 adv¥3000/door¥3500 ( 1D¥600)\n\nトリを努めさせて頂きます！\n平日ですがぜひ来て欲しいです！！",
+    "userName": "momona__uta",
+    "tweetUrl": "https://twitter.com/momona__uta/status/2091125714091389303",
+    "createdAt": "August 22, 2026 at 08:29PM"
+  },
+  {
+    "text": "2026/8/22 横浜スタジアム\n谷端くんに守備の事色々とアドバイスしてた✨️\n#中野拓夢 選手\n#谷端将伍 選手 https://t.co/pxOXmyoJI8",
+    "userName": "kinataku07",
+    "tweetUrl": "https://twitter.com/kinataku07/status/2091139762430374078",
+    "createdAt": "August 22, 2026 at 09:25PM"
+  },
+  {
+    "text": "今朝丸を登録するのにルーカスを抹消するものだと思ってたけど谷端か。じゃあルーカスを中６日で使うつもりなのか。巨人戦は才木、ルーカス、遥人でいくのか。村上、伊藤、下村、才木、ルーカス、遥人。悪くないローテになってるな。",
+    "userName": "loki_00",
+    "tweetUrl": "https://twitter.com/loki_00/status/2091145578189304199",
+    "createdAt": "August 22, 2026 at 09:48PM"
+  },
+  {
+    "text": "@tigerschannel72 もう谷端クン２軍行き？\n\nもうちょい待たれんかなぁ",
+    "userName": "gC4ICogApt8DEeW",
+    "tweetUrl": "https://twitter.com/gC4ICogApt8DEeW/status/2091148288326295969",
+    "createdAt": "August 22, 2026 at 09:59PM"
+  },
+  {
+    "text": "20260712\n谷間将伍選手2️⃣5️⃣\n#阪神タイガース\n#谷端将伍 https://t.co/wQJ64lH2dg",
+    "userName": "1mo1mokenp1",
+    "tweetUrl": "https://twitter.com/1mo1mokenp1/status/2091150762135220284",
+    "createdAt": "August 22, 2026 at 10:09PM"
+  },
+  {
+    "text": "EPOCH 阪神タイガース 2026\n一箱目がLEGENDRYだったので\nリミッター外れて３箱開封\n谷端将伍✨\n工藤泰成✨\nDECOMORI 岡城✨\n去年ならジャージNo. 中野💤 https://t.co/DeEXB5m7jb",
+    "userName": "fuke44",
+    "tweetUrl": "https://twitter.com/fuke44/status/2091161096967324103",
+    "createdAt": "August 22, 2026 at 10:50PM"
+  },
+  {
+    "text": "@hanshintigersjp 谷端や岡城抹消にごちゃごちゃうるさいド素人=社会人で競争したことない奴か競争で負けたような奴は黙っとけやっ！実力無いから落とすだけやろがっ！藤川監督批判してる奴らってホンマAHO(大嘲笑)なんで中野と比較して中野落とさなならんのよ？いくら匿名だからといっても貴様ら恥ずかしくないのか?www",
+    "userName": "HBiwahaya",
+    "tweetUrl": "https://twitter.com/HBiwahaya/status/2091168201656893926",
+    "createdAt": "August 22, 2026 at 11:18PM"
+  },
+  {
+    "text": "2026.08.13📍SGLスタジアム\n\n何を言ったらそんなに笑顔になるの😹\n\n #谷端将伍 選手 #百崎蒼生 選手 #山﨑照英 選手 https://t.co/7MqsNBX6UA",
+    "userName": "eda39ymsk129",
+    "tweetUrl": "https://twitter.com/eda39ymsk129/status/2091182670680326599",
+    "createdAt": "August 23, 2026 at 12:16AM"
+  },
+  {
+    "text": "@momoko3tsukino3 私は谷端だけでなく岡城をなぜ「上げたのか」が疑問です。特に岡城は上げ下げが何回もあり疑問です。\n\n2人とも抹消には納得です（岡城もいつも抹消には納得しています）",
+    "userName": "Tigers_Ace14",
+    "tweetUrl": "https://twitter.com/Tigers_Ace14/status/2091183636968325586",
+    "createdAt": "August 23, 2026 at 12:20AM"
+  },
+  {
+    "text": "@Tigers_Ace14 まずあの期間、下の試合がなかったのと前回、赤城は山野を打っていたので2戦目にレフトで使う前提だったんだと思いますよ。谷端に関しては２軍の試合がなかったのと中野がスタメンで出られない＆熊谷ショートで使いたい",
+    "userName": "momoko3tsukino3",
+    "tweetUrl": "https://twitter.com/momoko3tsukino3/status/2091185695796887658",
+    "createdAt": "August 23, 2026 at 12:28AM"
+  },
+  {
+    "text": "@momoko3tsukino3 谷端に関してはまだ1軍未経験だったので1軍とはどんなものかを経験させる意味があったのかな、とは思いました。抹消までの期間が短かったなとは思いましたが。\n岡城は今回の昇格はビューゴーさんのおっしゃる内容だとしても、今までの何回もの昇格🔁抹消はどのように考えておられますか？",
+    "userName": "Tigers_Ace14",
+    "tweetUrl": "https://twitter.com/Tigers_Ace14/status/2091204717439541329",
+    "createdAt": "August 23, 2026 at 01:43AM"
+  },
+  {
+    "text": "@keiba_wwe_carp 河川争奪がふたたび起こりそう\n谷端川が心配",
+    "userName": "naniwagenji",
+    "tweetUrl": "https://twitter.com/naniwagenji/status/2091219311742616038",
+    "createdAt": "August 23, 2026 at 02:41AM"
+  },
+  {
+    "text": "8/19 vs S 17回戦\n㊗️谷端プロ初スタメン初犠打\n神宮見事に制球された極上のツーシームで完璧な火消し🫶\n将司は序盤クロスファイアの制球に苦しむも、中盤以降本来の制球力で好投🫶\n里都くん工藤さすがの救援\nオヨヨも出力上がってきた\n植田海好走塁今季初安打😍\n熱覇へ総力戦！勝つべくして勝つ🔥",
+    "userName": "nonney123",
+    "tweetUrl": "https://twitter.com/nonney123/status/2091248363723276694",
+    "createdAt": "August 23, 2026 at 04:37AM"
   }
 ]
