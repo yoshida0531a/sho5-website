@@ -3174,5 +3174,45 @@
     "publishedAt": "August 20, 2026 at 12:51PM",
     "description": "阪神タイガースがヤクルト戦で、まさかの2夜連続となる劇的な逆転サヨナラ勝ち！     2位巨人とのゲーム差を4に広げ、貯金は ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「もう一軍で見たかった…」阪神ルーキー谷端将伍に突然の試練🔥🐯#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #野球ニュース #阪神ファン #甲子園 #ドラフト2位 #一軍登録",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=xwPFv_hIbrc",
+    "publishedAt": "August 22, 2026 at 04:29PM",
+    "description": "阪神タイガースに衝撃のニュースが飛び込んできました。ドラフト2位ルーキー・谷端将伍選手が、8月22日付で出場選手登録を ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍に突然の試練…代わって今朝丸裕喜が先発へ！若虎たちの運命は⚾#阪神タイガース #谷端将伍 #今朝丸裕喜 #阪神 #プロ野球 #NPB",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Xz5R8g40y20",
+    "publishedAt": "August 22, 2026 at 05:06PM",
+    "description": "阪神タイガースに衝撃のニュースです。2025年ドラフト2位の期待のルーキー・谷端将伍内野手が、8月22日に出場選手登録を ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「阪神・谷端将伍に衝撃…1軍初昇格からわずか数日で登録抹消😭⚾」#谷端将伍#阪神タイガース#阪神#プロ初昇格#プロ初スタメン#今朝丸裕喜#NPB#野球ニュース#阪神ファン#若虎",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kdn53iRFYbg",
+    "publishedAt": "August 22, 2026 at 05:29PM",
+    "description": "阪神のドラフト2位ルーキー・谷端将伍選手に、まさかの登録抹消が発表されました。2026年8月19日にプロ初昇格を果たし ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "今朝丸、プロ初勝利へ！その裏で谷端に待っていた決断…⚾️🔥#阪神タイガース #今朝丸裕喜 #谷端将伍 #藤川球児 #プロ初勝利 #DeNA戦 #阪神 #プロ野球 #若虎 #野球ニュース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ez4begpndNY",
+    "publishedAt": "August 22, 2026 at 08:34PM",
+    "description": "阪神タイガースの若き右腕・今朝丸裕喜が1軍登録され、DeNA戦でプロ2度目の先発へ挑みます。目指すのは、待望のプロ初勝利 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】ドラフト２位・谷端将伍が出場登録抹消…プロ初昇格の１９日・ヤクルト戦で先発出場も２打数無安打　今朝丸裕喜を登録",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=ZY415KsMR08",
+    "publishedAt": "August 23, 2026 at 04:57AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
