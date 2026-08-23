@@ -3214,5 +3214,37 @@
     "publishedAt": "August 23, 2026 at 04:57AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.8.23 モノマネ選手権 戸井零士選手 町田隼乙選手 谷端将伍選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=zo-hcQAo06M",
+    "publishedAt": "August 23, 2026 at 11:36PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.8.23 谷端将伍選手 佐野大陽選手 山﨑照英選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vR8DwnbmcgU",
+    "publishedAt": "August 23, 2026 at 11:46PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.8.23 谷端将伍選手 佐野大陽選手 山﨑照英選手 小幡竜平選手 山田脩也選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=gZUSc4n2Yz8",
+    "publishedAt": "August 24, 2026 at 01:49AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.8.23 谷端将伍選手 佐野大陽選手 小幡竜平選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=v_oj2DUeZGI",
+    "publishedAt": "August 24, 2026 at 01:53AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
