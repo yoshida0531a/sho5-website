@@ -16984,5 +16984,131 @@
     "userName": "mrstsik",
     "tweetUrl": "https://twitter.com/mrstsik/status/2091576547899781446",
     "createdAt": "August 24, 2026 at 02:21AM"
+  },
+  {
+    "text": "【ファームハイライト】2026/8/23（日）阪神 - ソフトバンク（ＳＧＬ）\n【スコア詳細】\nソフトバンク｜020｜000｜000｜2\n阪神　　　　｜030｜000｜00X｜3 \n本塁打：渡邉 3号(2回表2ラン)\n『立石が決勝タイムリー！石井大智が復帰戦で被安打2を許すも圧巻の3K…救援陣が最少リード守り抜く』",
+    "userName": "shin1787523",
+    "tweetUrl": "https://twitter.com/shin1787523/status/2091653042890514654",
+    "createdAt": "August 24, 2026 at 07:25AM"
+  },
+  {
+    "text": "アップの時 山田くん谷端くんと\nずっと楽しそうやった😸😸\n\n #戸井零士 https://t.co/V1OVrCvyBT",
+    "userName": "Maaaaaa__60",
+    "tweetUrl": "https://twitter.com/Maaaaaa__60/status/2091668888950026517",
+    "createdAt": "August 24, 2026 at 08:28AM"
+  },
+  {
+    "text": "アメブロを投稿しました。🆕\n『復活の石井（8月23日・尼崎）』\n#石井大智 #SGLスタジアム #立石正広 \n#ファーム・リーグ西地区 #谷端将伍  https://t.co/X5vTogc6bo",
+    "userName": "Okami_Chikara",
+    "tweetUrl": "https://twitter.com/Okami_Chikara/status/2091669766608216503",
+    "createdAt": "August 24, 2026 at 08:31AM"
+  },
+  {
+    "text": "（写真は１年前）\n大通りに近い場所は日陰の部分も多いが，住宅街の間は陽あたりもよくなる。「南」緑道と「北」緑道と「谷端川緑道」があるみたい。\n\n2025/8/15　東京，豊島区西池袋，谷端川南緑道 \n#東京とその近郊 #tokyo_and_its_surroundings #東京の公園 https://t.co/FOsZG6jk4u",
+    "userName": "saitoudayodayo",
+    "tweetUrl": "https://twitter.com/saitoudayodayo/status/2091672341189460015",
+    "createdAt": "August 24, 2026 at 08:42AM"
+  },
+  {
+    "text": "【‼️NEW EVENT‼️】\n2026年8月27日(木)\n“Suddenly Express vol.25\"\n\n【出演】\n百々花/櫻井なつき/谷端奏人/望月薫　  open 18:30/start 19:00 adv¥3000/door¥3500 ( 1D¥600)\n\n【予約方法】\nBLAH BLAH BLAH予約フォームで受付\nhttps://t.co/s4Qqa1TSOE https://t.co/ri0sBS9MwS",
+    "userName": "NWBLAHBLAHBLAH",
+    "tweetUrl": "https://twitter.com/NWBLAHBLAHBLAH/status/2091673437291082100",
+    "createdAt": "August 24, 2026 at 08:46AM"
+  },
+  {
+    "text": "8/24（月）\n王子プールの外気温と水温📷\n天候→晴れ\n外気温→30℃\n水温→30℃\n\n谷端プールの外気温と水温📷\n天候→晴れ\n外気温→32℃\n水温30℃\n\n皆さまご来場お待ちしております。",
+    "userName": "panorama_pool",
+    "tweetUrl": "https://twitter.com/panorama_pool/status/2091676128331338143",
+    "createdAt": "August 24, 2026 at 08:57AM"
+  },
+  {
+    "text": "RP 2枚目の方。浸水したのはああ、あそこかあ…という感じ。\n昔は奥の校舎脇辺りから湧水出てて、小川になってたらしい。先は谷端川。\n今は暗渠なのか完全に埋めてるのか知らないけど、小さな谷になってて細い道が環六まで通ってる。",
+    "userName": "ponhouse2006",
+    "tweetUrl": "https://twitter.com/ponhouse2006/status/2091682775120445702",
+    "createdAt": "August 24, 2026 at 09:23AM"
+  },
+  {
+    "text": "打線は先制された2回のその裏に反撃\n小幡梅野の連打でチャンスを作ると、\n谷端の打球をソフバン3塁の佐倉がエラー\n2点を取り同点に\nかえって1番の立石がヒットを放ち1点を取ると\nこれが決勝点に\nソフバン先発が東浜だったことを考えると\n大きな収穫になったかも\n立石はこの3連戦は12打数3安打と https://t.co/evGLSupxRE",
+    "userName": "sinoaki3",
+    "tweetUrl": "https://twitter.com/sinoaki3/status/2091704607340949743",
+    "createdAt": "August 24, 2026 at 10:50AM"
+  },
+  {
+    "text": "【阪神】ドラフト２位の谷端将伍がデビュー　実力派ずらりそろえたルーキー７人の現状は(日刊スポーツ)\n#Yahooニュース\nhttps://t.co/HdaZXW1bsG",
+    "userName": "meguro54",
+    "tweetUrl": "https://twitter.com/meguro54/status/2091755590431510603",
+    "createdAt": "August 24, 2026 at 02:12PM"
+  },
+  {
+    "text": "ゴリゴリに強い阪神でもあと2年くらいかな。\n\n佐藤と森下、才木あたりがメジャーとなると、近本も大山も衰えている時期。ロックダウンもあるから佐藤は今年入れて残り2年として。\n\n次の中心選手は立石や前川かな？谷端とか山田とかどうなん？",
+    "userName": "toshi_yuki4518",
+    "tweetUrl": "https://twitter.com/toshi_yuki4518/status/2091769432305750092",
+    "createdAt": "August 24, 2026 at 03:07PM"
+  },
+  {
+    "text": "Python ZERO好評です！\n\nリスクリターンの良いPython ZERO\n安心が好きな方にお勧めのPython full\n皆様に喜んでもらってます\n\nPythonグループを宜しくお願いします\n\n参加はプロフ欄より\n\n谷端くん/柳川くん/谷端スタメン/筒香ベンチ外の https://t.co/5tFZAxnC0z",
+    "userName": "PhyllisSam16569",
+    "tweetUrl": "https://twitter.com/PhyllisSam16569/status/2091798824339865907",
+    "createdAt": "August 24, 2026 at 05:04PM"
+  },
+  {
+    "text": "{{Text}}",
+    "userName": "{{UserName}}",
+    "tweetUrl": "{{LinkToTweet}}",
+    "createdAt": "{{CreatedAt}}"
+  },
+  {
+    "text": "谷端が1回でもショートの守備についた時点であくまでも編成としての”答え合わせ”をしてしまった感がある、がんばれ谷端 https://t.co/aHMD3UZRcY",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://x.com/Og0238_0521/status/2091856272362795374",
+    "createdAt": "2026-08-24T11:52:54Z"
+  },
+  {
+    "text": "@Og0238_0521 谷端自体はいい選手だと思ってるから本当に頑張って欲しい",
+    "userName": "Jr55182821Jr",
+    "tweetUrl": "https://x.com/Jr55182821Jr/status/2091856685929570480",
+    "createdAt": "2026-08-24T11:54:33Z"
+  },
+  {
+    "text": "正味立石が思ったより伸び悩んでるからしゃあないんだけど、谷端を2Bで使い続けるのってどうなん？",
+    "userName": "rebirthof3bass",
+    "tweetUrl": "https://x.com/rebirthof3bass/status/2091875789142946205",
+    "createdAt": "2026-08-24T13:10:27Z"
+  },
+  {
+    "text": "大学んときの谷端ってレフトでも出てたし\n今なんか良さげなアルナエスを3Bにして立石をレフトにする柔軟性があるならセンターライン以外守らせたほうが打撃に余裕生まれんじゃね",
+    "userName": "rebirthof3bass",
+    "tweetUrl": "https://x.com/rebirthof3bass/status/2091877119601324234",
+    "createdAt": "2026-08-24T13:15:45Z"
+  },
+  {
+    "text": "立石と谷端寮隣の部屋なんや😆😆",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://x.com/s2enanyan/status/2091891882569908695",
+    "createdAt": "2026-08-24T14:14:24Z"
+  },
+  {
+    "text": "捕手、遊撃手以外の野手事情は左の強打がいない事\n右は森下、大山、立石、谷端、濱田といるが、左は佐藤輝、前川でしいて言えば次が嶋村で巧打系ばかり\n\n出来るなら将来中軸を打てそうな左打ちが1人は欲しい\n出来るなら内野、外野で１人ずつ",
+    "userName": "15draft",
+    "tweetUrl": "https://x.com/15draft/status/2091902935362105797",
+    "createdAt": "2026-08-24T14:58:20Z"
+  },
+  {
+    "text": "チームは谷端をセカンドとして育てたいみたいだけど、セカンドで主力になるイメージが現状だとわかない。足も速くない、パワーもあるわけでもないタイプで、セカンドレギュラーは厳しくないかね。",
+    "userName": "Captain_adachi",
+    "tweetUrl": "https://x.com/Captain_adachi/status/2091904683359228286",
+    "createdAt": "2026-08-24T15:05:16Z"
+  },
+  {
+    "text": "８／２３　ＳＧＬ\nグランド入り\n＃平田勝男\n＃立石正広\n＃谷端将伍\n＃町田隼乙 https://t.co/SJBI6LAoFW",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://x.com/057JKotf55lrGVv/status/2091917443790971173",
+    "createdAt": "2026-08-24T15:55:59Z"
+  },
+  {
+    "text": "ミソッカス弱小垢比で谷端についてのツイートが伸びてる\n去年のドラフト野手3人にはすごい期待してるんで全員活躍してくれることを願ってます",
+    "userName": "rebirthof3bass",
+    "tweetUrl": "https://x.com/rebirthof3bass/status/2091941337402953815",
+    "createdAt": "August 25, 2026 at 02:30AM"
   }
 ]
