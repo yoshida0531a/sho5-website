@@ -3246,5 +3246,13 @@
     "publishedAt": "August 24, 2026 at 01:53AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yYQncJ4J-V8",
+    "publishedAt": "August 26, 2026 at 05:00PM",
+    "description": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts 6月6日、Tigers vs Buffaloes。 阪神タイガース・谷端 将伍の ...",
+    "keyword": "谷端 阪神"
   }
 ]
