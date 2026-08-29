@@ -3254,5 +3254,45 @@
     "publishedAt": "August 26, 2026 at 05:00PM",
     "description": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts 6月6日、Tigers vs Buffaloes。 阪神タイガース・谷端 将伍の ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "20260819　プロ初打席！谷端将伍のﾋﾞｼﾞｮﾝ演出　2回ｳﾗ　阪神ﾀｲｶﾞｰｽ＠京ｾﾗﾄﾞｰﾑ大阪･ﾚﾌﾄ外野上段",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XDkODpT0kd8",
+    "publishedAt": "August 29, 2026 at 05:46AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "壁を突き破れ ✨ #阪神タイガース #谷端将伍 #hanshintigers #応援曲 #cheersong",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=M5FPcvJSDJo",
+    "publishedAt": "August 29, 2026 at 08:38AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】谷端将伍が猛アピール！3安打2打点で悔しさを完全返上、再昇格へ大前進⚾💪🏆",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=KH2PSDZGw9I",
+    "publishedAt": "August 29, 2026 at 03:34PM",
+    "description": "阪神タイガースの若手内野手・谷端将伍が、ファームの舞台で見事な猛アピールを見せました⚾✨。8月28日に行われたファーム ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🐯🔥【阪神】谷端将伍が猛アピール！3安打2打点で悔しさを完全返上、再昇格へ大前進⚾💪🏆",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=TiocuiHGxL8",
+    "publishedAt": "August 29, 2026 at 09:14PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥 石井大智が圧巻の3者連続三振！谷端将伍も2戦連続3安打…阪神の未来が動き出す",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=M4_Su2B27Nw",
+    "publishedAt": "August 30, 2026 at 04:47AM",
+    "description": "موم2026年8月29日、ほっともっとフィールド神戸で行われた阪神とオリックスのファーム戦は3対3の引き分け。しかし、阪神 ...",
+    "keyword": "谷端 阪神"
   }
 ]
