@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-08-31T20:47:22.578Z",
-  "lastUpdated": "2026-09-01",
+  "fetchedAt": "2026-09-01T15:00:38.721Z",
+  "lastUpdated": "2026-09-02",
   "farmSummary": {
     "raw": {
       "打率": ".223",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "9/1",
+      "gameKind": "ファーム交流戦",
+      "opponent": "日本ハム",
+      "atBats": "4",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "1",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "中飛、三失、右飛、空三振",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041020/top"
+    },
     {
       "date": "8/30",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "三ゴロ、投直、遊ゴロ、空三振",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040984/top"
-    },
-    {
-      "date": "8/23",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "ソフトバンク",
-      "atBats": "4",
-      "hits": "2",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "1",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "三失、中安、空三振、遊安",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040978/top"
     }
   ]
 }
