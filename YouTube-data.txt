@@ -3294,5 +3294,21 @@
     "publishedAt": "August 30, 2026 at 04:47AM",
     "description": "موم2026年8月29日、ほっともっとフィールド神戸で行われた阪神とオリックスのファーム戦は3対3の引き分け。しかし、阪神 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥🐯阪神・谷端が再昇格へ猛アピール！3安打で存在感⚾️✨「悔しかった」広島戦スタメン落ちの雪辱を果たす💪🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=rzBQFWWle-s",
+    "publishedAt": "September 1, 2026 at 02:46PM",
+    "description": "阪神タイガースの谷端が、再昇格を目指して強烈なアピールを見せました⚾️✨。今回の注目ポイントは、なんといっても3安打 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】9/1(火) 神4x－3日（甲子園）| 立石のサヨナラ打で今季ファーム最初で最後の阪神甲子園球場開催を勝利！木浪は先制打！谷端も適時打！先発茨木が6回0/3、2失点の好投！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2YxKCFgZxxU",
+    "publishedAt": "September 1, 2026 at 10:03PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
   }
 ]
