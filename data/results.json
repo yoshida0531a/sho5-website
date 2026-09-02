@@ -1,13 +1,13 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-09-01T18:24:54.679Z",
-  "lastUpdated": "2026-09-02",
+  "fetchedAt": "2026-09-02T18:36:50.723Z",
+  "lastUpdated": "2026-09-03",
   "farmSummary": {
     "raw": {
-      "打率": ".223",
-      "試合": "91",
-      "打席": "327",
-      "打数": "296",
+      "打率": ".220",
+      "試合": "92",
+      "打席": "331",
+      "打数": "300",
       "安打": "66",
       "二塁打": "15",
       "三塁打": "1",
@@ -15,7 +15,7 @@
       "塁打": "83",
       "打点": "23",
       "得点": "28",
-      "三振": "45",
+      "三振": "46",
       "四球": "20",
       "死球": "4",
       "犠打": "6",
@@ -23,16 +23,16 @@
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "10",
-      "出塁率": ".280",
-      "長打率": ".280",
-      "OPS": ".561",
-      "得点圏": ".267",
+      "出塁率": ".277",
+      "長打率": ".277",
+      "OPS": ".554",
+      "得点圏": ".260",
       "失策": "7"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".223"
+        "value": ".220"
       },
       {
         "label": "安打数",
@@ -56,15 +56,30 @@
       },
       {
         "label": "出塁率",
-        "value": ".280"
+        "value": ".277"
       },
       {
         "label": "得点圏",
-        "value": ".267"
+        "value": ".260"
       }
     ]
   },
   "recentGames": [
+    {
+      "date": "9/2",
+      "gameKind": "ファーム交流戦",
+      "opponent": "日本ハム",
+      "atBats": "3",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "1",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "中飛、空三振、左飛、一犠打",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041027/top"
+    },
     {
       "date": "9/1",
       "gameKind": "ファーム交流戦",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "左飛、空三振、二ゴロ",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040990/top"
-    },
-    {
-      "date": "8/25",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "広島",
-      "atBats": "4",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "1",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "三ゴロ、投直、遊ゴロ、空三振",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040984/top"
     }
   ]
 }
