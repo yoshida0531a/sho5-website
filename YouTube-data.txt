@@ -3310,5 +3310,13 @@
     "publishedAt": "September 1, 2026 at 10:03PM",
     "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=0RN6-eVkwLg",
+    "publishedAt": "September 2, 2026 at 05:00PM",
+    "description": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts 6月6日、Tigers vs Buffaloes。 阪神タイガース・谷端 将伍の ...",
+    "keyword": "谷端 阪神"
   }
 ]
