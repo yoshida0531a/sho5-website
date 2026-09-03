@@ -3334,5 +3334,161 @@
     "userName": "yoshida0531a",
     "tweetUrl": "https://x.com/yoshida0531a/status/2095239420547080381",
     "createdAt": "September 3, 2026 at 04:56AM"
+  },
+  {
+    "text": "新宿\n⬇️\n市ヶ谷\n⬇️\n豊洲\n⬇️\n有明テニスの森\n今年もコレだな！\n市ヶ谷端っこ車両乗れば座れるし\n豊洲始発で座れるし\n料金もこれが安い😋\n新宿➡️有明テニスの森\nとにかく遠いんだわぁ💦",
+    "userName": "LuisdeS62256225",
+    "tweetUrl": "https://x.com/LuisdeS62256225/status/2095313469566243305",
+    "createdAt": "September 3, 2026 at 09:50AM"
+  },
+  {
+    "text": "なんか最近ファームが良くなってきてるね。\nあんだけボロボロやったのに。\n立石、谷端、岡城の大卒トリオさえ機能すれば得点力は上がる。\n茨木もだいぶ抑えられるようになってきてる。\nあとは早川、能登あたりが目処が立つと来シーズンの投手陣は盤石！\n力はあるはずやから。\n#阪神タイガース",
+    "userName": "goronpa_X",
+    "tweetUrl": "https://x.com/goronpa_X/status/2095319212738920839",
+    "createdAt": "September 3, 2026 at 10:13AM"
+  },
+  {
+    "text": "打線は日ハム加藤との対戦に\n今期1軍11勝のローテーション投手相手に\n無得点に抑えられる\n2回にはノーアウト満塁にチャンスを作るも\n嶋村これ枝岡城の3人がフライでアウトに\nその後もヒットがでるも結局は無得点に\n6回には代わった川勝からガルシアの2ラン、嶋村の1ゴロの間の1点と3点を奪うと\n8回には1アウト23塁のチャンスを嶋村が左2塁打で2打点\nチャンスできっちりと仕留めてきた\nこの安打で勝利をものにしたが\n立石は3打数1安打1四球2三振という結果で打率は.242に\n嶋村も4打数1安打3打点という活躍で打率は.282\n終盤に豊田が3打数2安打1四球と打率.237まで上げてきている\n序盤の全く打てなかったのが惜しまれる\n岡城は5打数1安打1盗塁打率.249\n谷端は3打数無安打1犠打で打率.218",
+    "userName": "sinoaki3",
+    "tweetUrl": "https://x.com/sinoaki3/status/2095332692023972023",
+    "createdAt": "September 3, 2026 at 11:06AM"
+  },
+  {
+    "text": "この先のスタメンは「安定のベストメンバー✨️」でいってほしい😳\n\n変えて良いのは「元山の状態が悪い時のショート」\n\nあとは不動のメンバーでいけるでしょ🥹\n\nセカンド・中野の状態も気になるけど…🥹\n\n優勝が決まればガルシア・ディベイニー・立石・谷端・岡城…どんどん使ってくれてエエ！🫩🫩😍",
+    "userName": "masashin321",
+    "tweetUrl": "https://x.com/masashin321/status/2095334822180983088",
+    "createdAt": "September 3, 2026 at 11:15AM"
+  },
+  {
+    "text": "(谷端外れてるのなんでや……) https://t.co/9jDG8qTopg",
+    "userName": "Nori_Bent0",
+    "tweetUrl": "https://x.com/Nori_Bent0/status/2095356210912641242",
+    "createdAt": "September 3, 2026 at 12:40PM"
+  },
+  {
+    "text": "引用失礼します🙏\n谷端さんと隣山田くん？と帽子でポンポンし合ってるのが気になってしまいました！ https://t.co/l9fwuvGVVr",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://x.com/Hamakyo_Ori_Ars/status/2095358967111442763",
+    "createdAt": "September 3, 2026 at 12:51PM"
+  },
+  {
+    "text": "立石も谷端もSGLとかいうゴミ球場のせいでホームラン損してるな、",
+    "userName": "y5_ky7",
+    "tweetUrl": "https://x.com/y5_ky7/status/2095382070491267125",
+    "createdAt": "September 3, 2026 at 02:23PM"
+  },
+  {
+    "text": "立石ガルシア谷端、この3人が最近はええ感じなのかな？\n素晴らしいですありがたい",
+    "userName": "5_Ohyama",
+    "tweetUrl": "https://x.com/5_Ohyama/status/2095384338296946716",
+    "createdAt": "September 3, 2026 at 02:32PM"
+  },
+  {
+    "text": "さっさと優勝決めて立石谷端ガルシアあたり上げて使いたいね\nポストシーズンに向けて戦力増やしたい",
+    "userName": "aC1qtw7Ls083086",
+    "tweetUrl": "https://x.com/aC1qtw7Ls083086/status/2095385392300360015",
+    "createdAt": "September 3, 2026 at 02:36PM"
+  },
+  {
+    "text": "なんとこの期に及んで5/9が何の将来性もない二軍オーダー\n谷端も百崎もコーナーでしか生き残る道がないのにそこにいるのは佐野戸井木浪であります https://t.co/aeZ2FEir2g",
+    "userName": "nakina_ya",
+    "tweetUrl": "https://x.com/nakina_ya/status/2095388077477007609",
+    "createdAt": "September 3, 2026 at 02:47PM"
+  },
+  {
+    "text": "谷端君いるし佐野君の生存可能性が低くなってきたな。",
+    "userName": "east8001023",
+    "tweetUrl": "https://x.com/east8001023/status/2095396670435660213",
+    "createdAt": "September 3, 2026 at 03:21PM"
+  },
+  {
+    "text": "ちなみに1番怖かったのは木浪にヒッティングさせて谷端と百崎にバントさせてた平田勝男。",
+    "userName": "shimasonice",
+    "tweetUrl": "https://x.com/shimasonice/status/2095408841169248490",
+    "createdAt": "September 3, 2026 at 04:09PM"
+  },
+  {
+    "text": "ねぇ待って渋谷端っこだけど過去一前方で震え止まらない",
+    "userName": "itarukurage0306",
+    "tweetUrl": "https://x.com/itarukurage0306/status/2095415225797202342",
+    "createdAt": "September 3, 2026 at 04:34PM"
+  },
+  {
+    "text": "阪神タイガース SGL 限定\nシークレット 選手マンホール風\nアクリルキーホルダー\n\n【譲】 谷端 山田 神宮×3\n【求】早瀬 or 定価(880円)＋送料\n\n郵送での交換orお譲り希望です\n検索からでもお気軽にお声掛けください🐯 https://t.co/tVwd0WC2jQ",
+    "userName": "chichi1818usj",
+    "tweetUrl": "https://x.com/chichi1818usj/status/2095415298417697038",
+    "createdAt": "September 3, 2026 at 04:35PM"
+  },
+  {
+    "text": "今絶好調の谷端すらサード\nレフトを空けた場合は良いとこなしの前川、代打代走でもOKな福島が使えるぐらい\n佐藤外野のほうが使える選手多い\n急造外野オプは使えるとは言わん",
+    "userName": "Alector1",
+    "tweetUrl": "https://x.com/Alector1/status/2095419915989889534",
+    "createdAt": "September 3, 2026 at 04:53PM"
+  },
+  {
+    "text": "正直百崎単体で見るとそこまでシャバくはないけれど、立石谷端、更に前川大山と前にずらーっと並んでる状況での百崎の立場は割とシャバ寄りじゃないかなという感は常々抱いている",
+    "userName": "Fide_jinro",
+    "tweetUrl": "https://x.com/Fide_jinro/status/2095435948238770417",
+    "createdAt": "September 3, 2026 at 05:57PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「タクシー」の解説\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/pK7nHaqlGo https://t.co/lAwSQyL8Lt",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2095439405129548096",
+    "createdAt": "September 3, 2026 at 06:11PM"
+  },
+  {
+    "text": "来週の渋谷、端から端までポルノじゃん？？",
+    "userName": "kinyami0811",
+    "tweetUrl": "https://x.com/kinyami0811/status/2095469697244479911",
+    "createdAt": "September 3, 2026 at 08:11PM"
+  },
+  {
+    "text": "来季のオープン戦では立石谷端百﨑ダルベックで3B競争して、TERIYAKIにはRFやってもらおう",
+    "userName": "L1571566",
+    "tweetUrl": "https://x.com/L1571566/status/2095481019315212419",
+    "createdAt": "September 3, 2026 at 08:56PM"
+  },
+  {
+    "text": "神宮選手 一旦〆\n谷端選手 山田選手 ご希望の方いらっしゃったらお気軽にお声がけください🙇‍♀️",
+    "userName": "chichi1818usj",
+    "tweetUrl": "https://x.com/chichi1818usj/status/2095483945366483424",
+    "createdAt": "September 3, 2026 at 09:07PM"
+  },
+  {
+    "text": "@GONZOUDAIWA どうして立石、谷端を上げないでいつまでも糸原なんですかね…\n木下君の笑顔が良い✨",
+    "userName": "LastkissH",
+    "tweetUrl": "https://x.com/LastkissH/status/2095486710830551069",
+    "createdAt": "September 3, 2026 at 09:18PM"
+  },
+  {
+    "text": "@tg_19_baseball しっかり観ているファンは皆様同じ思いです。だからこそ、立石、髙寺、岡城、谷端には来季しっかり成長を見せてほしい！🤔ホントは前川、小幡には主力と呼ばれる位、今期結果を出して欲しかった。😡ショート、レフトはうちの弱点ですから。ディベイニーはラストピースと思ったんですがねぇ。😅",
+    "userName": "OOjkm02M6iu8Zty",
+    "tweetUrl": "https://x.com/OOjkm02M6iu8Zty/status/2095491439266582588",
+    "createdAt": "September 3, 2026 at 09:37PM"
+  },
+  {
+    "text": "三塁立石、外野岡城その他諸々若い選手、セカンド谷端、ファースト百崎、ショート山田、キャッチャー嶋村、DH投手以外。スタメンはこれで固定してください。長坂とか木浪とか、島田とか言う戦力外候補のやつ使う必要ないから https://t.co/feRGZ9Cb3F",
+    "userName": "ofq0yi",
+    "tweetUrl": "https://x.com/ofq0yi/status/2095499011033874764",
+    "createdAt": "September 3, 2026 at 10:07PM"
+  },
+  {
+    "text": "てか育成の試合なら谷端と岡城と山田使えよ。木浪が一軍昇格したら山田のスタメン多くなったけど小幡、木浪が二軍落ちしたら山田の出場機会が減る。クソ。結局木浪、小幡は山田の出場機会を守るために1軍に必要なんだよ。戦力にはならんけど。こんなんするんなら山田昇格の方が話は早いか",
+    "userName": "ofq0yi",
+    "tweetUrl": "https://x.com/ofq0yi/status/2095501222434480231",
+    "createdAt": "September 3, 2026 at 10:16PM"
+  },
+  {
+    "text": "🥷🥷\n#谷端将伍 選手\n#ライル・リン 選手 https://t.co/XOTHUnOhHF",
+    "userName": "genki_no_moto__",
+    "tweetUrl": "https://x.com/genki_no_moto__/status/2095519345728438556",
+    "createdAt": "September 3, 2026 at 11:28PM"
+  },
+  {
+    "text": "2軍のスタメンとか明確な投資対象だけを基本固定しとけばいい\nC嶋村3B立石SS山田OF岡城\nポジション含めてここは基本固定でいい\n谷端と百崎はポジションは正味固定しなくていいけどスタメンで良い\nその他は適当に回せばいい",
+    "userName": "Passion_8_t",
+    "tweetUrl": "https://x.com/Passion_8_t/status/2095556077702291654",
+    "createdAt": "September 4, 2026 at 01:54AM"
   }
 ]
