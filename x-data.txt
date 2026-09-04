@@ -3490,5 +3490,47 @@
     "userName": "Passion_8_t",
     "tweetUrl": "https://x.com/Passion_8_t/status/2095556077702291654",
     "createdAt": "September 4, 2026 at 01:54AM"
+  },
+  {
+    "text": "佐藤今オフメジャー行けないなら来季は外野でいこう。森下近本佐藤の外野、サードに立石谷端、ショートに高寺で3連覇しよう。",
+    "userName": "tigers_tg400",
+    "tweetUrl": "https://x.com/tigers_tg400/status/2095644275077992754",
+    "createdAt": "September 4, 2026 at 07:45AM"
+  },
+  {
+    "text": "背番号6は、右京・山田・谷端も付けたがってるから、そこに渡部が加わると、さらに背番号6争いが熾烈になりそう...と言いたいけど、背番号6は、藤田平・和田豊・金本知憲と、名だたる名選手たちが背負ってきたから、簡単に継承はできないと思う。\n\n山田は2軍でエラーしまくり",
+    "userName": "LGM_Naomyon_517",
+    "tweetUrl": "https://x.com/LGM_Naomyon_517/status/2095652981173841939",
+    "createdAt": "September 4, 2026 at 08:19AM"
+  },
+  {
+    "text": "糸原⇆立石か谷端。かなあ。ディベイニーもう少し見たい。悪くなかったし\n左の代打薄いけど他候補いないしな…",
+    "userName": "ekodrum",
+    "tweetUrl": "https://x.com/ekodrum/status/2095656925539303508",
+    "createdAt": "September 4, 2026 at 08:35AM"
+  },
+  {
+    "text": "立石は何だかんだ身体能力が高くて、どれだけ悪く見積もっても内野を守れる江越にはなれる 岡城はセンターラインだから打撃は気長に待てる  谷端は打てなきゃ用無しの選手なのにこの有様なのがほんとにヤバい 近年では見たことないレベルの論外😌",
+    "userName": "uljumpa",
+    "tweetUrl": "https://x.com/uljumpa/status/2095667119426073022",
+    "createdAt": "September 4, 2026 at 09:15AM"
+  },
+  {
+    "text": "@Zing99112 谷端さんが代わりに止めてくれても良かったのに",
+    "userName": "vpnlyw",
+    "tweetUrl": "https://x.com/vpnlyw/status/2095699601148002497",
+    "createdAt": "September 4, 2026 at 11:24AM"
+  },
+  {
+    "text": "森下が阪神に愛着があろうがなかろうが、市場原理的にはMLB目指すのは当然って労働者目線では思うのでその時が来たらしゃーないとは思う。できれば立石や谷端ら辺がある程度形になってからにして欲しいけど",
+    "userName": "Go_menti",
+    "tweetUrl": "https://x.com/Go_menti/status/2095786699498586429",
+    "createdAt": "September 4, 2026 at 05:11PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「クルージング」の解説\nクルージング船には家族の他に「使用人」が乗っていた。\nその使用人を食べて、この家族は生き永らえたことになる。\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/qQ9oG3X63J",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2095872005937500197",
+    "createdAt": "September 4, 2026 at 10:50PM"
   }
 ]
