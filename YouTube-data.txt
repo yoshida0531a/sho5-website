@@ -3318,5 +3318,13 @@
     "publishedAt": "September 2, 2026 at 05:00PM",
     "description": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts 6月6日、Tigers vs Buffaloes。 阪神タイガース・谷端 将伍の ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】即戦力ドラ２・谷端がとんでもない状況に・・・",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=6ScagUeI_fM",
+    "publishedAt": "September 5, 2026 at 09:35PM",
+    "description": "阪神タイガース、即戦力ドラ２・谷端がとんでもない状況に・・・ 楽曲提供 株式会社 光サプライズ.",
+    "keyword": "谷端 阪神"
   }
 ]
