@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-09-04T18:19:38.103Z",
-  "lastUpdated": "2026-09-05",
+  "fetchedAt": "2026-09-05T17:16:52.317Z",
+  "lastUpdated": "2026-09-06",
   "farmSummary": {
     "raw": {
       "打率": ".218",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "9/5",
+      "gameKind": "ファーム交流戦",
+      "opponent": "ロッテ",
+      "atBats": "2",
+      "hits": "1",
+      "homeRuns": "0",
+      "rbi": "1",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "1",
+      "hitByPitch": "0",
+      "battingResults": "中２、四球、右飛",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041047/top"
+    },
     {
       "date": "9/2",
       "gameKind": "ファーム交流戦",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "左安、中安、左２、遊ゴロ、右飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040999/top"
-    },
-    {
-      "date": "8/26",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "広島",
-      "atBats": "3",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "1",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "左飛、空三振、二ゴロ",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021040990/top"
     }
   ]
 }
