@@ -3326,5 +3326,21 @@
     "publishedAt": "September 5, 2026 at 09:35PM",
     "description": "阪神タイガース、即戦力ドラ２・谷端がとんでもない状況に・・・ 楽曲提供 株式会社 光サプライズ.",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🚨⚾【阪神】即戦力ドラ2・谷端にまさかの異変！？“とんでもない状況”にファン騒然😳🔥",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=2baHJKilXeo",
+    "publishedAt": "September 8, 2026 at 05:16PM",
+    "description": "Rising Sun Baseballへようこ..そ！ ⚾ 日本プロ野球（NPB）の最新..、試合ハイライト、ホームラン集、スーパープレー、注目 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "宮崎県串間市のNatural Boy🌳谷端天然",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QjWdGZZXVxY",
+    "publishedAt": "September 8, 2026 at 07:09PM",
+    "description": "Natural Boy   . 谷端天然 @tennen_tanibata . . #サーフィン #surf #宮崎サーフィン.",
+    "keyword": "谷端 阪神"
   }
 ]
