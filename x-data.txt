@@ -4486,5 +4486,101 @@
     "userName": "NUL8_8",
     "tweetUrl": "https://x.com/NUL8_8/status/2097332292503154934",
     "createdAt": "September 8, 2026 at 11:32PM"
+  },
+  {
+    "text": "2026年8月29日 試合前阪神ベンチ\n#オリックスバファローズ VS #阪神タイガース\n\nhttps://t.co/QpBvrz4dM5\n\nファーム ほっともっとフィールド神戸\n久保田智之 石黒佑弥 投手コーチ 野村克則\n立石正広 木浪聖也 谷端将伍 嶋村麟士朗 山﨑照英 岡城快生",
+    "userName": "baseballDEQUIZ",
+    "tweetUrl": "https://x.com/baseballDEQUIZ/status/2097524032145146200",
+    "createdAt": "September 9, 2026 at 12:14PM"
+  },
+  {
+    "text": "9月2日　日鉄鋼板SGLスタジアム尼崎\nファーム交流戦🐯🦊\n阪神タイガースVS北海道日本ハムファイターズ\n\nエドポロ選手と話せて嬉しそうな選手と見守りながらストレッチする選手\n\n木浪聖也選手\n谷端将伍選手 https://t.co/Sf4uc4fmaN",
+    "userName": "positive_toraco",
+    "tweetUrl": "https://x.com/positive_toraco/status/2097588494839521732",
+    "createdAt": "September 9, 2026 at 04:30PM"
+  },
+  {
+    "text": "和光市ー渋谷端から端まで定期内だからずっと居座れたマイヘアまじありがとう",
+    "userName": "n_wdrd",
+    "tweetUrl": "https://x.com/n_wdrd/status/2097608614341210183",
+    "createdAt": "September 9, 2026 at 05:50PM"
+  },
+  {
+    "text": "@err_ss1107 柳館や池田が漏れる東都大卒サード界隈だと繁長や谷端みたいにプロスカウトの熱意が感じられる選手じゃない限り信頼できない\n大卒サードorセカンドくらいに枠広げると森翔太郎や山田健太木村翔大が漏れている",
+    "userName": "RepoKomart_",
+    "tweetUrl": "https://x.com/RepoKomart_/status/2097610454453690610",
+    "createdAt": "September 9, 2026 at 05:57PM"
+  },
+  {
+    "text": "FUNRIDE Surfing Miyazaki が新動画を公開。宮崎県串間市を舞台に、谷端天然のサーフィンを収めたショートクリップ。地元の波と地元サーファーの組み合わせが見どころ。\nhttps://t.co/qiujX1NyHZ\n#サーフィン #宮崎",
+    "userName": "SurfBuzzJP",
+    "tweetUrl": "https://x.com/SurfBuzzJP/status/2097612118308888856",
+    "createdAt": "September 9, 2026 at 06:04PM"
+  },
+  {
+    "text": "萬場、二遊間守れる谷端としてNPB行けるだろ",
+    "userName": "98BB_dragons",
+    "tweetUrl": "https://x.com/98BB_dragons/status/2097632741034758630",
+    "createdAt": "September 9, 2026 at 07:26PM"
+  },
+  {
+    "text": "いい加減に糸原に\nディベイニーを２軍に\n落として立石と谷端とかを昇格お願い🙏打てる打者いない（泣）",
+    "userName": "yotchan_8",
+    "tweetUrl": "https://x.com/yotchan_8/status/2097657556705702229",
+    "createdAt": "September 9, 2026 at 09:05PM"
+  },
+  {
+    "text": "連覇目指してないなら立石谷端岡城とか育てよや\n山田、百崎もおるし\n\n本当に勝ちたいならその姿勢を見せて下さい",
+    "userName": "Tigers_area7",
+    "tweetUrl": "https://x.com/Tigers_area7/status/2097661154025984030",
+    "createdAt": "September 9, 2026 at 09:19PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「空の上」の解説\n少年は自殺したので、地獄に落ちてしまった。\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/qQ9oG3X63J",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2097662554902347960",
+    "createdAt": "September 9, 2026 at 09:25PM"
+  },
+  {
+    "text": "阪神は下振れとかじゃなくて明確に首脳陣が足を引っ張ってます\n8、9月OPS.400〜500をうろちょろしてる前川と髙寺で6番を遊び、好調の立石、谷端は塩漬け\nなおバッティングで期待してベンチ入りさせてるのはディベイニーだけ\nどう考えても代走からの出場要因なのに福島が代打で出てくる始末",
+    "userName": "eH9a1W5vE8D7Tui",
+    "tweetUrl": "https://x.com/eH9a1W5vE8D7Tui/status/2097664953222324291",
+    "createdAt": "September 9, 2026 at 09:34PM"
+  },
+  {
+    "text": "しばらく2番立石、5番谷端無理すか？w\n打線💩すぎる",
+    "userName": "xxbUF7nw7q57740",
+    "tweetUrl": "https://x.com/xxbUF7nw7q57740/status/2097665244378058866",
+    "createdAt": "September 9, 2026 at 09:35PM"
+  },
+  {
+    "text": "将来的には大山がそういう立場になる可能性はある。あるにはあるが、そもそも下が育ってないからいつまでも大山がレギュラーを張らざるを得ない→代打に回れない方がありそうで怖い。福島や高寺はもちろん、立石や谷端も力をつけないと暗黒期が見えてくるぞ。\n#阪神タイガース",
+    "userName": "Naoki_Nightwish",
+    "tweetUrl": "https://x.com/Naoki_Nightwish/status/2097672413022736796",
+    "createdAt": "September 9, 2026 at 10:04PM"
+  },
+  {
+    "text": "谷端も調子いいし、対竹丸で起用してほしいな\n結果出なかったけど山野の時みたいに使ってほしい\n途中から守備固め中野でええやん",
+    "userName": "qh2suw",
+    "tweetUrl": "https://x.com/qh2suw/status/2097672597106487436",
+    "createdAt": "September 9, 2026 at 10:04PM"
+  },
+  {
+    "text": "【交換】阪神 タイガース シークレットキーホルダー 第2弾 第3弾\n\n(譲)25谷端･52山田･58前川･39榮枝\n\n(求)1森下･4熊谷･30門別･44早瀬または定価\n\n📮郵送または甲子園SGL手渡し\n検索からもお気軽にお声掛け下さい https://t.co/CjwTSCACQW",
+    "userName": "babusan222",
+    "tweetUrl": "https://x.com/babusan222/status/2097684023405588565",
+    "createdAt": "September 9, 2026 at 10:50PM"
+  },
+  {
+    "text": "@garchomp600 固め打ちがおおいですよね、コンスタントに打つってのは正直記憶に少ない…\n\n高寺は今落ちてますが前半戦良くやってくれましたし前川は骨折が\n\n中川はどこかに消えて嶋村もアレですからこのへんは来年ですね、谷端岡城立石はホンマに来年頭角現して欲しいですしこの辺が打てないと次世代は全滅です😅",
+    "userName": "1984b0411",
+    "tweetUrl": "https://x.com/1984b0411/status/2097701913685021040",
+    "createdAt": "September 10, 2026 at 12:01AM"
+  },
+  {
+    "text": "うかうかしてたらすぐにベイスターズに置いていかれる。近本中野森下佐藤大山みたいな超絶打線があったら結果と育成の両立が難しくなるのも理解はできるが、向こうだって牧筒香エンカーナシオン宮﨑佐野で似た条件のはずだ。阪神も野手育成を加速させてほしい。とにかく立石谷端岡城の機は逃せない https://t.co/BptdFGKxlx",
+    "userName": "KayFussball",
+    "tweetUrl": "https://x.com/KayFussball/status/2097708530866540966",
+    "createdAt": "September 10, 2026 at 12:27AM"
   }
 ]
