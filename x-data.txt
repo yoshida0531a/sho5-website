@@ -4582,5 +4582,131 @@
     "userName": "KayFussball",
     "tweetUrl": "https://x.com/KayFussball/status/2097708530866540966",
     "createdAt": "September 10, 2026 at 12:27AM"
+  },
+  {
+    "text": "【阪神ファーム通信】谷端将伍が感じた1軍の水準　「スピード面のレベルの差を一番感じた」 - サンスポ https://t.co/EfcqhrTrT8 @SANSPOCOMより",
+    "userName": "sanspooskseiri",
+    "tweetUrl": "https://x.com/sanspooskseiri/status/2097865845024375156",
+    "createdAt": "September 10, 2026 at 10:52AM"
+  },
+  {
+    "text": "【阪神ファーム通信】谷端将伍が感じた1軍の水準　「スピード面のレベルの差を一番感じた」 - サンスポ\n\nファイトです！ https://t.co/uFb21r0hlH",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://x.com/yoshida0531a/status/2097878512665502204",
+    "createdAt": "September 10, 2026 at 11:43AM"
+  },
+  {
+    "text": "2026年8月29日 試合前練習ノック\n#オリックスバファローズ VS #阪神タイガース\nファーム ほっともっとフィールド神戸\n平田勝男 立石正広 木浪聖也 小幡竜平\nガルシア 谷端将伍 嶋村麟士朗\n長坂拳弥 山田脩也 榮枝裕貴 アルナエス 戸井零士 百崎蒼生\n\nhttps://t.co/N2p3Rmi97j",
+    "userName": "baseballDEQUIZ",
+    "tweetUrl": "https://x.com/baseballDEQUIZ/status/2097883092103180497",
+    "createdAt": "September 10, 2026 at 12:01PM"
+  },
+  {
+    "text": "着実。\n\n【阪神ファーム通信】谷端将伍が感じた1軍の水準　「スピード面のレベルの差を一番感じた」 https://t.co/yAOOksIeac",
+    "userName": "ryu_shiro_ryu",
+    "tweetUrl": "https://x.com/ryu_shiro_ryu/status/2097894022178328639",
+    "createdAt": "September 10, 2026 at 12:44PM"
+  },
+  {
+    "text": "\"阪神ファーム通信 谷端将伍が感じた1軍の水準 「スピード面のレベルの差を一番感じた」\" https://t.co/jO4uBYIpIm",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://x.com/a2Clgr2kMDUEQBN/status/2097910317737214234",
+    "createdAt": "September 10, 2026 at 01:49PM"
+  },
+  {
+    "text": "@ryu_tayan 立石谷端使って流れ変えて欲しいですね",
+    "userName": "hndsankakeee39",
+    "tweetUrl": "https://x.com/hndsankakeee39/status/2097915337530560594",
+    "createdAt": "September 10, 2026 at 02:09PM"
+  },
+  {
+    "text": "【阪神ファーム通信】谷端将伍が感じた1軍の水準　「スピード面のレベルの差を一番感じた」 - サンスポ https://t.co/R6JneSwdMF",
+    "userName": "sanspo_tigers",
+    "tweetUrl": "https://x.com/sanspo_tigers/status/2097922114070499379",
+    "createdAt": "September 10, 2026 at 02:36PM"
+  },
+  {
+    "text": "谷端みたいなゴミ取ってスルーしたアホ球団 https://t.co/aQVUIMsW7P",
+    "userName": "Fujikawa_kubi",
+    "tweetUrl": "https://x.com/Fujikawa_kubi/status/2097922696848019696",
+    "createdAt": "September 10, 2026 at 02:38PM"
+  },
+  {
+    "text": "@Fujikawa_kubi 谷端選手の成績見ました\n大卒ドラ2の成績としてはたしかに厳しい数字ですね💦",
+    "userName": "osacozy2",
+    "tweetUrl": "https://x.com/osacozy2/status/2097928062721511905",
+    "createdAt": "September 10, 2026 at 03:00PM"
+  },
+  {
+    "text": "業務連絡\n北谷端公園中止\n到着時、提灯は点灯していましたが、現在それも消えました。 https://t.co/W583YDFN6N",
+    "userName": "7376GgBw1gwxUM3",
+    "tweetUrl": "https://x.com/7376GgBw1gwxUM3/status/2097974875495477737",
+    "createdAt": "September 10, 2026 at 06:06PM"
+  },
+  {
+    "text": "北谷端公園の祭礼音頭会は雨脚が強くなったため中止になったとのこと…\n着物に着替えて移動中だったのに残念😵\n\n折角着物になったし、どこか行くか…？",
+    "userName": "ZnafG",
+    "tweetUrl": "https://x.com/ZnafG/status/2097974981925941305",
+    "createdAt": "September 10, 2026 at 06:06PM"
+  },
+  {
+    "text": "北谷端公園、照明消えました😢 https://t.co/OvkkBn7Q4P",
+    "userName": "wadaikoCH",
+    "tweetUrl": "https://x.com/wadaikoCH/status/2097975000125035000",
+    "createdAt": "September 10, 2026 at 06:06PM"
+  },
+  {
+    "text": "ショートほったらかしてたら\nセカンドの補強もできないんか笑\n\n佐野谷端百崎さんは\nどうすればいいの https://t.co/koEodLRJ9L",
+    "userName": "hanshinnnnnnn03",
+    "tweetUrl": "https://x.com/hanshinnnnnnn03/status/2097976085539590172",
+    "createdAt": "September 10, 2026 at 06:10PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「ミサイルの雨」の解説\nミサイルの雨が降り注いだ基地はほぼ壊滅状態になった。\n運の悪い男は生き残ったが、死んだ方がマシと思えるほどの傷を負った。\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/pK7nHapNQQ",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2097981153672077547",
+    "createdAt": "September 10, 2026 at 06:31PM"
+  },
+  {
+    "text": "まず明日\n9月11日（金）\n板橋区もあるんだけど\n東新町？\n先日の小茂根近くで\n板橋区三田線ユーザーには\n交通の便が悪いの🥲\nよって\n新板橋駅からほど近い\nほぼ板橋区の\n北区北谷端公園盆踊りに行く事にしました😉\n踊れる人歓迎のコピーも惹かれますわね😉\nつか、天気大丈夫か明日😂\n#北区\n#盆踊り https://t.co/0NbxvNjL3K https://t.co/2dP8TmYdWg",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2097999486748639433",
+    "createdAt": "September 10, 2026 at 07:43PM"
+  },
+  {
+    "text": "対竹丸で立石谷端を昇格させてスタメンで使え\nこいつを打ち崩すなら右打者や",
+    "userName": "qh2suw",
+    "tweetUrl": "https://x.com/qh2suw/status/2098021511609340319",
+    "createdAt": "September 10, 2026 at 09:11PM"
+  },
+  {
+    "text": "今日は北谷端公園の盆踊りへ向かっている途中に中止を知りました。\n\nお天気の事なので仕方ないのですが…😭ｴｰﾝ\n\nお家でチョコ盆（チョコッと盆踊り）でもしようと思います！ https://t.co/6APR0nubuz",
+    "userName": "patapatapapapa3",
+    "tweetUrl": "https://x.com/patapatapapapa3/status/2098023299498541135",
+    "createdAt": "September 10, 2026 at 09:18PM"
+  },
+  {
+    "text": "てかここで昇格せんかったら優勝諦めたって解釈するわ\n被打率の左右差がデータとして如実に出てるのに立石谷端使わん理由がない",
+    "userName": "qh2suw",
+    "tweetUrl": "https://x.com/qh2suw/status/2098024198941946034",
+    "createdAt": "September 10, 2026 at 09:22PM"
+  },
+  {
+    "text": "阪神・谷端将伍が1軍で感じたのは「スピード面のレベル差」🐯\n\n実際にトップレベルを経験したからこそ、今後の課題も明確になりました。\n\nこの経験を成長につなげて、再び1軍で躍動する姿を見たいですね👏\n\n記事はこちら👇\n\nhttps://t.co/scEhsYs0xC\n\n#阪神 #谷端将伍 #阪神ファーム #若虎 https://t.co/NiPhTAte9Z",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://x.com/greeeen8316/status/2098053883083776452",
+    "createdAt": "September 10, 2026 at 11:20PM"
+  },
+  {
+    "text": "阪神って、今年じゃなくて来年佐藤輝明がメジャー行くとするなら、指名打者初年度の来シーズンに向けて、大商大の春山陽登か中央大の伊藤櫂人あたりを指名するのも良いのかも…\nまあ、それが立石正広であり、谷端将伍なんだろうけど！\n補強ポイントが多すぎて大変だよね！",
+    "userName": "DiegoKakiTommy",
+    "tweetUrl": "https://x.com/DiegoKakiTommy/status/2098069167354282431",
+    "createdAt": "September 11, 2026 at 12:20AM"
+  },
+  {
+    "text": "昨日、一昨年いらいの北谷端公園の谷端親交会音頭会に行こうかなと思ったけど、谷端親交会から中止で出てたんで行くのやめた。 https://t.co/IAwJK85UYf",
+    "userName": "mu4324",
+    "tweetUrl": "https://x.com/mu4324/status/2098102443938906159",
+    "createdAt": "September 11, 2026 at 02:32AM"
   }
 ]
