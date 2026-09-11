@@ -4708,5 +4708,125 @@
     "userName": "mu4324",
     "tweetUrl": "https://x.com/mu4324/status/2098102443938906159",
     "createdAt": "September 11, 2026 at 02:32AM"
+  },
+  {
+    "text": "優勝しようが逃そうが藤川が着手すべきことは、\n\n・1番近本2番中野の解体\n・佐藤が残留するならライトに\n・大山DHと代わりのファースト\n・髙寺の役割を決める\n\n谷端や前川を将来性のないポジションで遊ばせとく余裕なんかないです\n元山は頑張ってくれたけどオフは髙寺をSSで仕込んでください",
+    "userName": "nakina_ya",
+    "tweetUrl": "https://x.com/nakina_ya/status/2098188327522627937",
+    "createdAt": "September 11, 2026 at 08:14AM"
+  },
+  {
+    "text": "名著\n#暗渠\n#暗橋\n#谷端川 https://t.co/e4ZYTJ0Ge7",
+    "userName": "namiekazforever",
+    "tweetUrl": "https://x.com/namiekazforever/status/2098197621580136780",
+    "createdAt": "September 11, 2026 at 08:51AM"
+  },
+  {
+    "text": "今日は百﨑選手の誕生日🎂\n舞洲でのオリックス戦のチケットを事前に取り、朝から🏍️行く準備をしてましたが…中止😭\nそして急いで尼崎へ🚃\n小幡選手、谷端選手、戸井選手は坂道や高架下でトレーニングをしてました。\nだけど主役が見当たらない😰\n残念😭",
+    "userName": "OMAHL24yuma",
+    "tweetUrl": "https://x.com/OMAHL24yuma/status/2098298127669506201",
+    "createdAt": "September 11, 2026 at 03:30PM"
+  },
+  {
+    "text": "@_maybebabyshota 谷端くん見てきて😭♩",
+    "userName": "s2enanyan",
+    "tweetUrl": "https://x.com/s2enanyan/status/2098312505856831577",
+    "createdAt": "September 11, 2026 at 04:27PM"
+  },
+  {
+    "text": "なんとなく本屋で見かけたBBMのタイガースカード買ったら谷端くんのサインカード入ってた！！！！\nこれは応援せざるを得ない\n打てるセカンドになってくれ！！！！！虎の未来！！！！ https://t.co/EYg6lCT6Jc",
+    "userName": "vivinovivi029",
+    "tweetUrl": "https://x.com/vivinovivi029/status/2098323754883686653",
+    "createdAt": "September 11, 2026 at 05:12PM"
+  },
+  {
+    "text": "きたたにずいこおえんよ！\nはじめまちて！\n#でえすいついいと\n#はやい\n#しごとおわりわまわる🌀🌀\n#北区\n#北谷端公園\n#盆踊り\n櫓上部の看板が気になりすぎるwww www https://t.co/Wd6Np1xNqc https://t.co/2OBnMWXlFS",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098339796020244954",
+    "createdAt": "September 11, 2026 at 06:16PM"
+  },
+  {
+    "text": "踊り場ロープ\n六角形の闘技場みたくなた！\nかっくいい！\n#北区\n#北谷端公園\n#盆踊り https://t.co/NLdYF6o5Kf https://t.co/JkPa14fxmS",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098343778314834003",
+    "createdAt": "September 11, 2026 at 06:31PM"
+  },
+  {
+    "text": "1845\n太鼓とチンチロ始まったが\n知らない曲で踊れねえwww www\n#北区\n#北谷端公園\n#盆踊り",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098347779106205878",
+    "createdAt": "September 11, 2026 at 06:47PM"
+  },
+  {
+    "text": "北谷端にて盆踊り https://t.co/xNpo3knNAj",
+    "userName": "akekazashi32",
+    "tweetUrl": "https://x.com/akekazashi32/status/2098349101964496955",
+    "createdAt": "September 11, 2026 at 06:53PM"
+  },
+  {
+    "text": "今日の盆踊りは、 \n北谷端公園、\n 「瀧野川八幡神社御祭礼音頭会」\n19時〜始まりました❣️\n\n#盆踊り \n#北谷端公園 https://t.co/LcDUP7pH7r",
+    "userName": "wadaikoCH",
+    "tweetUrl": "https://x.com/wadaikoCH/status/2098352958991966517",
+    "createdAt": "September 11, 2026 at 07:08PM"
+  },
+  {
+    "text": "着いた。\nにしても、ご当地盆踊りが続いて、わかんねえ(笑)\n#盆踊り\n#北谷端公園 https://t.co/5uUbEl9YOf",
+    "userName": "myu_sucre",
+    "tweetUrl": "https://x.com/myu_sucre/status/2098355511414681918",
+    "createdAt": "September 11, 2026 at 07:18PM"
+  },
+  {
+    "text": "@aredonden18602 ドーム限定ならまあ大きく影響はないかもしれませんが、どうせ来年以降サードが空く訳で\nしかも佐藤のサード守備は後半戦しばらくは安定してましたがまた悪化してきています\n加えて外野候補がもう今年上がりがなさそうな福島と前川だけなのに対し、立石ディベ谷端と候補が多いのでサードを空けたい",
+    "userName": "Alector1",
+    "tweetUrl": "https://x.com/Alector1/status/2098372109063872527",
+    "createdAt": "September 11, 2026 at 08:24PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「流行病」の解説\n空気も入ってこないようにした為、男は窒息死した。\n酸素が薄いことに気づいた時には既に体は思うように動かなくなっていた。\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/pK7nHaqlGo",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2098380031538119060",
+    "createdAt": "September 11, 2026 at 08:56PM"
+  },
+  {
+    "text": "今日の盆踊りは、 \n北谷端公園、\n 「瀧野川八幡神社御祭礼音頭会」\n盆踊り終わりました❣️\nお疲れ様でしたm(_ _)m\n\n#盆踊り \n#北谷端公園 https://t.co/3v7xrYhSDR",
+    "userName": "wadaikoCH",
+    "tweetUrl": "https://x.com/wadaikoCH/status/2098382960449995028",
+    "createdAt": "September 11, 2026 at 09:07PM"
+  },
+  {
+    "text": "北区\n北谷端公園盆踊り大会終了〜\n18時30分から20時30分かと思ったけど\n21時くらいまでだたwww\nつーか！\nめちゃくちゃ楽しかった〜！\nご当地ふるさと北区\n北谷端さくら音頭？\nあともう一個\n特に北谷端さくら音頭の振りが\n雅で素敵〜🥰\n婦人部さんも居ないから\n櫓あがり放題www https://t.co/OYrEnSnDMg",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098384389835284753",
+    "createdAt": "September 11, 2026 at 09:13PM"
+  },
+  {
+    "text": "お手本は踊りの先生風のおばあさんと\nみんな大好き花凜ちゃんと\n浴衣のお姉さんがリードしてくれたので\nそれを参考に😊\nゆかた音頭も左右に移動しない\nずっと右、さらに回転しまくりバージョン\n最初、気持ち悪かったけど\n慣れたらきもちいいいいいい\nここ\n北谷端公園盆踊り\nいいわ！\n毎年こよ😉",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098385171955499201",
+    "createdAt": "September 11, 2026 at 09:16PM"
+  },
+  {
+    "text": "櫓へは踊りの先生に手を引っ張られて😂\nその後はノリノリで降りなかったw\n櫓上の人が寂しかったのでね😅\n終わってから先生にあいさつ行ったら\nテントの接待席にお呼ばれされたけど\n気持ちだけ頂きました\n帰ってペットたちの接待しなきゃ🤪\n人も\n踊りも\n気持ちの良い会場でした\n北谷端公園明日も是非",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098386211706720345",
+    "createdAt": "September 11, 2026 at 09:20PM"
+  },
+  {
+    "text": "大塚に川があったの知らなかった。谷端川。要町の暗渠公園になってるところだ。",
+    "userName": "morion_airline",
+    "tweetUrl": "https://x.com/morion_airline/status/2098393846178869453",
+    "createdAt": "September 11, 2026 at 09:50PM"
+  },
+  {
+    "text": "-\n\n阪神タイガース\n\n７月の得点圏打率がショボい件\n\nhttps://t.co/rOeOTW6hSi\n\n#ポンコツ打線()\n#エセスラッガー()\n#草野球チーム()\n\n糸原()立石()木浪()岡城()谷端()熊谷()\n号泣😖😢😭💨石井()\nガルシア()\n\nホワイトボードぼかーん罰金10万円\n審判に暴言＆喧嘩を売るジェスチャー罰金10万円\n\nアホ👇",
+    "userName": "osaka1pon",
+    "tweetUrl": "https://x.com/osaka1pon/status/2098452836841648175",
+    "createdAt": "September 12, 2026 at 01:45AM"
+  },
+  {
+    "text": "散歩記録。令和8年9月11日(金)は池袋、谷端川緑道を歩きました。22,004歩。写真は雨朝の谷端川緑道。#1万歩クラブ https://t.co/FM9V4xFvRl",
+    "userName": "animesama",
+    "tweetUrl": "https://x.com/animesama/status/2098485547954294836",
+    "createdAt": "September 12, 2026 at 03:55AM"
   }
 ]
