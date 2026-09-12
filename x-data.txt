@@ -4828,5 +4828,365 @@
     "userName": "animesama",
     "tweetUrl": "https://x.com/animesama/status/2098485547954294836",
     "createdAt": "September 12, 2026 at 03:55AM"
+  },
+  {
+    "text": "宮下くん欲しかった気持ちと、阪神じゃ絶対こうは育たんやろって気持ちがある\nそもそもセカンド本職の選手だしね\nショートのチャンスすら無さそうだし、今の谷端くらいの打撃になってそう",
+    "userName": "kouya_tigers99",
+    "tweetUrl": "https://x.com/kouya_tigers99/status/2098537018942984456",
+    "createdAt": "September 12, 2026 at 07:19AM"
+  },
+  {
+    "text": "谷端は宮下くらいやってくれても不思議じゃない評価だったよな\n来年以降期待してる\n左に強いセカンドになれ https://t.co/d7nPOdbXDi",
+    "userName": "kouya_tigers99",
+    "tweetUrl": "https://x.com/kouya_tigers99/status/2098537233569722679",
+    "createdAt": "September 12, 2026 at 07:20AM"
+  },
+  {
+    "text": "@Giants__x 阪神も昨年ドラフトで立石、谷端、岡城という有望株獲得してるし投手は素材があれば育ててくる。\n結局、巨人・DeNA・阪神の争いは変わらない感じがする。",
+    "userName": "Souma40374242",
+    "tweetUrl": "https://x.com/Souma40374242/status/2098567308193214776",
+    "createdAt": "September 12, 2026 at 09:20AM"
+  },
+  {
+    "text": "忘れられた谷端 https://t.co/eFdA0eVYLQ",
+    "userName": "shima_Giants",
+    "tweetUrl": "https://x.com/shima_Giants/status/2098571961769365865",
+    "createdAt": "September 12, 2026 at 09:38AM"
+  },
+  {
+    "text": "@shima_Giants 有望株だけ入れてるので…\n谷端前評判良かったけど二軍でもかなりしんどい状態が続いてますしまだプロスペクト呼びは早いかなと\n本当は門別とか茨木も入れたかったんですけど同理由で…",
+    "userName": "u10uuuudon",
+    "tweetUrl": "https://x.com/u10uuuudon/status/2098578370841989382",
+    "createdAt": "September 12, 2026 at 10:04AM"
+  },
+  {
+    "text": "@Souma40374242 @Giants__x いや、立石、谷端、岡城以外の野手のプロスぺクトが少なすぎる気がする\nそれ以外だと高寺くらいじゃね？\n前川はポジション的に長打力微妙だし、福島は守備まずいし、小幡は毎年期待ほどはできてないし",
+    "userName": "sportszaka46",
+    "tweetUrl": "https://x.com/sportszaka46/status/2098589574310301985",
+    "createdAt": "September 12, 2026 at 10:48AM"
+  },
+  {
+    "text": "阪神二軍\n岡城\n島田\n木浪\n豊田\n榮枝\nガルシア\n小幡\n谷端\n下村\n\n投手　　下村\n\nオリックス二軍\n平沼\n横山\n三方\nシーモア\n内藤\n福永\n窪田\n元\n今坂\n\n投手　　陳",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://x.com/400216Susumu/status/2098616602480771155",
+    "createdAt": "September 12, 2026 at 12:36PM"
+  },
+  {
+    "text": "９／１２\n　ファームリーグVSオリックス\n\n先発：下村海翔\n\n１　岡城（中）\n２　島田（右）\n３　木浪（三）\n４　豊田（左）\n５　榮枝（捕）\n６　ガルシア（一）\n７　小幡（遊）\n８　谷端（二）\n９　下村（DH）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://x.com/fwkv1965/status/2098617777804526072",
+    "createdAt": "September 12, 2026 at 12:40PM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-09-12\nvsオリックス・バファローズ\n中 岡城快生 23歳 筑波大\n右 島田海吏 31歳 上武大\n三 木浪聖也 32歳 Honda\n左 豊田寛 29歳 日立製作所\n捕 榮枝裕貴 28歳 立命館大\n一 ガルシア 29歳 高知FD\n遊 小幡竜平 26歳 延岡学園\n二 谷端将伍 23歳 日本大\n投 下村海翔 25歳 青山学院大\n※26年度満年齢",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://x.com/kyureki_com/status/2098623554740969835",
+    "createdAt": "September 12, 2026 at 01:03PM"
+  },
+  {
+    "text": "にしても立石谷端が揃ってコケて小田宮下が相当上になるとはねぇ\nドラフトってのは分からないもんだ",
+    "userName": "Hotoppe_ch",
+    "tweetUrl": "https://x.com/Hotoppe_ch/status/2098625948430266853",
+    "createdAt": "September 12, 2026 at 01:13PM"
+  },
+  {
+    "text": "@wasshi_tigers 谷端あげてもいいよな",
+    "userName": "katojunichifan",
+    "tweetUrl": "https://x.com/katojunichifan/status/2098626767615590441",
+    "createdAt": "September 12, 2026 at 01:16PM"
+  },
+  {
+    "text": "谷端くん！！！ヒットーーー！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://x.com/mashiatu_2765/status/2098628489821950219",
+    "createdAt": "September 12, 2026 at 01:23PM"
+  },
+  {
+    "text": "谷端くん、DH投手まで回して偉い。",
+    "userName": "sio_seseri",
+    "tweetUrl": "https://x.com/sio_seseri/status/2098628555047653418",
+    "createdAt": "September 12, 2026 at 01:23PM"
+  },
+  {
+    "text": "谷端下村岡城の虎の未来たちで目の前光すぎて真っ白",
+    "userName": "htb_kuma",
+    "tweetUrl": "https://x.com/htb_kuma/status/2098629078282817595",
+    "createdAt": "September 12, 2026 at 01:25PM"
+  },
+  {
+    "text": "２回表\n\nガルシア　空三振　●\n小幡　中飛　●●\n谷端　右安👍　●●①\n下村　右安👍　●●①②\n岡城　四球　●●満塁\n島田　右飛　●●●\n\n阪神１－０オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://x.com/fwkv1965/status/2098629724901958126",
+    "createdAt": "September 12, 2026 at 01:28PM"
+  },
+  {
+    "text": "４回表\n\n小幡　ニゴ　●\n谷端　見三振　●●\n代：嶋村　中安👍　●●①\n岡城　三ゴ　●●●\n\n阪神１－２オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://x.com/fwkv1965/status/2098639282500190667",
+    "createdAt": "September 12, 2026 at 02:06PM"
+  },
+  {
+    "text": "#プロ野球 #ファーム #西地区 12日 #杉本商事\n#阪神-#オリックス\n【@Tigers_farm】\n1中岡城\n2右島田\n3三木浪\n4左豊田\n5捕榮枝\n6一ガルシア\n7遊小幡\n8二谷端\n#先発 #下村海翔\n【@Orix_Buffaloes】\n1指平沼\n2遊横山\n3左三方\n4一シーモア\n5三内藤\n6捕福永\n7中窪田\n8右元\n9二今坂\n先発 #陳\n#リカちゃん https://t.co/5FT5eDZun2",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://x.com/reo_naniwa/status/2098639450708574440",
+    "createdAt": "September 12, 2026 at 02:06PM"
+  },
+  {
+    "text": "谷端尻餅ついててかわいい（のんき）",
+    "userName": "htb_kuma",
+    "tweetUrl": "https://x.com/htb_kuma/status/2098649127194358053",
+    "createdAt": "September 12, 2026 at 02:45PM"
+  },
+  {
+    "text": "谷端くん、ストレートのフォアボール！\nまた満塁！！！！",
+    "userName": "mashiatu_2765",
+    "tweetUrl": "https://x.com/mashiatu_2765/status/2098649369352577323",
+    "createdAt": "September 12, 2026 at 02:46PM"
+  },
+  {
+    "text": "５回表\n\n島田　四球　①\n木浪　遊ゴ　●②\n豊田　右安👍　●①③\n代：川﨑　四球　●満塁\nガルシア　押出四球❶💕　●満塁\n小幡　一ゴ❶💕　●●②③\n谷端　四球　●●満塁\n　投手：山田修義\n嶋村　左飛　●●●\n\n阪神３－６オリックス",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://x.com/fwkv1965/status/2098650709168415030",
+    "createdAt": "September 12, 2026 at 02:51PM"
+  },
+  {
+    "text": "いろいろやって\n二度寝からの\nおはよう😙\n本日はコチラ\n毎年恒例の板橋駅前公園\nバーリントン広場盆踊り民謡おどり\n#板橋区\n#盆踊り\n昨日楽しかった北谷端公園との\n直線距離300メートルちょっと\n気になる🤪\n神輿タイムの時、移動するか？😎\n#北区\n#盆踊り https://t.co/rOZKs2IgI5 https://t.co/j49kvZFX0J",
+    "userName": "rollingasahi",
+    "tweetUrl": "https://x.com/rollingasahi/status/2098657373934293009",
+    "createdAt": "September 12, 2026 at 03:18PM"
+  },
+  {
+    "text": "中野しょうもないなら何なら谷端に賭けてもええんやぞ別に\n多分今は普通にしてたら勝てねえ",
+    "userName": "tamaryu0113",
+    "tweetUrl": "https://x.com/tamaryu0113/status/2098657577051763123",
+    "createdAt": "September 12, 2026 at 03:18PM"
+  },
+  {
+    "text": "セカンド谷端の方がおもろい。",
+    "userName": "Aji4e",
+    "tweetUrl": "https://x.com/Aji4e/status/2098657636707414393",
+    "createdAt": "September 12, 2026 at 03:19PM"
+  },
+  {
+    "text": "《左がいない？》\n阪神の若手、投打共に左がいない？感が強く感じます。佐藤輝明が来季メジャー移籍前提で考えた場合、森下,立石,谷端,西純,山田と右が多い。まだ高寺や前川がいるだけマシも…。\nリリーフ投手は右が木下や工藤が台頭してる反面、左は若手は及川が奮闘も桐敷が…。門別をリリーフに？ https://t.co/7k5BB0FSCR",
+    "userName": "PlayFronter",
+    "tweetUrl": "https://x.com/PlayFronter/status/2098658417879695394",
+    "createdAt": "September 12, 2026 at 03:22PM"
+  },
+  {
+    "text": "そもそも何であの外人は一軍にいるんだ？谷端くんの方が打ってくれそうだよ",
+    "userName": "chatachata0319",
+    "tweetUrl": "https://x.com/chatachata0319/status/2098675702208045561",
+    "createdAt": "September 12, 2026 at 04:30PM"
+  },
+  {
+    "text": "@Torad_2012 多分一軍首脳陣の意向だと思う。\n平田は谷端とともに育成にシフトしてるので立石は上げたくなかったから、豊田と畠を推薦と思うよ。",
+    "userName": "SuzushiAmaaji",
+    "tweetUrl": "https://x.com/SuzushiAmaaji/status/2098680759607591355",
+    "createdAt": "September 12, 2026 at 04:50PM"
+  },
+  {
+    "text": "ディベイニーとかなぜ出すんだよ\n\nコンタクト能力なら谷端の方が高いのに",
+    "userName": "hidenori0192",
+    "tweetUrl": "https://x.com/hidenori0192/status/2098683729187410251",
+    "createdAt": "September 12, 2026 at 05:02PM"
+  },
+  {
+    "text": "今日の立石2番は良かった\n明日以降も続けよ\nで、打ててない中野と元山は見切らんとあかんよ。2021も梅野見切るのが遅くて優勝逃した\n髙寺熊谷立石谷端などセカンド試してきたんやからセカンドの代替はおるやろ",
+    "userName": "TalkAboutHT",
+    "tweetUrl": "https://x.com/TalkAboutHT/status/2098684529053773907",
+    "createdAt": "September 12, 2026 at 05:05PM"
+  },
+  {
+    "text": "ディベイニーはもう1軍で見ることはないやろ(残念だけどもう落としてほしい)\n立石谷端岡城みたいな若手の三振より収穫ないもんな",
+    "userName": "C10S4Baseball",
+    "tweetUrl": "https://x.com/C10S4Baseball/status/2098684947523612837",
+    "createdAt": "September 12, 2026 at 05:07PM"
+  },
+  {
+    "text": "今後のスタメンは遥人の時は伏見にしてそれ以外は今日のスタメンで固定しようぜ。立石を育てよう。あとは岡城と谷端が出てきてくれれば。 #阪神タイガース",
+    "userName": "hyogo_5koku",
+    "tweetUrl": "https://x.com/hyogo_5koku/status/2098688584333361329",
+    "createdAt": "September 12, 2026 at 05:22PM"
+  },
+  {
+    "text": "今日の試合は首脳陣でどうにかできるもんじゃないからまあ仕方ない\n\nただ後半戦で勝ちにいかんといけん月でガルシアとかディベイニー、谷端、岡城をスタメンしたりして負けた試合が効いてきてる現状だからそこだよねって",
+    "userName": "Mitei_hima",
+    "tweetUrl": "https://x.com/Mitei_hima/status/2098690973740249104",
+    "createdAt": "September 12, 2026 at 05:31PM"
+  },
+  {
+    "text": "@tmyn_93 今は耐えるしかないかな\n批判上等で藤川が頑張ってるからそれを見るしかない\n\nただ岡城と谷端とか嶋村をこの場面経験させて欲しいからあげてほしい\n\nむしろでぃべとかは下に下げて欲しい",
+    "userName": "hndsankakeee39",
+    "tweetUrl": "https://x.com/hndsankakeee39/status/2098693903167967346",
+    "createdAt": "September 12, 2026 at 05:43PM"
+  },
+  {
+    "text": "谷端くんも上げたいけど、土グラ無理そうやろあの子\n守備固め中野やる？",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://x.com/shio_arakajime/status/2098694623342526905",
+    "createdAt": "September 12, 2026 at 05:46PM"
+  },
+  {
+    "text": "出来たら谷端も、また試して欲しいけどなあ",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://x.com/shio_arakajime/status/2098697894534795335",
+    "createdAt": "September 12, 2026 at 05:59PM"
+  },
+  {
+    "text": "@TigersDreamlink 外国人の打席ているの？どうせ来年おらんのやし、どうせアウトなんから２軍から百崎や山田、谷端を上げてきて経験積ませた方が良くないの？？横浜は意気のいい若手がドンドン出てきてるのに‥",
+    "userName": "yamato_d1976",
+    "tweetUrl": "https://x.com/yamato_d1976/status/2098702272083738673",
+    "createdAt": "September 12, 2026 at 06:16PM"
+  },
+  {
+    "text": "@ginpara2026 豊田か谷端をおくれ",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://x.com/shio_arakajime/status/2098703721366692164",
+    "createdAt": "September 12, 2026 at 06:22PM"
+  },
+  {
+    "text": "8月の優勝に向け大事な時期に、左右にこだわりスタメン谷端、岡城、熊谷とか3人も入れ替えてお試ししてみたり、セリーグを舐めてると感じられる采配。日シリのホークス対策の配球を試させたり、セリーグ各球団を格下に見ているところが隠しきれていない。外国人がことごとくダメなどの不幸も否めないが",
+    "userName": "bigbangmode2002",
+    "tweetUrl": "https://x.com/bigbangmode2002/status/2098704330560024791",
+    "createdAt": "September 12, 2026 at 06:24PM"
+  },
+  {
+    "text": "@Jynx80291886 有望な若手(野手)\n阪神:立石、谷端、岡城、高寺\n広島:平川、持丸、西川、内田\nヤク:内山、長岡、西村、松下\n\nかなり厳しい印象",
+    "userName": "sportszaka46",
+    "tweetUrl": "https://x.com/sportszaka46/status/2098706907766890804",
+    "createdAt": "September 12, 2026 at 06:34PM"
+  },
+  {
+    "text": "山田、百崎、井坪が育ってない、濱田や小野寺も働いてない、岡城、谷端はこれからやとしても、未来暗くないか…\n佐藤森下出て行ったら終わりやろ。",
+    "userName": "sysy_tmr",
+    "tweetUrl": "https://x.com/sysy_tmr/status/2098710393430704618",
+    "createdAt": "September 12, 2026 at 06:48PM"
+  },
+  {
+    "text": "台本\n作者名：鍵谷端哉 様\n作品名：ぼくのドッペルゲンガー\n作品URL\nhttps://t.co/pg8IvyeLzM\nサイト名：鍵谷シナリオブログ\nhttps://t.co/sIuhlXRBLn",
+    "userName": "kinme_tora",
+    "tweetUrl": "https://x.com/kinme_tora/status/2098710977462313232",
+    "createdAt": "September 12, 2026 at 06:51PM"
+  },
+  {
+    "text": "@zL4TeVrtWG20622 @Tigers_140609 それ以外何あんの？\n切り替えて来シーズン向けて動くのは当然やろ\n分析して何が必要か精査せずに泣き喚き散らしとけと？\n分析してるから立石、谷端、岡城去年取ったんだろ",
+    "userName": "cLsZgIEHS7d88Qi",
+    "tweetUrl": "https://x.com/cLsZgIEHS7d88Qi/status/2098714520273506375",
+    "createdAt": "September 12, 2026 at 07:05PM"
+  },
+  {
+    "text": "🏮【祭礼音頭会が始まりました】\n\n谷端親交会🏮祭礼音頭会が北谷端公園で開催されています\n\n青年部の皆さんが中心になってフランクフルト、わたあめ、かき氷🍧の屋台を出していただいています\n\n沢山の方が参加して賑わっています\n\nご準備いただいた役員の皆様、ありがとうございます😊 https://t.co/gbkTmlYggq",
+    "userName": "miyajimaosamu",
+    "tweetUrl": "https://x.com/miyajimaosamu/status/2098716620575354887",
+    "createdAt": "September 12, 2026 at 07:13PM"
+  },
+  {
+    "text": "まだあるぞ\n\n選手のファームの\n入れ替えも多すぎ\n\nひとつの例やが\nこないだ谷端くんあげて\nバンドのサイン出て\n一発で決めたのに\nファームへ落とされた\n\nベンチのサインを\n決めた選手に\n次のチャンスないんか\n\nベンチのサインの\n重要度とか決めた選手への\n評価はどーなっとんね\n\nほんまに\n\nホー…",
+    "userName": "oga_press",
+    "tweetUrl": "https://x.com/oga_press/status/2098725757900267812",
+    "createdAt": "September 12, 2026 at 07:49PM"
+  },
+  {
+    "text": "ホームラン打てって\nサインあるんかよ\n↑あるわけないやろ💣\n\nベンチの采配サインを\n選手が正しく応えたら\n評価したれよ\n\n谷端くんのは一例やけど\n他の選手もあるやろ\n\nそんなとこから\n綻びでてるんじゃないですか\n\n以上耐え難きを忍んだゆえの\n発言をお許しください",
+    "userName": "oga_press",
+    "tweetUrl": "https://x.com/oga_press/status/2098726832367657138",
+    "createdAt": "September 12, 2026 at 07:54PM"
+  },
+  {
+    "text": "【ファームハイライト】2026/9/12（土）オリックス - 阪神（富田林BS）\n【スコア詳細】\n阪神　　　｜100｜020｜000｜3\nオリックス｜011｜404｜10X｜11 \n本塁打：窪田 2号(2回裏ソロ) 今坂 1号(4回裏3ラン) 内藤 10号(7回裏ソロ)  https://t.co/dGCK8c6rgY\n\n『若虎打線11安打も3度の満塁生かせず残塁の山…投壊乱調で9被安打11失点、オリックスに大敗！』\n\n阪神はオリックスとのウエスタン・リーグ（1リーグ3地区制・西地区）の公式戦に3―11で大敗を喫した。打線は相手を上回る11安打を放ちながらも、あと一本が出ず3点止まり。一方で投手陣が被安打9ながら3被本塁打、7四死球と乱れ、大量11失点を献上。投打の効率の差がくっきりと出る苦しいゲームとなった。\n\n■ 木浪の先制打＆豊田のマルチなど11安打も…満塁好機生かせず\n\n・試合は初回、敵の失策と島田海吏外野手の右前打で好機を作ると、3番・木浪聖也内野手が右前へ鮮やかな先制タイムリー。幸先よく1点を先行したが、続く4番・豊田寛外野手が6-4-3の併殺打に倒れて追加点のチャンスを潰した。\n\n・2回表、2死満塁とするも、2番・島田海吏が低めの球を打ち取られてライトフライに倒れ、チャンスを逃す。\n\n・さらに5回表にはガルシア外野手の押し出し四球と小幡竜平内野手の内野ゴロの間に2点を加え、反撃の口火を切った。しかし、なおも続いた満塁の好機で代打・嶋村麟士朗が高めのストレートを打ち上げてレフトフライ。一気加点の場面を逃した。\n\n・6回表は2死一、三塁で5番・川﨑俊哲がファーストゴロ、8回表の2死満塁では6番・山﨑照英もファーストゴロに倒れ、反撃の芽を摘まれた。\n\n・9回表も2死二塁で1番・岡城快生が高めのストレートを打つもセンターフライに倒れ、ゲームセットとなった。\n\n・この日は木浪が2安打1打点、豊田が2安打、嶋村も途中出場から2安打を放つなど、チーム合計11安打と活気自体は見せた。しかし、2回2死満塁、5回2死満塁、8回2死満塁と、訪れた3度のビッグチャンスでいずれも決定打が出ず。あと一本が出ないもどかしい展開が最後まで続いた。\n\n【本日の主な打者の成績】\n岡城快生0.244(5打数 0安打 0打点 0三振 1四死球 0本塁打)\n島田海吏0.263(2打数 1安打 0打点 0三振 2四死球 0本塁打)\n木浪聖也0.229(4打数 2安打 1打点 0三振 0四死球 0本塁打)\n豊田寛0.275(4打数 2安打 0打点 0三振 1四死球 0本塁打)\nガルシア0.175(3打数 0安打 1打点 2三振 1四死球 0本塁打)\n小幡竜平0.227(3打数 0安打 1打点 0三振 0四死球 0本塁打)\n谷端将伍0.221(2打数 1安打 0打点 1三振 1四死球 0本塁打)\n嶋村麟士朗0.279(4打数 2安打 0打点 0三振 0四死球 0本塁打)\n山田脩也0.207(1打数 1安打 0打点 0三振 0四死球 0本塁打)\n川﨑俊哲0.147(2打数 1安打 0打点 0三振 1四死球 0本塁打)\n下村海翔0.5(1打数 1安打 0打点 0三振 0四死球 0本塁打)\n\n■ 投手陣が大乱調…4つの押し出し含む11失点で崩壊\n\n投手陣は一発と制球難に泣かされた。\n\n・先発の下村海翔投手は3回3被安打2失点（自責2）。2回に窪田に同点ソロを浴びると、3回には自身の暴投も絡んで勝ち越しを許し、降板した。\n\n・続く2番手・能登嵩都投手も4回に今坂の3ランを含む3安打4失点と大炎上。\n\n・さらに6回には4番手・松原快投手も制球を大きく乱し、1回持たず4四死球4失点。\n\n・交代した小川一平投手も流れを止められず、7回に内藤に被弾するなど追加点を許した。\n\n◇\n\n安打数では相手（9安打）を上回りながら、相手の一発と四球攻勢に対して、自陣の制球難と勝負どころでの不発が致命傷となった阪神。最下位広島と1.5差となり、再び地区最下位争いが再燃し、若虎野手陣の勝負強さの磨き直しと、投手陣の制球力修正が急務になった。\n\n【本日の投手の成績】\n下村海翔2.84(3回 42球 被安打3 本塁打1 奪三振3 四死球1 自責点2)\n能登嵩都3.72(1回 29球 被安打3 本塁打1 奪三振2 四死球1 自責点4)\n桐敷拓馬4.55(1回 7球 被安打0 本塁打0 奪三振0 四死球0 自責点0)\n松原快5.29(0.1回 29球 被安打2 本塁打0 奪三振0 四死球4 自責点4)\n小川一平4.66(2.2回 28球 被安打1 本塁打1 奪三振2 四死球0 自責点1)",
+    "userName": "shin1787523",
+    "tweetUrl": "https://x.com/shin1787523/status/2098745967424270772",
+    "createdAt": "September 12, 2026 at 09:10PM"
+  },
+  {
+    "text": "今シーズンはもう二位に決まったので、あとは立石と谷端と岡城を育てて、怪我人を出さないようにして、遥人とか疲れてる選手をリフレッシュさせてくれ。当然CSはすぐ負けるのだから、藤川はそれくらいはして来期の監督につないでくれ。",
+    "userName": "k_moro825",
+    "tweetUrl": "https://x.com/k_moro825/status/2098756745170665833",
+    "createdAt": "September 12, 2026 at 09:52PM"
+  },
+  {
+    "text": "【初犠打】5回裏、プロ初出場初スタメンの#谷端将伍 選手がピッチャー前へプロ初犠打を記録！【2026/8/19 Ｔ－Ｓ】 https://t.co/JJkPG4DeIv @YouTubeより",
+    "userName": "hawkssoulcom",
+    "tweetUrl": "https://x.com/hawkssoulcom/status/2098760786785243144",
+    "createdAt": "September 12, 2026 at 10:08PM"
+  },
+  {
+    "text": "【日米大学野球ハイライト・7/12】日本4連勝！谷端3打点の活躍！21年ぶりの全勝優勝へ【第4戦】 https://t.co/8q9TWnMMY1 @YouTubeより",
+    "userName": "hawkssoulcom",
+    "tweetUrl": "https://x.com/hawkssoulcom/status/2098761723541098709",
+    "createdAt": "September 12, 2026 at 10:12PM"
+  },
+  {
+    "text": "【ハイライト】3/18(水) 神13－0オ（ＳＧＬ）| 谷端、4打点！コンスエグラ、今季ＳＧＬチーム第1号！猛打爆発14安打13得点！5回コール... https://t.co/DYO83UPlEM @YouTubeより",
+    "userName": "hawkssoulcom",
+    "tweetUrl": "https://x.com/hawkssoulcom/status/2098762487760142554",
+    "createdAt": "September 12, 2026 at 10:15PM"
+  },
+  {
+    "text": "９月１２日　⚡その１\n板橋駅前公園🚶→北谷端公園\n\n🌟板橋駅西口の地元の\n　賑やかな盆踊り会場🤗\n\n🌟魂舞会さんの内のお二人が来場\n⭐舞い上がれ板橋\n⭐きよズン（板橋バージョン)\n\n🌟１時間１０分程楽しく踊って\n北谷端公園へ移動🚶\n#盆踊り\n#東京都板橋区\n#板橋駅前公園 https://t.co/5IGl5lK0HT",
+    "userName": "gPVEQeAD9U10257",
+    "tweetUrl": "https://x.com/gPVEQeAD9U10257/status/2098762685001416894",
+    "createdAt": "September 12, 2026 at 10:16PM"
+  },
+  {
+    "text": "《阪神ドラフト２位》日本大・谷端将伍｜侍戦士が阪神入団への喜びを語る！ https://t.co/vxCU45gDLU @YouTubeより",
+    "userName": "hawkssoulcom",
+    "tweetUrl": "https://x.com/hawkssoulcom/status/2098762775564849175",
+    "createdAt": "September 12, 2026 at 10:16PM"
+  },
+  {
+    "text": "アイブラック兄弟の再来ってそうそうできなさそう。大卒野手行くなら、安心と信頼の明治大学か戦国東都で成績残してるタイプとか、ある程度完成度高い選手かなあ？（谷端はこのタイプ？) https://t.co/mxzGWpkPrk",
+    "userName": "kanekoiroha",
+    "tweetUrl": "https://x.com/kanekoiroha/status/2098763462105252135",
+    "createdAt": "September 12, 2026 at 10:19PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「人魚の肉」の解説\n男は不老不死になり、そのことを誰にも理解されず孤独だった\nだから、男は『不老不死の人間を増やすため』に人魚を殺し、肉をはぎ取ったのだ\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/pK7nHapNQQ",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2098769095516635392",
+    "createdAt": "September 12, 2026 at 10:42PM"
+  },
+  {
+    "text": "９月１２日　　⚡その２\n北谷端公園\n🌟板橋駅東口の北区側に有る\n　広い公園😊\n\n🌟僕と数名が移動後\n魂舞会さんのお二人も合流🤗\n\n今井花凛さん（リンリン)発見🧐\n\n🌟僕は好きなウルトラソウルだけ\n　櫓の上で踊った👍\n\n🌟マツケンサンバで魂舞会さん櫓　　　　　へ\n#盆踊り\n#東京都北区\n#北谷端公園 https://t.co/XPhpLNqvVS",
+    "userName": "gPVEQeAD9U10257",
+    "tweetUrl": "https://x.com/gPVEQeAD9U10257/status/2098771812528394488",
+    "createdAt": "September 12, 2026 at 10:52PM"
+  },
+  {
+    "text": "今日は北谷端公園の盆踊りに行ってきました！\n\n先日は雨で中止になってしまったので今日は踊れて嬉しかったです！\n\n東京谷端さくら音頭も踊れて嬉しかったなぁ✨ https://t.co/ijyk4pCPT3",
+    "userName": "patapatapapapa3",
+    "tweetUrl": "https://x.com/patapatapapapa3/status/2098772071065244105",
+    "createdAt": "September 12, 2026 at 10:53PM"
+  },
+  {
+    "text": "もうこの時期やし、ディベイニーと糸原落として嶋村か豊田か谷端上げたらよくない?\n代打専門なら嶋村か豊田、中野のセカンド休養入れるなら谷端。\nもう嶋村も下で十分マスク被ったし、ここで代打として上げてもええと思われます。",
+    "userName": "0ta0taHatniki",
+    "tweetUrl": "https://x.com/0ta0taHatniki/status/2098778926436983263",
+    "createdAt": "September 12, 2026 at 11:21PM"
+  },
+  {
+    "text": "谷端親交会 祭礼音頭会🏮\n\n滝野川八幡神社の御祭禮週間にあわせて\n北谷端公園で開催✨\n\n提灯が灯る櫓を囲んで、地域の皆さんの踊りの輪が広がりました😊\nダンシングヒーローやウルトラソウルなどは\nやっぱり盛り上がります🙌\n\nそしてたくさんの夜店もお楽しみのひとつ⭐️\n子どもから大人まで、たくさんの笑顔に出会いました☺️\n\n谷端親交会の皆さまをはじめ、地域の皆さん、3日間ありがとうございました🤝\n\n#北区 #きたいを超える東京北区 #谷端親交会 #滝野川八幡神社 #北区長",
+    "userName": "y_kana620",
+    "tweetUrl": "https://x.com/y_kana620/status/2098788641212625362",
+    "createdAt": "September 12, 2026 at 11:59PM"
+  },
+  {
+    "text": "谷端親交会 祭礼音頭会🏮\n\n滝野川八幡神社の御祭禮週間にあわせて\n北谷端公園で開催✨\n\n提灯が灯る櫓を囲んで、地域の皆さんの踊りの輪が広がりました😊\nダンシングヒーローやウルトラソウルなどは\nやっぱり盛り上がります🙌\n\nそしてたくさんの夜店もお楽しみのひとつ⭐️\n子どもから大人まで、たくさんの笑顔に出会いました☺️\n\n谷端親交会の皆さまをはじめ、地域の皆さん、3日間ありがとうございました🤝\n\n#北区 #きたいを超える東京北区 #谷端親交会 #滝野川八幡神社 #北区長",
+    "userName": "y_kana620",
+    "tweetUrl": "https://x.com/y_kana620/status/2098789404114604423",
+    "createdAt": "September 13, 2026 at 12:02AM"
+  },
+  {
+    "text": "やまだ区長\n高木けい衆議院議員と\n\n今シーズン最後の盆踊りへ\n【谷端親交会 祭礼音頭会🏮】\nとても賑わっていました☺️\n\n来週は『滝野川八幡神社例大祭』\n今年は秋祭りらしい天候が\n期待できますように🙏\n\n（暑すぎないでお願いしますの意） https://t.co/tJdPhvHd4l",
+    "userName": "kita_hiratarisa",
+    "tweetUrl": "https://x.com/kita_hiratarisa/status/2098791945384673493",
+    "createdAt": "September 13, 2026 at 12:12AM"
+  },
+  {
+    "text": "第3弾\nシークレットキーホルダー\n阪神タイガース\n球場限定\n【譲】\n木浪、★大山、佐藤、伏見、★大竹、高橋、★村上×2、湯浅、★高寺、★立石、★谷端、ルーカス、岡城\n【求】\n同種:才木、森下\n★選手は定価譲可\n\n検索よりお気軽にお声がけください🙇🏻‍♀️\nよろしくお願いいたします😊 https://t.co/Kw2yCxhZaD",
+    "userName": "sep7m_1sm_35hs",
+    "tweetUrl": "https://x.com/sep7m_1sm_35hs/status/2098814332964683966",
+    "createdAt": "September 13, 2026 at 01:41AM"
   }
 ]
