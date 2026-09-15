@@ -3350,5 +3350,13 @@
     "publishedAt": "September 13, 2026 at 06:00PM",
     "description": "【阪神タイガース】谷端 将伍【6月6日 Tigers vs Buffaloes】#shorts 6月6日、Tigers vs Buffaloes。 阪神タイガース・谷端 将伍の ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "東京谷端さくら音頭　北谷端公園盆踊り１　2026年9月11日　滝野川八幡神社御祭禮音頭会　#盆踊りのりんりん",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wuTGJjTv87Q",
+    "publishedAt": "September 15, 2026 at 12:00PM",
+    "description": "2026年9月11日に東京都北区の北谷端公園で開催された、滝野川八幡神社御祭禮音頭会（盆踊り）の様子です。 活気あふれる和 ...",
+    "keyword": "谷端 阪神"
   }
 ]
