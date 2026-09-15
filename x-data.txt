@@ -5554,5 +5554,125 @@
     "userName": "2IFm5Nss6X5227",
     "tweetUrl": "https://x.com/2IFm5Nss6X5227/status/2099578718150894024",
     "createdAt": "September 15, 2026 at 04:19AM"
+  },
+  {
+    "text": "@ryu_tayan ショートは木浪小幡元山、セカンド外野に谷端高寺前川立石岡城福島、色々使ってるのに育たんのは選手の責任やろ。もしくは二軍首脳陣",
+    "userName": "mokuson8",
+    "tweetUrl": "https://x.com/mokuson8/status/2099679133752295887",
+    "createdAt": "September 15, 2026 at 10:58AM"
+  },
+  {
+    "text": "阪神は渡邊隼輔(徳島インディゴソックス)を指名できれたら低レベルな内野手でサバイバルが始まってしまうな😁\n\n糸原\n木浪\n植田\n小幡\n佐野\n谷端\n山田\n百﨑\n戸井※育成\n川﨑※育成",
+    "userName": "MILOVE2428",
+    "tweetUrl": "https://x.com/MILOVE2428/status/2099691418965213669",
+    "createdAt": "September 15, 2026 at 11:46AM"
+  },
+  {
+    "text": "谷端ってベストコンディションでこの成績なのかな。\n\n試合数が違うとはいえ松下は打ててるのに。",
+    "userName": "suzu_rasu",
+    "tweetUrl": "https://x.com/suzu_rasu/status/2099703412204212289",
+    "createdAt": "September 15, 2026 at 12:34PM"
+  },
+  {
+    "text": "橋上さんなら経営陣と何のしがらみも無いので、\n福島くんや立石、谷端をちゃんとしてくれる\n #hanshin",
+    "userName": "Buildup_Works",
+    "tweetUrl": "https://x.com/Buildup_Works/status/2099726708366840208",
+    "createdAt": "September 15, 2026 at 02:07PM"
+  },
+  {
+    "text": "阪神タイガース　シークレット　交換\n\n譲　画像、サイン谷端、椎葉\n求　買取or町田、木下、元山\n\n交換or買取\n現地手渡し、後日手渡し可能\n\nサインは交換のみ\n\n#阪神タイガースシークレット交換 #阪神タイガース交換　#阪神タイガースシークレットキーホルダー https://t.co/IvVKc7p7KW",
+    "userName": "t__hyt_",
+    "tweetUrl": "https://x.com/t__hyt_/status/2099753142078628146",
+    "createdAt": "September 15, 2026 at 03:52PM"
+  },
+  {
+    "text": "@hanshintigersjp 嶋村谷端辺りは、また上がってこれるように特に頑張れ",
+    "userName": "shio_arakajime",
+    "tweetUrl": "https://x.com/shio_arakajime/status/2099756659098943723",
+    "createdAt": "September 15, 2026 at 04:06PM"
+  },
+  {
+    "text": "■2軍成績😭\n\n井坪(21)  .289  1本  7点\n岡城(23)  .244  0本  15点\n谷端(22)  .219  0本  24点\n中川(22)  .091  0本  3点\n百崎(21)  .206  4本  17点\n山田(21)  .211  4本  16点\n西純(25)  .233  0本  10点\n小幡(26)  .218  1本  9点\n\n他球団の練習方法と見比べてみたい\n#阪神タイガース",
+    "userName": "mori15nori12",
+    "tweetUrl": "https://x.com/mori15nori12/status/2099767015569494266",
+    "createdAt": "September 15, 2026 at 04:47PM"
+  },
+  {
+    "text": "米沢ドラ1って記事が出てたけど、実際かなりある\n\n伊原も不祥事で先行き怪しいし、去年のドラフト野手脳死3連打がちょっとやりすぎ感ありすぎる(特に立石と同カテゴリの谷端重ねて宮下逃してる点)",
+    "userName": "tm_dragons_",
+    "tweetUrl": "https://x.com/tm_dragons_/status/2099771677492253082",
+    "createdAt": "September 15, 2026 at 05:05PM"
+  },
+  {
+    "text": "岡城谷端井坪ガルシア嶋村木浪小幡島田川﨑とかでいいだろ",
+    "userName": "tora_basami38",
+    "tweetUrl": "https://x.com/tora_basami38/status/2099772436636155943",
+    "createdAt": "September 15, 2026 at 05:08PM"
+  },
+  {
+    "text": "９／１５\n　ファームリーグVS広島\n\n先発：石黒佑弥\n\n１　岡城（中）\n２　島田（右）\n３　谷端（二）\n４　木浪（三）\n５　嶋村（捕）\n６　小幡（遊）\n７　ガルシア（一）\n８　井坪（左）\n９　川﨑（DH）",
+    "userName": "fwkv1965",
+    "tweetUrl": "https://x.com/fwkv1965/status/2099779892560966101",
+    "createdAt": "September 15, 2026 at 05:38PM"
+  },
+  {
+    "text": "◆阪神タイガース2軍 スタメン\n2026-09-15\nvs広島東洋カープ\n中 岡城快生 23歳 筑波大\n右 島田海吏 31歳 上武大\n二 谷端将伍 23歳 日本大\n三 木浪聖也 32歳 Honda\n捕 嶋村麟士朗 23歳 福井工業大\n遊 小幡竜平 26歳 延岡学園\n一 ガルシア 29歳 高知FD\n左 井坪陽生 22歳 関東一\nDH 川崎俊哲 25歳 石川\n投 石黒佑弥 25歳 JR西日本\n※26年度満年齢",
+    "userName": "kyureki_com",
+    "tweetUrl": "https://x.com/kyureki_com/status/2099781273766318151",
+    "createdAt": "September 15, 2026 at 05:44PM"
+  },
+  {
+    "text": "2026年8月29日 試合前セレモニー\n#オリックスバファローズ VS #阪神タイガース\n\nhttps://t.co/lX6IpOHbyC\n\nファーム ほっともっとフィールド神戸\n平田勝男 風岡尚幸 二軍監督\n久保田智之 小幡竜平 小野寺暖 野村克則\n立石正広 木浪聖也 谷端将伍 嶋村麟士朗 山﨑照英 岡城快生",
+    "userName": "baseballDEQUIZ",
+    "tweetUrl": "https://x.com/baseballDEQUIZ/status/2099809587675484577",
+    "createdAt": "September 15, 2026 at 07:36PM"
+  },
+  {
+    "text": "いっぺんクソみたいな連中を総替えしてみたら？\nライト高寺、サード木浪、セカンド谷端、キャッチャー梅野、、、\n負けた所で大差ないやろ。。\n#阪神タイガース",
+    "userName": "kqlSqMsdf1DFIak",
+    "tweetUrl": "https://x.com/kqlSqMsdf1DFIak/status/2099839529318518973",
+    "createdAt": "September 15, 2026 at 09:35PM"
+  },
+  {
+    "text": "萬場翔太（①山梨学院）\n\n開幕2試合で早くも3本塁打！\nしかも、全て完璧な打球！\n打球の角度は谷端将伍（阪神 26卒 星稜）以上かも\n春も途中からレギュラーに定着してチームトップの打率でベストナインと新人賞を獲得したスーパールーキー！\nこの先マークが厳しくなるのは必至！\n\n#日大野球部の頂戦 https://t.co/XLYedH7N0E",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://x.com/Nichidaai/status/2099842869041435135",
+    "createdAt": "September 15, 2026 at 09:48PM"
+  },
+  {
+    "text": "糸原とかガルシアはこんだけ我慢強く使うのに谷端とかあっさりと落としてるのがすでになぁとなる\nどうせあかんなら谷端とか岡城とかの若手に出番やって負けろやと",
+    "userName": "ikesotyo",
+    "tweetUrl": "https://x.com/ikesotyo/status/2099843138450063799",
+    "createdAt": "September 15, 2026 at 09:49PM"
+  },
+  {
+    "text": "石塚が悪いんじゃなくてどう見てもコーナーが弱いのに谷端も髙橋もスルーしたフロントが悪いわけで",
+    "userName": "shima_Giants",
+    "tweetUrl": "https://x.com/shima_Giants/status/2099843191675744506",
+    "createdAt": "September 15, 2026 at 09:50PM"
+  },
+  {
+    "text": "この7連敗は野手が情けないんやけどさ、首脳陣の采配が半歩どころか500歩くらい後退してるのもな〜笑\n\n9月にもなって、ワンアウト満塁で糸原って😂\n「あわよくば采配」やめない？\n3塁ランナー大山でセーフティスクイズとか谷端バント→岡城ヒッティングとかさ、上手くいったらいいな〜じゃないんだよ笑",
+    "userName": "ff7qct",
+    "tweetUrl": "https://x.com/ff7qct/status/2099845600753885628",
+    "createdAt": "September 15, 2026 at 09:59PM"
+  },
+  {
+    "text": "これから、もう代打で糸原は出てこないんちゃうかな？なんか今日の起用は今季の見極めみたいな感じがすごいした。\n\n岡城とか谷端とか、もし打てなかったとしても見たくなってきたよ！！！",
+    "userName": "redstar_yamato",
+    "tweetUrl": "https://x.com/redstar_yamato/status/2099849634663535084",
+    "createdAt": "September 15, 2026 at 10:15PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「ハンターゲーム」の解説\n男はハンターゲームに、撃ち殺される側として参加することになった。\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/qQ9oG3X63J",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2099853491481063544",
+    "createdAt": "September 15, 2026 at 10:31PM"
+  },
+  {
+    "text": "谷端さんにっこにこでかわいい🫠💕\n同期仲良く頑張れー！ https://t.co/pZzAMhXsE0",
+    "userName": "Hamakyo_Ori_Ars",
+    "tweetUrl": "https://x.com/Hamakyo_Ori_Ars/status/2099883355873693846",
+    "createdAt": "September 16, 2026 at 12:29AM"
   }
 ]
