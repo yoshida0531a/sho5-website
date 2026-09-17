@@ -3358,5 +3358,309 @@
     "publishedAt": "September 15, 2026 at 12:00PM",
     "description": "2026年9月11日に東京都北区の北谷端公園で開催された、滝野川八幡神社御祭禮音頭会（盆踊り）の様子です。 活気あふれる和 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【プロ野球】阪神・谷端将伍が審判と交錯し担架搬送｜ファーム広島戦でアクシデント、現在の情報まとめ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=HSVFlhnUx8w",
+    "publishedAt": "September 17, 2026 at 09:51PM",
+    "description": "阪神タイガース, 阪神, 谷端将伍, 谷端将伍選手, 阪神谷端将伍, プロ野球, プロ野球ニュース, 阪神ニュース, 阪神タイガースニュース, ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍に衝撃のアクシデント…三塁審判と交錯し担架で搬送⚾️#阪神タイガース #谷端将伍 #阪神 #プロ野球 #ファーム #野球ニュース #野球 #タイガース #NPB",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=EbjRrAgYiMM",
+    "publishedAt": "September 17, 2026 at 10:02PM",
+    "description": "17日、ファーム・西地区の阪神－広島戦で、球場の空気が一変する出来事が起きました。 八回、広島・林選手が三塁線へ長打を ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🚨⚾【阪神】谷端将伍にアクシデント…二軍戦で三塁審判と交錯し担架で搬送　途中交代に球場騒然😢🐯 早期復帰を願う声相次ぐ🙏💫",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=vI_MFTsKtD4",
+    "publishedAt": "September 17, 2026 at 10:09PM",
+    "description": "阪神の二軍戦で、若手内野手の谷端将伍選手が三塁審判と交錯し、担架で運ばれて途中交代するアクシデントが起きました。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍選手、ファーム広島戦で審判と交錯し担架搬送　負傷交代にファンから心配の声「大丈夫か」【阪神対広島20回戦】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=3KODCRpmUqw",
+    "publishedAt": "September 17, 2026 at 10:13PM",
+    "description": "Disclaimer --- Video is for educational purpose only.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神・谷端将伍にアクシデント…広島戦で審判と交錯し担架搬送 | 谷端将伍 | ファーム戦で負傷交代 | 三塁線の打球を追って交錯、現場騒然…最新情報 | ファンから心配の声相次ぐ、今後に注目！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8vsm6LVQNhA",
+    "publishedAt": "September 17, 2026 at 10:14PM",
+    "description": "【速報】阪神・谷端将伍にアクシデント…広島戦で審判と交錯し担架搬送 谷端将伍、ファーム阪神広島戦で負傷交代…現場で何が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍選手、ファーム広島戦で審判と交錯し担架搬送　負傷交代にファンから心配の声「大丈夫か」【阪神対広島20回戦】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=wyl5nq0SM8E",
+    "publishedAt": "September 17, 2026 at 10:15PM",
+    "description": "Disclaimer --- Video is for educational purpose only.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍に突然の悲劇…三塁審判と交錯し担架で搬送😢⚾#阪神タイガース #谷端将伍 #阪神 #プロ野球 #ファーム #野球ニュース #野球ファン #タイガース #NPB #野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=kS6mT8nP66E",
+    "publishedAt": "September 17, 2026 at 10:18PM",
+    "description": "2026年9月17日、ファーム・西地区の阪神対広島戦で、阪神の谷端将伍選手が試合中に思わぬアクシデントに見舞われました。",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　２軍戦で谷端と三塁審が交錯　谷端は担架で運ばれ交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=QlhBsEzXVgc",
+    "publishedAt": "September 17, 2026 at 10:21PM",
+    "description": "阪神タイガース #谷端将伍 #阪神 #阪神2軍 #ファーム戦 #広島カープ #野球ニュース #プロ野球 #NPB #谷端将伍負傷 #担架搬送 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神・谷端将伍にまさかのアクシデント…広島戦で審判と交錯し担架搬送！ファン騒然",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=g8AtmPp9cBE",
+    "publishedAt": "September 17, 2026 at 10:27PM",
+    "description": "【速報】阪神・谷端将伍にまさかのアクシデント…広島戦で審判と交錯し担架搬送！ファン騒然 #谷端将伍 #阪神ニュース #野球 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍にまさかのアクシデント…三塁審判と交錯し担架搬送「無事であってほしい」😢⚾#阪神タイガース #谷端将伍 #阪神 #プロ野球 #NPB #ファーム戦 #野球ニュース #野球 #甲子園",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=bur-FHCr9yU",
+    "publishedAt": "September 17, 2026 at 10:33PM",
+    "description": "9月17日、日鉄鋼板SGLスタジアムで行われたファーム・西地区の阪神対広島戦で、阪神の若手内野手・谷端将伍選手を突然の ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🔥⚾阪神・谷端将伍に衝撃アクシデント…三塁審判と激突💥 担架で運ばれ途中交代、球場騒然😳🚑",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yviL2fxxgtI",
+    "publishedAt": "September 17, 2026 at 10:33PM",
+    "description": "阪神の若手内野手・谷端将伍選手が、9月17日のファーム・リーグ、広島戦で思わぬアクシデントに見舞われました。八回、広島 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍 怪我 | 阪神２軍戦で三塁審判と交錯、担架で搬送され途中交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=pDt-Jrzf4q4",
+    "publishedAt": "September 17, 2026 at 10:36PM",
+    "description": "谷端将伍 怪我 | 阪神２軍戦で三塁審判と交錯、担架で搬送され途中交代 谷端将伍 谷端将伍 怪我 谷端将伍 事故 阪神 谷端将伍 阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "😨阪神・谷端将伍に衝撃アクシデント…三塁審判と交錯し担架で搬送",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UdDt3n34LZ8",
+    "publishedAt": "September 17, 2026 at 10:37PM",
+    "description": "阪神の谷端将伍内野手が17日のファーム・広島戦で思わぬアクシデントに見舞われました。八回、三塁線への打球に対応するため ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】心配…2軍戦で谷端選手が審判と接触しあわや大怪我#阪神タイガース #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eqpKUZndWAY",
+    "publishedAt": "September 17, 2026 at 10:40PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　２軍戦で谷端と三塁審が交錯　谷端は担架で運ばれ交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=EREFkzJNoDY",
+    "publishedAt": "September 17, 2026 at 10:40PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】阪神・谷端将伍が試合中に三塁審判と交錯…担架搬送で球場騒然「大丈夫か」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=MN7glNln29k",
+    "publishedAt": "September 17, 2026 at 10:41PM",
+    "description": "阪神タイガース 谷端将伍 谷端将伍負傷 谷端将伍怪我 谷端将伍担架 谷端将伍交錯 阪神2軍 阪神二軍 阪神広島 阪神対広島 広島 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　２軍戦で谷端と三塁審が交錯　谷端は担架で運ばれ交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Q7Uj5m6wAzE",
+    "publishedAt": "September 17, 2026 at 10:43PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍選手 😭ファーム広島戦で審判と交錯し担架搬送　てた模様…あぁ野球の神様ぁ…😢どうか期待の若虎無事でいて  #谷端将伍 #阪神タイガース負傷交代にファンから心配の声 /阪神　２軍戦で谷端と",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=IT0pTMWtiwM",
+    "publishedAt": "September 17, 2026 at 10:43PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端将伍が三塁審判と交錯…まさかの担架搬送　阪神2軍・広島戦で起きた衝撃のアクシデント",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=9PM9rZCURtk",
+    "publishedAt": "September 17, 2026 at 10:44PM",
+    "description": "阪神タイガースの谷端将伍選手が、2026年9月17日のファーム・西地区、阪神対広島戦で三塁審判と交錯し、担架で搬送される ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神の谷端将伍内野手が三塁審判と交錯し、担架で運ばれた。| 　「ファーム・西地区、阪神－広島」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eVycuCEk6T0",
+    "publishedAt": "September 17, 2026 at 10:46PM",
+    "description": "阪神タイガース, 阪神2軍, 阪神二軍, 谷端将伍, 谷端, 阪神, プロ野球, NPB, 野球, 野球ニュース, 阪神ニュース, 阪神タイガース ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍に衝撃アクシデント…三塁審判と激しく交錯し担架で緊急搬送｜谷端将伍 怪我",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=HQ3VFC2-nyk",
+    "publishedAt": "September 17, 2026 at 10:48PM",
+    "description": "谷端将伍 谷端将伍 怪我 谷端将伍 負傷 谷端将伍 緊急搬送 阪神 谷端将伍 阪神タイガース 谷端将伍 衝突 谷端将伍 三塁審判 阪神 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】阪神・谷端将伍が三塁審判と激突…担架で搬送、試合中に何が起きたのか",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=MMwHvg3uoxU",
+    "publishedAt": "September 17, 2026 at 10:50PM",
+    "description": "【衝撃】阪神・谷端将伍が三塁審判と激突…担架で搬送、試合中に何が起きたのか.",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端にまさかのアクシデント…三塁審と交錯し担架で搬送 - 阪神タイガース",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=k0H3_7lPfSA",
+    "publishedAt": "September 17, 2026 at 10:51PM",
+    "description": "【阪神】谷端にまさかのアクシデント…三塁審と交錯し担架で搬送 - 阪神タイガース ‎ ‎阪神タイガース ‎阪神2軍戦 ‎谷端将伍 ‎谷端 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍が三塁審判と激しく交錯…担架で緊急搬送される事態に",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=AOwc1EhsRLo",
+    "publishedAt": "September 17, 2026 at 10:58PM",
+    "description": "谷端将伍 谷端将伍 負傷 谷端将伍 怪我 谷端将伍 担架 谷端将伍 交錯 谷端将伍 三塁審判 阪神タイガース 阪神 谷端 阪神ニュース ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】ファーム阪神広島戦にて谷端選手にアクシデント ３塁線の打球を追いかけた際に体勢を崩し審判と交錯 そのまま担架で運ばれ負傷交代… かなり心配です。",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=4n6i0VLh-yg",
+    "publishedAt": "September 17, 2026 at 11:00PM",
+    "description": "阪神タイガース, 阪神2軍, 阪神二軍, 谷端将伍, 谷端, 阪神, プロ野球, NPB, 野球, 野球ニュース, 阪神ニュース, 阪神タイガース ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】阪神・谷端将伍が三塁審判と激突…担架で緊急搬送の悲劇に球場騒然",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=oZFhCyAQioY",
+    "publishedAt": "September 17, 2026 at 11:01PM",
+    "description": "阪神タイガース ​#谷端将伍 ​#ウエスタンリーグ ​#プロ野球 ​#アクシデント ​#怪我 ​#緊急搬送 ​阪神タイガース ​谷端将伍 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　２軍戦で谷端と三塁審が交錯　谷端は担架で運ばれ交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=j-K6di9l6NY",
+    "publishedAt": "September 17, 2026 at 11:02PM",
+    "description": "阪神タイガース #谷端将伍 #阪神 #阪神2軍 #ファーム戦 #広島カープ #野球ニュース #プロ野球 #NPB #谷端将伍負傷 #担架搬送 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "😭⚾️【衝撃アクシデント】阪神・谷端将伍選手と三塁審判が試合中に交錯…担架で運ばれ緊急交代‼️😱💔 球場に走った緊張とファンの心配の声…🙏🕊️",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Wn9vutkwZS0",
+    "publishedAt": "September 17, 2026 at 11:03PM",
+    "description": "阪神ファンに衝撃が走った――。 2026年9月17日に行われたファーム・西地区「阪神－広島」で、阪神の谷端将伍内野手が三塁 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍に衝撃アクシデント…三塁審判と激突し担架で緊急搬送「谷端将伍の容体は？」",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=UBxO4jBPElw",
+    "publishedAt": "September 17, 2026 at 11:03PM",
+    "description": "谷端将伍 負傷 が大きな注目を集める中、阪神タイガースの選手が三塁審判と激しく衝突し、担架で緊急搬送される衝撃 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "🚨「まさかの交錯…」阪神・谷端将伍が担架で搬送　試合中に衝撃のアクシデント",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=pa99toh2UU4",
+    "publishedAt": "September 17, 2026 at 11:07PM",
+    "description": "9月17日、ファーム・西地区の阪神－広島戦で、阪神の谷端将伍内野手が三塁審判と交錯するアクシデントが起きました。八回、 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神　２軍戦で谷端と三塁審が交錯　谷端は担架で運ばれ交代",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=Im_vUBbmAes",
+    "publishedAt": "September 17, 2026 at 11:09PM",
+    "description": "阪神のファーム戦で、試合終盤に思わぬアクシデントが発生しました。 17日の阪神－広島戦、八回の守備で阪神の谷端将伍選手が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端にまさかのアクシデント…三塁審と交錯し担架で搬送 - 阪神2軍戦 ",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=8k5GKHjho_A",
+    "publishedAt": "September 17, 2026 at 11:06PM",
+    "description": "【阪神】谷端にまさかのアクシデント…三塁審と交錯し担架で搬送 - 阪神2軍戦 ‎ ‎阪神タイガース ‎阪神2軍戦 ‎谷端将伍 ‎谷端選手 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍選手 😭ファーム広島戦で審判と交錯し担架搬送　てた模様…あぁ野球の神様ぁ…😢どうか期待の若虎無事でいて  #谷端将伍 #阪神タイガース負傷交代にファンから心配の声 /阪神　２軍戦で谷端と",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=_X0xhZJNFMo",
+    "publishedAt": "September 17, 2026 at 11:16PM",
+    "description": "阪神タイガースの谷端将伍選手が、広島とのファーム戦で審判と交錯し、負傷交代したと報じられています。その後、担架で ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】谷端にまさかのアクシデント…三塁審と交錯し担架で搬送 - 阪神2軍戦 ‎‎阪神タイガース‎阪神2軍戦‎谷",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=A07jtbkoKg4",
+    "publishedAt": "September 17, 2026 at 11:25PM",
+    "description": "阪神タイガース ‎阪神2軍戦 ‎谷端将伍 ‎谷端選手 ‎阪神谷端 ‎谷端負傷 ‎谷端アクシデント ‎阪神試合速報 ‎阪神ニュース ‎阪神ファーム ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【衝撃】谷端将伍が審判と激突し負傷！担架で運ばれる瞬間",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=FBdsUyjOMHk",
+    "publishedAt": "September 17, 2026 at 11:45PM",
+    "description": "【衝撃映像】谷端将伍が審判と激突し負傷！担架で運ばれる瞬間を完全解説 広島戦で起きた最悪のアクシデント。 谷端将伍が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神・谷端将伍にアクシデント...広島戦で審判と交錯し担架搬送|谷端将伍|ファーム戦で負傷交代|三塁線の打球を追って交錯、現場騒然...最新情報 |ファンから心配の声相次ぐ、今後に注目!",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=eIYTDU6UTVc",
+    "publishedAt": "September 18, 2026 at 12:19AM",
+    "description": "【速報】阪神・谷端将伍にアクシデント…広島戦で審判と交錯し担架搬送 谷端将伍、ファーム阪神広島戦で負傷交代…現場で何が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【速報】阪神・谷端将伍にアクシデント...広島戦で審判と交錯し担架搬送|谷端将伍|ファーム戦で負傷交代|三塁線の打球を追って交錯、現場騒然...最新情報 |ファンから心配の声相次ぐ、今後に注目!",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=awYKOFEcUxw",
+    "publishedAt": "September 18, 2026 at 12:23AM",
+    "description": "【速報】阪神・谷端将伍にアクシデント…広島戦で審判と交錯し担架搬送 谷端将伍、ファーム阪神広島戦で負傷交代…現場で何が ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍が三塁審判と激しく交錯…担架で緊急搬送される事態に",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=yiwP03IJQX8",
+    "publishedAt": "September 18, 2026 at 01:25AM",
+    "description": "谷端将伍 谷端将伍 怪我 谷端将伍 緊急搬送 阪神タイガース 阪神 谷端将伍 阪神ニュース 阪神タイガースニュース プロ野球 NPB ...",
+    "keyword": "谷端 阪神"
   }
 ]
