@@ -3662,5 +3662,37 @@
     "publishedAt": "September 18, 2026 at 01:25AM",
     "description": "谷端将伍 谷端将伍 怪我 谷端将伍 緊急搬送 阪神タイガース 阪神 谷端将伍 阪神ニュース 阪神タイガースニュース プロ野球 NPB ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神タイガース】ファーム戦で起きた悲劇…谷端将伍が審判と激突し担架で搬送、アクシデントの一部始終とチームの状況【SGLスタジアム】",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=rRTCFC5lvBU",
+    "publishedAt": "September 18, 2026 at 11:19AM",
+    "description": "ご視聴ありがとうございます！ 今回は、17日に日鉄鋼板SGLスタジアムで行われたファーム（ウエスタン・リーグ）の阪神対広島 ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端は倒れた後、一時ほとんど反応を見せませんでした，一体、何が起きたのでしょうか？ #TikTokSportsキャンペーン#野球 #野球ニュース  #阪神  #谷端将伍",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=XQHXLOOqfLU",
+    "publishedAt": "September 18, 2026 at 12:53PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "「審判、なぜ避けなかった？」阪神・谷端将伍頭部を三塁審の膝に直撃…#阪神タイガース #審判 #プロ野球 #fyp",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=O-0OLFSZxPc",
+    "publishedAt": "September 18, 2026 at 01:09PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端が審判に激突…その後の態度がヤバすぎる#野球",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=RkVKweK9xK4",
+    "publishedAt": "September 18, 2026 at 06:34PM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
