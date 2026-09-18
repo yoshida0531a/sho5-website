@@ -7960,5 +7960,311 @@
     "userName": "yoshida0531a",
     "tweetUrl": "https://x.com/yoshida0531a/status/2100672317596811715",
     "createdAt": "September 18, 2026 at 04:44AM"
+  },
+  {
+    "text": "@HibikiOEKAKI 先に倒れて全く動かない谷端の動画だけ流れて来て、ほんまに肝が冷えました…😭\n安堵がすごい💦",
+    "userName": "yucari103",
+    "tweetUrl": "https://x.com/yucari103/status/2100688628095865152",
+    "createdAt": "September 18, 2026 at 05:49AM"
+  },
+  {
+    "text": "【ヒヤリ】阪神22歳・谷端将伍、審判と激突し担架搬送…その後は自力帰寮 https://t.co/CjvUno3ErO \n#阪神タイガース #谷端将伍 #プロ野球 #虎党 #阪神ファン",
+    "userName": "KabochaMegane",
+    "tweetUrl": "https://x.com/KabochaMegane/status/2100697777454092367",
+    "createdAt": "September 18, 2026 at 06:25AM"
+  },
+  {
+    "text": "@hinokenn 谷端君、無事でありますように🙏",
+    "userName": "kodetonjp",
+    "tweetUrl": "https://x.com/kodetonjp/status/2100699271649734819",
+    "createdAt": "September 18, 2026 at 06:31AM"
+  },
+  {
+    "text": "谷端将伍（阪神 26卒 星稜）が大事に至らず一安心ですわ😮‍💨\n日大2年次の春にも走者と交錯して担架で退場したことがあったけど、その時も7月のオープン戦から復帰したし、身体が丈夫なんよ👌\n\n📷2023.5.1 ZOZOマリン https://t.co/bv8QdGrQjw https://t.co/gGh4KFxrCX",
+    "userName": "Nichidaai",
+    "tweetUrl": "https://x.com/Nichidaai/status/2100699773506576496",
+    "createdAt": "September 18, 2026 at 06:33AM"
+  },
+  {
+    "text": "谷端くん🐯\nSGLでそんなことがあったなんて、心配ですね😟",
+    "userName": "Tigers3064",
+    "tweetUrl": "https://x.com/Tigers3064/status/2100701389496390138",
+    "createdAt": "September 18, 2026 at 06:40AM"
+  },
+  {
+    "text": "あとから症状でるかもしれないし、まだ様子見が必要だと思うけど、本当に大事に至らなくて良かった！！！\n谷端選手応援してます！！！😭 https://t.co/pOScXIuYgL",
+    "userName": "yo_iwai",
+    "tweetUrl": "https://x.com/yo_iwai/status/2100703465643356326",
+    "createdAt": "September 18, 2026 at 06:48AM"
+  },
+  {
+    "text": "おはようございます🐯\n気持ちのいい朝☀️\n眠気に襲われハイライトとヒーインしか見れてないのですが笑顔いっぱいでこんなに幸せで溢れるのねとしみじみ☺️\n今日も勝って幸せいっぱいにしてもらいましょう✊🏻\n昨日のファームは逆転されて負けた🥲\n谷端くんが大事に至らず良かったです。\n\n今日もぼちぼち🍀",
+    "userName": "torato_neco",
+    "tweetUrl": "https://x.com/torato_neco/status/2100712508785107212",
+    "createdAt": "September 18, 2026 at 07:24AM"
+  },
+  {
+    "text": "【ファームハイライト】2026/9/17（木）阪神 - 広島（ＳＧＬ）\n【スコア詳細】\n広島｜000｜002｜100｜3\n阪神｜000｜110｜000｜2 \n本塁打： 小園 3号(6回表2ラン)\n\n『猛虎、痛恨の逆転負けで再び最下位沈下…！島田先制打＆岡城追加点も茨木が被弾、救援陣も粘れず』 https://t.co/5uTIgwbKNK\n阪神は広島に2-3で惜敗。中盤までのリードを守り切れず痛恨の逆転負けを喫し、チームは再び最下位に転落した。 \n\n■ 四回に島田の激走ツーベースで先制！五回には岡城が勝負強さ発揮\n\n打線は四回、二死から谷端が左前打で出塁すると、6番・島田海吏がカウント1-0から左中間を破るタイムリーツーベース！足を生かして二塁へ滑り込み、貴重な先制点を奪い取る。\n\n続く五回には、相手失策と代打・佐野のきっちり決めた送球バントで一死二塁の好機を作ると、相手ボークで走者が三塁へ進む。この絶好のチャンスで1番・岡城快生が中前へ弾き返すタイムリー！2-0とリードを広げ、絶好の展開に持ち込んだ。\n引き続き二死二塁チャンスに、7番 ガルシアがフルカウントから空振り三振で追加点のチャンスを逃がし後に後悔される攻撃となった。\n\n■ 先発・茨木、六回に痛恨の被弾…救援の畠も粘れず\n\n好調な滑り出しを見せていた先発の茨木秀俊だったが、六回に暗転する。無死一塁から広島・小園に一発を浴び、右越え同点2ランで2-2の振り出しに戻されてしまう。茨木は6回95球を投げ、被安打6、2失点と粘りの投球を見せるも一発に泣き白星は実らなかった。\n\n勝ち越しを許したのは七回。2番手で登板した畠世周が先頭に四球を与えると、ラミレスの二塁打で無死二、三塁のピンチを招く。安竹に中前タイムリーを浴び、2-3と逆転を許した。畠は1回を投げ2被安打、2四死球、1失点（自責1）と課題を残すマウンドとなった。\n\n■ 八回に超激レア「三重殺」完成も…反撃届かず沈黙\n\n1点を追う八回表、3番手・桐敷拓馬が連打を浴び無死一、二塁のピンチを迎えるも、ここで奇跡的なプレーが飛び出す。田村のライナーを遊撃手・小幡がキャッチすると、飛び出していた二塁走者、一塁走者を立て続けにアウトにして「トリプルプレー（三重殺）」が成立！窮地を脱し、球場のボルテージは最高潮に達した。\n\nその裏、代打・嶋村の四球と代走・山﨑の起用で反撃の狼煙を上げた阪神だったが、1番・岡城のバントが相手の好守に阻まれ併殺打に。九回も広島の守護神・中﨑の前に小幡がこの日4つ目の三振を喫するなど三者凡退に倒れ、反撃の糸口を掴めぬまま試合終了となった。\n\n打線では島田と岡城が勝負強さを見せたものの、チーム全体で13三振と振るわず。投打の歯車が噛み合わぬもどかしい敗戦で、あっさり猛虎は再び最下位へと浮上を余儀なくされた。\n\n【本日の主な打者の成績】\n岡城快生0.244(4打数 1安打 1打点 0三振 0四死球 0本塁打)\n福島圭音0.306(3打数 0安打 0打点 3三振 1四死球 0本塁打)\n谷端将伍0.220(3打数 1安打 0打点 0三振 0四死球 0本塁打)\n小幡竜平0.210(4打数 0安打 0打点 4三振 0四死球 0本塁打)\n榮枝裕貴0.252(4打数 0安打 0打点 1三振 0四死球 0本塁打)\n島田海吏0.264(3打数 1安打 1打点 1三振 0四死球 0本塁打)\nガルシア0.167(3打数 1安打 0打点 1三振 0四死球 0本塁打)\n山田脩也0.208(3打数 0安打 0打点 1三振 0四死球 0本塁打)\n\n【本日の投手の成績】\n茨木秀俊3.90(6回 95球 被安打6 本塁打1 奪三振2 四死球1 自責点2)\n畠世周2.81(1回 21球 被安打2 本塁打0 奪三振2 四死球2 自責点1)\n桐敷拓馬4.40(1回 12球 被安打2 本塁打0 奪三振0 四死球0 自責点0)\n湯浅京己3.60(1回 18球 被安打0 本塁打0 奪三振1 四死球0 自責点0)",
+    "userName": "shin1787523",
+    "tweetUrl": "https://x.com/shin1787523/status/2100714433903563178",
+    "createdAt": "September 18, 2026 at 07:32AM"
+  },
+  {
+    "text": "@centralyakyu 大竹石井伊原及川谷端中野山田百崎前川取れるのアツい",
+    "userName": "ap_cz4",
+    "tweetUrl": "https://x.com/ap_cz4/status/2100714648043749724",
+    "createdAt": "September 18, 2026 at 07:32AM"
+  },
+  {
+    "text": "北谷端公園近く、住所だと北区滝野川7丁目🥺",
+    "userName": "_kazetonami",
+    "tweetUrl": "https://x.com/_kazetonami/status/2100721466757255176",
+    "createdAt": "September 18, 2026 at 08:00AM"
+  },
+  {
+    "text": "阪神　平田２軍監督が負傷交代の谷端について説明「（異常ががなくて）良かった」本人は歩いて帰寮　岡城の三盗敢行には「ナイストライ」【一問一答】（デイリースポーツ） https://t.co/okcaxmeGrK",
+    "userName": "0VtRw0pSHg8khze",
+    "tweetUrl": "https://x.com/0VtRw0pSHg8khze/status/2100725114728014120",
+    "createdAt": "September 18, 2026 at 08:14AM"
+  },
+  {
+    "text": "伊藤櫂人が個人的に癖に刺さるんやけど、ポジション的に球団の優先順位的には低そう(立石、谷端、百崎らがいるから)なので、パ・リーグ辺りで活躍してくれ",
+    "userName": "Tigerslove1019",
+    "tweetUrl": "https://x.com/Tigerslove1019/status/2100728568699670903",
+    "createdAt": "September 18, 2026 at 08:28AM"
+  },
+  {
+    "text": "谷端くん大丈夫やった？💦翌日以降に何かしら影響が出るかも分からんし、様子見やね😓 https://t.co/EG9eppqra0",
+    "userName": "hfIi38ydAE62913",
+    "tweetUrl": "https://x.com/hfIi38ydAE62913/status/2100728709045244031",
+    "createdAt": "September 18, 2026 at 08:28AM"
+  },
+  {
+    "text": "一昨日もホークス対オリックス戦で宗選手が三塁塁審と交錯していた\nライン際の打球はフェアかファウルかを判断するために三塁塁上から三塁線上を注視しているから、深い守備位置を取る三塁手を視界に捉えにくいんかもな\n位置取りの改善が必要なんやろなぁ…\n谷端選手も塁審もお大事にやで https://t.co/AWjWQbBTFT",
+    "userName": "ryoshihira",
+    "tweetUrl": "https://x.com/ryoshihira/status/2100730297281360225",
+    "createdAt": "September 18, 2026 at 08:35AM"
+  },
+  {
+    "text": "@XthAOY8mBf8356 谷端くん帯同しないようだし、ガルシアも昨日負傷したみたいなので、ももちゃんは帯同するのではと期待しています☺",
+    "userName": "hiromi0223fl",
+    "tweetUrl": "https://x.com/hiromi0223fl/status/2100735810618511569",
+    "createdAt": "September 18, 2026 at 08:57AM"
+  },
+  {
+    "text": "谷端が審判と衝突して担架運ばれるまでの自体になってたんだ。\n無事だといいけど。\n#阪神タイガース",
+    "userName": "nino3nino2",
+    "tweetUrl": "https://x.com/nino3nino2/status/2100763592933216327",
+    "createdAt": "September 18, 2026 at 10:47AM"
+  },
+  {
+    "text": "23歳　町田、前川、神宮、岡崎、嶋村、立石、中川、谷端\n22歳　茨木、門別、戸井、井坪\n21歳　山田、百﨑\n20歳　今朝丸\n19歳　早瀬",
+    "userName": "yucari103",
+    "tweetUrl": "https://x.com/yucari103/status/2100775374934385080",
+    "createdAt": "September 18, 2026 at 11:34AM"
+  },
+  {
+    "text": "阪神・谷端将伍が2軍戦で三塁審と交錯し、担架で運ばれて途中交代…。\n\n突然のアクシデントだけに、詳しい負傷状態が心配です。\n\n今は無理をせず、元気な姿で戻ってきてくれることを願いたいですね🐯\n\n記事はこちら👇\n\nhttps://t.co/r69ocTbisq\n\n#阪神タイガース #谷端将伍 #担架搬送 https://t.co/IPMpIPBLJj",
+    "userName": "greeeen8316",
+    "tweetUrl": "https://x.com/greeeen8316/status/2100786891465592913",
+    "createdAt": "September 18, 2026 at 12:20PM"
+  },
+  {
+    "text": "\"阪神 平田2軍監督が負傷交代の谷端について説明「（異常ががなくて）良かった」本人は歩いて帰寮 岡城の三盗敢行には「ナイストライ」【一問一答】\" https://t.co/8UHqyVC1BW",
+    "userName": "a2Clgr2kMDUEQBN",
+    "tweetUrl": "https://x.com/a2Clgr2kMDUEQBN/status/2100795263887790237",
+    "createdAt": "September 18, 2026 at 12:53PM"
+  },
+  {
+    "text": "ドラフトももう近いのかぁ。タイガース今年はどうするやろうな？去年の今頃は立石一色だった。\nドラフト終わって2位の谷端指名出来たのは大きい！って思ったけどそうでもなかったな…怪我は大丈夫やろか？",
+    "userName": "36sunrockers",
+    "tweetUrl": "https://x.com/36sunrockers/status/2100799968949010526",
+    "createdAt": "September 18, 2026 at 01:11PM"
+  },
+  {
+    "text": "谷端選手、大丈夫そうで本当に良かったです。あんな場面は見たくないですが、野球は接触プレーもあるので仕方ないですね。完全な回復を祈っています。早くグラウンドに戻ってきてください！ https://t.co/jX4ZqLl06A",
+    "userName": "Kojiumaz6us",
+    "tweetUrl": "https://x.com/Kojiumaz6us/status/2100803831286452637",
+    "createdAt": "September 18, 2026 at 01:27PM"
+  },
+  {
+    "text": "阪神　平田２軍監督が負傷交代の谷端について説明「（異常ががなくて）良かった」本人は歩いて帰寮　岡城の三盗敢行には「ナイストライ」【一問一答】 https://t.co/L8PRnl8bdR",
+    "userName": "h19580429",
+    "tweetUrl": "https://x.com/h19580429/status/2100807106601660722",
+    "createdAt": "September 18, 2026 at 01:40PM"
+  },
+  {
+    "text": "谷端くんなんとか無事だったとのことで、虎テレでアクシデントの瞬間を見た\n軽症で済んでなにより、、\n恐ろしくてよう見れんかった",
+    "userName": "omamori_1",
+    "tweetUrl": "https://x.com/omamori_1/status/2100810562393571375",
+    "createdAt": "September 18, 2026 at 01:54PM"
+  },
+  {
+    "text": "@daily_kasai 谷端くん本当に無事で良かった😭",
+    "userName": "ggecqf",
+    "tweetUrl": "https://x.com/ggecqf/status/2100813340083978684",
+    "createdAt": "September 18, 2026 at 02:05PM"
+  },
+  {
+    "text": "1967年 #住友平(#阪急)が記録したのみ非常に珍しいプレーとなる\nまた八回には #谷端将伍 が三塁審判と交錯するアクシデントが起きた\n#プロ野球 #野球 #阪神 #タイガース #阪神タイガース #Tigers #2軍 #ファーム・リーグ #ファーム #西地区 #SGL #広島 #カープ https://t.co/KDMMjn0uSe",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://x.com/reo_naniwa/status/2100816484633375189",
+    "createdAt": "September 18, 2026 at 02:17PM"
+  },
+  {
+    "text": "1967年 #住友平(#阪急)が記録したのみ非常に珍しいプレーとなる\nまた八回には #谷端将伍 が三塁審判と交錯するアクシデントが起きた\n#プロ野球 #野球 #阪神 #タイガース #阪神タイガース #Tigers #2軍 #ファーム・リーグ #ファーム #西地区 #SGL #広島 #カープ https://t.co/wvbFRDDghz",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://x.com/reo_naniwa/status/2100817821060280791",
+    "createdAt": "September 18, 2026 at 02:22PM"
+  },
+  {
+    "text": "帯同者少ない。そして谷端くんは無事なのか… https://t.co/MHSmmDjxLy",
+    "userName": "yuitigers_888",
+    "tweetUrl": "https://x.com/yuitigers_888/status/2100835357969527068",
+    "createdAt": "September 18, 2026 at 03:32PM"
+  },
+  {
+    "text": "#プロ野球 #阪神タイガース #ファーム 試合中 #谷端将伍 が三塁審判と交錯し担架で運ばれた\n悲劇は八回 先頭が三塁線へ長打を放った際 三塁 #谷端 が三塁線に向かって動いた 同時に三塁審判がフェアのジャッジをする為ライン上へ動いた その際 谷端が頭から三塁審判の膝付近へ突っ込んだ\nその後 谷端は https://t.co/EibRw37BKE",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://x.com/reo_naniwa/status/2100846625656803618",
+    "createdAt": "September 18, 2026 at 04:17PM"
+  },
+  {
+    "text": "倒れ込み 動かなくなった 山崎 #2軍 内野守備コーチやトレーナーが駆けつけると すぐ様担架の合図が出され運ばれた\n#プロ野球 #野球 #阪神 #タイガース #阪神タイガース #Tigers #谷端将伍 #谷端 #ファーム #西地区 #ファーム・リーグ #SGL https://t.co/guNQx4PEot",
+    "userName": "reo_naniwa",
+    "tweetUrl": "https://x.com/reo_naniwa/status/2100846638231343515",
+    "createdAt": "September 18, 2026 at 04:17PM"
+  },
+  {
+    "text": "谷端君お留守番か… https://t.co/8n2F0WeUf9",
+    "userName": "tamae_sport",
+    "tweetUrl": "https://x.com/tamae_sport/status/2100848860570783873",
+    "createdAt": "September 18, 2026 at 04:26PM"
+  },
+  {
+    "text": "谷端くん、試合で審判と接触してタンカで運ばれてたけど大丈夫かな？\n\n頸椎とかかな？😰",
+    "userName": "hiko84017421567",
+    "tweetUrl": "https://x.com/hiko84017421567/status/2100851270131266010",
+    "createdAt": "September 18, 2026 at 04:35PM"
+  },
+  {
+    "text": "谷端くん、あの倒れ方は本当に怖かった…。最初ほとんど動かなくて、意識大丈夫なのかって心配になったよなぁ。担架で運ばれたけど、その後は自分で歩いて帰れたみたいで、とりあえずホッとした。ただ、こういうのは後から出ることもあるし、無理だけはしないでほしい。しっかり休んでほしいなぁ。 https://t.co/9LcUv8N8Fa",
+    "userName": "muranohitotati",
+    "tweetUrl": "https://x.com/muranohitotati/status/2100851523148480910",
+    "createdAt": "September 18, 2026 at 04:36PM"
+  },
+  {
+    "text": "@soromaevisu 日曜はタマスタ最終戦ですからね\n山田くんと🍑ちゃんはいつも通り👍\n岡城くんもいるのか🤭\nでも、谷端くんが昨日？怪我したとかで欠席ですね😢\n大丈夫かな😞",
+    "userName": "hana87_avi",
+    "tweetUrl": "https://x.com/hana87_avi/status/2100861257645785343",
+    "createdAt": "September 18, 2026 at 05:15PM"
+  },
+  {
+    "text": "@hana87_avi 生岡城は興味ありますっ！\n谷端は昨日、歩いて寮まで帰ったので大丈夫だと思います😊\nていうか、誰か送ってやって😭💦",
+    "userName": "soromaevisu",
+    "tweetUrl": "https://x.com/soromaevisu/status/2100862977499144586",
+    "createdAt": "September 18, 2026 at 05:22PM"
+  },
+  {
+    "text": "@soromaevisu 谷端くん、歩いて帰る元気はあったんですね\n良かったです\n生岡城は初めてですねー\n楽しみです😊",
+    "userName": "hana87_avi",
+    "tweetUrl": "https://x.com/hana87_avi/status/2100863945653592443",
+    "createdAt": "September 18, 2026 at 05:26PM"
+  },
+  {
+    "text": "【速報】阪神・谷端将伍にアクシデント…広島戦で審判と交錯し担架搬送 | 谷端将伍 | ファーム戦で負傷交代 | 三塁線の打球を追って交錯、現場騒... https://t.co/jxK9S7up6T @YouTubeより",
+    "userName": "nishigsg2",
+    "tweetUrl": "https://x.com/nishigsg2/status/2100870327782007090",
+    "createdAt": "September 18, 2026 at 05:51PM"
+  },
+  {
+    "text": "阪神内野手外野手戦力外　育成落ち現ドラ候補\n木浪 聖也FAの可能性\nディベイニー\n谷端 将伍\n糸原 健斗\n小幡 竜平\n佐野 大陽\n山田 脩也\n百﨑 蒼生\n植田 海FAの可能性\n外野手\n濱田 太貴\n岡城 快生\n島田 海吏\n小野寺 暖\n豊田 寛\n福島 圭音\nガルシア",
+    "userName": "enperai14",
+    "tweetUrl": "https://x.com/enperai14/status/2100881020535132654",
+    "createdAt": "September 18, 2026 at 06:34PM"
+  },
+  {
+    "text": "@Og0238_0521 無理やろ先発は...補強ポイントで言うなら巨人こそ谷端に行くべきだったのに",
+    "userName": "Judy20Mary01",
+    "tweetUrl": "https://x.com/Judy20Mary01/status/2100888001551462614",
+    "createdAt": "September 18, 2026 at 07:01PM"
+  },
+  {
+    "text": "@tanu031025 谷端岡城と的を得たドラフトはしたけど戦力化できるのはまた別の問題だしなあ",
+    "userName": "S0uNever",
+    "tweetUrl": "https://x.com/S0uNever/status/2100889416403423499",
+    "createdAt": "September 18, 2026 at 07:07PM"
+  },
+  {
+    "text": "なおお宅らの1〜3位はカスみたいな成績やけどな\n谷端、岡城って田和より活躍したっけ？ https://t.co/ypfqJrX9WI",
+    "userName": "kanaloaronin",
+    "tweetUrl": "https://x.com/kanaloaronin/status/2100889962904502676",
+    "createdAt": "September 18, 2026 at 07:09PM"
+  },
+  {
+    "text": "@Og0238_0521 野手あれで豊作なの草\n谷端、岡城カスみたいな成績やんww",
+    "userName": "kanaloaronin",
+    "tweetUrl": "https://x.com/kanaloaronin/status/2100890093607416257",
+    "createdAt": "September 18, 2026 at 07:10PM"
+  },
+  {
+    "text": "野手豊作(笑)の市場で立石谷端岡城は面白すぎるでしょ\n2軍レベルですら活躍できない野手をドラフト上位で集められるのすげーよ https://t.co/oG8IoQ4GnW",
+    "userName": "GIANTS38kara25",
+    "tweetUrl": "https://x.com/GIANTS38kara25/status/2100891618199122350",
+    "createdAt": "September 18, 2026 at 07:16PM"
+  },
+  {
+    "text": "そうだね\n当時の主観的な評価を絶対とするならこの人と1年越しにレスバできるんだろうけど、今さらそんなことしないからね\n普通の人は現時点で当時のドラフトが良かったか悪かったかでレスバするんだよ\n巨人が田和と山城を指名した間で谷端と岡城なんて取った阪神にバカにされるのはおかしいってだけよ https://t.co/kethdBte5Y",
+    "userName": "GIANTS38kara25",
+    "tweetUrl": "https://x.com/GIANTS38kara25/status/2100894987299008937",
+    "createdAt": "September 18, 2026 at 07:29PM"
+  },
+  {
+    "text": "立石当てたのに2巡目で大塚スルーして立石と属性被りしてる谷端いったの、やっぱり色々不味かったんじゃないの",
+    "userName": "JINJIN13480843",
+    "tweetUrl": "https://x.com/JINJIN13480843/status/2100901715839258801",
+    "createdAt": "September 18, 2026 at 07:56PM"
+  },
+  {
+    "text": "池袋本町二丁目あたりから谷端川の暗渠に向かって。かなりの勾配。谷地形。 https://t.co/YMEx4Dz7KP",
+    "userName": "azumi_kuwadate",
+    "tweetUrl": "https://x.com/azumi_kuwadate/status/2100908183170752778",
+    "createdAt": "September 18, 2026 at 08:21PM"
+  },
+  {
+    "text": "谷端も岡城もまだまだ期待してる。まだ一年目だもん　普通に3年目とかから出てくるのを期待",
+    "userName": "hoso_yakyu",
+    "tweetUrl": "https://x.com/hoso_yakyu/status/2100919013186658388",
+    "createdAt": "September 18, 2026 at 09:05PM"
+  },
+  {
+    "text": "知らんかった\n松尾選手！\nどうか無事でありますように🙏\n\nそんで\n谷端選手も〜\n大丈夫やったんかなぁ〜😞\n無事でありますように🙏\n\nなんか\n今シーズン多いような……",
+    "userName": "217824K",
+    "tweetUrl": "https://x.com/217824K/status/2100921667547713859",
+    "createdAt": "September 18, 2026 at 09:15PM"
+  },
+  {
+    "text": "谷端将伍が全然動かないの怖すぎる。\n\n少し足は動いたけど、阪神の選手たちが一斉に駆け寄るほどの状態。\n\n試合より何より、無事であってほしい。 https://t.co/uHSMQBnhfr",
+    "userName": "hima__h__",
+    "tweetUrl": "https://x.com/hima__h__/status/2100942446976958789",
+    "createdAt": "September 18, 2026 at 10:38PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「悪魔の貯金箱」の解説\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/qQ9oG3XDTh https://t.co/56RbfHZzpQ",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2100956257243054454",
+    "createdAt": "September 18, 2026 at 11:33PM"
+  },
+  {
+    "text": "そもそも野手と投手の違いがあって単純に２位３位を比べられるわけがないからな\n仮に読売2位が宮下で阪神2位が谷端とかなら多少は比べられたと思うが\n読売の状況的に投手3連打をしている場合ではなかったというだけ\n\nサイドの中継ぎなんてドラ2を使わずとも育成から普通に発掘できるんだよね https://t.co/Z4HNfzXRKP",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://x.com/Og0238_0521/status/2100996882516541562",
+    "createdAt": "September 19, 2026 at 02:14AM"
+  },
+  {
+    "text": "谷端くんの接触シーン虎テレでみたんだけど、脳震盪起こした可能性ある人に対して「がんばれ」コールは厳禁ってこともうちょい周知されたほうがよくないか？？？🙄",
+    "userName": "MZTigers22",
+    "tweetUrl": "https://x.com/MZTigers22/status/2101043637891236265",
+    "createdAt": "September 19, 2026 at 05:20AM"
   }
 ]
