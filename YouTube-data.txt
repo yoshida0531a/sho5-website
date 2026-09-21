@@ -3694,5 +3694,29 @@
     "publishedAt": "September 18, 2026 at 06:34PM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.9.21 山﨑照英選手 谷端将伍選手 小幡竜平選手 山田脩也選手 川﨑俊哲選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=5g5PJKqsQBk",
+    "publishedAt": "September 21, 2026 at 06:08PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.9.21 谷端将伍選手 山﨑照英選手 山田脩也選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=7jcusPG2eAA",
+    "publishedAt": "September 21, 2026 at 06:45PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神・谷端将伍に衝撃アクシデント... 三塁審判と激突 担架で運ばれ途中交代、球場騒然",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=B56a0ObD7Z4",
+    "publishedAt": "September 22, 2026 at 12:57AM",
+    "description": "",
+    "keyword": "谷端 阪神"
   }
 ]
