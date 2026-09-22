@@ -3718,5 +3718,21 @@
     "publishedAt": "September 22, 2026 at 12:57AM",
     "description": "",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "2026.9.22 福島圭音選手 谷端将伍選手 嶋村麟士朗選手 #阪神タイガース #sglスタジアム",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=mIo6mYAyasI",
+    "publishedAt": "September 22, 2026 at 01:51PM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】9/21(月・祝) 神10－3オ（ＳＧＬ）| 初回に猛攻で逆転！嶋村が3安打4打点！百﨑2安打3打点！谷端、井坪、アルナエスも打点をマークし快勝！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=FJSRAxllX_M",
+    "publishedAt": "September 21, 2026 at 05:29PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
   }
 ]
