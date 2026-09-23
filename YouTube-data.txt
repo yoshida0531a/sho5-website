@@ -3734,5 +3734,29 @@
     "publishedAt": "September 21, 2026 at 05:29PM",
     "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【プロスピ2026フィールドプレイ/NPB26FieldPlay】阪神 25 谷端将伍選手 Tigers Shogo Tanihata",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=0ktM3UNfGuk",
+    "publishedAt": "September 23, 2026 at 09:47AM",
+    "description": "",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "阪神2軍がまさかの11－11！最後に谷端が見せた執念🔥⚾#阪神タイガース #阪神 #阪神2軍 #ウエスタンリーグ #プロ野球 #野球ニュース #若虎 #浜田 #谷端 #平田勝男",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=hJzdGaMQrsI",
+    "publishedAt": "September 23, 2026 at 09:17PM",
+    "description": "阪神2軍とオリックスの一戦は、まさかの11対11という壮絶な乱打戦に！⚾   投手陣が苦しむ一方、阪神打線は浜田のホームラン ...",
+    "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【ハイライト】9/23(水・祝) 神11－11オ（ＳＧＬ）| 土壇場9回二死から谷端の一打で引き分けに持ち込む！中盤に一挙7得点！濱田は2ランと走者一掃打を含む5打点！",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=esvS4GbYaUQ",
+    "publishedAt": "September 23, 2026 at 06:13PM",
+    "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
+    "keyword": "谷端 阪神"
   }
 ]
