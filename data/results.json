@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-09-22T18:48:40.259Z",
-  "lastUpdated": "2026-09-23",
+  "fetchedAt": "2026-09-23T19:00:18.720Z",
+  "lastUpdated": "2026-09-24",
   "farmSummary": {
     "raw": {
-      "打率": ".221",
-      "試合": "98",
-      "打席": "351",
-      "打数": "317",
-      "安打": "70",
+      "打率": ".225",
+      "試合": "99",
+      "打席": "354",
+      "打数": "320",
+      "安打": "72",
       "二塁打": "16",
       "三塁打": "1",
       "本塁打": "0",
-      "塁打": "88",
+      "塁打": "90",
       "打点": "25",
       "得点": "29",
       "三振": "48",
@@ -23,20 +23,20 @@
       "盗塁": "3",
       "盗塁死": "0",
       "併殺打": "10",
-      "出塁率": ".279",
-      "長打率": ".278",
-      "OPS": ".557",
+      "出塁率": ".282",
+      "長打率": ".281",
+      "OPS": ".564",
       "得点圏": ".272",
       "失策": "8"
     },
     "display": [
       {
         "label": "打率",
-        "value": ".221"
+        "value": ".225"
       },
       {
         "label": "安打数",
-        "value": "70"
+        "value": "72"
       },
       {
         "label": "打点",
@@ -56,7 +56,7 @@
       },
       {
         "label": "出塁率",
-        "value": ".279"
+        "value": ".282"
       },
       {
         "label": "得点圏",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "9/23",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "オリックス",
+      "atBats": "1",
+      "hits": "1",
+      "homeRuns": "0",
+      "rbi": "1",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "右安",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041130/top"
+    },
     {
       "date": "9/22",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "右安、見三振、四球",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041068/top"
-    },
-    {
-      "date": "9/5",
-      "gameKind": "ファーム交流戦",
-      "opponent": "ロッテ",
-      "atBats": "2",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "1",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "中２、四球、右飛",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041047/top"
     }
   ]
 }
