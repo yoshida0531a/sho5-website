@@ -9514,5 +9514,71 @@
     "userName": "carrotism",
     "tweetUrl": "https://x.com/carrotism/status/2102793624723530229",
     "createdAt": "September 24, 2026 at 01:14AM"
+  },
+  {
+    "text": "🐯昨日の若虎😂初回〜の攻守カオス",
+    "userName": "n81hd",
+    "tweetUrl": "https://x.com/n81hd/status/2102924775870144745",
+    "createdAt": "September 24, 2026 at 09:55AM"
+  },
+  {
+    "text": "@Hamakyo_Ori_Ars 粘り強く持って行った感じで谷端さんらしいタイムリー！",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://x.com/yoshida0531a/status/2102952696773067238",
+    "createdAt": "September 24, 2026 at 11:46AM"
+  },
+  {
+    "text": "代打の神様試験。\n合格者が木浪に決定したという事であれば昨日の代打も納得です😊\n思えば、糸原、濱田、福島、小野寺、ディベイニー、ガルシア、豊田、立石、谷端、岡城、百崎。\nこの中で大歓声で雰囲気を変えられるのは木浪だけ。\n短期決戦で神様不在の辛さを去年実感した。\n今年は頼むよ木浪！！ https://t.co/PzkoE6kxbP",
+    "userName": "EZY5CcB2KLd9Ode",
+    "tweetUrl": "https://x.com/EZY5CcB2KLd9Ode/status/2102964982371783136",
+    "createdAt": "September 24, 2026 at 12:34PM"
+  },
+  {
+    "text": "立石と岡城は座学が足りない\n立石は今年もうちょい我慢して欲しかったけど、来年には打てそうなんよなこの2人。\n谷端は知らん間に打ってそう",
+    "userName": "McQueen54M",
+    "tweetUrl": "https://x.com/McQueen54M/status/2102965142803853547",
+    "createdAt": "September 24, 2026 at 12:35PM"
+  },
+  {
+    "text": "オバと谷端くん楽しそうやった😁\n\n#小幡竜平 #谷端将伍 https://t.co/dVErAEFwuN",
+    "userName": "love_going_sea",
+    "tweetUrl": "https://x.com/love_going_sea/status/2102995731049255007",
+    "createdAt": "September 24, 2026 at 02:37PM"
+  },
+  {
+    "text": "佐藤啓介ちょっといいよな\nこういう右打者出てけえへんかな、羨ましい\n頼むぞ谷端と岡城",
+    "userName": "seijunhayaruo",
+    "tweetUrl": "https://x.com/seijunhayaruo/status/2103058271477379459",
+    "createdAt": "September 24, 2026 at 06:45PM"
+  },
+  {
+    "text": "来季の妄想\n中.近本／髙寺／岡城／福島\n左.新外国人A／髙寺／井坪\n右.森下／髙寺／井坪\n一.大山／嶋村　\nD.新外国人A／新外国人B ／前川／嶋村／中川\n三.新外国人B ／立石／谷端／木浪\n捕.ルーキー／坂本／伏見／榮枝／梅野\n二.中野／元山／熊谷／山田／ルーキー\n遊.元山／小幡／ルーキー／山田／熊谷",
+    "userName": "hissanqlto",
+    "tweetUrl": "https://x.com/hissanqlto/status/2103107821135151374",
+    "createdAt": "September 24, 2026 at 10:02PM"
+  },
+  {
+    "text": "大塚とか宮下も3巡目か\n\n谷端はどういう評価で2位になったのか知りたい",
+    "userName": "v6Gf39ON4Z78756",
+    "tweetUrl": "https://x.com/v6Gf39ON4Z78756/status/2103118119166460165",
+    "createdAt": "September 24, 2026 at 10:43PM"
+  },
+  {
+    "text": "谷端が行ってる脱毛クリニック、マスターベーションのやり方教えてくれててえぐい https://t.co/OgOs8u4AkS",
+    "userName": "takudreamtaku51",
+    "tweetUrl": "https://x.com/takudreamtaku51/status/2103125304537756150",
+    "createdAt": "September 24, 2026 at 11:12PM"
+  },
+  {
+    "text": "2026.09.23 SGL\n結局代打出されちゃったけどずっと素振りしてた\n#佐野大陽 選手\n#ジーン・アルナエス 選手\n#谷端将伍 選手 https://t.co/pyIe1JNJwu",
+    "userName": "poyo___39",
+    "tweetUrl": "https://x.com/poyo___39/status/2103127018145742851",
+    "createdAt": "September 24, 2026 at 11:18PM"
+  },
+  {
+    "text": "イトハラケントはもうノイジーみたいにクライマックスや日本シリーズで活躍しないと許されないところまで来てる\n\n自分としては石川県出身の谷端くんが頑張って欲しいので、まずは二軍で無双できるくらいには育って欲しい\n\n立石くんはボロカスに叩かれてて可哀想だなと思うし、同じくらい頑張って欲しい",
+    "userName": "acrossnico",
+    "tweetUrl": "https://x.com/acrossnico/status/2103160623387546030",
+    "createdAt": "September 25, 2026 at 01:32AM"
   }
 ]
