@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-09-24T19:04:14.635Z",
+  "fetchedAt": "2026-09-25T09:10:51.131Z",
   "lastUpdated": "2026-09-25",
   "farmSummary": {
     "raw": {
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "9/25",
+      "gameKind": "ファーム・リーグ 西地区",
+      "opponent": "ソフトバンク",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041138/top"
+    },
     {
       "date": "9/23",
       "gameKind": "ファーム・リーグ 西地区",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "三ゴロ、三ゴロ、三ゴロ",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041075/top"
-    },
-    {
-      "date": "9/12",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "オリックス",
-      "atBats": "2",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "0",
-      "strikeouts": "1",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "右安、見三振、四球",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041068/top"
     }
   ]
 }
