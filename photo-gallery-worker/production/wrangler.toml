@@ -1,0 +1,15 @@
+# Live settings for version 5235cf44-c2ab-4b35-8dca-664a22b67951.
+# The candidate source in ../src and ../wrangler.toml is not what is deployed.
+name = "photo-gallery-worker"
+main = "index.js"
+compatibility_date = "2024-07-10"
+compatibility_flags = ["nodejs_compat"]
+workers_dev = true
+
+[[r2_buckets]]
+binding = "PHOTOS"
+bucket_name = "sho5-gallery-photos"
+
+[[kv_namespaces]]
+binding = "USAGE_STATS"
+id = "6c2fb2fa2b244ad69e06813c64213972"
