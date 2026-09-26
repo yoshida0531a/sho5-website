@@ -3758,5 +3758,13 @@
     "publishedAt": "September 23, 2026 at 06:13PM",
     "description": "阪神タイガースが運営する公式YouTubeチャンネルです。 さまざまな球団の映像や情報をお送りします。 === チャンネル登録は ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "東京谷端さくら音頭　北谷端公園盆踊り12　2026年9月11日　滝野川八幡神社御祭禮音頭会",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=NcMWT9aH0qU",
+    "publishedAt": "September 26, 2026 at 12:00PM",
+    "description": "2026年9月11日に東京都北区の北谷端公園で開催された、滝野川八幡神社御祭禮音頭会（盆踊り）の様子です。 活気あふれる和 ...",
+    "keyword": "谷端 阪神"
   }
 ]
