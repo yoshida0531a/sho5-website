@@ -10060,5 +10060,227 @@
     "userName": "upon_Tyen",
     "tweetUrl": "https://x.com/upon_Tyen/status/2103919722807062867",
     "createdAt": "September 27, 2026 at 03:48AM"
+  },
+  {
+    "text": "@maacchaan @DAZNJPNBaseball 全然いいでしょ。阪神にいても右は立石より序列したになってたやろうし谷端もいるからね。井上は出れて正解。",
+    "userName": "papasumamasu1",
+    "tweetUrl": "https://x.com/papasumamasu1/status/2104020831760474174",
+    "createdAt": "September 27, 2026 at 10:30AM"
+  },
+  {
+    "text": "２軍最終戦\n\nどうせ今日も\nショート小幡　セカンド谷端だろ\nなぁ？　平田勝男(-_-ﾒ)　さっさとやめろ",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://x.com/KUNY_XXX_52/status/2104031279503266192",
+    "createdAt": "September 27, 2026 at 11:12AM"
+  },
+  {
+    "text": "僕の応援ユニフォーム\n谷端じゃないぞ https://t.co/QXkrYqLFk8",
+    "userName": "URZ935XnbcQ85jf",
+    "tweetUrl": "https://x.com/URZ935XnbcQ85jf/status/2104043570588217773",
+    "createdAt": "September 27, 2026 at 12:00PM"
+  },
+  {
+    "text": "ファーム最終戦のスタメン\n\n岡城\n島田\n小幡\n立石\n谷端\n百崎\n福島\n長坂\nルーカス\n\nベンチ入り\n岩貞、伊藤将司、畠、桐敷、早川、能登、津田、モレッタ、小川、松原、栄枝、町田、藤田、嶋村、糸原、佐野、山田、戸井、川崎、アルナエス、濱田、井坪、豊田、西純也、山﨑、コンセグラ\n\n#阪神\n#タイガース",
+    "userName": "OJl9lz1Mzj2Cs4y",
+    "tweetUrl": "https://x.com/OJl9lz1Mzj2Cs4y/status/2104050380112101571",
+    "createdAt": "September 27, 2026 at 12:27PM"
+  },
+  {
+    "text": "谷端将伍選手と岡城快生選手が出てきて素振りしてる https://t.co/TM6H2RqjMx",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://x.com/0701TOMO/status/2104052211773067295",
+    "createdAt": "September 27, 2026 at 12:35PM"
+  },
+  {
+    "text": "岡城快生選手と谷端将伍選手 https://t.co/1I5WVv3lyq",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://x.com/0701TOMO/status/2104052666641129764",
+    "createdAt": "September 27, 2026 at 12:37PM"
+  },
+  {
+    "text": "【ファーム】 \n【阪神】\n1岡城(右)\n2島田(左)\n3小幡(遊)\n4立石(三)\n5谷端(二)\n6百﨑(一)\n7福島(中)\n8長坂(捕)\n9ルーカス(指)\nPルーカス\n#hanshin #tigers #阪神タイガース #熱覇",
+    "userName": "hanshintigersjp",
+    "tweetUrl": "https://x.com/hanshintigersjp/status/2104055615710769208",
+    "createdAt": "September 27, 2026 at 12:48PM"
+  },
+  {
+    "text": "ソフトバンク\nイヒネイツア\nダウンズ\n廣瀬\n秋広\n高橋\n西尾\n藤野\n牧原巧\n山下\n\n投手　　岩崎\n\n阪神二軍\n岡城\n島田\n小幡\n立石\n谷端\n百崎\n福島\n長坂\nルーカス\n\n投手　　ルーカス",
+    "userName": "400216Susumu",
+    "tweetUrl": "https://x.com/400216Susumu/status/2104056081421156604",
+    "createdAt": "September 27, 2026 at 12:50PM"
+  },
+  {
+    "text": "20260927  バット振ってた岡城くんと谷端くん https://t.co/5PNtB1BWWf",
+    "userName": "nrk_tora",
+    "tweetUrl": "https://x.com/nrk_tora/status/2104064051903139954",
+    "createdAt": "September 27, 2026 at 01:22PM"
+  },
+  {
+    "text": "谷端将伍選手がペシッてしたりするの山﨑照英選手以外見たことないねんなー\n仲良くなったんやねー\n初めは端から見ても激烈人見知りで声もちっさいちっさい谷端将伍選手が打ち解けてよかった 笑 https://t.co/7Hsc5jnNjl",
+    "userName": "0701TOMO",
+    "tweetUrl": "https://x.com/0701TOMO/status/2104116856931963345",
+    "createdAt": "September 27, 2026 at 04:52PM"
+  },
+  {
+    "text": "９／２７　ＳＧＬ最終戦\nグランド入り\n＃岡城快生\n＃谷端将伍\n＃立石正広 https://t.co/S3ja6wPIrm",
+    "userName": "057JKotf55lrGVv",
+    "tweetUrl": "https://x.com/057JKotf55lrGVv/status/2104123698370556330",
+    "createdAt": "September 27, 2026 at 05:19PM"
+  },
+  {
+    "text": "@Zing99112 あ、谷端さんやります？",
+    "userName": "vpnlyw",
+    "tweetUrl": "https://x.com/vpnlyw/status/2104128650199310681",
+    "createdAt": "September 27, 2026 at 05:38PM"
+  },
+  {
+    "text": "工藤コーチと🗣️\n2026.9.27📍SGLスタジアム尼崎\n#立石正広 #谷端将伍 #岡城快生\n#阪神タイガース https://t.co/jsnvBEZvBB",
+    "userName": "carrotism",
+    "tweetUrl": "https://x.com/carrotism/status/2104132081014264053",
+    "createdAt": "September 27, 2026 at 05:52PM"
+  },
+  {
+    "text": "阪神内野手外野手戦力外　育成落ち現ドラ候補\n木浪 聖也FAの可能性\nディベイニー\n谷端 将伍\n糸原 健斗\n小幡 竜平\n\n山田 脩也\n植田 海FAの可能性\n外野手\n濱田 太貴\n岡城 快生\n島田 海吏\n小野寺 暖\n豊田 寛\n福島 圭音\nガルシア\n\nこの中に残る選手は2軍試合要員",
+    "userName": "enperai14",
+    "tweetUrl": "https://x.com/enperai14/status/2104135691525349544",
+    "createdAt": "September 27, 2026 at 06:06PM"
+  },
+  {
+    "text": "大谷端っこすぎるよハイタニ先生",
+    "userName": "sarii_tanosiine",
+    "tweetUrl": "https://x.com/sarii_tanosiine/status/2104190571858579885",
+    "createdAt": "September 27, 2026 at 09:45PM"
+  },
+  {
+    "text": "期待の若手枠は概ね高打率でよき\n百崎、谷端、立石あたりはとくに\n山田はOPSそこまで高くないけど悪くないし",
+    "userName": "yakisoba53",
+    "tweetUrl": "https://x.com/yakisoba53/status/2104195134464430098",
+    "createdAt": "September 27, 2026 at 10:03PM"
+  },
+  {
+    "text": "立石は最悪サードも守れる江越にはなれるし岡城も島田の後釜にくらいはなれるんちゃうかなって思えるけど谷端はこれからどうしたらええんや",
+    "userName": "Denim_and_Ruby_",
+    "tweetUrl": "https://x.com/Denim_and_Ruby_/status/2104217037442887847",
+    "createdAt": "September 27, 2026 at 11:30PM"
+  },
+  {
+    "text": "嶋村と百崎、来年は一軍帯同できるようになるとデカいけどね\n谷端も9月のみとはいえこの成績なら来季以降の伸び方期待したい https://t.co/9mgnguHLtw",
+    "userName": "kage__Destino_",
+    "tweetUrl": "https://x.com/kage__Destino_/status/2104217368595718145",
+    "createdAt": "September 27, 2026 at 11:31PM"
+  },
+  {
+    "text": "岡城はよう走ったな 谷端はもっとやれると思ってたが・・・山田は守備もっと頑張ってくれ(´･ω･) https://t.co/H9bnA8bnui",
+    "userName": "tacchin_muscle",
+    "tweetUrl": "https://x.com/tacchin_muscle/status/2104219549390479593",
+    "createdAt": "September 27, 2026 at 11:40PM"
+  },
+  {
+    "text": "谷端最終的な打率だけみたら悲観されるかもだけど明らかに後半に行くにつれて数字的にも良くなってたし、来年は期待できるのでは\n2軍だったとしても規定に乗ってシーズンを終えた経験は大きいと思う\n今まで毎日のように試合があるなんてなかっただろうし",
+    "userName": "wm86j0",
+    "tweetUrl": "https://x.com/wm86j0/status/2104221985438056576",
+    "createdAt": "September 27, 2026 at 11:49PM"
+  },
+  {
+    "text": "@tktktktktigers 谷端めっちゃ期待してたのにな～一年目とはいえ二軍で長打率3割未満はねぇわ…",
+    "userName": "YXL8a3",
+    "tweetUrl": "https://x.com/YXL8a3/status/2104225601028751644",
+    "createdAt": "September 28, 2026 at 12:04AM"
+  },
+  {
+    "text": "谷端岡城が来年以降楽しみなんよな\n岡城、結構盗塁多いな\n\n何気に井坪も打ってるし、そろそろ来るんちゃう https://t.co/H6GWOyvz71",
+    "userName": "kyoshin_hanshin",
+    "tweetUrl": "https://x.com/kyoshin_hanshin/status/2104227740723667243",
+    "createdAt": "September 28, 2026 at 12:12AM"
+  },
+  {
+    "text": "谷端悲し過ぎるやろ。 https://t.co/QXz1vr72MR",
+    "userName": "hanshinnnnnnn03",
+    "tweetUrl": "https://x.com/hanshinnnnnnn03/status/2104228777492730118",
+    "createdAt": "September 28, 2026 at 12:16AM"
+  },
+  {
+    "text": "谷端がこんなに打てないのは想定外だった。何かあったのだろうか。",
+    "userName": "RepoKomart_",
+    "tweetUrl": "https://x.com/RepoKomart_/status/2104231293441782042",
+    "createdAt": "September 28, 2026 at 12:26AM"
+  },
+  {
+    "text": "@tktktktktigers 谷端と岡城はもう少し打力をアップしてほしいですね。ヒットを打つこともそうですが､四球をとれるようにしてほしいですね。",
+    "userName": "ishinobu3237",
+    "tweetUrl": "https://x.com/ishinobu3237/status/2104231437486653754",
+    "createdAt": "September 28, 2026 at 12:27AM"
+  },
+  {
+    "text": "こうして見ると井坪、栄枝をほぼ試せてないのが痛い。\n嶋村も中途半端だわな。\n山田はショートがドングリーズの中で少し入れてみて欲しかったし、谷端はもっと長打増やさないと厳しいな。\n#tigers https://t.co/SM6ndOJjjI",
+    "userName": "tomokuwa1216",
+    "tweetUrl": "https://x.com/tomokuwa1216/status/2104233865007304910",
+    "createdAt": "September 28, 2026 at 12:37AM"
+  },
+  {
+    "text": "大卒ドラ1で期待も大きいので、立石が今シーズン結果残せなかったのは正直残念\n\nだからって今シーズンだけ見てダメは流石に早漏。谷端と岡城に対してもだけど。3人ともちゃんと大成してくれな",
+    "userName": "Tarte_Tigers",
+    "tweetUrl": "https://x.com/Tarte_Tigers/status/2104235293222293868",
+    "createdAt": "September 28, 2026 at 12:42AM"
+  },
+  {
+    "text": "@tktktktktigers スラッガーと呼ばれたドラ2.谷端。が\nファームでホームランが1本も無いなんて\n寂し過ぎるわ",
+    "userName": "40Vtrd",
+    "tweetUrl": "https://x.com/40Vtrd/status/2104239339270262815",
+    "createdAt": "September 28, 2026 at 12:58AM"
+  },
+  {
+    "text": "谷端の本塁打0本が1番渋い\n脚あるわけでも守備上手いわけでもないのに\n普通に百崎のほうが良いやん\n\n岡城も脚でアピールできてるけど本塁打打つパワーないんか？？\nディベは後半良かったけど一軍で結果残せなさすぎて持ってないからもうええかなと\n\n小野寺も本塁打0なのかなり渋い https://t.co/ih4EOItgGr",
+    "userName": "rapanparapara",
+    "tweetUrl": "https://x.com/rapanparapara/status/2104239625829220642",
+    "createdAt": "September 28, 2026 at 12:59AM"
+  },
+  {
+    "text": "@tktktktktigers 立石、谷端、岡城は物足りんね。\n来年は一軍でレギュラーへの足掛かりを！",
+    "userName": "gmake340790",
+    "tweetUrl": "https://x.com/gmake340790/status/2104244782499602846",
+    "createdAt": "September 28, 2026 at 01:20AM"
+  },
+  {
+    "text": "谷端は牧になれると思ってた時期もありまふ https://t.co/yTdhPqdPOj",
+    "userName": "kanenashi222",
+    "tweetUrl": "https://x.com/kanenashi222/status/2104247070689497485",
+    "createdAt": "September 28, 2026 at 01:29AM"
+  },
+  {
+    "text": "谷端は牧になれると思ってた時期もありました https://t.co/yTdhPqdPOj",
+    "userName": "kanenashi222",
+    "tweetUrl": "https://x.com/kanenashi222/status/2104247150175760578",
+    "createdAt": "September 28, 2026 at 01:29AM"
+  },
+  {
+    "text": "@ys_osfk 俺はヤクルトの二軍はあまり詳しくないけど立石谷端に下村に今朝丸、高寺とか前川もまだ二十代前半だし岡城とかもプロに順応したら全然やれそうだと思うけど……井坪や門別茨木とかもそうかな",
+    "userName": "9aszq4",
+    "tweetUrl": "https://x.com/9aszq4/status/2104249916025680080",
+    "createdAt": "September 28, 2026 at 01:40AM"
+  },
+  {
+    "text": "坂倉獲得すると予想してるポストちらほらおるけど\nOPS.720でWAR1.0止まりの守備下手サードを補償込でほしいか？立石百崎谷端おるのに？\n捕手でバリバリやれるなら欲しいけどさ",
+    "userName": "Alector1",
+    "tweetUrl": "https://x.com/Alector1/status/2104250193223065803",
+    "createdAt": "September 28, 2026 at 01:41AM"
+  },
+  {
+    "text": "岡城28盗塁もしたんやなー\n立石も来年は一軍で2桁打ってほしい\n谷端は両親が俺の父さんの店来てたから1番応援してる\nあと百も5本打ってるんやね、頑張ってくれー",
+    "userName": "kirbyfann38",
+    "tweetUrl": "https://x.com/kirbyfann38/status/2104253982348890279",
+    "createdAt": "September 28, 2026 at 01:56AM"
+  },
+  {
+    "text": "谷端くんよくここまで打率上げれた\n後半よく頑張った\n\n岡城くんは出塁さえできれば盗塁技術は抜群やし今オフに期待したい\n\n嶋村くんは相変わらず素晴らしいバッティングしてた\n捕手としてはスローイングに課題が残るけど来年のDHでどうなるか…\n\n百崎くんも去年も良かった打球がより力強く質が高かった https://t.co/Oi6H5yGQMz",
+    "userName": "65_3sho17",
+    "tweetUrl": "https://x.com/65_3sho17/status/2104256343725236372",
+    "createdAt": "September 28, 2026 at 02:06AM"
+  },
+  {
+    "text": "@tktktktktigers 谷端に岡城ホームラン0ってヤバないか?\n久慈とか赤星レベルのパワーしか無いんか",
+    "userName": "igGDU573wEEn9BG",
+    "tweetUrl": "https://x.com/igGDU573wEEn9BG/status/2104272760751223263",
+    "createdAt": "September 28, 2026 at 03:11AM"
   }
 ]
