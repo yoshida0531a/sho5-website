@@ -10582,5 +10582,353 @@
     "userName": "nayu_hanshin",
     "tweetUrl": "https://x.com/nayu_hanshin/status/2104645968406962646",
     "createdAt": "September 29, 2026 at 03:54AM"
+  },
+  {
+    "text": "谷端は数字よりもチームがどういう選手にしたいのかがまるで見えてこないのが最大の懸念よな\nてっきりコーナーで牧や大山みたいにしたいのかと思ったら2番セカンドでバントさせられたりするし",
+    "userName": "nakina_ya",
+    "tweetUrl": "https://x.com/nakina_ya/status/2104685623768723927",
+    "createdAt": "September 29, 2026 at 06:32AM"
+  },
+  {
+    "text": "@ongrz86 谷端は序盤の苦戦から上げてきてるから、期待してます。",
+    "userName": "toutin3",
+    "tweetUrl": "https://x.com/toutin3/status/2104689130441719820",
+    "createdAt": "September 29, 2026 at 06:46AM"
+  },
+  {
+    "text": "@bat_nekaserudon プロじゃない球団が唯一ない西地区\n(ソフトバンクあり)と\n甲子園と同じ広さにした本拠地\n試合が毎回炎上してること加味したい。\n立石は慣れないレフトやらされまくってるし\n谷端の0本はまじで擁護できんけどな",
+    "userName": "hanshinnnnnnn03",
+    "tweetUrl": "https://x.com/hanshinnnnnnn03/status/2104693469579260340",
+    "createdAt": "September 29, 2026 at 07:03AM"
+  },
+  {
+    "text": "谷端が6切っちゃってるのがなぁ… https://t.co/GzzXzlHj1Q",
+    "userName": "yuzu250ki",
+    "tweetUrl": "https://x.com/yuzu250ki/status/2104699377441005840",
+    "createdAt": "September 29, 2026 at 07:26AM"
+  },
+  {
+    "text": "脚と守備で貢献できる可能性が高い岡城は置いておいて谷端って内野打撃型守備難右打ちっていう割と毎年いるようなタイプなんだし多少突き抜けたものを見せないと不味いのではという",
+    "userName": "mru_mori",
+    "tweetUrl": "https://x.com/mru_mori/status/2104702987801391462",
+    "createdAt": "September 29, 2026 at 07:41AM"
+  },
+  {
+    "text": "ファーム西地区は『ソフトバンクがいる』『ハヤテ、ツバメズ、オイシックスがいない』から他地区と比べると成績は稼ぎにくい。\nあと、二軍は『課題を見つけて、解消する場所』でもあるから、来年成績が伸びれば笑い話で終わる。\n\n谷端や岡城は兎も角、立石は本塁打も出てるし心配する必要は無さそう。 https://t.co/inYaIuxOZu",
+    "userName": "tracking_now",
+    "tweetUrl": "https://x.com/tracking_now/status/2104705432011083947",
+    "createdAt": "September 29, 2026 at 07:50AM"
+  },
+  {
+    "text": "今年のドラフトどうすんだろな、２軍見てると投手の方がまだマシだけど今年見てたらやっぱり欲しいし\n野手に関しては去年の立石谷端岡城次第なんだけどぶっちゃけ層が薄すぎる（笑）\n\nいっそのこと藤浪青柳育成打診して魔改造出来たら御の字で取ってみて後はバランスよく、か\n\n下村伊原次第でもあるし",
+    "userName": "1984b0411",
+    "tweetUrl": "https://x.com/1984b0411/status/2104706431702438101",
+    "createdAt": "September 29, 2026 at 07:54AM"
+  },
+  {
+    "text": "@bat_nekaserudon 立石は怪我がちなのと\n内外野コロコロさせられたの加味すれば\n及第点だと思う\n\n本塁打0の谷端が1番やばい",
+    "userName": "Ffgh8r2d",
+    "tweetUrl": "https://x.com/Ffgh8r2d/status/2104708250235216278",
+    "createdAt": "September 29, 2026 at 08:02AM"
+  },
+  {
+    "text": "@bat_nekaserudon まじで谷端は何をしてるんや。",
+    "userName": "th3xzegkGDEgoDF",
+    "tweetUrl": "https://x.com/th3xzegkGDEgoDF/status/2104710671871127850",
+    "createdAt": "September 29, 2026 at 08:11AM"
+  },
+  {
+    "text": "@yung_giamts @ongrz86 谷端は前評判では単独か外れ1レベルの評価だったのに結果的に23番目まで残ってて、なんで獲れた？て言われてた\nドラフト評価でも谷端岡城両獲りできて神ドラフト言われてたし\nスカウトの落ち度はないやろ\nでも立石は1軍レベルの守備があるからまだマシやけど、谷端は守備微妙やから打てないと厳しい",
+    "userName": "NICb5l8TGq99110",
+    "tweetUrl": "https://x.com/NICb5l8TGq99110/status/2104712720507642148",
+    "createdAt": "September 29, 2026 at 08:19AM"
+  },
+  {
+    "text": "立石は一旦置いておいて谷端岡城はなんでこうなった？？？ https://t.co/TlQVxPprPM",
+    "userName": "K42UM4_T1G3RS",
+    "tweetUrl": "https://x.com/K42UM4_T1G3RS/status/2104721881341522140",
+    "createdAt": "September 29, 2026 at 08:56AM"
+  },
+  {
+    "text": "谷端って来年には育成にしたいレベルではある",
+    "userName": "E2OIBSJSqL96939",
+    "tweetUrl": "https://x.com/E2OIBSJSqL96939/status/2104724454672900153",
+    "createdAt": "September 29, 2026 at 09:06AM"
+  },
+  {
+    "text": "まぁでも谷端ってマスリクっぽさはあったからそんなに惹かれなかったなドラフト時",
+    "userName": "mru_mori",
+    "tweetUrl": "https://x.com/mru_mori/status/2104725954581135833",
+    "createdAt": "September 29, 2026 at 09:12AM"
+  },
+  {
+    "text": "谷端は最初マジで酷かったところあげてきて、三振率低めというところを見ると、パワーつけるとあっさり二軍レベルだと無双するんじゃないかなーと思ってる。岡城もだいたい同じ。立石は秋春のキャンプでしっかりフォーム見直して、二軍に漬けたいねといったところ",
+    "userName": "bazooka_2023",
+    "tweetUrl": "https://x.com/bazooka_2023/status/2104728489337463096",
+    "createdAt": "September 29, 2026 at 09:22AM"
+  },
+  {
+    "text": "谷端は今セカンドメインだけど、これは二遊間の後釜が少ないって事情もありそうなので、パワーつける過程で守りが少しダメになってきたら一三塁移設も本格検討していいと思う。",
+    "userName": "bazooka_2023",
+    "tweetUrl": "https://x.com/bazooka_2023/status/2104728875901358429",
+    "createdAt": "September 29, 2026 at 09:24AM"
+  },
+  {
+    "text": "立石とか谷端とか岡城とか何で1年目でそこまで結果を求めるのか正直分からん。確かに結果を出してくれたらありがたいけど即戦力級の選手を去年の阪神は獲得してたのかって思うとそうではないと思ってた。\nまだ1年目である程度実戦に出せた。何なら1軍で岡城や立石は安打も経験してるし素材型としては十分じゃない？",
+    "userName": "9aszq4",
+    "tweetUrl": "https://x.com/9aszq4/status/2104735631297663261",
+    "createdAt": "September 29, 2026 at 09:50AM"
+  },
+  {
+    "text": "SGLじゃなけりゃ谷端も5〜6本打ってるし西純も7本くらい\n\n甲子園のサイズなのがほんまにバカすぎる、ラッキーゾーンないし",
+    "userName": "yuurei_71kz",
+    "tweetUrl": "https://x.com/yuurei_71kz/status/2104742320042332603",
+    "createdAt": "September 29, 2026 at 10:17AM"
+  },
+  {
+    "text": "谷端はポジションをある程度決めてあげるのと出塁か長打どっちかに振りたいよね\n三振が少ないのは本当に良いポイントなので",
+    "userName": "hskajtj",
+    "tweetUrl": "https://x.com/hskajtj/status/2104744515898880395",
+    "createdAt": "September 29, 2026 at 10:26AM"
+  },
+  {
+    "text": "大卒１年目の谷端よりも\n高卒３年目の山田　百崎の方が上でしょうね https://t.co/HxECU73lRP",
+    "userName": "KUNY_XXX_52",
+    "tweetUrl": "https://x.com/KUNY_XXX_52/status/2104747550855295329",
+    "createdAt": "September 29, 2026 at 10:38AM"
+  },
+  {
+    "text": "@bat_nekaserudon 擁護は出来んけど風の舞洲とかSGLみたいな広い球場だとホームランは出にくいと思う。谷端の0は流石にやばいが",
+    "userName": "YMRf2xkAjtVgId4",
+    "tweetUrl": "https://x.com/YMRf2xkAjtVgId4/status/2104748744583664116",
+    "createdAt": "September 29, 2026 at 10:42AM"
+  },
+  {
+    "text": "ファーム西地区は『ソフトバンクがいる』『ハヤテ、ツバメズ、オイシックスがいない』から他地区と比べると成績は稼ぎにくい。\nあと、二軍は『課題を見つけて、解消する場所』でもあるから、来年成績が伸びれば笑い話で終わる。\n谷端や岡城は兎も角、立石は本塁打も出てるし心配する必要は無さそう。",
+    "userName": "gemini20168722",
+    "tweetUrl": "https://x.com/gemini20168722/status/2104750616572514657",
+    "createdAt": "September 29, 2026 at 10:50AM"
+  },
+  {
+    "text": "@bat_nekaserudon 山崎は論外どころかなんで指名したのか\n分からん\n\n谷端、岡城も\n内外野コロコロさせられ、スペ体質で\n万全じゃない中やった立石に負けるのは‥\n岡城は最悪代走要員ありそうだけど\n谷端は打てなきゃキツイ",
+    "userName": "Ffgh8r2d",
+    "tweetUrl": "https://x.com/Ffgh8r2d/status/2104751058828611642",
+    "createdAt": "September 29, 2026 at 10:52AM"
+  },
+  {
+    "text": "@kyou_wasurenai 立石はスペで、内外野コロコロさせられた\nってのもあるからまぁ及第点かなと\n\n本塁打0の谷端がやばい",
+    "userName": "Ffgh8r2d",
+    "tweetUrl": "https://x.com/Ffgh8r2d/status/2104752058918437090",
+    "createdAt": "September 29, 2026 at 10:56AM"
+  },
+  {
+    "text": "個人的には、皆んな期待値以下だけど、岡城はドラ3位の一年目としては悪くないかなとは思ってる。来年以降に期待\n立石→怪我せず走り切れたことは良かった\n谷端→長打を増やそう\n岡城→守備走塁がいい感じ。コンタクト率を上げていこう",
+    "userName": "Jr10442408",
+    "tweetUrl": "https://x.com/Jr10442408/status/2104758236767523105",
+    "createdAt": "September 29, 2026 at 11:20AM"
+  },
+  {
+    "text": "@Ffgh8r2d とはいえ、スペって治りにくいのが心配。\n谷端は本当に長所が無い状態やからマジで頑張って欲しい",
+    "userName": "kyou_wasurenai",
+    "tweetUrl": "https://x.com/kyou_wasurenai/status/2104759151897567411",
+    "createdAt": "September 29, 2026 at 11:24AM"
+  },
+  {
+    "text": "立石は多分大丈夫、谷端は予想外、岡城は最悪守備走塁要因で https://t.co/P46LZCkkh6",
+    "userName": "TalkAboutHT",
+    "tweetUrl": "https://x.com/TalkAboutHT/status/2104759570027659311",
+    "createdAt": "September 29, 2026 at 11:26AM"
+  },
+  {
+    "text": "@tigerschannel72 まずは立石に森下のような成績を残して貰う事が大事です。\n元々森下以上の打撃のポテンシャルがある選手として阪神は獲得したんですからね。\n\nそれと今年のドラフトですよ大事なのは。\n昨年の谷端、岡城に余り期待できそうにないのは今年のプレーを観ていて感じるので再度野手を中心に獲得して欲しい。",
+    "userName": "f64V5vV45P57465",
+    "tweetUrl": "https://x.com/f64V5vV45P57465/status/2104763941901709628",
+    "createdAt": "September 29, 2026 at 11:43AM"
+  },
+  {
+    "text": "2026阪神タイガースを振り返る（打者編1⃣-0[二軍]OPS）\n【阪神タイガース[二軍]OPS30傑】\n 1.熊谷敬宥.429(7-3) 出塁率.500 OPS 0.929 0打点 1三振 1四死球 0本塁打)\n 2.前川右京.300(100-30) 出塁率.407 OPS 0.887 13打点 24三振 18四死球 4本塁打)\n 3.梅野隆太郎.300(40-12) 出塁率.378 OPS 0.878 7打点 13三振 5四死球 2本塁打)\n 4.糸原健斗.284(74-21) 出塁率.424 OPS 0.816 10打点 12三振 18四死球 1本塁打)\n 5.嶋村麟士朗.299(137-41) 出塁率.351 OPS 0.804 28打点 15三振 12四死球 3本塁打)\n 6.福島圭音.296(71-21) 出塁率.412 OPS 0.778 0打点 13三振 14四死球 0本塁打)\n 7.豊田寛.296(71-21) 出塁率.432 OPS 0.742 4打点 16三振 17四死球 0本塁打)\n 8.島田海吏.262(191-50) 出塁率.355 OPS 0.701 19打点 39三振 28四死球 1本塁打)\n 9.榮枝裕貴.263(160-42) 出塁率.357 OPS 0.695 13打点 33三振 24四死球 2本塁打)\n10.立石正広.246(179-44) 出塁率.312 OPS 0.692 25打点 52三振 18四死球 4本塁打)\n11.井坪陽生.286(168-48) 出塁率.33 OPS 0.687 12打点 22三振 11四死球 1本塁打)\n12.ﾃﾞｨﾍﾞｲﾆｰ.267(225-60) 出塁率.318 OPS 0.678 23打点 54三振 17四死球 3本塁打)\n13.ガルシア.167(48-8) 出塁率.255 OPS 0.672 9打点 20三振 6四死球 4本塁打)\n14.アルナエス.276(127-35) 出塁率.306 OPS 0.660 8打点 12三振 6四死球 1本塁打)\n15.濱田太貴.206(126-26) 出塁率.310 OPS 0.659 14打点 40三振 19四死球 4本塁打)\n16.百﨑蒼生.225(182-41) 出塁率.286 OPS 0.654 22打点 35三振 16四死球 5本塁打)\n17.小幡竜平.240(125-30) 出塁率.29 OPS 0.650 12打点 28三振 11四死球 1本塁打)\n18.木浪聖也.243(74-18) 出塁率.317 OPS 0.601 7打点 15三振 8四死球 0本塁打)\n19.山田脩也.214(215-46) 出塁率.275 OPS 0.591 19打点 49三振 19四死球 4本塁打)\n20.ｺﾝｽｴｸﾞﾗ.190(147-28) 出塁率.259 OPS 0.586 17打点 28三振 14四死球 4本塁打)\n21.岡城快生.239(268-64) 出塁率.296 OPS 0.580 17打点 57三振 22四死球 0本塁打)\n22.藤田健斗.237(59-14) 出塁率.308 OPS 0.579 1打点 11三振 6四死球 0本塁打)\n23.谷端将伍.231(324-75) 出塁率.290 OPS 0.577 27打点 48三振 27四死球 0本塁打)\n24.佐野大陽.221(195-43) 出塁率.293 OPS 0.575 16打点 37三振 20四死球 2本塁打)\n25.元山飛優.211(71-15) 出塁率.253 OPS 0.563 9打点 11三振 4四死球 0本塁打)\n26.小野寺暖.228(193-44) 出塁率.289 OPS 0.558 19打点 43三振 17四死球 0本塁打)\n27.川﨑俊哲.158(38-6) 出塁率.360 OPS 0.544 1打点 7三振 12四死球 0本塁打)\n28.西純矢.228(162-37) 出塁率.270 OPS 0.542 10打点 52三振 10四死球 0本塁打)\n29.戸井零士.185(81-15) 出塁率.253 OPS 0.500 13打点 19三振 8四死球 1本塁打)\n30.長坂拳弥.159(88-14) 出塁率.295 OPS 0.465 2打点 23三振 17四死球 0本塁打)\n10月7日からのフェニックス・リーグでの活躍！そして2027春季キャンプでのスタートダッシュを陰ながら望んでいます。 https://t.co/chiGtu7yn9",
+    "userName": "shin1787523",
+    "tweetUrl": "https://x.com/shin1787523/status/2104770390140527028",
+    "createdAt": "September 29, 2026 at 12:09PM"
+  },
+  {
+    "text": "@kyou_wasurenai 立石はオフに頑丈な体作る為の\nトレーニングを重点的にやって\n後はポジション固定してあげて\nほしいですね\n\n谷端は長野さん以来の\n東都1部で2季連続の首位打者で\n日米野球にも選ばれて活躍して\n実力はある筈なんですけど\n何故悲惨な成績なのか‥",
+    "userName": "Ffgh8r2d",
+    "tweetUrl": "https://x.com/Ffgh8r2d/status/2104773608929435823",
+    "createdAt": "September 29, 2026 at 12:21PM"
+  },
+  {
+    "text": "この人は数字しか見てないけど、\n動作見ても谷端岡城は結構きつい。\n2人とも岡城はまだ守備走塁あるし体格あるからマシやけど、谷端はかなり厳しい。 https://t.co/goeqqSDwWY",
+    "userName": "redtigeryakyu",
+    "tweetUrl": "https://x.com/redtigeryakyu/status/2104776851269038487",
+    "createdAt": "September 29, 2026 at 12:34PM"
+  },
+  {
+    "text": "立石は謎一軍固定とかあったから流石にどんまいやけど問題は谷端でしょこれ。本当に何がいいんだこれ https://t.co/DWCdnAzcVn",
+    "userName": "boy408789386",
+    "tweetUrl": "https://x.com/boy408789386/status/2104784507446731092",
+    "createdAt": "September 29, 2026 at 01:05PM"
+  },
+  {
+    "text": "@kknn_yyyyy 立石、谷端、岡城はファームでもOPSが終わってるからちょっと想定外よね",
+    "userName": "ikra_carp",
+    "tweetUrl": "https://x.com/ikra_carp/status/2104790590810702038",
+    "createdAt": "September 29, 2026 at 01:29PM"
+  },
+  {
+    "text": "すまんけど谷端とか普通に論外でしょ https://t.co/XvkgZjdfAK",
+    "userName": "dr_okara_",
+    "tweetUrl": "https://x.com/dr_okara_/status/2104792589061046682",
+    "createdAt": "September 29, 2026 at 01:37PM"
+  },
+  {
+    "text": "いくらなんでも尚早すぎるけど、谷端は他2人よりポテンシャルが控えめなぶん早く結果を出さないと切られる順番が早くなりそうかもしれないとは思う\n#阪神タイガース https://t.co/AndZEyzgTS",
+    "userName": "tigers_sun",
+    "tweetUrl": "https://x.com/tigers_sun/status/2104795682788037018",
+    "createdAt": "September 29, 2026 at 01:49PM"
+  },
+  {
+    "text": "ただ立石は\n2軍では主に内野なのに\n1軍では主に外野をやり\n昇降格も曖昧で\n方針が一貫してない中でやってて\n「ぎり」及第点かなと\n\n谷端、岡城は擁護しようがない https://t.co/osvGFK2yo2",
+    "userName": "Ffgh8r2d",
+    "tweetUrl": "https://x.com/Ffgh8r2d/status/2104798156152303691",
+    "createdAt": "September 29, 2026 at 01:59PM"
+  },
+  {
+    "text": "岡城と立石は一軍起用も結構あったし、ウェスタンとSGL考えたらネガる必要はあんまないやろ。谷端は‥うん‥\n\nとりあえず2軍の首脳陣結構入れ替える必要はあるやろな。元の選手の責任が大きいやろけど、とりあえず2軍は改革しないとあかんやろね",
+    "userName": "0ta0taHatniki",
+    "tweetUrl": "https://x.com/0ta0taHatniki/status/2104799208071164361",
+    "createdAt": "September 29, 2026 at 02:03PM"
+  },
+  {
+    "text": "例年なら谷端岡城なんてネガネガすぎるんだけど\nちょっと今年の阪神二軍投手野手含めその2人以外もみんな軒並み酷いし悪化してるから選手の問題で終わらせてはいけないと思うんよな\n真面目に二軍スタッフは一掃でもいい",
+    "userName": "URU95816392",
+    "tweetUrl": "https://x.com/URU95816392/status/2104803181029159292",
+    "createdAt": "September 29, 2026 at 02:19PM"
+  },
+  {
+    "text": "@arayakyu0819 実は阪神二軍って今年投手もそうなんですけど二遊間も回ってなかったんですよね。谷端立石にセカンドさせたり、明らかに山田の状態が悪いのに出し続けたり木浪が居座ったりしてたので…あと運営だけじゃなくて戦力的にも二遊間は穴空いてますし上位指名 1枠は最低限確保したいです。",
+    "userName": "44_mfastball",
+    "tweetUrl": "https://x.com/44_mfastball/status/2104806239335301361",
+    "createdAt": "September 29, 2026 at 02:31PM"
+  },
+  {
+    "text": "谷端はともかく立石岡城に関してはフィジカルは間違いないから今後次第やろ\nちなみに一番ヤバいのは右投げオーバースローで130キロ台の支配下25歳 https://t.co/n9DQUQFkK9",
+    "userName": "kimoikantoku",
+    "tweetUrl": "https://x.com/kimoikantoku/status/2104816341953999060",
+    "createdAt": "September 29, 2026 at 03:11PM"
+  },
+  {
+    "text": "二軍は首脳陣も選手もテコ入れして欲しいね\n立石谷端岡城は数字厳しいとはいえ1年目なのでともかく、それ以外で期待できそうな選手が全くいない",
+    "userName": "bonjiri51",
+    "tweetUrl": "https://x.com/bonjiri51/status/2104816648524050464",
+    "createdAt": "September 29, 2026 at 03:12PM"
+  },
+  {
+    "text": "谷端は3B/LFでポジションを絞ってくれる球団だったら多少未来変わったのかな\n\n本人も立石との共存は絶対意識するし、\n少なくとも2Bに残す択が生まれるチームに入ったのは本人の非ではない\n\n大学での実績持ちとはいえ\n守備位置が定まらない点からしても現場の評価的にはあの辺りで妥当だったのかな",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://x.com/Og0238_0521/status/2104819119833121039",
+    "createdAt": "September 29, 2026 at 03:22PM"
+  },
+  {
+    "text": "井上広大は入団した時から現役ドラフトに出されるまで毎年毎年3年後が楽しみだねと言われ続けてたんやぞ\n立石や谷端は確かに素材型なのかもしれんがそれを育成出来る奴が阪神にはいねーんだわ",
+    "userName": "Soul_Flying",
+    "tweetUrl": "https://x.com/Soul_Flying/status/2104824835880989134",
+    "createdAt": "September 29, 2026 at 03:45PM"
+  },
+  {
+    "text": "立石とか谷端とかを1年だけでネガってるやつらはなんなんやろ？佐藤輝明とか森下で脳焼かれすぎやで",
+    "userName": "ryoyade729_121",
+    "tweetUrl": "https://x.com/ryoyade729_121/status/2104840655499559297",
+    "createdAt": "September 29, 2026 at 04:48PM"
+  },
+  {
+    "text": "阪神戦力外は育成組からか\n松原は育成3年目だからどっちにしろ契約切れやし伊藤稜はプロリハビラー\nアルナエスと戸井は立石と谷端の獲得で使うところがないし、マルティネスはラグズデール残しまで見てるのかな\nコンスエグラもDH導入でガルシアで務まるってところか",
+    "userName": "Ra_RKPS",
+    "tweetUrl": "https://x.com/Ra_RKPS/status/2104847820067045523",
+    "createdAt": "September 29, 2026 at 05:16PM"
+  },
+  {
+    "text": "ご縁があってこちらに来ています🐯⚾️\n\nグランド状況はこんな感じでベチャベチャです😱\nピンバッジは中野拓夢 選手でした😆\n複数回来てるんでバッグも貰えました😊\n\n試合開始は遅らせるとのアナウンスがありました\n\n勝って1日に 連覇 しましょう！\n\n＃阪神タイガース\n＃阪神甲子園球場\n＃谷端将伍 ユニ https://t.co/1JQ26rBIbA",
+    "userName": "8rcfvyHiKZ2Nt8b",
+    "tweetUrl": "https://x.com/8rcfvyHiKZ2Nt8b/status/2104849391131508912",
+    "createdAt": "September 29, 2026 at 05:22PM"
+  },
+  {
+    "text": "佐藤輝明抜けて、三塁に立石・谷端を持って来るとしたら空いた外野に井上絢登はピッタリハマりそうでは？\n\n阪神行くかな、パリーグの需要は分からん",
+    "userName": "ash_bbizm",
+    "tweetUrl": "https://x.com/ash_bbizm/status/2104857961332105317",
+    "createdAt": "September 29, 2026 at 05:56PM"
+  },
+  {
+    "text": "立石、岡城はどうにでもなるだろ。\n谷端は逆にどうにもならない。\n走攻守全てが彼の憧れている内山の劣化でしかない。\n足で稼げる訳でもなく二塁守備もマイナスにならないレベル、打撃はコーナー守らせるにはキツ過ぎる長打力。\nドラフトで避けろと言い続けた選手。",
+    "userName": "L9GGnTqBDOTlmFE",
+    "tweetUrl": "https://x.com/L9GGnTqBDOTlmFE/status/2104872754281648595",
+    "createdAt": "September 29, 2026 at 06:55PM"
+  },
+  {
+    "text": "【暗渠探訪 第4弾！】\n\nリクエストの多かった「谷端川」を歩きました。\n\nJR板橋駅から出発。支流の出端川、千川上水、そして中丸川へ。板橋区と豊島区をまたいで、見えない川をたどります。\n\nいつもの街も、暗渠を通して見ると別の姿に。\n\n#暗渠 #谷端川 #板橋区 #中妻じょうた https://t.co/v2FgRkqpnp",
+    "userName": "nakatsuma",
+    "tweetUrl": "https://x.com/nakatsuma/status/2104873853444915503",
+    "createdAt": "September 29, 2026 at 07:00PM"
+  },
+  {
+    "text": "谷端は慣れりゃ打つんじゃね？あの東都で2回首位打者になってるわけだし",
+    "userName": "akishima_y_P",
+    "tweetUrl": "https://x.com/akishima_y_P/status/2104900764330250628",
+    "createdAt": "September 29, 2026 at 08:47PM"
+  },
+  {
+    "text": "少なくとも立石、岡城、谷端に関しては１軍も経験しているし、1年目としては上々でしょ。そんなにネガって何が楽しいん？",
+    "userName": "fzAF0c5L02E9Zpg",
+    "tweetUrl": "https://x.com/fzAF0c5L02E9Zpg/status/2104903349456031777",
+    "createdAt": "September 29, 2026 at 08:57PM"
+  },
+  {
+    "text": "この3人って入団前から評判良かったよなぁって考えるとなぁ〜流石にしんどい数字やなぁ\n谷端がここまでアレとは思いもしなかったけど https://t.co/10jm1M3VBt",
+    "userName": "VeryVery460320",
+    "tweetUrl": "https://x.com/VeryVery460320/status/2104906057105682937",
+    "createdAt": "September 29, 2026 at 09:08PM"
+  },
+  {
+    "text": "ファーム、今季ラストゲームのハイタッチと一礼🧢💫\nありがとうございました.ᐟ.ᐟ\n2026.09.25\n#町田隼乙\n#百崎蒼生\n#山田脩也\n#山﨑照英\n#谷端将伍\n#立石正広\n#川﨑俊哲\n#戸井零士\n#豊田寛\n#小幡竜平\n#島田海吏\n#岡城快生\n#佐野大陽\n#濱田太貴\n#嶋村麟士朗\n#下村海翔\n#阪神タイガース https://t.co/iqM4LkIqav",
+    "userName": "sukinanodake___",
+    "tweetUrl": "https://x.com/sukinanodake___/status/2104907474516214065",
+    "createdAt": "September 29, 2026 at 09:13PM"
+  },
+  {
+    "text": "立石谷端岡城の三人衆は必ず大成してくれると信じている",
+    "userName": "Tarte_Tigers",
+    "tweetUrl": "https://x.com/Tarte_Tigers/status/2104927691606765762",
+    "createdAt": "September 29, 2026 at 10:34PM"
+  },
+  {
+    "text": "阪神はショート髙寺にして百崎谷端レフト、セカンドとショートをドラフトで1人ずつ獲得すれば今のポジション問題結構解決しそうだが。",
+    "userName": "0ta0taHatniki",
+    "tweetUrl": "https://x.com/0ta0taHatniki/status/2104952610646380882",
+    "createdAt": "September 30, 2026 at 12:13AM"
+  },
+  {
+    "text": "阪神って渡部海外したらドラフト1位山里ってダメなん?外したときに投手に行く旨味を全く感じないのだが。普通に谷端をセカンドから動かさなきゃ谷端も厳しいやろし。",
+    "userName": "0ta0taHatniki",
+    "tweetUrl": "https://x.com/0ta0taHatniki/status/2104954536033210619",
+    "createdAt": "September 30, 2026 at 12:20AM"
+  },
+  {
+    "text": "谷端は来年ほんまに結果出さないとな\n二塁でも三塁でもいいから内野で大成してほしいね",
+    "userName": "more_nney",
+    "tweetUrl": "https://x.com/more_nney/status/2104982064781303892",
+    "createdAt": "September 30, 2026 at 02:10AM"
+  },
+  {
+    "text": "@Yokohama45De 報徳との関係上、今朝丸はカバーするだろね。反対に即戦力になれずファームでも打ててない谷端は外しても良い。OUTは谷端、神宮、石黒、元山、INは門別、今朝丸、伏見、伊藤、って感じかな。神宮や元山は代えが効くし、懐が傷まない。",
+    "userName": "I5gDpxaEGDj1zmM",
+    "tweetUrl": "https://x.com/I5gDpxaEGDj1zmM/status/2105010673906520098",
+    "createdAt": "September 30, 2026 at 04:03AM"
+  },
+  {
+    "text": "@Yokohama45De 報徳との関係上、今朝丸はカバーしそう。反対に即戦力になれずファームでも打ててない谷端は外すかも。OUTは谷端、神宮、石黒、元山、湯浅、INは門別、今朝丸、伏見、伊藤、山田（or百崎）って感じかな。神宮や元山は代えが効くし、湯浅はもう厳しい。伏見OUTは青学渡部が来ても無いはず。",
+    "userName": "I5gDpxaEGDj1zmM",
+    "tweetUrl": "https://x.com/I5gDpxaEGDj1zmM/status/2105015440254898415",
+    "createdAt": "September 30, 2026 at 04:22AM"
   }
 ]
