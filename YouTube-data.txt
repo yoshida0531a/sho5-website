@@ -3766,5 +3766,13 @@
     "publishedAt": "September 26, 2026 at 12:00PM",
     "description": "2026年9月11日に東京都北区の北谷端公園で開催された、滝野川八幡神社御祭禮音頭会（盆踊り）の様子です。 活気あふれる和 ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "【阪神】即戦力ドラ2･谷端将伍は今どうなっているのか？",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=axoDUmevUpw",
+    "publishedAt": "October 1, 2026 at 02:21PM",
+    "description": "0:00 谷端将伍 1:08 ドラフト時の評価 4:55 ドラフト1位 立石正広との違いは何？ 【阪神暗黒時代】勝てなかった迷走時代に輝いた ...",
+    "keyword": "谷端 阪神"
   }
 ]
