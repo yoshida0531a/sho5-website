@@ -11362,5 +11362,269 @@
     "userName": "takumu_51_EXTP",
     "tweetUrl": "https://x.com/takumu_51_EXTP/status/2106084691548004806",
     "createdAt": "October 3, 2026 at 03:11AM"
+  },
+  {
+    "text": "@soooreikeike 🐰が取りに行くんちゃう\n海外挑戦かな〜〜〜〜〜\n\n🐯は一旦、\n身を引いてもいいかなって、\n立石さん・谷端さん・山田さん・\nももちゃんもいるしね",
+    "userName": "ZETTON_PONOJI",
+    "tweetUrl": "https://x.com/ZETTON_PONOJI/status/2106132657520496685",
+    "createdAt": "October 3, 2026 at 06:22AM"
+  },
+  {
+    "text": "何でもかんでも野手を獲れとは思いません。例えば今年の阪神は上位で獲得した野手3人が通年ほとんど使い物にならなくて、下位の投手も神宮除いて戦力にならなかったせいで巨人に肉薄されましたし、立石はともかく谷端岡城は今後良くてサブレベルで留まりそうなので、場合によっては尾を引くと思います",
+    "userName": "kyojakupanda",
+    "tweetUrl": "https://x.com/kyojakupanda/status/2106229860767355145",
+    "createdAt": "October 3, 2026 at 12:48PM"
+  },
+  {
+    "text": "『 快刀乱魔学園 』\n\nKP / あろの さん\n\nPC/PL\nHO1：葛原 悠馬 / 校倉琉稀 さん\nHO2：菊井 多希 / あおのわたばね\nHO3：八意 颯音 / ゆきかげ さん\nHO4：谷端 藍 / 灯火 さん\n\n全生還\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\nみんな出目が荒ぶってました🎲\n楽しかった～🙌✨\nhttps://t.co/MviPgk9LN1",
+    "userName": "AONO1315794",
+    "tweetUrl": "https://x.com/AONO1315794/status/2106251984487747856",
+    "createdAt": "October 3, 2026 at 02:16PM"
+  },
+  {
+    "text": "@Saba_Tigers 小園は東洋大姫路やしええ選手やと思ってるけど、阪神には不要やろ。\n二軍には山田、百崎など一軍に手が届きそうな若手が居るし立石も谷端も居る。\n外から取ってくるんではなく、彼等を育てて欲しいですね。",
+    "userName": "don_1426",
+    "tweetUrl": "https://x.com/don_1426/status/2106254974145778126",
+    "createdAt": "October 3, 2026 at 02:28PM"
+  },
+  {
+    "text": "糸原なんぞに打席与えるぐらいなら福島井坪百崎谷端にでも与えろ",
+    "userName": "Alector1",
+    "tweetUrl": "https://x.com/Alector1/status/2106268789537124668",
+    "createdAt": "October 3, 2026 at 03:23PM"
+  },
+  {
+    "text": "糸原みたいな戦力外ギリギリのロートル出してる暇あったら生きのいい若手使ってくれや、立石でも谷端でも岡城でもええぞ、来年以降の糧になるからな",
+    "userName": "tiltowait150",
+    "tweetUrl": "https://x.com/tiltowait150/status/2106269120606216598",
+    "createdAt": "October 3, 2026 at 03:24PM"
+  },
+  {
+    "text": "立石・谷端・岡城を1軍に昇格させずに糸原に枠を与えるアホ首脳陣\n\n#阪神タイガース",
+    "userName": "rn_daida_ore",
+    "tweetUrl": "https://x.com/rn_daida_ore/status/2106269431622168583",
+    "createdAt": "October 3, 2026 at 03:25PM"
+  },
+  {
+    "text": "@Vspotteiina 一切打てない糸原小野寺登録してるのが本当に良くない\n彼らと比べたら直近二軍で結果出した小幡、まだ上で3打席だけの島田のほうがマシだし、なんなら岡城井坪谷端百崎あたりの誰でも良い",
+    "userName": "Alector1",
+    "tweetUrl": "https://x.com/Alector1/status/2106271171805344104",
+    "createdAt": "October 3, 2026 at 03:32PM"
+  },
+  {
+    "text": "@garchomp600 そうなんすよ、そうなると経験値が、て言われると反論出来ないレベルの控え層なんですよね😅\n\n来年立石岡城谷端辺りは1軍常連になってほしいですけど\n\n嶋村とかも落ちてますし\n中川行方不明ですしね、心配すわ",
+    "userName": "1984b0411",
+    "tweetUrl": "https://x.com/1984b0411/status/2106272318284771757",
+    "createdAt": "October 3, 2026 at 03:37PM"
+  },
+  {
+    "text": "@srsw521_35 力のないベテラン入らないですからね\n岡城と谷端が今後上がってきますし、井坪もいる",
+    "userName": "s_2006__",
+    "tweetUrl": "https://x.com/s_2006__/status/2106273556589907993",
+    "createdAt": "October 3, 2026 at 03:42PM"
+  },
+  {
+    "text": "結果同じ凡退でも、嶋村や立石谷端が打席に立ってる方が、まだ何かやってくれるんじゃねぇの?ってワクワクするわ。\n\n来年からのDHも、穴でしかないわなぁ…。",
+    "userName": "kina_1122",
+    "tweetUrl": "https://x.com/kina_1122/status/2106273720440664517",
+    "createdAt": "October 3, 2026 at 03:42PM"
+  },
+  {
+    "text": "代打陣が糸原、木浪って一体ファームは何をして来たんや？全く育って無いやん　谷端とか豊田も佐野に百崎…外国人でもええ、優勝目前にして阪神組織の闇は深いぞ　佐藤抜けた来年ホンマどうなるんや\n\n#阪神タイガース",
+    "userName": "HJackle15",
+    "tweetUrl": "https://x.com/HJackle15/status/2106282859363536930",
+    "createdAt": "October 3, 2026 at 04:19PM"
+  },
+  {
+    "text": "＞代打糸原て😓得点する気あらへんやん、藤川よ💢いつまで一軍に置いてるねん💦\n(-ω-;)ウーン\n監督「ファームで出塁率.424でOPS 0.816の糸原で文句言われたら、ファームで同じような成績だった梅野も使ったら文句言われるのかなぁ😭」 https://t.co/nQ1LNKdIIM\n「困ったなぁ😖文句言われる前に、糸原と梅野も一緒に二軍に降格した方が良いのかなぁｗｗ」　\n\n【2026阪神タイガース[二軍]OPS30傑】  \n1.熊谷敬宥.429(7-3) 出塁率.500 OPS 0.929 0打点 1三振 1四死球 0本塁打) \n2.前川右京.300(100-30) 出塁率.407 OPS 0.887 13打点 24三振 18四死球 4本塁打)  \n3.梅野隆太郎.300(40-12) 出塁率.378 OPS 0.878 7打点 13三振 5四死球 2本塁打)  \n4.糸原健斗.284(74-21) 出塁率.424 OPS 0.816 10打点 12三振 18四死球 1本塁打)  \n5.嶋村麟士朗.299(137-41) 出塁率.351 OPS 0.804 28打点 15三振 12四死球 3本塁打)  \n6.福島圭音.296(71-21) 出塁率.412 OPS 0.778 0打点 13三振 14四死球 0本塁打)  \n7.豊田寛.296(71-21) 出塁率.432 OPS 0.742 4打点 16三振 17四死球 0本塁打)  \n8.島田海吏.262(191-50) 出塁率.355 OPS 0.701 19打点 39三振 28四死球 1本塁打)  \n9.榮枝裕貴.263(160-42) 出塁率.357 OPS 0.695 13打点 33三振 24四死球 2本塁打) \n10.立石正広.246(179-44) 出塁率.312 OPS 0.692 25打点 52三振 18四死球 4本塁打) \n11.井坪陽生.286(168-48) 出塁率.33 OPS 0.687 12打点 22三振 11四死球 1本塁打) \n12.ﾃﾞｨﾍﾞｲﾆｰ.267(225-60) 出塁率.318 OPS 0.678 23打点 54三振 17四死球 3本塁打) \n13.ガルシア.167(48-8) 出塁率.255 OPS 0.672 9打点 20三振 6四死球 4本塁打) \n14.アルナエス.276(127-35) 出塁率.306 OPS 0.660 8打点 12三振 6四死球 1本塁打) \n15.濱田太貴.206(126-26) 出塁率.310 OPS 0.659 14打点 40三振 19四死球 4本塁打) \n16.百﨑蒼生.225(182-41) 出塁率.286 OPS 0.654 22打点 35三振 16四死球 5本塁打) \n17.小幡竜平.240(125-30) 出塁率.29 OPS 0.650 12打点 28三振 11四死球 1本塁打) \n18.木浪聖也.243(74-18) 出塁率.317 OPS 0.601 7打点 15三振 8四死球 0本塁打) \n19.山田脩也.214(215-46) 出塁率.275 OPS 0.591 19打点 49三振 19四死球 4本塁打) \n20.ｺﾝｽｴｸﾞﾗ.190(147-28) 出塁率.259 OPS 0.586 17打点 28三振 14四死球 4本塁打) \n21.岡城快生.239(268-64) 出塁率.296 OPS 0.580 17打点 57三振 22四死球 0本塁打) \n22.藤田健斗.237(59-14) 出塁率.308 OPS 0.579 1打点 11三振 6四死球 0本塁打) \n23.谷端将伍.231(324-75) 出塁率.290 OPS 0.577 27打点 48三振 27四死球 0本塁打) \n24.佐野大陽.221(195-43) 出塁率.293 OPS 0.575 16打点 37三振 20四死球 2本塁打) \n25.元山飛優.211(71-15) 出塁率.253 OPS 0.563 9打点 11三振 4四死球 0本塁打) \n26.小野寺暖.228(193-44) 出塁率.289 OPS 0.558 19打点 43三振 17四死球 0本塁打) \n27.川﨑俊哲.158(38-6) 出塁率.360 OPS 0.544 1打点 7三振 12四死球 0本塁打) \n28.西純矢.228(162-37) 出塁率.270 OPS 0.542 10打点 52三振 10四死球 0本塁打) \n29.戸井零士.185(81-15) 出塁率.253 OPS 0.500 13打点 19三振 8四死球 1本塁打) \n30.長坂拳弥.159(88-14) 出塁率.295 OPS 0.465 2打点 23三振 17四死球 0本塁打)",
+    "userName": "shin1787523",
+    "tweetUrl": "https://x.com/shin1787523/status/2106284344138727512",
+    "createdAt": "October 3, 2026 at 04:24PM"
+  },
+  {
+    "text": "今年入った大卒の立石や谷端、岡城。井坪や山田、百崎あたりの高卒入団の約4年の野手、野手転向1年目の西純なんかは死ぬ気で練習せんとあかんやろし、前川や嶋村、福島圭音も1軍出場はあったけど全然実力足りてない。ここらの選手たちから1軍戦力になるのが出てこんとマジでヤバイ。",
+    "userName": "sonic_0314",
+    "tweetUrl": "https://x.com/sonic_0314/status/2106291365684633651",
+    "createdAt": "October 3, 2026 at 04:52PM"
+  },
+  {
+    "text": "問題は糸原の成績なら立石、谷端、岡城の方が経験させるという意味で意義あるって話だな\n\n#阪神タイガース の試合で #糸原健斗 代打に「何で糸原？」という声が一部で上がるhttps://t.co/FN6O3BNzOT",
+    "userName": "godsavethepj",
+    "tweetUrl": "https://x.com/godsavethepj/status/2106299275634479106",
+    "createdAt": "October 3, 2026 at 05:24PM"
+  },
+  {
+    "text": "糸原、木浪の無限三振見せられるなら、岡城、谷端とか使ってほしいわ",
+    "userName": "tomatokirai25",
+    "tweetUrl": "https://x.com/tomatokirai25/status/2106300932610998447",
+    "createdAt": "October 3, 2026 at 05:30PM"
+  },
+  {
+    "text": "前川糸原なんかベンチに入れてるようじゃ優勝する資格ないわ。立石岡城谷端に打席やった方がマシちゃうか",
+    "userName": "Wc4dAqi74417351",
+    "tweetUrl": "https://x.com/Wc4dAqi74417351/status/2106303415584489742",
+    "createdAt": "October 3, 2026 at 05:40PM"
+  },
+  {
+    "text": "明日甲子園でしょ\n木浪前川糸原はいらんでしょもう\n普通に福島立石谷端あたりの方がよくやると思う",
+    "userName": "yakiu_8929",
+    "tweetUrl": "https://x.com/yakiu_8929/status/2106304775306518743",
+    "createdAt": "October 3, 2026 at 05:46PM"
+  },
+  {
+    "text": "阪神代打陣弱いって言われるけどそりゃそうなんよ\n\n阪神黄金期を作った人が代打に回るほど年月経ってないから。\n谷端、岡城、立石がスタメンについたとき、代打中野、代打近本、代打大山が見れるわけで",
+    "userName": "Hentai_Tea0524",
+    "tweetUrl": "https://x.com/Hentai_Tea0524/status/2106307249303908630",
+    "createdAt": "October 3, 2026 at 05:55PM"
+  },
+  {
+    "text": "谷端とか井坪とか立石あげてくれよ。糸原なんか使うのなら",
+    "userName": "hidenori0192",
+    "tweetUrl": "https://x.com/hidenori0192/status/2106307631912775784",
+    "createdAt": "October 3, 2026 at 05:57PM"
+  },
+  {
+    "text": "高卒1年目なのに立石谷端岡城を超えた男 https://t.co/r2VE5NxrcG",
+    "userName": "sioran_desu",
+    "tweetUrl": "https://x.com/sioran_desu/status/2106308022368932026",
+    "createdAt": "October 3, 2026 at 05:59PM"
+  },
+  {
+    "text": "@GONZOUDAIWA 基本キッチリ三振しますよね。　\n立石、嶋村、福島、谷端はこーゆーピリついた試合に出て欲しいのに…\n\n吉田マッチョ取りに行くしか。",
+    "userName": "LastkissH",
+    "tweetUrl": "https://x.com/LastkissH/status/2106309813139653089",
+    "createdAt": "October 3, 2026 at 06:06PM"
+  },
+  {
+    "text": "糸原前川木浪より立石谷端岡城のルーキートリオの方がまだ打ちそう",
+    "userName": "29kpugyU9oXJ7X7",
+    "tweetUrl": "https://x.com/29kpugyU9oXJ7X7/status/2106316531743490295",
+    "createdAt": "October 3, 2026 at 06:32PM"
+  },
+  {
+    "text": "@akanhanshinbot 勝たなアカン試合をこんだけ落としたら、流石に今年は盛り上がらんわ。\n何度盛り上がっても盛り下げられたからなぁ笑\nなんで、G戦の結果はどうでもええわ。\n\nでもＧも今夜が最終戦で本拠地でしょ？\nなら勝つんとちゃう？\n\n出来れば明日決めて、残試合は立石や谷端、山田や百崎を出して欲しいね。",
+    "userName": "don_1426",
+    "tweetUrl": "https://x.com/don_1426/status/2106329346243973348",
+    "createdAt": "October 3, 2026 at 07:23PM"
+  },
+  {
+    "text": "正直打てなくてもまだ谷端とか岡城とかに打席与えた方がよっぽど価値があるよ\n糸原はもうついていけてない",
+    "userName": "ikesotyo",
+    "tweetUrl": "https://x.com/ikesotyo/status/2106341730090119321",
+    "createdAt": "October 3, 2026 at 08:12PM"
+  },
+  {
+    "text": "立石と谷端と岡城と嶋村と百崎、この辺を残り試合経験させたいよなぁ。この辺の底上げがないと、来季はもっときつい戦いになるわけだし。",
+    "userName": "loki_00",
+    "tweetUrl": "https://x.com/loki_00/status/2106364071901802676",
+    "createdAt": "October 3, 2026 at 09:41PM"
+  },
+  {
+    "text": "明日から嶋村と立石と百崎を使いなさい\n可能なら福島谷端も",
+    "userName": "Kinami_Seiya",
+    "tweetUrl": "https://x.com/Kinami_Seiya/status/2106364987501637827",
+    "createdAt": "October 3, 2026 at 09:45PM"
+  },
+  {
+    "text": "立石谷端岡城小幡嶋村高寺前川あたりは今から死ぬ気で練習しろよ\n来年以降はお前らに懸かっとる",
+    "userName": "mai2npb",
+    "tweetUrl": "https://x.com/mai2npb/status/2106374671071588838",
+    "createdAt": "October 3, 2026 at 10:23PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「厄年」の解説\n\n面白いと思ってくれた方は是非、HPも見てみてください\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/qQ9oG3XDTh https://t.co/tQ8Mn8Mr6H",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2106376472395137401",
+    "createdAt": "October 3, 2026 at 10:31PM"
+  },
+  {
+    "text": "来年の阪神に求める事\n・立石や谷端等の若手野手の成長\n・下村をローテ級の投手に\n・捕手として嶋村育成\n・髙寺ショート挑戦\n・石黒門別茨木今朝丸の誰かを先発で開花\n・前川の打撃指導\n・初回バント禁止\n・髙橋遥人を怪我させない\n・2軍監督矢野燿大\n・秋山と原口のコーチ入閣",
+    "userName": "skippa0208T",
+    "tweetUrl": "https://x.com/skippa0208T/status/2106378540468043876",
+    "createdAt": "October 3, 2026 at 10:39PM"
+  },
+  {
+    "text": "@natakuman 投手は下村と今朝丸に門別\n野手は立石に岡城と谷端\nこのへんは来年やってもらわな！\n木下も先発で観たいな🤔\nDHで吉田正尚も狙って欲しいし\n助っ人も投手野手共に必要。\n2軍には鬼軍曹連れてきて\n血反吐吐くほど練習させろ！",
+    "userName": "yoshitaka0806",
+    "tweetUrl": "https://x.com/yoshitaka0806/status/2106384866598375802",
+    "createdAt": "October 3, 2026 at 11:04PM"
+  },
+  {
+    "text": "立石谷端岡城より先に育成入団の神宮がビールかけ参加するとはｗ",
+    "userName": "fireroll3",
+    "tweetUrl": "https://x.com/fireroll3/status/2106385201337377019",
+    "createdAt": "October 3, 2026 at 11:05PM"
+  },
+  {
+    "text": "このビール掛けに居るルーキーが\n立石でも谷端でも岡城でもなく\n育成から上がった神宮とはな",
+    "userName": "ashusakanogi",
+    "tweetUrl": "https://x.com/ashusakanogi/status/2106385492182983139",
+    "createdAt": "October 3, 2026 at 11:06PM"
+  },
+  {
+    "text": "まず2軍にいる立石、谷端、岡城、山田、百崎を仕上げるために2軍の首脳陣を入れ替える方が重要だけどな\n後渡部海取って捕手を強化 https://t.co/oP2tQuylhq",
+    "userName": "ikesotyo",
+    "tweetUrl": "https://x.com/ikesotyo/status/2106392150703476862",
+    "createdAt": "October 3, 2026 at 11:33PM"
+  },
+  {
+    "text": "@djpMfnuZMEobyHb @ryomawthl @hinotamadbd22 そうなんよ…\n早く各々の後継者を育てなあかんねんけど、中々ね。。\n個人的にも、井坪・山田・百崎やらにもっと頑張ってほしいんやけどね\n去年ドラフトの谷端、岡城も当然期待してるし、もちろん立石にもね",
+    "userName": "tgbkct5",
+    "tweetUrl": "https://x.com/tgbkct5/status/2106393334961119262",
+    "createdAt": "October 3, 2026 at 11:38PM"
+  },
+  {
+    "text": "立石、岡城、谷端お前らは来年やるんだから今は唇噛み締めて見とけよ",
+    "userName": "pococha_n",
+    "tweetUrl": "https://x.com/pococha_n/status/2106398838424809761",
+    "createdAt": "October 3, 2026 at 11:59PM"
+  },
+  {
+    "text": "@tgbkct5 @ryomawthl @hinotamadbd22 今年2軍生活で40試合以上出場して\n打率.280台に乗せたのは井坪・嶋村・糸原の３人ほど。嶋村はDHで育成してるけど捕手で育てないと絶対後に響く。\nまた立石・谷端・岡城は即戦力なのに2軍で初年度ops.600を下回るのは酷い。\nこれは来年見返さないと3年以内に立石以外は消える可能性がある",
+    "userName": "djpMfnuZMEobyHb",
+    "tweetUrl": "https://x.com/djpMfnuZMEobyHb/status/2106398851490074946",
+    "createdAt": "October 3, 2026 at 11:59PM"
+  },
+  {
+    "text": "@djpMfnuZMEobyHb @ryomawthl @hinotamadbd22 井坪は来年くらいそろそろ1軍定着してほしいな。\n嶋村なぁ、打撃いいから捕手レベルをしっかり上げてほしい。\n糸原は…。\n立石、谷端、岡城マジで来年奮起してもらいたい！",
+    "userName": "tgbkct5",
+    "tweetUrl": "https://x.com/tgbkct5/status/2106400720740364297",
+    "createdAt": "October 4, 2026 at 12:07AM"
+  },
+  {
+    "text": "岡城はよく１軍２軍行き来させてて、立石も何回か移動させてたけど、一向に谷端を上げてこなかったのも、何か伏線というか仕込んでるんじゃないかって少し期待してる",
+    "userName": "var_yuki_huku",
+    "tweetUrl": "https://x.com/var_yuki_huku/status/2106406841634926726",
+    "createdAt": "October 4, 2026 at 12:31AM"
+  },
+  {
+    "text": "立石、谷端、岡城3人の今年のシーズン。去年の工藤ようなシーズンになってくれてたらええんやけどなぁ😀\n来年は出てきて欲しいよ！！",
+    "userName": "EZY5CcB2KLd9Ode",
+    "tweetUrl": "https://x.com/EZY5CcB2KLd9Ode/status/2106420244063658149",
+    "createdAt": "October 4, 2026 at 01:24AM"
+  },
+  {
+    "text": "これずっと課題だけど中野の後釜問題はもう来年なんとかしないと\nそのために今年１年谷端を仕込んでるなら名将だけど",
+    "userName": "var_yuki_huku",
+    "tweetUrl": "https://x.com/var_yuki_huku/status/2106422131080987069",
+    "createdAt": "October 4, 2026 at 01:32AM"
+  },
+  {
+    "text": "補強は大事！\n\nところでさ、中川どこ行ったん？\n前川、そろそろ.280 15HRくらいしやん？\n立石くん、谷端くん、岡城くんは来年はいこうな\n既存の底上げも大事よ https://t.co/1LNDN9WHGX",
+    "userName": "tora_saketoba",
+    "tweetUrl": "https://x.com/tora_saketoba/status/2106427273830429134",
+    "createdAt": "October 4, 2026 at 01:52AM"
+  },
+  {
+    "text": "@tora_saketoba 落ち際の選手と入れ替えできれば無限ループできるんですけどね\n谷端はかなりきついかな2軍成績的に\n打席は1番立ってるから、期待はかなりされてるだろうね",
+    "userName": "kGklpXxXN97Pfsd",
+    "tweetUrl": "https://x.com/kGklpXxXN97Pfsd/status/2106440588962988253",
+    "createdAt": "October 4, 2026 at 02:45AM"
+  },
+  {
+    "text": "@44_mfastball 立石谷端は期待してたけど、初年度指標酷すぎて無理かもな\nドラフトって難しいんだなってわかる",
+    "userName": "kGklpXxXN97Pfsd",
+    "tweetUrl": "https://x.com/kGklpXxXN97Pfsd/status/2106442381780467859",
+    "createdAt": "October 4, 2026 at 02:52AM"
   }
 ]
