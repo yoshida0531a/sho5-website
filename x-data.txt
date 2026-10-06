@@ -11908,5 +11908,149 @@
     "userName": "sinA0202",
     "tweetUrl": "https://x.com/sinA0202/status/2107146381811192272",
     "createdAt": "October 6, 2026 at 01:30AM"
+  },
+  {
+    "text": "谷端　イケメン https://t.co/2gWj2sVaiN",
+    "userName": "yoshida0531a",
+    "tweetUrl": "https://x.com/yoshida0531a/status/2107235857719767228",
+    "createdAt": "October 6, 2026 at 07:25AM"
+  },
+  {
+    "text": "@FInfqikuesu 普通にルーキーでこれはいい方\n\n立石や谷端がちょっとうーんやけど",
+    "userName": "joker86205",
+    "tweetUrl": "https://x.com/joker86205/status/2107311321801011613",
+    "createdAt": "October 6, 2026 at 12:25PM"
+  },
+  {
+    "text": "自分としては立石より\n谷端の方が1軍でほぼ見れなかったことが意外やったし残念\n\nヤクルトに欲しかったー https://t.co/zsZf5dIKqW",
+    "userName": "Nekoya200209",
+    "tweetUrl": "https://x.com/Nekoya200209/status/2107353501177381085",
+    "createdAt": "October 6, 2026 at 03:13PM"
+  },
+  {
+    "text": "阪神 タイガース\n SGL限定 温冷ペットボトルカバー  交換\n\n【譲】谷端、百崎、下村\n\n【求】立石、井坪\n\n谷端は買取可能️⭕️\n\n7、8の甲子園優先\nお気軽にお声がけ下さい🙇🏻‍♀️",
+    "userName": "ck5_ih40",
+    "tweetUrl": "https://x.com/ck5_ih40/status/2107395433794601254",
+    "createdAt": "October 6, 2026 at 05:59PM"
+  },
+  {
+    "text": "だからこそ今年のうちにネクスト森下みたいなバッターが一軍に来てほしかった。立石・岡城・谷端の大卒三銃士、嶋村・圭音の育成上がり組が中心になって来年一軍で暴れてほしい",
+    "userName": "F7Nrm",
+    "tweetUrl": "https://x.com/F7Nrm/status/2107411340361081314",
+    "createdAt": "October 6, 2026 at 07:03PM"
+  },
+  {
+    "text": "【意味が分かると怖い話】\n\n■「漫画喫茶」の解説\n\n面白いと思ってくれた方は是非、HPも見てみてください\n\n◆鍵谷端哉の怖い話\nHPには1000話以上のお話を掲載中\n是非、覗いてみてください\nhttps://t.co/qQ9oG3X63J https://t.co/6LzjXA6V3O",
+    "userName": "kagitani_motoya",
+    "tweetUrl": "https://x.com/kagitani_motoya/status/2107412046203465812",
+    "createdAt": "October 6, 2026 at 07:06PM"
+  },
+  {
+    "text": "勝田行かずに谷端取りに行ったアホ球団、阪神はさそがしショートの層が厚いんでしょうねw",
+    "userName": "y5_ky7",
+    "tweetUrl": "https://x.com/y5_ky7/status/2107413180968558665",
+    "createdAt": "October 6, 2026 at 07:10PM"
+  },
+  {
+    "text": "こう見ると中野の後継者も育てないとな・・・谷端なのか百崎なのかわからんけど",
+    "userName": "basbollmoyashi1",
+    "tweetUrl": "https://x.com/basbollmoyashi1/status/2107422135119757671",
+    "createdAt": "October 6, 2026 at 07:46PM"
+  },
+  {
+    "text": "小野寺熊谷梅野の打席誰が見たいねん。岡城立石嶋村谷端よべ",
+    "userName": "Wc4dAqi74417351",
+    "tweetUrl": "https://x.com/Wc4dAqi74417351/status/2107424096636248480",
+    "createdAt": "October 6, 2026 at 07:53PM"
+  },
+  {
+    "text": "甲子園の洗礼を浴びまくった中野拓夢が一昨年くらいから明らかに捕球ポイントを下げて引き込むように捕球しだしてるからな。\n\n谷端にこの対応が出来るかと問われると微妙…だが谷端には中野の後継者を狙ってもらわんと旨みがないのよねぇ https://t.co/HG6HHTZfRe",
+    "userName": "shuuu__jack",
+    "tweetUrl": "https://x.com/shuuu__jack/status/2107424646241108179",
+    "createdAt": "October 6, 2026 at 07:56PM"
+  },
+  {
+    "text": "スタメンと控えの差が、、\n首涼しいやつしかおらんのに上がってくるのは中堅ばっかり\n嶋村、立石、百崎、谷端とか若手試せや\n圭音もどこいったねん連れてこい\n#阪神タイガース",
+    "userName": "nogitora46",
+    "tweetUrl": "https://x.com/nogitora46/status/2107426664166916488",
+    "createdAt": "October 6, 2026 at 08:04PM"
+  },
+  {
+    "text": "小野寺も熊谷もいつも通りだな笑\nだったら井坪と谷端見せてくれ",
+    "userName": "adarutomansei",
+    "tweetUrl": "https://x.com/adarutomansei/status/2107426684479975430",
+    "createdAt": "October 6, 2026 at 08:04PM"
+  },
+  {
+    "text": "熊谷も基本代走以外で使う意味ないけど、どこでも守れるのはやっぱり潰しが効いてありがたい\n小野寺は打席に立たせる意味が本当にないので今年戦力外はないとは思うけど崖っぷち\n谷端とか百崎とか使って欲しいなぁ\n代打も嶋村とかケインのほうがまだバットにあたると思うのだが",
+    "userName": "dochikushou4416",
+    "tweetUrl": "https://x.com/dochikushou4416/status/2107427025938235582",
+    "createdAt": "October 6, 2026 at 08:05PM"
+  },
+  {
+    "text": "糸原とか木浪出すぐらいなら立石谷端連れてこい",
+    "userName": "Saturdaypool",
+    "tweetUrl": "https://x.com/Saturdaypool/status/2107431896556982390",
+    "createdAt": "October 6, 2026 at 08:24PM"
+  },
+  {
+    "text": "阪神は90点、100点に近いレベルの野手が他の球団に比べて多いけど60点近くの控えになる選手の層が圧倒的に少ないイメージ。外野だと岡城とか福島、内野なら立石、谷端、捕手なら嶋村とかに頑張ってもらわんと。 https://t.co/ArnkHMCRsY",
+    "userName": "chika5_Jude5",
+    "tweetUrl": "https://x.com/chika5_Jude5/status/2107433325468205450",
+    "createdAt": "October 6, 2026 at 08:30PM"
+  },
+  {
+    "text": "どう考えても合同引退試合するよりは若手お披露目会にした方がええな。立石･嶋村･福島･百崎･山田･谷端の方がよっぽど60とか33よりは気持ちええスイングするやろ",
+    "userName": "culemandao",
+    "tweetUrl": "https://x.com/culemandao/status/2107434202648264813",
+    "createdAt": "October 6, 2026 at 08:34PM"
+  },
+  {
+    "text": "糸原使うくらいなら立石谷端ガルシアの方がええやろ\n#阪神タイガース",
+    "userName": "satsuki9999",
+    "tweetUrl": "https://x.com/satsuki9999/status/2107434913763078146",
+    "createdAt": "October 6, 2026 at 08:36PM"
+  },
+  {
+    "text": "糸原熊谷小野寺→立石谷端福島(岡城)\n\nこれやれば誰も文句言わんやろ…誰が前者の打席守備みたいねん…",
+    "userName": "33_4tigers",
+    "tweetUrl": "https://x.com/33_4tigers/status/2107435858920087871",
+    "createdAt": "October 6, 2026 at 08:40PM"
+  },
+  {
+    "text": "こんな無意味に等しい打席見せられるくらいなら立石 谷端 岡城を一挙に見た方が圧倒的に楽しい",
+    "userName": "0501RenAk",
+    "tweetUrl": "https://x.com/0501RenAk/status/2107436969823535612",
+    "createdAt": "October 6, 2026 at 08:45PM"
+  },
+  {
+    "text": "立石、岡城、谷端、下村をこの輪に入れてないのは敢えてやと思う\n来年悔しさを晴らそうな\nまずは明日から始まるフェニックスや！！",
+    "userName": "toyonakan",
+    "tweetUrl": "https://x.com/toyonakan/status/2107452199634899343",
+    "createdAt": "October 6, 2026 at 09:45PM"
+  },
+  {
+    "text": "消化試合は立石・岡城・谷端をはじめ、福島・嶋村あたりを使ってほしいな。もちろん佐藤森下のキャリアハイも狙ってほしいけど。なんなら遊撃手高寺もお願いしたい。",
+    "userName": "oqMGUSCi7gT7fVx",
+    "tweetUrl": "https://x.com/oqMGUSCi7gT7fVx/status/2107454795170902470",
+    "createdAt": "October 6, 2026 at 09:55PM"
+  },
+  {
+    "text": "✨私の阪神好き顔9選✨\n好きが溢れちゃった…\nみんなと5/9人一致：バランス\n1位：伊藤将司\n2位：髙橋遥人\n3位：及川雅貴\n4位：大山悠輔\n5位：谷端将伍\n6位：岡城快生\n7位：畠世周\n8位：髙寺望夢\n9位：嶋村麟士朗\n#阪神好き顔TOP9 #好き顔9選 #好き顔診断ネット\nhttps://t.co/UhVHQv3njM",
+    "userName": "motti_you",
+    "tweetUrl": "https://x.com/motti_you/status/2107456699972067461",
+    "createdAt": "October 6, 2026 at 10:03PM"
+  },
+  {
+    "text": "つーか阪神は一軍を睨めるファースト候補が少なすぎる、二軍で守った前川嶋村の他には立石谷端にオプションあるかもくらいでしょ\n\n流石に小野寺の幻影を追いすぎだと思うが井坪にオプションでつけてもいいと思うんよな、代打も兼ねつつ控えレベルを上げることができそう\n福島岡城にはつかなそうだし",
+    "userName": "Og0238_0521",
+    "tweetUrl": "https://x.com/Og0238_0521/status/2107470150727598522",
+    "createdAt": "October 6, 2026 at 10:56PM"
+  },
+  {
+    "text": "ショートが課題やから、ドラフトでショート補強したいは当たり前なんやけど\nチームとして強くなるには、含有戦力の底上げが1番早くて確実\n\n山田、百崎、谷端、小幡、立石は、落合監督時代のアライバ、森野くらいノックを受ける必要があるとある。\n彼らを一流にするのが1番",
+    "userName": "pTXLuUeDiY47287",
+    "tweetUrl": "https://x.com/pTXLuUeDiY47287/status/2107520816439337280",
+    "createdAt": "October 7, 2026 at 02:18AM"
   }
 ]
