@@ -86,6 +86,17 @@ async function installApi(context, state) {
       return;
     }
     if (request.method() === 'GET') {
+      if (state.getFailures > 0) {
+        state.getFailures -= 1;
+        state.gets.push(503);
+        await route.fulfill({
+          status: 503,
+          headers,
+          body: JSON.stringify({ ok: false, accepted: false, error: 'fan-meter state is not initialized' }),
+        });
+        return;
+      }
+      state.gets.push(200);
       await route.fulfill({
         status: 200,
         headers,
@@ -129,7 +140,16 @@ async function installApi(context, state) {
 }
 
 function newState() {
-  return { allTime: 0, ids: new Set(), posts: [], dropNext: false, mode: 'ok', hold: null };
+  return {
+    allTime: 0,
+    ids: new Set(),
+    posts: [],
+    gets: [],
+    dropNext: false,
+    mode: 'ok',
+    hold: null,
+    getFailures: 0,
+  };
 }
 
 async function openPage(context, origin) {
@@ -138,7 +158,10 @@ async function openPage(context, origin) {
   await page.waitForFunction(() => {
     const button = document.querySelector('#tap-button');
     const status = document.querySelector('#status-text');
-    return button && status && !button.disabled && status.textContent !== '読み込み中…' && status.textContent !== '未確認のタップを確認しています。';
+    return button && status && !button.disabled
+      && status.textContent !== '読み込み中…'
+      && status.textContent !== '未確認のタップを確認しています。'
+      && status.textContent !== '接続をやり直しています。';
   });
   return page;
 }
@@ -269,6 +292,26 @@ describe('sho5-meter browser tabs', { timeout: 60_000 }, () => {
       assert.notEqual(rejectedState.posts[0], rejectedState.posts[1]);
       assert.equal(rejectedState.allTime, 1);
       await rejected.close();
+
+      const recovered = await browser.newContext();
+      const recoveredState = newState();
+      recoveredState.dropNext = true;
+      await installApi(recovered, recoveredState);
+      const dropped = await openPage(recovered, site.origin);
+      await dropped.click('#tap-button');
+      await dropped.waitForFunction(() => document.querySelector('#status-text').textContent.includes('通信結果を確認できません'));
+      const pendingId = recoveredState.posts[0];
+      assert.equal(recoveredState.allTime, 1);
+      await dropped.close();
+      recoveredState.getFailures = 1;
+      const restored = await openPage(recovered, site.origin);
+      assert.deepEqual(recoveredState.gets.slice(-2), [503, 200]);
+      assert.equal(recoveredState.posts.at(-1), pendingId);
+      assert.equal(recoveredState.posts.filter((id) => id === pendingId).length, 2);
+      assert.equal(recoveredState.allTime, 1);
+      assert.equal(await restored.locator('#all-time-count').innerText(), '1');
+      assert.equal((await restored.locator('#status-text').innerText()).includes('増えていません'), false);
+      await recovered.close();
     } finally {
       await browser.close();
       await new Promise((resolve) => site.server.close(resolve));

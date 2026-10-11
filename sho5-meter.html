@@ -616,6 +616,14 @@
       }
     }
 
+    const MAX_LOAD_ATTEMPTS = 3;
+
+    function wait(milliseconds) {
+      return new Promise((resolve) => {
+        setTimeout(resolve, milliseconds);
+      });
+    }
+
     async function loadMeter() {
       try {
         const response = await fetch(API_URL, { method: 'GET', cache: 'no-store' });
@@ -624,12 +632,39 @@
         if (!isSavedMeter(data)) throw new Error('load failed');
         meterLoaded = true;
         updateMeter(data);
+        return true;
       } catch (error) {
         console.error(error);
         meterLoaded = false;
         showUnknownMeter();
-        setButtonState(true, '接続できません');
-        setStatus('データの取得に失敗しました。表示中の値は保存済みのカウントではありません。');
+        return false;
+      }
+    }
+
+    function showLoadFailed() {
+      setButtonState(false, '接続をやり直す');
+      setStatus('データの取得に失敗しました。表示中の値は保存済みのカウントではありません。接続をやり直すまでタップは送れません。');
+    }
+
+    async function recoverMeter() {
+      setButtonState(true, '読み込み中…');
+      setStatus('読み込み中…');
+      for (let attempt = 0; attempt < MAX_LOAD_ATTEMPTS; attempt += 1) {
+        if (attempt > 0) {
+          setStatus('接続をやり直しています。');
+          await wait(400);
+        }
+        if (await loadMeter()) return true;
+      }
+      showLoadFailed();
+      return false;
+    }
+
+    async function afterMeterLoaded() {
+      await confirmQueued();
+      if (meterLoaded && !coordinator.hasRetry()) {
+        const status = statusEl.textContent;
+        if (status === '読み込み中…' || status === '接続をやり直しています。') setReadyState();
       }
     }
 
@@ -667,15 +702,27 @@
       }
     }
 
+    async function retryLoad() {
+      if (inFlight) return;
+      inFlight = true;
+      try {
+        if (await recoverMeter()) await afterMeterLoaded();
+      } finally {
+        inFlight = false;
+      }
+    }
+
     buttonEl.addEventListener('click', () => {
+      if (!meterLoaded) {
+        retryLoad();
+        return;
+      }
       tapMeter();
     });
 
     await coordinator.open();
     await loadMessages();
-    await loadMeter();
-    await confirmQueued();
-    if (meterLoaded && !coordinator.hasRetry() && statusEl.textContent === '読み込み中…') setReadyState();
+    if (await recoverMeter()) await afterMeterLoaded();
   </script>
 </body>
 </html>
