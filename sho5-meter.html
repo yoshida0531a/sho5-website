@@ -446,8 +446,12 @@
   <script>
     const API_URL = 'https://sho5-meter.chjqnfv62h.workers.dev/api/sho5-meter';
     const MESSAGES_URL = `data/sho5-meter-messages.json?v=${Date.now()}`;
+    const PENDING_TAP_KEY = 'sho5-meter-pending-tap';
+    const TAP_ID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
     let speechMessages = [];
     let tapCount = 0;
+    let pendingTapMemory = '';
+    let meterLoaded = false;
 
     const monthCountEl = document.getElementById('month-count');
     const monthTapsStatEl = document.getElementById('month-taps-stat');
@@ -520,6 +524,60 @@
       setStatus('何回でもタップできます。');
     }
 
+    function rememberTapId(id) {
+      pendingTapMemory = id;
+      try {
+        localStorage.setItem(PENDING_TAP_KEY, id);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+
+    function clearTapId() {
+      pendingTapMemory = '';
+      try {
+        localStorage.removeItem(PENDING_TAP_KEY);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+
+    function currentTapId() {
+      let existing = pendingTapMemory;
+      if (!existing) {
+        try {
+          existing = localStorage.getItem(PENDING_TAP_KEY) || '';
+        } catch (error) {
+          existing = '';
+        }
+      }
+      if (TAP_ID_PATTERN.test(existing)) {
+        pendingTapMemory = existing;
+        return existing;
+      }
+      const id = crypto.randomUUID();
+      rememberTapId(id);
+      return id;
+    }
+
+    function isSavedMeter(data) {
+      return Boolean(data)
+        && Number.isInteger(data.todayTapCount)
+        && Number.isInteger(data.monthTapCount)
+        && Number.isInteger(data.allTimeTapCount);
+    }
+
+    function showUnknownMeter() {
+      monthCountEl.textContent = '—';
+      monthTapsStatEl.textContent = '—';
+      todayTapsEl.textContent = '—';
+      allTimeCountEl.textContent = '—';
+      monthLabelEl.textContent = '—';
+      meterFillEl.style.width = '0%';
+      meterCaptionEl.textContent = '保存済みのカウントを取得できていません。';
+      historyListEl.innerHTML = '';
+    }
+
     function updateMeter(data) {
       monthCountEl.textContent = formatNumber(data.monthTapCount);
       monthTapsStatEl.textContent = formatNumber(data.monthTapCount);
@@ -555,14 +613,18 @@
 
     async function loadMeter() {
       try {
-        const response = await fetch(API_URL, { method: 'GET' });
+        const response = await fetch(API_URL, { method: 'GET', cache: 'no-store' });
         if (!response.ok) throw new Error('load failed');
         const data = await response.json();
+        if (!isSavedMeter(data)) throw new Error('load failed');
+        meterLoaded = true;
         updateMeter(data);
       } catch (error) {
         console.error(error);
+        meterLoaded = false;
+        showUnknownMeter();
         setButtonState(true, '接続できません');
-        setStatus('データの取得に失敗しました。時間をおいて再度お試しください。');
+        setStatus('データの取得に失敗しました。表示中の値は保存済みのカウントではありません。');
       }
     }
 
@@ -573,26 +635,40 @@
         showSpeech();
       }
 
+      const tapId = currentTapId();
+      let retrySameTap = true;
       setButtonState(true, '送信中…');
       setStatus('応援を送っています…');
 
       try {
         const response = await fetch(API_URL, {
           method: 'POST',
+          cache: 'no-store',
           headers: {
-            'Content-Type': 'application/json'
+            'Content-Type': 'application/json',
+            'X-Sho5-Tap-Id': tapId
           },
           body: JSON.stringify({ source: 'sho5-meter-page' })
         });
+        if (response.status === 400) {
+          clearTapId();
+          retrySameTap = false;
+        }
         if (!response.ok) throw new Error('tap failed');
         const data = await response.json();
+        if (data.accepted !== true || !isSavedMeter(data)) throw new Error('tap was not saved');
+        clearTapId();
+        meterLoaded = true;
         updateMeter(data);
         setStatus(data.message || '応援を受け付けました。');
         setButtonState(false, 'もう一度 Sho5 Meter を上げる');
       } catch (error) {
         console.error(error);
+        if (!meterLoaded) showUnknownMeter();
         setButtonState(false, 'Sho5 Meter を上げる');
-        setStatus('送信に失敗しました。通信環境の良い場所で再度お試しください。');
+        setStatus(retrySameTap
+          ? '送信に失敗しました。カウントは増えていません。同じタップとして再送します。'
+          : '送信に失敗しました。カウントは増えていません。');
       }
     }
 
