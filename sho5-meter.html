@@ -400,7 +400,7 @@
 
         <div class="tap-card">
           <div>
-            <button class="tap-button" id="tap-button" type="button">Sho5 Meter を上げる</button>
+            <button class="tap-button" id="tap-button" type="button" disabled>読み込み中…</button>
             <div class="status" id="status-text">読み込み中…</div>
           </div>
           <div class="tap-note">
@@ -443,15 +443,22 @@
     </div>
   </div>
 
-  <script>
+  <script type="module">
+    import { createTapCoordinator, isSavedMeter, METER_STATUS } from './sho5-meter-tap.js';
+
     const API_URL = 'https://sho5-meter.chjqnfv62h.workers.dev/api/sho5-meter';
     const MESSAGES_URL = `data/sho5-meter-messages.json?v=${Date.now()}`;
-    const PENDING_TAP_KEY = 'sho5-meter-pending-tap';
-    const TAP_ID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
     let speechMessages = [];
     let tapCount = 0;
-    let pendingTapMemory = '';
     let meterLoaded = false;
+    let inFlight = false;
+    const coordinator = createTapCoordinator({
+      session: window.sessionStorage,
+      local: window.localStorage,
+      locks: navigator.locks,
+      randomUUID: () => crypto.randomUUID(),
+      now: () => Date.now(),
+    });
 
     const monthCountEl = document.getElementById('month-count');
     const monthTapsStatEl = document.getElementById('month-taps-stat');
@@ -524,49 +531,6 @@
       setStatus('何回でもタップできます。');
     }
 
-    function rememberTapId(id) {
-      pendingTapMemory = id;
-      try {
-        localStorage.setItem(PENDING_TAP_KEY, id);
-      } catch (error) {
-        console.error(error);
-      }
-    }
-
-    function clearTapId() {
-      pendingTapMemory = '';
-      try {
-        localStorage.removeItem(PENDING_TAP_KEY);
-      } catch (error) {
-        console.error(error);
-      }
-    }
-
-    function currentTapId() {
-      let existing = pendingTapMemory;
-      if (!existing) {
-        try {
-          existing = localStorage.getItem(PENDING_TAP_KEY) || '';
-        } catch (error) {
-          existing = '';
-        }
-      }
-      if (TAP_ID_PATTERN.test(existing)) {
-        pendingTapMemory = existing;
-        return existing;
-      }
-      const id = crypto.randomUUID();
-      rememberTapId(id);
-      return id;
-    }
-
-    function isSavedMeter(data) {
-      return Boolean(data)
-        && Number.isInteger(data.todayTapCount)
-        && Number.isInteger(data.monthTapCount)
-        && Number.isInteger(data.allTimeTapCount);
-    }
-
     function showUnknownMeter() {
       monthCountEl.textContent = '—';
       monthTapsStatEl.textContent = '—';
@@ -595,7 +559,48 @@
       }
 
       renderHistory(data.history || []);
-      setReadyState();
+    }
+
+    async function sendTap(tapId) {
+      try {
+        const response = await fetch(API_URL, {
+          method: 'POST',
+          cache: 'no-store',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Sho5-Tap-Id': tapId,
+          },
+          body: JSON.stringify({ source: 'sho5-meter-page' }),
+        });
+        if (response.status === 400) return { kind: 'rejected' };
+        if (!response.ok) return { kind: 'unknown' };
+        const data = await response.json();
+        if (data.accepted !== true || !isSavedMeter(data)) return { kind: 'unknown' };
+        return { kind: 'saved', data };
+      } catch (error) {
+        console.error(error);
+        return { kind: 'unknown' };
+      }
+    }
+
+    async function settle(tapId, outcome) {
+      if (outcome.kind === 'saved') {
+        await coordinator.finishTap(tapId);
+        meterLoaded = true;
+        updateMeter(outcome.data);
+        setStatus(outcome.data.message || '応援を受け付けました。');
+        setButtonState(false, 'もう一度 Sho5 Meter を上げる');
+        return;
+      }
+      if (outcome.kind === 'rejected') {
+        await coordinator.discardTap(tapId);
+        setButtonState(false, 'Sho5 Meter を上げる');
+        setStatus(METER_STATUS.rejected);
+        return;
+      }
+      if (!meterLoaded) showUnknownMeter();
+      setButtonState(false, 'Sho5 Meter を上げる');
+      setStatus(METER_STATUS.unknown);
     }
 
     async function loadMessages() {
@@ -628,53 +633,49 @@
       }
     }
 
-    async function tapMeter() {
-      pulseButton();
-      tapCount += 1;
-      if (tapCount % 5 === 0) {
-        showSpeech();
-      }
-
-      const tapId = currentTapId();
-      let retrySameTap = true;
-      setButtonState(true, '送信中…');
-      setStatus('応援を送っています…');
-
+    async function confirmQueued() {
+      if (!coordinator.hasRetry()) return;
+      inFlight = true;
       try {
-        const response = await fetch(API_URL, {
-          method: 'POST',
-          cache: 'no-store',
-          headers: {
-            'Content-Type': 'application/json',
-            'X-Sho5-Tap-Id': tapId
-          },
-          body: JSON.stringify({ source: 'sho5-meter-page' })
-        });
-        if (response.status === 400) {
-          clearTapId();
-          retrySameTap = false;
+        while (coordinator.hasRetry()) {
+          setButtonState(true, '確認中…');
+          setStatus(METER_STATUS.confirming);
+          const tapId = await coordinator.beginTap();
+          const outcome = await sendTap(tapId);
+          await settle(tapId, outcome);
+          if (outcome.kind === 'unknown') return;
         }
-        if (!response.ok) throw new Error('tap failed');
-        const data = await response.json();
-        if (data.accepted !== true || !isSavedMeter(data)) throw new Error('tap was not saved');
-        clearTapId();
-        meterLoaded = true;
-        updateMeter(data);
-        setStatus(data.message || '応援を受け付けました。');
-        setButtonState(false, 'もう一度 Sho5 Meter を上げる');
-      } catch (error) {
-        console.error(error);
-        if (!meterLoaded) showUnknownMeter();
-        setButtonState(false, 'Sho5 Meter を上げる');
-        setStatus(retrySameTap
-          ? '送信に失敗しました。カウントは増えていません。同じタップとして再送します。'
-          : '送信に失敗しました。カウントは増えていません。');
+      } finally {
+        inFlight = false;
       }
     }
 
-    buttonEl.addEventListener('click', tapMeter);
-    loadMessages();
-    loadMeter();
+    async function tapMeter() {
+      if (inFlight) return;
+      inFlight = true;
+      try {
+        pulseButton();
+        tapCount += 1;
+        if (tapCount % 5 === 0) showSpeech();
+        setButtonState(true, '送信中…');
+        setStatus('応援を送っています…');
+        const tapId = await coordinator.beginTap();
+        const outcome = await sendTap(tapId);
+        await settle(tapId, outcome);
+      } finally {
+        inFlight = false;
+      }
+    }
+
+    buttonEl.addEventListener('click', () => {
+      tapMeter();
+    });
+
+    await coordinator.open();
+    await loadMessages();
+    await loadMeter();
+    await confirmQueued();
+    if (meterLoaded && !coordinator.hasRetry() && statusEl.textContent === '読み込み中…') setReadyState();
   </script>
 </body>
 </html>
