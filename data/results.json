@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-10-11T19:29:27.106Z",
-  "lastUpdated": "2026-10-12",
+  "fetchedAt": "2026-10-12T22:28:23.612Z",
+  "lastUpdated": "2026-10-13",
   "farmSummary": {
     "raw": {
       "打率": ".231",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "10/12",
+      "gameKind": "フェニックスリーグ",
+      "opponent": "ヤクルト",
+      "atBats": "3",
+      "hits": "1",
+      "homeRuns": "0",
+      "rbi": "1",
+      "runs": "1",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "中飛、右安、二ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051545/top"
+    },
     {
       "date": "10/10",
       "gameKind": "フェニックスリーグ",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "右安、四球、一ゴロ、中安",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041138/top"
-    },
-    {
-      "date": "9/23",
-      "gameKind": "ファーム・リーグ 西地区",
-      "opponent": "オリックス",
-      "atBats": "1",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "1",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "右安",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021041130/top"
     }
   ]
 }
