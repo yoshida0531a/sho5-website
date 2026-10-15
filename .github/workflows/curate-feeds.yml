@@ -1,12 +1,8 @@
 name: Curate public X and YouTube feeds
 
+# 日次の選別は sho5-script の Worker twitter-to-line が、既存の JST 5:30 のサイト更新から行う。
+# x-data.txt の push でこのワークフローも起動すると、同じ公開JSONを二重に書く。
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'x-data.txt'
-      - 'YouTube-data.txt'
-      - 'data/youtube-allowlist.json'
   workflow_dispatch:
     inputs:
       min_subscribers:
