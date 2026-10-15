@@ -1,8 +1,8 @@
 import { createHash } from 'node:crypto';
 import { extractXStatusId } from '../../js/safe-url.js';
 
-export const RULESET_VERSION = 4;
-const LOGIC_ID = 'contrast-4';
+export const RULESET_VERSION = 5;
+const LOGIC_ID = 'unfinished-5';
 const PUBLISH_SCORE = 2;
 
 const EXCEPTION_PHRASES = ['バカスカ', 'バカ正直', 'バカ売れ', 'バカ丁寧', 'カラス', 'カスミ'];
@@ -28,6 +28,7 @@ const SOFT_NEGATIVES = [
   '無限三振', 'どうすんねん', '守れない', '酷かっ', 'まずい', '結果出な',
   'ヤだ', '嫌だ', '手薄', 'せんかったら', '期待できそうにない', 'コーチ',
   '壊れた', '怖い', '危ない', '悪送球', '落球', 'ファンブル', '走塁死',
+  'やめましょう', 'やめよう', 'やめて',
 ];
 
 // Strong cheers are whole-utterance evidence. A single weak label is not enough.
@@ -361,6 +362,28 @@ function wishScore(text) {
 const CONTRAST = /^[\s　！!？?。…・]*?(?:だけど|だけれど|けれども|しかし|だが|でも|なのに)/;
 const UNDERMINING = /壊|信号|(?<!デル)ミス|危ない|怖い|粗い|雑|あかん|悪送球|落球|ファンブル|走塁死|走塁ミス|ボーク|凡退|引っかけ|オーバーラン/;
 
+function unfinishedSupport(text) {
+  const dangling = /^(?:だけど|だけれど|けれども|けれど|けど|しかし|だが|でも|なのに)[\s　！!？?。…〜~ー♪（）()]*$/;
+  const marks = [];
+  for (const [pattern, weight] of POSITIVE_PATTERNS) {
+    if (weight < PUBLISH_SCORE) continue;
+    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
+    const regex = new RegExp(pattern.source, flags);
+    let match;
+    while ((match = regex.exec(text)) !== null) {
+      marks.push(match.index + match[0].length);
+      if (match.index === regex.lastIndex) regex.lastIndex += 1;
+    }
+  }
+  const wish = /て(?:ほしい|欲しい)/g;
+  let match;
+  while ((match = wish.exec(text)) !== null) {
+    marks.push(match.index + match[0].length);
+    if (match.index === wish.lastIndex) wish.lastIndex += 1;
+  }
+  return marks.some((end) => dangling.test(text.slice(end)));
+}
+
 function underminedCheer(text) {
   const strong = POSITIVE_PATTERNS.filter(([, weight]) => weight >= PUBLISH_SCORE);
   for (const [pattern] of strong) {
@@ -433,6 +456,9 @@ export function judgeTweet(raw) {
 
   if ((score >= PUBLISH_SCORE && negative > 0) || underminedCheer(text)) {
     return { verdict: 'reject', confidence: 0.9, reasons: ['mixed'], definitive: true };
+  }
+  if (unfinishedSupport(text)) {
+    return { verdict: 'reject', confidence: 0.86, reasons: ['incomplete'], definitive: true };
   }
   if (negative > 0) {
     return { verdict: 'reject', confidence: 0.88, reasons: ['negative'], definitive: true };

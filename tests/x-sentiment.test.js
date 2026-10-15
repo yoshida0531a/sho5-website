@@ -229,7 +229,7 @@ test('reuses a stored judgment for the same post', async () => {
       },
     },
   });
-  assert.equal(RULESET_VERSION, 4);
+  assert.equal(RULESET_VERSION, 5);
   assert.equal(previousVersion.stats.reused, 0);
   assert.equal(previousVersion.stats.publish, 0);
   assert.equal(previousVersion.cache.rulesetVersion, RULESET_VERSION);

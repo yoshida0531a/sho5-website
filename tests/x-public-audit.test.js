@@ -71,6 +71,18 @@ test('実投稿: 正の語があっても谷端本人への応援が主旨でな
   rejectsAll('谷端実さん');
 });
 
+test('実投稿: 文が対比で終わっているものと、他者への制止が混ざるものを除外する', () => {
+  for (const tweet of realTweets('谷端無事であって欲しいけど')) {
+    assert.equal(tweet.text, '谷端無事であって欲しいけど');
+    assert.equal(judgeTweet(tweet.text).reasons[0], 'incomplete');
+  }
+  for (const tweet of realTweets('大塚大塚言うのはやめましょう')) {
+    assert.equal(judgeTweet(tweet.text).reasons[0], 'mixed');
+  }
+  const continued = realTweets('風難しいけどこれからだね');
+  assert.ok(continued.some((tweet) => judgeTweet(tweet.text).verdict === 'publish'));
+});
+
 test('実投稿: 谷端本人への応援はそのまま公開する', () => {
   for (const fragment of [
     '阪神・谷端選手がんばれ！応援タオル買いました',
