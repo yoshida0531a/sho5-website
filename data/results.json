@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-10-14T19:18:12.632Z",
-  "lastUpdated": "2026-10-15",
+  "fetchedAt": "2026-10-15T19:03:59.040Z",
+  "lastUpdated": "2026-10-16",
   "farmSummary": {
     "raw": {
       "打率": ".231",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "10/15",
+      "gameKind": "フェニックスリーグ",
+      "opponent": "斗山",
+      "atBats": "3",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "左飛、右飛、一直",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051570/top"
+    },
     {
       "date": "10/14",
       "gameKind": "フェニックスリーグ",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "一失、二ゴロ、右犠飛、三ゴロ、中飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051523/top"
-    },
-    {
-      "date": "10/8",
-      "gameKind": "フェニックスリーグ",
-      "opponent": "DeNA",
-      "atBats": "4",
-      "hits": "2",
-      "homeRuns": "0",
-      "rbi": "0",
-      "runs": "1",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "投ゴロ、右安、遊ゴロ、三安",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051515/top"
     }
   ]
 }
