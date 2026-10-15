@@ -1,0 +1,82 @@
+name: Curate public X and YouTube feeds
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'x-data.txt'
+      - 'YouTube-data.txt'
+      - 'data/youtube-allowlist.json'
+  workflow_dispatch:
+    inputs:
+      min_subscribers:
+        description: 'Minimum subscriber count'
+        required: false
+        default: '1000'
+        type: string
+      min_quality_score:
+        description: 'Minimum content score (0-100)'
+        required: false
+        default: '45'
+        type: string
+      rescue_score:
+        description: 'Score that can keep a video below the subscriber minimum'
+        required: false
+        default: '60'
+        type: string
+      dry_run:
+        description: 'Preview only. Do not write public data.'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: curate-feeds
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Curate public feeds
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          MIN_SUBSCRIBERS: ${{ github.event.inputs.min_subscribers || '1000' }}
+          MIN_QUALITY_SCORE: ${{ github.event.inputs.min_quality_score || '45' }}
+          RESCUE_SCORE: ${{ github.event.inputs.rescue_score || '60' }}
+          DRY_RUN: ${{ (github.event.inputs.dry_run == true || github.event.inputs.dry_run == 'true') && 'true' || 'false' }}
+          API_DELAY_MS: '100'
+        run: node scripts/curate-feeds.js
+
+      - name: Commit public data
+        if: ${{ github.event.inputs.dry_run != true && github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          files=()
+          for f in data/x-public.json data/x-judgments.json data/youtube-public.json data/youtube-quality-cache.json; do
+            if [ -f "$f" ]; then files+=("$f"); fi
+          done
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "更新する公開データはありません。"
+            exit 0
+          fi
+          git add "${files[@]}"
+          if git diff --cached --quiet; then
+            echo "公開データに変更はありません。"
+          else
+            git commit -m "chore: curate public X and YouTube feeds"
+            git push
+          fi
