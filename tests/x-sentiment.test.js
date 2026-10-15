@@ -235,6 +235,43 @@ test('reuses a stored judgment for the same post', async () => {
   assert.equal(previousVersion.cache.rulesetVersion, RULESET_VERSION);
 });
 
+test('dangling contrasts and stop-directives apply to similar wording', () => {
+  assert.equal(judgeTweet('谷端がんばれけど').reasons[0], 'incomplete');
+  assert.equal(judgeTweet('谷端に活躍してほしいだけど').reasons[0], 'incomplete');
+  assert.equal(judgeTweet('谷端くん頑張ってるから、その比較はやめましょう').reasons[0], 'mixed');
+  assert.equal(judgeTweet('谷端最高。もうやめて').reasons[0], 'mixed');
+  assert.equal(judgeTweet('谷端がんばれ。これからだね').verdict, 'publish');
+  assert.equal(judgeTweet('谷端期待してるけど来年が楽しみ').verdict, 'publish');
+});
+
+test('does not reuse an older publish verdict for an unfinished wish', async () => {
+  const text = '谷端無事であって欲しいけど';
+  const result = await curateTweets([{
+    text,
+    userName: 'fan',
+    tweetUrl: 'https://x.com/fan/status/42',
+  }], {
+    cache: {
+      rulesetVersion: 4,
+      rulesetFingerprint: RULESET_FINGERPRINT,
+      items: {
+        42: {
+          hash: contentHash(text),
+          verdict: 'publish',
+          rulesetVersion: 4,
+          rulesetFingerprint: RULESET_FINGERPRINT,
+        },
+      },
+    },
+  });
+  assert.equal(result.stats.reused, 0);
+  assert.equal(result.stats.judged, 1);
+  assert.equal(result.stats.publish, 0);
+  assert.equal(result.cache.rulesetVersion, RULESET_VERSION);
+  assert.equal(result.cache.items[42].verdict, 'reject');
+  assert.equal(result.cache.items[42].reasons[0], 'incomplete');
+});
+
 test('keeps one public copy when the normalized text is identical', async () => {
   const tweets = JSON.parse(fs.readFileSync(new URL('../x-data.txt', import.meta.url), 'utf8'));
   const key = normalizeTweet('メガシンカして帰ってこいよ！谷端がんばれ！');
