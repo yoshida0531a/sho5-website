@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import test from 'node:test';
 import {
   RULESET_FINGERPRINT,
+  RULESET_VERSION,
   containsInsult,
   contentHash,
   curateTweets,
@@ -100,7 +101,7 @@ test('rejects mixed posts instead of counting one positive word', () => {
 
 test('rejects place names and automated game logs', () => {
   assert.equal(rejected('北谷端公園の盆踊り、お疲れ様でした').reasons[0], 'offtopic');
-  assert.equal(rejected('【ファームハイライト】谷端がタイムリー。ナイストライ').reasons[0], 'neutral');
+  assert.equal(rejected('【ファームハイライト】谷端がタイムリー。ナイストライ').reasons[0], 'report');
 });
 
 test('does not publish unjudged posts when a model is missing or failing', async () => {
@@ -212,6 +213,25 @@ test('reuses a stored judgment for the same post', async () => {
   });
   assert.equal(missingFingerprint.stats.reused, 0);
   assert.equal(missingFingerprint.stats.publish, 0);
+
+  const previousVersion = await curateTweets([insult], {
+    cache: {
+      rulesetVersion: RULESET_VERSION - 1,
+      rulesetFingerprint: RULESET_FINGERPRINT,
+      items: {
+        1: {
+          hash: contentHash(insult.text),
+          verdict: 'publish',
+          rulesetVersion: RULESET_VERSION - 1,
+          rulesetFingerprint: RULESET_FINGERPRINT,
+        },
+      },
+    },
+  });
+  assert.equal(RULESET_VERSION, 3);
+  assert.equal(previousVersion.stats.reused, 0);
+  assert.equal(previousVersion.stats.publish, 0);
+  assert.equal(previousVersion.cache.rulesetVersion, RULESET_VERSION);
 });
 
 test('corpus keeps insults out and does not publish most posts', () => {

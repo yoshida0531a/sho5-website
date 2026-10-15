@@ -1,7 +1,8 @@
 import { createHash } from 'node:crypto';
 import { extractXStatusId } from '../../js/safe-url.js';
 
-export const RULESET_VERSION = 1;
+export const RULESET_VERSION = 3;
+const LOGIC_ID = 'solo-focus-3';
 const PUBLISH_SCORE = 2;
 
 const EXCEPTION_PHRASES = ['バカスカ', 'バカ正直', 'バカ売れ', 'バカ丁寧', 'カラス', 'カスミ'];
@@ -19,6 +20,13 @@ const SOFT_NEGATIVES = [
   '終わってる', '終わってんな', 'しょぼ', '不安', '心配', 'つらい', '辛い',
   '厳しい', '酷す', 'やめろ', '奇行', '笑えない', '壊滅', '痛かった', '痛恨',
   '無理かも', '無理だ', '無理や', '無理そう', '応援できな', 'しんどい', 'よくない',
+  '失敗', '期待外れ', '体たらく', '足を引っ張', '塩漬け', '解体', '不良債権',
+  '死んで', '伸びてな', 'ものになってな', '低打率', '鈍足', '叩か', '批判',
+  'いらん', '不要', '戦力外', '崖っぷち', '意味がない', '意味ない', 'ブチギレ',
+  'お下がり', '将来性のない', '遊ばせ', '振るってな', '振るわな', '悪い', '不調',
+  '成長してなさ', '首脳陣', '期待してたのに', '長打率3割未満',
+  '無限三振', 'どうすんねん', '守れない', '酷かっ', 'まずい', '結果出な',
+  'ヤだ', '嫌だ', '手薄', 'せんかったら', '期待できそうにない', 'コーチ',
 ];
 
 // Strong cheers are whole-utterance evidence. A single weak label is not enough.
@@ -71,6 +79,7 @@ export function contentHash(text) {
 export function rulesetMaterial() {
   return {
     version: RULESET_VERSION,
+    logic: LOGIC_ID,
     publishScore: PUBLISH_SCORE,
     exceptions: EXCEPTION_PHRASES,
     insults: HARD_INSULTS,
@@ -99,11 +108,176 @@ export function containsInsult(raw) {
 }
 
 function relevance(text) {
-  if (!text.includes('谷端')) return 'missing';
-  const place = /谷端昭夫|谷端プール|谷端駅|谷端公園|北谷端|谷端川|水温|茶道具|茶室|テニスの森|市ヶ谷/;
-  const baseball = /阪神|タイガース|選手|くん|君|さん|プロ野球|ドラフト|ファーム|二軍|２軍|一軍|１軍|スタメン|安打|ヒット|守備|打席|日本大|日大/;
+  if (!text.includes('谷端') && !text.includes('将伍')) return 'missing';
+  const place = /谷端昭夫|谷端実|谷端プール|谷端駅|谷端公園|北谷端|谷端川|谷端親交会|盆踊り|イラストレーター|ボンカタ|水温|茶道具|茶室|テニスの森|市ヶ谷/;
+  const baseball = /阪神|タイガース|プロ野球|ドラフト|ファーム|二軍|２軍|一軍|１軍|スタメン|安打|ヒット|守備|打席|猛打賞|日本大|日大/;
   if (place.test(text) && !baseball.test(text)) return 'offtopic';
+  if (!text.includes('谷端') && !baseball.test(text)) return 'missing';
   return 'ok';
+}
+
+function isGameReport(text) {
+  if (/【ファームハイライト】|【ファーム】|【スコア詳細】|一問一答|実況速報|Yahooニュース|デイリースポーツ|公式モバイル/.test(text)) {
+    return true;
+  }
+  if (/打線は/.test(text) && /安打|得点|打点|盗塁/.test(text)) return true;
+  if (/(?:\d+打数\d+安打|打率\s*[.．]|出塁率|OPS|IsoP)/.test(text)) return true;
+  const innings = text.match(/\d+回/g) || [];
+  if (innings.length >= 2) return true;
+  if (/試合終了/.test(text) && /安打|三振|得点|打点/.test(text)) return true;
+  const statWords = ['安打', '打点', '打率', '四球', '三振', '盗塁', '本塁打', '打数', '犠飛', '犠打', '併殺'];
+  const statHits = statWords.filter((word) => text.includes(word)).length;
+  if (statHits >= 3) return true;
+  if (statHits >= 2 && text.length > 140) return true;
+  return false;
+}
+
+const OTHER_PLAYERS = [
+  '立石', '岡城', '百崎', '百﨑', '山田', '嶋村', '前川', '高寺', '髙寺', '小幡',
+  '中野', '近本', '佐藤', '大山', '森下', '木浪', '糸原', '福島', '門別', '下村',
+  '今朝丸', 'ガルシア', '井坪', '豊田', '島田', '佐野', '町田', '小野寺', '濱田',
+  '川崎', '川﨑', '元山', '西純', '岩貞', '石井', '坂本', '栄枝', '熊谷', '圭音',
+  '照英', '右京', '神宮', '中川', '小島', '宮下', '渡部', '前嶋', 'ディベイニー',
+  '石黒', '伊藤', '百ちゃん', '誠志郎', '大竹',
+];
+
+const VOCATIVE = /がんばれ|ガンバレ|頑張れ|がんばって|頑張って|ナイス|最高|素晴らしい|すばらしい|大好き|だいすき|応援して|偉い|えらい|ようやっと|よくやった|お疲れ様|お疲れさま|おつかれ/;
+
+function evaluativeNames(text) {
+  const found = [];
+  for (const name of ['谷端', '将伍', ...OTHER_PLAYERS]) {
+    let from = 0;
+    while (from < text.length) {
+      const index = text.indexOf(name, from);
+      if (index < 0) break;
+      const end = index + name.length;
+      const after = text.slice(end, end + 10);
+      const comparison = /^(?:さん|選手|君|くん|氏)?(?:みたい|のよう|型)/.test(after);
+      if (!comparison) {
+        found.push({
+          name,
+          index,
+          end,
+          self: name === '谷端' || name === '将伍',
+        });
+      }
+      from = end;
+    }
+  }
+  return found;
+}
+
+function sentenceBounds(text, index) {
+  const period = text.lastIndexOf('。', index - 1);
+  const newline = text.lastIndexOf('\n', index - 1);
+  const start = Math.max(period, newline);
+  let end = text.length;
+  for (const mark of ['。', '\n']) {
+    const at = text.indexOf(mark, index);
+    if (at >= 0 && at < end) end = at;
+  }
+  return [start < 0 ? 0 : start + 1, end];
+}
+
+function nameDistance(name, at) {
+  if (at < name.index) return name.index - at;
+  if (at >= name.end) return at - name.end;
+  return 0;
+}
+
+function rosterWish(text, wishAt) {
+  const before = text.slice(Math.max(0, wishAt - 12), wishAt);
+  return /(?:試し|使っ|出し|上げ|固定にし|起用し|回し|代打にし)$/.test(before);
+}
+
+function wishAtIsValid(text, wishAt) {
+  const around = text.slice(Math.max(0, wishAt - 12), wishAt + 4);
+  if (/消え|負けて|辞め|やめ|黙|殺|壊|捕って|取って/.test(around)) return false;
+  const before = text.slice(Math.max(0, wishAt - 2), wishAt);
+  if (/(?:なく|ない)$/.test(before)) return false;
+  const after = text.slice(wishAt + 4, wishAt + 22);
+  if (suffixPolarity(after) === 'negated') return false;
+  if (rosterWish(text, wishAt)) return false;
+  return true;
+}
+
+function cheerPositions(text) {
+  const positions = [];
+  for (const [pattern, weight] of POSITIVE_PATTERNS) {
+    if (weight < PUBLISH_SCORE) continue;
+    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
+    const regex = new RegExp(pattern.source, flags);
+    let match;
+    while ((match = regex.exec(text)) !== null) {
+      const after = text.slice(match.index + match[0].length, match.index + match[0].length + 18);
+      if (/^スピーチ|^インタビュー/.test(after)) {
+        if (match.index === regex.lastIndex) regex.lastIndex += 1;
+        continue;
+      }
+      if (suffixPolarity(after) !== 'negated') positions.push(match.index);
+      if (match.index === regex.lastIndex) regex.lastIndex += 1;
+    }
+  }
+  const wish = /て(?:ほしい|欲しい)/g;
+  let match;
+  while ((match = wish.exec(text)) !== null) {
+    if (wishAtIsValid(text, match.index)) positions.push(match.index);
+    if (match.index === wish.lastIndex) wish.lastIndex += 1;
+  }
+  return positions;
+}
+
+function cheerBindsToSelf(selves, at) {
+  return selves.some((name) => {
+    if (at >= name.end && at <= name.end + 24) return true;
+    return name.index >= at && name.index <= at + 16;
+  });
+}
+
+function playContextBefore(text, other, self) {
+  if (other.end > self.index) return false;
+  const gap = text.slice(other.end, self.index);
+  return /[！!]/.test(gap) && /安打|ヒット|本塁打|ホームラン|タイムリー|ツーベース|スリーベース|三振|ゴロ|フライ|エラー|盗塁|四球|死球|併殺/.test(gap);
+}
+
+function strayCheer(names, sentenceStart, sentenceEnd, positions) {
+  const selves = names.filter((name) => name.self);
+  if (!names.some((name) => !name.self)) return false;
+  return positions.some((at) => {
+    if (at >= sentenceStart && at < sentenceEnd) return false;
+    if (selves.length === 0) return true;
+    const dist = Math.min(...selves.map((name) => nameDistance(name, at)));
+    return dist > 16;
+  });
+}
+
+function attachedCheer(text) {
+  if (/写真の編集|開封/.test(text)) return false;
+  if (/谷端[^。\n]{0,8}ともかく|ともかく[^。\n]{0,8}谷端/.test(text)) return false;
+  const names = evaluativeNames(text);
+  const positions = cheerPositions(text);
+  for (const at of positions) {
+    const [sentenceStart, sentenceEnd] = sentenceBounds(text, at);
+    const local = names.filter((name) => name.index >= sentenceStart && name.index < sentenceEnd);
+    const selves = local.filter((name) => name.self);
+    const others = local.filter((name) => !name.self);
+    if (!cheerBindsToSelf(selves, at)) continue;
+    if (/^て(?:ほしい|欲しい)/.test(text.slice(at, at + 4))
+      && !selves.some((name) => name.end <= at && at <= name.end + 24)) {
+      continue;
+    }
+    if (others.length > 0) {
+      const self = selves.reduce((best, name) => (
+        nameDistance(name, at) < nameDistance(best, at) ? name : best
+      ));
+      if (others.length !== 1 || !playContextBefore(text, others[0], self)) continue;
+      if (nameDistance(self, at) > 8) continue;
+      if (!VOCATIVE.test(text.slice(Math.max(0, at - 4), at + 8))) continue;
+    }
+    if (strayCheer(names, sentenceStart, sentenceEnd, positions)) continue;
+    return true;
+  }
+  return false;
 }
 
 function suffixPolarity(after) {
@@ -111,6 +285,7 @@ function suffixPolarity(after) {
     return 'weak';
   }
   if (/^(?:じゃないか|じゃない？|じゃない\?|じゃん)/.test(after)) return 'rhetorical';
+  if (/^(?:そうにない|そうもない|るのに|たのに)/.test(after)) return 'negated';
   if (/^(?:くない|なくなった|なくなって|なくて|できな|とは言えない|とはいえない|じゃない|ではない)/.test(after)) {
     return 'negated';
   }
@@ -210,8 +385,8 @@ export function judgeTweet(raw) {
   if (quotedPositiveIsRejected(text)) {
     return { verdict: 'reject', confidence: 0.9, reasons: ['quoted'], definitive: true };
   }
-  if (/【ファームハイライト】|【スコア詳細】/.test(text)) {
-    return { verdict: 'reject', confidence: 0.92, reasons: ['neutral'], definitive: true };
+  if (isGameReport(text)) {
+    return { verdict: 'reject', confidence: 0.92, reasons: ['report'], definitive: true };
   }
 
   const positive = collectPatternScore(text, POSITIVE_PATTERNS);
@@ -241,7 +416,16 @@ export function judgeTweet(raw) {
   if (positive.negated && score < PUBLISH_SCORE) {
     return { verdict: 'reject', confidence: 0.9, reasons: ['negated'], definitive: true };
   }
-  if (score >= PUBLISH_SCORE) {
+  if (!attachedCheer(text)) {
+    if (score >= PUBLISH_SCORE) {
+      return { verdict: 'reject', confidence: 0.84, reasons: ['not_focused'], definitive: true };
+    }
+    if (score > 0 || positive.weak) {
+      return { verdict: 'reject', confidence: 0.55, reasons: ['uncertain'], definitive: false };
+    }
+    return { verdict: 'reject', confidence: 0.8, reasons: ['neutral'], definitive: true };
+  }
+  if (score >= PUBLISH_SCORE || wishScore(text) >= PUBLISH_SCORE) {
     return { verdict: 'publish', confidence: 0.9, reasons: ['positive'], definitive: true };
   }
   if (score > 0 || positive.weak) {
