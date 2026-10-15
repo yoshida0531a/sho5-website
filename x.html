@@ -131,6 +131,7 @@
   <script type="module">
     import { snowflakeToDate, formatJaDate, filterFeed } from './js/feed-behavior.js';
     import { renderTweet } from './js/feed-render.js';
+    import { loadPublicFeed } from './js/public-feed.js';
 
     const searchInput = document.getElementById('search');
     const tweetContainer = document.getElementById('tweet-container');
@@ -163,14 +164,13 @@
       else morePostsBtn.classList.add('hidden');
     }
 
-    fetch('data/x-public.json')
-      .then((response) => {
-        if (!response.ok) throw new Error(String(response.status));
-        return response.json();
-      })
-      .then((data) => {
-        if (!Array.isArray(data)) throw new Error('invalid');
-        data.forEach((tweet) => {
+    loadPublicFeed(fetch, 'data/x-public.json', 'data/feed-status.json', 'x')
+      .then((result) => {
+        if (result.kind !== 'ready') {
+          showMessage(result.message);
+          return;
+        }
+        result.items.forEach((tweet) => {
           const match = typeof tweet.tweetUrl === 'string' && tweet.tweetUrl.match(/status\/(\d+)/);
           if (!match) return;
           const tweetDate = snowflakeToDate(match[1]);
@@ -196,9 +196,6 @@
         tweetContainer.replaceChildren();
         records.forEach((record) => tweetContainer.appendChild(record.node));
         updateVisibility();
-      })
-      .catch(() => {
-        showMessage('公開用の投稿を読み込めませんでした。');
       });
 
     searchInput.addEventListener('input', updateVisibility);

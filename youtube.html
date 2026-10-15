@@ -109,6 +109,7 @@
   <script type="module">
     import { parseCustomDate, formatVideoDate, sortNewest, videoMatches } from './js/feed-behavior.js';
     import { renderVideo } from './js/feed-render.js';
+    import { loadPublicFeed } from './js/public-feed.js';
 
     const searchInput = document.getElementById('search');
     const videoContainer = document.getElementById('video-container');
@@ -127,14 +128,13 @@
       });
     }
 
-    fetch('data/youtube-public.json')
-      .then((response) => {
-        if (!response.ok) throw new Error(String(response.status));
-        return response.json();
-      })
-      .then((data) => {
-        if (!Array.isArray(data)) throw new Error('invalid');
-        const sorted = sortNewest(data, (video) => parseCustomDate(video.publishedAt));
+    loadPublicFeed(fetch, 'data/youtube-public.json', 'data/feed-status.json', 'youtube')
+      .then((result) => {
+        if (result.kind !== 'ready') {
+          showMessage(result.message);
+          return;
+        }
+        const sorted = sortNewest(result.items, (video) => parseCustomDate(video.publishedAt));
         sorted.forEach((video) => {
           const parsed = parseCustomDate(video.publishedAt);
           const node = renderVideo(document, {
@@ -156,9 +156,6 @@
         }
         videoContainer.replaceChildren();
         records.forEach((record) => videoContainer.appendChild(record.node));
-      })
-      .catch(() => {
-        showMessage('公開用の動画を読み込めませんでした。');
       });
 
     searchInput.addEventListener('input', updateVisibility);

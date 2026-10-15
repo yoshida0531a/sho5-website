@@ -2,11 +2,15 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import test from 'node:test';
 import {
+  RULESET_FINGERPRINT,
   containsInsult,
+  contentHash,
   curateTweets,
   judgeTweet,
   resolveVerdict,
+  rulesetMaterial,
 } from '../scripts/lib/x-sentiment.js';
+import { createHash } from 'node:crypto';
 
 function rejected(text) {
   const result = judgeTweet(text);
@@ -51,6 +55,14 @@ test('rejects sarcasm that borrows positive words', () => {
   rejected('「谷端最高」とか言うけど全然ダメ');
   rejected('谷端って素晴らしい（笑）');
   rejected('期待のルーキー谷端');
+});
+
+test('rejects quoted cheers, negated wishes, and したくない', () => {
+  assert.equal(rejected('谷端くんの接触シーンで、脳震盪の可能性のある人に「がんばれ」コールは厳禁って周知されたほうがよくないか').reasons[0], 'quoted');
+  assert.equal(rejected('谷端を応援したくない').reasons[0], 'negated');
+  assert.equal(rejected('谷端に打たなくてほしい').reasons[0], 'neutral');
+  published('谷端に活躍してほしい');
+  published('谷端がんばれなんか最高');
 });
 
 test('handles negation and double negation conservatively', () => {
@@ -161,6 +173,45 @@ test('reuses a stored judgment for the same post', async () => {
   assert.equal(second.stats.publish, 1);
   assert.equal(calls, 0);
   assert.equal(second.tweets[0].text, tweets[0].text);
+  assert.equal(
+    createHash('sha256').update(JSON.stringify(rulesetMaterial())).digest('hex').slice(0, 20),
+    RULESET_FINGERPRINT,
+  );
+
+  const insult = {
+    text: '谷端はゴミだ',
+    userName: 'a',
+    tweetUrl: 'https://x.com/a/status/1',
+  };
+  const stale = await curateTweets([insult], {
+    cache: {
+      rulesetVersion: 1,
+      items: {
+        1: {
+          hash: contentHash(insult.text),
+          verdict: 'publish',
+          rulesetVersion: 1,
+          rulesetFingerprint: 'stale-rules',
+        },
+      },
+    },
+  });
+  assert.equal(stale.stats.reused, 0);
+  assert.equal(stale.stats.publish, 0);
+
+  const missingFingerprint = await curateTweets([insult], {
+    cache: {
+      items: {
+        1: {
+          hash: contentHash(insult.text),
+          verdict: 'publish',
+          rulesetVersion: 1,
+        },
+      },
+    },
+  });
+  assert.equal(missingFingerprint.stats.reused, 0);
+  assert.equal(missingFingerprint.stats.publish, 0);
 });
 
 test('corpus keeps insults out and does not publish most posts', () => {
@@ -175,4 +226,6 @@ test('corpus keeps insults out and does not publish most posts', () => {
   }
   assert.ok(published >= 30, `published ${published}`);
   assert.ok(published < tweets.length * 0.35, `published ${published} of ${tweets.length}`);
+  const quotedCheer = tweets.find((tweet) => String(tweet.text).includes('「がんばれ」コールは厳禁'));
+  assert.equal(judgeTweet(quotedCheer.text).verdict, 'reject');
 });

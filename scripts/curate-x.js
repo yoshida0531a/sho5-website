@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { curateTweets } from './lib/x-sentiment.js';
+import { loadFeedStatus, saveFeedState } from './lib/feed-status.js';
 import { readJson, writeJsonAtomic } from './lib/json-file.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -14,6 +15,7 @@ export async function main() {
   const sourcePath = envPath('X_SOURCE', 'x-data.txt');
   const publicPath = envPath('X_PUBLIC', 'data/x-public.json');
   const cachePath = envPath('X_CACHE', 'data/x-judgments.json');
+  const statusPath = envPath('FEED_STATUS', 'data/feed-status.json');
   const dryRun = process.env.DRY_RUN === 'true' || process.env.DRY_RUN === '1';
   const budget = Number.parseInt(process.env.X_MODEL_MAX_CALLS || '0', 10);
 
@@ -42,6 +44,15 @@ export async function main() {
     }
   }
 
+  let feedStatus;
+  try {
+    feedStatus = loadFeedStatus(statusPath);
+  } catch {
+    console.error('公開状態の記録を読めないため中断しました。公開データは変更していません。');
+    process.exitCode = 1;
+    return;
+  }
+
   const before = fs.readFileSync(sourcePath);
   const result = await curateTweets(tweets, {
     cache,
@@ -64,6 +75,7 @@ export async function main() {
   if (dryRun) return;
   writeJsonAtomic(publicPath, result.tweets);
   writeJsonAtomic(cachePath, result.cache);
+  saveFeedState(statusPath, feedStatus, 'x', 'published', result.tweets.length);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

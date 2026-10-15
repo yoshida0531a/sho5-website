@@ -356,6 +356,25 @@ function fresh(entry, now, maxAgeMs) {
   return Number.isFinite(time) && now - time < maxAgeMs;
 }
 
+function usableCount(value) {
+  return value == null || (Number.isInteger(value) && value >= 0);
+}
+
+function usableChannel(entry, nowMs, maxAgeMs) {
+  if (!entry || typeof entry !== 'object' || Array.isArray(entry)) return false;
+  if (entry.hidden !== true && entry.hidden !== false) return false;
+  if (typeof entry.title !== 'string') return false;
+  if (!usableCount(entry.subscriberCount) || !usableCount(entry.videoCount)) return false;
+  return fresh(entry, nowMs, maxAgeMs);
+}
+
+function usableVideoLink(entry, hash) {
+  if (!entry || typeof entry !== 'object' || Array.isArray(entry)) return false;
+  if (entry.contentHash !== hash) return false;
+  if (typeof entry.channelId !== 'string' || entry.channelId.length === 0) return false;
+  return usableCount(entry.viewCount);
+}
+
 function asCount(value) {
   if (value == null || value === '') return null;
   const parsed = Number.parseInt(value, 10);
@@ -423,8 +442,10 @@ export async function curateYouTube(videos, options = {}) {
     if (!entry.videoId || entry.hardReject || entry.duplicate) continue;
     if (videoAllowed(entry.videoId, allowlist) && entry.localScore >= config.allowlistScore) continue;
     const cachedVideo = previousVideoCache[entry.videoId];
-    const cachedChannel = cachedVideo?.channelId ? channelCache[cachedVideo.channelId] : null;
-    if (cachedVideo?.channelId && fresh(cachedChannel, nowMs, maxAgeMs)) {
+    const cachedChannel = usableVideoLink(cachedVideo, entry.hash)
+      ? channelCache[cachedVideo.channelId]
+      : null;
+    if (usableChannel(cachedChannel, nowMs, maxAgeMs)) {
       entry.api = 'ok';
       entry.channel = {
         id: cachedVideo.channelId,
@@ -501,7 +522,7 @@ export async function curateYouTube(videos, options = {}) {
       const published = Date.parse(item.snippet.publishedAt || '') || publishedTime(entry.video);
       if (published) entry.ageDays = (nowMs - published) / (24 * 60 * 60 * 1000);
       const cachedChannel = channelCache[entry.pendingChannelId];
-      if (fresh(cachedChannel, nowMs, maxAgeMs)) {
+      if (usableChannel(cachedChannel, nowMs, maxAgeMs)) {
         entry.api = 'ok';
         entry.channel = {
           id: entry.pendingChannelId,

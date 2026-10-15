@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DEFAULTS, curateYouTube } from './lib/youtube-quality.js';
+import { loadFeedStatus, saveFeedState } from './lib/feed-status.js';
 import { readJson, writeJsonAtomic } from './lib/json-file.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -32,6 +33,7 @@ export async function main() {
   const publicPath = envPath('YT_PUBLIC', 'data/youtube-public.json');
   const cachePath = envPath('YT_CACHE', 'data/youtube-quality-cache.json');
   const allowlistPath = envPath('YT_ALLOWLIST', 'data/youtube-allowlist.json');
+  const statusPath = envPath('FEED_STATUS', 'data/feed-status.json');
   const dryRun = process.env.DRY_RUN === 'true' || process.env.DRY_RUN === '1';
 
   let videos;
@@ -69,6 +71,15 @@ export async function main() {
       process.exitCode = 1;
       return;
     }
+  }
+
+  let feedStatus;
+  try {
+    feedStatus = loadFeedStatus(statusPath);
+  } catch {
+    console.error('公開状態の記録を読めないため中断しました。公開データは変更していません。');
+    process.exitCode = 1;
+    return;
   }
 
   let allowlist = { channelIds: [], videoIds: [], channelTitles: null };
@@ -133,11 +144,13 @@ export async function main() {
   console.log(JSON.stringify({ ...summary, write: !dryRun && canWrite }));
   if (!canWrite) {
     console.error('登録者数を確認できないため、公開用YouTubeデータは作成・更新していません。');
+    if (!dryRun) saveFeedState(statusPath, feedStatus, 'youtube', 'not_generated', 0);
     return;
   }
   if (dryRun) return;
   writeJsonAtomic(publicPath, result.videos);
   writeJsonAtomic(cachePath, result.cache);
+  saveFeedState(statusPath, feedStatus, 'youtube', 'published', result.videos.length);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

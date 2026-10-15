@@ -91,13 +91,21 @@ test('pages read only the curated files and do not assign innerHTML', () => {
   const youtube = fs.readFileSync(new URL('../youtube.html', import.meta.url), 'utf8');
   const workflow = fs.readFileSync(new URL('../.github/workflows/curate-feeds.yml', import.meta.url), 'utf8');
 
-  assert.match(x, /fetch\('data\/x-public\.json'\)/);
-  assert.match(youtube, /fetch\('data\/youtube-public\.json'\)/);
+  assert.match(x, /loadPublicFeed\(fetch, 'data\/x-public\.json', 'data\/feed-status\.json', 'x'\)/);
+  assert.match(youtube, /loadPublicFeed\(fetch, 'data\/youtube-public\.json', 'data\/feed-status\.json', 'youtube'\)/);
   assert.doesNotMatch(x, /fetch\(\s*['"]x-data\.txt['"]\s*\)/);
   assert.doesNotMatch(youtube, /fetch\(\s*['"]YouTube-data\.txt['"]\s*\)/);
   assert.doesNotMatch(x, /innerHTML/);
   assert.doesNotMatch(youtube, /innerHTML/);
   assert.doesNotMatch(workflow, /git add[^\n]*x-data\.txt/);
   assert.doesNotMatch(workflow, /git add[^\n]*YouTube-data\.txt/);
+  assert.match(workflow, /continue-on-error:\s*true/);
+  assert.match(workflow, /curate-x\.js/);
+  assert.match(workflow, /curate-youtube\.js/);
+  assert.match(workflow, /steps\.curate_x\.outcome != 'skipped'/);
+  assert.match(workflow, /steps\.curate_x\.outcome == 'failure'/);
+  assert.match(workflow, /cancel-in-progress:\s*false/);
+  assert.match(workflow, /contents:\s*write/);
+  assert.doesNotMatch(workflow, /node scripts\/curate-feeds\.js/);
   assert.equal(fs.existsSync(new URL('../.github/workflows/filter-youtube.yml', import.meta.url)), false);
 });

@@ -50,7 +50,16 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Curate public feeds
+      - name: Curate X
+        id: curate_x
+        continue-on-error: true
+        env:
+          DRY_RUN: ${{ (github.event.inputs.dry_run == true || github.event.inputs.dry_run == 'true') && 'true' || 'false' }}
+        run: node scripts/curate-x.js
+
+      - name: Curate YouTube
+        id: curate_youtube
+        continue-on-error: true
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           MIN_SUBSCRIBERS: ${{ github.event.inputs.min_subscribers || '1000' }}
@@ -58,25 +67,62 @@ jobs:
           RESCUE_SCORE: ${{ github.event.inputs.rescue_score || '60' }}
           DRY_RUN: ${{ (github.event.inputs.dry_run == true || github.event.inputs.dry_run == 'true') && 'true' || 'false' }}
           API_DELAY_MS: '100'
-        run: node scripts/curate-feeds.js
+        run: node scripts/curate-youtube.js
 
       - name: Commit public data
-        if: ${{ github.event.inputs.dry_run != true && github.event.inputs.dry_run != 'true' }}
+        if: ${{ !cancelled() && steps.curate_x.outcome != 'skipped' && github.event.inputs.dry_run != true && github.event.inputs.dry_run != 'true' }}
         run: |
+          set -eu
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          files=()
-          for f in data/x-public.json data/x-judgments.json data/youtube-public.json data/youtube-quality-cache.json; do
-            if [ -f "$f" ]; then files+=("$f"); fi
+          candidates=(data/x-public.json data/x-judgments.json data/youtube-public.json data/youtube-quality-cache.json data/feed-status.json)
+          changed=()
+          for f in "${candidates[@]}"; do
+            if [ ! -f "$f" ]; then
+              continue
+            fi
+            if ! git cat-file -e "HEAD:$f" 2>/dev/null || ! git diff --quiet HEAD -- "$f"; then
+              changed+=("$f")
+            fi
           done
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "更新する公開データはありません。"
+          if [ "${#changed[@]}" -eq 0 ]; then
+            echo "公開データに変更はありません。"
             exit 0
           fi
-          git add "${files[@]}"
-          if git diff --cached --quiet; then
-            echo "公開データに変更はありません。"
-          else
+          stage=$(mktemp -d)
+          for f in "${changed[@]}"; do
+            mkdir -p "$stage/$(dirname "$f")"
+            cp "$f" "$stage/$f"
+          done
+          pushed=0
+          for attempt in 1 2 3; do
+            git reset --hard HEAD
+            for f in "${changed[@]}"; do
+              rm -f "$f"
+            done
+            git fetch origin main
+            git checkout -B main origin/main
+            for f in "${changed[@]}"; do
+              mkdir -p "$(dirname "$f")"
+              cp "$stage/$f" "$f"
+            done
+            git add "${changed[@]}"
+            if git diff --cached --quiet; then
+              echo "公開データに変更はありません。"
+              exit 0
+            fi
             git commit -m "chore: curate public X and YouTube feeds"
-            git push
+            if git push origin HEAD:main; then
+              pushed=1
+              break
+            fi
+            git reset --hard HEAD~1
+          done
+          if [ "$pushed" -ne 1 ]; then
+            echo "公開データの push に失敗しました。"
+            exit 1
           fi
+
+      - name: Fail if either feed failed
+        if: ${{ !cancelled() && (steps.curate_x.outcome == 'failure' || steps.curate_youtube.outcome == 'failure') }}
+        run: exit 1

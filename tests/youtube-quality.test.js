@@ -7,6 +7,7 @@ import { main as curateYouTubeCli } from '../scripts/curate-youtube.js';
 import { main as curateXCli } from '../scripts/curate-x.js';
 import {
   clickbaitWeight,
+  contentHash,
   curateYouTube,
   redactUrl,
   scoreVideo,
@@ -169,10 +170,10 @@ test('an analysis title is not rejected just because it contains 考察', () => 
 
 test('batches lookups, caches them, and preserves verified videos when the API fails', async () => {
   const videos = Array.from({ length: 51 }, (_, index) => video(
-    `vid${String(index).padStart(9, '0')}`.slice(0, 11),
+    `v${String(index).padStart(10, '0')}`,
     `谷端安打${String(index).padStart(4, '0')}`,
   ));
-  assert.equal(videos[0].url.includes('vid00000000'), true);
+  assert.equal(videos[0].url.includes('v0000000000'), true);
   const channels = [channel('UCbatch', '独立チャンネル', 5000, { videoCount: '20' })];
   const videoItems = videos.map((item) => ({
     id: item.url.slice(-11),
@@ -379,4 +380,186 @@ test('dry run and invalid input do not change source or public files', async () 
   assert.equal(fs.readFileSync(ytSource, 'utf8'), JSON.stringify(rawVideos, null, 2));
   assert.deepEqual(fs.readFileSync(ytPublic), before);
   assert.equal(fs.existsSync(ytCache), false);
+});
+
+test('a stale or malformed channel cache cannot publish an unverified video', async () => {
+  const source = [video('nnnnnnnnnnn', '谷端将伍のファーム試合')];
+  const hash = contentHash(source[0]);
+  const now = '2026-10-01T00:00:00.000Z';
+  const channelRecord = {
+    title: 'fan',
+    subscriberCount: 10,
+    hidden: false,
+    videoCount: 3,
+    fetchedAt: now,
+  };
+  const staleDecision = await curateYouTube(source, {
+    apiKey: 'secret-key',
+    fetchImpl: async () => {
+      throw new Error('should not be called');
+    },
+    allowlist: ALLOW_NONE,
+    config: CONFIG,
+    cache: {
+      policyVersion: 999,
+      channels: { UCstale: channelRecord },
+      videos: {
+        nnnnnnnnnnn: {
+          contentHash: hash,
+          channelId: 'UCstale',
+          viewCount: 20,
+          decision: 'publish',
+          policyVersion: 1,
+        },
+      },
+    },
+    sleep: async () => {},
+    now: new Date(now),
+  });
+  assert.equal(staleDecision.stats.cacheHits, 1);
+  assert.equal(staleDecision.stats.publish, 0);
+
+  const calls = [];
+  const mismatched = await curateYouTube(source, {
+    apiKey: 'secret-key',
+    fetchImpl: async (url) => {
+      calls.push(url);
+      throw new Error('down');
+    },
+    allowlist: ALLOW_NONE,
+    config: CONFIG,
+    cache: {
+      channels: { UCfake: { ...channelRecord, subscriberCount: 100000 } },
+      videos: {
+        nnnnnnnnnnn: {
+          contentHash: 'not-the-current-video',
+          channelId: 'UCfake',
+          viewCount: 20,
+          decision: 'publish',
+        },
+      },
+    },
+    sleep: async () => {},
+    now: new Date(now),
+  });
+  assert.equal(mismatched.stats.publish, 0);
+  assert.equal(mismatched.stats.hold, 1);
+  assert.ok(calls.length > 0);
+
+  const malformedCalls = [];
+  const malformed = await curateYouTube(source, {
+    apiKey: 'secret-key',
+    fetchImpl: async (url) => {
+      malformedCalls.push(url);
+      throw new Error('down');
+    },
+    allowlist: ALLOW_NONE,
+    config: CONFIG,
+    cache: {
+      channels: { UCbad: { ...channelRecord, subscriberCount: '100000' } },
+      videos: {
+        nnnnnnnnnnn: {
+          contentHash: hash,
+          channelId: 'UCbad',
+          viewCount: 20,
+          decision: 'publish',
+        },
+      },
+    },
+    sleep: async () => {},
+    now: new Date(now),
+  });
+  assert.equal(malformed.stats.cacheHits, 0);
+  assert.equal(malformed.stats.publish, 0);
+  assert.ok(malformedCalls.length > 0);
+});
+
+test('one feed failure does not erase the other, and dry run skips the status file', async () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'sho5-status-'));
+  const statusPath = path.join(dir, 'feed-status.json');
+  const xSource = path.join(dir, 'x-data.txt');
+  const xPublic = path.join(dir, 'x-public.json');
+  const xCache = path.join(dir, 'x-cache.json');
+  const tweets = [{
+    text: '谷端選手がんばれ！',
+    userName: 'fan',
+    tweetUrl: 'https://x.com/fan/status/2092719964855869793',
+  }];
+  fs.writeFileSync(xSource, JSON.stringify(tweets));
+  await withEnv({
+    X_SOURCE: xSource,
+    X_PUBLIC: xPublic,
+    X_CACHE: xCache,
+    FEED_STATUS: statusPath,
+    DRY_RUN: 'false',
+  }, () => curateXCli());
+  assert.equal(JSON.parse(fs.readFileSync(statusPath, 'utf8')).x.state, 'published');
+  const xBytes = fs.readFileSync(xPublic);
+
+  const ytSource = path.join(dir, 'YouTube-data.txt');
+  const ytPublic = path.join(dir, 'youtube-public.json');
+  const ytCache = path.join(dir, 'yt-cache.json');
+  const raw = JSON.stringify([video('ppppppppppp', '阪神 谷端のドラフト仮契約インタビューを見る')]);
+  fs.writeFileSync(ytSource, raw);
+  await withEnv({
+    YT_SOURCE: ytSource,
+    YT_PUBLIC: ytPublic,
+    YT_CACHE: ytCache,
+    YT_ALLOWLIST: path.join(dir, 'allow.json'),
+    FEED_STATUS: statusPath,
+    YOUTUBE_API_KEY: '',
+    DRY_RUN: 'true',
+  }, () => curateYouTubeCli());
+  assert.equal(fs.existsSync(ytPublic), false);
+  assert.equal(fs.readFileSync(ytSource, 'utf8'), raw);
+  assert.equal(JSON.parse(fs.readFileSync(statusPath, 'utf8')).youtube, undefined);
+
+  await withEnv({
+    YT_SOURCE: ytSource,
+    YT_PUBLIC: ytPublic,
+    YT_CACHE: ytCache,
+    YT_ALLOWLIST: path.join(dir, 'allow.json'),
+    FEED_STATUS: statusPath,
+    YOUTUBE_API_KEY: '',
+    DRY_RUN: 'false',
+  }, () => curateYouTubeCli());
+  assert.equal(fs.existsSync(ytPublic), false);
+  assert.equal(fs.existsSync(ytCache), false);
+  assert.equal(fs.readFileSync(ytSource, 'utf8'), raw);
+  assert.deepEqual(fs.readFileSync(xPublic), xBytes);
+  const status = JSON.parse(fs.readFileSync(statusPath, 'utf8'));
+  assert.equal(status.x.state, 'published');
+  assert.equal(status.youtube.state, 'not_generated');
+
+  const brokenCache = path.join(dir, 'broken-cache.json');
+  fs.writeFileSync(brokenCache, '{');
+  fs.writeFileSync(ytPublic, '[]');
+  const beforeStatus = fs.readFileSync(statusPath);
+  await withEnv({
+    YT_SOURCE: ytSource,
+    YT_PUBLIC: ytPublic,
+    YT_CACHE: brokenCache,
+    YT_ALLOWLIST: path.join(dir, 'allow.json'),
+    FEED_STATUS: statusPath,
+    YOUTUBE_API_KEY: 'secret-key',
+    DRY_RUN: 'false',
+  }, () => curateYouTubeCli());
+  assert.equal(fs.readFileSync(ytPublic, 'utf8'), '[]');
+  assert.equal(fs.readFileSync(brokenCache, 'utf8'), '{');
+  assert.deepEqual(fs.readFileSync(statusPath), beforeStatus);
+
+  const brokenStatus = path.join(dir, 'broken-status.json');
+  fs.writeFileSync(brokenStatus, '{');
+  const untouched = path.join(dir, 'untouched-public.json');
+  fs.writeFileSync(untouched, '[{"text":"keep"}]');
+  await withEnv({
+    X_SOURCE: xSource,
+    X_PUBLIC: untouched,
+    X_CACHE: path.join(dir, 'fresh-x-cache.json'),
+    FEED_STATUS: brokenStatus,
+    DRY_RUN: 'false',
+  }, () => curateXCli());
+  assert.equal(fs.readFileSync(untouched, 'utf8'), '[{"text":"keep"}]');
+  assert.equal(fs.readFileSync(brokenStatus, 'utf8'), '{');
+  assert.equal(fs.readFileSync(xSource, 'utf8'), JSON.stringify(tweets));
 });

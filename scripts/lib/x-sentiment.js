@@ -18,7 +18,7 @@ const SOFT_NEGATIVES = [
   '使えない', '使えな', '物足りな', '情けない', '見れたものじゃない', 'ふがいない',
   '終わってる', '終わってんな', 'しょぼ', '不安', '心配', 'つらい', '辛い',
   '厳しい', '酷す', 'やめろ', '奇行', '笑えない', '壊滅', '痛かった', '痛恨',
-  '無理かも', '無理だ', '無理や', '無理そう', '応援できな', 'しんどい',
+  '無理かも', '無理だ', '無理や', '無理そう', '応援できな', 'しんどい', 'よくない',
 ];
 
 // Strong cheers are whole-utterance evidence. A single weak label is not enough.
@@ -68,6 +68,22 @@ export function contentHash(text) {
   return createHash('sha256').update(normalizeTweet(text)).digest('hex');
 }
 
+export function rulesetMaterial() {
+  return {
+    version: RULESET_VERSION,
+    publishScore: PUBLISH_SCORE,
+    exceptions: EXCEPTION_PHRASES,
+    insults: HARD_INSULTS,
+    negatives: SOFT_NEGATIVES,
+    positives: POSITIVE_PATTERNS.map(([pattern, weight]) => [pattern.source, pattern.flags, weight]),
+  };
+}
+
+export const RULESET_FINGERPRINT = createHash('sha256')
+  .update(JSON.stringify(rulesetMaterial()))
+  .digest('hex')
+  .slice(0, 20);
+
 function maskExceptions(text) {
   let masked = text;
   for (const phrase of EXCEPTION_PHRASES) {
@@ -95,7 +111,9 @@ function suffixPolarity(after) {
     return 'weak';
   }
   if (/^(?:じゃないか|じゃない？|じゃない\?|じゃん)/.test(after)) return 'rhetorical';
-  if (/^(?:できな|とは言えない|とはいえない|じゃない|ではない)/.test(after)) return 'negated';
+  if (/^(?:くない|なくなった|なくなって|なくて|できな|とは言えない|とはいえない|じゃない|ではない)/.test(after)) {
+    return 'negated';
+  }
   if (/^(?:い?ない|いません|ません|ぬ|ず)/.test(after)) return 'negated';
   return 'plain';
 }
@@ -150,12 +168,22 @@ function softNegativeScore(text) {
 }
 
 function wishScore(text) {
-  if (!/て(?:ほしい|欲しい)/.test(text)) return 0;
-  if (/消え|負けて|辞め|やめ|黙|殺|壊/.test(text)) return 0;
   const match = text.match(/て(?:ほしい|欲しい)/);
+  if (!match) return 0;
+  if (/消え|負けて|辞め|やめ|黙|殺|壊/.test(text)) return 0;
+  const before = text.slice(Math.max(0, match.index - 2), match.index);
+  if (/(?:なく|ない)$/.test(before)) return 0;
   const after = text.slice(match.index + match[0].length, match.index + match[0].length + 18);
   if (suffixPolarity(after) === 'negated') return 0;
   return 2;
+}
+
+function quotedPositiveIsRejected(text) {
+  const quotes = text.match(/[「『][^」』]{0,80}[」』]/g) || [];
+  const cheer = /がんばれ|ガンバレ|頑張|応援|最高|ナイス|素晴らしい|すごい/;
+  const criticism = /厳禁|禁止|やめ|控え|危険|よくない|ダメ|駄目/;
+  if (!criticism.test(text)) return false;
+  return quotes.some((quote) => cheer.test(quote));
 }
 
 export function judgeTweet(raw) {
@@ -178,6 +206,9 @@ export function judgeTweet(raw) {
   }
   if (isSarcasm(maskExceptions(text))) {
     return { verdict: 'reject', confidence: 0.93, reasons: ['sarcasm'], definitive: true };
+  }
+  if (quotedPositiveIsRejected(text)) {
+    return { verdict: 'reject', confidence: 0.9, reasons: ['quoted'], definitive: true };
   }
   if (/【ファームハイライト】|【スコア詳細】/.test(text)) {
     return { verdict: 'reject', confidence: 0.92, reasons: ['neutral'], definitive: true };
@@ -301,6 +332,7 @@ export async function curateTweets(tweets, options = {}) {
       prev
       && prev.hash === hash
       && prev.rulesetVersion === RULESET_VERSION
+      && prev.rulesetFingerprint === RULESET_FINGERPRINT
       && (prev.verdict === 'publish' || prev.verdict === 'reject')
     ) {
       stats.reused += 1;
@@ -325,6 +357,7 @@ export async function curateTweets(tweets, options = {}) {
       confidence: result.confidence,
       modelUsed: result.modelUsed === true,
       rulesetVersion: RULESET_VERSION,
+      rulesetFingerprint: RULESET_FINGERPRINT,
     };
     if (result.verdict === 'publish') {
       published.push(tweet);
@@ -336,7 +369,7 @@ export async function curateTweets(tweets, options = {}) {
 
   return {
     tweets: published,
-    cache: { rulesetVersion: RULESET_VERSION, items: nextItems },
+    cache: { rulesetVersion: RULESET_VERSION, rulesetFingerprint: RULESET_FINGERPRINT, items: nextItems },
     stats,
   };
 }
