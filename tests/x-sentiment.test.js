@@ -8,6 +8,7 @@ import {
   contentHash,
   curateTweets,
   judgeTweet,
+  normalizeTweet,
   resolveVerdict,
   rulesetMaterial,
 } from '../scripts/lib/x-sentiment.js';
@@ -228,10 +229,29 @@ test('reuses a stored judgment for the same post', async () => {
       },
     },
   });
-  assert.equal(RULESET_VERSION, 3);
+  assert.equal(RULESET_VERSION, 4);
   assert.equal(previousVersion.stats.reused, 0);
   assert.equal(previousVersion.stats.publish, 0);
   assert.equal(previousVersion.cache.rulesetVersion, RULESET_VERSION);
+});
+
+test('keeps one public copy when the normalized text is identical', async () => {
+  const tweets = JSON.parse(fs.readFileSync(new URL('../x-data.txt', import.meta.url), 'utf8'));
+  const key = normalizeTweet('メガシンカして帰ってこいよ！谷端がんばれ！');
+  const same = tweets.filter((tweet) => normalizeTweet(tweet.text) === key);
+  const related = tweets.filter((tweet) => String(tweet.text).includes('メガシンカして帰ってこいよ'));
+  assert.equal(same.length, 2);
+  assert.equal(related.length, 3);
+
+  const duplicates = await curateTweets(same);
+  assert.equal(duplicates.stats.publish, 1);
+  assert.equal(duplicates.stats.duplicates, 1);
+  assert.equal(duplicates.tweets.length, 1);
+  assert.ok(Object.values(duplicates.cache.items).every((item) => item.verdict === 'publish'));
+
+  const withVariant = await curateTweets(related);
+  assert.equal(withVariant.stats.publish, 2);
+  assert.equal(withVariant.stats.duplicates, 1);
 });
 
 test('corpus keeps insults out and does not publish most posts', () => {

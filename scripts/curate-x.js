@@ -70,6 +70,7 @@ export async function main() {
     reject: result.stats.reject,
     reused: result.stats.reused,
     judged: result.stats.judged,
+    duplicates: result.stats.duplicates,
     modelCalls: result.stats.modelCalls,
   }));
   if (dryRun) return;

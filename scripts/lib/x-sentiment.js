@@ -1,8 +1,8 @@
 import { createHash } from 'node:crypto';
 import { extractXStatusId } from '../../js/safe-url.js';
 
-export const RULESET_VERSION = 3;
-const LOGIC_ID = 'solo-focus-3';
+export const RULESET_VERSION = 4;
+const LOGIC_ID = 'contrast-4';
 const PUBLISH_SCORE = 2;
 
 const EXCEPTION_PHRASES = ['バカスカ', 'バカ正直', 'バカ売れ', 'バカ丁寧', 'カラス', 'カスミ'];
@@ -27,6 +27,7 @@ const SOFT_NEGATIVES = [
   '成長してなさ', '首脳陣', '期待してたのに', '長打率3割未満',
   '無限三振', 'どうすんねん', '守れない', '酷かっ', 'まずい', '結果出な',
   'ヤだ', '嫌だ', '手薄', 'せんかったら', '期待できそうにない', 'コーチ',
+  '壊れた', '怖い', '危ない', '悪送球', '落球', 'ファンブル', '走塁死',
 ];
 
 // Strong cheers are whole-utterance evidence. A single weak label is not enough.
@@ -333,6 +334,10 @@ function softNegativeScore(text) {
       const index = text.indexOf(word, from);
       if (index < 0) break;
       const after = text.slice(index + word.length, index + word.length + 18);
+      if ((word === '怖い' || word === '危ない') && /^(?:くらい|ぐらい|ほど)/.test(after)) {
+        from = index + word.length;
+        continue;
+      }
       const polarity = suffixPolarity(after);
       if (polarity === 'plain') score += 1;
       from = index + word.length;
@@ -351,6 +356,31 @@ function wishScore(text) {
   const after = text.slice(match.index + match[0].length, match.index + match[0].length + 18);
   if (suffixPolarity(after) === 'negated') return 0;
   return 2;
+}
+
+const CONTRAST = /^[\s　！!？?。…・]*?(?:だけど|だけれど|けれども|しかし|だが|でも|なのに)/;
+const UNDERMINING = /壊|信号|(?<!デル)ミス|危ない|怖い|粗い|雑|あかん|悪送球|落球|ファンブル|走塁死|走塁ミス|ボーク|凡退|引っかけ|オーバーラン/;
+
+function underminedCheer(text) {
+  const strong = POSITIVE_PATTERNS.filter(([, weight]) => weight >= PUBLISH_SCORE);
+  for (const [pattern] of strong) {
+    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
+    const regex = new RegExp(pattern.source, flags);
+    let match;
+    while ((match = regex.exec(text)) !== null) {
+      const afterStart = match.index + match[0].length;
+      const polarity = suffixPolarity(text.slice(afterStart, afterStart + 18));
+      const contrast = text.slice(afterStart, afterStart + 12).match(CONTRAST);
+      if (polarity !== 'negated' && contrast) {
+        const tail = text.slice(afterStart + contrast[0].length).split(/[。\n]/)[0];
+        const redeemed = collectPatternScore(tail, strong).score >= PUBLISH_SCORE || wishScore(tail) >= PUBLISH_SCORE;
+        const critic = softNegativeScore(tail) > 0 || UNDERMINING.test(tail);
+        if (!redeemed && critic && !/相手のエラー/.test(tail)) return true;
+      }
+      if (match.index === regex.lastIndex) regex.lastIndex += 1;
+    }
+  }
+  return false;
 }
 
 function quotedPositiveIsRejected(text) {
@@ -401,7 +431,7 @@ export function judgeTweet(raw) {
     return { verdict: 'reject', confidence: 0.9, reasons: ['too_short'], definitive: true };
   }
 
-  if (score >= PUBLISH_SCORE && negative > 0) {
+  if ((score >= PUBLISH_SCORE && negative > 0) || underminedCheer(text)) {
     return { verdict: 'reject', confidence: 0.9, reasons: ['mixed'], definitive: true };
   }
   if (negative > 0) {
@@ -493,7 +523,18 @@ export async function curateTweets(tweets, options = {}) {
     reject: 0,
     reused: 0,
     judged: 0,
+    duplicates: 0,
     modelCalls: 0,
+  };
+  const publishedText = new Set();
+  const takePublished = (tweet, hash) => {
+    if (publishedText.has(hash)) {
+      stats.duplicates += 1;
+      return;
+    }
+    publishedText.add(hash);
+    published.push(tweet);
+    stats.publish += 1;
   };
 
   for (const tweet of source) {
@@ -521,12 +562,8 @@ export async function curateTweets(tweets, options = {}) {
     ) {
       stats.reused += 1;
       nextItems[id] = prev;
-      if (prev.verdict === 'publish') {
-        published.push(tweet);
-        stats.publish += 1;
-      } else {
-        stats.reject += 1;
-      }
+      if (prev.verdict === 'publish') takePublished(tweet, hash);
+      else stats.reject += 1;
       continue;
     }
 
@@ -543,12 +580,8 @@ export async function curateTweets(tweets, options = {}) {
       rulesetVersion: RULESET_VERSION,
       rulesetFingerprint: RULESET_FINGERPRINT,
     };
-    if (result.verdict === 'publish') {
-      published.push(tweet);
-      stats.publish += 1;
-    } else {
-      stats.reject += 1;
-    }
+    if (result.verdict === 'publish') takePublished(tweet, hash);
+    else stats.reject += 1;
   }
 
   return {

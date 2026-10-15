@@ -51,6 +51,14 @@ test('実投稿: 成績の列挙と試合速報を除外する', () => {
   rejectsAll('【一問一答】');
 });
 
+test('実投稿: 称賛の直後に批判が残る投稿を除外する', () => {
+  for (const tweet of realTweets('壊れた信号機しかけてた')) {
+    assert.equal(judgeTweet(tweet.text).reasons[0], 'mixed');
+  }
+  rejectsAll('送球ちょっと怖いけどようやっとる');
+  rejectsAll('打撃ぶっ壊れた');
+});
+
 test('実投稿: 正の語があっても谷端本人への応援が主旨でない投稿を除外する', () => {
   rejectsAll('頑張ってくれよ小幡');
   rejectsAll('鈍足の低打率単打マン');
