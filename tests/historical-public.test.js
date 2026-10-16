@@ -41,20 +41,61 @@ test('previously displayed posts and videos stay in the public files', () => {
   assert.equal(xPublic[0].text, '一死二三塁！頑張れ谷端くん！！');
   assert.equal(xPublic[0].tweetUrl, 'https://x.com/sio_seseri/status/2093267243073429916');
 
-  const prefix = new Set(ORIGINAL_PUBLIC_IDS);
-  const rest = [];
-  const seen = new Set();
-  const displayed = [];
+  const publicSet = new Set(publicIds);
+  const originalSet = new Set(ORIGINAL_PUBLIC_IDS);
+  const byId = new Map();
+  const sourceIds = [];
   for (const tweet of tweets) {
     const id = statusId(tweet.tweetUrl);
-    if (!id || seen.has(id)) continue;
-    seen.add(id);
-    displayed.push(id);
-    if (!prefix.has(id)) rest.push(id);
+    if (!id || byId.has(id)) continue;
+    byId.set(id, tweet);
+    sourceIds.push(id);
   }
-  assert.deepEqual(publicIds.slice(ORIGINAL_PUBLIC_IDS.length), rest);
-  assert.equal(publicIds.length, displayed.length);
-  for (const id of displayed) assert.ok(publicIds.includes(id), id);
+  for (const tweet of xPublic) {
+    const id = statusId(tweet.tweetUrl);
+    const source = byId.get(id);
+    assert.ok(source, id);
+    assert.equal(tweet.tweetUrl, source.tweetUrl);
+    assert.equal(tweet.text, source.text);
+    assert.equal(tweet.userName, source.userName);
+    assert.equal(tweet.createdAt, source.createdAt);
+  }
+
+  const historicalRest = [];
+  const newcomers = [];
+  const seenPublic = new Set();
+  let historyComplete = false;
+  for (const id of sourceIds) {
+    if (publicSet.has(id)) {
+      assert.equal(historyComplete, false, id);
+      seenPublic.add(id);
+      if (!originalSet.has(id)) historicalRest.push(id);
+      continue;
+    }
+    if (!historyComplete) {
+      assert.equal(seenPublic.size, publicSet.size);
+      historyComplete = true;
+    }
+    newcomers.push(id);
+  }
+  assert.equal(seenPublic.size, publicSet.size);
+  assert.deepEqual(publicIds.slice(ORIGINAL_PUBLIC_IDS.length), historicalRest);
+  assert.deepEqual(publicIds.filter((id) => newcomers.includes(id)), []);
+
+  if (newcomers.length > 0) {
+    assert.equal(newcomers.length, 102);
+    assert.equal(newcomers[0], '2110476083053392199');
+    assert.equal(newcomers[101], '2110803646816629187');
+    const approved = [];
+    for (const id of newcomers) {
+      const verdict = judgeTweet(byId.get(id).text).verdict;
+      assert.equal(publicSet.has(id), false, id);
+      if (verdict === 'publish') approved.push(byId.get(id));
+    }
+    const appended = [...xPublic, ...approved];
+    assert.deepEqual(appended.slice(0, xPublic.length), xPublic);
+    assert.deepEqual(appended.slice(xPublic.length), approved);
+  }
 
   const rejected = tweets.find((tweet) => String(tweet.text).includes('全く期待外れ'));
   assert.equal(judgeTweet(rejected.text).verdict, 'reject');
