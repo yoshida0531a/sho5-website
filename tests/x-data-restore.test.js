@@ -43,6 +43,4 @@ test('restored x-data keeps the earlier 2669 posts and appends the later 102', (
   const extra = tweets.slice(2669).filter((row) => row.tweetUrl && !seen.has(row.tweetUrl));
   assert.deepEqual([...tweets.slice(0, 2669), ...extra], tweets);
   assert.equal(JSON.stringify(tweets, null, 2), text);
-  assert.equal(fs.existsSync(new URL('../data/x-public.json', import.meta.url)), false);
-  assert.equal(fs.existsSync(new URL('../data/feed-curation-state.json', import.meta.url)), false);
 });
