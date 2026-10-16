@@ -1,6 +1,6 @@
 /**
  * 互換用の入口です。
- * YouTube-data.txt は変更せず、data/youtube-public.json だけを更新します。
+ * 公開JSONは書き換えません。日次の追加は Worker の選別が行います。
  */
 import { main } from './curate-youtube.js';
 

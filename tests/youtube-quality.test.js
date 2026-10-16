@@ -474,66 +474,72 @@ test('a stale or malformed channel cache cannot publish an unverified video', as
   assert.ok(malformedCalls.length > 0);
 });
 
-test('one feed failure does not erase the other, and dry run skips the status file', async () => {
+test('manual curation cannot replace published history, even when dry run is off', async () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'sho5-status-'));
   const statusPath = path.join(dir, 'feed-status.json');
   const xSource = path.join(dir, 'x-data.txt');
   const xPublic = path.join(dir, 'x-public.json');
   const xCache = path.join(dir, 'x-cache.json');
-  const tweets = [{
+  const kept = {
     text: '谷端選手がんばれ！',
     userName: 'fan',
     tweetUrl: 'https://x.com/fan/status/2092719964855869793',
-  }];
+  };
+  const rejected = {
+    text: '谷端がんばれけど',
+    userName: 'fan',
+    tweetUrl: 'https://x.com/fan/status/2092719964855869794',
+  };
+  const tweets = [kept, rejected];
+  const publicHistory = `${JSON.stringify([rejected, kept], null, 2)}\n`;
   fs.writeFileSync(xSource, JSON.stringify(tweets));
-  await withEnv({
+  fs.writeFileSync(xPublic, publicHistory);
+  const runX = () => withEnv({
     X_SOURCE: xSource,
     X_PUBLIC: xPublic,
     X_CACHE: xCache,
     FEED_STATUS: statusPath,
     DRY_RUN: 'false',
   }, () => curateXCli());
-  assert.equal(JSON.parse(fs.readFileSync(statusPath, 'utf8')).x.state, 'published');
+  await runX();
+  await runX();
+  assert.equal(fs.readFileSync(xPublic, 'utf8'), publicHistory);
+  assert.equal(fs.readFileSync(xSource, 'utf8'), JSON.stringify(tweets));
+  assert.equal(fs.existsSync(statusPath), false);
+  assert.equal(fs.existsSync(xCache), false);
   const xBytes = fs.readFileSync(xPublic);
 
   const ytSource = path.join(dir, 'YouTube-data.txt');
   const ytPublic = path.join(dir, 'youtube-public.json');
   const ytCache = path.join(dir, 'yt-cache.json');
-  const raw = JSON.stringify([video('ppppppppppp', '阪神 谷端のドラフト仮契約インタビューを見る')]);
+  const keptVideo = video('ppppppppppp', '阪神 谷端のドラフト仮契約インタビューを見る');
+  const addedVideo = video('qqqqqqqqqqq', '谷端の新しい打席');
+  const raw = JSON.stringify([keptVideo, addedVideo]);
+  const videoHistory = `${JSON.stringify([keptVideo], null, 2)}\n`;
   fs.writeFileSync(ytSource, raw);
-  await withEnv({
+  fs.writeFileSync(ytPublic, videoHistory);
+  const runYouTube = (dryRun) => withEnv({
     YT_SOURCE: ytSource,
     YT_PUBLIC: ytPublic,
     YT_CACHE: ytCache,
     YT_ALLOWLIST: path.join(dir, 'allow.json'),
     FEED_STATUS: statusPath,
     YOUTUBE_API_KEY: '',
-    DRY_RUN: 'true',
+    DRY_RUN: dryRun,
   }, () => curateYouTubeCli());
-  assert.equal(fs.existsSync(ytPublic), false);
-  assert.equal(fs.readFileSync(ytSource, 'utf8'), raw);
-  assert.equal(JSON.parse(fs.readFileSync(statusPath, 'utf8')).youtube, undefined);
-
-  await withEnv({
-    YT_SOURCE: ytSource,
-    YT_PUBLIC: ytPublic,
-    YT_CACHE: ytCache,
-    YT_ALLOWLIST: path.join(dir, 'allow.json'),
-    FEED_STATUS: statusPath,
-    YOUTUBE_API_KEY: '',
-    DRY_RUN: 'false',
-  }, () => curateYouTubeCli());
-  assert.equal(fs.existsSync(ytPublic), false);
+  await runYouTube('true');
+  await runYouTube('false');
+  await runYouTube('false');
+  assert.equal(fs.readFileSync(ytPublic, 'utf8'), videoHistory);
   assert.equal(fs.existsSync(ytCache), false);
   assert.equal(fs.readFileSync(ytSource, 'utf8'), raw);
   assert.deepEqual(fs.readFileSync(xPublic), xBytes);
-  const status = JSON.parse(fs.readFileSync(statusPath, 'utf8'));
-  assert.equal(status.x.state, 'published');
-  assert.equal(status.youtube.state, 'not_generated');
+  assert.equal(fs.existsSync(statusPath), false);
 
   const brokenCache = path.join(dir, 'broken-cache.json');
   fs.writeFileSync(brokenCache, '{');
   fs.writeFileSync(ytPublic, '[]');
+  fs.writeFileSync(statusPath, '{"version":1}\n');
   const beforeStatus = fs.readFileSync(statusPath);
   await withEnv({
     YT_SOURCE: ytSource,

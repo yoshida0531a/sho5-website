@@ -2,8 +2,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { curateTweets } from './lib/x-sentiment.js';
-import { loadFeedStatus, saveFeedState } from './lib/feed-status.js';
-import { readJson, writeJsonAtomic } from './lib/json-file.js';
+import { loadFeedStatus } from './lib/feed-status.js';
+import { readJson } from './lib/json-file.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -13,7 +13,6 @@ function envPath(name, fallback) {
 
 export async function main() {
   const sourcePath = envPath('X_SOURCE', 'x-data.txt');
-  const publicPath = envPath('X_PUBLIC', 'data/x-public.json');
   const cachePath = envPath('X_CACHE', 'data/x-judgments.json');
   const statusPath = envPath('FEED_STATUS', 'data/feed-status.json');
   const dryRun = process.env.DRY_RUN === 'true' || process.env.DRY_RUN === '1';
@@ -44,9 +43,8 @@ export async function main() {
     }
   }
 
-  let feedStatus;
   try {
-    feedStatus = loadFeedStatus(statusPath);
+    loadFeedStatus(statusPath);
   } catch {
     console.error('公開状態の記録を読めないため中断しました。公開データは変更していません。');
     process.exitCode = 1;
@@ -66,6 +64,7 @@ export async function main() {
 
   console.log(JSON.stringify({
     dryRun,
+    write: false,
     publish: result.stats.publish,
     reject: result.stats.reject,
     reused: result.stats.reused,
@@ -73,10 +72,7 @@ export async function main() {
     duplicates: result.stats.duplicates,
     modelCalls: result.stats.modelCalls,
   }));
-  if (dryRun) return;
-  writeJsonAtomic(publicPath, result.tweets);
-  writeJsonAtomic(cachePath, result.cache);
-  saveFeedState(statusPath, feedStatus, 'x', 'published', result.tweets.length);
+  console.error('公開JSONは書き換えません。日次の追加は Worker の選別が行います。');
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
