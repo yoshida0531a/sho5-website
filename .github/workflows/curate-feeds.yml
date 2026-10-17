@@ -1,0 +1,65 @@
+name: Curate public X and YouTube feeds
+
+# 日次の選別は sho5-script の Worker twitter-to-line が、既存の JST 5:30 のサイト更新から行う。
+# この手動実行はプレビューだけです。公開JSONは書き換えず、push もしません。
+on:
+  workflow_dispatch:
+    inputs:
+      min_subscribers:
+        description: 'Minimum subscriber count'
+        required: false
+        default: '1000'
+        type: string
+      min_quality_score:
+        description: 'Minimum content score (0-100)'
+        required: false
+        default: '45'
+        type: string
+      rescue_score:
+        description: 'Score that can keep a video below the subscriber minimum'
+        required: false
+        default: '60'
+        type: string
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    concurrency:
+      group: curate-feeds
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Curate X
+        id: curate_x
+        continue-on-error: true
+        env:
+          DRY_RUN: 'true'
+        run: node scripts/curate-x.js
+
+      - name: Curate YouTube
+        id: curate_youtube
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          MIN_SUBSCRIBERS: ${{ github.event.inputs.min_subscribers || '1000' }}
+          MIN_QUALITY_SCORE: ${{ github.event.inputs.min_quality_score || '45' }}
+          RESCUE_SCORE: ${{ github.event.inputs.rescue_score || '60' }}
+          DRY_RUN: 'true'
+          API_DELAY_MS: '100'
+        run: node scripts/curate-youtube.js
+
+      - name: Fail if either feed failed
+        if: ${{ !cancelled() && (steps.curate_x.outcome == 'failure' || steps.curate_youtube.outcome == 'failure') }}
+        run: exit 1
