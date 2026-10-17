@@ -49,8 +49,8 @@ function digest(file) {
 }
 
 test('the preview contract is the current ruleset and the restored history boundary', () => {
-  assert.equal(RULESET_VERSION, 5);
-  assert.equal(RULESET_FINGERPRINT, 'bc2ce9be9124276c7afb');
+  assert.equal(RULESET_VERSION, 6);
+  assert.equal(RULESET_FINGERPRINT, '7ad2e7d824c54efb198d');
   assert.equal(HISTORICAL_X_CONTRACT.expectedPublic, 2669);
   assert.equal(HISTORICAL_X_CONTRACT.expectedNewcomers, 102);
   const source = fs.readFileSync(new URL('../scripts/preview-historical-x-filter.js', import.meta.url), 'utf8');
@@ -112,8 +112,8 @@ test('new posts stay outside the batch and only fresh publish verdicts are kept'
   assert.equal(first.preview.summary.cacheReused, 0);
   assert.equal(first.preview.summary.modelCalls, 0);
   assert.equal(first.preview.summary.judged, 2669);
-  assert.equal(first.preview.summary.rulesetVersion, 5);
-  assert.equal(first.preview.summary.rulesetFingerprint, 'bc2ce9be9124276c7afb');
+  assert.equal(first.preview.summary.rulesetVersion, 6);
+  assert.equal(first.preview.summary.rulesetFingerprint, '7ad2e7d824c54efb198d');
   assert.equal(first.preview.decisions.length, 2669);
   assert.equal(first.preview.excludedNewcomerIds.includes(HISTORICAL_X_CONTRACT.firstNewcomer), true);
   assert.equal(first.preview.decisions.some((row) => row.statusId === HISTORICAL_X_CONTRACT.firstNewcomer), false);
@@ -182,11 +182,11 @@ test('the published history and the restored source stay unchanged through a rea
   assert.equal(summary.validIdCount, 2669);
   assert.equal(summary.duplicateIdCount, 0);
   assert.equal(summary.invalidCount, 0);
-  assert.equal(summary.publishCandidates, 52);
-  assert.equal(summary.excludeCandidates, 2617);
-  assert.equal(summary.duplicateTextRemoved, 1);
-  assert.equal(summary.keptCount, 51);
-  assert.equal(summary.postsWithMultipleReasons, 150);
+  assert.equal(summary.publishCandidates, 143);
+  assert.equal(summary.excludeCandidates, 2526);
+  assert.equal(summary.duplicateTextRemoved, 3);
+  assert.equal(summary.keptCount, 140);
+  assert.equal(summary.postsWithMultipleReasons, 144);
   assert.equal(summary.reasonCountsMatchInput, false);
   assert.equal(summary.newcomerCount, 102);
   assert.equal(summary.cacheReused, 0);
@@ -208,8 +208,8 @@ test('the published history and the restored source stay unchanged through a rea
     assert.equal(row.text, published.value[index].text);
     assert.equal(row.userName, published.value[index].userName);
     assert.equal(row.createdAt, published.value[index].createdAt);
-    assert.equal(row.rulesetVersion, 5);
-    assert.equal(row.rulesetFingerprint, 'bc2ce9be9124276c7afb');
+    assert.equal(row.rulesetVersion, 6);
+    assert.equal(row.rulesetFingerprint, '7ad2e7d824c54efb198d');
     assert.equal(row.modelUsed, false);
   });
   const keptOrders = preview.preview.kept.map((row) => row.order);

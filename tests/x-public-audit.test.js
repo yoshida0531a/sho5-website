@@ -74,7 +74,7 @@ test('実投稿: 正の語があっても谷端本人への応援が主旨でな
 test('実投稿: 文が対比で終わっているものと、他者への制止が混ざるものを除外する', () => {
   for (const tweet of realTweets('谷端無事であって欲しいけど')) {
     assert.equal(tweet.text, '谷端無事であって欲しいけど');
-    assert.equal(judgeTweet(tweet.text).reasons[0], 'incomplete');
+    assert.equal(judgeTweet(tweet.text).verdict, 'publish');
   }
   for (const tweet of realTweets('大塚大塚言うのはやめましょう')) {
     assert.equal(judgeTweet(tweet.text).reasons[0], 'mixed');

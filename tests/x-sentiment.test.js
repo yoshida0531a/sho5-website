@@ -229,7 +229,7 @@ test('reuses a stored judgment for the same post', async () => {
       },
     },
   });
-  assert.equal(RULESET_VERSION, 5);
+  assert.equal(RULESET_VERSION, 6);
   assert.equal(previousVersion.stats.reused, 0);
   assert.equal(previousVersion.stats.publish, 0);
   assert.equal(previousVersion.cache.rulesetVersion, RULESET_VERSION);
@@ -244,7 +244,7 @@ test('dangling contrasts and stop-directives apply to similar wording', () => {
   assert.equal(judgeTweet('谷端期待してるけど来年が楽しみ').verdict, 'publish');
 });
 
-test('does not reuse an older publish verdict for an unfinished wish', async () => {
+test('does not reuse a version 5 judgment for a safety wish', async () => {
   const text = '谷端無事であって欲しいけど';
   const result = await curateTweets([{
     text,
@@ -252,24 +252,61 @@ test('does not reuse an older publish verdict for an unfinished wish', async () 
     tweetUrl: 'https://x.com/fan/status/42',
   }], {
     cache: {
-      rulesetVersion: 4,
-      rulesetFingerprint: RULESET_FINGERPRINT,
+      rulesetVersion: 5,
+      rulesetFingerprint: 'bc2ce9be9124276c7afb',
       items: {
         42: {
           hash: contentHash(text),
-          verdict: 'publish',
-          rulesetVersion: 4,
-          rulesetFingerprint: RULESET_FINGERPRINT,
+          verdict: 'reject',
+          reasons: ['incomplete'],
+          rulesetVersion: 5,
+          rulesetFingerprint: 'bc2ce9be9124276c7afb',
         },
       },
     },
   });
   assert.equal(result.stats.reused, 0);
   assert.equal(result.stats.judged, 1);
-  assert.equal(result.stats.publish, 0);
+  assert.equal(result.stats.publish, 1);
   assert.equal(result.cache.rulesetVersion, RULESET_VERSION);
-  assert.equal(result.cache.items[42].verdict, 'reject');
-  assert.equal(result.cache.items[42].reasons[0], 'incomplete');
+  assert.equal(result.cache.items[42].verdict, 'publish');
+});
+
+test('positive results and shared cheers publish, and explicit negatives stay out', () => {
+  const again = (text) => judgeTweet(text);
+  for (const text of [
+    '谷端さんマルチ！！！！✨',
+    '岡城谷端ガルシアが猛打賞。みんな頑張れ',
+    '谷端無事であって欲しいけど',
+    '谷端が無事であって欲しいけど',
+  ]) {
+    const first = again(text);
+    assert.equal(first.verdict, 'publish', JSON.stringify({ text, first }));
+    assert.deepEqual(again(text), first);
+  }
+  assert.equal(judgeTweet('谷端いいねいいね！！！取り返してけ〜').reasons[0], 'not_focused');
+  assert.equal(
+    judgeTweet('立石くんも谷端くんも全然諦めてない。確かに数字は酷いかもしれんが、まだ1年目。俺は少なくとも温かく、長い目で見たい。').reasons[0],
+    'negative',
+  );
+  assert.equal(judgeTweet('数字は酷いかもしれんが、谷端くんは素晴らしい。温かく見たい').reasons[0], 'mixed');
+  assert.equal(judgeTweet('本日のファーム・広島戦のスタメンです。先発は富田選手です。立石、谷端、糸原').reasons[0], 'neutral');
+  assert.equal(judgeTweet('谷端　左安　打点1　三振1').reasons[0], 'neutral');
+  assert.equal(judgeTweet('谷端マルチ').reasons[0], 'neutral');
+  assert.equal(judgeTweet('谷端マルチヒット！！！！').verdict, 'publish');
+  assert.equal(judgeTweet('谷端猛打賞！！').verdict, 'publish');
+  assert.equal(judgeTweet('コンビニのマルチコピー機で印刷した谷端将伍の写真✨').reasons[0], 'uncertain');
+  assert.equal(
+    judgeTweet('【猛虎日報｜日曜版ファーム号】 今週のファームは6試合4勝2分で負けなし💪 立石は.375で上向き 谷端は連続猛打賞 8/23〜8/29試合結果').reasons[0],
+    'report',
+  );
+  assert.equal(judgeTweet('谷端もあげて欲しい').reasons[0], 'not_focused');
+  assert.equal(judgeTweet('谷端に活躍してほしい').verdict, 'publish');
+  assert.equal(
+    judgeTweet('谷端くんの接触シーンで、脳震盪の可能性のある人に「がんばれ」コールは厳禁って周知されたほうがよくないか').reasons[0],
+    'quoted',
+  );
+  assert.equal(RULESET_FINGERPRINT, '7ad2e7d824c54efb198d');
 });
 
 test('keeps one public copy when the normalized text is identical', async () => {

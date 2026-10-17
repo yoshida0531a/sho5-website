@@ -1,8 +1,8 @@
 import { createHash } from 'node:crypto';
 import { extractXStatusId } from '../../js/safe-url.js';
 
-export const RULESET_VERSION = 5;
-const LOGIC_ID = 'unfinished-5';
+export const RULESET_VERSION = 6;
+const LOGIC_ID = 'positive-6';
 const PUBLISH_SCORE = 2;
 
 const EXCEPTION_PHRASES = ['バカスカ', 'バカ正直', 'バカ売れ', 'バカ丁寧', 'カラス', 'カスミ'];
@@ -62,6 +62,11 @@ const POSITIVE_PATTERNS = [
 ];
 
 const POSITIVE_EMOJI = /[\u{1F389}\u{1F38A}\u{1F44F}\u{1F44D}\u{1F4AA}\u{2764}\u{2665}\u{1F525}\u{2728}\u{26BE}\u{1F60D}\u{1F970}\u{1F496}]/u;
+const JOYFUL_RESULTS = ['マルチ', '猛打賞'];
+const JOYFUL_EXCLUSIONS = ['マルチコピー', 'マルチメディア', 'マルチプル', 'マルチタスク', 'マルチビタミン'];
+const GROUP_MARKERS = ['みんな', 'みなさん', '皆さん', '皆'];
+const ROSTER_WISH_STEMS = ['試し', '使っ', 'つかっ', '出し', 'だし', '上げ', 'あげ', '固定にし', '起用し', '回し', '代打にし'];
+const EXTRA_REPORT_MARKERS = ['猛虎日報', '試合結果', 'ファーム情報'];
 const NEGATIVE_EMOJI = /[\u{1F4A9}\u{1F621}\u{1F92E}\u{1F44E}]/u;
 
 export function normalizeTweet(raw) {
@@ -87,6 +92,12 @@ export function rulesetMaterial() {
     insults: HARD_INSULTS,
     negatives: SOFT_NEGATIVES,
     positives: POSITIVE_PATTERNS.map(([pattern, weight]) => [pattern.source, pattern.flags, weight]),
+    joyfulResults: JOYFUL_RESULTS,
+    groupMarkers: GROUP_MARKERS,
+    safetyWishes: ['無事'],
+    joyfulExclusions: JOYFUL_EXCLUSIONS,
+    rosterWishStems: ROSTER_WISH_STEMS,
+    reportMarkers: EXTRA_REPORT_MARKERS,
   };
 }
 
@@ -122,6 +133,7 @@ function isGameReport(text) {
   if (/【ファームハイライト】|【ファーム】|【スコア詳細】|一問一答|実況速報|Yahooニュース|デイリースポーツ|公式モバイル/.test(text)) {
     return true;
   }
+  if (EXTRA_REPORT_MARKERS.some((marker) => text.includes(marker))) return true;
   if (/打線は/.test(text) && /安打|得点|打点|盗塁/.test(text)) return true;
   if (/(?:\d+打数\d+安打|打率\s*[.．]|出塁率|OPS|IsoP)/.test(text)) return true;
   const innings = text.match(/\d+回/g) || [];
@@ -142,8 +154,6 @@ const OTHER_PLAYERS = [
   '照英', '右京', '神宮', '中川', '小島', '宮下', '渡部', '前嶋', 'ディベイニー',
   '石黒', '伊藤', '百ちゃん', '誠志郎', '大竹',
 ];
-
-const VOCATIVE = /がんばれ|ガンバレ|頑張れ|がんばって|頑張って|ナイス|最高|素晴らしい|すばらしい|大好き|だいすき|応援して|偉い|えらい|ようやっと|よくやった|お疲れ様|お疲れさま|おつかれ/;
 
 function evaluativeNames(text) {
   const found = [];
@@ -189,7 +199,7 @@ function nameDistance(name, at) {
 
 function rosterWish(text, wishAt) {
   const before = text.slice(Math.max(0, wishAt - 12), wishAt);
-  return /(?:試し|使っ|出し|上げ|固定にし|起用し|回し|代打にし)$/.test(before);
+  return new RegExp(`(?:${ROSTER_WISH_STEMS.join('|')})$`).test(before);
 }
 
 function wishAtIsValid(text, wishAt) {
@@ -236,12 +246,6 @@ function cheerBindsToSelf(selves, at) {
   });
 }
 
-function playContextBefore(text, other, self) {
-  if (other.end > self.index) return false;
-  const gap = text.slice(other.end, self.index);
-  return /[！!]/.test(gap) && /安打|ヒット|本塁打|ホームラン|タイムリー|ツーベース|スリーベース|三振|ゴロ|フライ|エラー|盗塁|四球|死球|併殺/.test(gap);
-}
-
 function strayCheer(names, sentenceStart, sentenceEnd, positions) {
   const selves = names.filter((name) => name.self);
   if (!names.some((name) => !name.self)) return false;
@@ -262,19 +266,16 @@ function attachedCheer(text) {
     const [sentenceStart, sentenceEnd] = sentenceBounds(text, at);
     const local = names.filter((name) => name.index >= sentenceStart && name.index < sentenceEnd);
     const selves = local.filter((name) => name.self);
-    const others = local.filter((name) => !name.self);
+    const beforeCheer = text.slice(Math.max(0, at - 8), at);
+    const groupCheer = GROUP_MARKERS.some((marker) => beforeCheer.includes(marker));
+    if (groupCheer && (text.includes('谷端') || text.includes('将伍'))
+      && !strayCheer(names, sentenceStart, sentenceEnd, positions)) {
+      return true;
+    }
     if (!cheerBindsToSelf(selves, at)) continue;
     if (/^て(?:ほしい|欲しい)/.test(text.slice(at, at + 4))
       && !selves.some((name) => name.end <= at && at <= name.end + 24)) {
       continue;
-    }
-    if (others.length > 0) {
-      const self = selves.reduce((best, name) => (
-        nameDistance(name, at) < nameDistance(best, at) ? name : best
-      ));
-      if (others.length !== 1 || !playContextBefore(text, others[0], self)) continue;
-      if (nameDistance(self, at) > 8) continue;
-      if (!VOCATIVE.test(text.slice(Math.max(0, at - 4), at + 8))) continue;
     }
     if (strayCheer(names, sentenceStart, sentenceEnd, positions)) continue;
     return true;
@@ -381,7 +382,30 @@ function unfinishedSupport(text) {
     marks.push(match.index + match[0].length);
     if (match.index === wish.lastIndex) wish.lastIndex += 1;
   }
-  return marks.some((end) => dangling.test(text.slice(end)));
+  return marks.some((end) => dangling.test(text.slice(end)) && !benignSafetyWish(text, end));
+}
+
+function benignSafetyWish(text, end) {
+  const tail = text.slice(end);
+  if (!/^(?:けど|けれど)[\s　！!？?。…〜~ー♪（）()]*$/.test(tail)) return false;
+  const before = text.slice(Math.max(0, end - 20), end).replace(/\s/g, '');
+  if (!/無事.{0,12}て(?:ほしい|欲しい)$/.test(before)) return false;
+  return softNegativeScore(text) === 0 && !containsInsult(text);
+}
+
+function hasJoyfulResult(text) {
+  if (text.includes('猛打賞')) return true;
+  const withoutCompounds = JOYFUL_EXCLUSIONS.reduce((value, word) => value.split(word).join(''), text);
+  return withoutCompounds.includes('マルチ');
+}
+
+function joyfulPerformance(text) {
+  if (!text.includes('谷端') && !text.includes('将伍')) return false;
+  if (!hasJoyfulResult(text)) return false;
+  if (!(POSITIVE_EMOJI.test(text) || /[！!]{2,}/.test(text))) return false;
+  if (isGameReport(text)) return false;
+  const heavyStats = ['打率', '打数', '四球', '三振', '出塁率'];
+  return heavyStats.filter((word) => text.includes(word)).length < 2;
 }
 
 function underminedCheer(text) {
@@ -462,6 +486,9 @@ export function judgeTweet(raw) {
   }
   if (negative > 0) {
     return { verdict: 'reject', confidence: 0.88, reasons: ['negative'], definitive: true };
+  }
+  if (joyfulPerformance(text)) {
+    return { verdict: 'publish', confidence: 0.86, reasons: ['positive'], definitive: true };
   }
   if (/素晴らしくない|すごくない|良くない|よくない|上手くない|うまくない|期待できない/.test(text) && score < PUBLISH_SCORE) {
     return { verdict: 'reject', confidence: 0.9, reasons: ['negated'], definitive: true };
