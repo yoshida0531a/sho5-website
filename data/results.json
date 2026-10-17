@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-10-16T18:45:34.166Z",
-  "lastUpdated": "2026-10-17",
+  "fetchedAt": "2026-10-17T17:50:48.991Z",
+  "lastUpdated": "2026-10-18",
   "farmSummary": {
     "raw": {
       "打率": ".231",
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "10/17",
+      "gameKind": "フェニックスリーグ",
+      "opponent": "中日",
+      "atBats": "3",
+      "hits": "1",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "1",
+      "hitByPitch": "0",
+      "battingResults": "四球、右２、二飛、投ゴロ",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051579/top"
+    },
     {
       "date": "10/15",
       "gameKind": "フェニックスリーグ",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "空三振、右飛",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051540/top"
-    },
-    {
-      "date": "10/9",
-      "gameKind": "フェニックスリーグ",
-      "opponent": "ハンファ",
-      "atBats": "4",
-      "hits": "0",
-      "homeRuns": "0",
-      "rbi": "1",
-      "runs": "0",
-      "strikeouts": "0",
-      "walks": "0",
-      "hitByPitch": "0",
-      "battingResults": "一失、二ゴロ、右犠飛、三ゴロ、中飛",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051523/top"
     }
   ]
 }
