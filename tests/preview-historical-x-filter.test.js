@@ -168,9 +168,20 @@ test('the published history and the restored source stay unchanged through a rea
   const before = snapshotProtectedFiles();
   const hashes = Object.fromEntries(protectedPaths().filter((file) => fs.existsSync(file)).map((file) => [file, digest(file)]));
   const published = readJsonArray(path.join(ROOT, 'data/x-public.json'));
+  const branchSource = readJsonArray(path.join(ROOT, 'x-data.txt'));
   const source = JSON.parse(restoredText);
   assert.equal(published.ok, true);
-  const preview = await previewHistoricalX(published.value, source);
+  assert.equal(branchSource.ok, true);
+  assert.equal(published.value.length, 134);
+  const frontIds = published.value.slice(0, 51).map((tweet) => tweet.tweetUrl.match(/status\/(\d+)/)[1]);
+  const frontSet = new Set(frontIds);
+  const bySourceId = new Map(branchSource.value.map((tweet) => [tweet.tweetUrl.match(/status\/(\d+)/)[1], tweet]));
+  const historical = [
+    ...frontIds.map((id) => bySourceId.get(id)),
+    ...branchSource.value.filter((tweet) => !frontSet.has(tweet.tweetUrl.match(/status\/(\d+)/)[1])),
+  ];
+  assert.equal(historical.length, 2669);
+  const preview = await previewHistoricalX(historical, source);
   assert.equal(preview.ok, true, preview.reason);
   const after = snapshotProtectedFiles();
   assert.deepEqual(after, before);
@@ -203,18 +214,33 @@ test('the published history and the restored source stay unchanged through a rea
   );
   preview.preview.decisions.forEach((row, index) => {
     assert.equal(row.order, index + 1);
-    assert.equal(row.statusId, published.value[index].tweetUrl.match(/status\/(\d+)/)[1]);
-    assert.equal(row.url, published.value[index].tweetUrl);
-    assert.equal(row.text, published.value[index].text);
-    assert.equal(row.userName, published.value[index].userName);
-    assert.equal(row.createdAt, published.value[index].createdAt);
+    assert.equal(row.statusId, historical[index].tweetUrl.match(/status\/(\d+)/)[1]);
+    assert.equal(row.url, historical[index].tweetUrl);
+    assert.equal(row.text, historical[index].text);
+    assert.equal(row.userName, historical[index].userName);
+    assert.equal(row.createdAt, historical[index].createdAt);
     assert.equal(row.rulesetVersion, 7);
     assert.equal(row.rulesetFingerprint, '539e348bc6a694ec9f26');
     assert.equal(row.modelUsed, false);
   });
+  assert.deepEqual(
+    preview.preview.kept.map((row) => row.statusId),
+    published.value.map((tweet) => tweet.tweetUrl.match(/status\/(\d+)/)[1]),
+  );
+  const publicById = new Map(published.value.map((tweet) => [tweet.tweetUrl.match(/status\/(\d+)/)[1], tweet]));
+  for (const row of preview.preview.kept) {
+    const tweet = publicById.get(row.statusId);
+    assert.equal(tweet.text, row.text);
+    assert.equal(tweet.tweetUrl, row.url);
+    assert.equal(tweet.userName, row.userName);
+    assert.equal(tweet.createdAt, row.createdAt);
+  }
+  const newcomerIds = source.slice(2669).map((tweet) => tweet.tweetUrl.match(/status\/(\d+)/)[1]);
+  assert.equal(newcomerIds.length, 102);
+  assert.equal(newcomerIds.some((id) => publicById.has(id)), false);
   const keptOrders = preview.preview.kept.map((row) => row.order);
   assert.deepEqual(keptOrders, [...keptOrders].sort((left, right) => left - right));
-  const repeated = await previewHistoricalX(published.value, source);
+  const repeated = await previewHistoricalX(historical, source);
   assert.equal(repeated.preview.baselineHash, preview.preview.baselineHash);
   assert.deepEqual(repeated.preview.summary, preview.preview.summary);
   assert.deepEqual(

@@ -28,7 +28,7 @@ function readJson(name) {
   return JSON.parse(fs.readFileSync(new URL(name, import.meta.url), 'utf8'));
 }
 
-test('previously displayed posts and videos stay in the public files', () => {
+test('the filtered public posts keep the original front and source order', () => {
   const tweets = readJson('../x-data.txt');
   const videos = readJson('../YouTube-data.txt');
   const xPublic = readJson('../data/x-public.json');
@@ -36,6 +36,7 @@ test('previously displayed posts and videos stay in the public files', () => {
   const status = readJson('../data/feed-status.json');
 
   const publicIds = xPublic.map((tweet) => statusId(tweet.tweetUrl));
+  assert.equal(publicIds.length, 134);
   assert.equal(new Set(publicIds).size, publicIds.length);
   assert.deepEqual(publicIds.slice(0, ORIGINAL_PUBLIC_IDS.length), ORIGINAL_PUBLIC_IDS);
   assert.equal(xPublic[0].text, '一死二三塁！頑張れ谷端くん！！');
@@ -59,54 +60,28 @@ test('previously displayed posts and videos stay in the public files', () => {
     assert.equal(tweet.text, source.text);
     assert.equal(tweet.userName, source.userName);
     assert.equal(tweet.createdAt, source.createdAt);
+    assert.deepEqual(Object.keys(tweet).sort(), ['createdAt', 'text', 'tweetUrl', 'userName']);
   }
 
-  const historicalRest = [];
-  const newcomers = [];
-  const seenPublic = new Set();
-  let historyComplete = false;
-  for (const id of sourceIds) {
-    if (publicSet.has(id)) {
-      assert.equal(historyComplete, false, id);
-      seenPublic.add(id);
-      if (!originalSet.has(id)) historicalRest.push(id);
-      continue;
-    }
-    if (!historyComplete) {
-      assert.equal(seenPublic.size, publicSet.size);
-      historyComplete = true;
-    }
-    newcomers.push(id);
-  }
-  assert.equal(seenPublic.size, publicSet.size);
+  const historicalRest = sourceIds.filter((id) => publicSet.has(id) && !originalSet.has(id));
   assert.deepEqual(publicIds.slice(ORIGINAL_PUBLIC_IDS.length), historicalRest);
-  assert.deepEqual(publicIds.filter((id) => newcomers.includes(id)), []);
-
-  if (newcomers.length > 0) {
-    assert.equal(newcomers.length, 102);
-    assert.equal(newcomers[0], '2110476083053392199');
-    assert.equal(newcomers[101], '2110803646816629187');
-    const approved = [];
-    for (const id of newcomers) {
-      const verdict = judgeTweet(byId.get(id).text).verdict;
-      assert.equal(publicSet.has(id), false, id);
-      if (verdict === 'publish') approved.push(byId.get(id));
-    }
-    const appended = [...xPublic, ...approved];
-    assert.deepEqual(appended.slice(0, xPublic.length), xPublic);
-    assert.deepEqual(appended.slice(xPublic.length), approved);
-  }
+  assert.equal(sourceIds.filter((id) => publicSet.has(id)).length, publicIds.length);
 
   const rejected = tweets.find((tweet) => String(tweet.text).includes('全く期待外れ'));
   assert.equal(judgeTweet(rejected.text).verdict, 'reject');
-  assert.ok(publicIds.includes(statusId(rejected.tweetUrl)));
+  assert.equal(publicIds.includes(statusId(rejected.tweetUrl)), false);
 
+  assert.equal(videos.length, 472);
+  assert.equal(ytPublic.length, 472);
   assert.deepEqual(ytPublic.map((video) => video.url), videos.map((video) => video.url));
   assert.equal(ytPublic[0].title, videos[0].title);
   assert.equal(ytPublic[0].url, videos[0].url);
   assert.equal(status.version, 1);
   assert.equal(status.x.state, 'published');
+  assert.equal(status.x.count, 134);
   assert.equal(status.x.count, xPublic.length);
+  assert.equal(status.x.historyCount, sourceIds.length);
   assert.equal(status.youtube.state, 'published');
+  assert.equal(status.youtube.count, 472);
   assert.equal(status.youtube.count, ytPublic.length);
 });

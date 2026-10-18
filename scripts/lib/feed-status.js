@@ -19,7 +19,12 @@ export function parseFeedStatus(value) {
     if (entry.count != null && (!Number.isInteger(entry.count) || entry.count < 0)) {
       throw new Error('format');
     }
-    next[key] = { state: entry.state, count: entry.count ?? 0 };
+    const parsed = { state: entry.state, count: entry.count ?? 0 };
+    if (entry.historyCount != null) {
+      if (!Number.isInteger(entry.historyCount) || entry.historyCount < 0) throw new Error('format');
+      parsed.historyCount = entry.historyCount;
+    }
+    next[key] = parsed;
   }
   return next;
 }
@@ -30,10 +35,13 @@ export function loadFeedStatus(file) {
 }
 
 export function saveFeedState(file, current, feed, state, count) {
+  const previous = current?.[feed] && typeof current[feed] === 'object' ? current[feed] : {};
+  const entry = { state, count };
+  if (Number.isInteger(previous.historyCount)) entry.historyCount = previous.historyCount;
   const next = parseFeedStatus({
     ...current,
     version: FEED_STATUS_VERSION,
-    [feed]: { state, count },
+    [feed]: entry,
   });
   writeJsonAtomic(file, next);
   return next;

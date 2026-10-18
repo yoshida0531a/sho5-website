@@ -222,29 +222,31 @@ function wishAtIsValid(text, wishAt) {
   return true;
 }
 
+function scanMatches(text, pattern, visit) {
+  const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
+  const regex = new RegExp(pattern.source, flags);
+  let match;
+  while ((match = regex.exec(text)) !== null) {
+    const stop = visit(match) === false;
+    if (match.index === regex.lastIndex) regex.lastIndex += 1;
+    if (stop) return false;
+  }
+  return true;
+}
+
 function cheerPositions(text) {
   const positions = [];
   for (const [pattern, weight] of POSITIVE_PATTERNS) {
     if (weight < PUBLISH_SCORE) continue;
-    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
-    const regex = new RegExp(pattern.source, flags);
-    let match;
-    while ((match = regex.exec(text)) !== null) {
+    scanMatches(text, pattern, (match) => {
       const after = text.slice(match.index + match[0].length, match.index + match[0].length + 18);
-      if (/^スピーチ|^インタビュー/.test(after)) {
-        if (match.index === regex.lastIndex) regex.lastIndex += 1;
-        continue;
-      }
+      if (/^スピーチ|^インタビュー/.test(after)) return;
       if (suffixPolarity(after) !== 'negated') positions.push(match.index);
-      if (match.index === regex.lastIndex) regex.lastIndex += 1;
-    }
+    });
   }
-  const wish = /て(?:ほしい|欲しい)/g;
-  let match;
-  while ((match = wish.exec(text)) !== null) {
+  scanMatches(text, /て(?:ほしい|欲しい)/g, (match) => {
     if (wishAtIsValid(text, match.index)) positions.push(match.index);
-    if (match.index === wish.lastIndex) wish.lastIndex += 1;
-  }
+  });
   return positions;
 }
 
@@ -322,17 +324,13 @@ function collectPatternScore(text, patterns) {
   let negated = false;
   let weak = false;
   for (const [pattern, weight] of patterns) {
-    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
-    const regex = new RegExp(pattern.source, flags);
-    let match;
-    while ((match = regex.exec(text)) !== null) {
+    scanMatches(text, pattern, (match) => {
       const after = text.slice(match.index + match[0].length, match.index + match[0].length + 18);
       const polarity = suffixPolarity(after);
       if (polarity === 'negated') negated = true;
       else if (polarity === 'weak') weak = true;
       else score += weight;
-      if (match.index === regex.lastIndex) regex.lastIndex += 1;
-    }
+    });
   }
   return { score, negated, weak };
 }
@@ -354,7 +352,6 @@ function softNegativeScore(text) {
       from = index + word.length;
     }
   }
-  if (/草|ワロタ|わろた/.test(text)) score += 0;
   return score;
 }
 
@@ -375,22 +372,12 @@ const UNDERMINING = /壊|信号|(?<!デル)ミス|危ない|怖い|粗い|雑|�
 function unfinishedSupport(text) {
   const dangling = /^(?:だけど|だけれど|けれども|けれど|けど|しかし|だが|でも|なのに)[\s　！!？?。…〜~ー♪（）()]*$/;
   const marks = [];
+  const remember = (match) => marks.push(match.index + match[0].length);
   for (const [pattern, weight] of POSITIVE_PATTERNS) {
     if (weight < PUBLISH_SCORE) continue;
-    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
-    const regex = new RegExp(pattern.source, flags);
-    let match;
-    while ((match = regex.exec(text)) !== null) {
-      marks.push(match.index + match[0].length);
-      if (match.index === regex.lastIndex) regex.lastIndex += 1;
-    }
+    scanMatches(text, pattern, remember);
   }
-  const wish = /て(?:ほしい|欲しい)/g;
-  let match;
-  while ((match = wish.exec(text)) !== null) {
-    marks.push(match.index + match[0].length);
-    if (match.index === wish.lastIndex) wish.lastIndex += 1;
-  }
+  scanMatches(text, /て(?:ほしい|欲しい)/g, remember);
   return marks.some((end) => dangling.test(text.slice(end)) && !benignSafetyWish(text, end));
 }
 
@@ -420,21 +407,17 @@ function joyfulPerformance(text) {
 function underminedCheer(text) {
   const strong = POSITIVE_PATTERNS.filter(([, weight]) => weight >= PUBLISH_SCORE);
   for (const [pattern] of strong) {
-    const flags = pattern.flags.includes('g') ? pattern.flags : `${pattern.flags}g`;
-    const regex = new RegExp(pattern.source, flags);
-    let match;
-    while ((match = regex.exec(text)) !== null) {
+    const finished = scanMatches(text, pattern, (match) => {
       const afterStart = match.index + match[0].length;
       const polarity = suffixPolarity(text.slice(afterStart, afterStart + 18));
       const contrast = text.slice(afterStart, afterStart + 12).match(CONTRAST);
-      if (polarity !== 'negated' && contrast) {
-        const tail = text.slice(afterStart + contrast[0].length).split(/[。\n]/)[0];
-        const redeemed = collectPatternScore(tail, strong).score >= PUBLISH_SCORE || wishScore(tail) >= PUBLISH_SCORE;
-        const critic = softNegativeScore(tail) > 0 || UNDERMINING.test(tail);
-        if (!redeemed && critic && !/相手のエラー/.test(tail)) return true;
-      }
-      if (match.index === regex.lastIndex) regex.lastIndex += 1;
-    }
+      if (polarity === 'negated' || !contrast) return;
+      const tail = text.slice(afterStart + contrast[0].length).split(/[。\n]/)[0];
+      const redeemed = collectPatternScore(tail, strong).score >= PUBLISH_SCORE || wishScore(tail) >= PUBLISH_SCORE;
+      const critic = softNegativeScore(tail) > 0 || UNDERMINING.test(tail);
+      if (!redeemed && critic && !/相手のエラー/.test(tail)) return false;
+    });
+    if (!finished) return true;
   }
   return false;
 }
