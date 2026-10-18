@@ -3774,5 +3774,13 @@
     "publishedAt": "October 1, 2026 at 02:21PM",
     "description": "0:00 谷端将伍 1:08 ドラフト時の評価 4:55 ドラフト1位 立石正広との違いは何？ 【阪神暗黒時代】勝てなかった迷走時代に輝いた ...",
     "keyword": "谷端 阪神"
+  },
+  {
+    "title": "谷端将伍くん",
+    "channel": "",
+    "url": "https://www.youtube.com/watch?v=-GztT0cB0uU",
+    "publishedAt": "October 18, 2026 at 01:09PM",
+    "description": "フェニックスリーグ #岡城快生 くん       SGLスタジアム残った ので 谷端将伍くん 動画       あげました⁉️ #阪神タイガーズ ...",
+    "keyword": "谷端 阪神"
   }
 ]
