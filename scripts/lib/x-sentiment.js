@@ -1,8 +1,8 @@
 import { createHash } from 'node:crypto';
 import { extractXStatusId } from '../../js/safe-url.js';
 
-export const RULESET_VERSION = 6;
-const LOGIC_ID = 'positive-6';
+export const RULESET_VERSION = 7;
+const LOGIC_ID = 'boundary-7';
 const PUBLISH_SCORE = 2;
 
 const EXCEPTION_PHRASES = ['バカスカ', 'バカ正直', 'バカ売れ', 'バカ丁寧', 'カラス', 'カスミ'];
@@ -66,6 +66,7 @@ const JOYFUL_RESULTS = ['マルチ', '猛打賞'];
 const JOYFUL_EXCLUSIONS = ['マルチコピー', 'マルチメディア', 'マルチプル', 'マルチタスク', 'マルチビタミン'];
 const GROUP_MARKERS = ['みんな', 'みなさん', '皆さん', '皆'];
 const ROSTER_WISH_STEMS = ['試し', '使っ', 'つかっ', '出し', 'だし', '上げ', 'あげ', '固定にし', '起用し', '回し', '代打にし'];
+const ROSTER_WISH_CONTEXT = ['経験させ', '育成', '起用', '使っ'];
 const EXTRA_REPORT_MARKERS = ['猛虎日報', '試合結果', 'ファーム情報'];
 const NEGATIVE_EMOJI = /[\u{1F4A9}\u{1F621}\u{1F92E}\u{1F44E}]/u;
 
@@ -97,6 +98,8 @@ export function rulesetMaterial() {
     safetyWishes: ['無事'],
     joyfulExclusions: JOYFUL_EXCLUSIONS,
     rosterWishStems: ROSTER_WISH_STEMS,
+    rosterWishContext: ROSTER_WISH_CONTEXT,
+    comparisonMarker: 'より.{0,24}指名して欲しかった',
     reportMarkers: EXTRA_REPORT_MARKERS,
   };
 }
@@ -198,8 +201,14 @@ function nameDistance(name, at) {
 }
 
 function rosterWish(text, wishAt) {
-  const before = text.slice(Math.max(0, wishAt - 12), wishAt);
-  return new RegExp(`(?:${ROSTER_WISH_STEMS.join('|')})$`).test(before);
+  const before = text.slice(Math.max(0, wishAt - 18), wishAt);
+  if (new RegExp(`(?:${ROSTER_WISH_STEMS.join('|')})$`).test(before)) return true;
+  if (ROSTER_WISH_CONTEXT.some((stem) => before.includes(stem))) return true;
+  return text.slice(wishAt - 1, wishAt + 1) === '出て';
+}
+
+function preferredAnotherPlayer(text) {
+  return /より.{0,24}指名して欲しかった/.test(text);
 }
 
 function wishAtIsValid(text, wishAt) {
@@ -464,6 +473,9 @@ export function judgeTweet(raw) {
   }
   if (isGameReport(text)) {
     return { verdict: 'reject', confidence: 0.92, reasons: ['report'], definitive: true };
+  }
+  if (preferredAnotherPlayer(text)) {
+    return { verdict: 'reject', confidence: 0.9, reasons: ['comparison'], definitive: true };
   }
 
   const positive = collectPatternScore(text, POSITIVE_PATTERNS);

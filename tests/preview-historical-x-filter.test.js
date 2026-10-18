@@ -49,8 +49,8 @@ function digest(file) {
 }
 
 test('the preview contract is the current ruleset and the restored history boundary', () => {
-  assert.equal(RULESET_VERSION, 6);
-  assert.equal(RULESET_FINGERPRINT, '7ad2e7d824c54efb198d');
+  assert.equal(RULESET_VERSION, 7);
+  assert.equal(RULESET_FINGERPRINT, '539e348bc6a694ec9f26');
   assert.equal(HISTORICAL_X_CONTRACT.expectedPublic, 2669);
   assert.equal(HISTORICAL_X_CONTRACT.expectedNewcomers, 102);
   const source = fs.readFileSync(new URL('../scripts/preview-historical-x-filter.js', import.meta.url), 'utf8');
@@ -112,8 +112,8 @@ test('new posts stay outside the batch and only fresh publish verdicts are kept'
   assert.equal(first.preview.summary.cacheReused, 0);
   assert.equal(first.preview.summary.modelCalls, 0);
   assert.equal(first.preview.summary.judged, 2669);
-  assert.equal(first.preview.summary.rulesetVersion, 6);
-  assert.equal(first.preview.summary.rulesetFingerprint, '7ad2e7d824c54efb198d');
+  assert.equal(first.preview.summary.rulesetVersion, 7);
+  assert.equal(first.preview.summary.rulesetFingerprint, '539e348bc6a694ec9f26');
   assert.equal(first.preview.decisions.length, 2669);
   assert.equal(first.preview.excludedNewcomerIds.includes(HISTORICAL_X_CONTRACT.firstNewcomer), true);
   assert.equal(first.preview.decisions.some((row) => row.statusId === HISTORICAL_X_CONTRACT.firstNewcomer), false);
@@ -182,10 +182,10 @@ test('the published history and the restored source stay unchanged through a rea
   assert.equal(summary.validIdCount, 2669);
   assert.equal(summary.duplicateIdCount, 0);
   assert.equal(summary.invalidCount, 0);
-  assert.equal(summary.publishCandidates, 143);
-  assert.equal(summary.excludeCandidates, 2526);
+  assert.equal(summary.publishCandidates, 137);
+  assert.equal(summary.excludeCandidates, 2532);
   assert.equal(summary.duplicateTextRemoved, 3);
-  assert.equal(summary.keptCount, 140);
+  assert.equal(summary.keptCount, 134);
   assert.equal(summary.postsWithMultipleReasons, 144);
   assert.equal(summary.reasonCountsMatchInput, false);
   assert.equal(summary.newcomerCount, 102);
@@ -208,8 +208,8 @@ test('the published history and the restored source stay unchanged through a rea
     assert.equal(row.text, published.value[index].text);
     assert.equal(row.userName, published.value[index].userName);
     assert.equal(row.createdAt, published.value[index].createdAt);
-    assert.equal(row.rulesetVersion, 6);
-    assert.equal(row.rulesetFingerprint, '7ad2e7d824c54efb198d');
+    assert.equal(row.rulesetVersion, 7);
+    assert.equal(row.rulesetFingerprint, '539e348bc6a694ec9f26');
     assert.equal(row.modelUsed, false);
   });
   const keptOrders = preview.preview.kept.map((row) => row.order);

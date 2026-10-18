@@ -229,7 +229,7 @@ test('reuses a stored judgment for the same post', async () => {
       },
     },
   });
-  assert.equal(RULESET_VERSION, 6);
+  assert.equal(RULESET_VERSION, 7);
   assert.equal(previousVersion.stats.reused, 0);
   assert.equal(previousVersion.stats.publish, 0);
   assert.equal(previousVersion.cache.rulesetVersion, RULESET_VERSION);
@@ -302,11 +302,25 @@ test('positive results and shared cheers publish, and explicit negatives stay ou
   );
   assert.equal(judgeTweet('谷端もあげて欲しい').reasons[0], 'not_focused');
   assert.equal(judgeTweet('谷端に活躍してほしい').verdict, 'publish');
+  assert.equal(judgeTweet('石黒素晴らしい投球してるやん あと谷端も本領発揮か？').verdict, 'publish');
+  assert.equal(judgeTweet('立石谷端岡城山田井坪嶋村 頑張ってくれよな').verdict, 'publish');
+  assert.equal(judgeTweet('立石谷端使って流れ変えて欲しいですね').reasons[0], 'not_focused');
+  assert.equal(judgeTweet('立石谷端岡城を一軍で経験させて育成の年にしてほしい').reasons[0], 'not_focused');
+  assert.equal(
+    judgeTweet('当時は谷端岡城より勝田を指名して欲しかったんだけど、今となってはみんな今の球団で頑張れよ').reasons[0],
+    'comparison',
+  );
+  assert.equal(judgeTweet('出て欲しいのに… 吉田マッチョ取りに行くしか。').reasons[0], 'irrelevant');
+  assert.equal(
+    judgeTweet('立石、嶋村、福島、谷端はこーゆーピリついた試合に出て欲しいのに… 吉田マッチョ取りに行くしか。').reasons[0],
+    'not_focused',
+  );
+  assert.equal(judgeTweet('岡城谷端嶋村はコンスタントに打ってて偉いけど町田えげつい程打ってて何？？').verdict, 'publish');
   assert.equal(
     judgeTweet('谷端くんの接触シーンで、脳震盪の可能性のある人に「がんばれ」コールは厳禁って周知されたほうがよくないか').reasons[0],
     'quoted',
   );
-  assert.equal(RULESET_FINGERPRINT, '7ad2e7d824c54efb198d');
+  assert.equal(RULESET_FINGERPRINT, '539e348bc6a694ec9f26');
 });
 
 test('keeps one public copy when the normalized text is identical', async () => {
