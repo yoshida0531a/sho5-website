@@ -1,6 +1,8 @@
 name: Preview YouTube public rejudge
 
-# sho5-website の既存 Secret で、sho5-script の再判定スクリプトをプレビューする。
+# sho5-website の既存 Secret で、sho5-script f615c9f の再判定スクリプトをプレビューする。
+# 公開リポジトリの GITHUB_TOKEN では非公開の sho5-script を checkout できない。
+# tools/youtube-rejudge はそのコミットの対象ファイルとバイト列が同じで、実行前に照合する。
 # --apply は付けない。公開JSONも feed-status.json も commit しない。
 on:
   push:
@@ -31,6 +33,11 @@ jobs:
           fi
           echo "YOUTUBE_API_KEY is available to this job. The value is not printed."
 
+      - name: Checkout this preview
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
       - name: Checkout public YouTube inputs
         uses: actions/checkout@v4
         with:
@@ -42,14 +49,6 @@ jobs:
             data/feed-status.json
           sparse-checkout-cone-mode: false
 
-      - name: Checkout rejudge script
-        uses: actions/checkout@v4
-        with:
-          repository: yoshida0531a/sho5-script
-          ref: f615c9f20a6c76be0b5a9f72de8b44820d29ea2b
-          path: rejudge-script
-          persist-credentials: false
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -59,7 +58,6 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           WEBSITE_SHA: bb20f8bf760884a63c0ef176e7b95ebc1e54aa3a
-          SCRIPT_SHA: f615c9f20a6c76be0b5a9f72de8b44820d29ea2b
         run: |
           set -euo pipefail
           if [ -z "${YOUTUBE_API_KEY}" ]; then
@@ -69,13 +67,25 @@ jobs:
           echo "YOUTUBE_API_KEY is available to this job. The value is not printed."
 
           website_sha="$(git -C website-inputs rev-parse HEAD)"
-          script_sha="$(git -C rejudge-script rev-parse HEAD)"
           echo "website inputs ${website_sha}"
-          echo "rejudge script ${script_sha}"
-          if [ "${website_sha}" != "${WEBSITE_SHA}" ] || [ "${script_sha}" != "${SCRIPT_SHA}" ]; then
-            echo "Unexpected revision. The API was not called."
+          if [ "${website_sha}" != "${WEBSITE_SHA}" ]; then
+            echo "Unexpected website revision. The API was not called."
             exit 1
           fi
+          check_script() {
+            actual="$(sha256sum "$2" | awk '{print $1}')"
+            if [ "${actual}" != "$1" ]; then
+              echo "Rejudge script does not match f615c9f. The API was not called."
+              exit 1
+            fi
+          }
+          check_script 5aa656034a92e5d9ba396d1bfa51a7aa2e6021c1e096c54355303b214288e1d8 tools/youtube-rejudge/package.json
+          check_script deac0bda9926556fea73d2df78a4a5beee22c71b8cb13066ace3d7c0d70910d4 tools/youtube-rejudge/rejudge-youtube-public.js
+          check_script a966881c68631734c16fee014fedee86dfaa1b36fa9365b1cfa5795af2e62c27 tools/youtube-rejudge/youtube-quality.js
+          check_script 44fda1ce0dbbff567a44c5ac550d8fcf4f51c659364e66dca3f921ac2adebf0e tools/youtube-rejudge/safe-url.js
+          check_script bb707f790e8ec39524ff43d3034e0bf60b0eafbee19d56108f77ec9636990880 tools/youtube-rejudge/feed-status.js
+          check_script 56f14886a2cbfea066f04c88b1c42d285d7c60ca4d5a39806ee59f37f30def6a tools/youtube-rejudge/sha256.js
+          echo "rejudge script matches f615c9f20a6c76be0b5a9f72de8b44820d29ea2b"
 
           mkdir -p "${RUNNER_TEMP}/yt-in" "${RUNNER_TEMP}/yt-out" preview-out
           cp website-inputs/data/youtube-public.json "${RUNNER_TEMP}/yt-in/youtube-public.json"
@@ -86,7 +96,7 @@ jobs:
           node --input-type=module -e 'import fs from "node:fs"; const videos = JSON.parse(fs.readFileSync(process.argv[1], "utf8")); const status = JSON.parse(fs.readFileSync(process.argv[2], "utf8")); const length = Array.isArray(videos) ? videos.length : -1; const summary = { publicVideos: length, youtubeCount: status?.youtube?.count ?? null, xCount: status?.x?.count ?? null, xHistoryCount: status?.x?.historyCount ?? null }; console.log(JSON.stringify(summary)); if (length !== 472 || status?.youtube?.count !== 472) process.exit(1);' "${RUNNER_TEMP}/yt-in/youtube-public.json" "${RUNNER_TEMP}/yt-in/feed-status.json"
 
           set +e
-          node rejudge-script/line-notifier/rejudge-youtube-public.js \
+          node tools/youtube-rejudge/rejudge-youtube-public.js \
             --public "${RUNNER_TEMP}/yt-in/youtube-public.json" \
             --status "${RUNNER_TEMP}/yt-in/feed-status.json" \
             --preview "${RUNNER_TEMP}/yt-out/preview.json" \
