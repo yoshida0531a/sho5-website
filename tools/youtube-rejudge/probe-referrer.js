@@ -2,9 +2,9 @@ import fs from 'node:fs';
 import { extractYouTubeId } from './safe-url.js';
 
 const key = process.env.YOUTUBE_API_KEY || '';
-const videos = JSON.parse(fs.readFileSync(process.argv[1], 'utf8'));
+const videos = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
 const id = extractYouTubeId(videos[0]?.url);
-const outPath = process.argv[2];
+const outPath = process.argv[3];
 if (!id || !key || !outPath) process.exit(4);
 
 const referrers = [
