@@ -21,6 +21,16 @@ jobs:
       cancel-in-progress: false
 
     steps:
+      - name: Confirm the existing YouTube secret is present
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          if [ -z "${YOUTUBE_API_KEY}" ]; then
+            echo "YOUTUBE_API_KEY is not set for sho5-website. The API was not called."
+            exit 2
+          fi
+          echo "YOUTUBE_API_KEY is available to this job. The value is not printed."
+
       - name: Checkout public YouTube inputs
         uses: actions/checkout@v4
         with:
