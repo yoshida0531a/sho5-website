@@ -10,6 +10,7 @@ on:
       - cursor/youtube-rejudge-preview-8bd1
     paths:
       - .github/workflows/youtube-rejudge-preview.yml
+      - tools/youtube-rejudge/**
 
 permissions:
   contents: read
