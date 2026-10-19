@@ -90,6 +90,7 @@ jobs:
           mkdir -p "${RUNNER_TEMP}/yt-in" "${RUNNER_TEMP}/yt-out" preview-out
           cp website-inputs/data/youtube-public.json "${RUNNER_TEMP}/yt-in/youtube-public.json"
           cp website-inputs/data/feed-status.json "${RUNNER_TEMP}/yt-in/feed-status.json"
+          node --input-type=module -e 'import fs from "node:fs"; import { extractYouTubeId } from "./tools/youtube-rejudge/safe-url.js"; const key = process.env.YOUTUBE_API_KEY || ""; const videos = JSON.parse(fs.readFileSync(process.argv[1], "utf8")); const id = extractYouTubeId(videos[0]?.url); if (!id) process.exit(4); const url = new URL("https://www.googleapis.com/youtube/v3/videos"); url.searchParams.set("part", "snippet"); url.searchParams.set("id", id); url.searchParams.set("fields", "items(id)"); url.searchParams.set("key", key); const response = await fetch(url); let body = null; try { body = await response.json(); } catch { body = null; } let message = String(body?.error?.message || ""); if (key) message = message.split(key).join("REDACTED"); message = message.replace(/key=[^&\s]+/g, "key=REDACTED"); console.log(JSON.stringify({ status: response.status, reason: body?.error?.errors?.[0]?.reason || "", message })); if (!response.ok) process.exit(4);' "${RUNNER_TEMP}/yt-in/youtube-public.json"
           public_before="$(sha256sum "${RUNNER_TEMP}/yt-in/youtube-public.json" | awk '{print $1}')"
           status_before="$(sha256sum "${RUNNER_TEMP}/yt-in/feed-status.json" | awk '{print $1}')"
 
