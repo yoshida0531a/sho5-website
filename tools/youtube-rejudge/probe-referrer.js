@@ -12,6 +12,10 @@ const referrers = [
   'https://www.sho5.org/',
   'https://yoshida0531a.github.io/',
   'https://yoshida0531a.github.io/sho5-website/',
+  'http://localhost:3000/',
+  'http://localhost/',
+  'https://sho5-meter.chjqnfv62h.workers.dev/',
+  'https://photo-gallery-worker.chjqnfv62h.workers.dev/',
 ];
 
 function redact(text) {
