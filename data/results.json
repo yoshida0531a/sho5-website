@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-10-19T20:32:47.452Z",
+  "fetchedAt": "2026-10-20T05:41:11.944Z",
   "lastUpdated": "2026-10-20",
   "farmSummary": {
     "raw": {
@@ -65,6 +65,21 @@
     ]
   },
   "recentGames": [
+    {
+      "date": "10/20",
+      "gameKind": "フェニックスリーグ",
+      "opponent": "ハヤテ",
+      "atBats": "0",
+      "hits": "0",
+      "homeRuns": "0",
+      "rbi": "0",
+      "runs": "0",
+      "strikeouts": "0",
+      "walks": "0",
+      "hitByPitch": "0",
+      "battingResults": "-",
+      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051606/top"
+    },
     {
       "date": "10/19",
       "gameKind": "フェニックスリーグ",
@@ -139,21 +154,6 @@
       "hitByPitch": "0",
       "battingResults": "二ゴロ、中安、四球、左安",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051566/top"
-    },
-    {
-      "date": "10/13",
-      "gameKind": "フェニックスリーグ",
-      "opponent": "オイシックス",
-      "atBats": "2",
-      "hits": "1",
-      "homeRuns": "0",
-      "rbi": "2",
-      "runs": "2",
-      "strikeouts": "0",
-      "walks": "1",
-      "hitByPitch": "0",
-      "battingResults": "左飛、左安、右犠飛、四球",
-      "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051551/top"
     }
   ]
 }
