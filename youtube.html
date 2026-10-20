@@ -12,6 +12,7 @@
       margin: 0; padding: 0;
       font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, 'Yu Gothic', YuGothic, sans-serif;
       background-color: white; color: black;
+      overflow-x: hidden;
     }
     .top-link {
       position: fixed;
@@ -92,6 +93,20 @@
     .scroll-to-top:hover {
       background-color: rgba(0, 0, 0, 0.9);
     }
+    .video-item, .video-item p { overflow-wrap: anywhere; }
+    #past-posts-btn {
+      display: block;
+      margin: 20px auto;
+      padding: 12px 24px;
+      background-color: transparent;
+      color: #000;
+      border: 2px solid #000;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      max-width: 100%;
+    }
+    #past-posts-btn.hidden { display: none; }
     footer { text-align: center; font-size: 12px; margin: 20px 0; }
   </style>
 </head>
@@ -100,65 +115,107 @@
   <header>YouTube Updates</header>
   <section class="video-feed">
     <input type="text" id="search" placeholder="Search videos...">
-    <div id="video-container">
-      <!-- Videos are loaded from data/youtube-public.json -->
-    </div>
+    <div id="video-container"></div>
+    <button id="past-posts-btn" type="button">過去の動画を見る</button>
+    <div id="past-container"></div>
   </section>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <button class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="トップに戻る">↑</button>
   <script type="module">
     import { parseCustomDate, formatVideoDate, sortNewest, videoMatches } from './js/feed-behavior.js';
     import { renderVideo } from './js/feed-render.js';
-    import { loadPublicFeed } from './js/public-feed.js';
+    import { loadArchiveFeed, loadTodayFeed, once } from './js/daily-feed.js';
 
     const searchInput = document.getElementById('search');
     const videoContainer = document.getElementById('video-container');
-    let records = [];
+    const pastContainer = document.getElementById('past-container');
+    const pastButton = document.getElementById('past-posts-btn');
+    let todayItems = [];
+    let pastItems = [];
+    let pastLoaded = false;
+    let todayMessage = '';
+    let pastError = '';
 
-    function showMessage(message) {
+    function renderItem(video) {
+      const parsed = parseCustomDate(video.publishedAt) || (Date.parse(video.publishedAt) ? new Date(video.publishedAt) : null);
+      return renderVideo(document, {
+        title: video.title,
+        description: video.description,
+        url: video.url,
+        publishedAt: video.publishedAt,
+        dateLabel: formatVideoDate(parsed),
+      });
+    }
+
+    function ordered(items) {
+      return sortNewest(items, (video) => parseCustomDate(video.publishedAt) || new Date(video.publishedAt || 0));
+    }
+
+    function showStatus(message) {
       videoContainer.replaceChildren();
       const paragraph = document.createElement('p');
+      paragraph.id = 'today-message';
       paragraph.textContent = message;
       videoContainer.appendChild(paragraph);
     }
 
-    function updateVisibility() {
-      records.forEach((record) => {
-        record.node.style.display = videoMatches(record, searchInput.value) ? 'block' : 'none';
-      });
+    function render() {
+      const query = searchInput.value;
+      const today = ordered(todayItems).filter((video) => videoMatches({
+        title: video.title,
+        description: video.description,
+      }, query));
+      const past = pastLoaded ? ordered(pastItems).filter((video) => videoMatches({
+        title: video.title,
+        description: video.description,
+      }, query)) : [];
+      videoContainer.replaceChildren();
+      pastContainer.replaceChildren();
+      if (!query.trim() && today.length === 0) showStatus(todayMessage);
+      else if (query.trim() && today.length === 0 && past.length === 0) showStatus('一致する動画はありません。');
+      else today.forEach((video) => videoContainer.appendChild(renderItem(video)));
+      past.forEach((video) => pastContainer.appendChild(renderItem(video)));
+      if (pastError) {
+        const paragraph = document.createElement('p');
+        paragraph.textContent = pastError;
+        pastContainer.appendChild(paragraph);
+      }
+      if (pastLoaded) pastButton.classList.add('hidden');
     }
 
-    loadPublicFeed(fetch, 'data/youtube-public.json', 'data/feed-status.json', 'youtube')
-      .then((result) => {
-        if (result.kind !== 'ready') {
-          showMessage(result.message);
-          return;
-        }
-        const sorted = sortNewest(result.items, (video) => parseCustomDate(video.publishedAt));
-        sorted.forEach((video) => {
-          const parsed = parseCustomDate(video.publishedAt);
-          const node = renderVideo(document, {
-            title: video.title,
-            description: video.description,
-            url: video.url,
-            publishedAt: video.publishedAt,
-            dateLabel: formatVideoDate(parsed),
-          });
-          records.push({
-            node,
-            title: node.getAttribute('data-title'),
-            description: node.getAttribute('data-description'),
-          });
-        });
-        if (records.length === 0) {
-          showMessage('いま公開できる動画はありません。');
-          return;
-        }
-        videoContainer.replaceChildren();
-        records.forEach((record) => videoContainer.appendChild(record.node));
-      });
+    const loadPast = once(() => loadArchiveFeed(fetch, 'youtube', new Date()));
 
-    searchInput.addEventListener('input', updateVisibility);
+    async function ensurePast() {
+      if (pastLoaded) return;
+      const result = await loadPast();
+      if (pastLoaded) return;
+      if (result.kind !== 'ready') {
+        pastError = result.message;
+        pastLoaded = true;
+        return;
+      }
+      const todayIds = new Set(todayItems.map((video) => (video.url || '').match(/[?&]v=([A-Za-z0-9_-]{11})/)?.[1]).filter(Boolean));
+      pastItems = result.items.filter((video) => {
+        const id = (video.url || '').match(/[?&]v=([A-Za-z0-9_-]{11})/)?.[1];
+        return !id || !todayIds.has(id);
+      });
+      pastLoaded = true;
+    }
+
+    loadTodayFeed(fetch, 'youtube', new Date()).then((result) => {
+      if (result.kind === 'ready') todayItems = result.items;
+      else todayMessage = result.message;
+      render();
+    });
+
+    searchInput.addEventListener('input', async () => {
+      if (searchInput.value.trim() && !pastLoaded) await ensurePast();
+      render();
+    });
+    pastButton.addEventListener('click', async () => {
+      await ensurePast();
+      render();
+    });
   </script>
 </body>
 </html>

@@ -12,6 +12,7 @@
       margin: 0; padding: 0;
       font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, 'Yu Gothic', YuGothic, sans-serif;
       background-color: white; color: black;
+      overflow-x: hidden;
     }
     .top-link {
       position: fixed;
@@ -51,6 +52,7 @@
     .tweet-item .date { margin: 5px 0; font-size: 12px; color: #666; }
     .tweet-item .tweet-text {
       margin: 10px 0; font-size: 14px; line-height: 1.5;
+      overflow-wrap: anywhere;
     }
     .tweet-link {
       display: inline-block;
@@ -70,7 +72,7 @@
       background-color: #FFD700;
       color: #000;
     }
-    #more-posts-btn {
+    #past-posts-btn {
       display: block;
       margin: 20px auto;
       padding: 12px 24px;
@@ -81,15 +83,16 @@
       border-radius: 5px;
       font-size: 16px;
       cursor: pointer;
+      max-width: 100%;
       transition: all 0.3s ease;
     }
-    #more-posts-btn:hover,
-    #more-posts-btn:active,
-    #more-posts-btn:focus {
+    #past-posts-btn:hover,
+    #past-posts-btn:active,
+    #past-posts-btn:focus {
       background-color: #FFD700;
       color: #000;
     }
-    #more-posts-btn.hidden {
+    #past-posts-btn.hidden {
       display: none;
     }
     .scroll-to-top {
@@ -121,87 +124,109 @@
   <header>X Updates</header>
   <section class="tweet-feed">
     <input type="text" id="search" placeholder="Search tweets...">
-    <div id="tweet-container">
-      <!-- Tweets are loaded from data/x-public.json -->
-    </div>
-    <button id="more-posts-btn">さらに過去の投稿を見る</button>
+    <div id="tweet-container"></div>
+    <button id="past-posts-btn" type="button">過去の投稿を見る</button>
+    <div id="past-container"></div>
   </section>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <button class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="トップに戻る">↑</button>
   <script type="module">
-    import { snowflakeToDate, formatJaDate, filterFeed } from './js/feed-behavior.js';
+    import { snowflakeToDate, formatJaDate } from './js/feed-behavior.js';
     import { renderTweet } from './js/feed-render.js';
-    import { loadPublicFeed } from './js/public-feed.js';
+    import { loadArchiveFeed, loadTodayFeed, once } from './js/daily-feed.js';
 
     const searchInput = document.getElementById('search');
     const tweetContainer = document.getElementById('tweet-container');
-    const morePostsBtn = document.getElementById('more-posts-btn');
-    let records = [];
-    let currentWeeksToShow = 0;
+    const pastContainer = document.getElementById('past-container');
+    const pastButton = document.getElementById('past-posts-btn');
+    let todayItems = [];
+    let pastItems = [];
+    let pastLoaded = false;
+    let todayMessage = '';
+    let pastError = '';
 
-    function showMessage(message) {
+    function tweetDate(tweet) {
+      const match = typeof tweet.tweetUrl === 'string' && tweet.tweetUrl.match(/status\/(\d+)/);
+      return match ? snowflakeToDate(match[1]) : new Date(0);
+    }
+
+    function renderTweetItem(tweet) {
+      const date = tweetDate(tweet);
+      return renderTweet(document, {
+        userName: tweet.userName,
+        text: tweet.text,
+        tweetUrl: tweet.tweetUrl,
+        dateIso: date.toISOString(),
+        dateLabel: formatJaDate(date),
+      });
+    }
+
+    function matches(tweet, query) {
+      return `${tweet.userName || ''} ${tweet.text || ''}`.toLowerCase().includes(query);
+    }
+
+    function sorted(items) {
+      return items.slice().sort((a, b) => tweetDate(b) - tweetDate(a));
+    }
+
+    function showStatus(message) {
       tweetContainer.replaceChildren();
       const paragraph = document.createElement('p');
+      paragraph.id = 'today-message';
       paragraph.textContent = message;
       tweetContainer.appendChild(paragraph);
-      morePostsBtn.classList.add('hidden');
     }
 
-    function updateVisibility() {
-      if (records.length === 0) {
-        morePostsBtn.classList.add('hidden');
+    function render() {
+      const query = searchInput.value.trim().toLowerCase();
+      const today = sorted(todayItems).filter((tweet) => !query || matches(tweet, query));
+      const past = pastLoaded ? sorted(pastItems).filter((tweet) => !query || matches(tweet, query)) : [];
+      tweetContainer.replaceChildren();
+      pastContainer.replaceChildren();
+      if (!query && today.length === 0) showStatus(todayMessage);
+      else if (query && today.length === 0 && past.length === 0) showStatus('一致する投稿はありません。');
+      else today.forEach((tweet) => tweetContainer.appendChild(renderTweetItem(tweet)));
+      past.forEach((tweet) => pastContainer.appendChild(renderTweetItem(tweet)));
+      if (pastError) {
+        const paragraph = document.createElement('p');
+        paragraph.textContent = pastError;
+        pastContainer.appendChild(paragraph);
+      }
+      if (pastLoaded) pastButton.classList.add('hidden');
+    }
+
+    const loadPast = once(() => loadArchiveFeed(fetch, 'x', new Date()));
+
+    async function ensurePast() {
+      if (pastLoaded) return;
+      const result = await loadPast();
+      if (pastLoaded) return;
+      if (result.kind !== 'ready') {
+        pastError = result.message;
+        pastLoaded = true;
         return;
       }
-      const result = filterFeed(records, {
-        searchQuery: searchInput.value,
-        weeksToShow: currentWeeksToShow,
-        mostRecentDate: records[0].date,
+      const todayIds = new Set(todayItems.map((tweet) => (tweet.tweetUrl || '').match(/status\/(\d+)/)?.[1]).filter(Boolean));
+      pastItems = result.items.filter((tweet) => {
+        const id = (tweet.tweetUrl || '').match(/status\/(\d+)/)?.[1];
+        return !id || !todayIds.has(id);
       });
-      records.forEach((record, index) => {
-        record.node.style.display = result.visible[index] ? 'block' : 'none';
-      });
-      if (result.hasMore) morePostsBtn.classList.remove('hidden');
-      else morePostsBtn.classList.add('hidden');
+      pastLoaded = true;
     }
 
-    loadPublicFeed(fetch, 'data/x-public.json', 'data/feed-status.json', 'x')
-      .then((result) => {
-        if (result.kind !== 'ready') {
-          showMessage(result.message);
-          return;
-        }
-        result.items.forEach((tweet) => {
-          const match = typeof tweet.tweetUrl === 'string' && tweet.tweetUrl.match(/status\/(\d+)/);
-          if (!match) return;
-          const tweetDate = snowflakeToDate(match[1]);
-          const node = renderTweet(document, {
-            userName: tweet.userName,
-            text: tweet.text,
-            tweetUrl: tweet.tweetUrl,
-            dateIso: tweetDate.toISOString(),
-            dateLabel: formatJaDate(tweetDate),
-          });
-          records.push({
-            node,
-            username: node.getAttribute('data-username'),
-            text: node.getAttribute('data-text'),
-            date: tweetDate,
-          });
-        });
-        records.sort((a, b) => b.date - a.date);
-        if (records.length === 0) {
-          showMessage('いま公開できる投稿はありません。');
-          return;
-        }
-        tweetContainer.replaceChildren();
-        records.forEach((record) => tweetContainer.appendChild(record.node));
-        updateVisibility();
-      });
+    loadTodayFeed(fetch, 'x', new Date()).then((result) => {
+      if (result.kind === 'ready') todayItems = result.items;
+      else todayMessage = result.message;
+      render();
+    });
 
-    searchInput.addEventListener('input', updateVisibility);
-    morePostsBtn.addEventListener('click', () => {
-      currentWeeksToShow += 1;
-      updateVisibility();
+    searchInput.addEventListener('input', async () => {
+      if (searchInput.value.trim() && !pastLoaded) await ensurePast();
+      render();
+    });
+    pastButton.addEventListener('click', async () => {
+      await ensurePast();
+      render();
     });
   </script>
 </body>

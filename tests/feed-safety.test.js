@@ -91,10 +91,14 @@ test('pages read only the curated files and do not assign innerHTML', () => {
   const youtube = fs.readFileSync(new URL('../youtube.html', import.meta.url), 'utf8');
   const workflow = fs.readFileSync(new URL('../.github/workflows/curate-feeds.yml', import.meta.url), 'utf8');
 
-  assert.match(x, /loadPublicFeed\(fetch, 'data\/x-public\.json', 'data\/feed-status\.json', 'x'\)/);
-  assert.match(youtube, /loadPublicFeed\(fetch, 'data\/youtube-public\.json', 'data\/feed-status\.json', 'youtube'\)/);
-  assert.doesNotMatch(x, /fetch\(\s*['"]x-data\.txt['"]\s*\)/);
-  assert.doesNotMatch(youtube, /fetch\(\s*['"]YouTube-data\.txt['"]\s*\)/);
+  assert.match(x, /loadTodayFeed\(fetch, 'x', new Date\(\)\)/);
+  assert.match(x, /loadArchiveFeed\(fetch, 'x', new Date\(\)\)/);
+  assert.match(youtube, /loadTodayFeed\(fetch, 'youtube', new Date\(\)\)/);
+  assert.match(youtube, /loadArchiveFeed\(fetch, 'youtube', new Date\(\)\)/);
+  assert.doesNotMatch(x, /x-data\.txt/);
+  assert.doesNotMatch(youtube, /YouTube-data\.txt/);
+  assert.doesNotMatch(x, /loadPublicFeed/);
+  assert.doesNotMatch(youtube, /loadPublicFeed/);
   assert.doesNotMatch(x, /innerHTML/);
   assert.doesNotMatch(youtube, /innerHTML/);
   assert.doesNotMatch(workflow, /git add[^\n]*x-data\.txt/);
