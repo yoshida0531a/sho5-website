@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { TODAY_EMPTY, initialRequest, jstDateKey, loadArchiveFeed, loadTodayFeed, once } from '../js/daily-feed.js';
+import { ARCHIVE_FETCH_CONCURRENCY, TODAY_EMPTY, filterByQuery, initialRequest, jstDateKey, loadArchiveFeed, loadTodayFeed, once } from '../js/daily-feed.js';
 
 function mockFetch(routes) {
   const calls = [];
@@ -101,6 +101,68 @@ test('overlapping searches share one archive load', async () => {
   assert.equal(first, 1);
   assert.equal(second, 1);
   assert.equal(calls, 1);
+});
+
+test('search across days keeps archive order and does not load raw files', async () => {
+  const routes = {
+    'data/x-public.json': {
+      status: 200,
+      body: JSON.stringify([{ tweetUrl: 'https://x.com/fan/status/10', text: '公開の谷端', userName: 'old' }]),
+    },
+    'data/x-daily/index.json': {
+      status: 200,
+      body: JSON.stringify({ version: 1, dates: ['2026-10-18', '2026-10-19', '2026-10-20'] }),
+    },
+    'data/x-daily/2026-10-18.json': {
+      status: 200,
+      body: JSON.stringify([{ tweetUrl: 'https://x.com/fan/status/18', text: '十八日の谷端', userName: 'day' }]),
+    },
+    'data/x-daily/2026-10-19.json': {
+      status: 200,
+      body: JSON.stringify([{ tweetUrl: 'https://x.com/fan/status/19', text: '別の話題', userName: 'day' }]),
+    },
+    'data/x-daily/2026-10-20.json': { status: 404, body: '' },
+  };
+  const past = mockFetch(routes);
+  const now = new Date('2026-10-20T01:00:00.000Z');
+  const today = await loadTodayFeed(past.impl, 'x', now);
+  assert.deepEqual(today.requests, ['data/x-daily/2026-10-20.json']);
+  const result = await loadArchiveFeed(past.impl, 'x', now);
+  const found = filterByQuery('x', result.items, '谷端');
+  assert.deepEqual(found.map((item) => item.text), ['公開の谷端', '十八日の谷端']);
+  assert.equal(past.calls.includes('x-data.txt'), false);
+  assert.equal(past.calls.includes('data/x-daily/2026-10-20.json'), true);
+  assert.equal(past.calls.filter((url) => url === 'data/x-daily/2026-10-20.json').length, 1);
+});
+
+test('older day files load together without waiting for every file in series', async () => {
+  const dates = ['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-05', '2026-10-06'];
+  let inFlight = 0;
+  let maxInFlight = 0;
+  const calls = [];
+  const fetchImpl = async (url) => {
+    calls.push(url);
+    if (String(url).includes('x-data.txt')) throw new Error('blocked');
+    if (url === 'data/x-public.json') {
+      return { status: 200, async text() { return JSON.stringify([{ tweetUrl: 'https://x.com/fan/status/1', text: '履歴', userName: 'old' }]); } };
+    }
+    if (url === 'data/x-daily/index.json') {
+      return { status: 200, async text() { return JSON.stringify({ version: 1, dates }); } };
+    }
+    inFlight += 1;
+    maxInFlight = Math.max(maxInFlight, inFlight);
+    await new Promise((resolve) => setTimeout(resolve, 30));
+    inFlight -= 1;
+    const day = url.match(/(\d{4}-\d{2}-\d{2})/)[1];
+    return { status: 200, async text() { return JSON.stringify([{ tweetUrl: `https://x.com/fan/status/${day.replaceAll('-', '')}`, text: day, userName: 'day' }]); } };
+  };
+  const started = performance.now();
+  const result = await loadArchiveFeed(fetchImpl, 'x', new Date('2026-10-20T00:00:00.000Z'));
+  const elapsed = performance.now() - started;
+  assert.deepEqual(result.items.map((item) => item.text), ['履歴', ...dates]);
+  assert.ok(maxInFlight > 1 && maxInFlight <= ARCHIVE_FETCH_CONCURRENCY);
+  assert.ok(elapsed < dates.length * 30, `elapsed ${elapsed}`);
+  assert.equal(calls.includes('x-data.txt'), false);
 });
 
 test('a corrupt archive is not replaced with raw posts', async () => {

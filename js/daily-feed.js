@@ -5,7 +5,9 @@ export const TODAY_EMPTY = {
   youtube: '今日の動画はまだありません',
 };
 
-const BLOCKED = ['x-data.txt', 'YouTube-data.txt', 'x-unjudged', 'incremental-feed.json'];
+const BLOCKED = ['x-data.txt', 'YouTube-data.txt', 'x-unjudged', 'incremental-feed.json', 'incremental-state'];
+
+export const ARCHIVE_FETCH_CONCURRENCY = 4;
 
 export function jstDateKey(date = new Date()) {
   const value = date instanceof Date ? date : new Date(date);
@@ -97,6 +99,31 @@ export async function loadTodayFeed(fetchImpl, feed, now = new Date()) {
   return { kind: 'ready', items: response.data, message: '', requests: [url] };
 }
 
+export function filterByQuery(feed, items, query) {
+  const needle = String(query || '').trim().toLowerCase();
+  if (!needle) return items;
+  return items.filter((item) => {
+    const haystack = feed === 'youtube'
+      ? `${item?.title || ''} ${item?.description || ''}`
+      : `${item?.userName || ''} ${item?.text || ''}`;
+    return haystack.toLowerCase().includes(needle);
+  });
+}
+
+export async function mapInOrder(items, limit, mapper) {
+  const results = new Array(items.length);
+  let cursor = 0;
+  const workers = Array.from({ length: Math.min(Math.max(limit, 1), items.length) }, async () => {
+    while (cursor < items.length) {
+      const index = cursor;
+      cursor += 1;
+      results[index] = await mapper(items[index], index);
+    }
+  });
+  await Promise.all(workers);
+  return results;
+}
+
 export function mergePublic(feed, groups) {
   const seen = new Set();
   const items = [];
@@ -131,11 +158,13 @@ export async function loadArchiveFeed(fetchImpl, feed, now = new Date()) {
   }
   const dates = (indexResult.data?.dates || []).filter((date) => date !== today);
   const groups = [Array.isArray(archiveResult.data) ? archiveResult.data : []];
-  for (const date of dates) {
-    const url = paths.day(date);
-    requests.push(url);
-    const day = await readJson(fetchImpl, url);
-    if (day.failed) return { kind: 'server', items: [], message: messageFor(feed, 'server'), requests };
+  const dayUrls = dates.map((date) => paths.day(date));
+  requests.push(...dayUrls);
+  const days = await mapInOrder(dayUrls, ARCHIVE_FETCH_CONCURRENCY, (url) => readJson(fetchImpl, url));
+  for (const day of days) {
+    if (day.failed || day.network) {
+      return { kind: day.network ? 'network' : 'server', items: [], message: messageFor(feed, day.network ? 'network' : 'server'), requests };
+    }
     if (day.corrupt || (day.status !== 404 && !Array.isArray(day.data))) {
       return { kind: 'corrupt', items: [], message: messageFor(feed, 'corrupt'), requests };
     }

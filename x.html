@@ -133,7 +133,7 @@
   <script type="module">
     import { snowflakeToDate, formatJaDate } from './js/feed-behavior.js';
     import { renderTweet } from './js/feed-render.js';
-    import { loadArchiveFeed, loadTodayFeed, once } from './js/daily-feed.js';
+    import { filterByQuery, loadArchiveFeed, loadTodayFeed, once } from './js/daily-feed.js';
 
     const searchInput = document.getElementById('search');
     const tweetContainer = document.getElementById('tweet-container');
@@ -161,10 +161,6 @@
       });
     }
 
-    function matches(tweet, query) {
-      return `${tweet.userName || ''} ${tweet.text || ''}`.toLowerCase().includes(query);
-    }
-
     function sorted(items) {
       return items.slice().sort((a, b) => tweetDate(b) - tweetDate(a));
     }
@@ -179,8 +175,8 @@
 
     function render() {
       const query = searchInput.value.trim().toLowerCase();
-      const today = sorted(todayItems).filter((tweet) => !query || matches(tweet, query));
-      const past = pastLoaded ? sorted(pastItems).filter((tweet) => !query || matches(tweet, query)) : [];
+      const today = filterByQuery('x', sorted(todayItems), query);
+      const past = pastLoaded ? filterByQuery('x', sorted(pastItems), query) : [];
       tweetContainer.replaceChildren();
       pastContainer.replaceChildren();
       if (!query && today.length === 0) showStatus(todayMessage);
