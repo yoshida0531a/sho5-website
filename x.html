@@ -122,162 +122,85 @@
   <section class="tweet-feed">
     <input type="text" id="search" placeholder="Search tweets...">
     <div id="tweet-container">
-      <!-- Tweets will be loaded dynamically from x-data.txt -->
+      <!-- Tweets are loaded from data/x-public.json -->
     </div>
     <button id="more-posts-btn">さらに過去の投稿を見る</button>
   </section>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <button class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="トップに戻る">↑</button>
-  <script>
-    // Twitter Snowflake ID to Date converter
-    // Standard Twitter epoch (Nov 4, 2010 00:00:00 UTC)
-    const TWITTER_EPOCH = 1288834974657;
-    
-    function snowflakeToDate(snowflakeId) {
-      const id = BigInt(snowflakeId);
-      const timestamp = Number(id >> 22n) + TWITTER_EPOCH;
-      return new Date(timestamp);
-    }
-    
-    function formatDate(date) {
-      return date.toLocaleString('ja-JP', { 
-        year: 'numeric', 
-        month: '2-digit', 
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Asia/Tokyo'
-      });
-    }
-    
-    // Initialize
+  <script type="module">
+    import { snowflakeToDate, formatJaDate, filterFeed } from './js/feed-behavior.js';
+    import { renderTweet } from './js/feed-render.js';
+    import { loadPublicFeed } from './js/public-feed.js';
+
     const searchInput = document.getElementById('search');
     const tweetContainer = document.getElementById('tweet-container');
     const morePostsBtn = document.getElementById('more-posts-btn');
-    let tweetItems = [];
-    let sortedTweets = [];
-    
-    // Load tweets from x-data.txt
-    fetch('x-data.txt')
-      .then(response => response.json())
-      .then(data => {
-        // Create tweet elements from JSON data
-        data.forEach(tweet => {
-          const tweetDiv = document.createElement('div');
-          tweetDiv.className = 'tweet-item';
-          tweetDiv.setAttribute('data-username', tweet.userName);
-          tweetDiv.setAttribute('data-text', tweet.text);
-          
-          // Extract tweet ID from URL and calculate date
-          const match = tweet.tweetUrl.match(/status\/(\d+)/);
-          if (match) {
-            const tweetId = match[1];
-            const tweetDate = snowflakeToDate(tweetId);
-            tweetDiv.setAttribute('data-date', tweetDate.toISOString());
-            
-            tweetDiv.innerHTML = `
-              <h3><a href="${tweet.tweetUrl}" target="_blank">@${tweet.userName}</a></h3>
-              <p class="date">${formatDate(tweetDate)}</p>
-              <p class="tweet-text">${tweet.text}</p>
-              <a href="${tweet.tweetUrl}" target="_blank" class="tweet-link">Xで見る</a>
-            `;
-            
-            tweetItems.push(tweetDiv);
-          }
-        });
-        
-        // Sort tweets by date (newest first)
-        sortedTweets = tweetItems.slice().sort((a, b) => {
-          const dateA = new Date(a.getAttribute('data-date') || 0);
-          const dateB = new Date(b.getAttribute('data-date') || 0);
-          return dateB - dateA;
-        });
-        
-        // Add sorted tweets to container
-        sortedTweets.forEach(tweet => tweetContainer.appendChild(tweet));
-        
-        // Initialize pagination
-        initializePagination();
-      })
-      .catch(error => {
-        console.error('Error loading tweets:', error);
-        tweetContainer.innerHTML = '<p>ツイートの読み込みに失敗しました。</p>';
-      });
-    
-    // Pagination logic
-    const oneDayMs = 24 * 60 * 60 * 1000;
-    const oneWeekMs = 7 * oneDayMs;
-    let currentWeeksToShow = 0; // 0 = most recent day, 1 = 1 week, 2 = 2 weeks, etc.
-    let mostRecentDate = new Date();
-    
-    function initializePagination() {
-      // Find the most recent tweet date to use as reference
-      mostRecentDate = sortedTweets.length > 0 
-        ? new Date(sortedTweets[0].getAttribute('data-date'))
-        : new Date();
-      
-      // Initial display
-      updateVisibility();
+    let records = [];
+    let currentWeeksToShow = 0;
+
+    function showMessage(message) {
+      tweetContainer.replaceChildren();
+      const paragraph = document.createElement('p');
+      paragraph.textContent = message;
+      tweetContainer.appendChild(paragraph);
+      morePostsBtn.classList.add('hidden');
     }
-    
+
     function updateVisibility() {
-      const isSearching = searchInput.value.trim() !== '';
-      
-      if (isSearching) {
-        // When searching, show all matching tweets
-        const searchQuery = searchInput.value.trim().toLowerCase();
-        sortedTweets.forEach(item => {
-          const username = item.getAttribute('data-username');
-          const text = item.getAttribute('data-text');
-          const searchText = username + ' ' + text;
-          item.style.display = searchText.toLowerCase().includes(searchQuery) ? 'block' : 'none';
-        });
+      if (records.length === 0) {
         morePostsBtn.classList.add('hidden');
-      } else {
-        // When not searching, apply date-based pagination
-        const mostRecentDayStart = new Date(
-          mostRecentDate.getFullYear(), 
-          mostRecentDate.getMonth(), 
-          mostRecentDate.getDate()
-        );
-        
-        let cutoffDate;
-        
-        if (currentWeeksToShow === 0) {
-          // Show tweets from the most recent day and the previous day
-          cutoffDate = new Date(mostRecentDayStart.getTime() - oneDayMs);
-        } else {
-          // Show most recent day + N weeks back
-          cutoffDate = new Date(mostRecentDayStart.getTime() - (currentWeeksToShow * oneWeekMs));
-        }
-        
-        let hasMoreOldTweets = false;
-        
-        sortedTweets.forEach(item => {
-          const tweetDate = new Date(item.getAttribute('data-date'));
-          if (tweetDate >= cutoffDate) {
-            item.style.display = 'block';
-          } else {
-            item.style.display = 'none';
-            hasMoreOldTweets = true;
-          }
-        });
-        
-        // Show/hide "More Posts" button
-        if (hasMoreOldTweets) {
-          morePostsBtn.classList.remove('hidden');
-        } else {
-          morePostsBtn.classList.add('hidden');
-        }
+        return;
       }
+      const result = filterFeed(records, {
+        searchQuery: searchInput.value,
+        weeksToShow: currentWeeksToShow,
+        mostRecentDate: records[0].date,
+      });
+      records.forEach((record, index) => {
+        record.node.style.display = result.visible[index] ? 'block' : 'none';
+      });
+      if (result.hasMore) morePostsBtn.classList.remove('hidden');
+      else morePostsBtn.classList.add('hidden');
     }
-    
-    // Search functionality
+
+    loadPublicFeed(fetch, 'data/x-public.json', 'data/feed-status.json', 'x')
+      .then((result) => {
+        if (result.kind !== 'ready') {
+          showMessage(result.message);
+          return;
+        }
+        result.items.forEach((tweet) => {
+          const match = typeof tweet.tweetUrl === 'string' && tweet.tweetUrl.match(/status\/(\d+)/);
+          if (!match) return;
+          const tweetDate = snowflakeToDate(match[1]);
+          const node = renderTweet(document, {
+            userName: tweet.userName,
+            text: tweet.text,
+            tweetUrl: tweet.tweetUrl,
+            dateIso: tweetDate.toISOString(),
+            dateLabel: formatJaDate(tweetDate),
+          });
+          records.push({
+            node,
+            username: node.getAttribute('data-username'),
+            text: node.getAttribute('data-text'),
+            date: tweetDate,
+          });
+        });
+        records.sort((a, b) => b.date - a.date);
+        if (records.length === 0) {
+          showMessage('いま公開できる投稿はありません。');
+          return;
+        }
+        tweetContainer.replaceChildren();
+        records.forEach((record) => tweetContainer.appendChild(record.node));
+        updateVisibility();
+      });
+
     searchInput.addEventListener('input', updateVisibility);
-    
-    // More Posts button functionality
     morePostsBtn.addEventListener('click', () => {
-      currentWeeksToShow++;
+      currentWeeksToShow += 1;
       updateVisibility();
     });
   </script>

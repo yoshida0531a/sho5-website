@@ -81,6 +81,19 @@ test('merging origin/main keeps every current post once and in id order', () => 
   const sourceIds = new Set(source.map(statusId));
   const truncatedIds = new Set(truncated.map(statusId));
   const branchIds = new Set(tweets.map(statusId));
+  const mainAlreadyRestored = mainTweets.length >= source.length
+    && mainTweets.slice(0, source.length).every((row, index) => statusId(row) === statusId(source[index]));
+  if (mainAlreadyRestored) {
+    assertSamePosts(tweets, mainTweets, 'branch matches restored main');
+    assertSamePosts(tweets.slice(0, source.length), source, 'restored history');
+    assertSamePosts(
+      tweets.slice(source.length, source.length + truncated.length),
+      truncated,
+      'posts kept after the truncation',
+    );
+    assertUniqueAscending(tweets, 'restored main');
+    return;
+  }
 
   assert.equal(mainTweets.every((row) => !sourceIds.has(statusId(row))), true);
   assert.equal(truncated.every((row) => !sourceIds.has(statusId(row))), true);

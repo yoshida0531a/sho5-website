@@ -6,7 +6,11 @@
   "scripts": {
     "create-top-images": "node scripts/create-top-images.js",
     "optimize-top-images": "node scripts/optimize-top-images.js",
-    "filter-youtube": "node scripts/filter-youtube-by-subscribers.js"
+    "curate": "node scripts/curate-feeds.js",
+    "curate-x": "node scripts/curate-x.js",
+    "curate-youtube": "node scripts/curate-youtube.js",
+    "filter-youtube": "node scripts/curate-youtube.js",
+    "test": "node --test tests/*.test.js"
   },
   "keywords": [
     "baseball",
