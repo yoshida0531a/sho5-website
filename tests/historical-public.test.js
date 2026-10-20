@@ -254,15 +254,16 @@ test('the filtered public posts keep the original front and source order', () =>
   assert.equal(judgeTweet(rejected.text).verdict, 'reject');
   assert.equal(publicIds.includes(statusId(rejected.tweetUrl)), false);
 
-  assert.equal(videos.length, 472);
+  assert.equal(videos.length > 472, true);
   assert.equal(new Set(videos.map((video) => video.url)).size, videos.length);
   assert.equal(YOUTUBE_EXCLUDED_URLS.length, 180);
   assert.equal(new Set(YOUTUBE_EXCLUDED_URLS).size, YOUTUBE_EXCLUDED_URLS.length);
+  const historyVideos = videos.slice(0, 472);
   const excluded = new Set(YOUTUBE_EXCLUDED_URLS);
-  const sourceUrls = new Set(videos.map((video) => video.url));
+  const sourceUrls = new Set(historyVideos.map((video) => video.url));
   for (const url of excluded) assert.equal(sourceUrls.has(url), true, url);
-  const kept = videos.filter((video) => !excluded.has(video.url));
-  assert.equal(kept.length, videos.length - YOUTUBE_EXCLUDED_URLS.length);
+  const kept = historyVideos.filter((video) => !excluded.has(video.url));
+  assert.equal(kept.length, historyVideos.length - YOUTUBE_EXCLUDED_URLS.length);
   assert.equal(kept.length, 292);
   assert.equal(ytPublic.length, 292);
   assert.deepEqual(ytPublic, kept);
@@ -274,10 +275,11 @@ test('the filtered public posts keep the original front and source order', () =>
   assert.equal(status.x.state, 'published');
   assert.equal(status.x.count, 134);
   assert.equal(status.x.count, xPublic.length);
-  assert.equal(status.x.historyCount, sourceIds.length);
+  assert.equal(status.x.historyCount, 2669);
+  assert.equal(sourceIds.slice(0, status.x.historyCount).filter((id) => publicSet.has(id)).length, publicIds.length);
   assert.equal(status.youtube.state, 'published');
   assert.equal(status.youtube.count, 292);
   assert.equal(status.youtube.count, ytPublic.length);
   assert.equal(status.youtube.historyCount, 472);
-  assert.equal(status.youtube.historyCount, videos.length);
+  assert.equal(ytPublic.some((video) => video.url === videos[472].url), false);
 });

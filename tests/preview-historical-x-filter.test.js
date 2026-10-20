@@ -175,12 +175,18 @@ test('the published history and the restored source stay unchanged through a rea
   assert.equal(published.value.length, 134);
   const frontIds = published.value.slice(0, 51).map((tweet) => tweet.tweetUrl.match(/status\/(\d+)/)[1]);
   const frontSet = new Set(frontIds);
-  const bySourceId = new Map(branchSource.value.map((tweet) => [tweet.tweetUrl.match(/status\/(\d+)/)[1], tweet]));
+  const historySource = branchSource.value.slice(0, 2669);
+  assert.deepEqual(
+    historySource.map((tweet) => tweet.tweetUrl),
+    source.slice(0, 2669).map((tweet) => tweet.tweetUrl),
+  );
+  const bySourceId = new Map(historySource.map((tweet) => [tweet.tweetUrl.match(/status\/(\d+)/)[1], tweet]));
   const historical = [
     ...frontIds.map((id) => bySourceId.get(id)),
-    ...branchSource.value.filter((tweet) => !frontSet.has(tweet.tweetUrl.match(/status\/(\d+)/)[1])),
+    ...historySource.filter((tweet) => !frontSet.has(tweet.tweetUrl.match(/status\/(\d+)/)[1])),
   ];
   assert.equal(historical.length, 2669);
+  for (const id of frontIds) assert.equal(Boolean(bySourceId.get(id)), true);
   const preview = await previewHistoricalX(historical, source);
   assert.equal(preview.ok, true, preview.reason);
   const after = snapshotProtectedFiles();
