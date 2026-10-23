@@ -184,7 +184,7 @@ test('a missing API route is an error, not an empty day', async () => {
   assert.equal(result.kind, 'server');
 });
 
-test('a processed empty day explains why no posts are public', async () => {
+test('processing counters do not replace the content-facing empty message', async () => {
   const api = mockFetch({
     'https://twitter-to-line.chjqnfv62h.workers.dev/public-feeds/x/2026-10-23.json': {
       status: 200, body: JSON.stringify({ items: [], status: { received: 7, published: 0, rejected: 7, held: 0 } }),
@@ -192,6 +192,7 @@ test('a processed empty day explains why no posts are public', async () => {
   });
   const result = await loadTodayFeed(api.impl, 'x', new Date('2026-10-23T00:00:00Z'));
   assert.equal(result.kind, 'empty');
-  assert.match(result.message, /受信7件・公開0件/);
-  assert.match(result.message, /対象外7件/);
+  assert.equal(result.message, TODAY_EMPTY.x);
+  assert.equal(result.processing.received, 7);
+  assert.doesNotMatch(result.message, /受信|対象外|再試行/);
 });

@@ -91,10 +91,8 @@ test('pages read only the curated files and do not assign innerHTML', () => {
   const youtube = fs.readFileSync(new URL('../youtube.html', import.meta.url), 'utf8');
   const workflow = fs.readFileSync(new URL('../.github/workflows/curate-feeds.yml', import.meta.url), 'utf8');
 
-  assert.match(x, /loadTodayFeed\(fetch, 'x', new Date\(\)\)/);
-  assert.match(x, /loadArchiveFeed\(fetch, 'x', new Date\(\)\)/);
-  assert.match(youtube, /loadTodayFeed\(fetch, 'youtube', new Date\(\)\)/);
-  assert.match(youtube, /loadArchiveFeed\(fetch, 'youtube', new Date\(\)\)/);
+  assert.match(x, /mountPublishedFeed\(\{ document, feed: 'x' \}\)/);
+  assert.match(youtube, /mountPublishedFeed\(\{ document, feed: 'youtube' \}\)/);
   assert.doesNotMatch(x, /x-data\.txt/);
   assert.doesNotMatch(youtube, /YouTube-data\.txt/);
   assert.doesNotMatch(x, /loadPublicFeed/);
