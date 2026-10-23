@@ -61,7 +61,7 @@ function assertPublic(url) {
   }
 }
 
-async function readJson(fetchImpl, url) {
+export async function readJson(fetchImpl, url) {
   assertPublic(url);
   let response;
   try {
@@ -97,16 +97,13 @@ export async function loadTodayFeed(fetchImpl, feed, now = new Date()) {
   if (response.status === 404) return { kind: 'server', items: [], message: messageFor(feed, 'server'), requests: [url] };
   if (response.failed) return { kind: 'server', items: [], message: messageFor(feed, 'server'), requests: [url] };
   const processing = response.processing;
-  const statusMessage = processing && Number.isInteger(processing.received)
-    ? `本日の受信${processing.received}件・公開${processing.published}件（公開基準の対象外${processing.rejected}件・再試行待ち${processing.held}件）。`
-    : '';
   if (response.status === 404 || (Array.isArray(response.data) && response.data.length === 0)) {
-    return { kind: 'empty', items: [], message: statusMessage || TODAY_EMPTY[feed] || TODAY_EMPTY.x, requests: [url] };
+    return { kind: 'empty', items: [], message: TODAY_EMPTY[feed] || TODAY_EMPTY.x, processing, requests: [url] };
   }
   if (response.corrupt || !Array.isArray(response.data)) {
     return { kind: 'corrupt', items: [], message: messageFor(feed, 'corrupt'), requests: [url] };
   }
-  return { kind: 'ready', items: response.data, message: statusMessage, requests: [url] };
+  return { kind: 'ready', items: response.data, message: '', processing, requests: [url] };
 }
 
 export function filterByQuery(feed, items, query) {

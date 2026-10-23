@@ -1,11 +1,17 @@
 export function createDocument() {
   function make(tag) {
+    const listeners = new Map();
     return {
       tagName: String(tag).toUpperCase(),
       className: '',
       children: [],
       attrs: {},
       style: {},
+      value: '',
+      classList: {
+        add() {},
+        remove() {},
+      },
       _text: '',
       set textContent(value) {
         this._text = String(value);
@@ -28,6 +34,15 @@ export function createDocument() {
       appendChild(child) {
         this.children.push(child);
         return child;
+      },
+      replaceChildren(...children) {
+        this.children = children;
+      },
+      addEventListener(type, callback) {
+        listeners.set(type, callback);
+      },
+      dispatchEvent(event) {
+        listeners.get(event.type)?.(event);
       },
     };
   }

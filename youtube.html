@@ -115,106 +115,15 @@
   <header>YouTube Updates</header>
   <section class="video-feed">
     <input type="text" id="search" placeholder="Search videos...">
+    <p id="feed-message" role="status"></p>
     <div id="video-container"></div>
     <button id="past-posts-btn" type="button">過去の動画を見る</button>
-    <div id="past-container"></div>
   </section>
   <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
   <button class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="トップに戻る">↑</button>
   <script type="module">
-    import { parseCustomDate, formatVideoDate, sortNewest } from './js/feed-behavior.js';
-    import { renderVideo } from './js/feed-render.js';
-    import { filterByQuery, loadArchiveFeed, loadTodayFeed, once } from './js/daily-feed.js?v=20261023-r2';
-
-    const searchInput = document.getElementById('search');
-    const videoContainer = document.getElementById('video-container');
-    const pastContainer = document.getElementById('past-container');
-    const pastButton = document.getElementById('past-posts-btn');
-    let todayItems = [];
-    let pastItems = [];
-    let pastLoaded = false;
-    let todayMessage = '';
-    let pastError = '';
-
-    function renderItem(video) {
-      const parsed = parseCustomDate(video.publishedAt) || (Date.parse(video.publishedAt) ? new Date(video.publishedAt) : null);
-      return renderVideo(document, {
-        title: video.title,
-        description: video.description,
-        url: video.url,
-        publishedAt: video.publishedAt,
-        dateLabel: formatVideoDate(parsed),
-      });
-    }
-
-    function ordered(items) {
-      return sortNewest(items, (video) => parseCustomDate(video.publishedAt) || new Date(video.publishedAt || 0));
-    }
-
-    function showStatus(message) {
-      videoContainer.replaceChildren();
-      const paragraph = document.createElement('p');
-      paragraph.id = 'today-message';
-      paragraph.textContent = message;
-      videoContainer.appendChild(paragraph);
-    }
-
-    function render() {
-      const query = searchInput.value;
-      const today = filterByQuery('youtube', ordered(todayItems), query);
-      const past = pastLoaded ? filterByQuery('youtube', ordered(pastItems), query) : [];
-      videoContainer.replaceChildren();
-      pastContainer.replaceChildren();
-      if (!query.trim() && today.length === 0) showStatus(todayMessage);
-      else if (query.trim() && today.length === 0 && past.length === 0) showStatus('一致する動画はありません。');
-      else today.forEach((video) => videoContainer.appendChild(renderItem(video)));
-      if (!query.trim() && today.length > 0 && todayMessage) {
-        const status = document.createElement('p');
-        status.textContent = todayMessage;
-        videoContainer.prepend(status);
-      }
-      past.forEach((video) => pastContainer.appendChild(renderItem(video)));
-      if (pastError) {
-        const paragraph = document.createElement('p');
-        paragraph.textContent = pastError;
-        pastContainer.appendChild(paragraph);
-      }
-      if (pastLoaded) pastButton.classList.add('hidden');
-    }
-
-    const loadPast = once(() => loadArchiveFeed(fetch, 'youtube', new Date()));
-
-    async function ensurePast() {
-      if (pastLoaded) return;
-      const result = await loadPast();
-      if (pastLoaded) return;
-      if (result.kind !== 'ready') {
-        pastError = result.message;
-        pastLoaded = true;
-        return;
-      }
-      const todayIds = new Set(todayItems.map((video) => (video.url || '').match(/[?&]v=([A-Za-z0-9_-]{11})/)?.[1]).filter(Boolean));
-      pastItems = result.items.filter((video) => {
-        const id = (video.url || '').match(/[?&]v=([A-Za-z0-9_-]{11})/)?.[1];
-        return !id || !todayIds.has(id);
-      });
-      pastLoaded = true;
-    }
-
-    loadTodayFeed(fetch, 'youtube', new Date()).then((result) => {
-      if (result.kind === 'ready') todayItems = result.items;
-      todayMessage = result.message;
-      render();
-    });
-
-    searchInput.addEventListener('input', async () => {
-      if (searchInput.value.trim() && !pastLoaded) await ensurePast();
-      render();
-    });
-    pastButton.addEventListener('click', async () => {
-      await ensurePast();
-      render();
-    });
+    import { mountPublishedFeed } from './js/feed-page.js?v=20261023-content';
+    mountPublishedFeed({ document, feed: 'youtube' });
   </script>
 </body>
 </html>
