@@ -8,6 +8,7 @@ export const TODAY_EMPTY = {
 const BLOCKED = ['x-data.txt', 'YouTube-data.txt', 'x-unjudged', 'incremental-feed.json', 'incremental-state'];
 
 export const ARCHIVE_FETCH_CONCURRENCY = 4;
+export const FEED_API = 'https://twitter-to-line.chjqnfv62h.workers.dev/public-feeds';
 
 export function jstDateKey(date = new Date()) {
   const value = date instanceof Date ? date : new Date(date);
@@ -23,8 +24,8 @@ export function feedPaths(feed) {
   const key = feed === 'youtube' ? 'youtube' : 'x';
   return {
     archive: key === 'youtube' ? 'data/youtube-public.json' : 'data/x-public.json',
-    index: `data/${key}-daily/index.json`,
-    day: (dateKey) => `data/${key}-daily/${dateKey}.json`,
+    index: `${FEED_API}/${key}/index.json`,
+    day: (dateKey) => `${FEED_API}/${key}/${dateKey}.json`,
   };
 }
 
@@ -79,7 +80,11 @@ async function readJson(fetchImpl, url) {
     return { status: 0, data: null, network: true };
   }
   try {
-    return { status: response.status, data: JSON.parse(text) };
+    const parsed = JSON.parse(text);
+    if (parsed && !Array.isArray(parsed) && Array.isArray(parsed.items)) {
+      return { status: response.status, data: parsed.items, processing: parsed.status };
+    }
+    return { status: response.status, data: parsed };
   } catch {
     return { status: response.status, data: null, corrupt: true };
   }
@@ -89,14 +94,19 @@ export async function loadTodayFeed(fetchImpl, feed, now = new Date()) {
   const url = initialRequest(feed, now);
   const response = await readJson(fetchImpl, url);
   if (response.network) return { kind: 'network', items: [], message: messageFor(feed, 'network'), requests: [url] };
+  if (response.status === 404) return { kind: 'server', items: [], message: messageFor(feed, 'server'), requests: [url] };
   if (response.failed) return { kind: 'server', items: [], message: messageFor(feed, 'server'), requests: [url] };
+  const processing = response.processing;
+  const statusMessage = processing && Number.isInteger(processing.received)
+    ? `本日の受信${processing.received}件・公開${processing.published}件（公開基準の対象外${processing.rejected}件・再試行待ち${processing.held}件）。`
+    : '';
   if (response.status === 404 || (Array.isArray(response.data) && response.data.length === 0)) {
-    return { kind: 'empty', items: [], message: TODAY_EMPTY[feed] || TODAY_EMPTY.x, requests: [url] };
+    return { kind: 'empty', items: [], message: statusMessage || TODAY_EMPTY[feed] || TODAY_EMPTY.x, requests: [url] };
   }
   if (response.corrupt || !Array.isArray(response.data)) {
     return { kind: 'corrupt', items: [], message: messageFor(feed, 'corrupt'), requests: [url] };
   }
-  return { kind: 'ready', items: response.data, message: '', requests: [url] };
+  return { kind: 'ready', items: response.data, message: statusMessage, requests: [url] };
 }
 
 export function filterByQuery(feed, items, query) {

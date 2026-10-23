@@ -168,6 +168,11 @@
       if (!query.trim() && today.length === 0) showStatus(todayMessage);
       else if (query.trim() && today.length === 0 && past.length === 0) showStatus('一致する動画はありません。');
       else today.forEach((video) => videoContainer.appendChild(renderItem(video)));
+      if (!query.trim() && today.length > 0 && todayMessage) {
+        const status = document.createElement('p');
+        status.textContent = todayMessage;
+        videoContainer.prepend(status);
+      }
       past.forEach((video) => pastContainer.appendChild(renderItem(video)));
       if (pastError) {
         const paragraph = document.createElement('p');
@@ -198,7 +203,7 @@
 
     loadTodayFeed(fetch, 'youtube', new Date()).then((result) => {
       if (result.kind === 'ready') todayItems = result.items;
-      else todayMessage = result.message;
+      todayMessage = result.message;
       render();
     });
 
