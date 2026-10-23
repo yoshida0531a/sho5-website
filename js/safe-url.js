@@ -24,6 +24,19 @@ export function safeXUrl(raw) {
   return `https://x.com/${match[1]}/status/${match[2]}`;
 }
 
+export function safeBlueskyUrl(raw) {
+  const url = parseHttps(raw);
+  if (!url || url.hostname !== 'bsky.app' || url.port) return null;
+  const match = url.pathname.match(/^\/profile\/([^/]+)\/post\/([A-Za-z0-9._~:-]{1,512})\/?$/);
+  if (!match || match[2] === '.' || match[2] === '..') return null;
+  const actor = match[1].toLowerCase();
+  const handle = actor.length <= 253 && actor.includes('.') && actor.split('.').every(label =>
+    /^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?$/.test(label),
+  ) && /^[a-z]/.test(actor.split('.').at(-1));
+  if (!handle && !/^did:plc:[a-z2-7]{24}$/.test(actor)) return null;
+  return `https://bsky.app/profile/${actor}/post/${match[2]}`;
+}
+
 export function safeYouTubeUrl(raw) {
   const url = parseHttps(raw);
   if (!url) return null;

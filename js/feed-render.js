@@ -1,5 +1,5 @@
 import { decodeBasicEntities } from './text.js';
-import { safeXUrl, safeYouTubeUrl } from './safe-url.js';
+import { safeBlueskyUrl, safeXUrl, safeYouTubeUrl } from './safe-url.js?v=20261024-bluesky';
 
 function link(doc, href, className, label) {
   const anchor = doc.createElement('a');
@@ -77,5 +77,35 @@ export function renderVideo(doc, video) {
   root.appendChild(body);
 
   if (href) root.appendChild(link(doc, href, 'video-link', 'Youtubeで見る'));
+  return root;
+}
+
+export function renderBlueskyPost(doc, post) {
+  const root = doc.createElement('article');
+  root.className = 'post-item';
+  const heading = doc.createElement('h3');
+  const href = safeBlueskyUrl(post?.postUrl);
+  const label = post?.displayName || (post?.handle ? `@${post.handle}` : '投稿者不明');
+  if (href) heading.appendChild(link(doc, href, '', label));
+  else heading.textContent = label;
+  root.appendChild(heading);
+
+  if (post?.displayName && post?.handle) {
+    const handle = doc.createElement('p');
+    handle.className = 'post-handle';
+    handle.textContent = `@${post.handle}`;
+    root.appendChild(handle);
+  }
+  const date = doc.createElement('time');
+  date.className = 'date';
+  date.textContent = String(post?.dateLabel ?? '');
+  if (post?.createdAt) date.setAttribute('datetime', post.createdAt);
+  root.appendChild(date);
+
+  const body = doc.createElement('p');
+  body.className = 'post-text';
+  body.textContent = String(post?.text ?? '');
+  root.appendChild(body);
+  if (href) root.appendChild(link(doc, href, 'post-link', 'Blueskyで見る'));
   return root;
 }
