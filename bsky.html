@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bluesky Updates - Shogo Fan Site</title>
+  <meta name="description" content="谷端選手に関するBlueskyの投稿を紹介しています。">
+  <link rel="canonical" href="https://sho5.org/bsky.html">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
@@ -45,9 +47,12 @@
     }
     .post-item h3 { margin: 5px 0; font-size: 18px; }
     .post-item h3 a { color: black; text-decoration: none; }
+    .post-handle { margin: 5px 0; font-size: 13px; color: #666; overflow-wrap: anywhere; }
+    .post-item h3 { overflow-wrap: anywhere; }
     .post-item .date { margin: 5px 0; font-size: 12px; color: #666; }
     .post-item .post-text {
       margin: 10px 0; font-size: 14px; line-height: 1.5;
+      white-space: pre-wrap; overflow-wrap: anywhere;
     }
     .post-link {
       display: inline-block;
@@ -65,7 +70,7 @@
       background-color: #FFD700;
       color: #000;
     }
-    #more-posts-btn {
+    #more-posts-btn, #retry-feed-btn {
       display: block;
       margin: 20px auto;
       padding: 12px 24px;
@@ -81,7 +86,7 @@
       background-color: #FFD700;
       color: #000;
     }
-    #more-posts-btn.hidden { display: none; }
+    .hidden { display: none !important; }
     .scroll-to-top {
       position: fixed;
       bottom: 20px; right: 20px;
@@ -97,125 +102,21 @@
   </style>
 </head>
 <body>
-  <a href="index.html" class="top-link">←</a>
+  <a href="index.html" class="top-link" aria-label="トップへ戻る">←</a>
   <header>Bluesky Updates</header>
   <section class="post-feed">
-    <input type="text" id="search" placeholder="Search posts...">
-    <div id="post-container">
-      <!-- Posts will be loaded dynamically from bsky-data.txt -->
-    </div>
-    <button id="more-posts-btn">さらに過去の投稿を見る</button>
+    <p>谷端選手に関するBlueskyの投稿（最新100件）</p>
+    <input type="search" id="search" placeholder="投稿・投稿者を検索" aria-label="Blueskyの投稿・投稿者を検索">
+    <p id="feed-message" role="status" aria-live="polite">読み込み中…</p>
+    <div id="post-container"></div>
+    <button id="more-posts-btn" type="button" class="hidden">さらに過去の投稿を見る</button>
+    <button id="retry-feed-btn" type="button" class="hidden">再読み込み</button>
   </section>
-  <footer>Copyright © 2023-2025 Akira Yoshida.</footer>
+  <footer>Copyright © 2023-2026 Akira Yoshida.</footer>
   <button class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="トップに戻る">↑</button>
-  <script>
-    function formatDate(isoString) {
-      if (!isoString) return '';
-      try {
-        return new Date(isoString).toLocaleString('ja-JP', {
-          year: 'numeric', month: '2-digit', day: '2-digit',
-          hour: '2-digit', minute: '2-digit',
-          timeZone: 'Asia/Tokyo'
-        });
-      } catch { return ''; }
-    }
-
-    const searchInput = document.getElementById('search');
-    const postContainer = document.getElementById('post-container');
-    const morePostsBtn = document.getElementById('more-posts-btn');
-    let postItems = [];
-    let sortedPosts = [];
-
-    fetch('bsky-data.txt')
-      .then(response => response.json())
-      .then(data => {
-        data.forEach(post => {
-          const postDiv = document.createElement('div');
-          postDiv.className = 'post-item';
-          postDiv.setAttribute('data-handle', post.handle || '');
-          postDiv.setAttribute('data-text', post.text || '');
-          postDiv.setAttribute('data-date', post.createdAt || '');
-
-          postDiv.innerHTML = `
-            <h3><a href="${post.postUrl}" target="_blank">@${post.handle}</a></h3>
-            <p class="date">${formatDate(post.createdAt)}</p>
-            <p class="post-text">${post.text}</p>
-            <a href="${post.postUrl}" target="_blank" class="post-link">Blueskyで見る</a>
-          `;
-
-          postItems.push(postDiv);
-        });
-
-        sortedPosts = postItems.slice().sort((a, b) => {
-          return new Date(b.getAttribute('data-date') || 0) - new Date(a.getAttribute('data-date') || 0);
-        });
-
-        sortedPosts.forEach(post => postContainer.appendChild(post));
-        initializePagination();
-      })
-      .catch(error => {
-        console.error('Error loading posts:', error);
-        postContainer.innerHTML = '<p>投稿の読み込みに失敗しました。</p>';
-      });
-
-    const oneDayMs = 24 * 60 * 60 * 1000;
-    const oneWeekMs = 7 * oneDayMs;
-    let currentWeeksToShow = 0;
-    let mostRecentDate = new Date();
-
-    function initializePagination() {
-      mostRecentDate = sortedPosts.length > 0
-        ? new Date(sortedPosts[0].getAttribute('data-date'))
-        : new Date();
-      updateVisibility();
-    }
-
-    function updateVisibility() {
-      const isSearching = searchInput.value.trim() !== '';
-
-      if (isSearching) {
-        const searchQuery = searchInput.value.trim().toLowerCase();
-        sortedPosts.forEach(item => {
-          const handle = item.getAttribute('data-handle');
-          const text = item.getAttribute('data-text');
-          item.style.display = (handle + ' ' + text).toLowerCase().includes(searchQuery) ? 'block' : 'none';
-        });
-        morePostsBtn.classList.add('hidden');
-      } else {
-        const mostRecentDayStart = new Date(
-          mostRecentDate.getFullYear(),
-          mostRecentDate.getMonth(),
-          mostRecentDate.getDate()
-        );
-
-        const cutoffDate = currentWeeksToShow === 0
-          ? new Date(mostRecentDayStart.getTime() - oneDayMs)
-          : new Date(mostRecentDayStart.getTime() - (currentWeeksToShow * oneWeekMs));
-
-        let hasMoreOldPosts = false;
-        sortedPosts.forEach(item => {
-          const postDate = new Date(item.getAttribute('data-date'));
-          if (postDate >= cutoffDate) {
-            item.style.display = 'block';
-          } else {
-            item.style.display = 'none';
-            hasMoreOldPosts = true;
-          }
-        });
-
-        if (hasMoreOldPosts) {
-          morePostsBtn.classList.remove('hidden');
-        } else {
-          morePostsBtn.classList.add('hidden');
-        }
-      }
-    }
-
-    searchInput.addEventListener('input', updateVisibility);
-    morePostsBtn.addEventListener('click', () => {
-      currentWeeksToShow++;
-      updateVisibility();
-    });
+  <script type="module">
+    import { mountBlueskyFeed } from './js/bluesky-feed.js?v=20261024';
+    mountBlueskyFeed({ document });
   </script>
 </body>
 </html>
