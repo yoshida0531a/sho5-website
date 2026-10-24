@@ -1,7 +1,7 @@
-import { itemId } from './daily-feed.js?v=20261024-curation-audit';
-import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js?v=20261024-curation-audit';
-import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261024-curation-audit';
-import { loadPublishedFeed } from './published-feed.js?v=20261024-curation-audit';
+import { itemId } from './daily-feed.js?v=20261025-feed';
+import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js?v=20261025-feed';
+import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261025-feed';
+import { loadPublishedFeed } from './published-feed.js?v=20261025-feed';
 
 export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = new Date(), batch = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('batch') : null }) {
   const search = document.getElementById('search');
@@ -16,7 +16,7 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
   function updateMessage(visible) {
     message.textContent = search.value.trim() && records.length && !visible
       ? (feed === 'youtube' ? '一致する動画はありません。' : '一致する投稿はありません。')
-      : currentIds && (search.value.trim() || weeksToShow > 0) ? `${statusMessage}／過去の公開分を含めて表示しています。` : statusMessage;
+      : statusMessage;
   }
 
   function dateOf(item) {
@@ -42,7 +42,6 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
       });
       if (hasPast && !weeksToShow && !searching) more.classList.remove('hidden');
       else more.classList.add('hidden');
-      more.textContent = '過去の公開分を見る';
       updateMessage(visible);
       return;
     }
@@ -88,9 +87,8 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
   function applyStatus(result) {
     if (result.release) {
       currentIds = new Set(result.currentIds);
-      const cutoff = new Intl.DateTimeFormat('ja-JP', {timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(result.release.cutoff));
-      statusMessage = result.message || (currentIds.size ? `通知に合わせた公開分（${cutoff}締め切り・日本時間）` : `今回の公開分はありません（${cutoff}締め切り・日本時間）。過去の公開分は下のボタンから確認できます。`);
-    } else statusMessage = result.message || '';
+    }
+    statusMessage = result.release && result.kind === 'empty' ? '' : result.message || '';
   }
   return loadPublishedFeed(fetchImpl, feed, now, { batch, onItems: (items, cycle) => { applyStatus(cycle || {}); display(items); } }).then(result => {
     applyStatus(result);

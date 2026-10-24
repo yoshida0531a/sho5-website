@@ -71,7 +71,7 @@ test('initial Bluesky view shows only this release; search and past button can s
  await mountBlueskyFeed({document,fetchImpl:mock.fetchImpl,now});
  assert.match(texts(nodes.get('post-container')),/谷端ナイス/);assert.doesNotMatch(texts(nodes.get('post-container')),/前の公開分/);
  nodes.get('past-posts-btn').dispatchEvent({type:'click'});assert.match(texts(nodes.get('post-container')),/前の公開分/);
- assert.match(nodes.get('feed-message').textContent,/過去の公開分を含めて/);
+ assert.equal(nodes.get('feed-message').textContent,'');
  nodes.get('search').value='前の公開分';nodes.get('search').dispatchEvent({type:'input'});assert.doesNotMatch(texts(nodes.get('post-container')),/谷端ナイス/);
 });
 test('unavailable selection never falls back to unscreened live Bluesky or the old unselected snapshot',async()=>{

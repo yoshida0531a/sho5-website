@@ -188,7 +188,7 @@ test('the initial X view is the exact notification batch, independent of posting
   const visible=all.filter(node=>node.style.display!=='none');
   assert.equal(result.currentIds.length,1);
   assert.equal(visible.length,1);assert.match(visible[0].getAttribute('data-text'),/昨日の新しい本文/);
-  assert.match(nodes.get('feed-message').textContent,/通知に合わせた公開分/);
+  assert.equal(nodes.get('feed-message').textContent,'');
   nodes.get('past-posts-btn').dispatchEvent({type:'click'});
   assert.equal(all.filter(node=>node.style.display!=='none').length,3);
 });
@@ -206,7 +206,7 @@ test('a zero-item batch does not present old posts as newly notified items or sh
   const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[]);
   const {doc,nodes,hidden}=pageDocument('x');
   await mountPublishedFeed({document:doc,feed:'x',fetchImpl:mock.fetchImpl,now});
-  assert.match(nodes.get('feed-message').textContent,/今回の公開分はありません/);
+  assert.equal(nodes.get('feed-message').textContent,'');
   assert.doesNotMatch(nodes.get('feed-message').textContent,/受信|対象外|再試行待ち/);
   assert.ok(descendants(nodes.get('tweet-container')).filter(node=>node.getAttribute('data-text')).every(node=>node.style.display==='none'));
   assert.equal(hidden.has('hidden'),false);
@@ -244,8 +244,7 @@ test('selected text renders before slow history; history failure cannot hide the
   }});
   await new Promise(resolve=>setImmediate(resolve));
   assert.match(visibleTexts(nodes.get('tweet-container')),/昨日の新しい本文/);
-  assert.match(nodes.get('feed-message').textContent,/締め切り/);
-  assert.doesNotMatch(nodes.get('feed-message').textContent,/更新/);
+  assert.equal(nodes.get('feed-message').textContent,'');
   finish();const result=await pending;
   assert.equal(result.kind,'partial');
   assert.match(visibleTexts(nodes.get('tweet-container')),/昨日の新しい本文/);

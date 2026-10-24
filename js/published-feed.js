@@ -1,4 +1,4 @@
-import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261024-curation-audit';
+import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261025-feed';
 import { messageFor } from './public-feed.js';
 
 function errorKind(response) {
