@@ -1,11 +1,11 @@
-import { itemId } from './daily-feed.js';
+import { itemId } from './daily-feed.js?v=20261024-curation';
 import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js';
-import { renderTweet, renderVideo } from './feed-render.js';
-import { loadPublishedFeed } from './published-feed.js?v=20261024-cycle';
+import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261024-curation';
+import { loadPublishedFeed } from './published-feed.js?v=20261024-curation';
 
 export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = new Date(), batch = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('batch') : null }) {
   const search = document.getElementById('search');
-  const container = document.getElementById(feed === 'youtube' ? 'video-container' : 'tweet-container');
+  const container = document.getElementById(feed === 'youtube' ? 'video-container' : feed === 'bluesky' ? 'post-container' : 'tweet-container');
   const more = document.getElementById('past-posts-btn');
   const message = document.getElementById('feed-message');
   let records = [];
@@ -20,6 +20,7 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
   }
 
   function dateOf(item) {
+    if (feed === 'bluesky') return new Date(item?.createdAt || 0);
     if (feed === 'youtube') return parseCustomDate(item?.publishedAt) || new Date(item?.publishedAt || 0);
     const id = String(item?.tweetUrl || '').match(/status\/(\d+)/)?.[1];
     return id ? snowflakeToDate(id) : new Date(0);
@@ -67,7 +68,7 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
     records = sortNewest(items, dateOf).map(item => {
       const parsed = dateOf(item);
       const date = Number.isFinite(parsed?.getTime()) ? parsed : new Date(0);
-      const node = feed === 'youtube'
+      const node = feed === 'bluesky' ? renderBlueskyPost(document, { ...item, dateLabel: formatJaDate(date) }) : feed === 'youtube'
         ? renderVideo(document, { ...item, dateLabel: formatVideoDate(date) })
         : renderTweet(document, { ...item, dateIso: date.toISOString(), dateLabel: formatJaDate(date) });
       return {

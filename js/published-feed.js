@@ -1,4 +1,4 @@
-import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js';
+import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261024-curation';
 import { messageFor } from './public-feed.js';
 
 function errorKind(response) {
@@ -15,7 +15,7 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
   if (batch && !/^[a-f0-9-]{36}$/.test(batch)) return {kind:'corrupt',items:[],requests:[],message:'通知リンクが正しくありません。'};
   const paths = feedPaths(feed);
   const today = jstDateKey(now);
-  const releaseUrl = `${paths.index.replace(/\/(x|youtube)\/index\.json$/, '')}/notification${batch && /^[a-f0-9-]{36}$/.test(batch) ? `/${batch}` : ''}.json`;
+  const releaseUrl = `${paths.index.replace(/\/(x|youtube|bluesky)\/index\.json$/, '')}/notification${batch && /^[a-f0-9-]{36}$/.test(batch) ? `/${batch}` : ''}.json`;
   const releaseResponse = await readJson(fetchImpl, releaseUrl);
   const release = !errorKind(releaseResponse) && releaseResponse.data?.version === 1
     && Array.isArray(releaseResponse.data?.items?.[feed])
@@ -23,9 +23,10 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     && releaseResponse.data.items[feed].every(item => itemId(feed,item))
     && new Set(releaseResponse.data.items[feed].map(item => itemId(feed,item))).size === releaseResponse.data.items[feed].length
     ? releaseResponse.data : null;
-  const requests = [releaseUrl, paths.archive, paths.index, paths.day(today)];
+  if (feed === 'bluesky' && !release) return {kind:'server',items:[],requests:[releaseUrl],message:'公開済みの投稿を確認できませんでした。時間をおいて再読み込みしてください。'};
+  const requests = [releaseUrl, paths.archive, paths.index, paths.day(today)].filter(Boolean);
   const [archive, index, current] = await Promise.all([
-    readJson(fetchImpl, paths.archive).then(result => {
+    (paths.archive ? readJson(fetchImpl, paths.archive) : Promise.resolve({status:200,data:[]})).then(result => {
       // Preserve the fast static content path even while the live API loads.
       if (!batch && !release && !errorKind(result) && Array.isArray(result.data) && result.data.length) onItems?.(result.data);
       return result;
