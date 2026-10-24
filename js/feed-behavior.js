@@ -45,17 +45,16 @@ export function parseCustomDate(dateString) {
   const minute = parseInt(parts[5], 10);
   if (parts[6] === 'PM' && hour !== 12) hour += 12;
   if (parts[6] === 'AM' && hour === 12) hour = 0;
-  return new Date(year, MONTHS[parts[1]], day, hour, minute);
+  // IFTTT records this wall-clock value in Japan time, independent of the viewer.
+  return new Date(Date.UTC(year, MONTHS[parts[1]], day, hour - 9, minute));
 }
 
 export function formatVideoDate(dateObj) {
-  if (!dateObj) return '';
-  const year = dateObj.getFullYear();
-  const month = String(dateObj.getMonth() + 1).padStart(2, '0');
-  const day = String(dateObj.getDate()).padStart(2, '0');
-  const hour = String(dateObj.getHours()).padStart(2, '0');
-  const minute = String(dateObj.getMinutes()).padStart(2, '0');
-  return `${year}/${month}/${day} ${hour}:${minute}`;
+  if (!dateObj || !Number.isFinite(dateObj.getTime())) return '';
+  const parts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', {
+    timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23',
+  }).formatToParts(dateObj).map(part=>[part.type,part.value]));
+  return `${parts.year}/${parts.month}/${parts.day} ${parts.hour}:${parts.minute}`;
 }
 
 export function sortNewest(items, getDate) {

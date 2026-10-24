@@ -83,6 +83,8 @@ export function renderVideo(doc, video) {
 export function renderBlueskyPost(doc, post) {
   const root = doc.createElement('article');
   root.className = 'post-item';
+  root.setAttribute('data-text', String(post?.text || ''));
+  root.setAttribute('data-username', `${post?.displayName || ''} ${post?.handle || ''}`);
   const heading = doc.createElement('h3');
   const href = safeBlueskyUrl(post?.postUrl);
   const label = post?.displayName || (post?.handle ? `@${post.handle}` : '投稿者不明');

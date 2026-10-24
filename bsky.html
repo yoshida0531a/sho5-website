@@ -70,7 +70,7 @@
       background-color: #FFD700;
       color: #000;
     }
-    #more-posts-btn, #retry-feed-btn {
+    #past-posts-btn, #retry-feed-btn {
       display: block;
       margin: 20px auto;
       padding: 12px 24px;
@@ -82,7 +82,7 @@
       cursor: pointer;
       transition: all 0.3s ease;
     }
-    #more-posts-btn:hover, #more-posts-btn:active, #more-posts-btn:focus {
+    #past-posts-btn:hover, #past-posts-btn:active, #past-posts-btn:focus {
       background-color: #FFD700;
       color: #000;
     }
@@ -105,17 +105,17 @@
   <a href="index.html" class="top-link" aria-label="トップへ戻る">←</a>
   <header>Bluesky Updates</header>
   <section class="post-feed">
-    <p>谷端選手に関するBlueskyの投稿（最新100件）</p>
+    <p>谷端選手に関するBlueskyの投稿</p>
     <input type="search" id="search" placeholder="投稿・投稿者を検索" aria-label="Blueskyの投稿・投稿者を検索">
     <p id="feed-message" role="status" aria-live="polite">読み込み中…</p>
     <div id="post-container"></div>
-    <button id="more-posts-btn" type="button" class="hidden">さらに過去の投稿を見る</button>
-    <button id="retry-feed-btn" type="button" class="hidden">再読み込み</button>
+    <button id="past-posts-btn" type="button" class="hidden">さらに過去の投稿を見る</button>
+
   </section>
   <footer>Copyright © 2023-2026 Akira Yoshida.</footer>
   <button class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="トップに戻る">↑</button>
   <script type="module">
-    import { mountBlueskyFeed } from './js/bluesky-feed.js?v=20261024';
+    import { mountBlueskyFeed } from './js/bluesky-feed.js?v=20261025-first-cycle';
     mountBlueskyFeed({ document });
   </script>
 </body>
