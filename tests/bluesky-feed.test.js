@@ -78,6 +78,32 @@ test('unavailable selection never falls back to unscreened live Bluesky or the o
  const mock=routes({fail:true});const result=await loadPublishedFeed(mock.fetchImpl,'bluesky',now);
  assert.equal(result.kind,'server');assert.deepEqual(result.items,[]);assert.equal(mock.calls.length,1);
 });
+test('only an explicit unprepared first cycle can use the selected public migration snapshot',async()=>{
+ const calls=[];
+ const fetchImpl=async url=>{
+  calls.push(url);assert.doesNotMatch(url,/api\.bsky\.app|\/bluesky-public\.json/);
+  if(url.endsWith('/notification.json'))return new Response('{"error":"not_prepared"}',{status:404});
+  assert.equal(url,'data/bluesky-selected-bootstrap.json');
+  return new Response(JSON.stringify({version:1,selection:'notification-cycle-v1',posts:[post('selected')]}));
+ };
+ const result=await loadPublishedFeed(fetchImpl,'bluesky',now);
+ assert.equal(result.kind,'ready');assert.equal(result.items.length,1);assert.equal(result.message,'');
+ assert.equal(calls.length,2);
+ calls.length=0;
+ const fixed=await loadPublishedFeed(async url=>{calls.push(url);return new Response('{"error":"not_prepared"}',{status:404});},'bluesky',now,{batch:releaseId});
+ assert.equal(fixed.kind,'server');assert.deepEqual(fixed.items,[]);assert.equal(calls.length,1);
+});
+test('the migration snapshot contains only canonical, selected posts and cannot skip the content policy',async()=>{
+ const {resolveVerdict,normalizeTweet,RULESET_FINGERPRINT}=await import('../scripts/lib/x-sentiment.js');
+ const data=JSON.parse(fs.readFileSync(new URL('../data/bluesky-selected-bootstrap.json',import.meta.url),'utf8'));
+ assert.equal(data.version,1);assert.equal(data.selection,'notification-cycle-v1');assert.ok(data.posts.length);assert.equal(data.rulesetFingerprint,RULESET_FINGERPRINT);
+ for(const item of data.posts) {
+  assert.match(item.postUrl,/^https:\/\/bsky\.app\/profile\/did:[^/]+\/post\/[A-Za-z0-9]+$/);
+  assert.equal((await resolveVerdict(item.text,{model:null})).verdict,'publish');
+  assert.doesNotMatch(normalizeTweet(item.text),/下手すぎ|ヘタすぎ/);
+ }
+ assert.equal(new Set(data.posts.map(item=>item.postUrl)).size,data.posts.length);
+});
 test('pages keep safe rendering and connect Bluesky to the common publication reader',()=>{
  const html=fs.readFileSync(new URL('../bsky.html',import.meta.url),'utf8');const source=fs.readFileSync(new URL('../js/bluesky-feed.js',import.meta.url),'utf8');
  assert.match(html,/mountBlueskyFeed/);assert.match(source,/mountPublishedFeed/);assert.doesNotMatch(source,/searchPosts|fetch\(|innerHTML|bsky-data/);

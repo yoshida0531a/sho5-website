@@ -1,4 +1,4 @@
-import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261025-feed';
+import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261025-first-cycle';
 import { messageFor } from './public-feed.js';
 
 function errorKind(response) {
@@ -27,6 +27,18 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     ? releaseResponse.data : null;
   // A missing initial head is the only migration fallback. An outage or
   // corrupt release must not silently show a different set than LINE.
+  if (!release && !batch && feed === 'bluesky' && releaseResponse.status === 404) {
+    // Only the independently selected public migration snapshot is allowed.
+    // Never query live Bluesky or use the old unselected public snapshot.
+    const archiveUrl = 'data/bluesky-selected-bootstrap.json';
+    const archive = await readJson(fetchImpl, archiveUrl);
+    if (!errorKind(archive) && archive.data?.version === 1 && archive.data.selection === 'notification-cycle-v1'
+      && Array.isArray(archive.data.posts) && archive.data.posts.every(item => itemId(feed, item))) {
+      const items = mergePublic(feed, [archive.data.posts]);
+      return {kind:items.length?'ready':'empty',items,requests:[releaseUrl,archiveUrl],message:''};
+    }
+    return {kind:'server',items:[],requests:[releaseUrl,archiveUrl],message:messageFor(feed,'server')};
+  }
   if (!release && (batch || feed === 'bluesky' || releaseResponse.status !== 404)) return {kind:'server',items:[],requests:[releaseUrl],message:'公開済みの投稿を確認できませんでした。時間をおいて再読み込みしてください。'};
   if (release) onItems?.(release.items[feed],{release,currentIds:release.items[feed].map(item=>itemId(feed,item))});
   const requests = [releaseUrl, paths.archive, paths.index, paths.day(today)].filter(Boolean);
