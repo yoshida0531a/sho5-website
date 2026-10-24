@@ -9,6 +9,7 @@ const now = new Date('2026-10-23T04:30:00Z');
 function routesFor(feed, { today = [], archive = [], yesterday = [], indexStatus = 200, todayStatus = 200 } = {}) {
   const name = feed === 'x' ? 'x' : 'youtube';
   const routes = {
+    [`${FEED_API}/notification.json`]: { status: 404, data: { error: 'not_prepared' } },
     [`data/${name}-public.json`]: { data: archive },
     [`${FEED_API}/${name}/index.json`]: { status: indexStatus, data: { version: 1, dates: yesterday.length ? ['2026-10-22'] : [] } },
     [`${FEED_API}/${name}/2026-10-23.json`]: { status: todayStatus, data: { items: today, status: { received: 0, published: 0, rejected: 0, held: 0 } } },
@@ -220,4 +221,45 @@ test('old LINE links select their immutable batch; unavailable batches do not si
   assert.deepEqual(failed.items,[]);assert.equal(failed.kind,'server');
   const invalid=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:'../../private'});
   assert.equal(invalid.kind,'corrupt');assert.deepEqual(invalid.requests,[]);
+});
+
+test('release failure must not silently replace the current notification with archive items',async()=>{
+  for(const feed of ['x','youtube']) for(const status of [403,503,200]) {
+    const mock=routesFor(feed,{archive:feed==='x'?[oldX]:[video]});
+    mock.routes[`${FEED_API}/notification.json`]={status,data:{unexpected:true}};
+    const result=await loadPublishedFeed(mock.fetchImpl,feed,now);
+    assert.equal(result.kind,'server');assert.deepEqual(result.items,[]);
+    assert.equal(mock.calls.length,1);
+  }
+});
+
+test('selected text renders before slow history; history failure cannot hide the batch',async()=>{
+  const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[yesterdayX]);
+  mock.routes[`${FEED_API}/x/index.json`].status=503;
+  let finish;const gate=new Promise(resolve=>{finish=resolve;});
+  const {doc,nodes}=pageDocument('x');
+  const pending=mountPublishedFeed({document:doc,feed:'x',now,fetchImpl:async url=>{
+    if(!url.includes('/notification'))await gate;
+    return mock.fetchImpl(url);
+  }});
+  await new Promise(resolve=>setImmediate(resolve));
+  assert.match(visibleTexts(nodes.get('tweet-container')),/昨日の新しい本文/);
+  assert.match(nodes.get('feed-message').textContent,/締め切り/);
+  assert.doesNotMatch(nodes.get('feed-message').textContent,/更新/);
+  finish();const result=await pending;
+  assert.equal(result.kind,'partial');
+  assert.match(visibleTexts(nodes.get('tweet-container')),/昨日の新しい本文/);
+});
+
+test('an immutable notification link rejects a different release ID',async()=>{
+  const mock=withRelease(routesFor('x'),'x',[oldX],releaseId);
+  mock.routes[`${FEED_API}/notification/${releaseId}.json`].data.id='aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa';
+  const result=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:releaseId});
+  assert.equal(result.kind,'server');assert.deepEqual(result.items,[]);assert.equal(mock.calls.length,1);
+});
+
+test('YouTube wall-clock input and labels consistently use Japan time',async()=>{
+  const {parseCustomDate,formatVideoDate}=await import('../js/feed-behavior.js');
+  assert.equal(parseCustomDate('October 24, 2026 at 12:05AM').toISOString(),'2026-10-23T15:05:00.000Z');
+  assert.equal(formatVideoDate(new Date('2026-10-23T15:05:00Z')),'2026/10/24 00:05');
 });

@@ -1,7 +1,7 @@
-import { itemId } from './daily-feed.js?v=20261024-curation';
-import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js';
-import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261024-curation';
-import { loadPublishedFeed } from './published-feed.js?v=20261024-curation';
+import { itemId } from './daily-feed.js?v=20261024-curation-audit';
+import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js?v=20261024-curation-audit';
+import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261024-curation-audit';
+import { loadPublishedFeed } from './published-feed.js?v=20261024-curation-audit';
 
 export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = new Date(), batch = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('batch') : null }) {
   const search = document.getElementById('search');
@@ -85,12 +85,15 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
   more.addEventListener('click', () => { weeksToShow += 1; updateVisibility(); });
   more.classList.add('hidden');
   message.textContent = statusMessage;
-  return loadPublishedFeed(fetchImpl, feed, now, { batch, onItems: items => { statusMessage = ''; display(items); } }).then(result => {
+  function applyStatus(result) {
     if (result.release) {
       currentIds = new Set(result.currentIds);
       const cutoff = new Intl.DateTimeFormat('ja-JP', {timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(result.release.cutoff));
-      statusMessage = result.message || (currentIds.size ? `通知に合わせた公開分（${cutoff}更新・日本時間）` : `今回の公開分はありません（${cutoff}更新・日本時間）。過去の公開分は下のボタンから確認できます。`);
-    } else statusMessage = result.message;
+      statusMessage = result.message || (currentIds.size ? `通知に合わせた公開分（${cutoff}締め切り・日本時間）` : `今回の公開分はありません（${cutoff}締め切り・日本時間）。過去の公開分は下のボタンから確認できます。`);
+    } else statusMessage = result.message || '';
+  }
+  return loadPublishedFeed(fetchImpl, feed, now, { batch, onItems: (items, cycle) => { applyStatus(cycle || {}); display(items); } }).then(result => {
+    applyStatus(result);
     display(result.items);
     return result;
   });
