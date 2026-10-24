@@ -21,9 +21,9 @@ export function jstDateKey(date = new Date()) {
 }
 
 export function feedPaths(feed) {
-  const key = feed === 'youtube' ? 'youtube' : 'x';
+  const key = ['youtube','bluesky'].includes(feed) ? feed : 'x';
   return {
-    archive: key === 'youtube' ? 'data/youtube-public.json' : 'data/x-public.json',
+    archive: key === 'bluesky' ? null : key === 'youtube' ? 'data/youtube-public.json' : 'data/x-public.json',
     index: `${FEED_API}/${key}/index.json`,
     day: (dateKey) => `${FEED_API}/${key}/${dateKey}.json`,
   };
@@ -47,6 +47,7 @@ export function initialRequest(feed, now = new Date()) {
 }
 
 export function itemId(feed, item) {
+  if (feed === 'bluesky') return /^https:\/\/bsky\.app\/profile\/did:[^/]+\/post\/[A-Za-z0-9]+$/.test(item?.postUrl || '') ? item.postUrl : '';
   if (feed === 'youtube') {
     const match = String(item?.url || '').match(/[?&]v=([A-Za-z0-9_-]{11})/);
     return match ? match[1] : '';
@@ -65,7 +66,7 @@ export async function readJson(fetchImpl, url) {
   assertPublic(url);
   let response;
   try {
-    response = await fetchImpl(url);
+    response = await fetchImpl(url, {signal:AbortSignal.timeout(8000)});
   } catch {
     return { status: 0, data: null, network: true };
   }
