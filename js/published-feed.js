@@ -1,4 +1,4 @@
-import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson } from './daily-feed.js';
+import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js';
 import { messageFor } from './public-feed.js';
 
 function errorKind(response) {
@@ -8,17 +8,26 @@ function errorKind(response) {
   return null;
 }
 
-// The first view is the published timeline, anchored on its newest available
-// post. An empty calendar day must not hide existing text behind a button.
+// A prepared notification release defines the initial view. During migration,
+// the existing published timeline remains available until the first release.
 // Only approved public files/API responses are read, never raw/private data.
-export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onItems } = {}) {
+export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onItems, batch } = {}) {
+  if (batch && !/^[a-f0-9-]{36}$/.test(batch)) return {kind:'corrupt',items:[],requests:[],message:'通知リンクが正しくありません。'};
   const paths = feedPaths(feed);
   const today = jstDateKey(now);
-  const requests = [paths.archive, paths.index, paths.day(today)];
+  const releaseUrl = `${paths.index.replace(/\/(x|youtube)\/index\.json$/, '')}/notification${batch && /^[a-f0-9-]{36}$/.test(batch) ? `/${batch}` : ''}.json`;
+  const releaseResponse = await readJson(fetchImpl, releaseUrl);
+  const release = !errorKind(releaseResponse) && releaseResponse.data?.version === 1
+    && Array.isArray(releaseResponse.data?.items?.[feed])
+    && Number.isFinite(Date.parse(releaseResponse.data.cutoff))
+    && releaseResponse.data.items[feed].every(item => itemId(feed,item))
+    && new Set(releaseResponse.data.items[feed].map(item => itemId(feed,item))).size === releaseResponse.data.items[feed].length
+    ? releaseResponse.data : null;
+  const requests = [releaseUrl, paths.archive, paths.index, paths.day(today)];
   const [archive, index, current] = await Promise.all([
     readJson(fetchImpl, paths.archive).then(result => {
       // Preserve the fast static content path even while the live API loads.
-      if (!errorKind(result) && Array.isArray(result.data) && result.data.length) onItems?.(result.data);
+      if (!batch && !release && !errorKind(result) && Array.isArray(result.data) && result.data.length) onItems?.(result.data);
       return result;
     }),
     readJson(fetchImpl, paths.index),
@@ -32,6 +41,7 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     else groups.push(response.data);
   }
   // A recent version of a duplicate item takes precedence over the archive.
+  if (release) groups.push(release.items[feed]);
   collect(current);
   const indexError = errorKind(index);
   if (indexError) errors.push(indexError);
@@ -45,11 +55,16 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
   }
   collect(archive);
   const items = mergePublic(feed, groups);
+  const cycle = release ? {
+    release,
+    currentIds: release.items[feed].map(item => itemId(feed, item)),
+  } : {};
+  if (batch && !release) return {kind:'server',items:[],requests,message:'通知の公開分を取得できませんでした。時間をおいて再読み込みしてください。'};
   if (errors.length) {
     return {
-      kind: items.length ? 'partial' : errors[0], items, requests,
+      ...cycle, kind: items.length ? 'partial' : errors[0], items, requests,
       message: items.length ? '一部の更新を読み込めませんでした。取得できた公開済みの内容を表示しています。' : messageFor(feed, errors[0]),
     };
   }
-  return { kind: items.length ? 'ready' : 'empty', items, requests, message: items.length ? '' : messageFor(feed, 'empty') };
+  return { ...cycle, kind: items.length ? 'ready' : 'empty', items, requests, message: items.length ? '' : messageFor(feed, 'empty') };
 }

@@ -127,7 +127,7 @@ test('public sources deduplicate by ID, keep current text, and reject path-like 
   assert.ok(mock.calls.every(url => !url.includes('private')));
 });
 
-test('static text is rendered before unresolved live API requests finish', async () => {
+test('archive content waits for notification release selection before initial rendering', async () => {
   const mock = routesFor('youtube', { archive: [video] });
   let finish;
   const gate = new Promise(resolve => { finish = resolve; });
@@ -137,9 +137,10 @@ test('static text is rendered before unresolved live API requests finish', async
     return mock.fetchImpl(url);
   }, 'youtube', now, { onItems: items => progressive.push(...items) });
   await new Promise(resolve => setImmediate(resolve));
-  assert.deepEqual(progressive, [video]);
+  assert.deepEqual(progressive, []);
   finish();
   await result;
+  assert.deepEqual(progressive, [video]);
 });
 
 test('no-match searches show a message and clearing the query restores the body', async () => {
@@ -167,4 +168,56 @@ test('a day with no receive still retains every current published archive item a
     assert.ok(result.items.length > 100);
     assert.equal(result.message, '');
   }
+});
+
+function descendants(node) { const result=[]; walk(node, child=>result.push(child)); return result; }
+const releaseId = '12345678-1234-1234-1234-123456789abc';
+function withRelease(mock, feed, items, batch = '') {
+  mock.routes[`${FEED_API}/notification${batch ? `/${batch}` : ''}.json`] = { data: {
+    version:1,id:releaseId,preparedFor:'2026-10-23',cutoff:'2026-10-22T20:30:00Z',from:'2026-10-20T20:30:00Z',items:{x:[],youtube:[],[feed]:items},
+  } };
+  return mock;
+}
+test('the initial X view is the exact notification batch, independent of posting dates or later arrivals',async()=>{
+  const later={...yesterdayX,tweetUrl:'https://x.com/fan/status/2113498023288537132',text:'締め切り後'};
+  const mock=withRelease(routesFor('x',{archive:[oldX],today:[later],yesterday:[yesterdayX]}),'x',[yesterdayX]);
+  const {doc,nodes}=pageDocument('x');
+  const result=await mountPublishedFeed({document:doc,feed:'x',fetchImpl:mock.fetchImpl,now});
+  const all=descendants(nodes.get('tweet-container')).filter(node=>node.getAttribute('data-text')!==null && node.getAttribute('data-text')!==undefined);
+  const visible=all.filter(node=>node.style.display!=='none');
+  assert.equal(result.currentIds.length,1);
+  assert.equal(visible.length,1);assert.match(visible[0].getAttribute('data-text'),/昨日の新しい本文/);
+  assert.match(nodes.get('feed-message').textContent,/通知に合わせた公開分/);
+  nodes.get('past-posts-btn').dispatchEvent({type:'click'});
+  assert.equal(all.filter(node=>node.style.display!=='none').length,3);
+});
+
+test('YouTube initial view also uses the notified batch instead of the whole history',async()=>{
+  const newer={...video,url:'https://www.youtube.com/watch?v=zyxwvutsrqp',title:'次回分'};
+  const mock=withRelease(routesFor('youtube',{archive:[video],today:[newer]}),'youtube',[video]);
+  const {doc,nodes}=pageDocument('youtube');
+  await mountPublishedFeed({document:doc,feed:'youtube',fetchImpl:mock.fetchImpl,now});
+  const all=descendants(nodes.get('video-container')).filter(node=>node.getAttribute('data-title'));
+  assert.equal(all.filter(node=>node.style.display!=='none').length,1);
+});
+
+test('a zero-item batch does not present old posts as newly notified items or show processing counters',async()=>{
+  const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[]);
+  const {doc,nodes,hidden}=pageDocument('x');
+  await mountPublishedFeed({document:doc,feed:'x',fetchImpl:mock.fetchImpl,now});
+  assert.match(nodes.get('feed-message').textContent,/今回の公開分はありません/);
+  assert.doesNotMatch(nodes.get('feed-message').textContent,/受信|対象外|再試行待ち/);
+  assert.ok(descendants(nodes.get('tweet-container')).filter(node=>node.getAttribute('data-text')).every(node=>node.style.display==='none'));
+  assert.equal(hidden.has('hidden'),false);
+});
+
+test('old LINE links select their immutable batch; unavailable batches do not silently use the latest or archive',async()=>{
+  const mock=withRelease(routesFor('x',{archive:[oldX],today:[yesterdayX]}),'x',[oldX],releaseId);
+  const result=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:releaseId});
+  assert.deepEqual(result.currentIds,[oldX.tweetUrl.split('/').at(-1)]);
+  mock.routes[`${FEED_API}/notification/${releaseId}.json`]={status:503};
+  const failed=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:releaseId});
+  assert.deepEqual(failed.items,[]);assert.equal(failed.kind,'server');
+  const invalid=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:'../../private'});
+  assert.equal(invalid.kind,'corrupt');assert.deepEqual(invalid.requests,[]);
 });
