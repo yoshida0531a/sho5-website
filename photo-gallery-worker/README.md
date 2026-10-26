@@ -2,7 +2,8 @@
 
 編集対象は `src/index.js`、設定はこのディレクトリ直下の `wrangler.toml`。
 `production/index.js` は変更前の本番スナップショットで、ロールバック用に残す。
-この変更では本番Workerの更新、R2へのアップロードは実施していない。
+2026-10-26 にサイト・本番Workerの更新と、既存写真の縮小版追加を実施。
+`wrangler.toml` の `PHOTO_VARIANTS = "1"` で表示用WebPの配信を有効にする。
 
 ## 配信処理
 
@@ -27,11 +28,12 @@
 ```
 
 ```sh
-# cwebp が必要（macOS: brew install webp）。ローカル生成のみ。
+# cwebp と ImageMagick が必要（macOS: brew install webp imagemagick）。ローカル生成のみ。
 node scripts/create-variants.mjs /path/to/photos /path/to/output
 ```
 
 出力は元のファイル名を保持した以下のR2キーに対応する。
+撮影時の回転情報を画像の向きへ反映してから、EXIF等のメタデータを除去する。
 
 ```text
 _variants/thumb/2026-02-23/IMG_5905.JPG.webp   (幅320px、品質72)

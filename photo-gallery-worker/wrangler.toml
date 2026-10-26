@@ -3,6 +3,9 @@ main = "src/index.js"
 compatibility_date = "2024-07-10"
 compatibility_flags = ["nodejs_compat"]
 
+[vars]
+PHOTO_VARIANTS = "1"
+
 [[r2_buckets]]
 binding = "PHOTOS"
 bucket_name = "sho5-gallery-photos"
