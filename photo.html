@@ -174,6 +174,7 @@
       height: 100%;
       object-fit: cover;
       object-position: center;
+      filter: brightness(1.1) contrast(1.05);
       transition: transform 0.2s ease;
       display: block;
     }
@@ -470,9 +471,13 @@
       }
     }
   </style>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="css/photo-access.css?v=20261026">
+  <script src="js/photo-access.js?v=20261026" defer></script>
+  <script src="js/photo-protection.js?v=20261026" defer></script>
 </head>
 <body>
+  <noscript>写真の閲覧には JavaScript を有効にしてください。</noscript>
+  <main id="photo-content" hidden>
   <h1></h1>
   <div style="display: none;" id="back-link">
     <a href="photo-dates.html" class="top-link">←</a>
@@ -511,6 +516,8 @@
     Copyright © 2023-2025 Akira Yoshida.
   </footer>
 
+  </main>
+
   <script>
     // 現在の表示密度（1:最大、10:最小）
     let currentDensity = 2;
@@ -526,6 +533,8 @@
     let photosPerPage = 30; // 初期表示枚数（密度2のデフォルト値、updatePhotosPerPage()で上書きされる）
     let isLoading = false;
     let lastDensityChange = 0;
+    let nextPhotosCursor = null;
+    let readNextPhotoPage;
     let scrollObserver = null; // IntersectionObserver instance
     
     // Lightbox用の変数
@@ -581,7 +590,7 @@
       renderPhotos();
       
       // 設定を保存
-      localStorage.setItem('gallery_density', currentDensity);
+      try { localStorage.setItem('gallery_density', currentDensity); } catch { /* Private mode. */ }
       
       // 500ms後にボタンを再有効化
       setTimeout(() => {
@@ -614,19 +623,31 @@
       
       displayedPhotos = allPhotos.slice(0, endIndex);
       
-      let htmlContent = "";
-      for (let absoluteIndex = 0; absoluteIndex < endIndex; absoluteIndex++) {
+      // Keep existing image elements when adding a page or changing density.
+      while (gallery.children.length > endIndex) gallery.lastElementChild.remove();
+      const fragment = document.createDocumentFragment();
+      for (let absoluteIndex = gallery.children.length; absoluteIndex < endIndex; absoluteIndex++) {
         const photo = allPhotos[absoluteIndex];
-        const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=medium`;
-        
-        htmlContent += `
-          <a href="javascript:void(0)" onclick="openLightbox(${absoluteIndex})">
-            <img src="${imageUrl}" alt="${photo.filename}" loading="lazy" onerror="this.style.display='none'" style="filter: brightness(1.1) contrast(1.05);">
-          </a>`;
+        const link = document.createElement('a');
+        link.href = '#';
+        link.setAttribute('aria-label', `写真 ${absoluteIndex + 1} を拡大`);
+        link.addEventListener('click', event => {
+          event.preventDefault();
+          openLightbox(absoluteIndex);
+        });
+        const image = document.createElement('img');
+        image.alt = photo.filename;
+        image.draggable = false;
+        image.decoding = 'async';
+        image.loading = absoluteIndex < 4 ? 'eager' : 'lazy';
+        image.fetchPriority = absoluteIndex === 0 ? 'high' : 'auto';
+        image.src = photoImageURL(photo, 'medium');
+        image.addEventListener('error', () => { image.alt = '写真を読み込めませんでした'; });
+        link.append(image);
+        fragment.append(link);
       }
-      
-      gallery.innerHTML = htmlContent;
-      
+      gallery.append(fragment);
+
       // スクロール監視を設定
       setupScrollTrigger();
     }
@@ -642,7 +663,7 @@
         scrollObserver = null;
       }
       
-      if (displayedPhotos.length < allPhotos.length) {
+      if (displayedPhotos.length < allPhotos.length || nextPhotosCursor) {
         scrollTrigger.style.display = 'block';
         
         // Intersection Observer for lazy loading
@@ -650,7 +671,7 @@
           if (entries[0].isIntersecting && !isLoading) {
             loadMorePhotos();
           }
-        }, { threshold: 0.1 });
+        }, { rootMargin: '600px 0px', threshold: 0 });
         
         scrollObserver.observe(scrollTrigger);
       } else {
@@ -660,22 +681,29 @@
     }
     
     // 追加の写真を読み込み
-    function loadMorePhotos() {
-      if (isLoading || displayedPhotos.length >= allPhotos.length) return;
-      
+    async function loadMorePhotos() {
+      if (isLoading || (displayedPhotos.length >= allPhotos.length && !nextPhotosCursor)) return;
       isLoading = true;
       const loadingMore = document.getElementById('loading-more');
+      loadingMore.textContent = '写真を読み込み中...';
       loadingMore.style.display = 'block';
-      
-      // 少し遅延を入れてUIの安定性を確保
-      setTimeout(() => {
+      try {
+        if (displayedPhotos.length >= allPhotos.length && nextPhotosCursor) await readNextPhotoPage();
         currentPage++;
         renderPhotos();
-        isLoading = false;
         loadingMore.style.display = 'none';
-      }, 200);
+      } catch {
+        scrollObserver?.disconnect();
+        loadingMore.textContent = '続きの写真を読み込めませんでした。';
+        const retry = document.createElement('button');
+        retry.textContent = '再読み込み';
+        retry.addEventListener('click', loadMorePhotos, { once: true });
+        loadingMore.append(retry);
+      } finally {
+        isLoading = false;
+      }
     }
-    
+
     // タッチイベントハンドラー
     function handleTouchStart(e) {
       if (e.touches.length === 2) {
@@ -718,11 +746,13 @@
       }
     }
 
-    $(document).ready(function() {
+    document.addEventListener('DOMContentLoaded', async function() {
+      if (!await window.photoGalleryReady) return;
       // 保存された密度設定を読み込み
-      const savedDensity = localStorage.getItem('gallery_density');
-      if (savedDensity) {
-        currentDensity = parseInt(savedDensity);
+      let savedDensity;
+      try { savedDensity = localStorage.getItem('gallery_density'); } catch { /* Use default. */ }
+      if (/^(?:[1-9]|10)$/.test(savedDensity)) {
+        currentDensity = Number(savedDensity);
         const gallery = document.getElementById('gallery');
         gallery.classList.remove('density-2');
         gallery.classList.add(`density-${currentDensity}`);
@@ -741,140 +771,126 @@
       const urlParams = new URLSearchParams(window.location.search);
       const filterDate = urlParams.get('date');
       
-      // セッション認証チェック
-      const isAuthenticated = sessionStorage.getItem('flickr_authenticated');
-      if (!isAuthenticated) {
-        const userPassword = prompt("Please enter Password:");
-        if (userPassword === "Yakiniku") {
-          sessionStorage.setItem('flickr_authenticated', 'true');
-        } else {
-          alert("Password is wrong.");
-          window.location.href = "https://sho5.org";
-          return;
-        }
-      }
-
       // 日付パラメータがある場合
       if (filterDate) {
-        sessionStorage.setItem('flickr_authenticated', 'true');
-        $("h1").text(filterDate);
-        $("#back-link").show();
+        document.querySelector('h1').textContent = filterDate;
+        document.getElementById('back-link').style.display = 'block';
       } else {
-        $("h1").text("Sho5 Photo Gallery");
+        document.querySelector('h1').textContent = 'Sho5 Photo Gallery';
       }
       
       // タイトルを表示
-      $("h1").show();
+      document.querySelector('h1').style.display = 'block';
       
+      readNextPhotoPage = async () => {
+        const data = await readPhotoPage(nextPhotosCursor);
+        allPhotos.push(...data.photos);
+        nextPhotosCursor = data.nextCursor;
+      };
       loadGallery();
 
-      function loadGallery() {
-        // Cloudflare Worker APIエンドポイント
-        const apiUrl = 'https://photo-gallery-worker.chjqnfv62h.workers.dev/api/photos';
-        const params = new URLSearchParams();
-        
-        if (filterDate) {
-          params.append('date', filterDate);
-        }
-        params.append('limit', '1000');
+      async function readPhotoPage(cursor) {
+        const params = new URLSearchParams({ limit: '1000' });
+        if (filterDate) params.set('date', filterDate);
+        if (cursor) params.set('cursor', cursor);
+        const response = await fetch(`${PHOTO_API}/api/photos?${params}`, {
+          signal: AbortSignal.timeout(30000)
+        });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        const photos = Array.isArray(data.photos) ? data.photos.filter(photo => {
+          if (!photo || typeof photo.filename !== 'string' || typeof photo.url !== 'string') return false;
+          try {
+            const url = new URL(photo.url, PHOTO_API);
+            return url.origin === PHOTO_API && url.pathname.startsWith('/images/');
+          } catch { return false; }
+        }) : [];
+        return { photos, nextCursor: typeof data.nextCursor === 'string' ? data.nextCursor : null };
+      }
 
-        const requestUrl = `${apiUrl}?${params.toString()}`;
-        
-        // R2 APIからデータを取得（CORSとエラーハンドリングを改善）
-        $.ajax({
-          url: requestUrl,
-          method: 'GET',
-          dataType: 'json',
-          timeout: 30000,
-          headers: {
-            'Accept': 'application/json'
+      async function loadGallery() {
+        const gallery = document.getElementById('gallery');
+        gallery.textContent = '写真を読み込み中...';
+        try {
+          const data = await readPhotoPage(null);
+          allPhotos = data.photos;
+          nextPhotosCursor = data.nextCursor;
+          gallery.replaceChildren();
+          if (!allPhotos.length && !nextPhotosCursor) {
+            gallery.textContent = '写真が見つかりませんでした。';
+            return;
           }
-        })
-          .done(function(data) {
-            console.log("API Response: ", data);
-            
-            if (data && data.photos && data.photos.length > 0) {
-              // 全写真データを保存
-              allPhotos = data.photos;
-              
-              // 写真を段階的に表示
-              currentPage = 0;
-              renderPhotos();
-            } else {
-              $("#gallery").html("<p>写真が見つかりませんでした。データ: " + JSON.stringify(data) + "</p>");
-            }
-          })
-          .fail(function(jqxhr, textStatus, error) {
-            console.error("API Call Failed: ", textStatus, error, jqxhr.responseText);
-            let errorMessage = "<p>接続エラー: ";
-            if (jqxhr.status === 0) {
-              errorMessage += "サーバーに接続できません（CORS/ネットワークエラー）";
-            } else if (jqxhr.status === 404) {
-              errorMessage += "APIエンドポイントが見つかりません";
-            } else if (jqxhr.status === 500) {
-              errorMessage += "サーバー内部エラー";
-            } else {
-              errorMessage += `HTTP ${jqxhr.status} - ${textStatus}`;
-            }
-            errorMessage += "</p>";
-            errorMessage += "<p>デバッグ情報: " + requestUrl + "</p>";
-            $("#gallery").html(errorMessage);
-          });
+          currentPage = 0;
+          renderPhotos();
+        } catch {
+          gallery.textContent = '写真を読み込めませんでした。';
+          const retry = document.createElement('button');
+          retry.textContent = '再読み込み';
+          retry.addEventListener('click', loadGallery, { once: true });
+          gallery.append(retry);
+        }
       }
     });
-    
-    // Lightbox functions
-    function preloadImage(index) {
-      if (index < 0 || index >= allPhotos.length) return;
-      if (preloadedImages.has(index)) return;
-      
-      const photo = allPhotos[index];
-      const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
-      
-      const img = new Image();
-      img.src = imageUrl;
-      preloadedImages.set(index, img);
+
+    const PHOTO_API = 'https://photo-gallery-worker.chjqnfv62h.workers.dev';
+    function photoImageURL(photo, size) {
+      const url = new URL(photo.url, PHOTO_API);
+      url.searchParams.set('size', size);
+      return url.href;
     }
-    
-    function openLightbox(index) {
+
+    // Limit speculative requests to the two neighbors. Never preload originals.
+    function preloadImage(index) {
+      if (index < 0 || index >= allPhotos.length) return null;
+      if (preloadedImages.has(index)) return preloadedImages.get(index);
+      const image = new Image();
+      image.decoding = 'async';
+      image.src = photoImageURL(allPhotos[index], 'large');
+      preloadedImages.set(index, image);
+      return image;
+    }
+
+    async function openLightbox(index) {
+      if (!allPhotos[index]) return;
       currentLightboxIndex = index;
       lightboxActive = true;
       lightboxScale = 1;
       lightboxPosX = 0;
       lightboxPosY = 0;
-      
+      updateImageTransform();
       const lightbox = document.getElementById('lightbox');
       const lightboxImg = document.getElementById('lightbox-img');
       const lightboxLoading = document.getElementById('lightbox-loading');
-      const photo = allPhotos[index];
-      const imageUrl = `https://photo-gallery-worker.chjqnfv62h.workers.dev${photo.url}?size=original`;
-      
       lightbox.classList.add('active');
+      lightboxImg.draggable = false;
+      lightboxImg.alt = allPhotos[index].filename;
+      // Show the already downloaded thumbnail while the larger image decodes.
+      lightboxImg.src = photoImageURL(allPhotos[index], 'medium');
+      lightboxImg.style.display = 'block';
+      lightboxLoading.textContent = '読み込み中...';
       lightboxLoading.style.display = 'block';
-      lightboxImg.style.display = 'none';
       updateLightboxCounter();
-      
-      // プリロード済みの画像があれば使用
-      if (preloadedImages.has(index)) {
-        lightboxImg.src = preloadedImages.get(index).src;
-        lightboxLoading.style.display = 'none';
-        lightboxImg.style.display = 'block';
-      } else {
-        lightboxImg.src = imageUrl;
-        lightboxImg.onload = function() {
-          lightboxLoading.style.display = 'none';
-          lightboxImg.style.display = 'block';
-        };
-      }
-      
-      // 前後の画像をプリロード
-      preloadImage(index - 1);
-      preloadImage(index + 1);
-      
-      // スクロールを防ぐ
       document.body.style.overflow = 'hidden';
+      const image = preloadImage(index);
+      for (const key of preloadedImages.keys()) {
+        if (Math.abs(key - index) > 1) preloadedImages.delete(key);
+      }
+      try {
+        await image.decode();
+        if (!lightboxActive || currentLightboxIndex !== index) return;
+        lightboxImg.src = image.src;
+        lightboxLoading.style.display = 'none';
+      } catch {
+        preloadedImages.delete(index);
+        if (!lightboxActive || currentLightboxIndex !== index) return;
+        lightboxLoading.textContent = '拡大写真を読み込めませんでした';
+      }
+      if (lightboxActive && currentLightboxIndex === index && !navigator.connection?.saveData) {
+        preloadImage(index - 1);
+        preloadImage(index + 1);
+      }
     }
-    
+
     function closeLightbox() {
       lightboxActive = false;
       const lightbox = document.getElementById('lightbox');
@@ -922,6 +938,8 @@
           const touch = e.touches[0];
           startX = touch.clientX - lightboxPosX;
           startY = touch.clientY - lightboxPosY;
+          currentX = lightboxPosX;
+          currentY = lightboxPosY;
           isDragging = true;
           
           // ダブルタップ検出
@@ -1040,7 +1058,7 @@
     }
     
     // Initialize lightbox events on page load
-    $(document).ready(function() {
+    document.addEventListener('DOMContentLoaded', function() {
       setupLightboxTouchEvents();
     });
   </script>
