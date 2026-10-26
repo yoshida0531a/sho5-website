@@ -89,14 +89,19 @@
       margin: 20px 0;
     }
   </style>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="css/photo-access.css?v=20261026">
+  <script src="js/photo-access.js?v=20261026" defer></script>
+  <script src="js/photo-protection.js?v=20261026" defer></script>
 </head>
 <body>
+  <noscript>写真の閲覧には JavaScript を有効にしてください。</noscript>
+  <main id="photo-content" hidden>
+  <template id="photo-dates-content">
   <a href="index.html" class="top-link">←</a>
   <header>Sho5 Photo Gallery</header>
 
-  <div class="slideshow">
-    <img src="assets/images/photo-dates_top.webp" alt="Photo Gallery">
+  <div class="slideshow" data-protected-photo>
+    <img src="assets/images/photo-dates_top.webp" alt="Photo Gallery" draggable="false" decoding="async">
   </div>
 
   <div class="links">
@@ -115,26 +120,7 @@
 
   <footer>Copyright © 2023-2026 Akira Yoshida.</footer>
 
-  <script>
-    $(document).ready(function() {
-      const correctPassword = "Yakiniku";
-
-      // セッションストレージで認証状態をチェック
-      const isAuthenticated = sessionStorage.getItem('flickr_authenticated');
-
-      if (!isAuthenticated) {
-        // 初回のみパスワード入力を促す
-        const userPassword = prompt("Please enter Password:");
-
-        if (userPassword === correctPassword) {
-          // 認証成功時にセッションストレージに保存
-          sessionStorage.setItem('flickr_authenticated', 'true');
-        } else {
-          alert("Password is wrong.");
-          window.location.href = "https://sho5.org";
-        }
-      }
-    });
-  </script>
+  </template>
+  </main>
 </body>
 </html>

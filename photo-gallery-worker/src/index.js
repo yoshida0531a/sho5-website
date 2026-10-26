@@ -1,187 +1,99 @@
-// 無料枠制限設定（R2容量を最大活用）
-const FREE_TIER_LIMITS = {
-  STORAGE_GB: 9.8, // 10GBの98%まで使用可能
-  MONTHLY_REQUESTS: 50000, // リクエスト制限を緩和（月中旬なのでリセット）
-  MAX_PHOTOS: 25000 // より多くの写真を許可
+// The legacy API is public. UI save restrictions are not access control.
+const corsHeaders = {
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'GET, HEAD, OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type, If-None-Match',
+  'Access-Control-Expose-Headers': 'ETag, X-Photo-Variant',
 };
 
 export default {
-  async fetch(request, env, ctx) {
+  async fetch(request, env) {
+    if (request.method === 'OPTIONS') return new Response(null, { headers: corsHeaders });
+    if (!['GET', 'HEAD'].includes(request.method)) {
+      return new Response('Method not allowed', { status: 405, headers: { ...corsHeaders, Allow: 'GET, HEAD, OPTIONS' } });
+    }
     const url = new URL(request.url);
-    const path = url.pathname;
-
-    // 使用量チェック
-    const usageCheck = await checkUsageLimits(env);
-    if (!usageCheck.allowed) {
-      return new Response(JSON.stringify({
-        error: 'Usage limit exceeded',
-        message: usageCheck.message,
-        limit: 'FREE_TIER_PROTECTION'
-      }), {
-        status: 429,
-        headers: { 'Content-Type': 'application/json' }
-      });
-    }
-
-    // CORS設定
-    const corsHeaders = {
-      'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
-    };
-
-    if (request.method === 'OPTIONS') {
-      return new Response(null, { headers: corsHeaders });
-    }
-
     try {
-      // 写真一覧API
-      if (path === '/api/photos') {
+      if (url.pathname === '/api/photos') {
         const photos = await listPhotos(env.PHOTOS, url.searchParams);
-        return new Response(JSON.stringify(photos), {
-          headers: {
-            'Content-Type': 'application/json',
-            ...corsHeaders
-          }
+        return new Response(request.method === 'HEAD' ? null : JSON.stringify(photos), {
+          headers: { ...corsHeaders, 'Content-Type': 'application/json', 'Cache-Control': 'public, max-age=60' },
         });
       }
-
-      // 画像配信（圧縮版）
-      if (path.startsWith('/images/')) {
-        const key = path.replace('/images/', '');
-        const size = url.searchParams.get('size') || 'medium';
-        return await serveImage(env.PHOTOS, key, size, corsHeaders);
-      }
-
-      // デフォルトレスポンス
-      return new Response('Photo Gallery Worker', { headers: corsHeaders });
-
-    } catch (error) {
-      console.error('Worker error:', error);
-      return new Response(JSON.stringify({ error: error.message }), {
-        status: 500,
-        headers: {
-          'Content-Type': 'application/json',
-          ...corsHeaders
+      if (url.pathname.startsWith('/images/')) {
+        const key = decodeURIComponent(url.pathname.slice('/images/'.length));
+        if (!/^\d{4}-\d{2}-\d{2}\/[^/\\]+\.(jpe?g|png)$/i.test(key)) {
+          return new Response('Invalid image key', { status: 400, headers: corsHeaders });
         }
-      });
+        return await serveImage(request, env, key, url.searchParams.get('size') || 'medium');
+      }
+      return new Response('Photo Gallery Worker', { headers: corsHeaders });
+    } catch (error) {
+      if (error instanceof URIError || error instanceof RangeError) {
+        return new Response('Invalid request', { status: 400, headers: corsHeaders });
+      }
+      console.error('Photo gallery request failed', error);
+      return new Response('Photo service unavailable', { status: 500, headers: corsHeaders });
     }
-  }
+  },
 };
 
-// 写真一覧を取得
-async function listPhotos(bucket, searchParams) {
-  const date = searchParams.get('date');
-  const limit = parseInt(searchParams.get('limit') || '300');
-  
-  // R2から写真一覧を取得
+async function listPhotos(bucket, params) {
+  const date = params.get('date');
+  if (date && !/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new RangeError('Invalid date');
+  const parsed = Number(params.get('limit') || 300);
+  const limit = Number.isInteger(parsed) ? Math.min(1000, Math.max(1, parsed)) : 300;
   const objects = await bucket.list({
-    limit: 1000, // R2の最大値
-    prefix: date ? `${date}/` : ''
+    limit,
+    prefix: date ? `${date}/` : '',
+    ...(params.get('cursor') ? { cursor: params.get('cursor') } : {}),
+    include: ['customMetadata'],
   });
-
-  // メタデータから撮影日時を取得してソート
   const photos = objects.objects
-    .filter(obj => obj.key.toLowerCase().match(/\.(jpg|jpeg|png)$/))
-    .map(obj => {
-      // キーから日付と時間を抽出: YYYY-MM-DD/IMG_XXXX.JPG
-      const [datePart, filename] = obj.key.split('/');
-      const dateTime = obj.customMetadata?.dateTime || datePart + ' 12:00:00';
-      
+    .filter(object => /^\d{4}-\d{2}-\d{2}\/[^/]+\.(jpg|jpeg|png)$/i.test(object.key))
+    .map(object => {
+      const [datePart, filename] = object.key.split('/');
       return {
-        key: obj.key,
-        filename: filename || obj.key,
-        dateTime: dateTime,
-        size: obj.size,
-        url: `/images/${obj.key}`
+        key: object.key,
+        filename,
+        dateTime: object.customMetadata?.dateTime || `${datePart} 12:00:00`,
+        size: object.size,
+        url: `/images/${object.key.split('/').map(encodeURIComponent).join('/')}`,
       };
     })
-    .sort((a, b) => new Date(a.dateTime) - new Date(b.dateTime))
-    .slice(0, limit);
-
-  return {
-    photos,
-    total: photos.length,
-    hasMore: objects.objects.length > limit
-  };
+    .sort((a, b) => a.dateTime.localeCompare(b.dateTime) || a.key.localeCompare(b.key));
+  return { photos, total: photos.length, hasMore: objects.truncated, nextCursor: objects.truncated ? objects.cursor : null };
 }
 
-// 画像を圧縮して配信
-async function serveImage(bucket, key, size, corsHeaders) {
-  try {
-    const object = await bucket.get(key);
-    if (!object) {
-      return new Response('Image not found', { status: 404, headers: corsHeaders });
-    }
-
-    const imageData = await object.arrayBuffer();
-    
-    // サイズ別の圧縮設定
-    const sizeConfigs = {
-      thumb: { width: 300, quality: 70 },
-      medium: { width: 800, quality: 80 },
-      large: { width: 1200, quality: 85 },
-      original: null
-    };
-
-    const config = sizeConfigs[size];
-    
-    // オリジナルサイズの場合はそのまま返す
-    if (!config) {
-      return new Response(imageData, {
-        headers: {
-          'Content-Type': object.httpMetadata?.contentType || 'image/jpeg',
-          'Cache-Control': 'public, max-age=31536000',
-          ...corsHeaders
-        }
-      });
-    }
-
-    // 簡易圧縮（実際のプロダクションではCloudflare Images等を使用）
-    // ここでは基本的な応答のみ実装
-    return new Response(imageData, {
-      headers: {
-        'Content-Type': object.httpMetadata?.contentType || 'image/jpeg',
-        'Cache-Control': 'public, max-age=31536000',
-        ...corsHeaders
-      }
-    });
-
-  } catch (error) {
-    console.error('Image serve error:', error);
-    return new Response('Error serving image', { status: 500, headers: corsHeaders });
+async function serveImage(request, env, key, size) {
+  if (!['thumb', 'medium', 'large', 'original'].includes(size)) {
+    return new Response('Invalid image size', { status: 400, headers: corsHeaders });
   }
-}
-
-// 無料枠使用量チェック機能（簡易版）
-async function checkUsageLimits(env) {
-  try {
-    // R2使用量の概算チェックのみ（KV統計は無視）
-    const objects = await env.PHOTOS.list({ limit: 100 });
-    const estimatedStorageGB = (objects.objects.length * 700 * 1024) / (1024 * 1024 * 1024); // 700KB平均に更新
-
-    console.log(`Current usage: ${objects.objects.length} photos, ~${estimatedStorageGB.toFixed(2)}GB`);
-
-    // ストレージ容量のみチェック
-    if (estimatedStorageGB >= FREE_TIER_LIMITS.STORAGE_GB) {
-      return {
-        allowed: false,
-        message: `Storage limit reached (${FREE_TIER_LIMITS.STORAGE_GB}GB)`
-      };
-    }
-
-    if (objects.objects.length >= FREE_TIER_LIMITS.MAX_PHOTOS) {
-      return {
-        allowed: false,
-        message: `Photo count limit reached (${FREE_TIER_LIMITS.MAX_PHOTOS})`
-      };
-    }
-
-    return { allowed: true };
-
-  } catch (error) {
-    console.error('Usage check error:', error);
-    // エラー時は許可（制限を緩く）
-    return { allowed: true };
+  // Enable only after uploading pre-generated variants; no paid image service.
+  // Existing buckets keep serving the current files until PHOTO_VARIANTS=1.
+  let variant = 'source';
+  let object;
+  const conditions = new Headers();
+  // Forward cache validators only; other HTTP preconditions have different statuses.
+  for (const name of ['If-None-Match', 'If-Modified-Since']) {
+    if (request.headers.has(name)) conditions.set(name, request.headers.get(name));
   }
+  const options = { onlyIf: conditions };
+  if (env.PHOTO_VARIANTS === '1' && size !== 'original') {
+    object = await env.PHOTOS.get(`_variants/${size}/${key}.webp`, options);
+    if (object) variant = size;
+  }
+  if (!object) object = await env.PHOTOS.get(key, options);
+  if (!object) return new Response('Image not found', { status: 404, headers: corsHeaders });
+  const headers = new Headers(corsHeaders);
+  object.writeHttpMetadata(headers);
+  headers.set('Content-Type', variant === 'source' ? object.httpMetadata?.contentType || 'image/jpeg' : 'image/webp');
+  headers.set('ETag', object.httpEtag);
+  headers.set('Cache-Control', 'public, max-age=86400');
+  headers.set('Content-Disposition', 'inline');
+  headers.set('X-Content-Type-Options', 'nosniff');
+  headers.set('X-Photo-Variant', variant);
+  if (!('body' in object)) return new Response(null, { status: 304, headers });
+  // Stream from R2. Do not wait for arrayBuffer() or list the bucket per image.
+  return new Response(request.method === 'HEAD' ? null : object.body, { headers });
 }
