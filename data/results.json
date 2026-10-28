@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://baseball.yahoo.co.jp/npb/player/2118999/top",
-  "fetchedAt": "2026-10-28T03:31:11.316Z",
+  "fetchedAt": "2026-10-28T04:11:14.786Z",
   "lastUpdated": "2026-10-28",
   "farmSummary": {
     "raw": {
@@ -69,15 +69,15 @@
       "date": "10/28",
       "gameKind": "フェニックスリーグ",
       "opponent": "オリックス",
-      "atBats": "1",
-      "hits": "0",
+      "atBats": "2",
+      "hits": "1",
       "homeRuns": "0",
       "rbi": "0",
       "runs": "0",
       "strikeouts": "0",
       "walks": "1",
       "hitByPitch": "0",
-      "battingResults": "四球、右飛",
+      "battingResults": "四球、右飛、右安",
       "gameUrl": "https://baseball.yahoo.co.jp/npb/game/2021051654/top"
     },
     {
