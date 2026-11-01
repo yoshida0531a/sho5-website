@@ -179,7 +179,7 @@ function withRelease(mock, feed, items, batch = '') {
   } };
   return mock;
 }
-test('the initial X view is the exact notification batch, independent of posting dates or later arrivals',async()=>{
+test('normal X pages show the recent approved timeline beyond the notification batch',async()=>{
   const later={...yesterdayX,tweetUrl:'https://x.com/fan/status/2113498023288537132',text:'締め切り後'};
   const mock=withRelease(routesFor('x',{archive:[oldX],today:[later],yesterday:[yesterdayX]}),'x',[yesterdayX]);
   const {doc,nodes}=pageDocument('x');
@@ -187,29 +187,30 @@ test('the initial X view is the exact notification batch, independent of posting
   const all=descendants(nodes.get('tweet-container')).filter(node=>node.getAttribute('data-text')!==null && node.getAttribute('data-text')!==undefined);
   const visible=all.filter(node=>node.style.display!=='none');
   assert.equal(result.currentIds.length,1);
-  assert.equal(visible.length,1);assert.match(visible[0].getAttribute('data-text'),/昨日の新しい本文/);
+  assert.equal(visible.length,2);assert.match(visible[0].getAttribute('data-text'),/締め切り後/);
   assert.equal(nodes.get('feed-message').textContent,'');
+  nodes.get('past-posts-btn').dispatchEvent({type:'click'});
   nodes.get('past-posts-btn').dispatchEvent({type:'click'});
   assert.equal(all.filter(node=>node.style.display!=='none').length,3);
 });
 
-test('YouTube initial view also uses the notified batch instead of the whole history',async()=>{
+test('normal YouTube pages keep approved history visible when a notification is small',async()=>{
   const newer={...video,url:'https://www.youtube.com/watch?v=zyxwvutsrqp',title:'次回分'};
   const mock=withRelease(routesFor('youtube',{archive:[video],today:[newer]}),'youtube',[video]);
   const {doc,nodes}=pageDocument('youtube');
   await mountPublishedFeed({document:doc,feed:'youtube',fetchImpl:mock.fetchImpl,now});
   const all=descendants(nodes.get('video-container')).filter(node=>node.getAttribute('data-title'));
-  assert.equal(all.filter(node=>node.style.display!=='none').length,1);
+  assert.equal(all.filter(node=>node.style.display!=='none').length,2);
 });
 
-test('a zero-item batch does not present old posts as newly notified items or show processing counters',async()=>{
+test('a zero-item notification does not blank the normal approved timeline',async()=>{
   const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[]);
   const {doc,nodes,hidden}=pageDocument('x');
   await mountPublishedFeed({document:doc,feed:'x',fetchImpl:mock.fetchImpl,now});
   assert.equal(nodes.get('feed-message').textContent,'');
   assert.doesNotMatch(nodes.get('feed-message').textContent,/受信|対象外|再試行待ち/);
-  assert.ok(descendants(nodes.get('tweet-container')).filter(node=>node.getAttribute('data-text')).every(node=>node.style.display==='none'));
-  assert.equal(hidden.has('hidden'),false);
+  assert.match(visibleTexts(nodes.get('tweet-container')), /公開済みの本文/);
+  assert.equal(hidden.has('hidden'),true);
 });
 
 test('old LINE links select their immutable batch; unavailable batches do not silently use the latest or archive',async()=>{
@@ -223,13 +224,13 @@ test('old LINE links select their immutable batch; unavailable batches do not si
   assert.equal(invalid.kind,'corrupt');assert.deepEqual(invalid.requests,[]);
 });
 
-test('release failure must not silently replace the current notification with archive items',async()=>{
+test('normal pages preserve approved history and disclose a notification API failure',async()=>{
   for(const feed of ['x','youtube']) for(const status of [403,503,200]) {
     const mock=routesFor(feed,{archive:feed==='x'?[oldX]:[video]});
     mock.routes[`${FEED_API}/notification.json`]={status,data:{unexpected:true}};
     const result=await loadPublishedFeed(mock.fetchImpl,feed,now);
-    assert.equal(result.kind,'server');assert.deepEqual(result.items,[]);
-    assert.equal(mock.calls.length,1);
+    assert.equal(result.kind,'partial');assert.deepEqual(result.items,feed==='x'?[oldX]:[video]);
+    assert.match(result.message,/一部の更新/);
   }
 });
 
@@ -261,4 +262,22 @@ test('YouTube wall-clock input and labels consistently use Japan time',async()=>
   const {parseCustomDate,formatVideoDate}=await import('../js/feed-behavior.js');
   assert.equal(parseCustomDate('October 24, 2026 at 12:05AM').toISOString(),'2026-10-23T15:05:00.000Z');
   assert.equal(formatVideoDate(new Date('2026-10-23T15:05:00Z')),'2026/10/24 00:05');
+});
+
+test('explicit batch links keep their exact initial selection after restoring normal timelines', async () => {
+  const mock = withRelease(routesFor('x', { archive: [oldX], today: [yesterdayX] }), 'x', [oldX], releaseId);
+  const { doc, nodes } = pageDocument('x');
+  await mountPublishedFeed({ document: doc, feed: 'x', fetchImpl: mock.fetchImpl, now, batch: releaseId });
+  assert.match(visibleTexts(nodes.get('tweet-container')), /公開済みの本文/);
+  assert.doesNotMatch(visibleTexts(nodes.get('tweet-container')), /昨日の新しい本文/);
+});
+
+test('recent days use JST boundaries independently of the browser timezone', async () => {
+  const { filterFeed } = await import('../js/feed-behavior.js');
+  const items = [
+    { date: new Date('2026-11-01T15:01:00Z') },
+    { date: new Date('2026-10-31T15:00:00Z') },
+    { date: new Date('2026-10-31T14:59:59Z') },
+  ];
+  assert.deepEqual(filterFeed(items, { mostRecentDate: items[0].date }).visible, [true, true, false]);
 });

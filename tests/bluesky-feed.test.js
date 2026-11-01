@@ -66,17 +66,17 @@ test('Bluesky reads only the selected release and public daily history, with the
  assert.deepEqual(result.currentIds,[post('current').postUrl]);assert.ok(mock.calls.includes(`${FEED_API}/notification/${releaseId}.json`));
  assert.equal(result.items.length,2);
 });
-test('initial Bluesky view shows only this release; search and past button can show previous selected posts',async()=>{
+test('normal Bluesky view includes recent selected history, and search remains available',async()=>{
  const mock=routes();const {document,nodes}=pageDocument();
  await mountBlueskyFeed({document,fetchImpl:mock.fetchImpl,now});
- assert.match(texts(nodes.get('post-container')),/谷端ナイス/);assert.doesNotMatch(texts(nodes.get('post-container')),/前の公開分/);
+ assert.match(texts(nodes.get('post-container')),/谷端ナイス/);assert.match(texts(nodes.get('post-container')),/前の公開分/);
  nodes.get('past-posts-btn').dispatchEvent({type:'click'});assert.match(texts(nodes.get('post-container')),/前の公開分/);
  assert.equal(nodes.get('feed-message').textContent,'');
  nodes.get('search').value='前の公開分';nodes.get('search').dispatchEvent({type:'input'});assert.doesNotMatch(texts(nodes.get('post-container')),/谷端ナイス/);
 });
 test('unavailable selection never falls back to unscreened live Bluesky or the old unselected snapshot',async()=>{
  const mock=routes({fail:true});const result=await loadPublishedFeed(mock.fetchImpl,'bluesky',now);
- assert.equal(result.kind,'server');assert.deepEqual(result.items,[]);assert.equal(mock.calls.length,1);
+ assert.equal(result.kind,'partial');assert.equal(result.items.length,2);assert.match(result.message,/一部の更新/);
 });
 test('only an explicit unprepared first cycle can use the selected public migration snapshot',async()=>{
  const calls=[];
