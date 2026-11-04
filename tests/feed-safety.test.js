@@ -61,12 +61,12 @@ test('renders external text without innerHTML and keeps unsafe URLs unlinked', (
 });
 
 test('keeps newest-first order, search, and the X date window', () => {
-  const newest = new Date(2026, 9, 15, 18, 0, 0);
+  const newest = new Date('2026-10-15T18:00:00+09:00');
   const items = [
     { username: 'a', text: '谷端ナイス', date: newest },
-    { username: 'b', text: '昨日の応援', date: new Date(2026, 9, 14, 12, 0, 0) },
-    { username: 'c', text: '三日前', date: new Date(2026, 9, 13, 12, 0, 0) },
-    { username: 'd', text: 'ずっと前の谷端', date: new Date(2026, 8, 1, 12, 0, 0) },
+    { username: 'b', text: '昨日の応援', date: new Date('2026-10-14T12:00:00+09:00') },
+    { username: 'c', text: '三日前', date: new Date('2026-10-13T12:00:00+09:00') },
+    { username: 'd', text: 'ずっと前の谷端', date: new Date('2026-09-01T12:00:00+09:00') },
   ];
   const first = filterFeed(items, { searchQuery: '', weeksToShow: 0, mostRecentDate: newest });
   assert.deepEqual(first.visible, [true, true, false, false]);
