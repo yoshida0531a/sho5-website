@@ -1,4 +1,4 @@
-import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261025-first-cycle';
+import { ARCHIVE_FETCH_CONCURRENCY, feedPaths, jstDateKey, mapInOrder, mergePublic, readJson, itemId } from './daily-feed.js?v=20261102-timeline';
 import { messageFor } from './public-feed.js';
 
 function errorKind(response) {
@@ -8,8 +8,8 @@ function errorKind(response) {
   return null;
 }
 
-// A prepared notification release defines the initial view. During migration,
-// the existing published timeline remains available until the first release.
+// Normal pages show the approved timeline. Only an explicit batch link pins
+// the initial view to a notification; LINE availability must not hide history.
 // Only approved public files/API responses are read, never raw/private data.
 export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onItems, batch } = {}) {
   if (batch && !/^[a-f0-9-]{36}$/.test(batch)) return {kind:'corrupt',items:[],requests:[],message:'通知リンクが正しくありません。'};
@@ -25,8 +25,8 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     && releaseResponse.data.items[feed].every(item => itemId(feed,item))
     && new Set(releaseResponse.data.items[feed].map(item => itemId(feed,item))).size === releaseResponse.data.items[feed].length
     ? releaseResponse.data : null;
-  // A missing initial head is the only migration fallback. An outage or
-  // corrupt release must not silently show a different set than LINE.
+  // Pinned links fail closed. Normal pages can still use approved public files
+  // during a notification API outage, with a visible partial-result message.
   if (!release && !batch && feed === 'bluesky' && releaseResponse.status === 404) {
     // Only the independently selected public migration snapshot is allowed.
     // Never query live Bluesky or use the old unselected public snapshot.
@@ -39,7 +39,7 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     }
     return {kind:'server',items:[],requests:[releaseUrl,archiveUrl],message:messageFor(feed,'server')};
   }
-  if (!release && (batch || feed === 'bluesky' || releaseResponse.status !== 404)) return {kind:'server',items:[],requests:[releaseUrl],message:'公開済みの投稿を確認できませんでした。時間をおいて再読み込みしてください。'};
+  if (!release && batch) return {kind:'server',items:[],requests:[releaseUrl],message:'公開済みの投稿を確認できませんでした。時間をおいて再読み込みしてください。'};
   if (release) onItems?.(release.items[feed],{release,currentIds:release.items[feed].map(item=>itemId(feed,item))});
   const requests = [releaseUrl, paths.archive, paths.index, paths.day(today)].filter(Boolean);
   const [archive, index, current] = await Promise.all([
@@ -53,6 +53,7 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
   ]);
   const groups = [];
   const errors = [];
+  if (!release && releaseResponse.status !== 404) errors.push(errorKind(releaseResponse) || 'corrupt');
   function collect(response) {
     const error = errorKind(response) || (!Array.isArray(response.data) ? 'corrupt' : null);
     if (error) errors.push(error);

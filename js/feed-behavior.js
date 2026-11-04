@@ -79,7 +79,8 @@ export function filterFeed(items, { searchQuery = '', weeksToShow = 0, mostRecen
   }
 
   const anchor = mostRecentDate instanceof Date ? mostRecentDate : new Date(mostRecentDate);
-  const dayStart = new Date(anchor.getFullYear(), anchor.getMonth(), anchor.getDate());
+  const japan = new Date(anchor.getTime() + 9 * 60 * 60 * 1000);
+  const dayStart = new Date(Date.UTC(japan.getUTCFullYear(), japan.getUTCMonth(), japan.getUTCDate()) - 9 * 60 * 60 * 1000);
   const cutoff = weeksToShow === 0
     ? new Date(dayStart.getTime() - ONE_DAY_MS)
     : new Date(dayStart.getTime() - (weeksToShow * ONE_WEEK_MS));
