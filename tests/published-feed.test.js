@@ -234,12 +234,12 @@ test('normal pages preserve approved history and disclose a notification API fai
   }
 });
 
-test('selected text renders before slow history; history failure cannot hide the batch',async()=>{
-  const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[yesterdayX]);
+test('explicit batch text renders before slow history; history failure cannot hide the batch',async()=>{
+  const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[yesterdayX],releaseId);
   mock.routes[`${FEED_API}/x/index.json`].status=503;
   let finish;const gate=new Promise(resolve=>{finish=resolve;});
   const {doc,nodes}=pageDocument('x');
-  const pending=mountPublishedFeed({document:doc,feed:'x',now,fetchImpl:async url=>{
+  const pending=mountPublishedFeed({document:doc,feed:'x',now,batch:releaseId,fetchImpl:async url=>{
     if(!url.includes('/notification'))await gate;
     return mock.fetchImpl(url);
   }});
@@ -280,4 +280,30 @@ test('recent days use JST boundaries independently of the browser timezone', asy
     { date: new Date('2026-10-31T14:59:59Z') },
   ];
   assert.deepEqual(filterFeed(items, { mostRecentDate: items[0].date }).visible, [true, true, false]);
+});
+
+test('AI-only normal X feed cannot reintroduce rejected posts from notification or archive',async()=>{
+  const approved={...yesterdayX,tweetUrl:'https://x.com/fan/status/2113498023288537132',text:'AI APPROVED'};
+  const rejected={...yesterdayX,text:'MUST NOT LEAK'};
+  const mock=withRelease(routesFor('x',{archive:[oldX,rejected],today:[approved]}),'x',[rejected]);
+  mock.routes[`${FEED_API}/x/index.json`].data.selection={kind:'gemma-x-v1',startAt:'2026-10-20T00:00:00Z'};
+  const progressive=[];
+  const result=await loadPublishedFeed(mock.fetchImpl,'x',now,{onItems:items=>progressive.push(...items)});
+  assert.equal(result.items.length,2);
+  assert.ok(result.items.some(x=>x.text==='AI APPROVED'));
+  assert.ok(result.items.some(x=>x.text===oldX.text));
+  assert.doesNotMatch(JSON.stringify([...progressive,...result.items]),/MUST NOT LEAK/);
+  assert.equal(result.currentIds.length,0);
+});
+test('missing AI selection metadata never falls back to notification/archive copies on normal X',async()=>{
+  const mock=withRelease(routesFor('x',{archive:[yesterdayX],indexStatus:503}),'x',[yesterdayX]);
+  const progressive=[];
+  const result=await loadPublishedFeed(mock.fetchImpl,'x',now,{onItems:items=>progressive.push(...items)});
+  assert.deepEqual(result.items,[]);assert.deepEqual(progressive,[]);
+});
+test('explicit batch retains its selection even with AI index metadata',async()=>{
+  const mock=withRelease(routesFor('x',{archive:[oldX]}),'x',[yesterdayX],releaseId);
+  mock.routes[`${FEED_API}/x/index.json`].data.selection={kind:'gemma-x-v1',startAt:'2026-10-20T00:00:00Z'};
+  const result=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:releaseId});
+  assert.ok(result.items.some(x=>x.tweetUrl===yesterdayX.tweetUrl));
 });

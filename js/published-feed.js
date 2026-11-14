@@ -14,6 +14,7 @@ function errorKind(response) {
 export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onItems, batch } = {}) {
   if (batch && !/^[a-f0-9-]{36}$/.test(batch)) return {kind:'corrupt',items:[],requests:[],message:'通知リンクが正しくありません。'};
   const paths = feedPaths(feed);
+  const normalX = feed === 'x' && !batch;
   const today = jstDateKey(now);
   const releaseUrl = `${paths.index.replace(/\/(x|youtube|bluesky)\/index\.json$/, '')}/notification${batch && /^[a-f0-9-]{36}$/.test(batch) ? `/${batch}` : ''}.json`;
   const releaseResponse = await readJson(fetchImpl, releaseUrl);
@@ -40,12 +41,12 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     return {kind:'server',items:[],requests:[releaseUrl,archiveUrl],message:messageFor(feed,'server')};
   }
   if (!release && batch) return {kind:'server',items:[],requests:[releaseUrl],message:'公開済みの投稿を確認できませんでした。時間をおいて再読み込みしてください。'};
-  if (release) onItems?.(release.items[feed],{release,currentIds:release.items[feed].map(item=>itemId(feed,item))});
+  if (release && !normalX) onItems?.(release.items[feed],{release,currentIds:release.items[feed].map(item=>itemId(feed,item))});
   const requests = [releaseUrl, paths.archive, paths.index, paths.day(today)].filter(Boolean);
   const [archive, index, current] = await Promise.all([
     (paths.archive ? readJson(fetchImpl, paths.archive) : Promise.resolve({status:200,data:[]})).then(result => {
       // Preserve the fast static content path even while the live API loads.
-      if (!batch && !release && !errorKind(result) && Array.isArray(result.data) && result.data.length) onItems?.(result.data);
+      if (!normalX && !batch && !release && !errorKind(result) && Array.isArray(result.data) && result.data.length) onItems?.(result.data);
       return result;
     }),
     readJson(fetchImpl, paths.index),
@@ -53,6 +54,20 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
   ]);
   const groups = [];
   const errors = [];
+  // On the normal X page, notification/archive copies after AI activation are
+  // not publication authority. Wait for the index before rendering those copies.
+  function legacyItems(items) {
+    if (!normalX) return items;
+    if (errorKind(index) || !Array.isArray(index.data?.dates)) return [];
+    const selection = index.data.selection;
+    if (!selection) return items;
+    const start = Date.parse(selection.startAt);
+    if (selection.kind !== 'gemma-x-v1' || !Number.isFinite(start)) { errors.push('corrupt'); return []; }
+    return items.filter(item => {
+      try { return Number((BigInt(itemId('x',item)) >> 22n) + 1288834974657n) < start; }
+      catch { return false; }
+    });
+  }
   if (!release && releaseResponse.status !== 404) errors.push(errorKind(releaseResponse) || 'corrupt');
   function collect(response) {
     const error = errorKind(response) || (!Array.isArray(response.data) ? 'corrupt' : null);
@@ -60,7 +75,7 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     else groups.push(response.data);
   }
   // A recent version of a duplicate item takes precedence over the archive.
-  if (release) groups.push(release.items[feed]);
+  if (release) groups.push(legacyItems(release.items[feed]));
   collect(current);
   const indexError = errorKind(index);
   if (indexError) errors.push(indexError);
@@ -72,11 +87,11 @@ export async function loadPublishedFeed(fetchImpl, feed, now = new Date(), { onI
     const days = await mapInOrder(urls, ARCHIVE_FETCH_CONCURRENCY, url => readJson(fetchImpl, url));
     days.forEach(collect);
   }
-  collect(archive);
+  collect(Array.isArray(archive.data) ? {...archive,data:legacyItems(archive.data)} : archive);
   const items = mergePublic(feed, groups);
   const cycle = release ? {
     release,
-    currentIds: release.items[feed].map(item => itemId(feed, item)),
+    currentIds: legacyItems(release.items[feed]).map(item => itemId(feed, item)),
   } : {};
   if (batch && !release) return {kind:'server',items:[],requests,message:'通知の公開分を取得できませんでした。時間をおいて再読み込みしてください。'};
   if (errors.length) {
