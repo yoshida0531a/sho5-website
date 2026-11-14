@@ -1,7 +1,7 @@
 import { itemId } from './daily-feed.js?v=20261102-timeline';
 import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js?v=20261102-timeline';
 import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261102-timeline';
-import { loadPublishedFeed } from './published-feed.js?v=20261102-timeline';
+import { loadPublishedFeed } from './published-feed.js?v=20261114-gemma';
 
 export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = new Date(), batch = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('batch') : null }) {
   const search = document.getElementById('search');
