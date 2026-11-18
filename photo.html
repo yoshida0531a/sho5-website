@@ -6,6 +6,12 @@
   <title>Sho5 Photo Gallery</title>
   <meta name="description" content="谷端将伍の写真集">
   <link rel="canonical" href="https://sho5.org/photo.html">
+  <!-- Bare /photo.html (no date) is not a standalone page: go to the date index instead. -->
+  <script>
+    if (!new URLSearchParams(window.location.search).get('date')) {
+      window.location.replace('photo-dates.html');
+    }
+  </script>
   <!-- Preconnect to image CDN for faster loading -->
   <link rel="preconnect" href="https://photo-gallery-worker.chjqnfv62h.workers.dev">
   <link rel="dns-prefetch" href="https://photo-gallery-worker.chjqnfv62h.workers.dev">
