@@ -307,3 +307,97 @@ test('explicit batch retains its selection even with AI index metadata',async()=
   const result=await loadPublishedFeed(mock.fetchImpl,'x',now,{batch:releaseId});
   assert.ok(result.items.some(x=>x.tweetUrl===yesterdayX.tweetUrl));
 });
+
+// --- Staged (fast-first) loading: normal X page only ---
+const stagedToday = { tweetUrl: 'https://x.com/fan/status/2113498023288537132', text: '今日の投稿', userName: 'fan' };
+const stagedOlder = { tweetUrl: 'https://x.com/fan/status/2112500000000000000', text: '一昨日の投稿', userName: 'fan' };
+function stagedMock({ olderGate } = {}) {
+  const routes = {
+    [`${FEED_API}/notification.json`]: { status: 404, data: { error: 'not_prepared' } },
+    'data/x-public.json': { data: [] },
+    [`${FEED_API}/x/index.json`]: { data: { version: 1, dates: ['2026-10-21', '2026-10-22', '2026-10-23'] } },
+    [`${FEED_API}/x/2026-10-23.json`]: { data: { items: [stagedToday], status: { received: 0, published: 0, rejected: 0, held: 0 } } },
+    [`${FEED_API}/x/2026-10-22.json`]: { data: { items: [yesterdayX] } },
+    [`${FEED_API}/x/2026-10-21.json`]: { data: { items: [stagedOlder] } },
+  };
+  const calls = [];
+  const fetchImpl = async url => {
+    calls.push(url);
+    assert.doesNotMatch(url, /x-data\.txt|YouTube-data\.txt|private|incremental/);
+    if (olderGate && url === `${FEED_API}/x/2026-10-21.json`) await olderGate;
+    const route = routes[url];
+    assert.ok(route, `unexpected URL ${url}`);
+    return { status: route.status || 200, text: async () => JSON.stringify(route.data) };
+  };
+  return { calls, routes, fetchImpl };
+}
+async function flushUntil(condition) {
+  for (let i = 0; i < 100 && !condition(); i++) await new Promise(resolve => setImmediate(resolve));
+  assert.ok(condition(), 'condition was not reached');
+}
+
+test('normal X calls onItems with the two most recent days before older day files resolve, then returns the full history', async () => {
+  let releaseOlder;
+  const olderGate = new Promise(resolve => { releaseOlder = resolve; });
+  const mock = stagedMock({ olderGate });
+  const stages = [];
+  let finished = false;
+  const pending = loadPublishedFeed(mock.fetchImpl, 'x', now, { onItems: (items, cycle) => stages.push({ items, cycle }) })
+    .then(result => { finished = true; return result; });
+  await flushUntil(() => stages.length === 1);
+  assert.equal(finished, false);
+  assert.deepEqual(stages[0].items.map(item => item.text), [stagedToday.text, yesterdayX.text]);
+  assert.equal(stages[0].cycle.message, '過去の投稿を読み込み中…');
+  releaseOlder();
+  const result = await pending;
+  assert.equal(result.kind, 'ready');
+  assert.equal(result.message, '');
+  assert.deepEqual(result.items.map(item => item.text), [stagedToday.text, yesterdayX.text, stagedOlder.text]);
+  // Stage-1 day files are reused in stage 2, not refetched.
+  assert.equal(mock.calls.filter(url => url === `${FEED_API}/x/2026-10-23.json`).length, 1);
+  assert.equal(mock.calls.filter(url => url === `${FEED_API}/x/2026-10-22.json`).length, 1);
+  assert.ok(result.requests.includes(`${FEED_API}/x/2026-10-21.json`));
+});
+
+test('normal X page shows the past-loading message after the first paint and clears it when the full load completes', async () => {
+  let releaseOlder;
+  const olderGate = new Promise(resolve => { releaseOlder = resolve; });
+  const mock = stagedMock({ olderGate });
+  const { doc, nodes } = pageDocument('x');
+  const pending = mountPublishedFeed({ document: doc, feed: 'x', fetchImpl: mock.fetchImpl, now });
+  await flushUntil(() => visibleTexts(nodes.get('tweet-container')).includes(stagedToday.text));
+  assert.match(visibleTexts(nodes.get('tweet-container')), /昨日の新しい本文/);
+  assert.equal(nodes.get('feed-message').textContent, '過去の投稿を読み込み中…');
+  releaseOlder();
+  await pending;
+  assert.equal(nodes.get('feed-message').textContent, '');
+});
+
+test('staged normal X still applies the Gemma legacy filter to archive and release items', async () => {
+  const postStart = { ...yesterdayX, text: 'STAGED MUST NOT LEAK' };
+  const approved = { ...yesterdayX, tweetUrl: stagedToday.tweetUrl, text: 'STAGED APPROVED' };
+  const mock = withRelease(routesFor('x', { archive: [oldX, postStart], today: [approved] }), 'x', [postStart]);
+  mock.routes[`${FEED_API}/x/index.json`].data.selection = { kind: 'gemma-x-v1', startAt: '2026-10-20T00:00:00Z' };
+  const stages = [];
+  const result = await loadPublishedFeed(mock.fetchImpl, 'x', now, { onItems: (items, cycle) => stages.push({ items, cycle }) });
+  assert.equal(stages.length, 1);
+  assert.deepEqual(stages[0].items.map(item => item.text), ['STAGED APPROVED']);
+  assert.equal(stages[0].cycle.message, '過去の投稿を読み込み中…');
+  assert.deepEqual(result.items.map(item => item.text), ['STAGED APPROVED', oldX.text]);
+  assert.doesNotMatch(JSON.stringify(result.items), /MUST NOT LEAK/);
+  assert.equal(result.currentIds.length, 0);
+});
+
+test('staged loading leaves YouTube and pinned batch paths on the original single-pass behaviour', async () => {
+  const ytMock = routesFor('youtube', { archive: [video] });
+  const ytCycles = [];
+  const ytResult = await loadPublishedFeed(ytMock.fetchImpl, 'youtube', now, { onItems: (items, cycle) => ytCycles.push(cycle || {}) });
+  assert.deepEqual(ytResult.items, [video]);
+  assert.ok(ytCycles.every(cycle => cycle.message !== '過去の投稿を読み込み中…'));
+
+  const batchMock = withRelease(routesFor('x', { archive: [oldX], today: [yesterdayX] }), 'x', [oldX], releaseId);
+  const batchCycles = [];
+  const batchResult = await loadPublishedFeed(batchMock.fetchImpl, 'x', now, { batch: releaseId, onItems: (items, cycle) => batchCycles.push(cycle || {}) });
+  assert.deepEqual(batchResult.currentIds, [oldX.tweetUrl.split('/').at(-1)]);
+  assert.ok(batchCycles.every(cycle => cycle.message !== '過去の投稿を読み込み中…'));
+});
