@@ -1,7 +1,9 @@
 import { itemId } from './daily-feed.js?v=20261102-timeline';
 import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js?v=20261102-timeline';
 import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261102-timeline';
-import { loadPublishedFeed } from './published-feed.js?v=20261118-fastx';
+import { loadPublishedFeed } from './published-feed.js?v=20261118-fastx2';
+
+const PAST_LOADING_MESSAGE = '過去の投稿を読み込み中…';
 
 export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = new Date(), batch = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('batch') : null }) {
   const search = document.getElementById('search');
@@ -12,6 +14,10 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
   let currentIds = null;
   let weeksToShow = 0;
   let statusMessage = '読み込み中…';
+  // True only while the normal X page's staged background load is running.
+  // The past-posts button stays available then, but the loading note is
+  // shown only once the reader actually asks for older posts.
+  let pastLoading = false;
 
   function updateMessage(visible) {
     message.textContent = search.value.trim() && records.length && !visible
@@ -58,7 +64,7 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
     }
     const result = filterFeed(records, { searchQuery: search.value, weeksToShow, mostRecentDate: records[0]?.date || now });
     records.forEach((record, index) => { record.node.style.display = result.visible[index] ? 'block' : 'none'; });
-    if (result.hasMore) more.classList.remove('hidden');
+    if (result.hasMore || pastLoading) more.classList.remove('hidden');
     else more.classList.add('hidden');
     updateMessage(result.visible.some(Boolean));
   }
@@ -81,16 +87,25 @@ export function mountPublishedFeed({ document, feed, fetchImpl = fetch, now = ne
   }
 
   search.addEventListener('input', updateVisibility);
-  more.addEventListener('click', () => { weeksToShow += 1; updateVisibility(); });
+  more.addEventListener('click', () => {
+    weeksToShow += 1;
+    // Asking for older posts during the staged background load is the only
+    // moment the past-loading note appears; the expansion is remembered in
+    // weeksToShow and applies when the full load completes.
+    if (pastLoading) statusMessage = PAST_LOADING_MESSAGE;
+    updateVisibility();
+  });
   more.classList.add('hidden');
   message.textContent = statusMessage;
   function applyStatus(result) {
     if (batch && result.release) {
       currentIds = new Set(result.currentIds);
     }
+    if (result.loading) pastLoading = true;
     statusMessage = result.release && result.kind === 'empty' ? '' : result.message || '';
   }
   return loadPublishedFeed(fetchImpl, feed, now, { batch, onItems: (items, cycle) => { applyStatus(cycle || {}); display(items); } }).then(result => {
+    pastLoading = false;
     applyStatus(result);
     display(result.items);
     return result;

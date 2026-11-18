@@ -8,8 +8,6 @@ function errorKind(response) {
   return null;
 }
 
-const LOADING_PAST_MESSAGE = '過去の投稿を読み込み中…';
-
 // Staged loading for the normal X page only. Stage 1 fetches the index and
 // the two most recent day files and renders them immediately (the default
 // view only ever shows the newest day plus the previous day). Stage 2 then
@@ -41,7 +39,10 @@ async function loadNormalXFeed(fetchImpl, { paths, today, release, releaseRespon
       .filter(response => Array.isArray(response.data))
       .map(response => response.data));
     // Zero staged items must not surface the final 'empty' message early.
-    if (staged.length) onItems?.(staged, { message: LOADING_PAST_MESSAGE });
+    // The stage-1 view carries no message: the caller only reveals a
+    // past-loading note if the reader asks for older posts while the
+    // background load is still running (signalled by the loading flag).
+    if (staged.length) onItems?.(staged, { message: '', loading: true });
   }
 
   // Stage 2: the full load, reusing every response stage 1 already fetched.

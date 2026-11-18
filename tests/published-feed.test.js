@@ -347,7 +347,10 @@ test('normal X calls onItems with the two most recent days before older day file
   await flushUntil(() => stages.length === 1);
   assert.equal(finished, false);
   assert.deepEqual(stages[0].items.map(item => item.text), [stagedToday.text, yesterdayX.text]);
-  assert.equal(stages[0].cycle.message, '過去の投稿を読み込み中…');
+  // The stage-1 view must not announce the background load; it only flags
+  // that loading is in progress so the page can react to a reader request.
+  assert.equal(stages[0].cycle.message, '');
+  assert.equal(stages[0].cycle.loading, true);
   releaseOlder();
   const result = await pending;
   assert.equal(result.kind, 'ready');
@@ -359,18 +362,44 @@ test('normal X calls onItems with the two most recent days before older day file
   assert.ok(result.requests.includes(`${FEED_API}/x/2026-10-21.json`));
 });
 
-test('normal X page shows the past-loading message after the first paint and clears it when the full load completes', async () => {
+test('normal X page shows no past-loading message upfront; it appears only after the past-posts button is pressed during loading', async () => {
   let releaseOlder;
   const olderGate = new Promise(resolve => { releaseOlder = resolve; });
   const mock = stagedMock({ olderGate });
-  const { doc, nodes } = pageDocument('x');
+  const { doc, nodes, hidden } = pageDocument('x');
   const pending = mountPublishedFeed({ document: doc, feed: 'x', fetchImpl: mock.fetchImpl, now });
   await flushUntil(() => visibleTexts(nodes.get('tweet-container')).includes(stagedToday.text));
   assert.match(visibleTexts(nodes.get('tweet-container')), /昨日の新しい本文/);
+  // First paint is clean: no loading note, and the older staged post is not
+  // shown yet — but the past-posts button is already available.
+  assert.equal(nodes.get('feed-message').textContent, '');
+  assert.doesNotMatch(visibleTexts(nodes.get('tweet-container')), /一昨日の投稿/);
+  assert.equal(hidden.has('hidden'), false);
+  // Only the reader's click reveals the loading note.
+  nodes.get('past-posts-btn').dispatchEvent({ type: 'click' });
   assert.equal(nodes.get('feed-message').textContent, '過去の投稿を読み込み中…');
   releaseOlder();
   await pending;
+  // Completion clears the note and honours the remembered expansion.
   assert.equal(nodes.get('feed-message').textContent, '');
+  assert.match(visibleTexts(nodes.get('tweet-container')), /一昨日の投稿/);
+});
+
+test('normal X page never shows the past-loading message when the button is not pressed during loading', async () => {
+  let releaseOlder;
+  const olderGate = new Promise(resolve => { releaseOlder = resolve; });
+  const mock = stagedMock({ olderGate });
+  const { doc, nodes, hidden } = pageDocument('x');
+  const pending = mountPublishedFeed({ document: doc, feed: 'x', fetchImpl: mock.fetchImpl, now });
+  await flushUntil(() => visibleTexts(nodes.get('tweet-container')).includes(stagedToday.text));
+  assert.equal(nodes.get('feed-message').textContent, '');
+  releaseOlder();
+  await pending;
+  assert.equal(nodes.get('feed-message').textContent, '');
+  // After completion the button follows the normal hasMore rule again:
+  // the full history contains an older post, so it stays available.
+  assert.equal(hidden.has('hidden'), false);
+  assert.doesNotMatch(visibleTexts(nodes.get('tweet-container')), /一昨日の投稿/);
 });
 
 test('staged normal X still applies the Gemma legacy filter to archive and release items', async () => {
@@ -382,7 +411,8 @@ test('staged normal X still applies the Gemma legacy filter to archive and relea
   const result = await loadPublishedFeed(mock.fetchImpl, 'x', now, { onItems: (items, cycle) => stages.push({ items, cycle }) });
   assert.equal(stages.length, 1);
   assert.deepEqual(stages[0].items.map(item => item.text), ['STAGED APPROVED']);
-  assert.equal(stages[0].cycle.message, '過去の投稿を読み込み中…');
+  assert.equal(stages[0].cycle.message, '');
+  assert.equal(stages[0].cycle.loading, true);
   assert.deepEqual(result.items.map(item => item.text), ['STAGED APPROVED', oldX.text]);
   assert.doesNotMatch(JSON.stringify(result.items), /MUST NOT LEAK/);
   assert.equal(result.currentIds.length, 0);
@@ -394,10 +424,12 @@ test('staged loading leaves YouTube and pinned batch paths on the original singl
   const ytResult = await loadPublishedFeed(ytMock.fetchImpl, 'youtube', now, { onItems: (items, cycle) => ytCycles.push(cycle || {}) });
   assert.deepEqual(ytResult.items, [video]);
   assert.ok(ytCycles.every(cycle => cycle.message !== '過去の投稿を読み込み中…'));
+  assert.ok(ytCycles.every(cycle => !cycle.loading));
 
   const batchMock = withRelease(routesFor('x', { archive: [oldX], today: [yesterdayX] }), 'x', [oldX], releaseId);
   const batchCycles = [];
   const batchResult = await loadPublishedFeed(batchMock.fetchImpl, 'x', now, { batch: releaseId, onItems: (items, cycle) => batchCycles.push(cycle || {}) });
   assert.deepEqual(batchResult.currentIds, [oldX.tweetUrl.split('/').at(-1)]);
   assert.ok(batchCycles.every(cycle => cycle.message !== '過去の投稿を読み込み中…'));
+  assert.ok(batchCycles.every(cycle => !cycle.loading));
 });
