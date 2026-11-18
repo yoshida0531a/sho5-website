@@ -402,6 +402,61 @@ test('normal X page never shows the past-loading message when the button is not 
   assert.doesNotMatch(visibleTexts(nodes.get('tweet-container')), /一昨日の投稿/);
 });
 
+test('normal X with genuinely empty recent days announces no recent posts at stage 1, then stage 2 delivers older posts', async () => {
+  let releaseOlder;
+  const olderGate = new Promise(resolve => { releaseOlder = resolve; });
+  const mock = stagedMock({ olderGate });
+  mock.routes[`${FEED_API}/x/2026-10-23.json`].data = { items: [], status: { received: 0, published: 0, rejected: 0, held: 0 } };
+  mock.routes[`${FEED_API}/x/2026-10-22.json`].data = { items: [] };
+  const stages = [];
+  let finished = false;
+  const pending = loadPublishedFeed(mock.fetchImpl, 'x', now, { onItems: (items, cycle) => stages.push({ items, cycle }) })
+    .then(result => { finished = true; return result; });
+  await flushUntil(() => stages.length === 1);
+  assert.equal(finished, false);
+  // Stage 1 succeeded and found nothing recent: say so immediately, while
+  // keeping the loading flag so the past-posts button stays available.
+  assert.deepEqual(stages[0].items, []);
+  assert.equal(stages[0].cycle.message, '直近の投稿はありませんでした。');
+  assert.equal(stages[0].cycle.loading, true);
+  releaseOlder();
+  const result = await pending;
+  // The final result replaces the interim message and carries the full history.
+  assert.equal(result.kind, 'ready');
+  assert.equal(result.message, '');
+  assert.deepEqual(result.items.map(item => item.text), [stagedOlder.text]);
+});
+
+test('normal X page shows the no-recent-posts message at first paint and clears it when older posts arrive', async () => {
+  let releaseOlder;
+  const olderGate = new Promise(resolve => { releaseOlder = resolve; });
+  const mock = stagedMock({ olderGate });
+  mock.routes[`${FEED_API}/x/2026-10-23.json`].data = { items: [], status: { received: 0, published: 0, rejected: 0, held: 0 } };
+  mock.routes[`${FEED_API}/x/2026-10-22.json`].data = { items: [] };
+  const { doc, nodes } = pageDocument('x');
+  const pending = mountPublishedFeed({ document: doc, feed: 'x', fetchImpl: mock.fetchImpl, now });
+  await flushUntil(() => nodes.get('feed-message').textContent === '直近の投稿はありませんでした。');
+  assert.equal(visibleTexts(nodes.get('tweet-container')), '');
+  releaseOlder();
+  await pending;
+  assert.equal(nodes.get('feed-message').textContent, '');
+  assert.match(visibleTexts(nodes.get('tweet-container')), /一昨日の投稿/);
+});
+
+test('normal X does not announce no recent posts when a stage-1 day fetch failed', async () => {
+  const mock = stagedMock({});
+  mock.routes[`${FEED_API}/x/2026-10-23.json`] = { status: 503, data: { error: 'unavailable' } };
+  mock.routes[`${FEED_API}/x/2026-10-22.json`].data = { items: [] };
+  const stages = [];
+  const result = await loadPublishedFeed(mock.fetchImpl, 'x', now, { onItems: (items, cycle) => stages.push({ items, cycle }) });
+  // A failure is not 'no posts': stage 1 stays silent and stage 2 reports
+  // the partial failure with the posts it could still load.
+  assert.deepEqual(stages, []);
+  assert.equal(result.kind, 'partial');
+  assert.deepEqual(result.items.map(item => item.text), [stagedOlder.text]);
+  assert.doesNotMatch(result.message, /直近の投稿はありませんでした/);
+});
+
 test('staged normal X still applies the Gemma legacy filter to archive and release items', async () => {
   const postStart = { ...yesterdayX, text: 'STAGED MUST NOT LEAK' };
   const approved = { ...yesterdayX, tweetUrl: stagedToday.tweetUrl, text: 'STAGED APPROVED' };

@@ -1,7 +1,7 @@
 import { itemId } from './daily-feed.js?v=20261102-timeline';
 import { filterFeed, formatJaDate, formatVideoDate, parseCustomDate, snowflakeToDate, sortNewest, videoMatches } from './feed-behavior.js?v=20261102-timeline';
 import { renderTweet, renderVideo, renderBlueskyPost } from './feed-render.js?v=20261102-timeline';
-import { loadPublishedFeed } from './published-feed.js?v=20261118-fastx2';
+import { loadPublishedFeed } from './published-feed.js?v=20261118-fastx3';
 
 const PAST_LOADING_MESSAGE = '過去の投稿を読み込み中…';
 

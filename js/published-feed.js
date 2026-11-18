@@ -34,15 +34,24 @@ async function loadNormalXFeed(fetchImpl, { paths, today, release, releaseRespon
     recentDates.sort().reverse();
     const fetched = await Promise.all(recentDates.map(day => readJson(fetchImpl, paths.day(day))));
     recentDates.forEach((day, i) => dayResponses.set(day, fetched[i]));
-    const staged = mergePublic(feed, recentDates
-      .map(day => dayResponses.get(day))
+    const stagedResponses = recentDates.map(day => dayResponses.get(day));
+    const staged = mergePublic(feed, stagedResponses
       .filter(response => Array.isArray(response.data))
       .map(response => response.data));
-    // Zero staged items must not surface the final 'empty' message early.
-    // The stage-1 view carries no message: the caller only reveals a
-    // past-loading note if the reader asks for older posts while the
-    // background load is still running (signalled by the loading flag).
-    if (staged.length) onItems?.(staged, { message: '', loading: true });
+    if (staged.length) {
+      // The stage-1 view carries no message: the caller only reveals a
+      // past-loading note if the reader asks for older posts while the
+      // background load is still running (signalled by the loading flag).
+      onItems?.(staged, { message: '', loading: true });
+    } else if (stagedResponses.every(response => !errorKind(response) && Array.isArray(response.data))) {
+      // A genuine zero: every stage-1 fetch succeeded and the recent days
+      // simply hold no posts. Say so right away instead of leaving the
+      // generic loading text up; stage 2 still replaces this view with the
+      // full history (and its final message) when it completes. A failed
+      // fetch is NOT 'no posts', so error responses stay silent here and
+      // stage 2 reproduces the original error semantics.
+      onItems?.([], { message: '直近の投稿はありませんでした。', loading: true });
+    }
   }
 
   // Stage 2: the full load, reusing every response stage 1 already fetched.
