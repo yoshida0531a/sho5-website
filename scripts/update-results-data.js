@@ -1,4 +1,5 @@
-import { writeFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 
 const SOURCE_URL = 'https://baseball.yahoo.co.jp/npb/player/2118999/top';
 const OUTPUT_PATH = new URL('../data/results.json', import.meta.url);
@@ -43,7 +44,25 @@ function rows(tableHtml) {
   return Array.from(tableHtml.matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi), match => match[1]);
 }
 
-function extractFarmSummary(html) {
+const INTEGER_PATTERN = /^\d+$/;
+const RATE_PATTERN = /^(\d+\.\d{3}|\.\d{3})$/;
+
+function assertIntegerField(raw, key) {
+  if (!(key in raw)) throw new Error(`ファーム成績に必須列「${key}」がありません`);
+  if (!INTEGER_PATTERN.test(raw[key])) {
+    throw new Error(`ファーム成績の「${key}」が整数ではありません: ${raw[key]}`);
+  }
+}
+
+function assertRateField(raw, key, gamesPlayed) {
+  if (!(key in raw)) throw new Error(`ファーム成績に必須列「${key}」がありません`);
+  if (RATE_PATTERN.test(raw[key])) return;
+  // 試合数が 0 のときだけ、率の「--」（記録なし）を許す。
+  if (raw[key] === '--' && gamesPlayed === 0) return;
+  throw new Error(`ファーム成績の「${key}」が率の形式ではありません: ${raw[key]}`);
+}
+
+export function extractFarmSummary(html) {
   const farmSection = matchOne(
     html,
     /<section\b[^>]*>[\s\S]*?<h3[^>]*>\s*ファームの成績\s*<\/h3>([\s\S]*?)<\/section>/,
@@ -61,13 +80,27 @@ function extractFarmSummary(html) {
   const mergeRow = (headerRow, dataRow) => {
     const headers = cells(headerRow, 'th');
     const values = cells(dataRow, 'td');
+    if (headers.length === 0 || headers.length !== values.length) {
+      throw new Error(
+        `ファーム成績テーブルの列数が一致しません (見出し ${headers.length} / 値 ${values.length})`,
+      );
+    }
     headers.forEach((header, index) => {
-      raw[header] = values[index] || '--';
+      raw[header] = values[index];
     });
   };
 
   mergeRow(tableRows[0], tableRows[1]);
   mergeRow(tableRows[2], tableRows[3]);
+
+  // 必須列と値の形式を検証する。欠落・異常値のまま公開データにしない。
+  for (const key of ['試合', '打数', '安打', '二塁打', '三塁打', '本塁打', '打点', '四球', '盗塁']) {
+    assertIntegerField(raw, key);
+  }
+  const gamesPlayed = Number.parseInt(raw['試合'], 10);
+  for (const key of ['打率', '出塁率', '得点圏']) {
+    assertRateField(raw, key, gamesPlayed);
+  }
 
   const longHits = ['二塁打', '三塁打', '本塁打']
     .reduce((sum, key) => sum + (Number.parseInt(raw[key], 10) || 0), 0);
@@ -75,32 +108,45 @@ function extractFarmSummary(html) {
   return {
     raw,
     display: [
-      { label: '打率', value: raw['打率'] || '--' },
-      { label: '安打数', value: raw['安打'] || '--' },
-      { label: '打点', value: raw['打点'] || '--' },
+      { label: '打率', value: raw['打率'] },
+      { label: '安打数', value: raw['安打'] },
+      { label: '打点', value: raw['打点'] },
       { label: '長打', value: String(longHits) },
-      { label: '四球', value: raw['四球'] || '--' },
-      { label: '盗塁', value: raw['盗塁'] || '--' },
-      { label: '出塁率', value: raw['出塁率'] || '--' },
-      { label: '得点圏', value: raw['得点圏'] || '--' },
+      { label: '四球', value: raw['四球'] },
+      { label: '盗塁', value: raw['盗塁'] },
+      { label: '出塁率', value: raw['出塁率'] },
+      { label: '得点圏', value: raw['得点圏'] },
     ],
   };
 }
 
-function extractRecentGames(html) {
+const GAME_NUMERIC_INDEXES = [2, 3, 4, 5, 6, 7, 8, 9];
+
+export function extractRecentGames(html) {
   const table = matchOne(
     html,
     /<table\b[^>]*id="game_b"[^>]*>([\s\S]*?)<\/table>/,
     '最近6試合テーブル',
   );
 
-  return rows(table).slice(1).map(rowHtml => {
+  const games = [];
+  for (const rowHtml of rows(table).slice(1)) {
     const values = cells(rowHtml, 'td');
+    // 「試合記録なし」等の単独セル行は試合データではないので空として扱う。
+    if (values.length === 1 && /記録なし|ありません/.test(values[0])) continue;
+    if (values.length < 11) {
+      throw new Error(`最近の試合テーブルの列数が不足しています (${values.length})`);
+    }
+    for (const index of GAME_NUMERIC_INDEXES) {
+      if (values[index] !== '--' && !INTEGER_PATTERN.test(values[index])) {
+        throw new Error(`最近の試合の数値列が整数ではありません: ${values[index]}`);
+      }
+    }
     const href = rowHtml.match(/<a\b[^>]*href="([^"]+)"/)?.[1] || '';
     const gameUrl = href.startsWith('http') ? href : `https://baseball.yahoo.co.jp${href}`;
     const kind = rowHtml.match(/<span\b[^>]*bb-table__gameKind[^>]*>([\s\S]*?)<\/span>/)?.[1];
 
-    return {
+    games.push({
       date: values[0]?.replace(textContent(kind || ''), '').trim() || '--',
       gameKind: kind ? textContent(kind) : '',
       opponent: values[1] || '--',
@@ -114,8 +160,17 @@ function extractRecentGames(html) {
       hitByPitch: values[9] || '--',
       battingResults: values[10] || '--',
       gameUrl,
-    };
-  });
+    });
+  }
+  return games;
+}
+
+export function reuseTimestampsIfUnchanged(previous, next) {
+  if (!previous) return next;
+  const sameContent = JSON.stringify(previous.farmSummary) === JSON.stringify(next.farmSummary)
+    && JSON.stringify(previous.recentGames) === JSON.stringify(next.recentGames);
+  if (!sameContent) return next;
+  return { ...next, fetchedAt: previous.fetchedAt, lastUpdated: previous.lastUpdated };
 }
 
 async function main() {
@@ -128,7 +183,7 @@ async function main() {
 
   const html = await response.text();
   const now = new Date();
-  const data = {
+  let data = {
     sourceUrl: SOURCE_URL,
     fetchedAt: now.toISOString(),
     lastUpdated: now.toLocaleDateString('ja-JP', {
@@ -141,11 +196,21 @@ async function main() {
     recentGames: extractRecentGames(html),
   };
 
+  // 内容が前回と同じなら日時を前回のままにし、無意味なコミットを発生させない。
+  try {
+    const previous = JSON.parse(await readFile(OUTPUT_PATH, 'utf8'));
+    data = reuseTimestampsIfUnchanged(previous, data);
+  } catch {
+    // 前回データが読めない場合は今回の日時で新規作成する。
+  }
+
   await writeFile(OUTPUT_PATH, `${JSON.stringify(data, null, 2)}\n`);
   console.log(`Updated ${OUTPUT_PATH.pathname}`);
 }
 
-main().catch(error => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
+  main().catch(error => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
