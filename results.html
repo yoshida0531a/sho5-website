@@ -160,9 +160,18 @@
 
     function renderFarmStats(items) {
       const el = document.getElementById('farm-summary');
-      el.innerHTML = items.map(item =>
-        `<div class="stat-item"><div class="stat-label">${item.label}</div><div class="stat-value">${item.value}</div></div>`
-      ).join('');
+      el.replaceChildren(...items.map(item => {
+        const wrap = document.createElement('div');
+        wrap.className = 'stat-item';
+        const label = document.createElement('div');
+        label.className = 'stat-label';
+        label.textContent = item.label;
+        const value = document.createElement('div');
+        value.className = 'stat-value';
+        value.textContent = item.value;
+        wrap.append(label, value);
+        return wrap;
+      }));
     }
 
     async function loadData() {
