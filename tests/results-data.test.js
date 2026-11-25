@@ -99,7 +99,8 @@ function zonePage() {
     index === 8 ? zoneCell(28, 5, '.179', 1, 4) : EMPTY_ZONE_CELL).join(' ');
   return '<html><body>' +
     '<h3>ゾーン別データ</h3><div>' + splitPanel + '</div>' +
-    '<div>対左投手 対右投手 合計</div><div>' + aggregatePanel + '</div>' +
+    '<div>対左投手 対右投手</div><div>' + aggregatePanel + '</div>' +
+    '<div>合計 打数 - 安打 打率 本塁打 三振</div>' +
     '<h3>打球方向データ</h3></body></html>';
 }
 
