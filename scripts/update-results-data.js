@@ -2,6 +2,8 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
 const SOURCE_URL = 'https://baseball.yahoo.co.jp/npb/player/2118999/top';
+const ZONE_SOURCE_URL = 'https://baseball.yahoo.co.jp/npb/player/2118999/stadium';
+const ZONE_NAMES = ['高め内角', '高め中', '高め外角', '中内角', '中', '中外角', '低め内角', '低め中', '低め外角'];
 const OUTPUT_PATH = new URL('../data/results.json', import.meta.url);
 
 const entityMap = {
@@ -165,12 +167,110 @@ export function extractRecentGames(html) {
   return games;
 }
 
+
+export function extractFirstTeamZoneHeatmap(html) {
+  const section = html.match(
+    /<(h[1-6])\b[^>]*>\s*ゾーン別データ\s*<\/\1>([\s\S]*?)<(h[1-6])\b[^>]*>\s*打球方向データ\s*<\/\3>/i,
+  );
+  if (!section) throw new Error('スポーツナビのゾーン別データ欄が見つかりません');
+
+  // Sportsnavi renders a split-by-pitcher-hand panel and a separate aggregate panel.
+  // The aggregate panel is the final nine cells in the section.
+  const plain = textContent(section[2]);
+  const pattern = /(\d+|-+)\s*[-–−－]\s*(\d+|-+)\s+(-+|\.\d{3}|0\.\d{3})\s+HR\s*(\d+|-+)\s*K\s*(\d+|-+)/gi;
+  const matches = Array.from(plain.matchAll(pattern));
+
+  if (matches.length < 9 || matches.length % 9 !== 0) {
+    throw new Error('ゾーン別データを9区画単位で解析できません: ' + matches.length + '区画');
+  }
+
+  const totalCells = matches.slice(-9);
+  const toCount = value => value.startsWith('-') ? null : Number.parseInt(value, 10);
+  const toAverage = value => {
+    if (value.startsWith('-')) return null;
+    return value.startsWith('0.') ? value.slice(1) : value;
+  };
+
+  return totalCells.map((match, index) => ({
+    zone: ZONE_NAMES[index],
+    atBats: toCount(match[1]),
+    hits: toCount(match[2]),
+    average: toAverage(match[3]),
+    homeRuns: toCount(match[4]),
+    strikeouts: toCount(match[5]),
+  }));
+}
+
+async function fetchFirstTeamZoneHeatmaps(previous, fetchedAt) {
+  try {
+    const response = await fetch(ZONE_SOURCE_URL, {
+      headers: {
+        'user-agent': 'Mozilla/5.0 (compatible; sho5-website-results-updater/1.0)',
+      },
+    });
+    if (!response.ok) throw new Error('Sportsnavi zone page returned HTTP ' + response.status);
+
+    const zones = extractFirstTeamZoneHeatmap(await response.text());
+    return {
+      firstTeam: {
+        status: 'available',
+        sourceUrl: ZONE_SOURCE_URL,
+        fetchedAt,
+        zones,
+      },
+      farm: {
+        status: 'not_provided',
+        note: 'Sportsnavi publishes this batting-zone data for first-team games; farm zone data is not provided.',
+      },
+      combined: {
+        status: 'not_available',
+        note: 'A combined heatmap requires farm zone data as well.',
+      },
+    };
+  } catch (error) {
+    console.warn(
+      'Sportsnavi zone data could not be refreshed; retaining the previous heatmap when available.',
+      error?.message || error,
+    );
+    return previous || {
+      firstTeam: {
+        status: 'unavailable',
+        sourceUrl: ZONE_SOURCE_URL,
+        fetchedAt: null,
+        zones: [],
+      },
+      farm: {
+        status: 'not_provided',
+        note: 'Sportsnavi does not provide farm batting-zone data.',
+      },
+      combined: {
+        status: 'not_available',
+        note: 'A combined heatmap requires farm zone data as well.',
+      },
+    };
+  }
+}
+
 export function reuseTimestampsIfUnchanged(previous, next) {
   if (!previous) return next;
   const sameContent = JSON.stringify(previous.farmSummary) === JSON.stringify(next.farmSummary)
     && JSON.stringify(previous.recentGames) === JSON.stringify(next.recentGames);
-  if (!sameContent) return next;
-  return { ...next, fetchedAt: previous.fetchedAt, lastUpdated: previous.lastUpdated };
+  const zoneFingerprint = value => JSON.stringify(value ? {
+    firstTeam: {
+      status: value.firstTeam?.status ?? null,
+      zones: value.firstTeam?.zones ?? null,
+    },
+    farm: value.farm ?? null,
+    combined: value.combined ?? null,
+  } : null);
+  const sameZones = zoneFingerprint(previous.zoneHeatmaps) === zoneFingerprint(next.zoneHeatmaps);
+  if (!sameContent || !sameZones) return next;
+  return {
+    ...next,
+    fetchedAt: previous.fetchedAt,
+    lastUpdated: previous.lastUpdated,
+    zoneHeatmaps: previous.zoneHeatmaps ?? next.zoneHeatmaps,
+  };
 }
 
 async function main() {
@@ -179,35 +279,43 @@ async function main() {
       'user-agent': 'Mozilla/5.0 (compatible; sho5-website-results-updater/1.0)',
     },
   });
-  if (!response.ok) throw new Error(`Yahooページの取得に失敗しました: ${response.status}`);
+  if (!response.ok) throw new Error('Yahooページの取得に失敗しました: ' + response.status);
 
   const html = await response.text();
   const now = new Date();
+  const fetchedAt = now.toISOString();
+  const lastUpdated = now.toLocaleDateString('ja-JP', {
+    timeZone: 'Asia/Tokyo',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).replaceAll('/', '-');
+
+  let previous = null;
+  try {
+    previous = JSON.parse(await readFile(OUTPUT_PATH, 'utf8'));
+  } catch {
+    // 新規作成、または前回データが読めない場合は今回取得分から作る。
+  }
+
+  // ゾーン別データは別ページから取得する。失敗してもファーム成績・直近試合の更新を止めない。
+  const zoneHeatmaps = await fetchFirstTeamZoneHeatmaps(previous?.zoneHeatmaps, fetchedAt);
   let data = {
     sourceUrl: SOURCE_URL,
-    fetchedAt: now.toISOString(),
-    lastUpdated: now.toLocaleDateString('ja-JP', {
-      timeZone: 'Asia/Tokyo',
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit',
-    }).replaceAll('/', '-'),
+    zoneSourceUrl: ZONE_SOURCE_URL,
+    fetchedAt,
+    lastUpdated,
     farmSummary: extractFarmSummary(html),
     recentGames: extractRecentGames(html),
+    zoneHeatmaps,
   };
 
   // 内容が前回と同じなら日時を前回のままにし、無意味なコミットを発生させない。
-  try {
-    const previous = JSON.parse(await readFile(OUTPUT_PATH, 'utf8'));
-    data = reuseTimestampsIfUnchanged(previous, data);
-  } catch {
-    // 前回データが読めない場合は今回の日時で新規作成する。
-  }
+  data = reuseTimestampsIfUnchanged(previous, data);
 
-  await writeFile(OUTPUT_PATH, `${JSON.stringify(data, null, 2)}\n`);
-  console.log(`Updated ${OUTPUT_PATH.pathname}`);
+  await writeFile(OUTPUT_PATH, JSON.stringify(data, null, 2) + '\n');
+  console.log('Updated ' + OUTPUT_PATH.pathname);
 }
-
 if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
   main().catch(error => {
     console.error(error);
