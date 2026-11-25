@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 import {
   extractFarmSummary,
+  extractFirstTeamZoneHeatmap,
   extractRecentGames,
   reuseTimestampsIfUnchanged,
 } from '../scripts/update-results-data.js';
@@ -81,4 +82,44 @@ test('内容が同じなら fetchedAt と lastUpdated を前回のままにす�
     farmSummary: { display: [{ label: '打率', value: '.300' }] },
   });
   assert.equal(changed.fetchedAt, next.fetchedAt);
+});
+
+
+const ZONE_NAMES_FOR_TEST = ['高め内角', '高め中', '高め外角', '中内角', '中', '中外角', '低め内角', '低め中', '低め外角'];
+const EMPTY_ZONE_CELL = '- - - - HR- K-';
+
+function zoneCell(ab, hits, average, homeRuns, strikeouts) {
+  return [ab, '-', hits, average, 'HR', homeRuns, 'K', strikeouts].join(' ');
+}
+
+function zonePage() {
+  const splitPanel = ZONE_NAMES_FOR_TEST.map((_, index) =>
+    zoneCell(10 + index, 1, '.100', 0, 1)).join(' ');
+  const aggregatePanel = ZONE_NAMES_FOR_TEST.map((_, index) =>
+    index === 8 ? zoneCell(28, 5, '.179', 1, 4) : EMPTY_ZONE_CELL).join(' ');
+  return '<html><body>' +
+    '<h3>ゾーン別データ</h3><div>' + splitPanel + '</div>' +
+    '<div>対左投手 対右投手</div><div>' + aggregatePanel + '</div>' +
+    '<div>合計 打数 - 安打 打率 本塁打 三振</div>' +
+    '<h3>打球方向データ</h3></body></html>';
+}
+
+test('Sportsnavi zone parser uses the aggregate nine-zone panel', () => {
+  const zones = extractFirstTeamZoneHeatmap(zonePage());
+  assert.equal(zones.length, 9);
+  assert.equal(zones[0].zone, '高め内角');
+  assert.equal(zones[0].atBats, null);
+  assert.equal(zones[0].hits, null);
+  assert.equal(zones[0].average, null);
+  assert.equal(zones[8].zone, '低め外角');
+  assert.equal(zones[8].atBats, 28);
+  assert.equal(zones[8].hits, 5);
+  assert.equal(zones[8].average, '.179');
+  assert.equal(zones[8].homeRuns, 1);
+  assert.equal(zones[8].strikeouts, 4);
+});
+
+test('Sportsnavi zone parser rejects missing or malformed data instead of creating zero-filled cells', () => {
+  const missing = '<h3>ゾーン別データ</h3><div>データ配信後に更新されます</div><h3>打球方向データ</h3>';
+  assert.throws(() => extractFirstTeamZoneHeatmap(missing), /9区画単位/);
 });
