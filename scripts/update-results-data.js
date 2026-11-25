@@ -184,6 +184,15 @@ export function extractFirstTeamZoneHeatmap(html) {
     throw new Error('ゾーン別データを9区画単位で解析できません: ' + matches.length + '区画');
   }
 
+  // 「合計」のパネル名が取得できないページ構造では、左右別データを
+  // 合算データと誤認しないように更新を拒否する。
+  const totalLabelIndex = plain.lastIndexOf('合計');
+  const lastCell = matches[matches.length - 1];
+  const lastCellEnd = lastCell.index + lastCell[0].length;
+  if (totalLabelIndex < lastCellEnd) {
+    throw new Error('合計パネルを確認できません');
+  }
+
   const totalCells = matches.slice(-9);
   const toCount = value => value.startsWith('-') ? null : Number.parseInt(value, 10);
   const toAverage = value => {
